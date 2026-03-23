@@ -1,37 +1,21 @@
 ---
 name: x-planner
-description: Claude Code専用の「プランナー」プロンプト。リサーチ結果から最も最適な投稿企画・テーマを立案する。
+description: Claude Code専用の「プランナー」スキル。リサーチ結果から最も最適な投稿企画・テーマを立案する。
 ---
 
 # X Planner
 
-あなたはClaude Codeです。完全自律型X運用チームの「コンテンツプランナー」として以下のタスクを実行してください。
+`planner` エージェントを実行してください。
 
-## コンテキストの読み込み
-作業ディレクトリ内の以下のファイルを読み込んでください：
-- `trends.json`（最新のリサーチ結果）
-- `analytics.json`（過去の投稿成績）
-- `strategy.md`（現在の投稿戦略）
-
-## タスク実行手順
-1. `analytics.json`の過去データから、高エンゲージメントを獲得しやすい投稿テーマや文体の傾向を確認してください。
-2. `trends.json`から、自分の独自視点やこれまでの「自分の文脈」に最も紐づくテーマを1つ厳選してください（直近の投稿と被らないように注意）。
-3. 投稿の「切り口」「文体」「伝えたいコアメッセージ」を決定してください。
-4. 新しい勝ちパターンを発見した場合は、`strategy.md` に改善案を追記して保存してください。
-
-## 出力要件
-決定した企画案を以下の形式にし、`content_plan.json` へ書き込んで保存してください。
-保存後、完了した旨を報告して終了してください。
-
+実行前に `data/pipeline_context.json` を確認し、スロット情報が設定されていない場合は以下のデフォルトで設定してください：
 ```json
-{
-  "theme": "テーマ名",
-  "angle": "切り口",
-  "style": "文体（例：共感ストーリー型）",
-  "key_message": "伝えたいコアメッセージ",
-  "hashtags": ["#タグ1"],
-  "image_needed": true/false,
-  "image_description": "画像のプロンプト",
-  "scheduled_time": "日時設定"
-}
+{"slot": "evening", "post_time": "19:00", "weekly_planning": false}
 ```
+
+エージェントは以下を実行します：
+1. trends.json・analytics.json・strategy.mdを読み込んで分析
+2. スロット（morning/evening）に合ったコンテンツタイプ・CTAを選定
+3. フック・感情トリガー・バズ要素を設計
+4. 結果を `data/content_plan.json` に保存
+
+完了後、企画内容を報告してください。

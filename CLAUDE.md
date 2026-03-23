@@ -1,0 +1,88 @@
+# X Automation System
+
+## 概要
+Xアカウントを完全自律運用するマルチエージェントシステム。9つの専門エージェントが連携し、**朝8:00・夕19:00の2投稿**を毎日自動生成・公開する。
+
+## パイプライン構成
+
+```
+[毎朝7:00 n8n起動]
+  ↓
+Researcher → data/trends.json           （Web検索・競合分析）
+  ↓
+Planner[morning] → data/content_plan.json  （朝スロット企画）
+  ↓
+Writer → data/draft.json               （500文字以上の下書き）
+  ↓
+Editor → data/approved_post.json       （11点品質チェック）
+  ↓
+Webhook → n8n → X投稿（8:00）
+
+  ↓（同日、夕スロット繰り返し）
+Planner[evening] → Writer → Editor → Webhook（19:00）
+
+[毎日12:00 n8n起動]
+  ↓
+CommunityManager[proactive] → n8n → 自動リプライ
+```
+
+## 手動実行コマンド
+| やりたいこと | コマンド |
+|---|---|
+| 初回セットアップ | `/x-setup` |
+| リサーチャー単体 | `/x-researcher` |
+| プランナー単体 | `/x-planner` |
+| ライター単体 | `/x-writer` |
+| エディター単体 | `/x-editor` |
+| アナリスト実行 | `/x-analyst` |
+| コミュニティ管理 | `/x-community-manager` |
+| 画像プロンプト生成 | `/x-creative` |
+| 文体ガイド更新 | `/writing-style-clone` |
+| ストーリー投稿作成 | `/storytelling-writer` |
+| 朝パイプライン手動実行 | `bash scripts/pipeline_morning.sh` |
+| リプライパイプライン手動実行 | `bash scripts/pipeline_reply.sh` |
+| 分析パイプライン実行 | `bash scripts/pipeline_analysis.sh` |
+
+## 主要データファイル（agents が読み書きする）
+
+| ファイル | 役割 | 更新者 |
+|---|---|---|
+| `data/persona.md` | アカウントペルソナ・競合・検索キーワード | x-setup / 手動 |
+| `data/style_guide.md` | 文体ルール・禁止表現 | style_cloner |
+| `data/strategy.md` | 投稿戦略・インサイト | analyst |
+| `data/pipeline_context.json` | 実行スロット情報（morning/evening） | pipeline_morning.sh |
+| `data/trends.json` | 当日リサーチ結果 | researcher |
+| `data/weekly_plan.json` | 週次テーマカレンダー | planner（月曜のみ） |
+| `data/content_plan.json` | 当日コンテンツ企画 | planner |
+| `data/draft.json` | ライター下書き | writer / storytelling |
+| `data/approved_post.json` | 承認済み最終投稿 | editor |
+| `data/visual_prompt.json` | 画像プロンプト | creative |
+| `data/analytics.json` | 投稿成績データ | analyst |
+| `data/research_history.json` | 過去30件のリサーチ履歴 | pipeline_morning.sh |
+| `data/input_metrics.json` | n8nから受け取るメトリクス | n8n連携 |
+
+## 絶対ルール（全エージェント共通）
+
+- **ハルシネーション禁止**: 最新情報解説型の投稿では出典URLが存在する情報のみ使用
+- **絵文字・ハッシュタグ禁止**: 投稿本文に一切使用しない
+- **500文字以上**: 全投稿を必ず500文字以上にする
+- **です・ます調統一**: 「しかし」→「でも」、「したがって」→「だから」
+- **スロット意識**: morning=教育型・フォロワー獲得、evening=共感系・エンゲージメント
+
+## スロット別コンテンツ方針
+
+| slot | 優先スタイル | 優先CTA | 目標 |
+|---|---|---|---|
+| morning | 最新情報解説型・教育型 | follow / save | リーチ拡大・フォロワー獲得 |
+| evening | 共感ストーリー型・カジュアル報告型 | reply / retweet | ファン化・いいね・RT |
+
+## .env 設定項目
+```
+WEBHOOK_URL=https://your-n8n.com/webhook/morning-post
+REPLY_WEBHOOK_URL=https://your-n8n.com/webhook/reply-handler
+```
+
+## 参考リソース（エージェントが参照するリファレンス）
+- `.claude/skills/writing-style-clone/assets/x_post_sample.md` — 5タイプの投稿文体サンプル
+- `.claude/skills/writing-style-clone/references/style_guide.md` — 文体ルール詳細
+- `.claude/skills/storytelling-writer/references/emotion_triggers.md` — 感情トリガー一覧
