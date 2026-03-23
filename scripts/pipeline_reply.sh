@@ -61,7 +61,7 @@ fi
 log "コミュニティマネージャー（PROACTIVEモード）実行中..."
 REPLY_OUTPUT_FILE="data/proactive_replies.json"
 
-if CM_MODE=proactive "$CLAUDE_CMD" -p "$(cat .claude/agents/community_manager.md)" > "$REPLY_OUTPUT_FILE" 2>> "$LOG_FILE"; then
+if CM_MODE=proactive "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/community_manager.md)" > "$REPLY_OUTPUT_FILE" 2>> "$LOG_FILE"; then
   log "コミュニティマネージャー完了 ✅"
 else
   log "コミュニティマネージャー失敗 ❌"

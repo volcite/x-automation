@@ -13,4 +13,4 @@ fi
 
 cd "$(dirname "$0")/.."
 echo "Starting: Writer..."
-"$CLAUDE_CMD" -p "$(cat .claude/agents/writer.md)"
+"$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/writer.md)"

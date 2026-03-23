@@ -13,4 +13,4 @@ fi
 
 cd "$(dirname "$0")/.."
 echo "Starting: Community Manager..."
-"$CLAUDE_CMD" -p "$(cat .claude/agents/community_manager.md)"
+"$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/community_manager.md)"

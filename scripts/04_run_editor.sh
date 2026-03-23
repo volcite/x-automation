@@ -13,4 +13,4 @@ fi
 
 cd "$(dirname "$0")/.."
 echo "Starting: Editor (Quality Check)..."
-"$CLAUDE_CMD" -p "$(cat .claude/agents/editor.md)"
+"$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/editor.md)"

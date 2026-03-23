@@ -56,7 +56,7 @@ cp "$METRICS_FILE" "$PROJECT_DIR/data/input_metrics.json"
 # アナリストエージェントの実行
 log "アナリスト（データ分析・戦略更新）実行中..."
 
-if "$CLAUDE_CMD" -p "$(cat .claude/agents/analyst.md)" >> "$LOG_FILE" 2>&1; then
+if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/analyst.md)" >> "$LOG_FILE" 2>&1; then
   log "アナリスト完了 ✅"
   log "分析結果が data/analytics.json と data/strategy.md に反映されました。"
   

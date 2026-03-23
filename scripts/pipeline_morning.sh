@@ -24,6 +24,27 @@ if [ -z "$CLAUDE_CMD" ]; then
   exit 1
 fi
 
+# Claude Code のツール権限を事前許可（root環境でも動作）
+CLAUDE_SETTINGS="$HOME/.claude/settings.json"
+if [ ! -f "$CLAUDE_SETTINGS" ]; then
+  mkdir -p "$HOME/.claude"
+  cat > "$CLAUDE_SETTINGS" << 'SETTINGS_EOF'
+{
+  "permissions": {
+    "allow": [
+      "Read(*)",
+      "Write(*)",
+      "Glob(*)",
+      "WebSearch(*)",
+      "WebFetch(*)",
+      "Bash(*)"
+    ],
+    "deny": []
+  }
+}
+SETTINGS_EOF
+fi
+
 # 作業ディレクトリを x-automation 直下に移動
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
@@ -65,7 +86,7 @@ log "STEP 1: リサーチャー実行中..."
 # pipeline_context.json を初期化（リサーチャーが参照するため morning スロットで初期化）
 echo "{\"slot\": \"morning\", \"post_time\": \"08:00\", \"weekly_planning\": $WEEKLY_PLANNING}" > data/pipeline_context.json
 
-if "$CLAUDE_CMD" -p "$(cat .claude/agents/researcher.md)" >> "$LOG_FILE" 2>&1; then
+if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/researcher.md)" >> "$LOG_FILE" 2>&1; then
   log "STEP 1: リサーチャー完了 ✅"
   # リサーチデータ（競合分析・トレンド）を履歴に蓄積
   if [ ! -f data/research_history.json ]; then
@@ -112,7 +133,7 @@ run_slot() {
 
   # プランナー
   log "[${SLOT}] プランナー実行中..."
-  if "$CLAUDE_CMD" -p "$(cat .claude/agents/planner.md)" >> "$LOG_FILE" 2>&1; then
+  if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/planner.md)" >> "$LOG_FILE" 2>&1; then
     log "[${SLOT}] プランナー完了 ✅"
   else
     log "[${SLOT}] プランナー失敗 ❌"
@@ -121,7 +142,7 @@ run_slot() {
 
   # ライター
   log "[${SLOT}] ライター実行中..."
-  if "$CLAUDE_CMD" -p "$(cat .claude/agents/writer.md)" >> "$LOG_FILE" 2>&1; then
+  if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/writer.md)" >> "$LOG_FILE" 2>&1; then
     log "[${SLOT}] ライター完了 ✅"
   else
     log "[${SLOT}] ライター失敗 ❌"
@@ -130,7 +151,7 @@ run_slot() {
 
   # エディター（品質チェック → approved_post.json へ保存）
   log "[${SLOT}] エディター実行中..."
-  if "$CLAUDE_CMD" -p "$(cat .claude/agents/editor.md)" >> "$LOG_FILE" 2>&1; then
+  if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/editor.md)" >> "$LOG_FILE" 2>&1; then
     log "[${SLOT}] エディター完了 ✅"
   else
     log "[${SLOT}] エディター失敗 ❌"
