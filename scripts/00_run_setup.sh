@@ -1,4 +1,22 @@
 #!/bin/bash
+# 非インタラクティブSSH環境でも PATH を通す
+source ~/.bashrc 2>/dev/null || source ~/.bash_profile 2>/dev/null || true
+
+# claude コマンドの場所を特定
+CLAUDE_CMD=$(which claude 2>/dev/null)
+if [ -z "$CLAUDE_CMD" ]; then
+  for candidate in "$HOME/.local/bin/claude" "$HOME/.npm-global/bin/claude" "/usr/local/bin/claude" "/usr/bin/claude"; do
+    if [ -x "$candidate" ]; then
+      CLAUDE_CMD="$candidate"
+      break
+    fi
+  done
+fi
+if [ -z "$CLAUDE_CMD" ]; then
+  echo "エラー: claude コマンドが見つかりません。インストール・PATHを確認してください。"
+  exit 1
+fi
+
 # 作業ディレクトリを x-automation 直下に移動
 cd "$(dirname "$0")/.."
 
@@ -25,7 +43,7 @@ echo "WEBHOOK_URL=\"${WEBHOOK_URL}\"" > .env
 echo ".env を書き込みました: WEBHOOK_URL=${WEBHOOK_URL}"
 
 # claudeコマンド（サブエージェント）を呼び出し、x-setup スキルを実行させる
-claude -p "x-setupスキルを実行してください。XアカウントIDは「${X_ID}」です。ユーザーに質問はせず、このIDをもとに全自動でWebリサーチと設定ファイルの初期化を完了させてください。"
+"$CLAUDE_CMD" -p "x-setupスキルを実行してください。XアカウントIDは「${X_ID}」です。ユーザーに質問はせず、このIDをもとに全自動でWebリサーチと設定ファイルの初期化を完了させてください。"
 
 echo "========================================="
 echo " セットアップが終了しました"

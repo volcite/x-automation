@@ -5,6 +5,18 @@
 # ========================================
 set -e
 
+# 非インタラクティブSSH環境でも PATH を通す
+source ~/.bashrc 2>/dev/null || source ~/.bash_profile 2>/dev/null || true
+
+# claude コマンドの場所を特定
+CLAUDE_CMD=$(which claude 2>/dev/null)
+if [ -z "$CLAUDE_CMD" ]; then
+  for candidate in "$HOME/.local/bin/claude" "$HOME/.npm-global/bin/claude" "/usr/local/bin/claude" "/usr/bin/claude"; do
+    [ -x "$candidate" ] && CLAUDE_CMD="$candidate" && break
+  done
+fi
+[ -z "$CLAUDE_CMD" ] && echo "エラー: claude コマンドが見つかりません。" && exit 1
+
 # 引数チェック
 if [ -z "$1" ]; then
   echo "エラー: 分析対象のデータファイル（JSON）のパスを指定してください。"
@@ -41,7 +53,7 @@ cp "$METRICS_FILE" "$PROJECT_DIR/data/input_metrics.json"
 # アナリストエージェントの実行
 log "アナリスト（データ分析・戦略更新）実行中..."
 
-if claude -p "$(cat .claude/agents/analyst.md)" >> "$LOG_FILE" 2>&1; then
+if "$CLAUDE_CMD" -p "$(cat .claude/agents/analyst.md)" >> "$LOG_FILE" 2>&1; then
   log "アナリスト完了 ✅"
   log "分析結果が data/analytics.json と data/strategy.md に反映されました。"
   

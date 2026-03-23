@@ -6,6 +6,24 @@
 # インフルエンサーへの質の高いリプライを生成してn8nに送信する
 # ========================================
 
+# 非インタラクティブSSH環境でも PATH を通す
+source ~/.bashrc 2>/dev/null || source ~/.bash_profile 2>/dev/null || true
+
+# claude コマンドの場所を特定
+CLAUDE_CMD=$(which claude 2>/dev/null)
+if [ -z "$CLAUDE_CMD" ]; then
+  for candidate in "$HOME/.local/bin/claude" "$HOME/.npm-global/bin/claude" "/usr/local/bin/claude" "/usr/bin/claude"; do
+    if [ -x "$candidate" ]; then
+      CLAUDE_CMD="$candidate"
+      break
+    fi
+  done
+fi
+if [ -z "$CLAUDE_CMD" ]; then
+  echo "エラー: claude コマンドが見つかりません。インストール・PATHを確認してください。"
+  exit 1
+fi
+
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 cd "$PROJECT_DIR"
@@ -43,7 +61,7 @@ fi
 log "コミュニティマネージャー（PROACTIVEモード）実行中..."
 REPLY_OUTPUT_FILE="data/proactive_replies.json"
 
-if CM_MODE=proactive claude -p "$(cat .claude/agents/community_manager.md)" > "$REPLY_OUTPUT_FILE" 2>> "$LOG_FILE"; then
+if CM_MODE=proactive "$CLAUDE_CMD" -p "$(cat .claude/agents/community_manager.md)" > "$REPLY_OUTPUT_FILE" 2>> "$LOG_FILE"; then
   log "コミュニティマネージャー完了 ✅"
 else
   log "コミュニティマネージャー失敗 ❌"
