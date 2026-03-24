@@ -20,17 +20,21 @@ if [ -z "$CLAUDE_CMD" ]; then
 fi
 [ -z "$CLAUDE_CMD" ] && echo "エラー: claude コマンドが見つかりません。" && exit 1
 
-# 引数チェック
-if [ -z "$1" ]; then
+# 引数チェック: ファイルパス or パイプ(stdin)
+if [ -n "$1" ]; then
+  METRICS_FILE="$1"
+  if [ ! -f "$METRICS_FILE" ]; then
+    echo "エラー: 指定されたファイルが見つかりません: $METRICS_FILE"
+    exit 1
+  fi
+elif [ ! -t 0 ]; then
+  # stdin からパイプで受け取った場合
+  METRICS_FILE="/tmp/metrics_stdin_$(date +%Y%m%d_%H%M%S).json"
+  cat > "$METRICS_FILE"
+else
   echo "エラー: 分析対象のデータファイル（JSON）のパスを指定してください。"
   echo "使用例: ./pipeline_analysis.sh /tmp/metrics_20260320.json"
-  exit 1
-fi
-
-METRICS_FILE="$1"
-
-if [ ! -f "$METRICS_FILE" ]; then
-  echo "エラー: 指定されたファイルが見つかりません: $METRICS_FILE"
+  echo "    または: echo '{...}' | ./pipeline_analysis.sh"
   exit 1
 fi
 

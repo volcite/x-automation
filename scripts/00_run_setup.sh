@@ -17,6 +17,28 @@ if [ -z "$CLAUDE_CMD" ]; then
   exit 1
 fi
 
+# jq のインストール確認・自動インストール
+if ! command -v jq &> /dev/null; then
+  echo "jq が未インストールです。インストールを試みます..."
+  if command -v apt-get &> /dev/null; then
+    sudo apt-get install -y jq
+  elif command -v yum &> /dev/null; then
+    sudo yum install -y jq
+  elif command -v brew &> /dev/null; then
+    brew install jq
+  else
+    echo "警告: パッケージマネージャーが見つからず jq をインストールできませんでした。手動でインストールしてください。"
+  fi
+
+  if command -v jq &> /dev/null; then
+    echo "jq のインストールが完了しました ✅"
+  else
+    echo "警告: jq のインストールに失敗しました。パイプラインは python3 で代替動作します。"
+  fi
+else
+  echo "jq インストール済み ✅"
+fi
+
 # 作業ディレクトリを x-automation 直下に移動
 cd "$(dirname "$0")/.."
 

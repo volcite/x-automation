@@ -58,6 +58,110 @@ log() {
   echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" | tee -a "$LOG_FILE"
 }
 
+# jq がなければ python3 で代替
+if ! command -v jq &> /dev/null; then
+  if command -v python3 &> /dev/null; then
+    log "警告: jq が未インストールのため python3 で代替します"
+    jq() {
+      python3 -c "
+import sys, json, re
+
+args = sys.argv[1:]
+
+# -r フラグ検出
+raw = '-r' in args
+args = [a for a in args if a != '-r']
+
+# -n フラグ（入力なしモード）
+null_input = '-n' in args
+args = [a for a in args if a != '-n']
+
+filter_expr = args[0] if args else '.'
+files = args[1:] if not null_input else []
+
+# --arg key value の収集
+named = {}
+remaining_files = []
+i = 0
+while i < len(files):
+    if files[i] == '--arg' and i+2 < len(files):
+        named[files[i+1]] = files[i+2]
+        i += 3
+    else:
+        remaining_files.append(files[i])
+        i += 1
+files = remaining_files
+
+# データ読み込み
+if null_input:
+    data = None
+elif files:
+    with open(files[0]) as f:
+        data = json.load(f)
+    if len(files) > 1:
+        extras = []
+        for fn in files[1:]:
+            with open(fn) as f:
+                extras.append(json.load(f))
+else:
+    data = json.load(sys.stdin)
+
+# 簡易フィルタ評価
+def eval_filter(expr, data, named):
+    expr = expr.strip()
+    # . (identity)
+    if expr == '.':
+        return data
+    # .field or .field.sub
+    if re.match(r'^(\.[a-zA-Z_][a-zA-Z0-9_]*)+$', expr):
+        result = data
+        for key in re.findall(r'[a-zA-Z_][a-zA-Z0-9_]*', expr):
+            result = result.get(key) if isinstance(result, dict) else None
+        return result
+    # .field // \"default\"
+    m = re.match(r'^(\.[a-zA-Z_.]+)\s*//\s*(.+)$', expr)
+    if m:
+        val = eval_filter(m.group(1), data, named)
+        if val is None:
+            default = m.group(2).strip().strip('\"')
+            return default
+        return val
+    # length
+    if expr == 'length':
+        return len(data) if data else 0
+    # .[:-N] or .[-N:]
+    if re.match(r'^\.\[.*\]$', expr):
+        return eval(f'data{expr[1:]}')
+    # jq -n construction: {\"data\": [{\"post\": \$var, ...}]}
+    if expr.startswith('{') or expr.startswith('['):
+        # \$var 置換
+        result = expr
+        for k, v in named.items():
+            result = result.replace(f'\${k}', json.dumps(v))
+        return json.loads(result)
+    return data
+
+result = eval_filter(filter_expr, data, named)
+
+if isinstance(result, str):
+    print(result if raw else json.dumps(result))
+elif result is None:
+    print('null')
+elif isinstance(result, bool):
+    print(str(result).lower())
+elif isinstance(result, (int, float)):
+    print(result)
+else:
+    print(json.dumps(result, ensure_ascii=False))
+" "$@"
+    }
+    export -f jq
+  else
+    log "エラー: jq も python3 も見つかりません。どちらかをインストールしてください。"
+    exit 1
+  fi
+fi
+
 # .envファイルからWEBHOOK_URLを読み込む
 if [ -f ".env" ]; then
   export $(grep -v '^#' .env | xargs)
@@ -159,11 +263,6 @@ run_slot() {
   fi
 
   # 承認チェック & Webhook送信
-  if ! command -v jq &> /dev/null; then
-    log "[${SLOT}] jq未インストール: 承認チェック・Webhook送信をスキップ"
-    return 0
-  fi
-
   local APPROVED
   APPROVED=$(jq -r '.approved' data/approved_post.json 2>/dev/null || echo "false")
 
