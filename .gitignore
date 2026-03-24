@@ -1,0 +1,37 @@
+# ========================================
+# ユーザー固有データ（個人情報・実行結果）
+# ========================================
+
+# 環境変数（Webhook URL等）
+.env
+
+# ペルソナ・文体（ユーザーごとに異なる）
+data/persona.md
+data/style_guide.md
+
+# 実行時に生成されるデータ
+data/analytics.json
+data/analytics_archive.json
+data/strategy.md
+data/input_metrics.json
+data/trends.json
+data/research_history.json
+data/content_plan.json
+data/content_plan.backup.json
+data/draft.json
+data/approved_post.json
+data/weekly_plan.json
+data/pipeline_context.json
+data/visual_prompt.json
+data/payload.json
+data/temp_*.json
+
+# 投稿履歴
+posts/*.json
+
+# ログ
+logs/
+
+# 文体サンプル（ユーザー固有の投稿例）
+.claude/skills/writing-style-clone/assets/x_post_sample.md
+
