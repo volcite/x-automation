@@ -21,9 +21,9 @@ Webhook → n8n → X投稿（8:00）
   ↓（同日、夕スロット繰り返し）
 Planner[evening] → Writer → Editor → Webhook（19:00）
 
-[毎日12:00 n8n起動]
+[30分ごと n8n起動]
   ↓
-CommunityManager[proactive] → n8n → 自動リプライ
+n8n: リプライ取得 → pipeline_reply.sh → Webhook → n8nがランダム間隔で返信
 ```
 
 ## 手動実行コマンド
@@ -40,7 +40,7 @@ CommunityManager[proactive] → n8n → 自動リプライ
 | 文体ガイド更新 | `/writing-style-clone` |
 | ストーリー投稿作成 | `/storytelling-writer` |
 | 朝パイプライン手動実行 | `bash scripts/pipeline_morning.sh` |
-| リプライパイプライン手動実行 | `bash scripts/pipeline_reply.sh` |
+| リプライ返信手動実行 | `bash scripts/pipeline_reply.sh <replies.json>` |
 | 分析パイプライン実行 | `bash scripts/pipeline_analysis.sh` |
 
 ## 主要データファイル（agents が読み書きする）
@@ -60,6 +60,9 @@ CommunityManager[proactive] → n8n → 自動リプライ
 | `data/analytics.json` | 投稿成績データ | analyst |
 | `data/research_history.json` | 過去30件のリサーチ履歴 | pipeline_morning.sh |
 | `data/input_metrics.json` | n8nから受け取るメトリクス | n8n連携 |
+| `data/input_mentions.json` | n8nから受け取るリプライ | n8n連携 |
+| `data/reactive_replies.json` | 生成した返信 | community_manager |
+| `data/reply_counter.json` | 日次返信カウンター（上限15件） | pipeline_reply.sh |
 
 ## 絶対ルール（全エージェント共通）
 

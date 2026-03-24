@@ -1,21 +1,23 @@
 ---
 name: x-community-manager
-description: Claude Code専用の「コミュニティマネージャー」スキル。リプライやメンションの対応方針・返信文を作成する。
+description: 自分の投稿に届いたリプライへの自動返信を生成するスキル。
 ---
 
 # X Community Manager
 
-実行モードを確認してください：
+自分の投稿に届いたリプライに対する返信を自動生成します。
 
-## REACTIVEモード（受信リプライへの返信）
-新着リプライのリストを貼り付けてから `community_manager` エージェントを実行してください。
-エージェントが各リプライへの返信原案を100文字以内で生成します。
+## パイプライン実行
+```
+bash scripts/pipeline_reply.sh <リプライJSON>
+```
+n8nから30分ごとに呼び出され、返信JSONをWebhookで返却します。
 
-## PROACTIVEモード（能動的リプライ・フォロワー獲得）
-以下を確認してから `community_manager` エージェントを実行してください：
-- `data/trends.json` が本日分であること
-- `data/persona.md` に競合アカウントが設定されていること
+## 手動実行
+`/x-community-manager` でエージェントを起動してください。
+`data/input_mentions.json` にリプライデータを配置してから実行します。
 
-`$CM_MODE=proactive` として実行し、インフルエンサーへの質の高いリプライを最大10件生成します。
-
-**モードが不明な場合はユーザーに確認してください。**
+## シャドウバン対策
+- 日次上限: 15件（`data/reply_counter.json` で管理）
+- n8n側で返信間隔を1-3分ランダムに設定
+- confidence が低い返信は自動スキップ（無理に返信しない）

@@ -1,9 +1,14 @@
 #!/bin/bash
 # ========================================
-# 能動的リプライパイプライン
-# n8nから毎日12:00にこのスクリプトを叩く
-# PROACTIVEモードでコミュニティマネージャーを起動し、
-# インフルエンサーへの質の高いリプライを生成してn8nに送信する
+# リプライ返信パイプライン
+# n8nから30分ごとに呼び出される
+# 自分の投稿に届いたリプライへの返信を生成してWebhookで返す
+#
+# 使い方:
+#   bash scripts/pipeline_reply.sh <リプライJSONファイルパス>
+#
+# n8nが X API でリプライを取得し、JSONファイルとして渡す
+# 生成した返信をWebhookで返却 → n8n側でランダム間隔をあけて投稿
 # ========================================
 
 # 非インタラクティブSSH環境でも PATH を通す
@@ -36,9 +41,9 @@ log() {
   echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" | tee -a "$LOG_FILE"
 }
 
-log "========== 能動的リプライパイプライン開始 =========="
+log "========== リプライ返信パイプライン開始 =========="
 
-# .envファイルからREPLY_WEBHOOK_URLを読み込む
+# .envファイル読み込み
 if [ -f ".env" ]; then
   export $(grep -v '^#' .env | xargs)
 else
@@ -47,32 +52,94 @@ fi
 
 if [ -z "$REPLY_WEBHOOK_URL" ]; then
   log "エラー: REPLY_WEBHOOK_URLが設定されていません。.envファイルに追加してください。"
-  log "例: REPLY_WEBHOOK_URL=https://your-n8n-instance/webhook/reply-handler"
   exit 1
 fi
 
-# data/trends.json が存在するか確認
-if [ ! -f "data/trends.json" ]; then
-  log "警告: data/trends.json が見つかりません。朝のパイプラインが先に実行されている必要があります。"
+# 引数チェック
+REPLY_INPUT_FILE="$1"
+if [ -z "$REPLY_INPUT_FILE" ]; then
+  log "エラー: リプライJSONファイルのパスを引数で指定してください。"
+  log "使い方: bash scripts/pipeline_reply.sh <リプライJSONファイルパス>"
   exit 1
 fi
 
-# PROACTIVEモードでコミュニティマネージャーを実行
-log "コミュニティマネージャー（PROACTIVEモード）実行中..."
-REPLY_OUTPUT_FILE="data/proactive_replies.json"
+if [ ! -f "$REPLY_INPUT_FILE" ]; then
+  log "エラー: 指定されたファイルが見つかりません: $REPLY_INPUT_FILE"
+  exit 1
+fi
 
-if CM_MODE=proactive "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/community_manager.md)" > "$REPLY_OUTPUT_FILE" 2>> "$LOG_FILE"; then
+# リプライ件数を確認
+REPLY_COUNT=$(jq 'length' "$REPLY_INPUT_FILE" 2>/dev/null || echo "0")
+if [ "$REPLY_COUNT" = "0" ]; then
+  log "新着リプライなし。スキップします。"
+  exit 0
+fi
+log "新着リプライ: ${REPLY_COUNT}件"
+
+# 日次上限チェック（1日15件まで）
+DAILY_LIMIT=15
+TODAY=$(date +%Y-%m-%d)
+COUNTER_FILE="$PROJECT_DIR/data/reply_counter.json"
+
+# カウンターファイル初期化 or リセット
+if [ ! -f "$COUNTER_FILE" ]; then
+  echo "{\"date\": \"$TODAY\", \"count\": 0}" > "$COUNTER_FILE"
+fi
+
+COUNTER_DATE=$(jq -r '.date' "$COUNTER_FILE" 2>/dev/null || echo "")
+if [ "$COUNTER_DATE" != "$TODAY" ]; then
+  echo "{\"date\": \"$TODAY\", \"count\": 0}" > "$COUNTER_FILE"
+fi
+
+CURRENT_COUNT=$(jq -r '.count' "$COUNTER_FILE" 2>/dev/null || echo "0")
+REMAINING=$((DAILY_LIMIT - CURRENT_COUNT))
+
+if [ "$REMAINING" -le 0 ]; then
+  log "日次上限（${DAILY_LIMIT}件）に達しています。スキップします。"
+  exit 0
+fi
+log "本日の残予算: ${REMAINING}件"
+
+# 入力ファイルをコピー
+cp "$REPLY_INPUT_FILE" "data/input_mentions.json"
+
+# コミュニティマネージャーを実行
+log "コミュニティマネージャー実行中... (入力: ${REPLY_COUNT}件, 予算: ${REMAINING}件)"
+REPLY_OUTPUT_FILE="data/reactive_replies.json"
+
+if CM_BUDGET="$REMAINING" CM_INPUT_FILE="data/input_mentions.json" \
+   "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/community_manager.md)" > /dev/null 2>> "$LOG_FILE"; then
   log "コミュニティマネージャー完了 ✅"
 else
   log "コミュニティマネージャー失敗 ❌"
   exit 1
 fi
 
-# 出力ファイルの内容を確認
+# 出力ファイル確認
 if [ ! -f "$REPLY_OUTPUT_FILE" ] || [ ! -s "$REPLY_OUTPUT_FILE" ]; then
-  log "エラー: リプライ出力ファイルが空です"
+  log "エラー: 返信出力ファイルが空です"
   exit 1
 fi
+
+# 結果集計
+if command -v jq &> /dev/null; then
+  GENERATED=$(jq '.replies | length' "$REPLY_OUTPUT_FILE" 2>/dev/null || echo "0")
+  SKIPPED=$(jq '.skipped | length' "$REPLY_OUTPUT_FILE" 2>/dev/null || echo "0")
+  FLAGGED=$(jq '.flagged | length' "$REPLY_OUTPUT_FILE" 2>/dev/null || echo "0")
+  log "結果: 返信${GENERATED}件, スキップ${SKIPPED}件, 要注意${FLAGGED}件"
+else
+  GENERATED="0"
+fi
+
+if [ "$GENERATED" = "0" ]; then
+  log "送信対象の返信が0件です。終了します。"
+  exit 0
+fi
+
+# カウンター更新
+NEW_COUNT=$((CURRENT_COUNT + GENERATED))
+echo "{\"date\": \"$TODAY\", \"count\": $NEW_COUNT}" > "$COUNTER_FILE"
+log "カウンター更新: ${CURRENT_COUNT} → ${NEW_COUNT} / ${DAILY_LIMIT}"
 
 # n8n Webhook に送信
 log "n8n Webhook送信中..."
@@ -83,14 +150,8 @@ HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
 
 if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
   log "n8n Webhook送信完了 ✅ (HTTP $HTTP_CODE)"
-
-  # 送信したリプライ数をログに記録
-  if command -v jq &> /dev/null; then
-    REPLY_COUNT=$(jq '.target_replies | length' "$REPLY_OUTPUT_FILE" 2>/dev/null || echo "不明")
-    log "生成されたリプライ数: ${REPLY_COUNT}件"
-  fi
 else
   log "n8n Webhook送信失敗 ❌ (HTTP $HTTP_CODE)"
 fi
 
-log "========== 能動的リプライパイプライン終了 =========="
+log "========== リプライ返信パイプライン終了 =========="
