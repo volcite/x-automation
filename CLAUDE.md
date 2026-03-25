@@ -14,7 +14,7 @@ pipeline_inject.sh → data/injected_topic.json（2-3日間有効）
   ↓
 差し込みテーマチェック → pipeline_context.json に injection 情報付与
   ↓
-Researcher → data/trends.json           （Web検索・競合分析）
+Researcher → data/trends.json           （X API検索・Web検索・競合分析）
   ↓
 Planner[morning] → data/content_plan.json  （朝スロット企画 ※差し込みテーマ優先）
   ↓
@@ -91,6 +91,7 @@ n8n: リプライ取得 → pipeline_reply.sh → Webhook → n8nがランダム
 ```
 WEBHOOK_URL=https://your-n8n.com/webhook/morning-post
 REPLY_WEBHOOK_URL=https://your-n8n.com/webhook/reply-handler
+X_BEARER_TOKEN=your_x_api_bearer_token
 ```
 
 ## 参考リソース（エージェントが参照するリファレンス）
