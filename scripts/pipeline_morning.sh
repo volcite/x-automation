@@ -184,11 +184,84 @@ fi
 
 log "========== パイプライン開始（2スロット制） =========="
 
+# ========================================
+# 差し込みテーマチェック
+# data/injected_topic.json が存在し、status=active かつ有効期間内であれば
+# pipeline_context.json に injection 情報を付与する
+# ========================================
+INJECTION_ACTIVE="false"
+INJECTION_JSON=""
+
+if [ -f "data/injected_topic.json" ]; then
+  INJECT_STATUS=$(jq -r '.status // "inactive"' data/injected_topic.json 2>/dev/null || echo "inactive")
+  if [ "$INJECT_STATUS" = "active" ]; then
+    # 有効期間チェック
+    INJECT_DATE=$(jq -r '.inject_date' data/injected_topic.json 2>/dev/null)
+    DURATION_DAYS=$(jq -r '.duration_days // 3' data/injected_topic.json 2>/dev/null)
+    TODAY_DATE=$(date +%Y-%m-%d)
+
+    DAYS_ELAPSED=$(node -e "
+const d1 = new Date('$INJECT_DATE');
+const d2 = new Date('$TODAY_DATE');
+console.log(Math.floor((d2 - d1) / 86400000));
+" 2>/dev/null || echo "999")
+
+    if [ "$DAYS_ELAPSED" -lt "$DURATION_DAYS" ]; then
+      INJECTION_ACTIVE="true"
+      INJECTION_JSON=$(cat data/injected_topic.json)
+      INJECT_TOPIC=$(jq -r '.topic' data/injected_topic.json)
+      log "差し込みテーマ検知: 「${INJECT_TOPIC}」（${DAYS_ELAPSED}日目/${DURATION_DAYS}日間）"
+    else
+      # 有効期限切れ → ステータスを expired に更新
+      node -e "
+const fs = require('fs');
+const data = JSON.parse(fs.readFileSync('data/injected_topic.json', 'utf-8'));
+data.status = 'expired';
+fs.writeFileSync('data/injected_topic.json', JSON.stringify(data, null, 2), 'utf-8');
+"
+      log "差し込みテーマ「$(jq -r '.topic' data/injected_topic.json)」の有効期限が切れました → expired に変更"
+    fi
+  fi
+fi
+
+# 差し込みテーマ付き pipeline_context.json を書き出す共通関数
+# 引数: $1=slot, $2=post_time
+write_injection_context() {
+  local _SLOT="$1"
+  local _POST_TIME="$2"
+  node -e "
+const fs = require('fs');
+const injection = JSON.parse(fs.readFileSync('data/injected_topic.json', 'utf-8'));
+const context = {
+  slot: process.argv[1],
+  post_time: process.argv[2],
+  weekly_planning: process.argv[3] === 'true',
+  injection: {
+    active: true,
+    topic: injection.topic,
+    details: injection.details || '',
+    source_url: injection.source_url || '',
+    priority: injection.priority || 'high',
+    inject_date: injection.inject_date,
+    duration_days: injection.duration_days,
+    day_number: parseInt(process.argv[4]) + 1,
+    slots_used: injection.slots_used || []
+  }
+};
+fs.writeFileSync('data/pipeline_context.json', JSON.stringify(context, null, 2), 'utf-8');
+" "$_SLOT" "$_POST_TIME" "$WEEKLY_PLANNING" "$DAYS_ELAPSED" 2>> "$LOG_FILE"
+}
+
 # ステップ1: リサーチャー（朝・夕共通。1回だけ実行）
 log "STEP 1: リサーチャー実行中..."
 
 # pipeline_context.json を初期化（リサーチャーが参照するため morning スロットで初期化）
-echo "{\"slot\": \"morning\", \"post_time\": \"08:00\", \"weekly_planning\": $WEEKLY_PLANNING}" > data/pipeline_context.json
+if [ "$INJECTION_ACTIVE" = "true" ]; then
+  # 差し込みテーマ情報を pipeline_context に含める
+  write_injection_context "morning" "08:00"
+else
+  echo "{\"slot\": \"morning\", \"post_time\": \"08:00\", \"weekly_planning\": $WEEKLY_PLANNING}" > data/pipeline_context.json
+fi
 
 if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/researcher.md)" >> "$LOG_FILE" 2>&1; then
   log "STEP 1: リサーチャー完了 ✅"
@@ -233,7 +306,11 @@ run_slot() {
   log "========== ${SLOT}スロット開始（${POST_TIME}投稿） =========="
 
   # pipeline_context.json をスロット情報で更新（プランナーが参照する）
-  echo "{\"slot\": \"$SLOT\", \"post_time\": \"$POST_TIME\", \"weekly_planning\": $WEEKLY_PLANNING}" > data/pipeline_context.json
+  if [ "$INJECTION_ACTIVE" = "true" ]; then
+    write_injection_context "$SLOT" "$POST_TIME"
+  else
+    echo "{\"slot\": \"$SLOT\", \"post_time\": \"$POST_TIME\", \"weekly_planning\": $WEEKLY_PLANNING}" > data/pipeline_context.json
+  fi
 
   # プランナー
   log "[${SLOT}] プランナー実行中..."
@@ -291,6 +368,20 @@ run_slot() {
 
     if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
       log "[${SLOT}] n8n Webhook送信完了 ✅ (HTTP $HTTP_CODE)"
+
+      # 差し込みテーマ使用時は slots_used を更新
+      if [ "$INJECTION_ACTIVE" = "true" ]; then
+        local SLOT_KEY="$(date +%Y-%m-%d)_${SLOT}"
+        node -e "
+const fs = require('fs');
+const data = JSON.parse(fs.readFileSync('data/injected_topic.json', 'utf-8'));
+const slotKey = process.argv[1];
+if (!data.slots_used) data.slots_used = [];
+if (!data.slots_used.includes(slotKey)) data.slots_used.push(slotKey);
+fs.writeFileSync('data/injected_topic.json', JSON.stringify(data, null, 2), 'utf-8');
+" "$SLOT_KEY" 2>> "$LOG_FILE"
+        log "[${SLOT}] 差し込みテーマのslots_usedを更新: ${SLOT_KEY}"
+      fi
     else
       log "[${SLOT}] n8n Webhook送信失敗 ❌ (HTTP $HTTP_CODE)"
     fi
