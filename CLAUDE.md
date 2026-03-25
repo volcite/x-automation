@@ -62,7 +62,7 @@ n8n: リプライ取得 → pipeline_reply.sh → Webhook → n8nがランダム
 | `data/input_metrics.json` | n8nから受け取るメトリクス | n8n連携 |
 | `data/input_mentions.json` | n8nから受け取るリプライ | n8n連携 |
 | `data/reactive_replies.json` | 生成した返信 | community_manager |
-| `data/reply_counter.json` | 日次返信カウンター（上限15件） | pipeline_reply.sh |
+| `data/reply_counter.json` | 日次返信カウンター（上限150件/日, 15件/回） | pipeline_reply.sh |
 
 ## 絶対ルール（全エージェント共通）
 

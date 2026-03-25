@@ -1,0 +1,254 @@
+{
+  "name": "Webhook受信 → リプライ投稿（ランダム間隔）",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "reply-handler",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook-trigger",
+      "name": "Webhook受信",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [0, 0],
+      "webhookId": "reply-handler"
+    },
+    {
+      "parameters": {
+        "jsCode": "const data = $input.first().json;\nconst replies = data.replies || [];\n\n// confidence: low は除外（念のため）\nconst filtered = replies.filter(r => r.confidence !== 'low');\n\nif (filtered.length === 0) {\n  return [{ json: { empty: true, count: 0 } }];\n}\n\n// 各返信を個別アイテムとして返す\nreturn filtered.map((r, i) => ({\n  json: {\n    ...r,\n    empty: false,\n    index: i,\n    total: filtered.length\n  }\n}));"
+      },
+      "id": "extract-replies",
+      "name": "replies配列を展開",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [220, 0]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "version": 2,
+            "caseSensitive": true
+          },
+          "combinator": "and",
+          "conditions": [
+            {
+              "id": "check-empty",
+              "leftValue": "={{ $json.empty }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "notEquals"
+              }
+            }
+          ]
+        }
+      },
+      "id": "if-has-replies",
+      "name": "返信あり？",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [440, 0]
+    },
+    {
+      "parameters": {
+        "amount": "={{ Math.floor(Math.random() * 120 + 60) }}",
+        "unit": "seconds"
+      },
+      "id": "random-wait",
+      "name": "1-3分ランダム待機",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [660, 0]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.twitter.com/2/tweets",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "twitterOAuth2Api",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"text\": {{ JSON.stringify($json.content) }},\n  \"reply\": {\n    \"in_reply_to_tweet_id\": {{ JSON.stringify($json.to_tweet_id) }}\n  }\n}",
+        "options": {}
+      },
+      "id": "post-reply",
+      "name": "X API リプライ投稿",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [880, 0]
+    },
+    {
+      "parameters": {
+        "jsCode": "const item = $input.first().json;\nconst postResult = item;\n\n// 投稿結果をログ出力\nreturn [{\n  json: {\n    success: true,\n    posted_tweet_id: postResult.data?.id || 'unknown',\n    reply_to: $('1-3分ランダム待機').first().json.to_tweet_id,\n    content: $('1-3分ランダム待機').first().json.content\n  }\n}];"
+      },
+      "id": "log-result",
+      "name": "投稿結果ログ",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1100, 0]
+    },
+    {
+      "parameters": {
+        "operation": "update",
+        "documentId": {
+          "__rl": true,
+          "mode": "url",
+          "value": "{{ $vars.SPREADSHEET_URL }}"
+        },
+        "sheetName": {
+          "__rl": true,
+          "mode": "list",
+          "value": "シート1"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "status": "done",
+            "replied_at": "={{ new Date().toISOString() }}"
+          },
+          "matchingColumns": ["tweet_id"]
+        },
+        "options": {}
+      },
+      "id": "update-sheet-status",
+      "name": "スプシのstatusをdoneに更新",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.5,
+      "position": [1320, 0],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "YOUR_GOOGLE_CREDENTIAL_ID",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={ \"status\": \"ok\", \"message\": \"返信なし\" }",
+        "options": {}
+      },
+      "id": "respond-empty",
+      "name": "空レスポンス返却",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [660, 200]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={ \"status\": \"ok\", \"message\": \"受付完了\" }",
+        "options": {}
+      },
+      "id": "respond-accepted",
+      "name": "受付レスポンス返却",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [440, -200]
+    },
+    {
+      "parameters": {
+        "jsCode": "// エラー情報を整形\nconst error = $input.first().json;\n\nreturn [{\n  json: {\n    success: false,\n    error: error.message || JSON.stringify(error),\n    tweet_id: $('1-3分ランダム待機').first().json.to_tweet_id || 'unknown',\n    timestamp: new Date().toISOString()\n  }\n}];"
+      },
+      "id": "error-handler",
+      "name": "エラーハンドリング",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1100, 200]
+    }
+  ],
+  "connections": {
+    "Webhook受信": {
+      "main": [
+        [
+          {
+            "node": "受付レスポンス返却",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "replies配列を展開",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "replies配列を展開": {
+      "main": [
+        [
+          {
+            "node": "返信あり？",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "返信あり？": {
+      "main": [
+        [
+          {
+            "node": "1-3分ランダム待機",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "空レスポンス返却",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "1-3分ランダム待機": {
+      "main": [
+        [
+          {
+            "node": "X API リプライ投稿",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "X API リプライ投稿": {
+      "main": [
+        [
+          {
+            "node": "投稿結果ログ",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "投稿結果ログ": {
+      "main": [
+        [
+          {
+            "node": "スプシのstatusをdoneに更新",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "callerPolicy": "workflowsFromSameOwner"
+  },
+  "tags": [
+    {
+      "name": "x-automation"
+    }
+  ],
+  "pinData": {}
+}

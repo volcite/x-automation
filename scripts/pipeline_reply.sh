@@ -5,9 +5,9 @@
 # 自分の投稿に届いたリプライへの返信を生成してWebhookで返す
 #
 # 使い方:
-#   bash scripts/pipeline_reply.sh <リプライJSONファイルパス>
+#   echo '<JSON>' | bash scripts/pipeline_reply.sh    ← n8nからstdinで渡す
+#   bash scripts/pipeline_reply.sh <JSONファイルパス>  ← ファイルで渡す
 #
-# n8nが X API でリプライを取得し、JSONファイルとして渡す
 # 生成した返信をWebhookで返却 → n8n側でランダム間隔をあけて投稿
 # ========================================
 
@@ -55,29 +55,35 @@ if [ -z "$REPLY_WEBHOOK_URL" ]; then
   exit 1
 fi
 
-# 引数チェック
-REPLY_INPUT_FILE="$1"
-if [ -z "$REPLY_INPUT_FILE" ]; then
-  log "エラー: リプライJSONファイルのパスを引数で指定してください。"
-  log "使い方: bash scripts/pipeline_reply.sh <リプライJSONファイルパス>"
-  exit 1
-fi
+# 入力: stdinまたはファイル引数からJSONを受け取る
+INPUT_FILE="data/input_mentions.json"
 
-if [ ! -f "$REPLY_INPUT_FILE" ]; then
-  log "エラー: 指定されたファイルが見つかりません: $REPLY_INPUT_FILE"
+if [ -n "$1" ] && [ -f "$1" ]; then
+  # ファイル引数モード
+  cp "$1" "$INPUT_FILE"
+  log "入力: ファイル ($1)"
+elif [ ! -t 0 ]; then
+  # stdinモード（echo '...' | bash scripts/pipeline_reply.sh）
+  cat > "$INPUT_FILE"
+  log "入力: stdin"
+else
+  log "エラー: JSONデータをstdinまたはファイル引数で渡してください。"
+  log "使い方: echo '<JSON>' | bash scripts/pipeline_reply.sh"
+  log "    or: bash scripts/pipeline_reply.sh <JSONファイルパス>"
   exit 1
 fi
 
 # リプライ件数を確認
-REPLY_COUNT=$(jq 'length' "$REPLY_INPUT_FILE" 2>/dev/null || echo "0")
+REPLY_COUNT=$(jq 'length' "$INPUT_FILE" 2>/dev/null || echo "0")
 if [ "$REPLY_COUNT" = "0" ]; then
   log "新着リプライなし。スキップします。"
   exit 0
 fi
 log "新着リプライ: ${REPLY_COUNT}件"
 
-# 日次上限チェック（1日15件まで）
-DAILY_LIMIT=15
+# 日次上限チェック（1日150件まで、1回あたり最大15件）
+DAILY_LIMIT=150
+PER_RUN_LIMIT=15
 TODAY=$(date +%Y-%m-%d)
 COUNTER_FILE="$PROJECT_DIR/data/reply_counter.json"
 
@@ -98,16 +104,20 @@ if [ "$REMAINING" -le 0 ]; then
   log "日次上限（${DAILY_LIMIT}件）に達しています。スキップします。"
   exit 0
 fi
-log "本日の残予算: ${REMAINING}件"
 
-# 入力ファイルをコピー
-cp "$REPLY_INPUT_FILE" "data/input_mentions.json"
+# 1回あたりの上限と残予算の小さい方を採用
+if [ "$REMAINING" -gt "$PER_RUN_LIMIT" ]; then
+  BUDGET="$PER_RUN_LIMIT"
+else
+  BUDGET="$REMAINING"
+fi
+log "本日の残予算: ${REMAINING}件, 今回の上限: ${BUDGET}件"
 
 # コミュニティマネージャーを実行
-log "コミュニティマネージャー実行中... (入力: ${REPLY_COUNT}件, 予算: ${REMAINING}件)"
+log "コミュニティマネージャー実行中... (入力: ${REPLY_COUNT}件, 予算: ${BUDGET}件)"
 REPLY_OUTPUT_FILE="data/reactive_replies.json"
 
-if CM_BUDGET="$REMAINING" CM_INPUT_FILE="data/input_mentions.json" \
+if CM_BUDGET="$BUDGET" CM_INPUT_FILE="data/input_mentions.json" \
    "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/community_manager.md)" > /dev/null 2>> "$LOG_FILE"; then
   log "コミュニティマネージャー完了 ✅"
 else
