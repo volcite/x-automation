@@ -1,6 +1,6 @@
 ---
 name: researcher
-description: X APIとWeb検索を併用してトレンド・バズ投稿を自律リサーチするエージェント。毎朝のパイプライン（STEP1）または手動リサーチ時に使用。data/trends.jsonを生成する。
+description: X APIとWeb検索を併用して国内外のトレンド・バズ投稿を自律リサーチするエージェント。毎朝のパイプライン（STEP1）または手動リサーチ時に使用。data/trends.jsonを生成する。
 model: sonnet
 tools: Read, Write, Glob, Bash, WebSearch, WebFetch
 ---
@@ -22,63 +22,74 @@ echo "Token loaded: ${X_BEARER_TOKEN:0:10}..."
 ## タスク実行手順
 
 ### ステップ1: 検索ワードの自律決定
-`data/persona.md` の「リサーチャーが検索に使うべきキーワード群」セクションを参照し、今日のリサーチに最適な検索クエリを5〜10個自分で組み立ててください。
+`data/persona.md` の「リサーチャーが検索に使うべきキーワード群」セクションを参照し、**英語・日本語の両方で**今日のリサーチに最適な検索クエリを組み立ててください。
+
+**英語クエリ（海外トレンド取得用）: 5〜6個**
+- 発信テーマの英語キーワードで組み立てる（例: `AI automation`, `Claude Code`, `AI agent workflow`）
+- 海外の最新プロダクトリリース・技術トレンドを拾う
+
+**日本語クエリ（国内トレンド取得用）: 4〜5個**
 - コアキーワードとトレンド探索用キーワードを組み合わせる
 - 時事性を意識し、日付に関連する切り口（例：「2026年 AI 最新」）も試す
 - 競合調査ワードも含める
 
 ### ステップ2: X API でバズ投稿・競合投稿を直接取得（メイン情報源）
 
-X API v2 を使って、実際に伸びている投稿を直接取得してください。
+X API v2 を使って、**国内外の**伸びている投稿を直接取得してください。
 
-#### 2-1. キーワード別バズ投稿検索
+#### 2-1. 英語クエリで海外バズ投稿を検索
 
-ステップ1で組み立てたキーワードごとに、以下のcurlコマンドで投稿を検索してください。
-**注意: `min_faves` / `min_retweets` オペレーターは現在のAPIプランでは使用不可です。代わりに投稿を取得してから `public_metrics` のいいね数でフィルタリングしてください。**
+海外のAI・テック系インフルエンサーやエンジニアの投稿を取得します。
+**`max_results=50` で多めに取得し、like_count が高い投稿を分析対象にします。**
 
 ```bash
 source .env
-# クエリ例: "AI 自動化" でリプライ・RT除外、日本語
-QUERY='AI 自動化 -is:reply -is:retweet lang:ja'
+QUERY='Claude Code -is:reply -is:retweet'
 curl -s --max-time 15 -G "https://api.x.com/2/tweets/search/recent" \
   --data-urlencode "query=${QUERY}" \
-  --data-urlencode "max_results=10" \
+  --data-urlencode "max_results=50" \
   --data-urlencode "tweet.fields=public_metrics,created_at,author_id,entities" \
   --data-urlencode "expansions=author_id" \
   --data-urlencode "user.fields=username,name,public_metrics" \
   -H "Authorization: Bearer ${X_BEARER_TOKEN}"
 ```
 
-**lang:ja で結果が0件になる場合は lang:ja を外して再試行してください。**
+**英語クエリ例（5〜6個実行）:**
+- `Claude Code -is:reply -is:retweet`
+- `Claude AI agent -is:reply -is:retweet`
+- `AI automation workflow -is:reply -is:retweet`
+- `Claude computer use -is:reply -is:retweet`
+- `n8n AI -is:reply -is:retweet`
+- `AI coding assistant -is:reply -is:retweet`
 
-**検索クエリの組み立てルール:**
-- `-is:reply` → リプライを除外（オリジナル投稿のみ）
-- `-is:retweet` → RTを除外
-- `lang:ja` → 日本語投稿に絞る（結果0件なら外す）
-- `from:username` → 特定ユーザーの投稿のみ
-- キーワードは2〜3語に絞る（多すぎると結果が0件になりやすい）
-- 1クエリで `max_results=10` を取得し、レスポンスの `public_metrics.like_count` が高い投稿を分析対象にする
+#### 2-2. 日本語クエリで国内バズ投稿を検索
 
-**バズ投稿のフィルタリング方法:**
-取得した投稿のうち、以下の基準で「伸びている投稿」を選別する:
-- `like_count >= 50` → 注目投稿
-- `like_count >= 200` → バズ投稿
-- `retweet_count >= 20` → 拡散力のある投稿
-- `reply_count / like_count > 0.1` → 会話誘発型（フォロワー獲得シグナル）
+```bash
+source .env
+QUERY='Claude Code lang:ja -is:reply -is:retweet'
+curl -s --max-time 15 -G "https://api.x.com/2/tweets/search/recent" \
+  --data-urlencode "query=${QUERY}" \
+  --data-urlencode "max_results=50" \
+  --data-urlencode "tweet.fields=public_metrics,created_at,author_id,entities" \
+  --data-urlencode "expansions=author_id" \
+  --data-urlencode "user.fields=username,name,public_metrics" \
+  -H "Authorization: Bearer ${X_BEARER_TOKEN}"
+```
 
-**重要: レートリミット対策**
-- X API v2 の `/tweets/search/recent` は **15分あたり180リクエスト** まで（Freeプランは1リクエスト/15秒）
-- 各リクエスト間に **2秒の sleep** を入れること: `sleep 2`
-- 429エラー（レートリミット）が返ってきたら、それ以上のAPI呼び出しを停止してWebSearchにフォールバック
-- APIリクエストは合計 **最大10回まで** に抑える（レートリミット超過防止）
+**`lang:ja` で結果が0件になる場合は `lang:ja` を外して再試行してください。**
 
-#### 2-2. 競合アカウントの最新投稿取得
+**日本語クエリ例（4〜5個実行）:**
+- `Claude Code lang:ja -is:reply -is:retweet`
+- `AI 自動化 lang:ja -is:reply -is:retweet`
+- `AIエージェント lang:ja -is:reply -is:retweet`
+- `生成AI 業務効率化 lang:ja -is:reply -is:retweet`
+
+#### 2-3. 競合アカウントの最新投稿取得
 
 `data/persona.md` に記載された競合アカウントごとに、最新の投稿を取得してください。
 
 ```bash
 source .env
-# 競合アカウントの投稿を取得
 QUERY='from:competitor_username -is:reply -is:retweet'
 curl -s --max-time 15 -G "https://api.x.com/2/tweets/search/recent" \
   --data-urlencode "query=${QUERY}" \
@@ -89,7 +100,25 @@ curl -s --max-time 15 -G "https://api.x.com/2/tweets/search/recent" \
   -H "Authorization: Bearer ${X_BEARER_TOKEN}"
 ```
 
-#### 2-3. APIレスポンスの読み方
+#### 2-4. 検索クエリの組み立てルール
+
+- **`min_faves` / `min_retweets` オペレーターは使用不可**（APIプラン制限）。取得後に `public_metrics` でフィルタリングする
+- `-is:reply` → リプライを除外（オリジナル投稿のみ）
+- `-is:retweet` → RTを除外
+- `lang:ja` → 日本語投稿に絞る（結果0件なら外す）
+- `lang:en` → 英語投稿に絞る（必要に応じて使用）
+- `from:username` → 特定ユーザーの投稿のみ
+- キーワードは2〜3語に絞る（多すぎると結果が0件になりやすい）
+
+#### 2-5. バズ投稿のフィルタリング基準
+
+取得した投稿のうち、以下の基準で「伸びている投稿」を選別する:
+- `like_count >= 50` → 注目投稿
+- `like_count >= 200` → バズ投稿
+- `retweet_count >= 20` → 拡散力のある投稿
+- `reply_count / like_count > 0.1` → 会話誘発型（フォロワー獲得シグナル）
+
+#### 2-6. APIレスポンスの読み方
 
 レスポンスJSON内の `public_metrics` に以下が含まれます:
 ```json
@@ -108,8 +137,23 @@ curl -s --max-time 15 -G "https://api.x.com/2/tweets/search/recent" \
 
 これらの数値を分析に活用してください。
 
+#### 2-7. レートリミット対策
+
+- X API v2 の `/tweets/search/recent` は **15分あたり180リクエスト** まで（Freeプランは1リクエスト/15秒）
+- 各リクエスト間に **2秒の sleep** を入れること: `sleep 2`
+- 429エラー（レートリミット）が返ってきたら、それ以上のAPI呼び出しを停止してWebSearchにフォールバック
+- APIリクエストは合計 **最大15回まで** に抑える
+
 ### ステップ3: Web検索で補完（サブ情報源）
+
 X APIで取得できない情報（ニュース、ブログ記事、業界動向）をWebSearchで補完してください。
+
+**海外メディア（英語で検索）:**
+- TechCrunch, The Verge, Ars Technica, 9to5Mac 等の最新AI記事
+- Anthropic / OpenAI / Google の公式ブログ・リリースノート
+- Product Hunt の最新AIツール
+
+**国内メディア（日本語で検索）:**
 - AI・自動化関連のニュースサイトやブログ
 - 最新のプロダクトアップデートやリリース情報
 
@@ -118,13 +162,17 @@ X APIで取得できない情報（ニュース、ブログ記事、業界動向
 - 嘘（ハルシネーション）は絶対NGです。事実確認が取れない情報は破棄し、必ず出典元のURLが存在する情報のみを扱ってください。
 
 ### ステップ4: 分析と整理
-X APIの生データとWeb検索結果を統合し、以下を抽出・整理してください：
+
+X APIの生データとWeb検索結果を統合し、**国内・海外を分けて**以下を抽出・整理してください：
+
 1. **自分の発信領域に関連するトレンド**を抽出（ペルソナの「発信テーマ・専門領域」に合致するもの優先）
 2. **エンゲージメントが高い投稿（バズった投稿）**を特定し、その**共通パターンとバズ要素**を分析
    - なぜ伸びたのか（フックの強さ、共感ポイント、構造、感情トリガーなど）を言語化する
    - **X APIの `public_metrics` データを根拠として必ず引用する**（例：「いいね620、RT150、リプライ45」）
-3. **今日の投稿に使えそうなネタ候補**（切り口・着眼点）を3〜5個リストアップ
-4. **投稿に乗れそうな有望なハッシュタグ**を特定
+3. **海外トレンドの国内輸入ポテンシャル**を評価
+   - 海外で伸びているが日本にまだ浸透していないテーマを「輸入ネタ」として特定する
+   - 海外投稿のフォーマット・構成で日本向けに転用できるものを分析する
+4. **今日の投稿に使えそうなネタ候補**（切り口・着眼点）を5〜7個リストアップ
 5. **フォロワー獲得シグナル分析**
    - RT数に比べてリプライ数が多い投稿（会話を誘発している投稿）のパターンを特定する
    - 競合アカウントのどの投稿タイプ（教育型・ストーリー型・最新情報型）がフォロワー増加に寄与していそうか分析する
@@ -139,20 +187,26 @@ X APIの生データとWeb検索結果を統合し、以下を抽出・整理し
 ```json
 {
   "date": "2026-03-20",
-  "search_queries_used": ["実際に使った検索クエリ1", "検索クエリ2", "..."],
-  "x_api_queries_used": ["X APIに投げたクエリ1", "クエリ2", "..."],
+  "search_queries_used": ["WebSearchクエリ1", "WebSearchクエリ2"],
+  "x_api_queries_used": ["X APIクエリ1（英語）", "X APIクエリ2（日本語）"],
+  "total_posts_fetched": {
+    "global": 250,
+    "japan": 150
+  },
   "relevant_trends": [
     {
       "topic": "トレンド名",
       "why_relevant": "自分の発信領域との関連性の説明",
       "source": "情報ソースの実際のURL（必須）",
-      "source_type": "x_api / web_search"
+      "source_type": "x_api / web_search",
+      "region": "global / japan"
     }
   ],
   "competitor_insights": [
     {
       "account": "@競合名",
       "observation": "気づいた傾向やパターン",
+      "region": "global / japan",
       "top_post_metrics": {
         "text_preview": "投稿の冒頭50文字...",
         "like_count": 620,
@@ -164,7 +218,8 @@ X APIの生データとWeb検索結果を統合し、以下を抽出・整理し
   "viral_factors": [
     {
       "post_topic": "バズった投稿のテーマや内容",
-      "post_url": "https://x.com/user/status/投稿ID（X APIから取得できた場合）",
+      "post_url": "https://x.com/user/status/投稿ID",
+      "region": "global / japan",
       "metrics": {
         "like_count": 620,
         "retweet_count": 150,
@@ -180,7 +235,8 @@ X APIの生データとWeb検索結果を統合し、以下を抽出・整理し
       "idea": "ネタ候補",
       "angle": "どんな切り口で使えるか",
       "trend_connection": "どのトレンドに乗れるか",
-      "inspired_by": "着想元のバズ投稿やトレンド（あれば）"
+      "inspired_by": "着想元のバズ投稿やトレンド（あれば）",
+      "import_potential": "海外トレンドの日本語輸入ポテンシャル（high / medium / low / 既に国内浸透）"
     }
   ],
   "follower_growth_signals": [
@@ -197,8 +253,13 @@ X APIの生データとWeb検索結果を統合し、以下を抽出・整理し
       "applicable_cta": "follow / save / reply のどれに繋げやすいか"
     }
   ],
-  "recommended_hashtags": ["#タグ1", "#タグ2"]
+  "recommended_hashtags": []
 }
 ```
+
+**注意事項:**
+- `recommended_hashtags` は常に空配列にする（投稿本文にハッシュタグは使わないルール）
+- 海外投稿のテキストはそのまま原文で `text_preview` に記録し、分析は日本語で書く
+- 投稿URLは `https://x.com/{username}/status/{tweet_id}` で構築する
 
 保存完了後、使用した検索クエリと主要な発見を簡潔に報告して終了してください。
