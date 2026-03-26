@@ -45,6 +45,9 @@ n8n: リプライ取得 → pipeline_reply.sh → Webhook → n8nがランダム
 | 画像プロンプト生成 | `/x-creative` |
 | 文体ガイド更新 | `/writing-style-clone` |
 | ストーリー投稿作成 | `/storytelling-writer` |
+| ナレッジ登録 | `/x-knowledge` |
+| ナレッジ追加(CLI) | `bash scripts/pipeline_knowledge.sh '{"topic":"テーマ","content":"内容","category":"philosophy"}'` |
+| ナレッジ一覧 | `bash scripts/pipeline_knowledge.sh list` |
 | テーマ差し込み | `bash scripts/pipeline_inject.sh '{"topic":"テーマ","details":"詳細","source_url":"URL","duration_days":3}'` |
 | 朝パイプライン手動実行 | `bash scripts/pipeline_morning.sh` |
 | リプライ返信手動実行 | `bash scripts/pipeline_reply.sh <replies.json>` |
@@ -71,6 +74,7 @@ n8n: リプライ取得 → pipeline_reply.sh → Webhook → n8nがランダム
 | `data/reactive_replies.json` | 生成した返信 | community_manager |
 | `data/reply_counter.json` | 日次返信カウンター（上限150件/日, 15件/回） | pipeline_reply.sh |
 | `data/injected_topic.json` | 差し込みテーマ（n8nから特定テーマを2-3日間投稿に反映） | pipeline_inject.sh / n8n連携 |
+| `data/knowledge_stock.json` | オーナーの思想・哲学・体験ストック | pipeline_knowledge.sh / x-knowledge |
 
 ## 絶対ルール（全エージェント共通）
 

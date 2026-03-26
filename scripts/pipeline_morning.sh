@@ -369,6 +369,29 @@ run_slot() {
     if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
       log "[${SLOT}] n8n Webhook送信完了 ✅ (HTTP $HTTP_CODE)"
 
+      # ナレッジストック使用時は usage_count を更新
+      local KNOWLEDGE_ID
+      KNOWLEDGE_ID=$(jq -r '.knowledge_used_id // ""' data/content_plan.json 2>/dev/null || echo "")
+      if [ -n "$KNOWLEDGE_ID" ] && [ "$KNOWLEDGE_ID" != "null" ] && [ -f "data/knowledge_stock.json" ]; then
+        node -e "
+const fs = require('fs');
+const data = JSON.parse(fs.readFileSync('data/knowledge_stock.json', 'utf-8'));
+const targetId = process.argv[1];
+const today = process.argv[2];
+const item = data.items.find(i => i.id === targetId);
+if (item) {
+  item.usage_count = (item.usage_count || 0) + 1;
+  item.last_used_at = today;
+  if (item.usage_count >= item.max_usage) {
+    item.status = 'retired';
+  }
+  data.last_updated = new Date().toISOString();
+  fs.writeFileSync('data/knowledge_stock.json', JSON.stringify(data, null, 2), 'utf-8');
+}
+" "$KNOWLEDGE_ID" "$(date +%Y-%m-%d)" 2>> "$LOG_FILE"
+        log "[${SLOT}] ナレッジストック使用回数を更新: ${KNOWLEDGE_ID}"
+      fi
+
       # 差し込みテーマ使用時は slots_used を更新
       if [ "$INJECTION_ACTIVE" = "true" ]; then
         local SLOT_KEY="$(date +%Y-%m-%d)_${SLOT}"
