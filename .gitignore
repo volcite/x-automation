@@ -5,6 +5,10 @@
 # 環境変数（Webhook URL等）
 .env
 
+# 個人用設定（Git管理外）
+CLAUDE.local.md
+.claude/settings.local.json
+
 # ペルソナ・文体（ユーザーごとに異なる）
 data/persona.md
 data/style_guide.md
