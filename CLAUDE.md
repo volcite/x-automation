@@ -52,6 +52,8 @@ n8n: リプライ取得 → pipeline_reply.sh → Webhook → n8nがランダム
 | 朝パイプライン手動実行 | `bash scripts/pipeline_morning.sh` |
 | リプライ返信手動実行 | `bash scripts/pipeline_reply.sh <replies.json>` |
 | 分析パイプライン実行 | `bash scripts/pipeline_analysis.sh` |
+| 記事をWebhook送信(Note) | `bash scripts/publish_article.sh note` |
+| 記事をWebhook送信(特典) | `bash scripts/publish_article.sh bonus` |
 
 ## 主要データファイル（agents が読み書きする）
 
@@ -95,6 +97,7 @@ n8n: リプライ取得 → pipeline_reply.sh → Webhook → n8nがランダム
 ```
 WEBHOOK_URL=https://your-n8n.com/webhook/morning-post
 REPLY_WEBHOOK_URL=https://your-n8n.com/webhook/reply-handler
+ARTICLE_WEBHOOK_URL=https://your-n8n.com/webhook/article-handler
 X_BEARER_TOKEN=your_x_api_bearer_token
 ```
 

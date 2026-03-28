@@ -1,0 +1,438 @@
+{
+  "date": "2026-03-28",
+  "campaign_id": "giveaway_20260328",
+  "research_summary": {
+    "x_api_queries_used": [
+      "(AI OR ChatGPT OR Claude OR 自動化 OR n8n) lang:ja -is:reply -is:retweet",
+      "(AIテンプレート OR AIロードマップ OR AI完全ガイド OR AI活用術) lang:ja -is:reply -is:retweet",
+      "(副業 AI OR AI収益化 OR AI 稼ぐ OR プロンプト販売) lang:ja -is:reply -is:retweet",
+      "(n8n OR 業務自動化 OR ノーコード自動化) lang:ja -is:reply -is:retweet",
+      "users/by/username/ai_yorozuya (User ID lookup)",
+      "users/1884468196121665538/tweets (Own posts)",
+      "from:keitowebai OR from:miyabi_foxx OR from:masahirochaen -is:reply -is:retweet",
+      "(プレゼント企画 OR 無料配布 OR リプで受け取り) (AI OR 自動化 OR テンプレート) lang:ja -is:reply -is:retweet",
+      "from:tetumemo OR from:beku_AI -is:reply -is:retweet"
+    ],
+    "web_searches_used": [
+      "note AI自動化 人気記事 有料 2026",
+      "note n8n Claude Code 人気記事 有料 2026",
+      "note Claude Code 完全攻略 テンプレート 有料記事 売れている 2026",
+      "latest AI automation tools n8n Claude Code 2026 new features",
+      "Claude Code auto mode 新機能 2026年3月 日本語",
+      "n8n MCP Claude Code ワークフロー自動構築 2026 日本語 解説",
+      "Brain market AI自動化 Claude Code n8n 売れ筋 2026",
+      "note プレゼント企画 引用RT AI テンプレート バズ 成功事例 2026",
+      "Claude Code auto mode 個人事業主 フリーランス 業務自動化 活用事例 2026",
+      "n8n AIエージェント BtoBマーケティング 自動化 リード獲得 2026",
+      "tetumemo Claude Skills プレゼント企画 引用RT 2026"
+    ],
+    "note_pages_scraped": [
+      "https://note.com/topic/technology (JSレンダリングのため取得不可、WebSearchにフォールバック)",
+      "https://note.com/search?q=AI+自動化&sort=popular (JSレンダリングのため取得不可)",
+      "https://note.com/search?q=n8n&sort=popular (JSレンダリングのため取得不可)"
+    ],
+    "brain_pages_scraped": [
+      "https://brain-market.com/ (JSレンダリングのため取得不可、WebSearchにフォールバック)"
+    ],
+    "total_x_posts_analyzed": 119
+  },
+  "x_trend_analysis": {
+    "hot_topics": [
+      {
+        "topic": "Claude Code Auto Mode（承認不要の自律実行）",
+        "why_hot": "2026年3月25日にAnthropicが発表した新機能。いいね38,000超・インプレッション617万という公式発表がバズ。「毎回承認」と「全スキップ」の中間、AIが自律的にリスク判断して実行する第三の道として注目度が急上昇している。競合masahirochaenの投稿でもClaude Code automode関連が連続して数百いいねを記録している",
+        "evidence": {
+          "sample_post_url": "https://x.com/ai_yorozuya/status/2037303696296694204",
+          "like_count": 11,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "competitor_masahirochaen_like_count": 550
+        },
+        "giveaway_potential": "high",
+        "giveaway_angle": "Claude Code Auto Modeの実践セットアップガイド（設定ファイル・CLAUDEファイルテンプレート付き）をNote記事＋Googleドキュメントのテンプレートセットとして無料配布。『有料級の設定テンプレートが無料』という訴求"
+      },
+      {
+        "topic": "Claude Code × n8n MCP 連携（自動化の自動化）",
+        "why_hot": "n8n-MCPがClaude CodeからのAI操作でワークフローを自然言語で自動構築できるようになった。日本語圏でもZenn・note記事が急増中。「自動化の自動化」という概念が非エンジニア層にも刺さっている。自分の投稿（ClaudeCode×n8n）が最高13いいね・605インプレッションを記録している",
+        "evidence": {
+          "sample_post_url": "https://x.com/ai_yorozuya/status/2036793473290928528",
+          "like_count": 13,
+          "retweet_count": 1,
+          "reply_count": 1,
+          "impressions": 605
+        },
+        "giveaway_potential": "high",
+        "giveaway_angle": "n8n-MCPセットアップ完全手順書＋すぐ使えるワークフローJSONテンプレート5〜10本をNote記事として配布。note有料記事『【衝撃】Claude Code×n8nがヤバい』のようなタイトルが売れていることからも需要が証明されている"
+      },
+      {
+        "topic": "Claude Code 非エンジニア向け完全攻略",
+        "why_hot": "note.comで「Claude Code完全攻略ロードマップ」「Claude Code超完全ガイド」などの有料記事が複数出版され売れている。keitowebaiの投稿（Claude/Chat/Coworkの違い解説）が483いいねを記録。非エンジニアがClaude Codeを使って業務自動化したいニーズが急拡大している",
+        "evidence": {
+          "sample_post_url": "https://x.com/keitowebai/status/2037499356644094369",
+          "like_count": 483,
+          "retweet_count": 34,
+          "reply_count": 8,
+          "impressions": 86935
+        },
+        "giveaway_potential": "high",
+        "giveaway_angle": "『非エンジニアのためのClaude Codeスターターキット』として、CLAUDEファイルのサンプル・よく使うコマンド集・用途別プロンプトテンプレートをまとめたNote記事＋Googleドキュメント付録として無料配布"
+      },
+      {
+        "topic": "Xアルゴリズム変化と運用戦略（2026年版）",
+        "why_hot": "自分の投稿『いいねの150倍の価値があるアクション』が159インプレッション。tetumemoの投稿『フォロワー52人で4万インプレッション』が話題。2026年のXアルゴリズムが「滞在時間」重視に変わったことで、個人事業主・フリーランスのX運用戦略に注目が集まっている",
+        "evidence": {
+          "sample_post_url": "https://x.com/ai_yorozuya/status/2036382630284018012",
+          "like_count": 3,
+          "retweet_count": 0,
+          "reply_count": 1,
+          "impressions": 159
+        },
+        "giveaway_potential": "medium",
+        "giveaway_angle": "2026年版Xアルゴリズム攻略チェックリスト＋AI×n8nでX自動運用する実践ワークフロー設計図をNote記事として無料配布"
+      },
+      {
+        "topic": "AI×BtoBマーケティング自動化（リード獲得〜商談化）",
+        "why_hot": "『AIを導入したのに成果が出ない会社の共通点』投稿が162インプレッション・4いいね。BtoB企業のAI導入に悩む層が多く、McKinsey調査でも全社展開到達率23%というデータが注目されている。n8nによるリード自動管理・商談化フローへの需要が高い",
+        "evidence": {
+          "sample_post_url": "https://x.com/ai_yorozuya/status/2036221133008281994",
+          "like_count": 4,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "impressions": 162
+        },
+        "giveaway_potential": "medium",
+        "giveaway_angle": "BtoB企業向けn8n×AI自動化テンプレート集（リード獲得〜商談化フロー設計図）をNote記事として配布。15社以上の支援実績を基にした実践的内容として差別化"
+      }
+    ],
+    "own_best_performing_topics": [
+      {
+        "topic": "ClaudeCode × n8n X完全自動運用計画",
+        "metrics": {
+          "like_count": 13,
+          "retweet_count": 1,
+          "reply_count": 1,
+          "impressions": 605
+        },
+        "reusable_for_giveaway": true,
+        "note": "自分の投稿の中で最高エンゲージメント。X運用自動化の具体的な仕組みへの関心が高い"
+      },
+      {
+        "topic": "Claude Code auto modeで自動化の世界が変わる",
+        "metrics": {
+          "like_count": 11,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "impressions": 259
+        },
+        "reusable_for_giveaway": true,
+        "note": "最新機能の解説投稿が2番目に高いエンゲージメント。時事性のある話題への関心が高い"
+      },
+      {
+        "topic": "X運用自動化に成功した仕組み公開",
+        "metrics": {
+          "like_count": 8,
+          "retweet_count": 0,
+          "reply_count": 2,
+          "impressions": 223
+        },
+        "reusable_for_giveaway": true,
+        "note": "「時代遅れです」という煽り文句でエンゲージメントを取れた。プレゼント企画の訴求文に応用できる"
+      },
+      {
+        "topic": "副業で稼ぐより仕組みで稼ぐ方が楽",
+        "metrics": {
+          "like_count": 6,
+          "retweet_count": 0,
+          "reply_count": 1,
+          "impressions": 267
+        },
+        "reusable_for_giveaway": true,
+        "note": "個人事業主向けの収益化視点が反応を得ている"
+      }
+    ],
+    "competitor_giveaway_patterns": [
+      {
+        "account": "@masahirochaen",
+        "followers": 188567,
+        "giveaway_theme": "直接的なプレゼント企画は確認されず。ただし高品質な解説投稿が連続して500〜700いいねを記録し、フォロワーへの継続的な価値提供型の運用",
+        "format": "解説スレッド + 外部記事リンク",
+        "engagement": {
+          "avg_like_count": 400,
+          "top_post_likes": 747
+        },
+        "what_worked": "Anthropicの公式発表・最新情報を速報的に日本語解説することで差別化。Claude Code×MCPの具体的な設定情報が特に反応が良い"
+      },
+      {
+        "account": "@keitowebai",
+        "followers": 42133,
+        "giveaway_theme": "Claude/Chat/Coworkの違い解説が483いいね。直接的なプレゼント企画は確認されず",
+        "format": "比較解説スレッド",
+        "engagement": {
+          "avg_like_count": 300,
+          "top_post_likes": 483
+        },
+        "what_worked": "「整理してみた」「違いを解説」という比較型コンテンツが高反応。初心者が混乱しやすいポイントを整理する切り口が効果的"
+      },
+      {
+        "account": "@tetumemo",
+        "followers": 45570,
+        "giveaway_theme": "Claude Agent Skills（10人の賢者Agent Skillsセット）の無料配布を実施。28いいね・6099インプレッション",
+        "format": "Skillsファイル配布（Claude公式機能活用）",
+        "engagement": {
+          "reply_count": 1,
+          "like_count": 28,
+          "impressions": 6099
+        },
+        "what_worked": "「配布したSkillsを使って作った記事」をリプ欄に集積することで社会的証明を形成。コンテンツ制作を劇的に効率化するSkillsというギフトのコンセプトが刺さった"
+      }
+    ],
+    "successful_giveaway_patterns": [
+      {
+        "post_url": "https://x.com/wad0427/status/2037449571815784566",
+        "theme": "今使いこなせたら最強になれるAI7選（無料配布）",
+        "format": "リスト型解説 + 無料配布宣言",
+        "reply_count": 11,
+        "like_count": 153,
+        "impressions": 4764,
+        "success_factors": "「使いこなせたら最強」という将来価値訴求。「AIを使ってます」だけでは不十分という危機感の煽り。具体的なツールリストで実用性アピール"
+      },
+      {
+        "post_url": "https://x.com/NanaseCranberry/status/2037445019708379339",
+        "theme": "配信用テンプレート無料配布（期間限定）",
+        "format": "期間限定無料配布 + 具体的機能説明",
+        "reply_count": 1,
+        "like_count": 99,
+        "retweet_count": 43,
+        "success_factors": "「3月31日まで」という期限設定が緊急性を生み、RTが43回と多い。具体的な機能チェックリストで受け取り後のベネフィットが明確"
+      }
+    ]
+  },
+  "note_brain_analysis": {
+    "note_trending_themes": [
+      {
+        "title": "【Claude Code完全攻略ロードマップ】非エンジニアでもOK！たった1日でClaude Codeを丸ごと完全理解する！",
+        "author": "そう",
+        "url": "https://note.com/soh_ainsight/n/na72225491eb5",
+        "category": "AI・テクノロジー",
+        "price": "有料（価格不明）",
+        "popularity_signal": "40,000文字以上・45章・90枚以上の画像という大ボリューム。Xで紹介投稿が複数確認",
+        "relevance_to_genre": "high"
+      },
+      {
+        "title": "【衝撃】「Claude Code×n8n」がヤバい！n8nワークフロー構築を「完全自動化」してみた",
+        "author": "そう",
+        "url": "https://note.com/soh_ainsight/n/nc5deffdae0db",
+        "category": "AI・自動化",
+        "price": "有料（月額8,900円のメンバーシップ記事として2026年2月公開）",
+        "popularity_signal": "Xでのシェア数が多く、同テーマの検索結果で上位表示",
+        "relevance_to_genre": "high"
+      },
+      {
+        "title": "Claude Code × 売れる有料note量産術（リサーチから販売まで丸投げできるAIテンプレ8本付き）",
+        "author": "こうめい",
+        "url": "https://note.com/koumei_ai5566/n/nd22719fc096f",
+        "category": "AI副業・コンテンツ販売",
+        "price": "有料",
+        "popularity_signal": "テンプレート8本付きという具体的な付録価値をアピール",
+        "relevance_to_genre": "high"
+      },
+      {
+        "title": "【決定版】note×Claude Codeで「売れるnote」を量産する完全ロードマップ｜自動化プロンプトと収益化の正体",
+        "author": "tenchan",
+        "url": "https://note.com/ten_chi167/n/n5d8c5588fa17",
+        "category": "AI副業",
+        "price": "有料",
+        "popularity_signal": "「数千件の販売記事データを分析した売れる公式」という訴求",
+        "relevance_to_genre": "high"
+      },
+      {
+        "title": "note記事作成を超効率化！バズるnote記事をどんどん生み出すAIエージェント構築術",
+        "author": "そう",
+        "url": "https://note.com/soh_ainsight/n/nd8e04391238a",
+        "category": "AI・自動化",
+        "price": "有料（推測）",
+        "popularity_signal": "WebSearch上位表示",
+        "relevance_to_genre": "high"
+      },
+      {
+        "title": "Claude最新機能・最新情報まとめ【2026年3月版】",
+        "author": "S (Varelser)",
+        "url": "https://note.com/varelser/n/n268aa94974d1",
+        "category": "AI情報まとめ",
+        "price": "不明（まとめ系は無料が多い）",
+        "popularity_signal": "2026年3月版という時事性で検索流入を獲得",
+        "relevance_to_genre": "high"
+      },
+      {
+        "title": "【Claude Code新機能まとめ】開発を一変させる9つの神アプデ完全解説",
+        "author": "まさお",
+        "url": "https://note.com/masa_wunder/n/nc2bbc468d5fa",
+        "category": "AI情報",
+        "price": "不明",
+        "popularity_signal": "WebSearch上位表示",
+        "relevance_to_genre": "high"
+      }
+    ],
+    "brain_trending_themes": [
+      {
+        "title": "Claude Code × 売れる有料note量産術（コピペで使えるSkillファイル9本付き）",
+        "author": "こうめい",
+        "url": "https://brain-market.com/u/kemtch/a/byATM5MjMgoTZsNWa0JXY",
+        "price": "有料（価格不明）",
+        "sales_signal": "WebSearch上位表示。note版と合わせて両プラットフォームで展開",
+        "relevance_to_genre": "high"
+      }
+    ],
+    "common_winning_keywords": [
+      "完全攻略",
+      "ロードマップ",
+      "完全ガイド",
+      "テンプレート付き",
+      "非エンジニアでもOK",
+      "衝撃",
+      "ヤバい",
+      "自動化の自動化",
+      "丸投げ",
+      "量産術",
+      "コピペで使える"
+    ],
+    "common_winning_formats": [
+      "ステップバイステップ（全○章構成）",
+      "テンプレートファイル付録",
+      "比較解説（○○ vs ○○）",
+      "実体験ベースの事例紹介",
+      "チェックリスト型",
+      "最新情報まとめ（月次更新型）"
+    ],
+    "high_demand_intersection": "Claude Code × n8n の組み合わせで『非エンジニアが手を動かせる自動化』というテーマが最も需要が高い。特に有料note・Brain両方でこのテーマが出品されていることから、無料で出せば爆発的な反応が期待できる。加えてClaude Code Auto Mode（2026年3月発表の最新機能）という時事性を掛け合わせると、今この瞬間に欲しい情報として引力が強い"
+  },
+  "latest_info_research": [
+    {
+      "topic": "Claude Code Auto Mode（自律実行モード）の登場",
+      "source_url": "https://weel.co.jp/media/tech/claude-code-auto-mode/",
+      "summary": "2026年3月25日にAnthropicがClaude Codeに自動モードを追加。ツール呼び出しのたびにAIの分類器がリスクを評価し、安全な操作は自動実行・危険な操作はブロックする仕組み。Teamプランで研究プレビューとして提供開始。開発者の承認疲れを解消しながら安全性を担保する「第三の道」として注目を集めている",
+      "novelty_in_japan": "high",
+      "note_article_potential": "設定方法・安全な使い方・実際の業務への適用方法を非エンジニア向けに解説するNote記事として最適。今週の最新情報であるため時事性が高く、「今すぐ読みたい」動機付けが強い"
+    },
+    {
+      "topic": "n8n-MCP: Claude CodeからAIがn8nワークフローを自動構築",
+      "source_url": "https://fragments.co.jp/blog/n8n-mcp-claude/",
+      "summary": "GitHub上でStarを集めているOSS「n8n-mcp」により、Claude Code/Claude Desktop/Cursor等のAIがn8nインスタンスへの読み書きアクセスを持ち、自然言語でワークフローを構築・デプロイできるようになった。525ノード・2,653テンプレートに対応。日本語解説記事も増加中",
+      "novelty_in_japan": "high",
+      "note_article_potential": "非エンジニア向けのセットアップ手順書＋実用ワークフローテンプレートセットとして高い商品価値がある。有料記事として売れているジャンルであり、無料配布すれば強い引力になる"
+    },
+    {
+      "topic": "Claude Code Auto Modeの業務自動化事例（非エンジニア向け）",
+      "source_url": "https://uravation.com/media/claude-code-business-automation/",
+      "summary": "非エンジニアがClaude Codeで業務を自動化する方法10選が公開されており、請求書・メール・レポート処理などの事例が紹介されている。2026年時点でClaude Codeは非エンジニアでも使いこなせるツールとして普及段階にある",
+      "novelty_in_japan": "medium",
+      "note_article_potential": "個人事業主・フリーランス向けの実践事例集として有用。自分の強みである「15社以上のBtoBマーケ支援経験」を組み合わせることで差別化した内容が書ける"
+    },
+    {
+      "topic": "Claude Code vs n8n 2026年の役割分担と最適な使い分け",
+      "source_url": "https://dominikgabor.com/blog/will-claude-code-replace-n8n.html",
+      "summary": "2026年時点でClaude CodeとN8nは競合ではなく補完関係にある。Claude Codeがワークフローの40〜70%を生成し、n8nで残りを視覚的に構築・デバッグするハイブリッドアプローチが主流になっている",
+      "novelty_in_japan": "medium",
+      "note_article_potential": "「Claude CodeとN8n どっちを使うべき？」という疑問に答える比較記事として需要が高い。両方使い倒している自分の経験が強みになる"
+    },
+    {
+      "topic": "2026年BtoBマーケティングトレンド：AIの全社展開率は23%に留まる",
+      "source_url": "https://tovira.jp/contents/b2b-marketing-trend-2026",
+      "summary": "McKinseyの調査によると、AI導入に興味を持つ企業は62%だが全社展開到達率は23%に留まる。95%のB2Bマーケターが組織でAI活用アプリを使用し、45%がAI駆動型マーケティングツールへの投資を計画している",
+      "novelty_in_japan": "medium",
+      "note_article_potential": "BtoB企業向けのAI導入・自動化ロードマップとして、自分の15社以上の支援実績と組み合わせることで説得力のある内容が書ける"
+    }
+  ],
+  "theme_candidates": [
+    {
+      "rank": 1,
+      "theme": "Claude Code Auto Mode 完全セットアップガイド（非エンジニア向け・実践テンプレート付き）",
+      "note_title_draft": "Claude Code Auto Modeで「承認疲れ」とおさらばする実践ガイド｜今週リリースの新機能を非エンジニアが丸ごと使いこなす全手順＋設定テンプレート付き",
+      "note_outline": [
+        "第1章: Claude Code Auto Modeとは何か（2026年3月25日リリースの背景）",
+        "第2章: 従来の承認モードとの違い・使い分けの判断軸",
+        "第3章: セットアップ手順（Team/Enterprise/API別）・安全な設定のコツ",
+        "第4章: 実際に自動化できる業務10選（非エンジニア向け具体例）",
+        "第5章: CLAUDE.mdファイルのテンプレート集（コピペで使える設定例）",
+        "付録: Auto Mode運用チェックリスト（Googleドキュメント）"
+      ],
+      "bonus_idea": "Auto Mode対応のCLAUDE.mdテンプレート5種（業務別カスタマイズ済み）＋安全な使い方チェックリストをGoogleドキュメントで配布",
+      "why_this_theme": "2026年3月25日リリースの最新機能で時事性が最高潮。masahirochaen（フォロワー18万）の関連投稿が550いいね・7.4万インプレッションを記録している。note有料記事でも複数の解説記事が出版されており有償需要が証明済み。自分のClaude Code実践経験が差別化ポイントになる",
+      "expected_appeal": "「昨日発表されたばかりの最新機能の使い方を有料記事で出すところをタダで受け取れる」という希少性と緊急性の組み合わせ",
+      "quote_rt_ease": "「試してみた」「設定できた」「業務に使えた」と感想を書きやすい。テンプレートを使った結果を報告しやすい形式",
+      "confidence": "high"
+    },
+    {
+      "rank": 2,
+      "theme": "Claude Code × n8n MCP セットアップ完全手順書＋すぐ使えるワークフローテンプレート集",
+      "note_title_draft": "自然言語でn8nワークフローが爆速で完成する｜Claude Code × n8n MCP 完全セットアップ手順書＋コピペで動くワークフローJSON 10本付き",
+      "note_outline": [
+        "第1章: n8n-MCPとは何か・なぜ「自動化の自動化」と呼ばれるのか",
+        "第2章: セットアップ手順（n8n Cloud/Self-hosted対応・詳細スクリーンショット付き）",
+        "第3章: 実際にClaude Codeで作らせたワークフロー事例5選（X運用・リサーチ・リード管理・レポート作成・通知自動化）",
+        "第4章: エラーが出たときの対処法・よくある落とし穴",
+        "第5章: ワークフロー品質を上げるプロンプトの書き方テンプレート",
+        "付録: 即使えるワークフローJSONテンプレート10本（Googleドキュメント）"
+      ],
+      "bonus_idea": "実際に使えるn8nワークフローJSON 10本（X運用・営業リサーチ・Slack通知・レポート自動生成等）＋Claude Code向けプロンプトテンプレートをGoogleドキュメントで配布",
+      "why_this_theme": "noteで有料記事（月額8,900円のメンバーシップ）が販売されているテーマ。GitHubスター急増中のn8n-mcpは「自動化の自動化」というキャッチーなコンセプトが日本語圏に広まりつつある段階。n8nガチ勢としての実績（15社以上導入）が差別化ポイント。テンプレートという具体的なギフトで引用RTのハードルが下がる",
+      "expected_appeal": "「月額8,900円のメンバーシップ限定で読める内容が無料」という有料級価値の開放。実際に動くJSONテンプレートは即座に業務に使えるため受け取り動機が強い",
+      "quote_rt_ease": "「ワークフロー動かせた」「こんな業務に使えた」と試した結果を書きやすい。テクニカルな内容だが、動いた瞬間の感動は言語化しやすい",
+      "confidence": "high"
+    },
+    {
+      "rank": 3,
+      "theme": "非エンジニアのためのClaude Code スターターキット（CLAUDEファイル・プロンプト・コマンド集セット）",
+      "note_title_draft": "Claude Codeを昨日インストールして今日から業務で使うための完全スターターキット｜コピペで動くCLAUDEファイルテンプレート＋用途別プロンプト30選付き",
+      "note_outline": [
+        "第1章: Claude Codeが非エンジニアにもなぜ使えるのか（2026年時点の実力）",
+        "第2章: インストール〜初期設定の完全手順（スクリーンショット付き）",
+        "第3章: CLAUDE.mdファイルの書き方と用途別テンプレート（個人事業主向け・フリーランス向け・BtoB企業向け）",
+        "第4章: よく使うコマンド30選（コピペで使える一覧）",
+        "第5章: 実際の業務ユースケース10選（ライティング・リサーチ・資料作成・自動化・マーケ分析）",
+        "付録: CLAUDEファイルテンプレート5種＋プロンプト30選（Googleドキュメント）"
+      ],
+      "bonus_idea": "業種別CLAUDE.mdテンプレート5種（フリーランス・個人事業主・BtoB営業・マーケター・コンテンツクリエイター向け）＋すぐ使えるプロンプト30選をGoogleドキュメントで配布",
+      "why_this_theme": "keitowebai（フォロワー4.2万）の比較解説投稿が483いいね・8.7万インプレッション。非エンジニアがClaude Codeを理解・使用したいニーズが最大級に高い。有料noteで複数の「完全ガイド」が出版されており有償需要が証明済み。引用RTで『こんな業務に使えた』という感想を書きやすい",
+      "expected_appeal": "「有料記事（2,000〜5,000円）で売っているような充実した内容が無料でもらえる」という有料級ギフト感。非エンジニアが実際に手を動かせるテンプレートという即実用性",
+      "quote_rt_ease": "「インストールできた」「こんな業務に使ってみた」など初心者でも感想を書きやすい。テンプレートを使った結果報告はXで書きやすい形式",
+      "confidence": "high"
+    },
+    {
+      "rank": 4,
+      "theme": "X完全自動運用設計書（ClaudeCode × n8n でゼロから作る方法）",
+      "note_title_draft": "X運用に毎日1時間かけてた僕が「作業ゼロ」にした方法｜ClaudeCode × n8n でX完全自動運用システムを構築する全手順＋システム設計図付き",
+      "note_outline": [
+        "第1章: なぜXの手動運用はもう時代遅れなのか（2026年版アルゴリズムとAIの関係）",
+        "第2章: ClaudeCode × n8n でX自動化システムを設計する全体アーキテクチャ",
+        "第3章: リサーチ→企画→執筆→承認→投稿の自動化手順（詳細設定付き）",
+        "第4章: 自動リプライ・エンゲージメント強化の仕組み",
+        "第5章: 品質を保ちながら自動化するためのチェック機構の設計",
+        "付録: システム設計図（Googleドキュメント）＋n8nワークフローJSON"
+      ],
+      "bonus_idea": "X運用自動化のシステム設計図（Figma/PDF）＋実際に動かしているn8nワークフローのJSON一式をGoogleドキュメントで配布",
+      "why_this_theme": "自分の最高エンゲージメント投稿（いいね13・605インプレッション）がこのテーマ。4/1公開予定の自作ツールとの連携で前後の文脈が作りやすい。X運用を自動化したいニーズは個人事業主・フリーランス全員に普遍的。実際に自分で構築・運用しているという体験談としての信頼性が高い",
+      "expected_appeal": "「実際に1時間→ゼロになったリアルな設計図が見られる」という体験談としての説得力。設計図という具体的なギフトで価値が可視化されている",
+      "quote_rt_ease": "「試してみたい」「こういう自動化やってみた」という感想が書きやすい。「自動化したらこうなった」という報告も書きやすい",
+      "confidence": "medium"
+    },
+    {
+      "rank": 5,
+      "theme": "BtoB企業向けAI導入ロードマップ（KPI設計から全社展開まで15社の知見を凝縮）",
+      "note_title_draft": "AIを入れても成果が出ない会社の共通点と対策｜15社以上のBtoBマーケ支援で見えた「AI全社展開率23%」を突破するための実践ロードマップ＋KPI設計テンプレート付き",
+      "note_outline": [
+        "第1章: なぜAI導入企業の77%が全社展開できないのか（McKinseyデータを元に解説）",
+        "第2章: 成果が出た企業と出なかった企業の分岐点（15社の支援経験から）",
+        "第3章: フェーズ別AI導入ロードマップ（PoC→部門展開→全社）",
+        "第4章: KPI設計の具体例（営業・マーケ・CS別）",
+        "第5章: n8n × AIで実装できる業務自動化10選（BtoB向け）",
+        "付録: AI導入KPI設計テンプレート＋ロードマップ（Googleドキュメント）"
+      ],
+      "bonus_idea": "BtoB向けAI導入KPI設計テンプレート＋フェーズ別ロードマップ（カスタマイズ可能なGoogleスプレッドシート）を配布",
+      "why_this_theme": "McKinseyのデータ（導入率62%だが全社展開23%）という権威ある数字を持っている。自分の15社以上のBtoBマーケ支援実績という唯一無二の差別化要素。BtoB企業向けのAI活用コンテンツは競合が少なく、ターゲット層（経営者・マーケター）の購買力が高い",
+      "expected_appeal": "「コンサルに払うような料金の情報が無料で手に入る」という専門知識の開放。実績ベースの実践的内容は真似できない",
+      "quote_rt_ease": "「うちの会社もこれだった」「KPI設計に使ってみた」という感想は書きやすいが、BtoB視点はXで感想を書くことへの心理的ハードルがやや高め",
+      "confidence": "medium"
+    }
+  ]
+}

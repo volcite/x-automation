@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T05:03:41.164Z",
+  "last_updated": "2026-03-26T22:24:35.195Z",
   "items": [
     {
       "id": "k_20260326_001",
@@ -1684,9 +1684,9 @@
         "生徒会長",
         "フリーランス"
       ],
-      "usage_count": 0,
+      "usage_count": 1,
       "max_usage": 10,
-      "last_used_at": null,
+      "last_used_at": "2026-03-27",
       "status": "active",
       "slot_affinity": "evening",
       "source_file": "data/knowledge_sources/自己紹介.md"
