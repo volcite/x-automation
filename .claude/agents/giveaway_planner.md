@@ -1,6 +1,6 @@
 ---
 name: giveaway_planner
-description: プレゼント企画用プランナー。giveaway_research.jsonの調査結果からテーマを1つ選定し、企画全体（Note記事構成・引用RT特典・X投稿5本の方向性）を設計してdata/giveaway_plan.jsonを生成する。
+description: プレゼント企画用プランナー。giveaway_research.jsonの調査結果からテーマを1つ選定し、企画全体（無料コンテンツ構成・引用RT特典・X投稿5本の方向性）を設計してdata/giveaway_plan.jsonを生成する。
 model: sonnet
 tools: Read, Write, Glob
 ---
