@@ -39,6 +39,7 @@
 - @n8n_io
 - @dify_ai
 - @OpenAI
+- @Kohaku_NFT
 
 ## 自分の強み・差別化ポイント
 - 「n8nガチ勢」かつClaude Codeを日常的に使い倒し、プログラミングからデザインまでこなせるため、Claude Code×n8nの高度なワンストップ自動化が構築可能
@@ -77,6 +78,6 @@
 ### 競合調査キーワード（X検索用クエリ）
 - from:keitowebai OR from:miyabi_foxx OR from:masahirochaen OR from:tetumemo OR from:beku_AI
 - from:GeminiApp OR from:claudeai OR from:OpenAI
-- from:n8n_io OR from:dify_ai
+- from:n8n_io OR from:dify_ai OR from:Kohaku_NFT
 - #生成AI #ChatGPT #Claude #n8n #Dify
 - "AI" "自動化" min_faves:100 -filter:replies

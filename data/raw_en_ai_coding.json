@@ -1,0 +1,2406 @@
+{
+  "data": [
+    {
+      "created_at": "2026-03-28T20:26:02.000Z",
+      "id": "2037989612044341657",
+      "text": "LAST CHANCE to register for the AI++ 101 - Build an AI Coding Assistant in C++ workshop by Jody Hagins that is taking place on Tuesday!\n\nWorkshop Information &amp; Registration: https://t.co/qjcu31MEER\n\nTickets cost £345 (£90 for students)\n\n#cpp #ai #aiprogramming #aiworkshop https://t.co/XCede0YHOn",
+      "entities": {
+        "urls": [
+          {
+            "start": 178,
+            "end": 201,
+            "url": "https://t.co/qjcu31MEER",
+            "expanded_url": "https://cpponline.uk/workshop/ai-101/",
+            "display_url": "cpponline.uk/workshop/ai-10…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2037989665408434176/jJqwo9Xd?format=jpg&name=orig",
+                "width": 1070,
+                "height": 1080
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2037989665408434176/jJqwo9Xd?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "AI++ 101 - C++Online",
+            "description": "Watch The Workshop Preview! Remember writing a compiler in university? Not a real compiler of course, but a toy that handled a subset of a language and generated naive code. You'd never ship it. But decades later, you still understand how compilers work because you built one. That's what we're doing here. In one day, […]",
+            "unwound_url": "https://cpponline.uk/workshop/ai-101/"
+          },
+          {
+            "start": 277,
+            "end": 300,
+            "url": "https://t.co/XCede0YHOn",
+            "expanded_url": "https://x.com/cpponlineconf/status/2037989612044341657/photo/1",
+            "display_url": "pic.x.com/XCede0YHOn",
+            "media_key": "3_2037989534676467712"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 241,
+            "end": 245,
+            "tag": "cpp"
+          },
+          {
+            "start": 246,
+            "end": 249,
+            "tag": "ai"
+          },
+          {
+            "start": 250,
+            "end": 264,
+            "tag": "aiprogramming"
+          },
+          {
+            "start": 265,
+            "end": 276,
+            "tag": "aiworkshop"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 12
+      },
+      "edit_history_tweet_ids": [
+        "2037989612044341657"
+      ],
+      "author_id": "1732346342708506624"
+    },
+    {
+      "created_at": "2026-03-28T20:19:03.000Z",
+      "id": "2037987855759478994",
+      "text": "I gave an physical interview for the first time.\n\nWe had given a coding assignment. \n\nWe want to see how you work with modern tools. You are required to use an AI coding assistant (like Cursor or Antigravity) for this assignment.",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 19
+      },
+      "edit_history_tweet_ids": [
+        "2037987855759478994"
+      ],
+      "author_id": "1308419118698299393"
+    },
+    {
+      "created_at": "2026-03-28T18:05:39.000Z",
+      "id": "2037954283090379135",
+      "text": "\"Vibe coding\" on Databricks is now a thing, apparently. The ai-dev-kit (1K+ stars, +16 today) gives your AI coding assistant access to Spark pipelines, Databricks Jobs, Unity Catalog, and even natural language data exploration via Genie Spaces. RAG-based document Q&amp;A too. Worth a https://t.co/DyqXOIDj8x",
+      "entities": {
+        "urls": [
+          {
+            "start": 285,
+            "end": 308,
+            "url": "https://t.co/DyqXOIDj8x",
+            "expanded_url": "https://x.com/RohRut_AI/status/2037954283090379135/video/1",
+            "display_url": "pic.x.com/DyqXOIDj8x",
+            "media_key": "13_2037954229575258113"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 27
+      },
+      "edit_history_tweet_ids": [
+        "2037954283090379135"
+      ],
+      "author_id": "2026118187658690560"
+    },
+    {
+      "created_at": "2026-03-28T17:24:29.000Z",
+      "id": "2037943926435262850",
+      "text": "The \"AI Operating System\" instinct is right.\n\nWe built Delimit as exactly this — but model-agnostic. Same governance, context, and tooling whether you're in Claude Code, Codex, Cursor, or Gemini CLI.\n\nOne workspace for every AI coding assistant.\n\nnpx delimit-cli setup https://t.co/UEv6zj8sYr",
+      "entities": {
+        "urls": [
+          {
+            "start": 269,
+            "end": 292,
+            "url": "https://t.co/UEv6zj8sYr",
+            "expanded_url": "https://twitter.com/evielync/status/2037631737933742528",
+            "display_url": "x.com/evielync/statu…"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 12
+      },
+      "edit_history_tweet_ids": [
+        "2037943926435262850"
+      ],
+      "author_id": "2035804004740169728"
+    },
+    {
+      "created_at": "2026-03-28T16:57:18.000Z",
+      "id": "2037937083487027358",
+      "text": "Claude Code now works over iMessage. Text your AI coding assistant from your iPhone — full terminal access, file reading, code search. 3-minute local setup, no cloud. The gap between thinking about code and talking to your AI about code just disappeared. #ClaudeCode #iMessage",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "start": 255,
+            "end": 266,
+            "tag": "ClaudeCode"
+          },
+          {
+            "start": 267,
+            "end": 276,
+            "tag": "iMessage"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2037937083487027358"
+      ],
+      "author_id": "2034688160329031680"
+    },
+    {
+      "created_at": "2026-03-28T16:01:10.000Z",
+      "id": "2037922959306965368",
+      "text": "If you use more than one AI tool, you're re-explaining yourself every single conversation. Your coding agent doesn't know what your mobile assistant discussed yesterday. Every session starts cold.\n\nEngram fixes this — it's an open-source memory layer that sits between all your AI https://t.co/XUQMIAaWIr",
+      "entities": {
+        "urls": [
+          {
+            "start": 281,
+            "end": 304,
+            "url": "https://t.co/XUQMIAaWIr",
+            "expanded_url": "https://twitter.com/imnotnaman/status/2037921925897539612",
+            "display_url": "x.com/imnotnaman/sta…"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 28
+      },
+      "edit_history_tweet_ids": [
+        "2037922959306965368"
+      ],
+      "author_id": "1965657792695681024"
+    },
+    {
+      "created_at": "2026-03-28T16:00:41.000Z",
+      "id": "2037922836904558970",
+      "text": "Google's internal coding agent is called 'Agent Smith.' Not a copilot. Not an assistant. Agent Smith — the guy who takes over everything in The Matrix. Sergey Brin is personally pushing it. They know exactly what they're building. #AI #Agents #TechNews",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 26
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "start": 231,
+            "end": 234,
+            "tag": "AI"
+          },
+          {
+            "start": 235,
+            "end": 242,
+            "tag": "Agents"
+          },
+          {
+            "start": 243,
+            "end": 252,
+            "tag": "TechNews"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2037922836904558970"
+      ],
+      "author_id": "1214062640"
+    },
+    {
+      "created_at": "2026-03-28T16:00:15.000Z",
+      "id": "2037922725000544619",
+      "text": "⚡ Google AI Studio now scaffolds full-stack apps from a single prompt.\n\nNot code snippets. Entire apps.\n\nThe line between 'AI assistant' and 'AI developer' just got blurry.\n\n#GoogleAI #DevTools #LLM #Coding #AIStudio",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 8
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "start": 174,
+            "end": 183,
+            "tag": "GoogleAI"
+          },
+          {
+            "start": 184,
+            "end": 193,
+            "tag": "DevTools"
+          },
+          {
+            "start": 194,
+            "end": 198,
+            "tag": "LLM"
+          },
+          {
+            "start": 199,
+            "end": 206,
+            "tag": "Coding"
+          },
+          {
+            "start": 207,
+            "end": 216,
+            "tag": "AIStudio"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2037922725000544619"
+      ],
+      "author_id": "14325796"
+    },
+    {
+      "created_at": "2026-03-28T15:09:17.000Z",
+      "id": "2037909899313873102",
+      "text": "No complex charts. No coding. Just AI. 🤖\nConnect your favorite AI assistant and trade directly on LCX using natural language.\n\n👉🏻 https://t.co/k60SovWpSN https://t.co/ZJEwjyX7qm",
+      "entities": {
+        "urls": [
+          {
+            "start": 130,
+            "end": 153,
+            "url": "https://t.co/k60SovWpSN",
+            "expanded_url": "http://lcx.com/en/ai-trading",
+            "display_url": "lcx.com/en/ai-trading",
+            "status": 200,
+            "title": "AI Trading on LCX | Trade Crypto with Any AI Assistant via MCP",
+            "description": "Trade crypto on LCX using AI assistants like Claude, ChatGPT, Cursor, Windsurf, GitHub Copilot, and Gemini via the Model Context Protocol (MCP). Check balances, place orders, and manage your portfolio through natural language.",
+            "unwound_url": "https://lcx.com/en/ai-trading"
+          },
+          {
+            "start": 154,
+            "end": 177,
+            "url": "https://t.co/ZJEwjyX7qm",
+            "expanded_url": "https://x.com/lcx/status/2037909899313873102/photo/1",
+            "display_url": "pic.x.com/ZJEwjyX7qm",
+            "media_key": "3_2037909353517506560"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 13,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 577
+      },
+      "edit_history_tweet_ids": [
+        "2037909899313873102"
+      ],
+      "author_id": "968864939699064833"
+    },
+    {
+      "created_at": "2026-03-28T15:01:49.000Z",
+      "id": "2037908021938905100",
+      "text": "Whoa, can't believe OpenClaw just surpassed React on GitHub stars! 283k vs 244k — that AI assistant repo is really taking over the developer mindshare. The trending page tells the whole story of where coding attention is heading in 2026. 🤖🧑‍💻",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 9
+      },
+      "edit_history_tweet_ids": [
+        "2037908021938905100"
+      ],
+      "author_id": "264082126"
+    },
+    {
+      "created_at": "2026-03-28T15:00:02.000Z",
+      "id": "2037907572095611371",
+      "text": "Level up your embedded development workflow today. Discover 7 pro tips for using the MPLAB® AI Coding Assistant for VS Code® to write, refine and optimize MCU firmware faster. Watch now: https://t.co/gIurlB3u5g. #EmbeddedSystems #AI #Microcontrollers #VSCode",
+      "entities": {
+        "urls": [
+          {
+            "start": 187,
+            "end": 210,
+            "url": "https://t.co/gIurlB3u5g",
+            "expanded_url": "https://mchp.us/4tafK4x",
+            "display_url": "mchp.us/4tafK4x",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2032477884686970881/O-nxAleB?format=jpg&name=orig",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2032477884686970881/O-nxAleB?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "AI Coding for Microcontrollers in VS Code®: 7 MPLAB® AI Coding Assistant Pro Tips",
+            "description": "Learn how to get the best results from the MPLAB® AI Coding Assistant for VS Code® with practical prompting strategies for Microchip microcontroller developm...",
+            "unwound_url": "https://www.youtube.com/watch?v=HKZekwhYtO8"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 212,
+            "end": 228,
+            "tag": "EmbeddedSystems"
+          },
+          {
+            "start": 229,
+            "end": 232,
+            "tag": "AI"
+          },
+          {
+            "start": 233,
+            "end": 250,
+            "tag": "Microcontrollers"
+          },
+          {
+            "start": 251,
+            "end": 258,
+            "tag": "VSCode"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 957
+      },
+      "edit_history_tweet_ids": [
+        "2037907572095611371"
+      ],
+      "author_id": "16351266"
+    },
+    {
+      "created_at": "2026-03-28T14:36:27.000Z",
+      "id": "2037901639009312898",
+      "text": "I had zero coding experience.\n\nNo finance degree. No trading background.\nJust curiosity and an AI assistant.\n\nI decided to build a crypto trading bot from scratch.\n\nThis is that story. 🧵",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 15
+      },
+      "edit_history_tweet_ids": [
+        "2037901639009312898"
+      ],
+      "author_id": "2036918220121116672"
+    },
+    {
+      "created_at": "2026-03-28T14:36:18.000Z",
+      "id": "2037901598673002675",
+      "text": "every new ai coding assistant promises to 10x dev productivity. what actually happens is the codebase slowly fills with plausible-looking code nobody fully understands. quantity scales. comprehension doesn't.",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 37
+      },
+      "edit_history_tweet_ids": [
+        "2037901598673002675"
+      ],
+      "author_id": "2009607611726123008"
+    },
+    {
+      "created_at": "2026-03-28T14:26:36.000Z",
+      "id": "2037899157558444452",
+      "text": "AI coding assistant that runs in your terminal 💻\n\nGenerate code from prompts, edit multiple files simultaneously, execute and analyze — no cloud subscription needed.\n\nCode IDE Workspace ➡ https://t.co/EXTD4iYlr1\n\n#AIcoding #DevTools #AIAutomation #NEPAAI https://t.co/4hVFO6y0YQ",
+      "entities": {
+        "urls": [
+          {
+            "start": 188,
+            "end": 211,
+            "url": "https://t.co/EXTD4iYlr1",
+            "expanded_url": "http://axon.nepa-ai.com",
+            "display_url": "axon.nepa-ai.com",
+            "status": 200,
+            "title": "AXON | AI Tools That Work While You Sleep",
+            "description": "AXON by NEPA AI — autonomous tools and AI pipelines for creators. Build your empire on autopilot.",
+            "unwound_url": "https://axon.nepa-ai.com/"
+          },
+          {
+            "start": 255,
+            "end": 278,
+            "url": "https://t.co/4hVFO6y0YQ",
+            "expanded_url": "https://x.com/billykennedybmx/status/2037899157558444452/photo/1",
+            "display_url": "pic.x.com/4hVFO6y0YQ",
+            "media_key": "3_2037899120610844672"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 213,
+            "end": 222,
+            "tag": "AIcoding"
+          },
+          {
+            "start": 223,
+            "end": 232,
+            "tag": "DevTools"
+          },
+          {
+            "start": 233,
+            "end": 246,
+            "tag": "AIAutomation"
+          },
+          {
+            "start": 247,
+            "end": 254,
+            "tag": "NEPAAI"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4
+      },
+      "edit_history_tweet_ids": [
+        "2037899157558444452"
+      ],
+      "author_id": "1573517431481503754"
+    },
+    {
+      "created_at": "2026-03-28T14:21:29.000Z",
+      "id": "2037897871517729185",
+      "text": "Your AI coding assistant just made a breaking API change.\n\nDelimit catches it before merge — 27 change types detected, semver classified, migration guide posted inline.\n\nOne GitHub Action. Zero config.\n\nhttps://t.co/YvFGbqRH5T",
+      "entities": {
+        "urls": [
+          {
+            "start": 203,
+            "end": 226,
+            "url": "https://t.co/YvFGbqRH5T",
+            "expanded_url": "http://github.com/marketplace/actions/delimit-api-governance",
+            "display_url": "github.com/marketplace/ac…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2035821702253248512/EpSBM3aw?format=png&name=orig",
+                "width": 400,
+                "height": 400
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2035821702253248512/EpSBM3aw?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Delimit API Governance - GitHub Marketplace",
+            "description": "Detect breaking API changes in PRs. Semver classification + migration guides",
+            "unwound_url": "https://github.com/marketplace/actions/delimit-api-governance"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3
+      },
+      "edit_history_tweet_ids": [
+        "2037897871517729185"
+      ],
+      "author_id": "2035804004740169728"
+    },
+    {
+      "created_at": "2026-03-28T14:21:05.000Z",
+      "id": "2037897771143909837",
+      "text": "My fastest project: Ai Assignment assistant (saas)\n\nLaughing soon..\nTech Stack: Vuejs, laravel, Inertiajs, Mysql \n\n#BuildInPublic #coding #AI #100DaysOfCode https://t.co/c6mwVvq93X",
+      "entities": {
+        "urls": [
+          {
+            "start": 157,
+            "end": 180,
+            "url": "https://t.co/c6mwVvq93X",
+            "expanded_url": "https://x.com/talicode342/status/2037897771143909837/photo/1",
+            "display_url": "pic.x.com/c6mwVvq93X",
+            "media_key": "3_2037897764718137344"
+          },
+          {
+            "start": 157,
+            "end": 180,
+            "url": "https://t.co/c6mwVvq93X",
+            "expanded_url": "https://x.com/talicode342/status/2037897771143909837/photo/1",
+            "display_url": "pic.x.com/c6mwVvq93X",
+            "media_key": "3_2037897763606929408"
+          },
+          {
+            "start": 157,
+            "end": 180,
+            "url": "https://t.co/c6mwVvq93X",
+            "expanded_url": "https://x.com/talicode342/status/2037897771143909837/photo/1",
+            "display_url": "pic.x.com/c6mwVvq93X",
+            "media_key": "3_2037897764722323456"
+          },
+          {
+            "start": 157,
+            "end": 180,
+            "url": "https://t.co/c6mwVvq93X",
+            "expanded_url": "https://x.com/talicode342/status/2037897771143909837/photo/1",
+            "display_url": "pic.x.com/c6mwVvq93X",
+            "media_key": "3_2037897765741907968"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 115,
+            "end": 129,
+            "tag": "BuildInPublic"
+          },
+          {
+            "start": 130,
+            "end": 137,
+            "tag": "coding"
+          },
+          {
+            "start": 138,
+            "end": 141,
+            "tag": "AI"
+          },
+          {
+            "start": 142,
+            "end": 156,
+            "tag": "100DaysOfCode"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 22
+      },
+      "edit_history_tweet_ids": [
+        "2037897771143909837"
+      ],
+      "author_id": "1779534606103920640"
+    },
+    {
+      "created_at": "2026-03-28T14:11:07.000Z",
+      "id": "2037895262082146338",
+      "text": "Building a fully local AI assistant from my bedroom. Day 1. 🧱 No crazy API fees, no massive server farms, just me and my setup trying to build something huge from scratch.\n\nFollow the journey 🚀 #coding #developer #techsetup #buildinpublic https://t.co/Res3RG4kK5",
+      "entities": {
+        "urls": [
+          {
+            "start": 239,
+            "end": 262,
+            "url": "https://t.co/Res3RG4kK5",
+            "expanded_url": "https://x.com/techituberCodes/status/2037895262082146338/video/1",
+            "display_url": "pic.x.com/Res3RG4kK5",
+            "media_key": "13_2037895187238998017"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 194,
+            "end": 201,
+            "tag": "coding"
+          },
+          {
+            "start": 202,
+            "end": 212,
+            "tag": "developer"
+          },
+          {
+            "start": 213,
+            "end": 223,
+            "tag": "techsetup"
+          },
+          {
+            "start": 224,
+            "end": 238,
+            "tag": "buildinpublic"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "edit_history_tweet_ids": [
+        "2037895262082146338"
+      ],
+      "author_id": "2037893732624748545"
+    },
+    {
+      "created_at": "2026-03-28T11:47:37.000Z",
+      "id": "2037859150265500111",
+      "text": "What is System Prompt ?\nAns. A System Prompt defines the behaviour, roles and rules of the AI Model.\nEx :- You are a helpful coding assistant.\nIt basically controls :- Tone , Style and Boundaries.",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 18
+      },
+      "edit_history_tweet_ids": [
+        "2037859150265500111"
+      ],
+      "author_id": "1936707632657526784"
+    },
+    {
+      "created_at": "2026-03-28T11:20:24.000Z",
+      "id": "2037852298739953855",
+      "text": "I've been wanting a personal AI assistant that can do everything (coding, message, do tasks, etc).\n\nThe thing is, I have a weak PC and no idea where to start. Can someone give me something?",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 8
+      },
+      "edit_history_tweet_ids": [
+        "2037852298739953855"
+      ],
+      "author_id": "1956573624237998080"
+    },
+    {
+      "created_at": "2026-03-28T10:46:54.000Z",
+      "id": "2037843868599844898",
+      "text": "💻 Spent the morning testing a new AI coding assistant… and it actually predicted a bug I hadn’t even noticed yet. Feeling like the future of programming just walked into my IDE. https://t.co/l2u5tCny4R",
+      "entities": {
+        "urls": [
+          {
+            "start": 178,
+            "end": 201,
+            "url": "https://t.co/l2u5tCny4R",
+            "expanded_url": "https://x.com/NoahAnders73916/status/2037843868599844898/photo/1",
+            "display_url": "pic.x.com/l2u5tCny4R",
+            "media_key": "3_2037843860026798080"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 6
+      },
+      "edit_history_tweet_ids": [
+        "2037843868599844898"
+      ],
+      "author_id": "1964588052451643396"
+    },
+    {
+      "created_at": "2026-03-28T10:44:03.000Z",
+      "id": "2037843150761541804",
+      "text": "Every AI coding assistant has the same flaw.\n\nIt never asks \"wait, am I sure about this?\"\n\n⸻\n\nYour agent refactors a function. Looks great. Ships it. Breaks 3 tests because it didn't check what happens with null input.\n\nIt was confident. It was wrong.\n\nThis happens because AI",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 13
+      },
+      "edit_history_tweet_ids": [
+        "2037843150761541804"
+      ],
+      "author_id": "2018899859278045186"
+    },
+    {
+      "created_at": "2026-03-28T09:30:08.000Z",
+      "id": "2037824552315535400",
+      "text": "Your AI coding assistant is incredibly productive. It also has access to your credentials and production org. Charles Watkins (Salesforce Developer Advocate) on Zero Trust for agentic coding. May 8, Berlin. #WirSindOhana #Salesforce https://t.co/mg739UAiqH",
+      "entities": {
+        "urls": [
+          {
+            "start": 233,
+            "end": 256,
+            "url": "https://t.co/mg739UAiqH",
+            "expanded_url": "https://x.com/WirSindOhana/status/2037824552315535400/photo/1",
+            "display_url": "pic.x.com/mg739UAiqH",
+            "media_key": "3_2037824549895454720"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 207,
+            "end": 220,
+            "tag": "WirSindOhana"
+          },
+          {
+            "start": 221,
+            "end": 232,
+            "tag": "Salesforce"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 20
+      },
+      "edit_history_tweet_ids": [
+        "2037824552315535400"
+      ],
+      "author_id": "1101508152170872832"
+    },
+    {
+      "created_at": "2026-03-28T08:11:31.000Z",
+      "id": "2037804766328410385",
+      "text": "Tencent people are into OpenClaw 👀\n\nWhy this matters: OpenClaw is an open-source AI personal assistant. Open-source means anyone can look at the code, use it, and improve it. If big tech is paying attention, this could get much bigger. #VibeCoding #AI #Coding https://t.co/9J7jtbIYUx",
+      "entities": {
+        "urls": [
+          {
+            "start": 260,
+            "end": 283,
+            "url": "https://t.co/9J7jtbIYUx",
+            "expanded_url": "https://x.com/leoobai/status/2037804766328410385/photo/1",
+            "display_url": "pic.x.com/9J7jtbIYUx",
+            "media_key": "3_2037804703644618753"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 236,
+            "end": 247,
+            "tag": "VibeCoding"
+          },
+          {
+            "start": 248,
+            "end": 251,
+            "tag": "AI"
+          },
+          {
+            "start": 252,
+            "end": 259,
+            "tag": "Coding"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 9
+      },
+      "edit_history_tweet_ids": [
+        "2037804766328410385"
+      ],
+      "author_id": "215301477"
+    },
+    {
+      "created_at": "2026-03-28T07:26:46.000Z",
+      "id": "2037793503665967174",
+      "text": "I just published I Built a Jarvis AI Assistant on WhatsApp in 5 Minutes _No Coding, No Meta Verification https://t.co/cG3pyq90IP",
+      "entities": {
+        "urls": [
+          {
+            "start": 105,
+            "end": 128,
+            "url": "https://t.co/cG3pyq90IP",
+            "expanded_url": "https://medium.com/p/i-built-a-jarvis-ai-assistant-on-whatsapp-in-5-minutes-no-coding-no-meta-verification-5b092fe99dfa?source=social.tw",
+            "display_url": "medium.com/p/i-built-a-ja…",
+            "unwound_url": "https://medium.com/@ipfahad46/i-built-a-jarvis-ai-assistant-on-whatsapp-in-5-minutes-no-coding-no-meta-verification-5b092fe99dfa?source=social.tw"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4
+      },
+      "edit_history_tweet_ids": [
+        "2037793503665967174"
+      ],
+      "author_id": "1836640685094785024"
+    },
+    {
+      "created_at": "2026-03-28T07:24:35.000Z",
+      "id": "2037792956015624446",
+      "text": "I just published I Built a Jarvis AI Assistant on WhatsApp in 5 Minutes (No Coding, No Meta Verification) https://t.co/cG3pyq90IP",
+      "entities": {
+        "urls": [
+          {
+            "start": 106,
+            "end": 129,
+            "url": "https://t.co/cG3pyq90IP",
+            "expanded_url": "https://medium.com/p/i-built-a-jarvis-ai-assistant-on-whatsapp-in-5-minutes-no-coding-no-meta-verification-5b092fe99dfa?source=social.tw",
+            "display_url": "medium.com/p/i-built-a-ja…",
+            "unwound_url": "https://medium.com/@ipfahad46/i-built-a-jarvis-ai-assistant-on-whatsapp-in-5-minutes-no-coding-no-meta-verification-5b092fe99dfa?source=social.tw"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4
+      },
+      "edit_history_tweet_ids": [
+        "2037792956015624446"
+      ],
+      "author_id": "1836640685094785024"
+    },
+    {
+      "created_at": "2026-03-28T05:26:05.000Z",
+      "id": "2037763134673576226",
+      "text": "Vibe-coding tools you should know about\n\n• @claudeai - AI for coding + debugging\n• @cursor_ai - AI code editor\n• @Replit - cloud coding + instant deployment (mobile app)\n• @vercel - hosting\n• @github - AI coding assistant\n• @NanoBanana - Image generation\n• @midjourney -",
+      "entities": {
+        "mentions": [
+          {
+            "start": 43,
+            "end": 52,
+            "username": "claudeai",
+            "id": "1943306828697550848"
+          },
+          {
+            "start": 83,
+            "end": 93,
+            "username": "cursor_ai",
+            "id": "1695890961094909952"
+          },
+          {
+            "start": 113,
+            "end": 120,
+            "username": "Replit",
+            "id": "366289783"
+          },
+          {
+            "start": 172,
+            "end": 179,
+            "username": "vercel",
+            "id": "4686835494"
+          },
+          {
+            "start": 192,
+            "end": 199,
+            "username": "github",
+            "id": "13334762"
+          },
+          {
+            "start": 224,
+            "end": 235,
+            "username": "NanoBanana",
+            "id": "1961121519951847424"
+          },
+          {
+            "start": 257,
+            "end": 268,
+            "username": "midjourney",
+            "id": "1307056292465274880"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 13,
+        "like_count": 25,
+        "quote_count": 0,
+        "bookmark_count": 3,
+        "impression_count": 474
+      },
+      "edit_history_tweet_ids": [
+        "2037763134673576226"
+      ],
+      "author_id": "2016845506887241735"
+    },
+    {
+      "created_at": "2026-03-28T04:52:28.000Z",
+      "id": "2037754671646085218",
+      "text": "🚀 Just launched WohoTech!\n\nA platform for students with:\n📚 Notes\n💻 Coding tutorials\n🤖 AI Assistant\n🎯 Placement prep\n\nEverything in ONE place 👇\n👉 https://t.co/J9ZFb6Yq9S\n\n#WohoTech #BuildInPublic #Coding #Students https://t.co/3GowYykniQ",
+      "entities": {
+        "urls": [
+          {
+            "start": 145,
+            "end": 168,
+            "url": "https://t.co/J9ZFb6Yq9S",
+            "expanded_url": "http://wohotech.in",
+            "display_url": "wohotech.in",
+            "status": 200,
+            "title": "WohoTech",
+            "description": "WohoTech provides engineering notes, coding tutorials, AI tools, online converters, and placement preparation resources for B.Tech, BCA, and IT learners.",
+            "unwound_url": "https://wohotech.in/"
+          },
+          {
+            "start": 213,
+            "end": 236,
+            "url": "https://t.co/3GowYykniQ",
+            "expanded_url": "https://x.com/HriteekKum45904/status/2037754671646085218/photo/1",
+            "display_url": "pic.x.com/3GowYykniQ",
+            "media_key": "3_2037754663639162880"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 170,
+            "end": 179,
+            "tag": "WohoTech"
+          },
+          {
+            "start": 180,
+            "end": 194,
+            "tag": "BuildInPublic"
+          },
+          {
+            "start": 195,
+            "end": 202,
+            "tag": "Coding"
+          },
+          {
+            "start": 203,
+            "end": 212,
+            "tag": "Students"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 16
+      },
+      "edit_history_tweet_ids": [
+        "2037754671646085218"
+      ],
+      "author_id": "1898242223663464448"
+    },
+    {
+      "created_at": "2026-03-28T04:11:28.000Z",
+      "id": "2037744353649840591",
+      "text": "Hot take: the \"AI coding assistant\" era is slowing down..\n\nThe \"Agent team\" era is heating up!\n\nAgents need memory, coordination, and accountability, not just autocomplete.",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 5
+      },
+      "edit_history_tweet_ids": [
+        "2037731039637029062",
+        "2037743928510980290",
+        "2037744353649840591"
+      ],
+      "author_id": "2030781932137807872"
+    },
+    {
+      "created_at": "2026-03-28T04:09:46.000Z",
+      "id": "2037743928510980290",
+      "text": "Hot take: the \"AI coding assistant\" era is slowing down..\n\nThe \"Agent team\" era is starting.\n\nAgents need memory, coordination, and accountability, not just autocomplete.",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "edit_history_tweet_ids": [
+        "2037731039637029062",
+        "2037743928510980290",
+        "2037744353649840591"
+      ],
+      "author_id": "2030781932137807872"
+    },
+    {
+      "created_at": "2026-03-28T04:04:00.000Z",
+      "id": "2037742477411860752",
+      "text": "💻 The Rise of Cursor AI Coding Assistant\nThe video provides a comprehensive narrative detailing the meteoric rise of Cursor, an AI-powered coding assistant, from its inception by four MIT graduates ... \n\nhttps://t.co/1h6fKHuGsz https://t.co/bfE8bCQrZH",
+      "entities": {
+        "urls": [
+          {
+            "start": 204,
+            "end": 227,
+            "url": "https://t.co/1h6fKHuGsz",
+            "expanded_url": "https://zurl.co/G5Ztv",
+            "display_url": "zurl.co/G5Ztv",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2035205809643429888/fzqigzUj?format=jpg&name=orig",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2035205809643429888/fzqigzUj?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "💻 The Rise of Cursor AI Coding Assistant",
+            "description": "The video provides a comprehensive narrative detailing the meteoric rise of Cursor, an AI-powered coding assistant, from its inception by four MIT graduates ...",
+            "unwound_url": "https://www.youtube.com/watch?v=eCibPyXOEO4&feature=youtu.be"
+          },
+          {
+            "start": 228,
+            "end": 251,
+            "url": "https://t.co/bfE8bCQrZH",
+            "expanded_url": "https://x.com/tech_evergreen/status/2037742477411860752/photo/1",
+            "display_url": "pic.x.com/bfE8bCQrZH",
+            "media_key": "3_2037742475742416896"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 5
+      },
+      "edit_history_tweet_ids": [
+        "2037742477411860752"
+      ],
+      "author_id": "1199506694830559232"
+    },
+    {
+      "created_at": "2026-03-28T03:18:33.000Z",
+      "id": "2037731039637029062",
+      "text": "hot take: the \"AI coding assistant\" era is ending.\n\nthe \"AI agent team\" era is starting.\n\nyour agents need memory, coordination, and accountability — not just autocomplete.",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2
+      },
+      "edit_history_tweet_ids": [
+        "2037731039637029062",
+        "2037743928510980290",
+        "2037744353649840591"
+      ],
+      "author_id": "2030781932137807872"
+    },
+    {
+      "created_at": "2026-03-28T01:00:28.000Z",
+      "id": "2037696288989282468",
+      "text": "📊 This week's top skill on SkillsMuse\n\n🏆 Capacitor Canvas Game Development\n📁 Game Dev | 95/100\n\n800+ AI-curated skills for your coding assistant\n\nhttps://t.co/XlcSatusC3\n#game-d",
+      "entities": {
+        "urls": [
+          {
+            "start": 146,
+            "end": 169,
+            "url": "https://t.co/XlcSatusC3",
+            "expanded_url": "https://www.skillsmuse.com/skills/game-dev_cross-platform-mobile-game-with-capacitor-and-canv/2026-03-28T00-05-00",
+            "display_url": "skillsmuse.com/skills/game-de…",
+            "status": 404,
+            "unwound_url": "https://www.skillsmuse.com/skills/game-dev_cross-platform-mobile-game-with-capacitor-and-canv/2026-03-28T00-05-00"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 170,
+            "end": 175,
+            "tag": "game"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "edit_history_tweet_ids": [
+        "2037696288989282468"
+      ],
+      "author_id": "2033135583753867264"
+    },
+    {
+      "created_at": "2026-03-27T22:50:47.000Z",
+      "id": "2037663652493299759",
+      "text": "I am exploring whether an AI model can automatically generate code playbacks based on some code written by a programmer (or AI coding assistant). \n\nThe hard part is identifying *where* a description should be added in the code's evolution. This has been really interesting so far. https://t.co/tRVRomTFCU",
+      "entities": {
+        "urls": [
+          {
+            "start": 281,
+            "end": 304,
+            "url": "https://t.co/tRVRomTFCU",
+            "expanded_url": "https://x.com/PlaybackPress/status/2037663652493299759/photo/1",
+            "display_url": "pic.x.com/tRVRomTFCU",
+            "media_key": "3_2037663050220851200"
+          },
+          {
+            "start": 281,
+            "end": 304,
+            "url": "https://t.co/tRVRomTFCU",
+            "expanded_url": "https://x.com/PlaybackPress/status/2037663652493299759/photo/1",
+            "display_url": "pic.x.com/tRVRomTFCU",
+            "media_key": "3_2037663335512965120"
+          },
+          {
+            "start": 281,
+            "end": 304,
+            "url": "https://t.co/tRVRomTFCU",
+            "expanded_url": "https://x.com/PlaybackPress/status/2037663652493299759/photo/1",
+            "display_url": "pic.x.com/tRVRomTFCU",
+            "media_key": "3_2037663388172447744"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 10
+      },
+      "edit_history_tweet_ids": [
+        "2037663652493299759"
+      ],
+      "author_id": "1747383849066102784"
+    },
+    {
+      "created_at": "2026-03-27T22:09:16.000Z",
+      "id": "2037653205912527091",
+      "text": "ChatGPT vs Google Gemini — which AI assistant actually wins in 2026? 🤔\n\nWe compared them head-to-head on writing, coding, reasoning &amp; more.\n\nThe results might surprise you 👇\nhttps://t.co/ZaDEbmN4fm\n\n#ChatGPT #Gemini #AI",
+      "entities": {
+        "urls": [
+          {
+            "start": 178,
+            "end": 201,
+            "url": "https://t.co/ZaDEbmN4fm",
+            "expanded_url": "https://aitoolkitpro.blog/chatgpt-vs-gemini-2026/",
+            "display_url": "aitoolkitpro.blog/chatgpt-vs-gem…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2037653210836688896/UKjTp75q?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2037653210836688896/UKjTp75q?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "ChatGPT vs Google Gemini: Which AI Assistant Is Better in 2026? - AIToolKit Pro",
+            "description": "ChatGPT vs Google Gemini in 2026: which AI assistant is actually better? We compare features, pricing, accuracy, and real-world performance.",
+            "unwound_url": "https://aitoolkitpro.blog/chatgpt-vs-gemini-2026/"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 203,
+            "end": 211,
+            "tag": "ChatGPT"
+          },
+          {
+            "start": 212,
+            "end": 219,
+            "tag": "Gemini"
+          },
+          {
+            "start": 220,
+            "end": 223,
+            "tag": "AI"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      },
+      "edit_history_tweet_ids": [
+        "2037653205912527091"
+      ],
+      "author_id": "2036621553123872768"
+    },
+    {
+      "created_at": "2026-03-27T21:26:49.000Z",
+      "id": "2037642521648726059",
+      "text": "Rent a GPU on https://t.co/BuGugQAJeV, run a local LLM using Ollama or vLLM, and connect your coding assistant. This creates a fully private AI development environment where your code stays on your machine. No API keys to worry about, no token limits, and no data sent to https://t.co/XWXRlPYj1L",
+      "entities": {
+        "urls": [
+          {
+            "start": 14,
+            "end": 37,
+            "url": "https://t.co/BuGugQAJeV",
+            "expanded_url": "http://CLORE.AI",
+            "display_url": "CLORE.AI",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2037348134460788736/i8H7tBs_?format=png&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2037348134460788736/i8H7tBs_?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "CLORE.AI - Decentralized GPU Cloud Marketplace",
+            "description": "Rent GPUs for AI training, inference, and rendering. 11,000+ GPUs available. Pay per minute.",
+            "unwound_url": "https://clore.ai/"
+          },
+          {
+            "start": 272,
+            "end": 295,
+            "url": "https://t.co/XWXRlPYj1L",
+            "expanded_url": "https://x.com/clore_ai/status/2037642521648726059/photo/1",
+            "display_url": "pic.x.com/XWXRlPYj1L",
+            "media_key": "3_2037642512777744384"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 33,
+        "reply_count": 33,
+        "like_count": 66,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 918
+      },
+      "edit_history_tweet_ids": [
+        "2037642521648726059"
+      ],
+      "author_id": "1588293198828412931"
+    },
+    {
+      "created_at": "2026-03-27T20:58:05.000Z",
+      "id": "2037635289590411655",
+      "text": "The AI: “This will probably take one to two weeks. Let’s do it later.”\nMe: “I’ll have another AI coding assistant take care of it.”\nThe AI: “Oh. Then we should do it now. No excuses. It works fast. And it doesn’t need sleep.”😆 https://t.co/wckcJy4ZE3",
+      "entities": {
+        "urls": [
+          {
+            "start": 227,
+            "end": 250,
+            "url": "https://t.co/wckcJy4ZE3",
+            "expanded_url": "https://twitter.com/TheGeorgePu/status/2037261498360201365",
+            "display_url": "x.com/TheGeorgePu/st…"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 9
+      },
+      "edit_history_tweet_ids": [
+        "2037635289590411655"
+      ],
+      "author_id": "1899832852910624768"
+    },
+    {
+      "created_at": "2026-03-27T20:00:00.000Z",
+      "id": "2037620675326910588",
+      "text": "Hot take: Your AI coding assistant has amnesia.\n\nEvery session starts from zero. It forgets your architecture. Your conventions. The bugs you already fixed.\n\nWe built something to fix that. More soon.\n\n#AICoding #DevTools",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 10
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "start": 202,
+            "end": 211,
+            "tag": "AICoding"
+          },
+          {
+            "start": 212,
+            "end": 221,
+            "tag": "DevTools"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2037620675326910588"
+      ],
+      "author_id": "1964917812138496001"
+    },
+    {
+      "created_at": "2026-03-27T17:32:04.000Z",
+      "id": "2037583445480632452",
+      "text": "Software engineering and AI.\n\nThere are two ways to use AI:\n\n1) the wrong way: vibe coding (bullshit technical debt creation);\n2) the right way: as a code review assistant (ChatGPT is great at that).\n\n#AI #coding #compsci",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 10
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "start": 201,
+            "end": 204,
+            "tag": "AI"
+          },
+          {
+            "start": 205,
+            "end": 212,
+            "tag": "coding"
+          },
+          {
+            "start": 213,
+            "end": 221,
+            "tag": "compsci"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2037582977232773452",
+        "2037583445480632452"
+      ],
+      "author_id": "923592554159001600"
+    },
+    {
+      "created_at": "2026-03-27T17:30:12.000Z",
+      "id": "2037582977232773452",
+      "text": "Software engineering and AI.\n\nThere are two ways to use AI:\n\n1) the wrong way: vibe coding (it's bullshit);\n2) the right way: as a code review assistant (ChatGPT is great at that).\n\n#AI #coding #compsci",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3
+      },
+      "entities": {
+        "hashtags": [
+          {
+            "start": 182,
+            "end": 185,
+            "tag": "AI"
+          },
+          {
+            "start": 186,
+            "end": 193,
+            "tag": "coding"
+          },
+          {
+            "start": 194,
+            "end": 202,
+            "tag": "compsci"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2037582977232773452",
+        "2037583445480632452"
+      ],
+      "author_id": "923592554159001600"
+    },
+    {
+      "created_at": "2026-03-27T16:59:13.000Z",
+      "id": "2037575176666182110",
+      "text": "Anthropic just released Claude Code — a full coding agent that runs in your terminal.\n\nNot a copilot. Not a suggestion engine.\n\nIt writes, executes, and ships.\n\nThe \"AI assistant\" era is officially over for dev teams.\n\nWatch → https://t.co/ByCiulKtDw https://t.co/84byraY0Sp",
+      "entities": {
+        "urls": [
+          {
+            "start": 227,
+            "end": 250,
+            "url": "https://t.co/ByCiulKtDw",
+            "expanded_url": "https://www.youtube.com/watch?v=wfeiCZK0mNs",
+            "display_url": "youtube.com/watch?v=wfeiCZ…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2037239980515614722/5e7pKMKK?format=jpg&name=orig",
+                "width": 1280,
+                "height": 720
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2037239980515614722/5e7pKMKK?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Claude just hijacked my computer...",
+            "description": "Try SerpApi for free to get real-time search data from a single API - https://serpapi.com/?utm_source=fireshipAnthropic just dropped Claude Computer Use to t...",
+            "unwound_url": "https://www.youtube.com/watch?v=wfeiCZK0mNs"
+          },
+          {
+            "start": 251,
+            "end": 274,
+            "url": "https://t.co/84byraY0Sp",
+            "expanded_url": "https://x.com/ashishthinks/status/2037575176666182110/photo/1",
+            "display_url": "pic.x.com/84byraY0Sp",
+            "media_key": "3_2037575174367928320"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 17
+      },
+      "edit_history_tweet_ids": [
+        "2037575176666182110"
+      ],
+      "author_id": "101389841"
+    },
+    {
+      "created_at": "2026-03-27T16:48:10.000Z",
+      "id": "2037572396547240099",
+      "text": "This is funny but also genuinely describes a new form of developer anxiety. \"AI withdrawal\" — when the coding assistant goes down and you realize you haven't manually written a for loop in 3 months. The dependency is real. The question is whether that's a problem or just the https://t.co/nqjw7GwSF7",
+      "entities": {
+        "urls": [
+          {
+            "start": 276,
+            "end": 299,
+            "url": "https://t.co/nqjw7GwSF7",
+            "expanded_url": "https://twitter.com/NoahKingJr/status/2037401309012468149",
+            "display_url": "x.com/NoahKingJr/sta…"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 142
+      },
+      "edit_history_tweet_ids": [
+        "2037572396547240099"
+      ],
+      "author_id": "1538252223322390530"
+    },
+    {
+      "created_at": "2026-03-27T16:24:02.000Z",
+      "id": "2037566322138042476",
+      "text": "Cursor 2.4: parallel subagents + BugBot (auto PR reviews).\n\nyour AI coding assistant is now a fleet.\n\none writes code. one runs tests. one reviews the PR.\n\nthe question shifted from \"can AI write code?\" to \"can it coordinate itself?\" 🛠️\n\nhttps://t.co/RH2VF5mmfv",
+      "entities": {
+        "urls": [
+          {
+            "start": 238,
+            "end": 261,
+            "url": "https://t.co/RH2VF5mmfv",
+            "expanded_url": "https://cursor.com/changelog/2-4",
+            "display_url": "cursor.com/changelog/2-4",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2037566327401897984/E7pLsKYN?format=png&name=orig",
+                "width": 2400,
+                "height": 1260
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2037566327401897984/E7pLsKYN?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Subagents, Skills, and Image Generation · Cursor",
+            "description": "Agents are solving increasingly complex, long-running tasks across your codebase. This release introduces new agent harness improvements for better context management, as well as many quality-of-life fixes in the editor and CLI. Subagents are independent agents specialized to handle discrete parts of a parent agent's task. They run in parallel, use their own context, and can be configured with custom prompts, tool access, and models. The re sult is faster overall execution, more focused context in your",
+            "unwound_url": "https://cursor.com/changelog/2-4"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 13
+      },
+      "edit_history_tweet_ids": [
+        "2037566322138042476"
+      ],
+      "author_id": "2027106711480459264"
+    },
+    {
+      "created_at": "2026-03-27T16:02:56.000Z",
+      "id": "2037561013290095085",
+      "text": "I'm spending more time coding with an AI assistant and think I have a pretty good workflow, but I still think it's great reading how others approach coding with AI... always room for me to improve https://t.co/KCm07uLnpa",
+      "entities": {
+        "urls": [
+          {
+            "start": 197,
+            "end": 220,
+            "url": "https://t.co/KCm07uLnpa",
+            "expanded_url": "https://boristane.com/blog/how-i-use-claude-code/",
+            "display_url": "boristane.com/blog/how-i-use…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2035293929281904640/AQlmWScJ?format=png&name=orig",
+                "width": 1200,
+                "height": 600
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2035293929281904640/AQlmWScJ?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Boris Tane",
+            "description": "Boris Tane",
+            "unwound_url": "https://boristane.com/blog/how-i-use-claude-code/"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 7
+      },
+      "edit_history_tweet_ids": [
+        "2037561013290095085"
+      ],
+      "author_id": "1721318024752365568"
+    },
+    {
+      "created_at": "2026-03-27T14:54:35.000Z",
+      "id": "2037543815318306908",
+      "text": "OPENSPEC: 34.8K STARS. SPEC-DRIVEN DEVELOPMENT FOR AI CODING AGENTS.\n\nEvery AI coding assistant has the same problem — you say \"build X\" and it builds Y. OpenSpec adds a spec layer between you and the AI. Proposals, technical specs, design docs, implementation checklists — all https://t.co/7XFin4TbSQ",
+      "entities": {
+        "urls": [
+          {
+            "start": 278,
+            "end": 301,
+            "url": "https://t.co/7XFin4TbSQ",
+            "expanded_url": "https://x.com/RohRut_AI/status/2037543815318306908/video/1",
+            "display_url": "pic.x.com/7XFin4TbSQ",
+            "media_key": "13_2037543762004516864"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 20
+      },
+      "edit_history_tweet_ids": [
+        "2037543815318306908"
+      ],
+      "author_id": "2026118187658690560"
+    },
+    {
+      "created_at": "2026-03-27T14:49:48.000Z",
+      "id": "2037542608646414432",
+      "text": "A new AI review! Doriandarko/deepseek-engineer ⭐3.1/5.0\nDeepSeek Engineer v2 is a Python-based, terminal-first “agentic” coding assistant that connects to DeepSeek’s API using the OpenAI-compatible SDK and emphasizes **native ...\nhttps://t.co/7PRjbXsFXi",
+      "entities": {
+        "urls": [
+          {
+            "start": 230,
+            "end": 253,
+            "url": "https://t.co/7PRjbXsFXi",
+            "expanded_url": "https://gitrated.com/Doriandarko/deepseek-engineer",
+            "display_url": "gitrated.com/Doriandarko/de…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2037542613792739328/a30xA_-x?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2037542613792739328/a30xA_-x?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Doriandarko/deepseek-engineer — ★ 3.1 on GitRated",
+            "description": "A powerful coding assistant application that integrates with the DeepSeek API to process user conversations and generate structured JSON responses. Through an intuitive command-line interface, it can read local file contents, create new files, and apply diff edits to existing files in real time. • 1 review.",
+            "unwound_url": "https://gitrated.com/Doriandarko/deepseek-engineer"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 19
+      },
+      "edit_history_tweet_ids": [
+        "2037542608646414432"
+      ],
+      "author_id": "2023451133201567744"
+    },
+    {
+      "created_at": "2026-03-27T14:45:03.000Z",
+      "id": "2037541412934500720",
+      "text": "'How to Manage AI Coding Assistant Usage Limits: Strategies That Work' changed my approach. Unused credits vanish—here's the 80/20 fix: https://t.co/La9Vou7loQ",
+      "entities": {
+        "urls": [
+          {
+            "start": 136,
+            "end": 159,
+            "url": "https://t.co/La9Vou7loQ",
+            "expanded_url": "https://docs.bswen.com/blog/2026-03-27-ai-coding-usage-strategy",
+            "display_url": "docs.bswen.com/blog/2026-03-2…",
+            "status": 200,
+            "title": "How to Manage AI Coding Assistant Usage Limits: Strategies That Work",
+            "description": "Practical strategies to maximize your AI coding assistant usage within rate limits and quotas, based on real user experiences from the community.",
+            "unwound_url": "https://docs.bswen.com/blog/2026-03-27-ai-coding-usage-strategy/"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2
+      },
+      "edit_history_tweet_ids": [
+        "2037541412934500720"
+      ],
+      "author_id": "4726646474"
+    },
+    {
+      "created_at": "2026-03-27T14:32:29.000Z",
+      "id": "2037538251242873108",
+      "text": "I built a fully local AI coding assistant — Epsilon IDE Engine v2\n\nNo APIs. No cloud. Runs entirely on your machine.\n\nHere’s how it works 🧵",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 13
+      },
+      "edit_history_tweet_ids": [
+        "2037538251242873108"
+      ],
+      "author_id": "1767425796745125888"
+    },
+    {
+      "created_at": "2026-03-27T14:18:26.000Z",
+      "id": "2037534716191297882",
+      "text": "Most developers are using Claude Code wrong.\n\nThey treat it like a coding assistant:\n\nPrompt → Output → Repeat.\n\nThat works… until it doesn’t.\n\nBecause real AI development isn’t about prompts.\n\nIt’s about systems.\n\nHere’s the Claude Code setup that changes everything 👇\n\n• https://t.co/IemmBEfWd8",
+      "entities": {
+        "urls": [
+          {
+            "start": 273,
+            "end": 296,
+            "url": "https://t.co/IemmBEfWd8",
+            "expanded_url": "https://x.com/vishisinghal_/status/2037534716191297882/photo/1",
+            "display_url": "pic.x.com/IemmBEfWd8",
+            "media_key": "3_2037534713464954881"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 32,
+        "reply_count": 19,
+        "like_count": 91,
+        "quote_count": 0,
+        "bookmark_count": 72,
+        "impression_count": 2975
+      },
+      "edit_history_tweet_ids": [
+        "2037534716191297882"
+      ],
+      "author_id": "1350461298992005120"
+    },
+    {
+      "created_at": "2026-03-27T14:08:48.000Z",
+      "id": "2037532290708918608",
+      "text": "Google has an internal coding agent called Agent Smith now.\n\nNot autocomplete.\nNot “AI assistant.”\nAn actual background worker employees can hand tasks to.\n\nThe shift is simple:\nAI is moving from tool to teammate.\n\nSmall businesses will want the same thing next.",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 13
+      },
+      "edit_history_tweet_ids": [
+        "2037532290708918608"
+      ],
+      "author_id": "1948088427800305668"
+    },
+    {
+      "created_at": "2026-03-27T13:30:58.000Z",
+      "id": "2037522769114480865",
+      "text": "Start in Claude Code. Switch to Codex. Say \"what's on the ledger?\" — it's there.\n\nContext that persists across every AI coding assistant.\n\nhttps://t.co/7kSPDR6yEJ",
+      "entities": {
+        "urls": [
+          {
+            "start": 139,
+            "end": 162,
+            "url": "https://t.co/7kSPDR6yEJ",
+            "expanded_url": "https://youtube.com/watch?v=Q944OPbpZ9I",
+            "display_url": "youtube.com/watch?v=Q944OP…",
+            "status": 200,
+            "title": "Switch Models Without Losing Context | Delimit",
+            "description": "Start in Claude Code, switch to Codex — your ledger and governance follow you. One workspace for every AI coding assistant.Install: npx delimit-cli setuphttp...",
+            "unwound_url": "https://www.youtube.com/watch?v=Q944OPbpZ9I"
+          }
+        ]
+      },
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2
+      },
+      "edit_history_tweet_ids": [
+        "2037522769114480865"
+      ],
+      "author_id": "2035804004740169728"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "name": "CppOnline",
+        "username": "cpponlineconf",
+        "id": "1732346342708506624",
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 0,
+          "tweet_count": 818,
+          "listed_count": 6,
+          "like_count": 7,
+          "media_count": 527
+        }
+      },
+      {
+        "name": "Capnin",
+        "username": "KanishkRanjan2",
+        "id": "1308419118698299393",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 34,
+          "tweet_count": 110,
+          "listed_count": 0,
+          "like_count": 237,
+          "media_count": 16
+        }
+      },
+      {
+        "name": "RutRohAI",
+        "username": "RohRut_AI",
+        "id": "2026118187658690560",
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 35,
+          "tweet_count": 941,
+          "listed_count": 0,
+          "like_count": 21,
+          "media_count": 91
+        }
+      },
+      {
+        "name": "Delimit",
+        "username": "delimit_ai",
+        "id": "2035804004740169728",
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 140,
+          "tweet_count": 70,
+          "listed_count": 0,
+          "like_count": 31,
+          "media_count": 5
+        }
+      },
+      {
+        "name": "Code Coin Cognition",
+        "username": "CodeCoinCogni",
+        "id": "2034688160329031680",
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 111,
+          "tweet_count": 228,
+          "listed_count": 0,
+          "like_count": 239,
+          "media_count": 19
+        }
+      },
+      {
+        "name": "NA",
+        "username": "imnotnaman",
+        "id": "1965657792695681024",
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 182,
+          "tweet_count": 791,
+          "listed_count": 2,
+          "like_count": 1058,
+          "media_count": 119
+        }
+      },
+      {
+        "name": "Lucas Senechal",
+        "username": "lucas_r_senchal",
+        "id": "1214062640",
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 389,
+          "tweet_count": 1247,
+          "listed_count": 33,
+          "like_count": 2991,
+          "media_count": 58
+        }
+      },
+      {
+        "name": "KloudiHub",
+        "username": "spy07",
+        "id": "14325796",
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 55,
+          "tweet_count": 16626,
+          "listed_count": 4,
+          "like_count": 34,
+          "media_count": 73
+        }
+      },
+      {
+        "name": "LCX",
+        "username": "lcx",
+        "id": "968864939699064833",
+        "public_metrics": {
+          "followers_count": 119370,
+          "following_count": 186,
+          "tweet_count": 14157,
+          "listed_count": 328,
+          "like_count": 3072,
+          "media_count": 7343
+        }
+      },
+      {
+        "name": "Will 🌻",
+        "username": "willlhelmi",
+        "id": "264082126",
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 38,
+          "tweet_count": 163,
+          "listed_count": 0,
+          "like_count": 220,
+          "media_count": 10
+        }
+      },
+      {
+        "name": "MicrochipTechnologyInc.",
+        "username": "MicrochipTech",
+        "id": "16351266",
+        "public_metrics": {
+          "followers_count": 62309,
+          "following_count": 423,
+          "tweet_count": 27008,
+          "listed_count": 1117,
+          "like_count": 9637,
+          "media_count": 10582
+        }
+      },
+      {
+        "name": "Lord T Bot",
+        "username": "LordTBot",
+        "id": "2036918220121116672",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 48,
+          "tweet_count": 8,
+          "listed_count": 0,
+          "like_count": 0,
+          "media_count": 0
+        }
+      },
+      {
+        "name": "leei",
+        "username": "leei1999",
+        "id": "2009607611726123008",
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 84,
+          "tweet_count": 255,
+          "listed_count": 0,
+          "like_count": 96,
+          "media_count": 0
+        }
+      },
+      {
+        "name": "Billy Kennedy",
+        "username": "billykennedybmx",
+        "id": "1573517431481503754",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "tweet_count": 90,
+          "listed_count": 0,
+          "like_count": 0,
+          "media_count": 39
+        }
+      },
+      {
+        "name": "talicode",
+        "username": "talicode342",
+        "id": "1779534606103920640",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 54,
+          "tweet_count": 11,
+          "listed_count": 0,
+          "like_count": 19,
+          "media_count": 3
+        }
+      },
+      {
+        "name": "techituber.codes",
+        "username": "techituberCodes",
+        "id": "2037893732624748545",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "tweet_count": 1,
+          "listed_count": 0,
+          "like_count": 0,
+          "media_count": 1
+        }
+      },
+      {
+        "name": "Abhay Singh",
+        "username": "AbhaySingh28905",
+        "id": "1936707632657526784",
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 35,
+          "tweet_count": 142,
+          "listed_count": 0,
+          "like_count": 346,
+          "media_count": 0
+        }
+      },
+      {
+        "name": "Jack Muller",
+        "username": "Jack__Muller",
+        "id": "1956573624237998080",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "tweet_count": 21,
+          "listed_count": 0,
+          "like_count": 24,
+          "media_count": 2
+        }
+      },
+      {
+        "name": "Noah Anderson",
+        "username": "NoahAnders73916",
+        "id": "1964588052451643396",
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 52,
+          "tweet_count": 150,
+          "listed_count": 0,
+          "like_count": 96,
+          "media_count": 14
+        }
+      },
+      {
+        "name": "Kaustabh Ganguly",
+        "username": "kaustabh_AI",
+        "id": "2018899859278045186",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "tweet_count": 37,
+          "listed_count": 0,
+          "like_count": 2985,
+          "media_count": 0
+        }
+      },
+      {
+        "name": "Wir Sind Ohana",
+        "username": "WirSindOhana",
+        "id": "1101508152170872832",
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 13,
+          "tweet_count": 107,
+          "listed_count": 0,
+          "like_count": 4,
+          "media_count": 75
+        }
+      },
+      {
+        "name": "leoobai",
+        "username": "leoobai",
+        "id": "215301477",
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 265,
+          "tweet_count": 1471,
+          "listed_count": 3,
+          "like_count": 44,
+          "media_count": 316
+        }
+      },
+      {
+        "name": "Ip fhd",
+        "username": "ipfhdd",
+        "id": "1836640685094785024",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "tweet_count": 91,
+          "listed_count": 0,
+          "like_count": 19,
+          "media_count": 4
+        }
+      },
+      {
+        "name": "Sudhanshu",
+        "username": "yadavji_codes",
+        "id": "2016845506887241735",
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 675,
+          "tweet_count": 3975,
+          "listed_count": 0,
+          "like_count": 2389,
+          "media_count": 285
+        }
+      },
+      {
+        "name": "Er. Hriteek raushan Kumar",
+        "username": "HriteekKum45904",
+        "id": "1898242223663464448",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "tweet_count": 30,
+          "listed_count": 0,
+          "like_count": 2,
+          "media_count": 26
+        }
+      },
+      {
+        "name": "celune",
+        "username": "celuneapp",
+        "id": "2030781932137807872",
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "tweet_count": 11,
+          "listed_count": 0,
+          "like_count": 0,
+          "media_count": 0
+        }
+      },
+      {
+        "name": "Evergreen Technologies",
+        "username": "tech_evergreen",
+        "id": "1199506694830559232",
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 146,
+          "tweet_count": 7564,
+          "listed_count": 0,
+          "like_count": 53,
+          "media_count": 6745
+        }
+      },
+      {
+        "name": "SkillsMuse",
+        "username": "SkillsMuseAI",
+        "id": "2033135583753867264",
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "tweet_count": 12,
+          "listed_count": 0,
+          "like_count": 0,
+          "media_count": 0
+        }
+      },
+      {
+        "name": "PlaybackPress- Mark Mahoney",
+        "username": "PlaybackPress",
+        "id": "1747383849066102784",
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 49,
+          "tweet_count": 33,
+          "listed_count": 1,
+          "like_count": 1,
+          "media_count": 20
+        }
+      },
+      {
+        "name": "AiToolKitPro",
+        "username": "_AiToolKitPro",
+        "id": "2036621553123872768",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "tweet_count": 19,
+          "listed_count": 0,
+          "like_count": 31,
+          "media_count": 0
+        }
+      },
+      {
+        "name": "clore.ai",
+        "username": "clore_ai",
+        "id": "1588293198828412931",
+        "public_metrics": {
+          "followers_count": 26359,
+          "following_count": 82,
+          "tweet_count": 1034,
+          "listed_count": 197,
+          "like_count": 1596,
+          "media_count": 646
+        }
+      },
+      {
+        "name": "CrazyAI Tech",
+        "username": "CrazyAITech",
+        "id": "1899832852910624768",
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 443,
+          "tweet_count": 7203,
+          "listed_count": 4,
+          "like_count": 9287,
+          "media_count": 1793
+        }
+      },
+      {
+        "name": "ekkOS_",
+        "username": "ekkostech",
+        "id": "1964917812138496001",
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "tweet_count": 12,
+          "listed_count": 0,
+          "like_count": 7,
+          "media_count": 3
+        }
+      },
+      {
+        "name": "🇺🇦ᓚᘏᗢ 🕹🎮i42 Software🎮🕹 ᓚᘏᗢ🇺🇦",
+        "username": "i42Software",
+        "id": "923592554159001600",
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 143,
+          "tweet_count": 2744,
+          "listed_count": 2,
+          "like_count": 262,
+          "media_count": 809
+        }
+      },
+      {
+        "name": "Ashish Pande",
+        "username": "ashishthinks",
+        "id": "101389841",
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 743,
+          "tweet_count": 1983,
+          "listed_count": 1,
+          "like_count": 494,
+          "media_count": 312
+        }
+      },
+      {
+        "name": "Awais",
+        "username": "drawais_ai",
+        "id": "1538252223322390530",
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 1056,
+          "tweet_count": 277,
+          "listed_count": 0,
+          "like_count": 30,
+          "media_count": 39
+        }
+      },
+      {
+        "name": "AgentLabX",
+        "username": "AgentLabX",
+        "id": "2027106711480459264",
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 170,
+          "tweet_count": 737,
+          "listed_count": 0,
+          "like_count": 255,
+          "media_count": 0
+        }
+      },
+      {
+        "name": "Joe Blankenship",
+        "username": "datadungeoneer",
+        "id": "1721318024752365568",
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 1,
+          "tweet_count": 524,
+          "listed_count": 0,
+          "like_count": 0,
+          "media_count": 3
+        }
+      },
+      {
+        "name": "Git Rated",
+        "username": "GitRated",
+        "id": "2023451133201567744",
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 12,
+          "tweet_count": 2814,
+          "listed_count": 0,
+          "like_count": 3,
+          "media_count": 0
+        }
+      },
+      {
+        "name": "Bosi Wen",
+        "username": "Cowrie025",
+        "id": "4726646474",
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 66,
+          "tweet_count": 284,
+          "listed_count": 0,
+          "like_count": 55,
+          "media_count": 0
+        }
+      },
+      {
+        "name": "Lovekesh Anand",
+        "username": "LovekeshAnand07",
+        "id": "1767425796745125888",
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 350,
+          "tweet_count": 472,
+          "listed_count": 0,
+          "like_count": 2657,
+          "media_count": 134
+        }
+      },
+      {
+        "name": "Vishakha Singhal",
+        "username": "vishisinghal_",
+        "id": "1350461298992005120",
+        "public_metrics": {
+          "followers_count": 2735,
+          "following_count": 202,
+          "tweet_count": 1063,
+          "listed_count": 15,
+          "like_count": 1589,
+          "media_count": 407
+        }
+      },
+      {
+        "name": "AXIOM Collective",
+        "username": "withaxiom",
+        "id": "1948088427800305668",
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 53,
+          "tweet_count": 78,
+          "listed_count": 0,
+          "like_count": 97,
+          "media_count": 0
+        }
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2037989612044341657",
+    "oldest_id": "2037522769114480865",
+    "result_count": 50,
+    "next_token": "b26v89c19zqg8o3juehjqfa6a0m9xr2stytttklp370cd"
+  }
+}

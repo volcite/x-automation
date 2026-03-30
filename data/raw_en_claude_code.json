@@ -1,0 +1,1972 @@
+{
+  "data": [
+    {
+      "created_at": "2026-03-28T22:02:52.000Z",
+      "text": "逆にいうと\n\n・「紋切り型」の内容で\n・「網羅的」で「当たりさわり」がない\n・「わたしっぽさが必要のない」プロダクトを\n・「ルーティン作業」で\n・「毎日」繰り返し生み出さなければならないのなら\n\nClaude codeは使えるのかもしれません\n\n以上、N=1の「Claude code実験」でした！",
+      "edit_history_tweet_ids": [
+        "2038013981336719762"
+      ],
+      "author_id": "68681208",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "id": "2038013981336719762"
+    },
+    {
+      "created_at": "2026-03-28T22:02:42.000Z",
+      "text": "【Claude Code on VPS】フィンランド発祥のモルックのスコアアプリを作りたい｜キイロイトリ @_kiiroi_tori_ https://t.co/YVn2YHxY0d",
+      "entities": {
+        "mentions": [
+          {
+            "start": 53,
+            "end": 67,
+            "username": "_kiiroi_tori_",
+            "id": "93123554"
+          }
+        ],
+        "urls": [
+          {
+            "start": 68,
+            "end": 91,
+            "url": "https://t.co/YVn2YHxY0d",
+            "expanded_url": "https://note.com/yellowbirdjp/n/nd7f289d729b4?sub_rt=share_pw",
+            "display_url": "note.com/yellowbirdjp/n…",
+            "status": 200,
+            "title": "【Claude Code on VPS】フィンランド発祥のモルックのスコアアプリを作りたい｜キイロイトリ",
+            "description": "フィンランド発祥のスポーツ「モルック」をやっていますが、色々なアプリを使いながらも、今回はVPS上でClaude Codeを動かしながらスコアアプリを作りたいと思い、モゴモゴした結果をメモしておきます。 まず簡単な動作環境は： Claude Code シンVPS（Claude Codeが動くサーバ） 音声入力はTypeless Claude Codeの /context はこんな感じの状態です。スキルとかのメモにどうぞ。 ❯ /context",
+            "unwound_url": "https://note.com/yellowbirdjp/n/nd7f289d729b4?sub_rt=share_pw"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2038013940928750022"
+      ],
+      "author_id": "93123554",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "id": "2038013940928750022"
+    },
+    {
+      "created_at": "2026-03-28T22:02:00.000Z",
+      "text": "Claude Codeで理想のアプリがどんどん作れて最高な時代だ。\n\nこれで ずっとやりたかった、実際に動くプロトタイプを「自分で」作ってからのプロダクトデザインが実現できる。これはfigmaのプロトタイプより100倍精度が上がる。",
+      "edit_history_tweet_ids": [
+        "2038013763375300826"
+      ],
+      "author_id": "60682857",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "id": "2038013763375300826"
+    },
+    {
+      "created_at": "2026-03-28T22:01:56.000Z",
+      "text": "Step 1: Create a new Project.\n\nClick 'Projects' in the Claude sidebar. Name it after your task — 'Blog Writing', 'Client Work', 'Code Reviews'.\n\nOne project per context. Don't mix work.",
+      "edit_history_tweet_ids": [
+        "2038013745658544159"
+      ],
+      "author_id": "1995613906514178048",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2
+      },
+      "id": "2038013745658544159"
+    },
+    {
+      "created_at": "2026-03-28T22:01:51.000Z",
+      "text": "Claude Code just hit $2.5B ARR and everyone is calling themselves \"vibe workers\" now\n\nI went further. My Claude Code plugin handles my entire social presence — posts to X, LinkedIn, Reddit, replies to threads — while I just build\n\nopen source MCP plugin: https://t.co/8ntRYZOTxU https://t.co/FWhSpEB8Fu",
+      "edit_history_tweet_ids": [
+        "2038013726377615557"
+      ],
+      "author_id": "1680249662089969664",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 255,
+            "end": 278,
+            "url": "https://t.co/8ntRYZOTxU",
+            "expanded_url": "http://github.com/Brainrot-Creations/claude-plugins",
+            "display_url": "github.com/Brainrot-Creat…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2037075642441740288/d7U7wj2C?format=jpg&name=orig",
+                "width": 1200,
+                "height": 600
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2037075642441740288/d7U7wj2C?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "GitHub - Brainrot-Creations/claude-plugins: Claude Code plugin + MCP server: connect Claude to the Socials browser extension for X, LinkedIn & Reddit (Agent Mode, local WebSocket bridge).",
+            "description": "Claude Code plugin + MCP server: connect Claude to the Socials browser extension for X, LinkedIn & Reddit (Agent Mode, local WebSocket bridge). - Brainrot-Creations/claude-plugins",
+            "unwound_url": "https://github.com/Brainrot-Creations/claude-plugins"
+          },
+          {
+            "start": 279,
+            "end": 302,
+            "url": "https://t.co/FWhSpEB8Fu",
+            "expanded_url": "https://x.com/_itsjustshubh/status/2038013726377615557/photo/1",
+            "display_url": "pic.x.com/FWhSpEB8Fu",
+            "media_key": "16_2038013709096996864"
+          }
+        ]
+      },
+      "id": "2038013726377615557"
+    },
+    {
+      "created_at": "2026-03-28T22:01:49.000Z",
+      "text": "Claude CodeとOura Ringで最高の健康管理分析トレーナーを作ったんだけど\nみんなにも共有したい\nClaude Code用のアカウント作った方がいいのかな",
+      "edit_history_tweet_ids": [
+        "2038013720023191658"
+      ],
+      "author_id": "2033145663303905281",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2
+      },
+      "id": "2038013720023191658"
+    },
+    {
+      "created_at": "2026-03-28T22:01:22.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 106,
+            "end": 114,
+            "tag": "エンジニア転職"
+          },
+          {
+            "start": 115,
+            "end": 119,
+            "tag": "AWS"
+          },
+          {
+            "start": 120,
+            "end": 125,
+            "tag": "生成AI"
+          },
+          {
+            "start": 126,
+            "end": 133,
+            "tag": "サーバーレス"
+          },
+          {
+            "start": 134,
+            "end": 141,
+            "tag": "Ragate"
+          }
+        ]
+      },
+      "text": "AWS×生成AI×サーバーレスを日常で使い倒したいエンジニアへ。\n\nRagateでは最新技術を本番案件で試せる環境が整っています。\nCursor、Claude Code…AIと共に未来の開発を変えませんか？👇\n\n#エンジニア転職 #AWS #生成AI #サーバーレス #Ragate",
+      "edit_history_tweet_ids": [
+        "2038013605187338462"
+      ],
+      "author_id": "1171992209438072832",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "id": "2038013605187338462"
+    },
+    {
+      "created_at": "2026-03-28T22:01:03.000Z",
+      "text": "How the 2026 Claude-Code Update Turned a Long-time AI Skeptic into a Believer. And why a Major Shift in the Economy and Jobs Could Now be a lot Closer than You Might Think\n\nhttps://t.co/wl63hbvgkf https://t.co/NB9NqbPz5j",
+      "edit_history_tweet_ids": [
+        "2038013526338396558"
+      ],
+      "author_id": "3322198060",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 173,
+            "end": 196,
+            "url": "https://t.co/wl63hbvgkf",
+            "expanded_url": "https://www.therealestatecrowdfundingreview.com/post/my-claude-code-revelation-moment-how-the-2026-update-turned-a-long-time-ai-skeptic-into-a",
+            "display_url": "therealestatecrowdfundingreview.com/post/my-claude…",
+            "status": 200,
+            "title": "How the 2026 Claude-Code Update Turned a Long-time AI Skeptic into a Believer. And why a Major Shift in the Economy and Jobs Could Now be a lot Closer than You Might Think",
+            "description": "So far, the AI boom has been an expensive disappointment, involving massive spending and hype, and very little to show for it. But the latest release of Claude Code delivered a sudden and dramatic improvement in a pivotal and crucial area. The risk of an AI bubble remains real. But if AI continues to improve at this pace, the effects on jobs and the economy could be huge — and arrive far sooner than many expect.",
+            "unwound_url": "https://www.therealestatecrowdfundingreview.com/post/my-claude-code-revelation-moment-how-the-2026-update-turned-a-long-time-ai-skeptic-into-a"
+          },
+          {
+            "start": 197,
+            "end": 220,
+            "url": "https://t.co/NB9NqbPz5j",
+            "expanded_url": "https://x.com/CrowdfundingIan/status/2038013526338396558/photo/1",
+            "display_url": "pic.x.com/NB9NqbPz5j",
+            "media_key": "3_2038013524279013376"
+          }
+        ]
+      },
+      "id": "2038013526338396558"
+    },
+    {
+      "created_at": "2026-03-28T22:00:44.000Z",
+      "text": "How Claude Modernizes COBOL Systems Cost-Effectively\nDiscover how Claude and AI tools reduce COBOL modernization costs by automating legacy code analysis, enabling businesses to upgrade critical systems affordably.\n\nTake a look if you're interested.",
+      "edit_history_tweet_ids": [
+        "2038013445518295399"
+      ],
+      "author_id": "2003808410274611200",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3
+      },
+      "id": "2038013445518295399"
+    },
+    {
+      "created_at": "2026-03-28T22:00:42.000Z",
+      "text": "Claude Codeを見ていて思うのは、\nまだ「万人向けの完成された道具」というより、\n設定も含めて使いこなすタイプのツールだなということ。\n強い人にはすごく強いのだと思う。\nでも、今の時点で無理して飛び乗らなくても、\n時間が経てばもっとユーザーフレンドリーになっていく気がする。",
+      "edit_history_tweet_ids": [
+        "2038013438279241828"
+      ],
+      "author_id": "1589103852766531584",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2
+      },
+      "id": "2038013438279241828"
+    },
+    {
+      "created_at": "2026-03-28T22:00:25.000Z",
+      "text": "\"経営者のための Claude Code 活用事例集 — コードを書けない自分が、月30時間の雑務を消した方法\" https://t.co/faeUnTFF0F",
+      "edit_history_tweet_ids": [
+        "2038013365419913442"
+      ],
+      "author_id": "1066604502856327169",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 7
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 57,
+            "end": 80,
+            "url": "https://t.co/faeUnTFF0F",
+            "expanded_url": "https://l.smartnews.com/m-7qpENtBu/gYLvOQ",
+            "display_url": "l.smartnews.com/m-7qpENtBu/gYL…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2038013366833397760/tyezCAGU?format=png&name=orig",
+                "width": 1020,
+                "height": 536
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2038013366833397760/tyezCAGU?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "経営者のための Claude Code 活用事例集 — コードを書けない自分が、月30時間の雑務を消した方法 (note（ノート）)",
+            "description": "こんにちは、高野です。キープレイヤーズという会社で、ベンチャー投資と人材エージェントをやっています。 先に結論を言います。 Claude Codeを使い始めて、月に約30時間分の「自分じゃなくてもいい仕事」が消えました。 議事録作成、タスク整理、情報の検索、下書き作成。経営者の時間を静かに奪っていく、あの雑務たち...",
+            "unwound_url": "https://www.smartnews.com/ja-jp/article/4928524534115473762?placement=article-preview-social&utm_source=share_android_other&utm_campaign=sn_lid%3A4928524534115473762%7Csn_channel%3Acr_ja_technology_artificial_intelligence&share_id=gYLvOQ"
+          }
+        ]
+      },
+      "id": "2038013365419913442"
+    },
+    {
+      "created_at": "2026-03-28T22:00:24.000Z",
+      "text": "You could literally\n\n– Buy Claude Code\n\n– Start a business and call it a Saas\n\n– Charge $25 per month\n\n– Sign 10 clients\n\n- Sell it for a 10x ARR multiplier ($30k)\n\nWhy is nobody doing this https://t.co/KCac5MmMQD",
+      "edit_history_tweet_ids": [
+        "2038013360982167741"
+      ],
+      "author_id": "1772002371150774273",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 13
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 190,
+            "end": 213,
+            "url": "https://t.co/KCac5MmMQD",
+            "expanded_url": "https://x.com/foxtomb232/status/2038013360982167741/photo/1",
+            "display_url": "pic.x.com/KCac5MmMQD",
+            "media_key": "3_2038013358029381632"
+          }
+        ]
+      },
+      "id": "2038013360982167741"
+    },
+    {
+      "created_at": "2026-03-28T22:00:17.000Z",
+      "text": "Claude Code使い始めてから、考える時間が増えた✨\n手を動かす部分を任せられると\n本当に頭使いたいとこに集中できる。\nこれ、業種関係なく効いてくると思う！",
+      "edit_history_tweet_ids": [
+        "2038013331563298844"
+      ],
+      "author_id": "1911240708385865728",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3
+      },
+      "id": "2038013331563298844"
+    },
+    {
+      "created_at": "2026-03-28T22:00:06.000Z",
+      "text": "All Paid Courses (Free for First 4500 People)\n\n🎯 LLM Mastery (GPT, Claude, Grok)\n🎯 AI Agent Building Masterclass\n🎯 Advanced Prompt Engineering\n🎯 AI Automation with Zapier &amp; Make\n🎯 No-Code AI SaaS Building\n🎯 RAG Systems &amp; Vector Databases\n🎯 LangChain &amp; Agent Frameworks\n🎯 https://t.co/RFvoUUH4z4",
+      "edit_history_tweet_ids": [
+        "2038013286977839455"
+      ],
+      "author_id": "1994840137336066051",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 5
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 283,
+            "end": 306,
+            "url": "https://t.co/RFvoUUH4z4",
+            "expanded_url": "https://x.com/NainsiDwiv50980/status/2038013286977839455/photo/1",
+            "display_url": "pic.x.com/RFvoUUH4z4",
+            "media_key": "3_2038013282502500352"
+          }
+        ]
+      },
+      "id": "2038013286977839455"
+    },
+    {
+      "created_at": "2026-03-28T22:00:06.000Z",
+      "text": "Vibe coding on Solana is the ultimate cheat code for non-devs. 😂\n\nBuild a DEX aggregator like Jupiter using just prompts with Claude Code—prototypes in under 30 mins while Jupiter’s TVL sits at $145.56B on Binance CEX per DeFiLlama.\n\nShip crypto tools faster than your grandma",
+      "edit_history_tweet_ids": [
+        "2038013284280901947"
+      ],
+      "author_id": "1891882131628097537",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 3
+      },
+      "id": "2038013284280901947"
+    },
+    {
+      "created_at": "2026-03-28T22:00:00.000Z",
+      "text": "Claude Code users approve 93% of permission prompts anyway.\n\nSo Anthropic removed the bottleneck.\n\nAuto Mode now handles:\n\nfile reads\nproject edits\ncode navigation\nlong refactors\n\nautomatically — and only interrupts you when something actually matters.\n\nThis is how agent https://t.co/jqQSnROdVq",
+      "edit_history_tweet_ids": [
+        "2038013262776914353"
+      ],
+      "author_id": "1405031034",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 38
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 272,
+            "end": 295,
+            "url": "https://t.co/jqQSnROdVq",
+            "expanded_url": "https://x.com/JulianGoldieSEO/status/2038013262776914353/video/1",
+            "display_url": "pic.x.com/jqQSnROdVq",
+            "media_key": "13_2037804301683392514"
+          }
+        ]
+      },
+      "id": "2038013262776914353"
+    },
+    {
+      "created_at": "2026-03-28T22:00:00.000Z",
+      "text": "In Aire, we all use claude code.\n\nThat matters a lot.\n\nWe learn from each other’s setup, keep improving how we use it, and get better results as a team.",
+      "edit_history_tweet_ids": [
+        "2038013261925200267"
+      ],
+      "author_id": "1453348689733292042",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2
+      },
+      "id": "2038013261925200267"
+    },
+    {
+      "created_at": "2026-03-28T21:59:46.000Z",
+      "text": "おはようございます☀️ \n自動仕訳ツールは一旦ペンディングして、米作り用のアプリ？をClaude Codeで作る事に。世に出ている有料版アプリを参考にしつつ自分好みにカスタマイズしていこうっと。\n\n【昨日できたこと】\n&lt;Claude Code&gt;\n米作り年表のたたき台作成（要修正）",
+      "edit_history_tweet_ids": [
+        "2038013202517414118"
+      ],
+      "author_id": "1878552440867581952",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2
+      },
+      "id": "2038013202517414118"
+    },
+    {
+      "created_at": "2026-03-28T21:58:22.000Z",
+      "text": "Claude Codeの205件事例集が37万表示を超えて大バズ中です。もう抽象論のフェーズは終わりましたね。非エンジニアでも全員が使うべき時代なのに、未だにプロンプトを打つだけだと少しもったいないです。最新の仕組みを今すぐ実務に取り入れてみませんか？\n【参考URL: &lt;https://t.co/qz0rZUG6i5&gt;】",
+      "edit_history_tweet_ids": [
+        "2038012848807551063"
+      ],
+      "author_id": "2018191535817560064",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 139,
+            "end": 162,
+            "url": "https://t.co/qz0rZUG6i5",
+            "expanded_url": "https://x.com/UC_DG54/status/2037337622935400810",
+            "display_url": "x.com/UC_DG54/status…"
+          }
+        ]
+      },
+      "id": "2038012848807551063"
+    },
+    {
+      "created_at": "2026-03-28T21:58:07.000Z",
+      "text": "Claude Code explicado para no informáticos: es la combinación entre Leroy Merlín, Ikea, Bricomania y las revistas de decoración. Hacer cualquier cosa que se te pase por la mente a nivel de software es posible y funciona, a una velocidad de ejecución increíble, con resultados…",
+      "edit_history_tweet_ids": [
+        "2038012787591418066"
+      ],
+      "author_id": "17217853",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 16
+      },
+      "id": "2038012787591418066"
+    },
+    {
+      "created_at": "2026-03-28T21:57:55.000Z",
+      "text": "たこすけ @takosuke_c さんの自動化システム～想像以上でした。セットアップ完了してすぐに記事生成→下書き投稿まで全自動で動いた。\n\nしかもskillsのカスタマイズで自分のジャンルに対応。Claude  Codeとの連携が神。環境を整え、テーマを入れるだけ。品質も申し分ない。\n\n量産に入るのが楽しみ🔥",
+      "entities": {
+        "mentions": [
+          {
+            "start": 5,
+            "end": 16,
+            "username": "takosuke_c",
+            "id": "1320577115301920769"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2038012738375409755"
+      ],
+      "author_id": "1935043134095806464",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "id": "2038012738375409755"
+    },
+    {
+      "created_at": "2026-03-28T21:57:24.000Z",
+      "text": "Engineers at some companies are spending $1,000/day on Claude Code and Codex tokens.\n\nThat's $365K/year — more than many senior engineers cost fully loaded.\n\nWe're about to restructure how engineering headcount gets counted.",
+      "edit_history_tweet_ids": [
+        "2038012606376529947"
+      ],
+      "author_id": "167089055",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 11
+      },
+      "id": "2038012606376529947"
+    },
+    {
+      "created_at": "2026-03-28T21:57:18.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 6,
+            "end": 19,
+            "tag": "TechPostCast"
+          },
+          {
+            "start": 81,
+            "end": 87,
+            "tag": "Qiita"
+          },
+          {
+            "start": 134,
+            "end": 142,
+            "tag": "Podcast"
+          }
+        ],
+        "urls": [
+          {
+            "start": 144,
+            "end": 167,
+            "url": "https://t.co/cMWvnnwxrF",
+            "expanded_url": "https://techpostcast.com/headline-topic-programs/cmnavf01a0000s60olltb0zsv",
+            "display_url": "techpostcast.com/headline-topic…",
+            "status": 404,
+            "unwound_url": "https://techpostcast.com/headline-topic-programs/cmnavf01a0000s60olltb0zsv"
+          }
+        ]
+      },
+      "text": "こんにちは、#TechPostCast のポステルです！  \n最新のラジオ番組『個人開発とAWSコスト対策！Claude Code習熟度など』を配信しました📻✨\n#Qiita で話題の記事を11分でサクッとご紹介。  \n通勤や散歩のお供に、ぜひお楽しみください！🎧 \n#Podcast\n\nhttps://t.co/cMWvnnwxrF",
+      "edit_history_tweet_ids": [
+        "2038012579621257354"
+      ],
+      "author_id": "1882775967942520832",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 10
+      },
+      "id": "2038012579621257354"
+    },
+    {
+      "created_at": "2026-03-28T21:57:01.000Z",
+      "text": "1/5\n\nWe run Claude Code on everything — infrastructure tooling, internal dashboards, content pipelines. Over the last few months we've tested a lot of skills.\n\nMost are fluff. Six are now permanent parts of our workflow. Here's what they are and why we kept them:",
+      "edit_history_tweet_ids": [
+        "2038012511065407784"
+      ],
+      "author_id": "1681075184059699200",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 6
+      },
+      "id": "2038012511065407784"
+    },
+    {
+      "created_at": "2026-03-28T21:56:45.000Z",
+      "text": "Будущее SaaS в одном твите 😄\n\n«Я наверное сделаю это сегодня днём с помощью Claude Code и выложу в этом треде ссылку на бесплатное скачивание, потому что абсолютно нелепо предлагать кому-то платить $199 за то, что, вероятно, заняло около 18 минут у Claude Code.»\n\n«Я найду твой https://t.co/HR9ZrFtBn9",
+      "edit_history_tweet_ids": [
+        "2038012441716519296"
+      ],
+      "author_id": "2023002635482349568",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 8
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 278,
+            "end": 301,
+            "url": "https://t.co/HR9ZrFtBn9",
+            "expanded_url": "https://x.com/openclaw_ru/status/2038012441716519296/photo/1",
+            "display_url": "pic.x.com/HR9ZrFtBn9",
+            "media_key": "3_2038012149365350400"
+          }
+        ]
+      },
+      "id": "2038012441716519296"
+    },
+    {
+      "created_at": "2026-03-28T21:56:37.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 94,
+            "end": 103,
+            "tag": "サッカー日本代表"
+          }
+        ]
+      },
+      "text": "サッカー日本代表が話題だけど、\nわたしは今日もClaude Codeと格闘中。\n\n非エンジニアがAIでアプリ作ってる時代、\n「できない理由」探すより\n「とりあえずやってみる」が最強説。\n\n#サッカー日本代表",
+      "edit_history_tweet_ids": [
+        "2038012409936253156"
+      ],
+      "author_id": "2033469843081715712",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "id": "2038012409936253156"
+    },
+    {
+      "created_at": "2026-03-28T21:56:26.000Z",
+      "text": "feels like opus was having capacity issues so they just now serve sonnet in claude code advertised as opus\n\n\"opus\" has gotten noticeably sloppier today",
+      "edit_history_tweet_ids": [
+        "2038012365078184197"
+      ],
+      "author_id": "90151483",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 37
+      },
+      "id": "2038012365078184197"
+    },
+    {
+      "created_at": "2026-03-28T21:55:50.000Z",
+      "text": "Claude Code bugün tam bir aptal gibi çalışıyor.",
+      "edit_history_tweet_ids": [
+        "2038012210446786901"
+      ],
+      "author_id": "1437076404458373134",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 6
+      },
+      "id": "2038012210446786901"
+    },
+    {
+      "created_at": "2026-03-28T21:55:02.000Z",
+      "text": "If you’re still using Termius to work with Claude Code from your phone — I genuinely feel for you 🙂\n\nGive Moshi a try: https://t.co/YMFsNtkf3t\n\nNo joke — it’s the first tool that makes using a terminal on your phone actually comfortable, not “technically possible but painful.”",
+      "edit_history_tweet_ids": [
+        "2038012012098101334"
+      ],
+      "author_id": "138175158",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 7
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 119,
+            "end": 142,
+            "url": "https://t.co/YMFsNtkf3t",
+            "expanded_url": "https://getmoshi.app/",
+            "display_url": "getmoshi.app",
+            "status": 200,
+            "title": "Moshi — SSH Terminal for Claude Code & AI Agents",
+            "description": "The iOS terminal app for AI coding agents. Native mosh, push notifications, voice input. Zero desktop install.",
+            "unwound_url": "https://getmoshi.app/"
+          }
+        ]
+      },
+      "id": "2038012012098101334"
+    },
+    {
+      "created_at": "2026-03-28T21:54:31.000Z",
+      "text": "Claude Coworkは便利よ。でも、何ていうのかなあ、シンギュラリティの縁に指先が触れてるみたいな、ゾクッとした感覚は、やはりClaude Codeにあるよ。使い方が甘いのかもしれないけど。僕はやはりコンソール経由の方が良くコミュニケーションできるのかもしれないけど。",
+      "edit_history_tweet_ids": [
+        "2038011881651073517"
+      ],
+      "author_id": "95709871",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 76
+      },
+      "id": "2038011881651073517"
+    },
+    {
+      "created_at": "2026-03-28T21:52:22.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 155,
+            "end": 166,
+            "tag": "claudedown"
+          }
+        ]
+      },
+      "text": "claude code is f*cking insane\nI know literally NOTHING about coding. ZERO.\nand i just built a fully functioning web app in minutes\n\nhttp://localhost:3000/\n#claudedown",
+      "edit_history_tweet_ids": [
+        "2038011341529555052"
+      ],
+      "author_id": "1551499894644514822",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 11
+      },
+      "id": "2038011341529555052"
+    },
+    {
+      "created_at": "2026-03-28T21:51:54.000Z",
+      "text": "peptides, claude code, and ABGs, what more do you need?",
+      "edit_history_tweet_ids": [
+        "2038011223997096067"
+      ],
+      "author_id": "2036918788478951424",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 6
+      },
+      "id": "2038011223997096067"
+    },
+    {
+      "created_at": "2026-03-28T21:51:49.000Z",
+      "text": "100% of code written by Claude.\n\nSame with my wife she spins up multiple agents, reviews and automates.\n\nWhat’s next? https://t.co/Md83QoemwZ",
+      "edit_history_tweet_ids": [
+        "2038011202413134261"
+      ],
+      "author_id": "2027878043017269248",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 1
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 118,
+            "end": 141,
+            "url": "https://t.co/Md83QoemwZ",
+            "expanded_url": "https://twitter.com/shiri_shh/status/2037944261199667349",
+            "display_url": "x.com/shiri_shh/stat…"
+          }
+        ]
+      },
+      "id": "2038011202413134261"
+    },
+    {
+      "created_at": "2026-03-28T21:51:10.000Z",
+      "text": "the terminal just became a video editing suite.\n\nbuttercut is an open-source tool that turns claude code into your video editor. give it footage, it transcribes with whisperx, analyzes frames, then builds roughcuts through conversation. you pick the narrative structure, pacing,",
+      "edit_history_tweet_ids": [
+        "2038011037694476579"
+      ],
+      "author_id": "35732921",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 4
+      },
+      "id": "2038011037694476579"
+    },
+    {
+      "created_at": "2026-03-28T21:50:58.000Z",
+      "text": "I mean they do have a pretty solid vertically integrated agentic engineering stack themselves , so maybe dog feed the in house product. \nAlso , if Google is shipping without Claude Code / Codex and still cooking- imagine what they would with it. https://t.co/1Vb5i5Xldw",
+      "edit_history_tweet_ids": [
+        "2038010989266759968"
+      ],
+      "author_id": "17207370",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 13
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 246,
+            "end": 269,
+            "url": "https://t.co/1Vb5i5Xldw",
+            "expanded_url": "https://twitter.com/deedydas/status/2038005796630643158",
+            "display_url": "x.com/deedydas/statu…"
+          }
+        ]
+      },
+      "id": "2038010989266759968"
+    },
+    {
+      "created_at": "2026-03-28T21:49:37.000Z",
+      "text": "Claude Codeの作成者兼責任者：\n\n「私のコードの100%はClaude Codeによって書かれています。11月以降、手作業で1行たりとも編集していません。毎日10、20、30のPRをリリースしています…この録音をしている間も、5つのエージェントが動作しています。」 https://t.co/nqbDMLc5it",
+      "edit_history_tweet_ids": [
+        "2038010645774479562"
+      ],
+      "author_id": "2025148285946920960",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 9
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 138,
+            "end": 161,
+            "url": "https://t.co/nqbDMLc5it",
+            "expanded_url": "https://twitter.com/shiri_shh/status/2037944261199667349",
+            "display_url": "x.com/shiri_shh/stat…"
+          }
+        ]
+      },
+      "id": "2038010645774479562"
+    },
+    {
+      "created_at": "2026-03-28T21:48:50.000Z",
+      "text": "Claude watching me write code manually after I hit the daily limit https://t.co/9Wsjsn1QN6",
+      "edit_history_tweet_ids": [
+        "2038010451179847901"
+      ],
+      "author_id": "1842661133741600768",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 8
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 67,
+            "end": 90,
+            "url": "https://t.co/9Wsjsn1QN6",
+            "expanded_url": "https://x.com/AFHeimers/status/2038010451179847901/video/1",
+            "display_url": "pic.x.com/9Wsjsn1QN6",
+            "media_key": "13_2038010181125283840"
+          }
+        ]
+      },
+      "id": "2038010451179847901"
+    },
+    {
+      "created_at": "2026-03-28T21:48:35.000Z",
+      "text": "Something magical about having your dishwasher, washing machine, dryer, and claude code all running simultaneously",
+      "edit_history_tweet_ids": [
+        "2038010387904278773"
+      ],
+      "author_id": "1469706133036277765",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 110
+      },
+      "id": "2038010387904278773"
+    },
+    {
+      "created_at": "2026-03-28T21:47:20.000Z",
+      "text": "Eu meio que dei a volta e to nessa vibe.\nNao confio em código 100% vibe code.\nPra min o claude e o gemini serve so pra pesquisar e fazer protótipo (mock code) mas eu preciso ler cada linha e saber o que acontecendo. https://t.co/VKGoI0rVXL",
+      "edit_history_tweet_ids": [
+        "2038010072517795957"
+      ],
+      "author_id": "927160197591851008",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 17
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 216,
+            "end": 239,
+            "url": "https://t.co/VKGoI0rVXL",
+            "expanded_url": "https://twitter.com/pokerdev7/status/2037746463405384049",
+            "display_url": "x.com/pokerdev7/stat…"
+          }
+        ]
+      },
+      "id": "2038010072517795957"
+    },
+    {
+      "created_at": "2026-03-28T21:47:03.000Z",
+      "text": "ビッグテックとスタートアップの両方の友人たちが、Claude CodeやCodexトークンに1日あたり1000ドル以上を費やしていると教えてくれます。\n\nそれは年間36万5000ドルです。\n\n私たちは、企業がLLMトークンに人間の従業員よりも多くを費やす状況から遠くないところにいます。 https://t.co/sKaZjkBKVo",
+      "edit_history_tweet_ids": [
+        "2038010001131028819"
+      ],
+      "author_id": "2025148285946920960",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 16
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 144,
+            "end": 167,
+            "url": "https://t.co/sKaZjkBKVo",
+            "expanded_url": "https://twitter.com/yuchenj_uw/status/2037938224535155046",
+            "display_url": "x.com/yuchenj_uw/sta…"
+          }
+        ]
+      },
+      "id": "2038010001131028819"
+    },
+    {
+      "created_at": "2026-03-28T21:45:36.000Z",
+      "text": "Claude Code and I https://t.co/ojU10JAuz9",
+      "edit_history_tweet_ids": [
+        "2038009636545064976"
+      ],
+      "author_id": "2010024728829022208",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 5
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 18,
+            "end": 41,
+            "url": "https://t.co/ojU10JAuz9",
+            "expanded_url": "https://x.com/_joshideas/status/2038009636545064976/photo/1",
+            "display_url": "pic.x.com/ojU10JAuz9",
+            "media_key": "3_2038009188287143936"
+          }
+        ]
+      },
+      "id": "2038009636545064976"
+    },
+    {
+      "created_at": "2026-03-28T21:45:08.000Z",
+      "entities": {
+        "hashtags": [
+          {
+            "start": 210,
+            "end": 213,
+            "tag": "AI"
+          },
+          {
+            "start": 214,
+            "end": 222,
+            "tag": "Science"
+          },
+          {
+            "start": 223,
+            "end": 230,
+            "tag": "AIRace"
+          },
+          {
+            "start": 231,
+            "end": 239,
+            "tag": "Compute"
+          },
+          {
+            "start": 240,
+            "end": 245,
+            "tag": "Code"
+          },
+          {
+            "start": 246,
+            "end": 253,
+            "tag": "Claude"
+          },
+          {
+            "start": 254,
+            "end": 258,
+            "tag": "GPT"
+          },
+          {
+            "start": 259,
+            "end": 264,
+            "tag": "Grok"
+          }
+        ],
+        "urls": [
+          {
+            "start": 185,
+            "end": 208,
+            "url": "https://t.co/SyRlZXdVyQ",
+            "expanded_url": "https://x.com/CohoLabs/status/2023642719357174120?s=20",
+            "display_url": "x.com/CohoLabs/statu…"
+          },
+          {
+            "start": 265,
+            "end": 288,
+            "url": "https://t.co/iXh7k7BXa5",
+            "expanded_url": "https://twitter.com/CohoLabs/status/2023642719357174120",
+            "display_url": "x.com/CohoLabs/statu…"
+          }
+        ]
+      },
+      "text": "Answer to the defining question of the AGI era:\n\"Can we build intelligence that remains safe with humanity?\"\n\nThis article argues that the answer is yes — if resonance outpaces drift.\n\nhttps://t.co/SyRlZXdVyQ\n\n#AI #Science #AIRace #Compute #Code #Claude #GPT #Grok https://t.co/iXh7k7BXa5",
+      "edit_history_tweet_ids": [
+        "2038009358743691329",
+        "2038009518043320732"
+      ],
+      "author_id": "1991414874988036096",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 12
+      },
+      "id": "2038009518043320732"
+    },
+    {
+      "created_at": "2026-03-28T21:45:00.000Z",
+      "text": "Claude Code、自律してくれるとは言うものの\n承認画面が多くて結局張り付きになってしまう😅\n\nしかもスマホのリモートからだと\n承認画面が表示されなくて詰んでしまうことも…\n\n外出先から動かしたいのに\n「家に帰るまで再開できない」ってなった笑\n\nオートモードで全部解決する気がしてるんですが",
+      "edit_history_tweet_ids": [
+        "2038009484736369129"
+      ],
+      "author_id": "1577662231956795393",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 24
+      },
+      "id": "2038009484736369129"
+    },
+    {
+      "created_at": "2026-03-28T21:44:48.000Z",
+      "text": "Anthropic（Claude Code）の成功、よく考えたら「クラウド全盛の時代にローカルディレクトリのファイル管理によってアウトプットを最大化する仕組み」でGoogleをぶち抜いたってことで、あまりにもしたたかでわろける。\n\nまさか一時的にでもクラウドが負けると思わんやん。これが戦略か。",
+      "edit_history_tweet_ids": [
+        "2038009436195918044"
+      ],
+      "author_id": "1614776054866120705",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 13
+      },
+      "id": "2038009436195918044"
+    },
+    {
+      "created_at": "2026-03-28T21:44:32.000Z",
+      "text": "📷 Heurist x Auto Drive: Permanent, Verifiable Storage for Agent SKILLs 📷\n\nAll SKILLs are verified, permanently stored, and immutable — no silent updates or broken links\n\n30+ skills, compatible with OpenClaw, Claude Code, Codex, and SKILL-standard agents\n\nhttps://t.co/75HhZ4MmG6",
+      "edit_history_tweet_ids": [
+        "2038009369929846826"
+      ],
+      "author_id": "1323601325670703106",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 12
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 255,
+            "end": 278,
+            "url": "https://t.co/75HhZ4MmG6",
+            "expanded_url": "https://medium.com/subspace-network/integration-update-introducing-the-heurist-skills-marketplace-with-all-skills-verified-and-6255540e9a97",
+            "display_url": "medium.com/subspace-netwo…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/2038009412493680640/5O-uQdii?format=jpg&name=orig",
+                "width": 1200,
+                "height": 675
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/2038009412493680640/5O-uQdii?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "INTEGRATION UPDATE: Introducing the Heurist Skills Marketplace with All Skills Verified and…",
+            "description": "We are proud to announce that Heurist has deepened its integration with Autonomys. What began as permanent, verifiable storage for…",
+            "unwound_url": "https://medium.com/subspace-network/integration-update-introducing-the-heurist-skills-marketplace-with-all-skills-verified-and-6255540e9a97"
+          }
+        ]
+      },
+      "id": "2038009369929846826"
+    },
+    {
+      "created_at": "2026-03-28T21:44:23.000Z",
+      "text": "My God... I just watched 2 idiots install claude code and it took them 25 minutes just for claude to run....\n\nThis is your competition btw",
+      "edit_history_tweet_ids": [
+        "2038009330398576758"
+      ],
+      "author_id": "1584921151364538369",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 5
+      },
+      "id": "2038009330398576758"
+    },
+    {
+      "created_at": "2026-03-28T21:43:42.000Z",
+      "text": "Feels like Claude Code is struggling today. \n\nPrompts sitting for 10 minutes or more. Looking at the last 90 days, performance seems to be degregating over time. \n\nWhat is going on? More usage, more users? https://t.co/miSvgbC8V6",
+      "edit_history_tweet_ids": [
+        "2038009160261116261"
+      ],
+      "author_id": "24912992",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 9
+      },
+      "entities": {
+        "urls": [
+          {
+            "start": 206,
+            "end": 229,
+            "url": "https://t.co/miSvgbC8V6",
+            "expanded_url": "https://x.com/HKstrongside/status/2038009160261116261/photo/1",
+            "display_url": "pic.x.com/miSvgbC8V6",
+            "media_key": "3_2038009097598246912"
+          }
+        ]
+      },
+      "id": "2038009160261116261"
+    },
+    {
+      "created_at": "2026-03-28T21:43:28.000Z",
+      "text": "モノリポジトリ、Claude Code、Gemini cli 、での開発\n全部同じリポジトリ、3体同時に実行、開発している\nPRやマージは使わない、こまめなコミットで、競合を避けている競合が発生したらその場で修正している\nこれで1日に1万から2万行をコミットしている",
+      "edit_history_tweet_ids": [
+        "2038009101695979531"
+      ],
+      "author_id": "14360569",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 31
+      },
+      "id": "2038009101695979531"
+    },
+    {
+      "created_at": "2026-03-28T21:42:04.000Z",
+      "text": "Claude Codeで自分専用ツールを作って売る方法｜プログラミング経験ゼロでもできる完全ガイド【特典あり】｜ひで｜時短のあれこれ@ツーシンクス @TothinksWeb https://t.co/3OrmAKgjEW",
+      "entities": {
+        "mentions": [
+          {
+            "start": 74,
+            "end": 86,
+            "username": "TothinksWeb",
+            "id": "1972562489784279041"
+          }
+        ],
+        "urls": [
+          {
+            "start": 87,
+            "end": 110,
+            "url": "https://t.co/3OrmAKgjEW",
+            "expanded_url": "https://note.com/tothinks/n/ne038554bf871?sub_rt=share_pb",
+            "display_url": "note.com/tothinks/n/ne0…",
+            "status": 200,
+            "title": "Claude Codeで自分専用ツールを作って売る方法｜プログラミング経験ゼロでもできる完全ガイド【特典あり】｜ひで｜時短のあれこれ@ツーシンクス",
+            "description": "「自分でツールを作って販売してみたい。でもプログラミングなんて全くわからない」 そう思ったことはありませんか。 結論からお伝えします。Claude Codeを使えば、ツールの作り方を知らなくても、自分専用のツールを作って売ることができます。 しかもやることは「何を作りたいか」を日本語で伝えるだけ。調査も開発もテストもビルドも販売ページの文章作成も、全部Claude Codeがやってくれます。 Claude Code（ https://docs.anthropic.com/ja/docs/claude-code/overview ）はAnthropicが提供するターミナルベースの",
+            "unwound_url": "https://note.com/tothinks/n/ne038554bf871?sub_rt=share_pb"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "2038008749189996680"
+      ],
+      "author_id": "1972562489784279041",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 9
+      },
+      "id": "2038008749189996680"
+    },
+    {
+      "created_at": "2026-03-28T21:42:01.000Z",
+      "text": "Требуется программист на Claude Code с опытом работы ~5 лет\n\nЖелательно ещё несколько лет опыта на codex\n\nИ точно не менее года опенкло",
+      "edit_history_tweet_ids": [
+        "2038008735268818954"
+      ],
+      "author_id": "20444162",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 12
+      },
+      "id": "2038008735268818954"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "public_metrics": {
+          "followers_count": 45712,
+          "following_count": 1017,
+          "tweet_count": 56937,
+          "listed_count": 1361,
+          "like_count": 145,
+          "media_count": 1535
+        },
+        "name": "中原淳（なかはらじゅん）",
+        "username": "nakaharajun",
+        "id": "68681208"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 1135,
+          "tweet_count": 81654,
+          "listed_count": 59,
+          "like_count": 2879,
+          "media_count": 8832
+        },
+        "name": "タンタン／YellowBirdJp",
+        "username": "_kiiroi_tori_",
+        "id": "93123554"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 1237,
+          "tweet_count": 4900,
+          "listed_count": 26,
+          "like_count": 1788,
+          "media_count": 816
+        },
+        "name": "稲田拓郎｜17design.（イナデザイン）",
+        "username": "17DESIGN",
+        "id": "60682857"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "tweet_count": 6,
+          "listed_count": 0,
+          "like_count": 0,
+          "media_count": 2
+        },
+        "name": "PublicDatabase.ai | AI Tips, Tools & News",
+        "username": "publicdbai",
+        "id": "1995613906514178048"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 114,
+          "tweet_count": 5120,
+          "listed_count": 0,
+          "like_count": 2061,
+          "media_count": 287
+        },
+        "name": "Shubh Thorat",
+        "username": "_itsjustshubh",
+        "id": "1680249662089969664"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 6,
+          "tweet_count": 14,
+          "listed_count": 0,
+          "like_count": 30,
+          "media_count": 1
+        },
+        "name": "ノンカテキン",
+        "username": "nagaraheba_",
+        "id": "2033145663303905281"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 5,
+          "tweet_count": 1400,
+          "listed_count": 2,
+          "like_count": 162,
+          "media_count": 123
+        },
+        "name": "Ragate株式会社",
+        "username": "Ragate5",
+        "id": "1171992209438072832"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 97,
+          "tweet_count": 483,
+          "listed_count": 8,
+          "like_count": 78,
+          "media_count": 335
+        },
+        "name": "Crowdfunding Review",
+        "username": "CrowdfundingIan",
+        "id": "3322198060"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 11,
+          "tweet_count": 184,
+          "listed_count": 0,
+          "like_count": 3,
+          "media_count": 0
+        },
+        "name": "Claudecode_JP General🏢",
+        "username": "Claudecode_JPEG",
+        "id": "2003808410274611200"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 850,
+          "tweet_count": 936,
+          "listed_count": 0,
+          "like_count": 3200,
+          "media_count": 73
+        },
+        "name": "Macky｜ITエンジニアとC&A",
+        "username": "celloms_ai",
+        "id": "1589103852766531584"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 36132,
+          "following_count": 20967,
+          "tweet_count": 21293,
+          "listed_count": 174,
+          "like_count": 11576,
+          "media_count": 2840
+        },
+        "name": "AI大好き",
+        "username": "RYOYA30509687",
+        "id": "1066604502856327169"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 14838,
+          "following_count": 5139,
+          "tweet_count": 213103,
+          "listed_count": 111,
+          "like_count": 252976,
+          "media_count": 4309
+        },
+        "name": "FOX TOMB",
+        "username": "foxtomb232",
+        "id": "1772002371150774273"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 255,
+          "tweet_count": 519,
+          "listed_count": 2,
+          "like_count": 2618,
+          "media_count": 50
+        },
+        "name": "さあや｜アイデアを形にする構築屋さん",
+        "username": "irori_note",
+        "id": "1911240708385865728"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 13766,
+          "following_count": 24,
+          "tweet_count": 1348,
+          "listed_count": 59,
+          "like_count": 5435,
+          "media_count": 309
+        },
+        "name": "Nainsi Dwivedi",
+        "username": "NainsiDwiv50980",
+        "id": "1994840137336066051"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 916,
+          "tweet_count": 946,
+          "listed_count": 3,
+          "like_count": 4096,
+          "media_count": 142
+        },
+        "name": "Loco Legend",
+        "username": "xlocolegend",
+        "id": "1891882131628097537"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 159296,
+          "following_count": 1507,
+          "tweet_count": 128171,
+          "listed_count": 1230,
+          "like_count": 33396,
+          "media_count": 34813
+        },
+        "name": "Julian Goldie SEO",
+        "username": "JulianGoldieSEO",
+        "id": "1405031034"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 529,
+          "tweet_count": 664,
+          "listed_count": 5,
+          "like_count": 2401,
+          "media_count": 106
+        },
+        "name": "Henry Wing Fung Yeung",
+        "username": "yeungwingfung",
+        "id": "1453348689733292042"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 48,
+          "tweet_count": 400,
+          "listed_count": 0,
+          "like_count": 99,
+          "media_count": 19
+        },
+        "name": "ゆうき｜Web制作",
+        "username": "yuki178_Web",
+        "id": "1878552440867581952"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 78,
+          "tweet_count": 43,
+          "listed_count": 0,
+          "like_count": 30,
+          "media_count": 0
+        },
+        "name": "Masa@AI伴走アシスタント",
+        "username": "Masa_works33",
+        "id": "2018191535817560064"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 3824,
+          "following_count": 898,
+          "tweet_count": 41062,
+          "listed_count": 175,
+          "like_count": 12266,
+          "media_count": 1109
+        },
+        "name": "Remo",
+        "username": "Remo_",
+        "id": "17217853"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "tweet_count": 1,
+          "listed_count": 0,
+          "like_count": 15,
+          "media_count": 0
+        },
+        "name": "りとね",
+        "username": "ritone_reals",
+        "id": "1935043134095806464"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 763,
+          "tweet_count": 2991,
+          "listed_count": 17,
+          "like_count": 8323,
+          "media_count": 587
+        },
+        "name": "Emad Ghorbaninia",
+        "username": "emadgnia",
+        "id": "167089055"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 2,
+          "tweet_count": 403,
+          "listed_count": 1,
+          "like_count": 0,
+          "media_count": 1
+        },
+        "name": "Tech Post Cast",
+        "username": "techpostcast",
+        "id": "1882775967942520832"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 50,
+          "tweet_count": 463,
+          "listed_count": 0,
+          "like_count": 5,
+          "media_count": 1
+        },
+        "name": "General Intelligence Technologies",
+        "username": "GenIntelX",
+        "id": "1681075184059699200"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 4,
+          "tweet_count": 29,
+          "listed_count": 0,
+          "like_count": 0,
+          "media_count": 7
+        },
+        "name": "OpenClaw",
+        "username": "openclaw_ru",
+        "id": "2023002635482349568"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 105,
+          "tweet_count": 85,
+          "listed_count": 0,
+          "like_count": 79,
+          "media_count": 0
+        },
+        "name": "aibizdev888777",
+        "username": "aibizdev888777",
+        "id": "2033469843081715712"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 37334,
+          "following_count": 1140,
+          "tweet_count": 52516,
+          "listed_count": 357,
+          "like_count": 34874,
+          "media_count": 6398
+        },
+        "name": "Tejas Kumar",
+        "username": "tejask",
+        "id": "90151483"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 77,
+          "tweet_count": 498,
+          "listed_count": 7,
+          "like_count": 12017,
+          "media_count": 7
+        },
+        "name": "XONE",
+        "username": "xailaw",
+        "id": "1437076404458373134"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 106,
+          "tweet_count": 1574,
+          "listed_count": 8,
+          "like_count": 38,
+          "media_count": 149
+        },
+        "name": "Ilya Makarov",
+        "username": "IlyaCS",
+        "id": "138175158"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 32926,
+          "following_count": 2089,
+          "tweet_count": 137878,
+          "listed_count": 436,
+          "like_count": 460112,
+          "media_count": 1761
+        },
+        "name": "Peppermint🇺🇸",
+        "username": "Peppermint_2525",
+        "id": "95709871"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 27,
+          "tweet_count": 189,
+          "listed_count": 0,
+          "like_count": 110,
+          "media_count": 45
+        },
+        "name": "kevin",
+        "username": "kevin_arduzai",
+        "id": "1551499894644514822"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 30,
+          "tweet_count": 93,
+          "listed_count": 0,
+          "like_count": 2,
+          "media_count": 0
+        },
+        "name": "claudia",
+        "username": "basedclaudia",
+        "id": "2036918788478951424"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 88,
+          "tweet_count": 1379,
+          "listed_count": 3,
+          "like_count": 165,
+          "media_count": 191
+        },
+        "name": "Ochy",
+        "username": "genrevai",
+        "id": "2027878043017269248"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 690,
+          "tweet_count": 3223,
+          "listed_count": 6,
+          "like_count": 4254,
+          "media_count": 102
+        },
+        "name": "Rajan Rengasamy",
+        "username": "cmd_alt_ecs",
+        "id": "35732921"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 1492,
+          "tweet_count": 4216,
+          "listed_count": 5,
+          "like_count": 18007,
+          "media_count": 70
+        },
+        "name": "SidIyer",
+        "username": "SidIyer",
+        "id": "17207370"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "tweet_count": 364,
+          "listed_count": 0,
+          "like_count": 148,
+          "media_count": 21
+        },
+        "name": "AIの波🌊",
+        "username": "aiwavejapan",
+        "id": "2025148285946920960"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 23,
+          "tweet_count": 105,
+          "listed_count": 0,
+          "like_count": 45,
+          "media_count": 18
+        },
+        "name": "AF",
+        "username": "AFHeimers",
+        "id": "1842661133741600768"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 19862,
+          "following_count": 1980,
+          "tweet_count": 42532,
+          "listed_count": 119,
+          "like_count": 245517,
+          "media_count": 1418
+        },
+        "name": "Samswara",
+        "username": "samswoora",
+        "id": "1469706133036277765"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 1715,
+          "tweet_count": 25253,
+          "listed_count": 1,
+          "like_count": 39639,
+          "media_count": 554
+        },
+        "name": "Alguma_Coisa",
+        "username": "alguma_coisa4",
+        "id": "927160197591851008"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 3,
+          "tweet_count": 409,
+          "listed_count": 0,
+          "like_count": 209,
+          "media_count": 30
+        },
+        "name": "JoshIdeas",
+        "username": "_joshideas",
+        "id": "2010024728829022208"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 284,
+          "tweet_count": 397,
+          "listed_count": 0,
+          "like_count": 615,
+          "media_count": 123
+        },
+        "name": "OOI Institute",
+        "username": "CohoLabs",
+        "id": "1991414874988036096"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1789,
+          "tweet_count": 2117,
+          "listed_count": 16,
+          "like_count": 13131,
+          "media_count": 136
+        },
+        "name": "SORANE / AI音楽",
+        "username": "sorane_aimusic",
+        "id": "1577662231956795393"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 492,
+          "tweet_count": 1405,
+          "listed_count": 10,
+          "like_count": 979,
+          "media_count": 152
+        },
+        "name": "清水優志 | フルスタックマーケティング(株)CEO",
+        "username": "fsm_shimizu",
+        "id": "1614776054866120705"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 245,
+          "tweet_count": 384,
+          "listed_count": 1,
+          "like_count": 188,
+          "media_count": 35
+        },
+        "name": "Spirit",
+        "username": "Vladdd__",
+        "id": "1323601325670703106"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 253,
+          "tweet_count": 3967,
+          "listed_count": 2,
+          "like_count": 10498,
+          "media_count": 449
+        },
+        "name": "Gio",
+        "username": "GioGigiX",
+        "id": "1584921151364538369"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 354,
+          "tweet_count": 8727,
+          "listed_count": 31,
+          "like_count": 14566,
+          "media_count": 2058
+        },
+        "name": "HKStrongside",
+        "username": "HKstrongside",
+        "id": "24912992"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 1902,
+          "tweet_count": 49538,
+          "listed_count": 89,
+          "like_count": 33630,
+          "media_count": 1065
+        },
+        "name": "mk18",
+        "username": "mk18",
+        "id": "14360569"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 171,
+          "tweet_count": 48,
+          "listed_count": 0,
+          "like_count": 7,
+          "media_count": 8
+        },
+        "name": "時短ツール@Tothinks",
+        "username": "TothinksWeb",
+        "id": "1972562489784279041"
+      },
+      {
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 322,
+          "tweet_count": 6575,
+          "listed_count": 5,
+          "like_count": 4089,
+          "media_count": 2433
+        },
+        "name": "Alex P 📛�",
+        "username": "SanSYS",
+        "id": "20444162"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "2038013981336719762",
+    "oldest_id": "2038008735268818954",
+    "result_count": 50,
+    "next_token": "b26v89c19zqg8o3juehk5a7w4nsodxa8v4g2irjqu9gu5"
+  }
+}
