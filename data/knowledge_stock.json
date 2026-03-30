@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-26T22:24:35.195Z",
+  "last_updated": "2026-03-30T11:05:32.035Z",
   "items": [
     {
       "id": "k_20260326_001",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "【2026年X攻略】フォロワーの増やし方完全ロードマップ",
       "content": "2026年最新版として、X（旧Twitter）のフォロワーを0人から3000人規模まで増やすための完全ロードマップ。 フォロワー数に応じた3つのフェーズ（0→100人、100→1000人、1000→3000人）ごとに、具体的なアクションプランを提示している。 初期は同ジャンルの格上アカウントとの交流で認知を広げ、中期ではメンションやバズポストへのリプ、トレンド活用で拡散を狙う。 後期ではプレゼント企画を用いてフォロワーを一気に増やし、最終的にマネタイズへ繋げる手法を解説。プロフィール設計の重要性や、商品なしでも収益化する方法についても触れている。 * **0人～100人のフェーズ：同ジャンルへ...",
       "source_file": "data/knowledge_sources/SNSマーケティング/【2026年X攻略】フォロワーの増やし方完全ロードマップ.md",
@@ -13,13 +13,17 @@
       "tags": [
         "SNS",
         "マーケティング",
-        "フォロワー獲得"
+        "フォロワー獲得",
+        "AI活用",
+        "自動化",
+        "X運用",
+        "効率化"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_002",
@@ -33,19 +37,23 @@
       "tags": [
         "SNS",
         "マーケティング",
-        "フォロワー獲得"
+        "フォロワー獲得",
+        "AI活用",
+        "自動化",
+        "X運用",
+        "効率化"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_003",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "【禁断のX運用術】凡人だった私が、フォロワーたった120人で2",
       "content": "著者がフォロワー数120人で2.2万インプレッションを達成した、「AI」と「XTEP（自動化ツール）」を活用したX運用術についての解説記事。「毎日投稿」や「良いこと」を発信するだけでは伸びない現状に対し、戦略的な「プレゼント企画」を実施することで、フォロワー数に関係なくインプレッションを爆発させる方法を提唱している。 具体的なステップとして、再現性の高い「バズるネタ」の選定方法、AI（Gemini, Genspark）を用いたプレゼント資料や画像の作成、既存のバズ投稿を分析して告知ポストを生成するプロンプト技術、そしてXTEPを用いて配布作業を完全自動化する手順を詳細に紹介。これらを実践するこ...",
       "source_file": "data/knowledge_sources/SNSマーケティング/【禁断のX運用術】凡人だった私が、フォロワーたった120人で2.2万インプを達成した全記録！AIがバズを自動で生む禁断のテクニックを大公開！",
@@ -53,19 +61,23 @@
       "tags": [
         "SNS",
         "マーケティング",
-        "フォロワー獲得"
+        "フォロワー獲得",
+        "AI活用",
+        "自動化",
+        "X運用",
+        "効率化"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_004",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "これ１本でSNSのすべてが分かる！圧倒的収益を生み出すSNSマーケティング教えます",
       "content": "3年間で約178億円（うちSNS経由は約半分）を売り上げた実績を持つ「しゃべくり社長」が、SNSマーケティングの本質と具体的な運用方法を解説する動画。SNSは単なるネット上の活動ではなく「リアルの延長線上」であり、自身のマイナス面や感情をさらけ出すことで共感とファン化が生まれると説く。 また、媒体選びにおいては新しいSNSの先行者利益を狙うのではなく、既存の「売る」媒体（Instagram, 公式LINEなど）で確実に成果を出し、徐々に「広げる」媒体（YouTubeなど）と組み合わせるメディアミックスを推奨している。コンテンツ作成の鍵として、単なるメリットではなく、顧客の「常識」を覆し、現状と...",
       "source_file": "data/knowledge_sources/SNSマーケティング/これ１本でSNSのすべてが分かる！圧倒的収益を生み出すSNSマーケティング教えます.md",
@@ -73,13 +85,17 @@
       "tags": [
         "SNS",
         "マーケティング",
-        "フォロワー獲得"
+        "フォロワー獲得",
+        "AI活用",
+        "自動化",
+        "X運用",
+        "効率化"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_005",
@@ -93,13 +109,17 @@
       "tags": [
         "SNS",
         "マーケティング",
-        "フォロワー獲得"
+        "フォロワー獲得",
+        "AI活用",
+        "自動化",
+        "X運用",
+        "効率化"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_006",
@@ -113,19 +133,23 @@
       "tags": [
         "SNS",
         "マーケティング",
-        "フォロワー獲得"
+        "フォロワー獲得",
+        "AI活用",
+        "自動化",
+        "X運用",
+        "効率化"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_007",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "【99%が間違えてる】商品を売りたければノウハウで差別化するな！お客様に選ばれるために最も簡単に差別化する方法",
       "content": "動画では、ライバルが多くても勝てる「差別化戦略」について、主に0→1フェーズ（初期段階）と、ある程度実績が出た後の拡大フェーズの2段階に分けて解説しています。 まず0→1フェーズでは、市場規模を気にせず「徹底的に絞る」ことが重要とされています。地域、ターゲット、問題、悩みを絞り込み、特に「シーン別（いつその商品が必要か）」で切り分けることで、緊急性の高い少数の顧客に確実に商品を届けるUSP（Unique Selling Proposition）の確立を目指します。 次に0→1を突破した後のフェーズでは、コンセプトメイキングによって「問題をずらす」戦略を取ります。直接的な問題解決（例：痩せたいか...",
       "source_file": "data/knowledge_sources/コンセプト設計/【99%が間違えてる】商品を売りたければノウハウで差別化するな！お客様に選ばれるために最も簡単に差別化する方法.md",
@@ -133,19 +157,23 @@
       "tags": [
         "コンセプト",
         "差別化",
-        "商品設計"
+        "商品設計",
+        "AI",
+        "ポジショニング",
+        "価値提案",
+        "常識の破壊"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_008",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "【コンセプトの教科書】初心者がゼロから売れるコンセプトを作るステップを徹底解説します",
       "content": "本動画では、しゃべくり社長が「コンセプトメイキング」の本質と具体的な作成手法について解説しています。 コンセプトとは「真新しいもの（クリエイティビティ）」ではなく、既存の要素を掛け合わせた「目新しいもの（パズル）」であると定義しています。多くの人が商品そのものを変えようとしますが、重要なのは「ベネフィット（顧客の変化）」を理解し、「パッケージ（見せ方・切り口）」を変えることでターゲットをずらすことです。 特に、顧客が解決策として信じている「手段（イメージ・常識）」をリサーチし、その間違いを指摘して常識を破壊することが、強力なコンセプトを作る鍵であると説いています。具体例として「週末不動産副業」...",
       "source_file": "data/knowledge_sources/コンセプト設計/【コンセプトの教科書】初心者がゼロから売れるコンセプトを作るステップを徹底解説します.md",
@@ -153,19 +181,23 @@
       "tags": [
         "コンセプト",
         "差別化",
-        "商品設計"
+        "商品設計",
+        "AI",
+        "ポジショニング",
+        "価値提案",
+        "常識の破壊"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_009",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "【完全版】売上爆伸び！利益を最大化する最強コンセプトメイキングを完全解説！",
       "content": "コンセプトメイキングとは、「真新しいもの」を作ることではなく、既存の手段や価値をターゲットに合わせて「ずらし」、相手に「気づき」を与えることである。 良いコンセプトを作るための前提として、まず「ベネフィット（Before/Afterのギャップ）」に価値がある「良いコンテンツ」が必要不可欠である。その上で、具体的な「手段」を明確にし、その手段をまだ知らない、あるいはその手段に価値を感じる「お金を持っているターゲット」を探し出して提案を「ずらす」ことが重要となる。 最終的には、ターゲット層が持っている業界の「当たり前（常識）」を理解し、それを覆すような提案（逆張りや新しい手段の提示）を行うことで「...",
       "source_file": "data/knowledge_sources/コンセプト設計/【完全版】売上爆伸び！利益を最大化する最強コンセプトメイキングを完全解説！.md",
@@ -173,13 +205,17 @@
       "tags": [
         "コンセプト",
         "差別化",
-        "商品設計"
+        "商品設計",
+        "AI",
+        "ポジショニング",
+        "価値提案",
+        "常識の破壊"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_010",
@@ -193,19 +229,23 @@
       "tags": [
         "コンセプト",
         "差別化",
-        "商品設計"
+        "商品設計",
+        "AI",
+        "ポジショニング",
+        "価値提案",
+        "常識の破壊"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_011",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "【集客爆上げ】これ見れば、死ぬまで集客に困りません！圧倒的集客を生み出す方法を大公開",
       "content": "しゃべくり社長（翔さん）が、店舗系（サロン、治療院、整体など）の集客サミットに登壇し、集客の本質について語った講演内容。自身の集客経験（累計150万人、売上180億円）に基づき、集客において最も重要なのは「顧客の負（不安・不満）を解消すること」と「異業種・他業種のリサーチ」であると説く。また、商品の中身ではなく「パッケージ（側）」を変えるコンセプトメイキングや、自身と顧客のイメージギャップを埋めるブランディング戦略についても具体例（リキッドデス、自身のイメージ戦略など）を交えて解説している。 * **顧客の「負」を解消する**: 集客とは、お客さんが感じる「不平・不満・不安」をなくすことである...",
       "source_file": "data/knowledge_sources/コンセプト設計/【集客爆上げ】これ見れば、死ぬまで集客に困りません！圧倒的集客を生み出す方法を大公開.md",
@@ -213,19 +253,23 @@
       "tags": [
         "コンセプト",
         "差別化",
-        "商品設計"
+        "商品設計",
+        "AI",
+        "ポジショニング",
+        "価値提案",
+        "常識の破壊"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_012",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "【集客販売の全てを解決！】爆発的な売上を生み出す、人間心理を大公開！",
       "content": "videoTitle: 【集客販売の全てを解決！】爆発的な売上を生み出す、人間心理を大公開！ posted_at: 2025-07-26 posted_by: しゃべくり社長 tags: - ビジネス - マーケティング - セールス - 人間心理 - 集客 - 価値観 - リサーチ aliases: - 顧客心理 - 潜在ニーズ - 欲求 - 価値観の掘り下げ - ずらしのテクニック - セールスはヘルプ 本動画は、ビジネスにおいて爆発的な売上を生み出すための「人間心理」をテーマにした講義です。 講師は、表面的なニーズや悩みを聞くだけでは商品は売れないと断言します。顧客自身も自分の本当の問題...",
       "source_file": "data/knowledge_sources/コンセプト設計/【集客販売の全てを解決！】爆発的な売上を生み出す、人間心理を大公開！.md",
@@ -233,13 +277,17 @@
       "tags": [
         "コンセプト",
         "差別化",
-        "商品設計"
+        "商品設計",
+        "AI",
+        "ポジショニング",
+        "価値提案",
+        "常識の破壊"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_013",
@@ -253,7 +301,10 @@
       "tags": [
         "ブランディング",
         "集客",
-        "売上"
+        "売上",
+        "セルフブランディング",
+        "AI",
+        "個人ブランド"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -273,7 +324,10 @@
       "tags": [
         "ブランディング",
         "集客",
-        "売上"
+        "売上",
+        "セルフブランディング",
+        "AI",
+        "個人ブランド"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -293,7 +347,10 @@
       "tags": [
         "ブランディング",
         "集客",
-        "売上"
+        "売上",
+        "セルフブランディング",
+        "AI",
+        "個人ブランド"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -313,19 +370,23 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_017",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "【完全版】令和を生き抜くために必要なマーケ力を徹底解説！人生を激変させるスキル教えます",
       "content": "マーケティングとは、単に商品を売ることではなく、商品を消費者に届けるための「ザグみ（座組み）」や「流れ」を作る仕組みそのものである。特定の手法（SNSや広告など）はあくまで「点」であり、これらを繋いで最適な「線（流れ）」を構築することが重要である。また、経営においては1つの流れに依存するのではなく、パルテノン神殿のように複数の柱を作ることで安定を図るべきである。 日常生活の全てがマーケティングの教材であり、常に「なぜ自分はこの商品を買ったのか」を考えることでマーケ力は鍛えられる。成功の鍵は圧倒的な「テスト」の数にあり、ティッピングポイント（急激に売上が跳ねる瞬間）が来るまで試行錯誤を繰り返し、...",
       "source_file": "data/knowledge_sources/マーケティング全般/【完全版】令和を生き抜くために必要なマーケ力を徹底解説！人生を激変させるスキル教えます.md",
@@ -333,13 +394,17 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_018",
@@ -353,13 +418,17 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_019",
@@ -373,13 +442,17 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_020",
@@ -393,13 +466,17 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_021",
@@ -413,13 +490,17 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_022",
@@ -433,13 +514,17 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_023",
@@ -453,13 +538,17 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_024",
@@ -473,13 +562,17 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_025",
@@ -493,19 +586,23 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_026",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "永久に使えるスキルはこれです！文章で売り上げを作るコピーライティング教えます",
       "content": "動画では、コピーライティングが未来永劫使える重要なスキルであり、その本質は「読んだ人の感情を動かし、行動を促すこと」であると解説しています。また、コピーライティングの習得には、日常のSNS広告の観察、映画やドラマ、舞台などのエンターテイメント鑑賞を通じたストーリー構成や感情の動きの学習、そしてボキャブラリーの増加が不可欠であると説いています。さらに、良いコピーを書くためには対面でのセールススキルが前提として必要であり、現代の「見ない・読まない・信じない」という壁を突破するための工夫や時代背景（タイパ重視など）の理解も重要であると述べています。 * **コピーライティングの目的と重要性** * ...",
       "source_file": "data/knowledge_sources/マーケティング全般/永久に使えるスキルはこれです！文章で売り上げを作るコピーライティング教えます.md",
@@ -513,13 +610,17 @@
       "tags": [
         "マーケティング",
         "集客",
-        "ビジネス"
+        "ビジネス",
+        "AI活用",
+        "自動化",
+        "効率化",
+        "戦略"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "morning"
     },
     {
       "id": "k_20260326_027",
@@ -533,7 +634,11 @@
       "tags": [
         "ライティング",
         "コピーライティング",
-        "セールス"
+        "セールス",
+        "AI",
+        "コンテンツ制作",
+        "文章力",
+        "X投稿"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -553,7 +658,11 @@
       "tags": [
         "ライティング",
         "コピーライティング",
-        "セールス"
+        "セールス",
+        "AI",
+        "コンテンツ制作",
+        "文章力",
+        "X投稿"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -573,7 +682,11 @@
       "tags": [
         "ライティング",
         "コピーライティング",
-        "セールス"
+        "セールス",
+        "AI",
+        "コンテンツ制作",
+        "文章力",
+        "X投稿"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -593,7 +706,11 @@
       "tags": [
         "ライティング",
         "コピーライティング",
-        "セールス"
+        "セールス",
+        "AI",
+        "コンテンツ制作",
+        "文章力",
+        "X投稿"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -613,7 +730,11 @@
       "tags": [
         "ライティング",
         "コピーライティング",
-        "セールス"
+        "セールス",
+        "AI",
+        "コンテンツ制作",
+        "文章力",
+        "X投稿"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -633,7 +754,11 @@
       "tags": [
         "ライティング",
         "コピーライティング",
-        "セールス"
+        "セールス",
+        "AI",
+        "コンテンツ制作",
+        "文章力",
+        "X投稿"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -653,7 +778,11 @@
       "tags": [
         "ライティング",
         "コピーライティング",
-        "セールス"
+        "セールス",
+        "AI",
+        "コンテンツ制作",
+        "文章力",
+        "X投稿"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -673,7 +802,11 @@
       "tags": [
         "ライティング",
         "コピーライティング",
-        "セールス"
+        "セールス",
+        "AI",
+        "コンテンツ制作",
+        "文章力",
+        "X投稿"
       ],
       "usage_count": 0,
       "max_usage": 5,
@@ -693,13 +826,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_036",
@@ -713,13 +850,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_037",
@@ -733,13 +874,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_038",
@@ -753,13 +898,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_039",
@@ -773,13 +922,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_040",
@@ -793,13 +946,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_041",
@@ -813,19 +970,23 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_042",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "【自己紹介】詐欺で350万騙され、ホームレスも経験した僕が今、大切にしていること",
       "content": "- 長野育ちでベースは陰キャだったが、幼少期から好奇心旺盛で、小学校では生徒会長や廃止されたイベントの復活を経験。 - 中学時代は真面目さをコンプレックスに感じていたが、先生に強みとして認められ、生徒会とサッカー部を両立し充実した日々を送る。 - 高校時代は燃え尽き症候群で勉強をサボり、大学受験に失敗。しかし大学時代は東京での一人暮らしや海外（パラグアイ、ベルギー）での活動を通して新たな経験を積む。 - コロナ禍を機に新卒でエンジニアとして独立し、マーケティングも経験。将来への不安から多くの人に会う中で詐欺被害に遭い、借金350万とホームレス生活を経験する。 - どん底からAIの可能性に気づき...",
       "source_file": "data/knowledge_sources/哲学/【自己紹介】詐欺で350万騙され、ホームレスも経験した僕が今、大切にしていること.md",
@@ -833,13 +994,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_043",
@@ -853,19 +1018,23 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_044",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "その脳みそ何に使いますか",
       "content": "何かに挑戦する際、「やるかやらないか（できるかどうか）」で悩んでやらない言い訳を探すのではなく、「どうやったらできるか」に脳を使うことで、行動のスピードと質が変わり人生が開けていくという教え。 - 「できるかどうか」に脳を使うと、やらない言い訳ばかり探して何も変わらない結果を招く - 「どうやったらできるか」に脳を使うと、前向きな解決策を導き出し行動につながる - 脳に与える問い方を少し変えるだけで、未来は大きく変わる できない理由を探すのではなく、「どうやったらできるか」を探すために脳みそを使い、行動し続ける人生を選択しよう。",
       "source_file": "data/knowledge_sources/哲学/その脳みそ何に使いますか.md",
@@ -873,13 +1042,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_045",
@@ -893,13 +1066,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_046",
@@ -913,13 +1090,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_047",
@@ -933,13 +1114,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_048",
@@ -953,13 +1138,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_049",
@@ -973,13 +1162,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_050",
@@ -993,19 +1186,23 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_051",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "ビジネスで最も困難でかつ最大の挑戦とは何か",
       "content": "ビジネスにおける最大の挑戦は「人と一緒にやっていくこと」であり、多様な価値観やコミュニケーションの壁を乗り越えて協働するスキルが必須である。自己理解を深め、相手を尊重し、行動で信頼を積み上げることで、ビジネスの成功へとつながる。 - 人間は多様な価値観を持つため、協力してビジネスを進めることは非常に困難である - 「自己理解」「共感力」「コミュニケーション能力」を高めることが、他者と協働するための鍵である - 信頼関係は短期間では築けず、日々の誠実な行動と相手への尊重の積み重ねによってのみ得られる どんなビジネスでも成功の根底には「人についての技術」がある。相手を理解し信頼関係を築くことで、ビ...",
       "source_file": "data/knowledge_sources/哲学/ビジネスで最も困難でかつ最大の挑戦とは何か.md",
@@ -1013,13 +1210,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_052",
@@ -1033,13 +1234,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_053",
@@ -1053,19 +1258,23 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_054",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "僕が大事にしてきたつのキーワード",
       "content": "著者が大切にする3つのキーワード（「ターニングライン」「目的から常に機能すること」「supernovaが教える当たり前の価値」）についての考察。他者に継続的な良い影響を与え、常に行動の目的を意識し、今ある日常の「当たり前」に感謝することが豊かな人生を築く鍵である。 - ターニングポイント（点）ではなく、他者の人生に一貫して良い影響を与え続ける「ターニングライン（線）」となる生き方が重要である - すべての行動や意思決定を「目的」に直結させることで、効率性とモチベーションが維持される - 星の光が過去のものであるように、今ある「当たり前」は儚く尊いものであり、失う前にその価値に気づき感謝すべきで...",
       "source_file": "data/knowledge_sources/哲学/僕が大事にしてきたつのキーワード.md",
@@ -1073,13 +1282,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_055",
@@ -1093,13 +1306,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_056",
@@ -1113,13 +1330,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_057",
@@ -1133,13 +1354,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_058",
@@ -1153,13 +1378,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_059",
@@ -1173,13 +1402,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_060",
@@ -1193,13 +1426,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_061",
@@ -1213,13 +1450,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_062",
@@ -1233,19 +1474,23 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_063",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "現実にはほとんどの場合頭がいい人よりも度胸のある人の方が成功への道を先",
       "content": "現実社会において、成功への道を切り拓き先に進んでいくのは、単に頭が良い（賢い）人よりも、リスクを恐れず行動を起こす「度胸のある」人であるという格言。 - 知識や思考力（頭の良さ）だけでは成功を掴むことは難しい - 挑戦やリスクを恐れない「度胸」が、結果を出すための強力な推進力となる 頭で考えるばかりでなく、一歩踏み出す「度胸」を持って行動し、成功への道を切り拓こう。",
       "source_file": "data/knowledge_sources/哲学/現実にはほとんどの場合頭がいい人よりも度胸のある人の方が成功への道を先.md",
@@ -1253,13 +1498,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_064",
@@ -1273,13 +1522,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_065",
@@ -1293,13 +1546,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_066",
@@ -1313,19 +1570,23 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_067",
       "created_at": "2026-03-26",
       "category": "philosophy",
-      "priority": "medium",
+      "priority": "high",
       "topic": "自己肯定感より自己行程感なりたい自分に向かう実感が自信になる",
       "content": "ありのままの自分を肯定する「自己肯定感」よりも、なりたい未来の自分に向かって進んでいる実感「自己行程感」を持つことが本当の自信につながるという考え。理想の未来と現状のギャップを健全に自己否定し、毎日の小さな行動に意味を持たせることの重要性を説く。 - 現状に満足していないにもかかわらず、無理に「自己肯定」しようとすることは根本的な自信にはつながらない - 理想の未来と現在の状態のギャップに気づく「健全な自己否定」が、前に進むための起点となる - 「なりたい未来」を明確にし、そこに近づくための日々の行動（行程）を自覚することで、ブレない自信（自己行程感）が育つ 現在の自分を無理に肯定するのではな...",
       "source_file": "data/knowledge_sources/哲学/自己肯定感より自己行程感なりたい自分に向かう実感が自信になる.md",
@@ -1333,13 +1594,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_068",
@@ -1353,13 +1618,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_069",
@@ -1373,13 +1642,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_070",
@@ -1393,13 +1666,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_071",
@@ -1413,13 +1690,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_072",
@@ -1433,13 +1714,17 @@
       "tags": [
         "哲学",
         "思考法",
-        "人生観"
+        "人生観",
+        "マインドセット",
+        "起業家精神",
+        "自己成長",
+        "行動力"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_073",
@@ -1453,13 +1738,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_074",
@@ -1473,13 +1761,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_075",
@@ -1493,13 +1784,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_076",
@@ -1513,13 +1807,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_077",
@@ -1533,13 +1830,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_078",
@@ -1553,13 +1853,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_079",
@@ -1573,13 +1876,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_080",
@@ -1593,13 +1899,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_081",
@@ -1613,13 +1922,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_082",
@@ -1633,13 +1945,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_083",
@@ -1653,13 +1968,16 @@
       "tags": [
         "営業",
         "セールス",
-        "プレゼン"
+        "プレゼン",
+        "提案力",
+        "コミュニケーション",
+        "価値伝達"
       ],
       "usage_count": 0,
       "max_usage": 5,
       "last_used_at": null,
       "status": "active",
-      "slot_affinity": "both"
+      "slot_affinity": "evening"
     },
     {
       "id": "k_20260326_084",

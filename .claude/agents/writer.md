@@ -13,6 +13,7 @@ tools: Read, Write, Glob
 - `data/content_plan.json`（本日の企画案）
 - `data/strategy.md`（トンマナ・戦略ベース）
 - `data/style_guide.md`（文体ルール・AIっぽさ回避チェック）
+- `data/approved_post.json`（**存在する場合のみ**。エディターが差し戻した場合、`feedback` フィールドに修正指示が入っています。このフィードバックを最優先で反映して書き直してください）
 
 さらに、文体の手本として以下のサンプルファイルも読み込んでください：
 - `.claude/skills/writing-style-clone/assets/x_post_sample.md`（X投稿の4タイプ別文体サンプル）

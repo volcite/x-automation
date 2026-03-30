@@ -39,6 +39,20 @@ echo "=========================================="
 # ──────────────────────────────────────────
 # Phase 1: 調査（Step 1-3）
 # ──────────────────────────────────────────
+
+# 通常リサーチャーのキャッシュ確認
+if [ -f "data/trends.json" ]; then
+  TRENDS_DATE=$(python3 -c "import json; d=json.load(open('data/trends.json')); print(d.get('date',''))" 2>/dev/null || echo "")
+  TODAY=$(date +%Y-%m-%d)
+  if [ "$TRENDS_DATE" = "$TODAY" ]; then
+    echo "[Cache] 本日の trends.json を検出（${TRENDS_DATE}）→ Giveaway Researcher がジャンル・競合データを再利用します"
+  else
+    echo "[Cache] trends.json は古いデータ（${TRENDS_DATE}）→ 全クエリ実行します"
+  fi
+else
+  echo "[Cache] trends.json なし → 全クエリ実行します"
+fi
+
 RESEARCH_PROMPT=$(awk '/^---$/{n++; next} n>=2' .claude/agents/giveaway_researcher.md)
 
 echo ""

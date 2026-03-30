@@ -321,27 +321,66 @@ run_slot() {
     return 1
   fi
 
-  # ライター
-  log "[${SLOT}] ライター実行中..."
-  if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/writer.md)" >> "$LOG_FILE" 2>&1; then
-    log "[${SLOT}] ライター完了 ✅"
-  else
-    log "[${SLOT}] ライター失敗 ❌"
-    return 1
-  fi
+  # ライター → エディター（最大2回リトライ）
+  local MAX_RETRIES=2
+  local RETRY_COUNT=0
+  local APPROVED="false"
 
-  # エディター（品質チェック → approved_post.json へ保存）
-  log "[${SLOT}] エディター実行中..."
-  if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/editor.md)" >> "$LOG_FILE" 2>&1; then
-    log "[${SLOT}] エディター完了 ✅"
-  else
-    log "[${SLOT}] エディター失敗 ❌"
-    return 1
-  fi
+  while [ "$RETRY_COUNT" -le "$MAX_RETRIES" ]; do
+    # ライター（style_typeに応じてstorytellingエージェントを使い分け）
+    local STYLE_TYPE
+    STYLE_TYPE=$(jq -r '.style_type // ""' data/content_plan.json 2>/dev/null || echo "")
 
-  # 承認チェック & Webhook送信
-  local APPROVED
-  APPROVED=$(jq -r '.approved' data/approved_post.json 2>/dev/null || echo "false")
+    if [ "$RETRY_COUNT" -gt 0 ]; then
+      log "[${SLOT}] ライター再実行（リトライ ${RETRY_COUNT}/${MAX_RETRIES}）— エディターのフィードバックを反映"
+    fi
+
+    if [ "$STYLE_TYPE" = "共感ストーリー型" ]; then
+      log "[${SLOT}] ストーリーテラー実行中...（style_type: 共感ストーリー型）"
+      if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/storytelling.md)" >> "$LOG_FILE" 2>&1; then
+        log "[${SLOT}] ストーリーテラー完了 ✅"
+      else
+        log "[${SLOT}] ストーリーテラー失敗 ❌"
+        return 1
+      fi
+    else
+      log "[${SLOT}] ライター実行中...（style_type: ${STYLE_TYPE}）"
+      if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/writer.md)" >> "$LOG_FILE" 2>&1; then
+        log "[${SLOT}] ライター完了 ✅"
+      else
+        log "[${SLOT}] ライター失敗 ❌"
+        return 1
+      fi
+    fi
+
+    # エディター（品質チェック → approved_post.json へ保存）
+    log "[${SLOT}] エディター実行中..."
+    if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/editor.md)" >> "$LOG_FILE" 2>&1; then
+      log "[${SLOT}] エディター完了 ✅"
+    else
+      log "[${SLOT}] エディター失敗 ❌"
+      return 1
+    fi
+
+    # 承認チェック
+    APPROVED=$(jq -r '.approved' data/approved_post.json 2>/dev/null || echo "false")
+
+    if [ "$APPROVED" = "true" ]; then
+      break
+    fi
+
+    RETRY_COUNT=$((RETRY_COUNT + 1))
+    if [ "$RETRY_COUNT" -le "$MAX_RETRIES" ]; then
+      local FEEDBACK
+      FEEDBACK=$(jq -r '.feedback // "フィードバックなし"' data/approved_post.json 2>/dev/null || echo "")
+      log "[${SLOT}] エディター差し戻し ⚠️ フィードバック: ${FEEDBACK}"
+      log "[${SLOT}] ライターに再投入します（${RETRY_COUNT}/${MAX_RETRIES}）"
+    else
+      log "[${SLOT}] エディター差し戻し ⚠️ リトライ上限（${MAX_RETRIES}回）に到達。この投稿はスキップします"
+    fi
+  done
+
+  # 承認済みの場合のみWebhook送信
 
   if [ "$APPROVED" = "true" ]; then
     log "[${SLOT}] 投稿承認済み ✅ ${POST_TIME}の自動投稿キューに格納"
@@ -415,11 +454,51 @@ fs.writeFileSync('data/injected_topic.json', JSON.stringify(data, null, 2), 'utf
   log "========== ${SLOT}スロット完了 =========="
 }
 
+# ========================================
+# Giveaway企画アクティブ判定
+# giveaway_x_posts.json が存在し、本日がキャンペーン期間内の場合
+# 通常投稿は朝スロット（8:00）のみに制限する
+# ========================================
+GIVEAWAY_ACTIVE="false"
+
+if [ -f "data/giveaway_x_posts.json" ]; then
+  GIVEAWAY_ACTIVE=$(node -e "
+const fs = require('fs');
+try {
+  const data = JSON.parse(fs.readFileSync('data/giveaway_x_posts.json', 'utf-8'));
+  const posts = data.posts || [];
+  if (posts.length === 0) { console.log('false'); process.exit(0); }
+
+  const today = new Date().toISOString().split('T')[0];
+
+  // 投稿の日付範囲を取得（最初と最後の scheduled_datetime）
+  const dates = posts.map(p => (p.scheduled_datetime || '').split(' ')[0]).filter(Boolean).sort();
+  const firstDate = dates[0] || '';
+  const lastDate = dates[dates.length - 1] || '';
+
+  // 本日がキャンペーン期間内（初日〜最終日）ならアクティブ
+  if (firstDate && lastDate && today >= firstDate && today <= lastDate) {
+    console.log('true');
+  } else {
+    console.log('false');
+  }
+} catch(e) { console.log('false'); }
+" 2>/dev/null || echo "false")
+fi
+
+if [ "$GIVEAWAY_ACTIVE" = "true" ]; then
+  log "Giveaway企画がアクティブ → 通常投稿は朝スロット（8:00）のみに制限します"
+fi
+
 # 朝スロット実行（8:00投稿）
 # 月曜の場合、プランナーが weekly_plan.json を生成してから朝コンテンツを計画する
 run_slot "morning" "08:00" || log "朝スロット失敗 ❌ 夕スロットに進みます"
 
-# 夕スロット実行（19:00投稿）
-run_slot "evening" "19:00" || log "夕スロット失敗 ❌"
+# 夕スロット実行（19:00投稿） ※Giveaway期間中はスキップ
+if [ "$GIVEAWAY_ACTIVE" = "true" ]; then
+  log "========== 夕スロットスキップ（Giveaway企画期間中のため） =========="
+else
+  run_slot "evening" "19:00" || log "夕スロット失敗 ❌"
+fi
 
-log "========== パイプライン終了（2スロット完了） =========="
+log "========== パイプライン終了 =========="
