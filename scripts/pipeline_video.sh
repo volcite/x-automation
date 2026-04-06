@@ -119,16 +119,24 @@ fi
 cd "$PROJECT_DIR"
 
 if [ -n "$VIDEO_URL" ]; then
-  # video_result.json を作成
+  # video_result.json を作成（GCS情報を含む）
   node -e "
 const fs = require('fs');
+const gcsInfoPath = process.argv[2] + '/out/gcs_result.json';
+let gcsInfo = {};
+if (fs.existsSync(gcsInfoPath)) {
+  gcsInfo = JSON.parse(fs.readFileSync(gcsInfoPath, 'utf-8'));
+}
 const result = {
   video_url: process.argv[1],
+  bucket_name: gcsInfo.bucket_name || '',
+  object_name: gcsInfo.object_name || '',
+  file_size: gcsInfo.file_size || 0,
   generated_at: new Date().toISOString(),
   status: 'success'
 };
 fs.writeFileSync('data/video_result.json', JSON.stringify(result, null, 2), 'utf-8');
-" "$VIDEO_URL"
+" "$VIDEO_URL" "$VIDEO_DIR"
   log "[VIDEO] 動画生成完了 ✅ URL: $VIDEO_URL"
   log "[VIDEO] 結果を data/video_result.json に保存しました"
 

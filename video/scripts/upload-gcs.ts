@@ -36,14 +36,26 @@ async function uploadToGCS(
     metadata: { contentType: "video/mp4" },
   });
 
+  const fileSizeBytes = fs.statSync(videoPath).size;
   const publicUrl = `https://storage.googleapis.com/${BUCKET_NAME}/${encodeURIComponent(fileName)}`;
   console.log(`Uploaded: gs://${BUCKET_NAME}/${fileName}`);
   console.log(`  URL: ${publicUrl}`);
+  console.log(`  Size: ${fileSizeBytes} bytes`);
 
-  // Save URL to file for pipeline integration
+  // Save GCS info to JSON for pipeline integration
+  const gcsInfo = {
+    bucket_name: BUCKET_NAME,
+    object_name: fileName,
+    file_size: fileSizeBytes,
+    video_url: publicUrl,
+  };
+  const resultOutputPath = path.resolve("out/gcs_result.json");
+  fs.writeFileSync(resultOutputPath, JSON.stringify(gcsInfo, null, 2), "utf-8");
+  console.log(`  GCS info saved to: ${resultOutputPath}`);
+
+  // Keep video_url.txt for backward compatibility
   const urlOutputPath = path.resolve("out/video_url.txt");
   fs.writeFileSync(urlOutputPath, publicUrl, "utf-8");
-  console.log(`  URL saved to: ${urlOutputPath}`);
 
   return publicUrl;
 }

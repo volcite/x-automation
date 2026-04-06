@@ -402,17 +402,25 @@ run_slot() {
 
     # Webhook送信
     local POST_CONTENT RAW_DATE SCHEDULED_TIME IMAGE_PROMPT PAYLOAD HTTP_CODE
+    local VIDEO_BUCKET VIDEO_OBJECT VIDEO_FILE_SIZE
     POST_CONTENT=$(jq -r '.final_content' data/approved_post.json)
     RAW_DATE=$(jq -r '.date' data/approved_post.json)
     SCHEDULED_TIME=$(echo "$RAW_DATE" | tr '-' '/')
     IMAGE_PROMPT=$(jq -r '.image_prompt // ""' data/approved_post.json)
 
+    # GCS情報を video_result.json から取得
+    VIDEO_BUCKET=$(jq -r '.bucket_name // ""' data/video_result.json 2>/dev/null || echo "")
+    VIDEO_OBJECT=$(jq -r '.object_name // ""' data/video_result.json 2>/dev/null || echo "")
+    VIDEO_FILE_SIZE=$(jq -r '.file_size // 0' data/video_result.json 2>/dev/null || echo "0")
+
     PAYLOAD=$(jq -n \
       --arg post "$POST_CONTENT" \
       --arg date "$SCHEDULED_TIME" \
       --arg image_prompt "$IMAGE_PROMPT" \
-      --arg video_url "$VIDEO_URL" \
-      '{"data": [{"post": $post, "date": $date, "image_prompt": $image_prompt, "video_url": $video_url}]}')
+      --arg bucket_name "$VIDEO_BUCKET" \
+      --arg object_name "$VIDEO_OBJECT" \
+      --argjson file_size "${VIDEO_FILE_SIZE:-0}" \
+      '{"data": [{"post": $post, "date": $date, "image_prompt": $image_prompt, "bucket_name": $bucket_name, "object_name": $object_name, "file_size": $file_size}]}')
 
     HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
       -X POST "$WEBHOOK_URL" \
