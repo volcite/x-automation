@@ -27,7 +27,7 @@ async function generateAudio(text: string, outputPath: string): Promise<void> {
       text,
       reference_id: FISH_AUDIO_VOICE_ID,
       format: "mp3",
-      speed: 1.3,
+      speed: 1.7,
     }),
   });
 

@@ -16,7 +16,7 @@ async function generateImage(
   artStyle: string,
   outputPath: string,
 ): Promise<void> {
-  const fullPrompt = `Generate an image in ${artStyle} style. The image should be in 1280x720 landscape format, high quality, detailed. Maintain consistent ${artStyle} style throughout:\n\n${prompt}`;
+  const fullPrompt = `Generate an image in ${artStyle} style. The image should be in 1280x720 landscape format, high quality, detailed. Maintain consistent ${artStyle} style throughout. IMPORTANT: Do NOT include any text, letters, numbers, words, labels, or captions in the image. Express all concepts purely through illustrations, icons, shapes, arrows, and colors only:\n\n${prompt}`;
 
   const response = await fetch(GEMINI_IMAGE_URL, {
     method: "POST",

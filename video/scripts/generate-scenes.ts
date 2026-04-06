@@ -48,8 +48,8 @@ function buildSystemPrompt(artStyle: string): string {
 - imagePromptの冒頭に必ず「${artStyle} style,」を付けてください
 - imagePromptには「infographic layout,」「diagram,」「visual explanation,」などの図解キーワードを含めてください
 - imagePromptには「Leave the bottom 20% of the frame clear or simple (no important elements)」を含め、下部に字幕スペースを確保してください
-- imagePromptにはピクセルアートに合うレトロゲーム的な色使い（ネオンカラー、ドット絵風UI、RPGステータス画面風など）の指示を含めてください
-- 最初のシーン（id:1）は動画のタイトルカード的な構図にしてください（大きなタイトルテキスト＋アイコン的要素）
+- **画像に文字・テキスト・ラベル・数字は一切含めないでください**。「no text, no labels, no letters, no numbers, no words, no captions, purely visual」を必ず含めてください。概念はイラスト・アイコン・図形・矢印・色分けだけで表現してください
+- 最初のシーン（id:1）もテキストなしのビジュアルのみで構成してください（タイトルテキストは不要。テーマを象徴するアイコンやイラストで表現）
 - narrationは1シーン30文字〜80文字程度にしてください
 - narrationの口調はカジュアルで親しみやすい口語にしてください。専門用語はそのまま使わず、初心者にもわかる平易な言葉に置き換えてください
 - durationSecはnarrationの長さに応じて3〜8秒で調整してください
