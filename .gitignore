@@ -39,3 +39,12 @@ logs/
 # 文体サンプル（ユーザー固有の投稿例）
 .claude/skills/writing-style-clone/assets/x_post_sample.md
 
+# Remotion動画生成
+video/node_modules/
+video/out/
+video/public/scenes/
+video/public/audio/
+video/credentials/
+video/.env
+data/video_result.json
+

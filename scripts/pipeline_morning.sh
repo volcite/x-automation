@@ -380,12 +380,25 @@ run_slot() {
     fi
   done
 
-  # 承認済みの場合のみWebhook送信
+  # 承認済みの場合��みWebhook送信
 
   if [ "$APPROVED" = "true" ]; then
-    log "[${SLOT}] 投稿承認済み ✅ ${POST_TIME}の自動投稿キューに格納"
-    # posts/ にスロット付きでアーカイブ
+    log "[${SLOT}] 投稿承認済み ✅ ${POST_TIME}の自動���稿キューに格納"
+    # posts/ にスロッ��付きでアー��イブ
     cp data/approved_post.json "posts/$(date +%Y-%m-%d)_${SLOT}.json"
+
+    # 朝スロットの場合: 解説動画を生成してGCSにアップロード
+    local VIDEO_URL=""
+    if [ "$SLOT" = "morning" ]; then
+      log "[${SLOT}] 解説動画の生成を開始します..."
+      if bash scripts/pipeline_video.sh >> "$LOG_FILE" 2>&1; then
+        VIDEO_URL=$(jq -r '.video_url // ""' data/video_result.json 2>/dev/null || echo "")
+        log "[${SLOT}] 解説動画生成完了 ✅ URL: ${VIDEO_URL}"
+      else
+        log "[${SLOT}] 解説動画生成失敗 ⚠️ 投稿は動画なしで送信します"
+        VIDEO_URL=""
+      fi
+    fi
 
     # Webhook送信
     local POST_CONTENT RAW_DATE SCHEDULED_TIME IMAGE_PROMPT PAYLOAD HTTP_CODE
@@ -398,7 +411,8 @@ run_slot() {
       --arg post "$POST_CONTENT" \
       --arg date "$SCHEDULED_TIME" \
       --arg image_prompt "$IMAGE_PROMPT" \
-      '{"data": [{"post": $post, "date": $date, "image_prompt": $image_prompt}]}')
+      --arg video_url "$VIDEO_URL" \
+      '{"data": [{"post": $post, "date": $date, "image_prompt": $image_prompt, "video_url": $video_url}]}')
 
     HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
       -X POST "$WEBHOOK_URL" \
