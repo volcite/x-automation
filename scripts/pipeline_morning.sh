@@ -406,12 +406,17 @@ run_slot() {
     POST_CONTENT=$(jq -r '.final_content' data/approved_post.json)
     RAW_DATE=$(jq -r '.date' data/approved_post.json)
     SCHEDULED_TIME=$(echo "$RAW_DATE" | tr '-' '/')
-    IMAGE_PROMPT=$(jq -r '.image_prompt // ""' data/approved_post.json)
-
-    # GCS情報を video_result.json から取得
-    VIDEO_BUCKET=$(jq -r '.bucket_name // ""' data/video_result.json 2>/dev/null || echo "")
-    VIDEO_OBJECT=$(jq -r '.object_name // ""' data/video_result.json 2>/dev/null || echo "")
-    VIDEO_FILE_SIZE=$(jq -r '.file_size // 0' data/video_result.json 2>/dev/null || echo "0")
+    # 動画成功時はGCS情報のみ送信（image_promptは送らない）
+    # 動画失敗 or eveningスロットはimage_promptを送信
+    local VIDEO_BUCKET="" VIDEO_OBJECT="" VIDEO_FILE_SIZE="0"
+    if [ -n "$VIDEO_URL" ]; then
+      VIDEO_BUCKET=$(jq -r '.bucket_name // ""' data/video_result.json 2>/dev/null || echo "")
+      VIDEO_OBJECT=$(jq -r '.object_name // ""' data/video_result.json 2>/dev/null || echo "")
+      VIDEO_FILE_SIZE=$(jq -r '.file_size // 0' data/video_result.json 2>/dev/null || echo "0")
+      IMAGE_PROMPT=""
+    else
+      IMAGE_PROMPT=$(jq -r '.image_prompt // ""' data/approved_post.json)
+    fi
 
     PAYLOAD=$(jq -n \
       --arg post "$POST_CONTENT" \

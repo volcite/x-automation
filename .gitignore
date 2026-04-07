@@ -44,7 +44,7 @@ video/node_modules/
 video/out/
 video/public/scenes/
 video/public/audio/
-video/credentials/
+credentials/
 video/.env
 data/video_result.json
 

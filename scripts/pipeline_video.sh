@@ -27,6 +27,12 @@ if [ ! -f "$PROJECT_DIR/data/approved_post.json" ]; then
   exit 1
 fi
 
+# ffprobe が未インストールなら自動インストール
+if ! command -v ffprobe &>/dev/null; then
+  log "[VIDEO] ffprobe が見つかりません。ffmpeg をインストール中..."
+  apt-get update -qq && apt-get install -y -qq ffmpeg 2>&1 | tail -1
+fi
+
 if [ ! -d "$VIDEO_DIR/node_modules" ]; then
   log "[VIDEO] npm install を実行中..."
   cd "$VIDEO_DIR" && npm install
@@ -58,6 +64,7 @@ log "[VIDEO] 投稿テキスト: ${POST_CONTENT:0:80}..."
 cd "$VIDEO_DIR"
 
 # テキストをファイル経由で渡す（CLI引数の長さ制限・改行問題を回避）
+mkdir -p input
 echo "$POST_CONTENT" > input/post_content.txt
 
 # Step 1: シーン生成（投稿テキストからmanuscript.jsonを生成）

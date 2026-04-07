@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2040480642857828636",
+    "username": "hylarucoder",
+    "url": "https://x.com/hylarucoder/status/2040480642857828636",
+    "text": "真心建议每个程序员都去手搓一个自用的 Coding Agent。\n\n纯靠写 Prompt 糊文本做 Skill，观测性太差了，你根本摸不到 harness 模型的上限在哪。缺乏 Agent 的状态流转做约束，复杂任务根本控不住。\n\n最近用 AI 搓了个 mini 版的 Claude Code，对 Agent 的理解稍微升了点。\n\nPS: 我经常从 Gemini / https://t.co/FNe",
+    "metrics": {
+      "retweet_count": 16,
+      "reply_count": 7,
+      "like_count": 152,
+      "quote_count": 0,
+      "bookmark_count": 221,
+      "impression_count": 14209
+    },
+    "created_at": "2026-04-04T17:24:30.000Z",
+    "query": "Claude AI agent -is:reply -is:retweet"
+  }
+]

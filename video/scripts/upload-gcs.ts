@@ -13,7 +13,7 @@ async function uploadToGCS(
   videoPath: string,
   manuscriptPath?: string,
 ): Promise<string> {
-  const credPath = path.resolve("credentials/service-account.json");
+  const credPath = path.resolve(__dirname, "../../credentials/service-account.json");
   if (!fs.existsSync(credPath)) {
     throw new Error(`Service account key not found at ${credPath}`);
   }
