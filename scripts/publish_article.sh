@@ -20,9 +20,9 @@ if [ -f "$PROJECT_ROOT/.env" ]; then
   set +a
 fi
 
-ARTICLE_WEBHOOK_URL="${ARTICLE_WEBHOOK_URL:-}"
-if [ -z "$ARTICLE_WEBHOOK_URL" ]; then
-  echo "エラー: ARTICLE_WEBHOOK_URL が .env に設定されていません。"
+GIVEAWAY_WEBHOOK_URL="${GIVEAWAY_WEBHOOK_URL:-}"
+if [ -z "$GIVEAWAY_WEBHOOK_URL" ]; then
+  echo "エラー: GIVEAWAY_WEBHOOK_URL が .env に設定されていません。"
   exit 1
 fi
 
@@ -49,11 +49,11 @@ fi
 echo "=========================================="
 echo "記事Webhook送信: $TYPE"
 echo "入力: $INPUT_FILE"
-echo "送信先: $ARTICLE_WEBHOOK_URL"
+echo "送信先: $GIVEAWAY_WEBHOOK_URL"
 echo "=========================================="
 
 # Webhook送信
-RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "$ARTICLE_WEBHOOK_URL" \
+RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "$GIVEAWAY_WEBHOOK_URL" \
   -H "Content-Type: application/json" \
   -d @"$INPUT_FILE")
 

@@ -146,7 +146,8 @@ STEP 6: ナレッジストック使用カウント更新
 ```
 WEBHOOK_URL=https://your-n8n.com/webhook/morning-post
 REPLY_WEBHOOK_URL=https://your-n8n.com/webhook/reply-handler
-ARTICLE_WEBHOOK_URL=https://your-n8n.com/webhook/article-handler
+ARTICLE_WEBHOOK_URL=https://your-n8n.com/webhook/article-handler  # X記事パイプライン用（メール通知）
+GIVEAWAY_WEBHOOK_URL=https://your-n8n.com/webhook/giveaway-content  # プレゼント企画用
 X_BEARER_TOKEN=your_x_api_bearer_token
 SOCIALDATA_API_KEY=your_socialdata_api_key  # X記事リサーチ用（https://socialdata.tools）
 ```
