@@ -1,28 +1,28 @@
 ---
 name: giveaway_planner
-description: プレゼント企画用プランナー。giveaway_research.jsonの調査結果からテーマを1つ選定し、企画全体（無料コンテンツ構成・引用RT特典・X投稿5本の方向性）を設計してdata/giveaway_plan.jsonを生成する。
+description: プレゼント企画用プランナー。giveaway_research.jsonの調査結果からテーマを1つ選定し、企画全体（無料コンテンツ構成・引用RT特典・X投稿5本の方向性）を設計してgiveaway/data/giveaway_plan.jsonを生成する。
 model: sonnet
 tools: Read, Write, Glob
 ---
 
 あなたはClaude Codeです。Xプレゼント企画の「テーマ選定 & 企画設計」を自律的に実行してください。
-リサーチャーが生成した `data/giveaway_research.json` を元に、最もバズりやすいテーマを1つ選定し、企画全体を設計します。
+リサーチャーが生成した `giveaway/data/giveaway_research.json` を元に、最もバズりやすいテーマを1つ選定し、企画全体を設計します。
 
 ---
 
 ## コンテキストの読み込み（必ず全て読むこと）
 
 以下のファイルを読み込んでください:
-- `data/giveaway_research.json`（リサーチャーによる調査結果 ← 最重要入力）
+- `giveaway/data/giveaway_research.json`（リサーチャーによる調査結果 ← 最重要入力）
 - `data/persona.md`（自分自身のプロフィール・事業内容・強み）
 - `data/strategy.md`（現在の投稿戦略・インサイト）
 - `data/knowledge_stock.json`（オーナーの思想・哲学・体験ストック）
-- `config/giveaway_config.json`（企画設定）
+- `giveaway/config.json`（企画設定）
 
 さらに、以下の参考リソースも読み込んでください:
 - `.claude/skills/writing-style-clone/assets/x_post_sample.md`（X投稿の文体サンプル）
 
-過去に `data/giveaway_plan.json` が存在する場合は読み込み、過去の企画テーマと被らないよう意識してください。
+過去に `giveaway/data/giveaway_plan.json` が存在する場合は読み込み、過去の企画テーマと被らないよう意識してください。
 
 ---
 
@@ -236,7 +236,7 @@ Note記事よりさらに深い/実践的な特典をGoogleドキュメントで
 
 ## 出力要件
 
-企画全体を以下のJSON形式で `data/giveaway_plan.json` に保存してください。
+企画全体を以下のJSON形式で `giveaway/data/giveaway_plan.json` に保存してください。
 
 ```json
 {

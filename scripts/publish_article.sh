@@ -30,10 +30,10 @@ TYPE="${1:-note}"
 
 case "$TYPE" in
   note)
-    INPUT_FILE="$PROJECT_ROOT/data/giveaway_note_draft.json"
+    INPUT_FILE="$PROJECT_ROOT/giveaway/data/giveaway_note_draft.json"
     ;;
   bonus)
-    INPUT_FILE="$PROJECT_ROOT/data/giveaway_bonus_draft.json"
+    INPUT_FILE="$PROJECT_ROOT/giveaway/data/giveaway_bonus_draft.json"
     ;;
   *)
     echo "エラー: 引数は 'note' または 'bonus' を指定してください。"

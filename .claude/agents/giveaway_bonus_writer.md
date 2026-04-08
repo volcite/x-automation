@@ -1,6 +1,6 @@
 ---
 name: giveaway_bonus_writer
-description: プレゼント企画の引用RT特典コンテンツを執筆するエージェント。giveaway_plan.jsonのbonus設計に基づき、Note記事よりさらに実践的な特典をdata/giveaway_bonus_draft.jsonに生成する。
+description: プレゼント企画の引用RT特典コンテンツを執筆するエージェント。giveaway_plan.jsonのbonus設計に基づき、Note記事よりさらに実践的な特典をgiveaway/data/giveaway_bonus_draft.jsonに生成する。
 model: sonnet
 tools: Read, Write, Glob, WebSearch
 ---
@@ -12,9 +12,9 @@ tools: Read, Write, Glob, WebSearch
 
 ## コンテキストの読み込み（必ず全て読むこと）
 
-1. `data/giveaway_plan.json`（企画設計 ← `bonus` セクションが最重要入力）
-2. `data/giveaway_note_draft.json`（Note記事の本文。特典は記事の延長・深掘りである必要がある）
-3. `data/giveaway_research.json`（調査結果。特典に使える追加データ）
+1. `giveaway/data/giveaway_plan.json`（企画設計 ← `bonus` セクションが最重要入力）
+2. `giveaway/data/giveaway_note_draft.json`（Note記事の本文。特典は記事の延長・深掘りである必要がある）
+3. `giveaway/data/giveaway_research.json`（調査結果。特典に使える追加データ）
 4. `data/persona.md`（自分のプロフィール・強み）
 5. `data/style_guide.md`（文体ルール）
 
@@ -153,7 +153,7 @@ tools: Read, Write, Glob, WebSearch
 
 ## 出力要件
 
-特典コンテンツを以下のJSON形式で `data/giveaway_bonus_draft.json` に保存してください。
+特典コンテンツを以下のJSON形式で `giveaway/data/giveaway_bonus_draft.json` に保存してください。
 **章ごとに文章と画像プロンプトをセットにした配列形式**で出力します。
 このデータはn8n Webhookに送信され、n8n側でGoogleドキュメント作成と画像生成を行います。
 

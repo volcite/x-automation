@@ -5,7 +5,7 @@
 #
 # 使い方:
 #   bash scripts/pipeline_video.sh
-#   → data/approved_post.json の final_content を元に動画を生成
+#   → post/data/approved_post.json の final_content を元に動画を生成
 #   → 成功時: data/video_result.json にGCS URLを出力
 # ========================================
 set -e
@@ -22,8 +22,8 @@ if ! type log &>/dev/null; then
 fi
 
 # 前提チェック
-if [ ! -f "$PROJECT_DIR/data/approved_post.json" ]; then
-  log "エラー: data/approved_post.json が見つかりません"
+if [ ! -f "$PROJECT_DIR/post/data/approved_post.json" ]; then
+  log "エラー: post/data/approved_post.json が見つかりません"
   exit 1
 fi
 
@@ -48,9 +48,9 @@ fi
 
 # 承認済み投稿テキストを取得（jqがなければnodeで代替）
 if command -v jq &>/dev/null; then
-  POST_CONTENT=$(jq -r '.final_content' "$PROJECT_DIR/data/approved_post.json")
+  POST_CONTENT=$(jq -r '.final_content' "$PROJECT_DIR/post/data/approved_post.json")
 else
-  POST_CONTENT=$(node -e "const fs=require('fs');const d=JSON.parse(fs.readFileSync(process.argv[1],'utf-8'));process.stdout.write(d.final_content||'')" "$PROJECT_DIR/data/approved_post.json")
+  POST_CONTENT=$(node -e "const fs=require('fs');const d=JSON.parse(fs.readFileSync(process.argv[1],'utf-8'));process.stdout.write(d.final_content||'')" "$PROJECT_DIR/post/data/approved_post.json")
 fi
 
 if [ -z "$POST_CONTENT" ] || [ "$POST_CONTENT" = "null" ]; then

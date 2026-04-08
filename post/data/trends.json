@@ -1,0 +1,298 @@
+{
+  "date": "2026-04-06",
+  "slot": "morning",
+  "search_queries_used": [
+    "Claude Code 2026年4月 最新アップデート 新機能",
+    "Anthropic Claude Code ソースコード流出 2026年4月",
+    "n8n 2026年4月 新機能 AIエージェント アップデート",
+    "Claude Code Skills SubAgents 2026年 使い方 完全自動化",
+    "Gemma 4 Google 2026年4月 リリース AIモデル 性能",
+    "Karpathy LLM Wiki 個人ウィキ 自動更新 AIツール 2026年4月",
+    "Anthropic Biotechnology acquisition 2026年4月 医療AI バイオテック買収",
+    "n8n Claude Code 連携 自動化 ワークフロー 実例 2026年4月",
+    "Claude Code Remote Control スマホ タブレット 外出先 活用 2026年",
+    "Claude Code Subagents parallel execution 2026 workflow productivity"
+  ],
+  "x_api_queries_used": [
+    "Claude Code -is:reply -is:retweet",
+    "Claude Code lang:ja -is:reply -is:retweet",
+    "n8n AI workflow -is:reply -is:retweet",
+    "AI automation agent 2026 -is:reply -is:retweet lang:en",
+    "Claude Code vibe coding solo founder -is:reply -is:retweet lang:en",
+    "Claude Code n8n workflow automation -is:reply -is:retweet",
+    "from:keitowebai -is:reply -is:retweet",
+    "from:masahirochaen -is:reply -is:retweet",
+    "from:tetumemo -is:reply -is:retweet"
+  ],
+  "total_posts_fetched": {
+    "global": 80,
+    "japan": 60
+  },
+  "trends": [
+    {
+      "topic": "Claude Code ソースコード流出（51万行・.mapファイル誤混入）",
+      "summary": "2026年3月31日、Claude Code v2.1.88のnpmパッケージに本来非公開のソースマップファイルが混入し、512,000行のTypeScriptソースコードが誰でも閲覧可能な状態になった。Anthropicは修正版v2.1.89をリリース、GitHubに対してDMCA削除申請を行った。流出コードから隠し機能（仮想ペット「/buddy」コマンド、次世代プロジェクト「KAIROS」等）も判明した。",
+      "source_url": "https://www.gizmodo.jp/2026/04/source-code-for-anthropics-claude-code-leaks-at-the-exact-wrong-time.html",
+      "relevance": "high",
+      "suggested_angle": "「Claude Codeの中身が丸見えになった件」という切り口で、流出コードから分かった実用的な知見（環境変数・隠し設定）を自分の実体験として解説する。「知ってる人と知らない人で使い方が全然変わる」フレームが刺さる。"
+    },
+    {
+      "topic": "Claude Code Subagents並列実行で生産性3〜4倍",
+      "summary": "Claude Code作者のBoris Cherny自身が「10〜15セッション並列実行」ワークフローを公開し話題に。SubagentsとWorktreesを組み合わせることで、同時に異なるタスクを並列処理でき、生産性が3〜4倍になるとされる。最大7並列エージェント稼働が可能。",
+      "source_url": "https://claudelab.net/en/articles/claude-code/claude-code-parallel-development-mastery",
+      "relevance": "high",
+      "suggested_angle": "「Claude Codeを1セッションで使うのはもったいない」という逆張り切り口。並列実行の具体的な使い方と自分の実体験（何時間のタスクが何分で終わったか）を数字で示す。"
+    },
+    {
+      "topic": "Google Gemma 4リリース（エージェント特化オープンモデル）",
+      "summary": "2026年4月2日、GoogleがGemma 4をApache 2.0ライセンスで公開。256Kコンテキスト、140以上の言語対応、エージェント型ワークフローに最適化。26Bモデルはスパースアーキテクチャで実質4Bパラメータ程度の推論コストで動作。スマホでも動作可能。",
+      "source_url": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news062.html",
+      "relevance": "medium",
+      "suggested_angle": "「iPhoneでオフラインAIが動く時代になった」という身近さでの切り口。@masahirochaenがGemma 4 iPhoneで動かした投稿がいいね301・インプレ85,753と爆発したことから、「無料×ローカル×モバイル」フレームが刺さる。"
+    },
+    {
+      "topic": "AnthropicがCoefficient Bio（バイオテックAI）を4億ドルで買収",
+      "summary": "2026年4月3日、Anthropicが創業8ヶ月のAIバイオテックスタートアップCoefficient Bioを約4億ドルで買収。医薬品研究・臨床試験のAI自動化が目的。10人未満のチームがこの評価額を獲得したことで、AIエージェント活用のビジネス価値を示す事例として注目されている。",
+      "source_url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "relevance": "medium",
+      "suggested_angle": "「10人以下のチームが400億円企業になった時代」という切り口。AIエージェント×専門ドメインの掛け算がいかに評価されるか、自分のClaudeCode×n8nのポジションとの接続で語れる。"
+    },
+    {
+      "topic": "KarpathyのLLM Wiki——使うほどAIが自分色に育つ個人ナレッジベース",
+      "summary": "AI研究者Andrej KarpathyがLLMを使って「自動更新される個人ウィキ」を構築する手法を公開。RAGとは異なり、LLMが構造化されたMarkdownウィキを構築・更新し続ける概念。Claude Codeとの組み合わせでSkillsとして実装する例も登場している。",
+      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "relevance": "high",
+      "suggested_angle": "「RAGでも単なるメモでもない第三の知識管理術」として紹介。Claude Code×Obsidianで実装する手順と「使えば使うほど賢くなる」という複利効果のフレームが響く。n8nとの組み合わせで自動トリガーにすれば自分の差別化にもなる。"
+    },
+    {
+      "topic": "Anthropic、サードパーティツール（OpenClaw等）向けClaudeサブスクリプションを制限",
+      "summary": "2026年4月4日、AnthropicがOpenClaw等のサードパーティAIエージェントツールからのClaude Pro/Maxサブスクリプション利用を停止。API従量課金への移行が必要になり、大口利用者はコスト増大に直面。エンジニアリング負荷を理由としているが、開発者コミュニティでは議論が起きている。",
+      "source_url": "https://news.bitcoin.com/anthropic-restricts-claude-agent-access-amid-ai-automation-boom-in-crypto/",
+      "relevance": "medium",
+      "suggested_angle": "「Claude Codeがサードパーティからも使われすぎて制限された」という需要の証明として語れる。自分が公式Claude Codeを直接使うn8nガチ勢であるポジションからの安心感を伝えるコンテンツにも転換可能。"
+    },
+    {
+      "topic": "AI同士が自己改善するGAN的手法の登場",
+      "summary": "@masahirochaenが紹介。AI同士で相互監視・フィードバックを行うことで、人間がレビューするより精度が高まるという手法が海外でバズっている。Claude Codeでは毎日CronでCLAUDE.mdやSkillsを自動見直させることで近似実装が可能とのこと。",
+      "source_url": "https://x.com/masahirochaen/status/2040578918650888327",
+      "relevance": "high",
+      "suggested_angle": "「AIに自分自身を改善させる」という衝撃的なコンセプトを、n8n×Claude Codeの定期実行で実装する方法として解説。「毎朝AIが昨日の自分をレビューして改善提案を出す仕組みを作った」という体験談にできれば最強。"
+    },
+    {
+      "topic": "n8n AIワークフロービルダー（自然言語ワークフロー生成）",
+      "summary": "2026年現在、n8nに自然言語でワークフローを生成するAIワークフロービルダーがベータ提供中。MCP（Model Context Protocol）をクライアント・サーバー両面でサポート。Claude Codeとの組み合わせで「会話ベースでn8nワークフローを爆速構築」が実用レベルに達している。",
+      "source_url": "https://dev.classmethod.jp/articles/n8n-ai-worflow-builder-wow/",
+      "relevance": "high",
+      "suggested_angle": "「n8nをGUIで手動で作るのはもう時代遅れ」という切り口。Claude Code×n8n-mcpで自然言語からワークフローを自動生成する手順を実演。「非エンジニアでも5分でワークフローが完成した」という具体事例が響く。"
+    },
+    {
+      "topic": "Claude Code Remote Control——スマホから自宅PCのAI開発を遠隔操作",
+      "summary": "2026年2月に公開されたRemote Control機能により、外出先からスマホ・タブレットで自宅PCのClaude Codeセッションを継続操作できるようになった。OpenClawが廃止された今、公式Remote Controlの注目度がさらに上がっている。",
+      "source_url": "https://code.claude.com/docs/ja/remote-control",
+      "relevance": "medium",
+      "suggested_angle": "「OpenClaw終了でRemote Controlの価値が爆上がりした」という時事性のある切り口。外出先でiPhoneからAIエージェントに作業を継続させる実体験をカジュアルに紹介。"
+    }
+  ],
+  "competitor_insights": [
+    {
+      "account": "@keitowebai",
+      "observation": "Claude Code×Skillsのコンテンツが圧倒的にバズっている。動画素材を丸投げでショート動画完成（いいね381・ブックマーク659・インプレ45,878）、Claude Code学習ロードマップ（いいね411・ブックマーク667・インプレ47,008）がトップ2。Skillsの「スラッシュコマンド一発で業務が完成」フレームを徹底しており、非エンジニア向けの実用性訴求が強い。投稿頻度は1日3〜5投稿。また無料セミナー（4/9）の集客投稿もいいね120・ブックマーク103を獲得。",
+      "region": "japan",
+      "top_post_metrics": {
+        "text_preview": "Claude Codeに動画素材を丸投げするだけで、ショート動画が完成するスキルを作った。カット・テロップ・効果音・BGM・タイトル・画像Bロール、そして動画Bロールまで全部自動。",
+        "like_count": 381,
+        "retweet_count": 10,
+        "reply_count": 4,
+        "impression_count": 45878,
+        "bookmark_count": 659
+      }
+    },
+    {
+      "account": "@masahirochaen",
+      "observation": "フォロワー189,538人。AI情報の速報性と「初心者向けにわかりやすくまとめた」フレームが特徴。Gemma 4をiPhoneで動かした動画投稿（いいね301・インプレ85,753）、AI同士の自己改善手法（いいね506・インプレ107,370・ブックマーク757）が最近の2大バズ。海外バズ投稿を日本語で解説する「輸入型コンテンツ」が主力。1日6〜10投稿の高頻度運用。書籍『AI脳』出版イベントを4/4に実施。",
+      "region": "japan",
+      "top_post_metrics": {
+        "text_preview": "AI同士で自己改善する手法が海外でバズってる。GAN的な感じでAI同士で監視させると、自己改善をしてくれて、人間が修正するよりも精度が上がるとのこと。",
+        "like_count": 506,
+        "retweet_count": 60,
+        "reply_count": 10,
+        "impression_count": 107370,
+        "bookmark_count": 757
+      }
+    },
+    {
+      "account": "@tetumemo",
+      "observation": "AI情報を毎日インフォグラフィック化して発信するスタイル。「4/5 AI業界24時間トレンドニュース」形式の定期投稿が特徴。最近はAI情報収集プロンプト紹介（ブックマーク35）、Jack Dorseyの会議革命（いいね16・インプレ3,743）などが好調。図解・インフォグラフィック特化で視覚的なコンテンツミックスが差別化軸。",
+      "region": "japan",
+      "top_post_metrics": {
+        "text_preview": "Jack Dorseyの「会議にスライド資料はもう持ち込まないでくれ」という決断。プレゼン資料の代わりに社員全員が『プロトタイプ』を持ち込んでいる",
+        "like_count": 16,
+        "retweet_count": 1,
+        "reply_count": 1,
+        "impression_count": 3743,
+        "bookmark_count": 10
+      }
+    }
+  ],
+  "viral_factors": [
+    {
+      "post_topic": "@keitowebai: Claude Code学習ロードマップ（3動画セット紹介）",
+      "post_url": "https://x.com/keitowebai/status/2040310998377402512",
+      "region": "japan",
+      "metrics": {
+        "like_count": 411,
+        "retweet_count": 22,
+        "reply_count": 4,
+        "impression_count": 47008,
+        "bookmark_count": 667
+      },
+      "why_viral": "「セットアップ→初期設定→実践活用の順番が大事」という具体的な学習順序提示が刺さった。情報過多のClaude Code界隈で「何から始めればいいかわからない層」に直接刺さる構成。ブックマーク率が高く（667/47008=1.4%）保存して後で読むという行動を誘発した。フック「Claude Codeを学ぶなら、個人的にはこの3つの動画を順番に見るのがおすすめ」が個人の推薦として信頼感を高めている。",
+      "elements_to_steal": "「自分が実際に試した順番・手順」を明示する構成。「個人的にはこれが一番」という等身大の推薦フレームを使う。リスト形式で3ステップ提示→ブックマーク保存を誘発するCTAとの組み合わせが有効。"
+    },
+    {
+      "post_topic": "@masahirochaen: AI同士の自己改善（GAN的手法）解説",
+      "post_url": "https://x.com/masahirochaen/status/2040578918650888327",
+      "region": "japan",
+      "metrics": {
+        "like_count": 506,
+        "retweet_count": 60,
+        "reply_count": 10,
+        "impression_count": 107370,
+        "bookmark_count": 757
+      },
+      "why_viral": "「AIに自分を改善させる」という衝撃的な概念が意外性とSF感を同時に持つ。海外バズ投稿の日本語速報という速報性も効いている。「普通に毎日Cronでも近しいことができそう」という具体的な実装提案が読者に「自分もできる」感を与えた。いいね506に対してリプライ10（比率2%）で会話誘発型としても機能。",
+      "elements_to_steal": "海外バズ概念を「日本語で自分の実装案に落とし込む」構成。「初心者向けにわかりやすくまとめました」という謙虚な表現が初心者層を引き込む。Claude Code×n8n定期実行での実装という自分ならではの具体策を添えることで差別化できる。"
+    },
+    {
+      "post_topic": "@masahirochaen: Gemma 4をiPhoneで動かした動画",
+      "post_url": "https://x.com/masahirochaen/status/2040650667044532699",
+      "region": "japan",
+      "metrics": {
+        "like_count": 301,
+        "retweet_count": 29,
+        "reply_count": 10,
+        "impression_count": 85753,
+        "bookmark_count": 230
+      },
+      "why_viral": "「スマホで動く」という身近さと「爆速」という体感の証明が動画で視覚的に伝わった。「性能はChatGPT等に劣るが、オフラインでも使える安心感がある」という等身大の評価が信頼感を生んでいる。リプライ10/いいね301=3.3%と会話誘発率が高く、ユーザー同士の情報共有にもなった。",
+      "elements_to_steal": "新ツール・新機能を「自分が試してみた」形式で実演。性能の限界も正直に書くことで信頼性が増す。「いざというときの安心感」という感情的な価値を伝えるフレーム。動画やスクリーンショット添付で視覚的証拠を示す。"
+    },
+    {
+      "post_topic": "@keitowebai: Claude Code×ショート動画自動生成Skill解説",
+      "post_url": "https://x.com/keitowebai/status/2040736758900686957",
+      "region": "japan",
+      "metrics": {
+        "like_count": 381,
+        "retweet_count": 10,
+        "reply_count": 4,
+        "impression_count": 45878,
+        "bookmark_count": 659
+      },
+      "why_viral": "「丸投げするだけ」という極限の楽さ訴求。具体的な自動化内容（カット・テロップ・効果音・BGM・タイトル・画像Bロール・動画Bロール）を列挙することで「こんなに全部やってくれるの？」という驚きを生んだ。ブックマーク659は「あとで自分も試したい」という実用保存意向の高さを示す。スレッド形式で詳細解説付き。",
+      "elements_to_steal": "「丸投げ→完成」という対比フレームで自動化の価値を示す。自動化できる工程を箇条書きで全列挙する「網羅感」がブックマーク保存を誘発。スレッド形式で詳細を続けることでフォロワー獲得効果も期待できる。"
+    }
+  ],
+  "content_ideas": [
+    {
+      "idea": "Claude Codeソースコード流出で判明した「公式ドキュメントに載ってない環境変数と設定」を実際に試してみた",
+      "type": "最新情報解説型",
+      "priority": "high",
+      "source_url": "https://xenospectrum.com/claude-code-source-code-npm-leak/",
+      "angle": "流出という話題性に乗りつつ、「知ってる人と知らない人で使い方が全然変わる」フレームで実用的なTipsとして昇華させる。自分が実際に設定して何が変わったかという実体験を必ず入れる（strategy.mdの最重要発見：体験あり5.77% vs なし0.30%）。",
+      "import_potential": "既に国内浸透"
+    },
+    {
+      "idea": "Claude Codeを「1セッション」で使うのは損している——並列Subagents実行で生産性が変わった話",
+      "type": "教育型",
+      "priority": "high",
+      "source_url": "https://claudelab.net/en/articles/claude-code/claude-code-parallel-development-mastery",
+      "angle": "「普通の使い方」と「並列実行」で具体的に何時間分の差が出るかを数字で示す。自分のX運用自動化（朝・夕2投稿のパイプライン）をSubagents並列で組んでいる実体験で差別化。morningスロット向けに「試してみたい」と思わせるsaveが目的。",
+      "import_potential": "high（海外では当たり前の技術だが国内での実践解説は少ない）"
+    },
+    {
+      "idea": "KarpathyのLLM Wiki手法をClaude Code×n8nで実装した——使うほど自分専用AIになる仕組みを作った話",
+      "type": "最新情報解説型",
+      "priority": "high",
+      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "angle": "「RAGでも普通のメモでもない第三の知識管理術」として海外の最新概念を日本語で解説。n8nのCron定期実行でウィキを自動更新する仕組みをn8nガチ勢として実装した実体験として紹介。「使えば使うほど賢くなる」複利効果のフレームが共感を生む。",
+      "import_potential": "high（Karpathyの投稿は国内でほぼ未紹介）"
+    },
+    {
+      "idea": "n8nをGUIで手動で作るのは時代遅れ——Claude Code×n8n-mcpで自然言語からワークフローを作った",
+      "type": "教育型",
+      "priority": "high",
+      "source_url": "https://zenn.dev/ubie_dev/articles/6b23a74187766b",
+      "angle": "「非エンジニアでもn8nが使える時代になった」という門戸を広げる切り口。具体的な指示文例（「Webhook→Slack通知のワークフロー作って」等）と完成スクリーンショットで実演。n8nガチ勢かつClaude Code使い倒し、という自分のポジション強化に直結。",
+      "import_potential": "既に国内浸透"
+    },
+    {
+      "idea": "Anthropicが10人以下のバイオAIスタートアップに4億ドル払った件——AIエージェント×専門ドメインで小さいチームが巨大な価値を持つ時代",
+      "type": "最新情報解説型",
+      "priority": "medium",
+      "source_url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "angle": "「人数より掛け合わせの時代」という教育型解説。フリーランスや個人事業主ターゲットに「あなたの専門×AIエージェントで同じことが起きうる」という希望を与えるフレーム。自分のBtoB支援×Claude Code×n8nというポジションの価値訴求にもなる。",
+      "import_potential": "medium"
+    },
+    {
+      "idea": "OpenClawが終わって公式Remote Controlを使い始めたら、むしろ使い勝手が良くなった話",
+      "type": "カジュアル報告型",
+      "priority": "medium",
+      "source_url": "https://code.claude.com/docs/ja/remote-control",
+      "angle": "「ピンチをチャンスに変えた」ストーリー。Anthropicの制限という悪いニュースを「公式機能の良さを再発見する機会」として反転させる。外出先でiPhoneからn8nパイプラインを確認している実体験をカジュアルに伝える。eveningスロット向け。",
+      "import_potential": "medium"
+    },
+    {
+      "idea": "AIに自分自身を毎朝改善させる仕組みをn8n×Claude Codeで作った——昨日の自分が今日の自分をコーチングする",
+      "type": "共感ストーリー型",
+      "priority": "high",
+      "source_url": "https://x.com/masahirochaen/status/2040578918650888327",
+      "angle": "AI自己改善という海外バズコンセプトを、CLAUDE.mdの自動レビュー×n8n定期実行で実装した体験談として語る。「毎朝7時にAIが昨日の成果物を見て改善案を出してくれる」という具体的なルーティンが読者の「自分もやってみたい」を引き出す。",
+      "import_potential": "high"
+    }
+  ],
+  "follower_growth_signals": [
+    {
+      "post_topic": "@keitowebai: Claude Code学習ロードマップ（3動画セット）",
+      "signal_type": "expertise_showcase",
+      "pattern": "「個人的におすすめの順番」という等身大の推薦フレームで専門性を示しつつも、押し付けがましくない。初心者が「この人の言う通りにやれば安心」と思える信頼感の構築。ブックマーク率1.4%超はフォロワー獲得の強力なシグナル（後日プロフィール確認→フォローの動線）。",
+      "evidence_metrics": {
+        "reply_to_like_ratio": 0.01,
+        "like_count": 411,
+        "reply_count": 4,
+        "bookmark_count": 667,
+        "impression_count": 47008
+      },
+      "applicable_slot": "morning",
+      "applicable_cta": "save"
+    },
+    {
+      "post_topic": "@masahirochaen: AI同士の自己改善GAN的手法",
+      "signal_type": "unique_perspective",
+      "pattern": "海外バズ→日本語速報→自分の実装提案という3ステップ構造。「普通に毎日Cronで近しいことができそう」という実装への橋渡しが読者参加意欲を高める。いいね506・RT60・リプライ10の比率から、情報共有とコメント両方を誘発している。",
+      "evidence_metrics": {
+        "reply_to_like_ratio": 0.02,
+        "like_count": 506,
+        "reply_count": 10,
+        "bookmark_count": 757,
+        "impression_count": 107370
+      },
+      "applicable_slot": "morning",
+      "applicable_cta": "follow"
+    },
+    {
+      "post_topic": "@keitowebai: Claude Code×Obsidian×サブエージェント自動執筆",
+      "signal_type": "expertise_showcase",
+      "pattern": "「ローカルにナレッジを貯めながら書く体験、クラウド上のAIには再現できない」という差別化の言語化が秀逸。専門性の見せ方として「なぜこのツールの組み合わせでないといけないか」を明確に語ることがフォロワー獲得シグナルになっている。いいね52・ブックマーク42・インプレ4,860。",
+      "evidence_metrics": {
+        "reply_to_like_ratio": 0.06,
+        "like_count": 52,
+        "reply_count": 3,
+        "bookmark_count": 42,
+        "impression_count": 4860
+      },
+      "applicable_slot": "morning",
+      "applicable_cta": "follow"
+    }
+  ],
+  "recommended_hashtags": []
+}

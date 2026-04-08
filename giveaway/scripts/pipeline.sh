@@ -30,7 +30,7 @@ if [ -z "$CLAUDE_CMD" ]; then
   exit 1
 fi
 
-cd "$(dirname "$0")/.."
+cd "$(dirname "$0")/../.."
 echo "=========================================="
 echo "プレゼント企画: 調査 & 企画設計パイプライン開始"
 echo "日時: $(date '+%Y-%m-%d %H:%M:%S')"
@@ -41,8 +41,8 @@ echo "=========================================="
 # ──────────────────────────────────────────
 
 # 通常リサーチャーのキャッシュ確認
-if [ -f "data/trends.json" ]; then
-  TRENDS_DATE=$(python3 -c "import json; d=json.load(open('data/trends.json')); print(d.get('date',''))" 2>/dev/null || echo "")
+if [ -f "post/data/trends.json" ]; then
+  TRENDS_DATE=$(python3 -c "import json; d=json.load(open('post/data/trends.json')); print(d.get('date',''))" 2>/dev/null || echo "")
   TODAY=$(date +%Y-%m-%d)
   if [ "$TRENDS_DATE" = "$TODAY" ]; then
     echo "[Cache] 本日の trends.json を検出（${TRENDS_DATE}）→ Giveaway Researcher がジャンル・競合データを再利用します"
@@ -61,15 +61,15 @@ echo ""
 "$CLAUDE_CMD" -p --model claude-sonnet-4-6 --max-tokens 16000 "$RESEARCH_PROMPT"
 
 # 調査出力の検証
-if [ ! -f "data/giveaway_research.json" ]; then
-  echo "エラー: data/giveaway_research.json が生成されませんでした。"
+if [ ! -f "giveaway/data/giveaway_research.json" ]; then
+  echo "エラー: giveaway/data/giveaway_research.json が生成されませんでした。"
   exit 1
 fi
 
-THEME_COUNT=$(python3 -c "import json; d=json.load(open('data/giveaway_research.json')); print(len(d.get('theme_candidates', [])))" 2>/dev/null || echo '0')
+THEME_COUNT=$(python3 -c "import json; d=json.load(open('giveaway/data/giveaway_research.json')); print(len(d.get('theme_candidates', [])))" 2>/dev/null || echo '0')
 echo ""
 echo "=========================================="
-echo "Phase 1 完了: data/giveaway_research.json 生成済み"
+echo "Phase 1 完了: giveaway/data/giveaway_research.json 生成済み"
 echo "テーマ候補数: ${THEME_COUNT}"
 echo "=========================================="
 
@@ -89,18 +89,18 @@ echo ""
 "$CLAUDE_CMD" -p --model claude-sonnet-4-6 --max-tokens 16000 "$PLANNER_PROMPT"
 
 # 企画出力の検証
-if [ ! -f "data/giveaway_plan.json" ]; then
-  echo "エラー: data/giveaway_plan.json が生成されませんでした。"
+if [ ! -f "giveaway/data/giveaway_plan.json" ]; then
+  echo "エラー: giveaway/data/giveaway_plan.json が生成されませんでした。"
   exit 1
 fi
 
 echo ""
 echo "=========================================="
-echo "Phase 2 完了: data/giveaway_plan.json 生成済み"
+echo "Phase 2 完了: giveaway/data/giveaway_plan.json 生成済み"
 echo ""
 python3 -c "
 import json
-d = json.load(open('data/giveaway_plan.json'))
+d = json.load(open('giveaway/data/giveaway_plan.json'))
 print(f\"テーマ: {d.get('theme', '不明')}\")
 print(f\"Note記事: {d.get('note_article', {}).get('title', '不明')}\")
 print(f\"特典: {d.get('bonus', {}).get('title', '不明')}\")
@@ -121,18 +121,18 @@ echo ""
 "$CLAUDE_CMD" -p --model claude-sonnet-4-6 --max-tokens 32000 "$NOTE_WRITER_PROMPT"
 
 # Note記事出力の検証
-if [ ! -f "data/giveaway_note_draft.json" ]; then
-  echo "エラー: data/giveaway_note_draft.json が生成されませんでした。"
+if [ ! -f "giveaway/data/giveaway_note_draft.json" ]; then
+  echo "エラー: giveaway/data/giveaway_note_draft.json が生成されませんでした。"
   exit 1
 fi
 
 echo ""
 echo "=========================================="
-echo "Phase 3 完了: data/giveaway_note_draft.json 生成済み"
+echo "Phase 3 完了: giveaway/data/giveaway_note_draft.json 生成済み"
 echo ""
 python3 -c "
 import json
-d = json.load(open('data/giveaway_note_draft.json'))
+d = json.load(open('giveaway/data/giveaway_note_draft.json'))
 print(f\"タイトル: {d.get('note_title', '不明')}\")
 print(f\"文字数: {d.get('char_count', 0)}文字\")
 sections = d.get('sections', [])
@@ -160,12 +160,12 @@ if [ -z "$GEMINI_API_KEY" ]; then
   echo "警告: GEMINI_API_KEY が未設定です。画像生成をスキップします。"
   echo "  .env に GEMINI_API_KEY=your_key を追加してください。"
 else
-  python3 scripts/generate_giveaway_images.py
+  python3 giveaway/scripts/generate_images.py
 
-  if [ -f "data/giveaway_images/manifest.json" ]; then
+  if [ -f "giveaway/data/images/manifest.json" ]; then
     python3 -c "
 import json
-m = json.load(open('data/giveaway_images/manifest.json'))
+m = json.load(open('giveaway/data/images/manifest.json'))
 imgs = m.get('images', [])
 ok = sum(1 for i in imgs if i['success'])
 print(f'画像生成: {ok}/{len(imgs)} 枚成功')
@@ -204,12 +204,12 @@ fi
 python3 playwright/note_publisher.py
 
 # 公開結果の検証
-if [ ! -f "data/giveaway_note_result.json" ]; then
-  echo "エラー: data/giveaway_note_result.json が生成されませんでした。"
+if [ ! -f "giveaway/data/giveaway_note_result.json" ]; then
+  echo "エラー: giveaway/data/giveaway_note_result.json が生成されませんでした。"
   exit 1
 fi
 
-NOTE_URL=$(python3 -c "import json; print(json.load(open('data/giveaway_note_result.json')).get('note_url', '不明'))" 2>/dev/null || echo "不明")
+NOTE_URL=$(python3 -c "import json; print(json.load(open('giveaway/data/giveaway_note_result.json')).get('note_url', '不明'))" 2>/dev/null || echo "不明")
 echo ""
 echo "=========================================="
 echo "Phase 4 完了: Note記事を公開しました"
@@ -226,18 +226,18 @@ echo ""
 "$CLAUDE_CMD" -p --model claude-sonnet-4-6 --max-tokens 16000 "$BONUS_PROMPT"
 
 # 特典出力の検証
-if [ ! -f "data/giveaway_bonus_draft.json" ]; then
-  echo "エラー: data/giveaway_bonus_draft.json が生成されませんでした。"
+if [ ! -f "giveaway/data/giveaway_bonus_draft.json" ]; then
+  echo "エラー: giveaway/data/giveaway_bonus_draft.json が生成されませんでした。"
   exit 1
 fi
 
 echo ""
 echo "=========================================="
-echo "Phase 5 完了: data/giveaway_bonus_draft.json 生成済み"
+echo "Phase 5 完了: giveaway/data/giveaway_bonus_draft.json 生成済み"
 echo ""
 python3 -c "
 import json
-d = json.load(open('data/giveaway_bonus_draft.json'))
+d = json.load(open('giveaway/data/giveaway_bonus_draft.json'))
 print(f\"特典タイトル: {d.get('bonus_title', '不明')}\")
 print(f\"形式: {d.get('bonus_format', '不明')}\")
 print(f\"文字数: {d.get('char_count', 0)}文字\")
@@ -262,8 +262,8 @@ if [ -z "$WEBHOOK_URL" ]; then
 else
   BONUS_PAYLOAD=$(python3 -c "
 import json
-bonus = json.load(open('data/giveaway_bonus_draft.json'))
-plan = json.load(open('data/giveaway_plan.json'))
+bonus = json.load(open('giveaway/data/giveaway_bonus_draft.json'))
+plan = json.load(open('giveaway/data/giveaway_plan.json'))
 payload = {
     'type': 'giveaway_bonus',
     'campaign_id': bonus.get('campaign_id', ''),
@@ -277,7 +277,7 @@ payload = {
 }
 # note_resultがあればURLを付与
 try:
-    note = json.load(open('data/giveaway_note_result.json'))
+    note = json.load(open('giveaway/data/giveaway_note_result.json'))
     payload['note_url'] = note.get('note_url', '')
 except: pass
 print(json.dumps({'data': [payload]}, ensure_ascii=False))
@@ -311,19 +311,19 @@ echo ""
 "$CLAUDE_CMD" -p --model claude-sonnet-4-6 --max-tokens 16000 "$X_WRITER_PROMPT"
 
 # X投稿出力の検証
-if [ ! -f "data/giveaway_x_posts.json" ]; then
-  echo "エラー: data/giveaway_x_posts.json が生成されませんでした。"
+if [ ! -f "giveaway/data/giveaway_x_posts.json" ]; then
+  echo "エラー: giveaway/data/giveaway_x_posts.json が生成されませんでした。"
   exit 1
 fi
 
-POST_COUNT=$(python3 -c "import json; d=json.load(open('data/giveaway_x_posts.json')); print(len(d.get('posts', [])))" 2>/dev/null || echo '0')
+POST_COUNT=$(python3 -c "import json; d=json.load(open('giveaway/data/giveaway_x_posts.json')); print(len(d.get('posts', [])))" 2>/dev/null || echo '0')
 echo ""
 echo "=========================================="
-echo "Phase 6 完了: data/giveaway_x_posts.json 生成済み（${POST_COUNT}本）"
+echo "Phase 6 完了: giveaway/data/giveaway_x_posts.json 生成済み（${POST_COUNT}本）"
 echo ""
 python3 -c "
 import json
-d = json.load(open('data/giveaway_x_posts.json'))
+d = json.load(open('giveaway/data/giveaway_x_posts.json'))
 for p in d.get('posts', []):
     num = p.get('post_number', '?')
     label = p.get('label', '?')
@@ -354,10 +354,10 @@ SEND_FAIL=0
 
 # サムネイル画像プロンプトの取得（メイン投稿に付与）
 THUMB_PROMPT=""
-if [ -f "data/giveaway_images/manifest.json" ]; then
+if [ -f "giveaway/data/images/manifest.json" ]; then
   THUMB_PROMPT=$(python3 -c "
 import json
-m = json.load(open('data/giveaway_images/manifest.json'))
+m = json.load(open('giveaway/data/images/manifest.json'))
 for img in m.get('images', []):
     if img.get('type') == 'thumbnail' and img.get('success'):
         print(img.get('prompt', '')); break
@@ -368,20 +368,20 @@ fi
 REPLY_KEYWORD=""
 BONUS_TITLE=""
 NOTE_URL=""
-if [ -f "data/giveaway_plan.json" ]; then
-  REPLY_KEYWORD=$(python3 -c "import json; print(json.load(open('data/giveaway_plan.json')).get('reply_keyword', ''))" 2>/dev/null || echo "")
+if [ -f "giveaway/data/giveaway_plan.json" ]; then
+  REPLY_KEYWORD=$(python3 -c "import json; print(json.load(open('giveaway/data/giveaway_plan.json')).get('reply_keyword', ''))" 2>/dev/null || echo "")
 fi
-if [ -f "data/giveaway_bonus_draft.json" ]; then
-  BONUS_TITLE=$(python3 -c "import json; print(json.load(open('data/giveaway_bonus_draft.json')).get('bonus_title', ''))" 2>/dev/null || echo "")
+if [ -f "giveaway/data/giveaway_bonus_draft.json" ]; then
+  BONUS_TITLE=$(python3 -c "import json; print(json.load(open('giveaway/data/giveaway_bonus_draft.json')).get('bonus_title', ''))" 2>/dev/null || echo "")
 fi
-if [ -f "data/giveaway_note_result.json" ]; then
-  NOTE_URL=$(python3 -c "import json; print(json.load(open('data/giveaway_note_result.json')).get('note_url', ''))" 2>/dev/null || echo "")
+if [ -f "giveaway/data/giveaway_note_result.json" ]; then
+  NOTE_URL=$(python3 -c "import json; print(json.load(open('giveaway/data/giveaway_note_result.json')).get('note_url', ''))" 2>/dev/null || echo "")
 fi
 
 # 5本の投稿を1件ずつWebhook送信
 python3 -c "
 import json, sys
-d = json.load(open('data/giveaway_x_posts.json'))
+d = json.load(open('giveaway/data/giveaway_x_posts.json'))
 for p in d.get('posts', []):
     out = {
         'post_content': p['post_content'],
@@ -456,10 +456,10 @@ echo "=========================================="
 echo ""
 python3 -c "
 import json
-plan = json.load(open('data/giveaway_plan.json'))
-note = json.load(open('data/giveaway_note_result.json'))
-bonus = json.load(open('data/giveaway_bonus_draft.json'))
-posts = json.load(open('data/giveaway_x_posts.json'))
+plan = json.load(open('giveaway/data/giveaway_plan.json'))
+note = json.load(open('giveaway/data/giveaway_note_result.json'))
+bonus = json.load(open('giveaway/data/giveaway_bonus_draft.json'))
+posts = json.load(open('giveaway/data/giveaway_x_posts.json'))
 s = plan.get('schedule', {})
 print(f\"企画ID:     {plan.get('campaign_id', '?')}\")
 print(f\"テーマ:     {plan.get('theme', '?')}\")

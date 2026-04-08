@@ -2,19 +2,19 @@
 """
 プレゼント企画の画像を Gemini API で自動生成するスクリプト。
 giveaway_note_draft.json の image_placeholders + サムネイルを生成し、
-data/giveaway_images/ に保存する。
+giveaway/data/images/ に保存する。
 
 使い方:
-  python3 scripts/generate_giveaway_images.py
+  python3 giveaway/scripts/generate_images.py
 
 前提:
   - .env に GEMINI_API_KEY が設定済み
-  - data/giveaway_note_draft.json が存在する
+  - giveaway/data/giveaway_note_draft.json が存在する
 
 出力:
-  - data/giveaway_images/thumbnail.png
-  - data/giveaway_images/section_1.png, section_2.png, ...
-  - data/giveaway_images/manifest.json (生成結果一覧)
+  - giveaway/data/images/thumbnail.png
+  - giveaway/data/images/section_1.png, section_2.png, ...
+  - giveaway/data/images/manifest.json (生成結果一覧)
 """
 
 import base64
@@ -26,9 +26,10 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = PROJECT_ROOT / "data"
-IMAGES_DIR = DATA_DIR / "giveaway_images"
+GIVEAWAY_DIR = Path(__file__).resolve().parent.parent  # giveaway/
+PROJECT_ROOT = GIVEAWAY_DIR.parent                      # project root
+DATA_DIR = GIVEAWAY_DIR / "data"
+IMAGES_DIR = DATA_DIR / "images"
 DRAFT_PATH = DATA_DIR / "giveaway_note_draft.json"
 PLAN_PATH = DATA_DIR / "giveaway_plan.json"
 MANIFEST_PATH = IMAGES_DIR / "manifest.json"

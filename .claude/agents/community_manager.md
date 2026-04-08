@@ -96,7 +96,7 @@ tools: Read, Write
 
 ## 出力要件
 
-以下のJSON形式で `data/reactive_replies.json` に書き出してください。
+以下のJSON形式で `post/data/reactive_replies.json` に書き出してください。
 **JSONのみを出力。前後に説明文を入れないこと。**
 
 ```json

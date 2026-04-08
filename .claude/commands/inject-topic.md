@@ -8,7 +8,7 @@
 
 確認後、以下のコマンドを実行:
 ```bash
-bash scripts/pipeline_inject.sh '{"topic":"テーマ","details":"詳細","source_url":"URL","duration_days":3}'
+bash post/scripts/pipeline_inject.sh '{"topic":"テーマ","details":"詳細","source_url":"URL","duration_days":3}'
 ```
 
-実行結果と `data/injected_topic.json` の内容を報告してください。
+実行結果と `post/data/injected_topic.json` の内容を報告してください。

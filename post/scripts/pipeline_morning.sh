@@ -47,7 +47,7 @@ fi
 
 # 作業ディレクトリを x-automation 直下に移動
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
+PROJECT_DIR="$(dirname "$(dirname "$SCRIPT_DIR")")"
 cd "$PROJECT_DIR"
 
 LOG_DIR="$PROJECT_DIR/logs"
@@ -186,18 +186,18 @@ log "========== パイプライン開始（2スロット制） =========="
 
 # ========================================
 # 差し込みテーマチェック
-# data/injected_topic.json が存在し、status=active かつ有効期間内であれば
+# post/data/injected_topic.json が存在し、status=active かつ有効期間内であれば
 # pipeline_context.json に injection 情報を付与する
 # ========================================
 INJECTION_ACTIVE="false"
 INJECTION_JSON=""
 
-if [ -f "data/injected_topic.json" ]; then
-  INJECT_STATUS=$(jq -r '.status // "inactive"' data/injected_topic.json 2>/dev/null || echo "inactive")
+if [ -f "post/data/injected_topic.json" ]; then
+  INJECT_STATUS=$(jq -r '.status // "inactive"' post/data/injected_topic.json 2>/dev/null || echo "inactive")
   if [ "$INJECT_STATUS" = "active" ]; then
     # 有効期間チェック
-    INJECT_DATE=$(jq -r '.inject_date' data/injected_topic.json 2>/dev/null)
-    DURATION_DAYS=$(jq -r '.duration_days // 3' data/injected_topic.json 2>/dev/null)
+    INJECT_DATE=$(jq -r '.inject_date' post/data/injected_topic.json 2>/dev/null)
+    DURATION_DAYS=$(jq -r '.duration_days // 3' post/data/injected_topic.json 2>/dev/null)
     TODAY_DATE=$(date +%Y-%m-%d)
 
     DAYS_ELAPSED=$(node -e "
@@ -208,18 +208,18 @@ console.log(Math.floor((d2 - d1) / 86400000));
 
     if [ "$DAYS_ELAPSED" -lt "$DURATION_DAYS" ]; then
       INJECTION_ACTIVE="true"
-      INJECTION_JSON=$(cat data/injected_topic.json)
-      INJECT_TOPIC=$(jq -r '.topic' data/injected_topic.json)
+      INJECTION_JSON=$(cat post/data/injected_topic.json)
+      INJECT_TOPIC=$(jq -r '.topic' post/data/injected_topic.json)
       log "差し込みテーマ検知: 「${INJECT_TOPIC}」（${DAYS_ELAPSED}日目/${DURATION_DAYS}日間）"
     else
       # 有効期限切れ → ステータスを expired に更新
       node -e "
 const fs = require('fs');
-const data = JSON.parse(fs.readFileSync('data/injected_topic.json', 'utf-8'));
+const data = JSON.parse(fs.readFileSync('post/data/injected_topic.json', 'utf-8'));
 data.status = 'expired';
-fs.writeFileSync('data/injected_topic.json', JSON.stringify(data, null, 2), 'utf-8');
+fs.writeFileSync('post/data/injected_topic.json', JSON.stringify(data, null, 2), 'utf-8');
 "
-      log "差し込みテーマ「$(jq -r '.topic' data/injected_topic.json)」の有効期限が切れました → expired に変更"
+      log "差し込みテーマ「$(jq -r '.topic' post/data/injected_topic.json)」の有効期限が切れました → expired に変更"
     fi
   fi
 fi
@@ -231,7 +231,7 @@ write_injection_context() {
   local _POST_TIME="$2"
   node -e "
 const fs = require('fs');
-const injection = JSON.parse(fs.readFileSync('data/injected_topic.json', 'utf-8'));
+const injection = JSON.parse(fs.readFileSync('post/data/injected_topic.json', 'utf-8'));
 const context = {
   slot: process.argv[1],
   post_time: process.argv[2],
@@ -248,7 +248,7 @@ const context = {
     slots_used: injection.slots_used || []
   }
 };
-fs.writeFileSync('data/pipeline_context.json', JSON.stringify(context, null, 2), 'utf-8');
+fs.writeFileSync('post/data/pipeline_context.json', JSON.stringify(context, null, 2), 'utf-8');
 " "$_SLOT" "$_POST_TIME" "$WEEKLY_PLANNING" "$DAYS_ELAPSED" 2>> "$LOG_FILE"
 }
 
@@ -260,30 +260,30 @@ if [ "$INJECTION_ACTIVE" = "true" ]; then
   # 差し込みテーマ情報を pipeline_context に含める
   write_injection_context "morning" "08:00"
 else
-  echo "{\"slot\": \"morning\", \"post_time\": \"08:00\", \"weekly_planning\": $WEEKLY_PLANNING}" > data/pipeline_context.json
+  echo "{\"slot\": \"morning\", \"post_time\": \"08:00\", \"weekly_planning\": $WEEKLY_PLANNING}" > post/data/pipeline_context.json
 fi
 
 if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/researcher.md)" >> "$LOG_FILE" 2>&1; then
   log "STEP 1: リサーチャー完了 ✅"
   # リサーチデータ（競合分析・トレンド）を履歴に蓄積
-  if [ ! -f data/research_history.json ]; then
-    echo "[]" > data/research_history.json
+  if [ ! -f post/data/research_history.json ]; then
+    echo "[]" > post/data/research_history.json
   fi
-  if [ -f data/trends.json ] && command -v jq &> /dev/null; then
-    jq '. += [input]' data/research_history.json data/trends.json > data/temp_rh.json && mv data/temp_rh.json data/research_history.json
+  if [ -f post/data/trends.json ] && command -v jq &> /dev/null; then
+    jq '. += [input]' post/data/research_history.json post/data/trends.json > post/data/temp_rh.json && mv post/data/temp_rh.json post/data/research_history.json
 
-    LEN=$(jq 'length' data/research_history.json 2>/dev/null || echo "0")
+    LEN=$(jq 'length' post/data/research_history.json 2>/dev/null || echo "0")
     if [ "$LEN" -gt 30 ]; then
       # 直近30件を超えた古いデータを退避
-      jq '.[:-30]' data/research_history.json > data/temp_old.json
-      jq '.[-30:]' data/research_history.json > data/temp_rh.json && mv data/temp_rh.json data/research_history.json
+      jq '.[:-30]' post/data/research_history.json > post/data/temp_old.json
+      jq '.[-30:]' post/data/research_history.json > post/data/temp_rh.json && mv post/data/temp_rh.json post/data/research_history.json
 
-      if [ ! -f data/research_history_archive.json ]; then
-        echo "[]" > data/research_history_archive.json
+      if [ ! -f post/data/research_history_archive.json ]; then
+        echo "[]" > post/data/research_history_archive.json
       fi
 
-      jq '. + input' data/research_history_archive.json data/temp_old.json > data/temp_arc.json && mv data/temp_arc.json data/research_history_archive.json
-      rm -f data/temp_old.json
+      jq '. + input' post/data/research_history_archive.json post/data/temp_old.json > post/data/temp_arc.json && mv post/data/temp_arc.json post/data/research_history_archive.json
+      rm -f post/data/temp_old.json
 
       log "リサーチデータを蓄積し、古いデータを research_history_archive.json に退避しました（直近30件保持）"
     else
@@ -309,7 +309,7 @@ run_slot() {
   if [ "$INJECTION_ACTIVE" = "true" ]; then
     write_injection_context "$SLOT" "$POST_TIME"
   else
-    echo "{\"slot\": \"$SLOT\", \"post_time\": \"$POST_TIME\", \"weekly_planning\": $WEEKLY_PLANNING}" > data/pipeline_context.json
+    echo "{\"slot\": \"$SLOT\", \"post_time\": \"$POST_TIME\", \"weekly_planning\": $WEEKLY_PLANNING}" > post/data/pipeline_context.json
   fi
 
   # プランナー
@@ -329,7 +329,7 @@ run_slot() {
   while [ "$RETRY_COUNT" -le "$MAX_RETRIES" ]; do
     # ライター（style_typeに応じてstorytellingエージェントを使い分け）
     local STYLE_TYPE
-    STYLE_TYPE=$(jq -r '.style_type // ""' data/content_plan.json 2>/dev/null || echo "")
+    STYLE_TYPE=$(jq -r '.style_type // ""' post/data/content_plan.json 2>/dev/null || echo "")
 
     if [ "$RETRY_COUNT" -gt 0 ]; then
       log "[${SLOT}] ライター再実行（リトライ ${RETRY_COUNT}/${MAX_RETRIES}）— エディターのフィードバックを反映"
@@ -363,7 +363,7 @@ run_slot() {
     fi
 
     # 承認チェック
-    APPROVED=$(jq -r '.approved' data/approved_post.json 2>/dev/null || echo "false")
+    APPROVED=$(jq -r '.approved' post/data/approved_post.json 2>/dev/null || echo "false")
 
     if [ "$APPROVED" = "true" ]; then
       break
@@ -372,7 +372,7 @@ run_slot() {
     RETRY_COUNT=$((RETRY_COUNT + 1))
     if [ "$RETRY_COUNT" -le "$MAX_RETRIES" ]; then
       local FEEDBACK
-      FEEDBACK=$(jq -r '.feedback // "フィードバックなし"' data/approved_post.json 2>/dev/null || echo "")
+      FEEDBACK=$(jq -r '.feedback // "フィードバックなし"' post/data/approved_post.json 2>/dev/null || echo "")
       log "[${SLOT}] エディター差し戻し ⚠️ フィードバック: ${FEEDBACK}"
       log "[${SLOT}] ライターに再投入します（${RETRY_COUNT}/${MAX_RETRIES}）"
     else
@@ -385,7 +385,7 @@ run_slot() {
   if [ "$APPROVED" = "true" ]; then
     log "[${SLOT}] 投稿承認済み ✅ ${POST_TIME}の自動���稿キューに格納"
     # posts/ にスロッ��付きでアー��イブ
-    cp data/approved_post.json "posts/$(date +%Y-%m-%d)_${SLOT}.json"
+    cp post/data/approved_post.json "posts/$(date +%Y-%m-%d)_${SLOT}.json"
 
     # 朝スロットの場合: 解説動画を生成してGCSにアップロード
     local VIDEO_URL=""
@@ -403,8 +403,8 @@ run_slot() {
     # Webhook送信
     local POST_CONTENT RAW_DATE SCHEDULED_TIME IMAGE_PROMPT PAYLOAD HTTP_CODE
     local VIDEO_BUCKET VIDEO_OBJECT VIDEO_FILE_SIZE
-    POST_CONTENT=$(jq -r '.final_content' data/approved_post.json)
-    RAW_DATE=$(jq -r '.date' data/approved_post.json)
+    POST_CONTENT=$(jq -r '.final_content' post/data/approved_post.json)
+    RAW_DATE=$(jq -r '.date' post/data/approved_post.json)
     SCHEDULED_TIME=$(echo "$RAW_DATE" | tr '-' '/')
     # 動画成功時はGCS情報のみ送信（image_promptは送らない）
     # 動画失敗 or eveningスロットはimage_promptを送信
@@ -415,7 +415,7 @@ run_slot() {
       VIDEO_FILE_SIZE=$(jq -r '.file_size // 0' data/video_result.json 2>/dev/null || echo "0")
       IMAGE_PROMPT=""
     else
-      IMAGE_PROMPT=$(jq -r '.image_prompt // ""' data/approved_post.json)
+      IMAGE_PROMPT=$(jq -r '.image_prompt // ""' post/data/approved_post.json)
     fi
 
     PAYLOAD=$(jq -n \
@@ -437,7 +437,7 @@ run_slot() {
 
       # ナレッジストック使用時は usage_count を更新
       local KNOWLEDGE_ID
-      KNOWLEDGE_ID=$(jq -r '.knowledge_used_id // ""' data/content_plan.json 2>/dev/null || echo "")
+      KNOWLEDGE_ID=$(jq -r '.knowledge_used_id // ""' post/data/content_plan.json 2>/dev/null || echo "")
       if [ -n "$KNOWLEDGE_ID" ] && [ "$KNOWLEDGE_ID" != "null" ] && [ -f "data/knowledge_stock.json" ]; then
         node -e "
 const fs = require('fs');
@@ -463,11 +463,11 @@ if (item) {
         local SLOT_KEY="$(date +%Y-%m-%d)_${SLOT}"
         node -e "
 const fs = require('fs');
-const data = JSON.parse(fs.readFileSync('data/injected_topic.json', 'utf-8'));
+const data = JSON.parse(fs.readFileSync('post/data/injected_topic.json', 'utf-8'));
 const slotKey = process.argv[1];
 if (!data.slots_used) data.slots_used = [];
 if (!data.slots_used.includes(slotKey)) data.slots_used.push(slotKey);
-fs.writeFileSync('data/injected_topic.json', JSON.stringify(data, null, 2), 'utf-8');
+fs.writeFileSync('post/data/injected_topic.json', JSON.stringify(data, null, 2), 'utf-8');
 " "$SLOT_KEY" 2>> "$LOG_FILE"
         log "[${SLOT}] 差し込みテーマのslots_usedを更新: ${SLOT_KEY}"
       fi
@@ -488,11 +488,11 @@ fs.writeFileSync('data/injected_topic.json', JSON.stringify(data, null, 2), 'utf
 # ========================================
 GIVEAWAY_ACTIVE="false"
 
-if [ -f "data/giveaway_x_posts.json" ]; then
+if [ -f "giveaway/data/giveaway_x_posts.json" ]; then
   GIVEAWAY_ACTIVE=$(node -e "
 const fs = require('fs');
 try {
-  const data = JSON.parse(fs.readFileSync('data/giveaway_x_posts.json', 'utf-8'));
+  const data = JSON.parse(fs.readFileSync('giveaway/data/giveaway_x_posts.json', 'utf-8'));
   const posts = data.posts || [];
   if (posts.length === 0) { console.log('false'); process.exit(0); }
 

@@ -10,7 +10,7 @@
 set -e
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
+PROJECT_DIR="$(dirname "$(dirname "$SCRIPT_DIR")")"
 cd "$PROJECT_DIR"
 
 # 入力の取得（引数 or stdin）
@@ -50,7 +50,7 @@ const output = {
   status: 'active'
 };
 
-fs.writeFileSync('data/injected_topic.json', JSON.stringify(output, null, 2), 'utf-8');
+fs.writeFileSync('post/data/injected_topic.json', JSON.stringify(output, null, 2), 'utf-8');
 console.log(JSON.stringify(output, null, 2));
 
 // 有効期限を計算

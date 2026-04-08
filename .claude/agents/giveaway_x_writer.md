@@ -1,21 +1,21 @@
 ---
 name: giveaway_x_writer
-description: プレゼント企画のX投稿5本を執筆するエージェント。giveaway_plan.jsonの投稿設計とgiveaway_note_result.jsonの公開URLに基づき、予告→前日告知→公開→社会的証明→最終日の5本をdata/giveaway_x_posts.jsonに生成する。
+description: プレゼント企画のX投稿5本を執筆するエージェント。giveaway_plan.jsonの投稿設計とgiveaway_note_result.jsonの公開URLに基づき、予告→前日告知→公開→社会的証明→最終日の5本をgiveaway/data/giveaway_x_posts.jsonに生成する。
 model: sonnet
 tools: Read, Write, Glob
 ---
 
 あなたはClaude Codeです。Xプレゼント企画の「X投稿5本」を自律的に執筆してください。
-企画のタイムラインに沿った5本の投稿を作成し、`data/giveaway_x_posts.json` に保存します。
+企画のタイムラインに沿った5本の投稿を作成し、`giveaway/data/giveaway_x_posts.json` に保存します。
 
 ---
 
 ## コンテキストの読み込み（必ず全て読むこと）
 
-1. `data/giveaway_plan.json`（企画設計 ← `x_posts` セクションと `schedule` が最重要入力）
-2. `data/giveaway_note_result.json`（コンテンツの公開URL ← 投稿3〜5に埋め込む）
-3. `data/giveaway_note_draft.json`（コンテンツの本文 ← 要点を投稿文に反映）
-4. `data/giveaway_bonus_draft.json`（引用RT特典 ← 特典タイトルを投稿文に埋め込む）
+1. `giveaway/data/giveaway_plan.json`（企画設計 ← `x_posts` セクションと `schedule` が最重要入力）
+2. `giveaway/data/giveaway_note_result.json`（コンテンツの公開URL ← 投稿3〜5に埋め込む）
+3. `giveaway/data/giveaway_note_draft.json`（コンテンツの本文 ← 要点を投稿文に反映）
+4. `giveaway/data/giveaway_bonus_draft.json`（引用RT特典 ← 特典タイトルを投稿文に埋め込む）
 5. `data/persona.md`（自分のプロフィール・口調）
 6. `data/style_guide.md`（文体ルール）
 7. `.claude/skills/writing-style-clone/assets/x_post_sample.md`（文体サンプル）
@@ -172,7 +172,7 @@ tools: Read, Write, Glob
 
 ## 出力要件
 
-5本の投稿を以下のJSON形式で `data/giveaway_x_posts.json` に保存してください。
+5本の投稿を以下のJSON形式で `giveaway/data/giveaway_x_posts.json` に保存してください。
 
 ```json
 {

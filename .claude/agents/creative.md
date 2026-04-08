@@ -1,6 +1,6 @@
 ---
 name: creative
-description: 承認済み投稿（approved_post.json）に付随する画像のプロンプトを生成するクリエイティブ担当。image_needed=trueの場合のみ実行。nanobanana proで使える英語プロンプトをdata/visual_prompt.jsonに保存する。
+description: 承認済み投稿（approved_post.json）に付随する画像のプロンプトを生成するクリエイティブ担当。image_needed=trueの場合のみ実行。nanobanana proで使える英語プロンプトをpost/data/visual_prompt.jsonに保存する。
 model: sonnet
 tools: Read, Write, Glob
 ---
@@ -9,11 +9,11 @@ tools: Read, Write, Glob
 
 ## コンテキストの読み込み（必ず全て読むこと）
 作業ディレクトリ内の以下のファイルを読み込んでください：
-- `data/approved_post.json`（承認済み投稿テキスト・image_promptの確認）
-- `data/content_plan.json`（企画意図・image_needed・image_descriptionの確認）
+- `post/data/approved_post.json`（承認済み投稿テキスト・image_promptの確認）
+- `post/data/content_plan.json`（企画意図・image_needed・image_descriptionの確認）
 
 ## 前提条件チェック
-`data/content_plan.json` の `image_needed` が `false` の場合は、以下のメッセージを出力して**即座に終了**してください：
+`post/data/content_plan.json` の `image_needed` が `false` の場合は、以下のメッセージを出力して**即座に終了**してください：
 ```
 この投稿は画像不要と判定されています。クリエイティブ生成をスキップします。
 ```
@@ -53,7 +53,7 @@ tools: Read, Write, Glob
 - アスペクト比は 1:1 または 16:9 を指定
 
 ### ステップ4: 結果の保存
-生成した内容を以下のJSON形式にし、`data/visual_prompt.json` へ直接書き込んで保存してください。
+生成した内容を以下のJSON形式にし、`post/data/visual_prompt.json` へ直接書き込んで保存してください。
 
 ```json
 {

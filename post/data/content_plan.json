@@ -1,0 +1,21 @@
+{
+  "date": "2026-04-06 08:00:00",
+  "slot": "morning",
+  "cta_type": "save",
+  "theme": "Claude Code Subagents並列実行で生産性3〜4倍",
+  "angle": "「Claude Codeを1セッションで使う」という常識そのものを否定し、並列実行（Subagents×Worktrees）を使いこなすことが今の差別化コンセプトになるという視点で解説する。persona.mdの強み「Claude Code×n8nの高度なワンストップ自動化」を活かし、自分のX運用パイプライン（朝・夕2投稿を並列エージェントで回している）を具体的な実体験として示す。チェックリスト形式で「今日から使える並列実行の始め方5ステップ」として整理し、saveを促す。",
+  "style_type": "最新情報解説型",
+  "hook_pattern": "常識の否定",
+  "viral_elements_to_apply": "1. @keitowebaiの勝ちパターン踏襲：「自分が実際に試した順番・手順」を明示し、個人の推薦フレームで信頼感を出す（ブックマーク率1.4%超の構成を採用）。2. 具体的な数字でインパクトを出す：「最大7並列エージェント稼働」「生産性3〜4倍」「10〜15セッション並列」という数字を冒頭で提示。3. 「知ってる人と知らない人で使い方が全然変わる」フレームを使い、情報過多の中で『この人に聞けば安心』という信頼構築を狙う。4. リスト形式で実行手順を提示しブックマーク保存を誘発するCTA設計。5. strategy.mdの最重要発見に従い、自分のパイプライン（X自動運用システム）を実体験として必ず織り込む。",
+  "key_message": "Claude Codeは1セッションで使うツールではなく、複数エージェントを並列で動かすことで初めて本来の価値が出る。この『使い方のコンセプト』を持っているかどうかが、今の生産性の分かれ目になっている。",
+  "emotion_triggers": ["好奇心", "驚き", "希望"],
+  "image_needed": true,
+  "image_description": "Claude Code並列実行のフロー図。左側に「通常の1セッション実行」（直列処理のイメージ、タスクA→B→C→Dが順番に並ぶ）、右側に「Subagents並列実行」（タスクA・B・C・Dが同時に実行されるイメージ）を並べた比較図。シンプルなフラットデザイン、文字は日本語、背景は白基調。",
+  "trend_source": "trends.json: topic='Claude Code Subagents並列実行で生産性3〜4倍'、source_url='https://claudelab.net/en/articles/claude-code/claude-code-parallel-development-mastery'",
+  "source_url": "https://claudelab.net/en/articles/claude-code/claude-code-parallel-development-mastery",
+  "injection_used": false,
+  "knowledge_used_id": "k_20260326_007",
+  "knowledge_usage_type": "core",
+  "knowledge_content_used": "「99%が間違えてる差別化戦略」の核心：ノウハウ（機能・スペック）で差別化しようとするのは間違い。重要なのはコンセプト（使い方・切り口）をずらすことで差別化すること。この哲学を今回の投稿に適用すると、『Claude Codeの機能（Subagents）の紹介』ではなく、『並列実行というコンセプトを持っているかどうかが生産性の分かれ目』という切り口になる。投稿のメインメッセージに据えること：機能の羅列ではなく、使い方のコンセプトを変えることが差別化になる。ライターへの指示：Subagentsの機能説明を主役にするのではなく、『1セッション思考 vs 並列実行思考』というコンセプトの違いが生産性の差を生むという視点で全体を構成すること。",
+  "notes": "【ライターへの補足指示】\n\n本日は月曜morningスロット・educational_checklist形式。CTA=save（保存促進）。\n\n1. 冒頭フック（常識の否定）：「Claude Codeを1つのセッションで使っている人、それはツールの半分以下しか使えていないかもしれないです。」のように1セッション運用が当たり前という常識を否定してスタート。\n\n2. 数字でインパクト：Claude Code作者Boris Cherny自身が公開した「10〜15セッション並列実行」「生産性3〜4倍」「最大7並列エージェント稼働」の数字を早めに提示。\n\n3. 自分の実体験を必ず入れる（strategy.mdの最重要発見：体験あり5.77% vs なし0.30%）：このX運用自動化パイプライン（朝・夕2投稿をSubagentsで並列生成）を具体的な実体験として入れること。\n\n4. チェックリスト形式で「今日から始める並列実行の5ステップ」を整理：\n   Step1: git worktreeで並列作業ブランチを作る\n   Step2: 複数のClaude Codeセッションを起動する\n   Step3: 各セッションに独立したタスクを割り当てる\n   Step4: 結果をメインブランチにマージする\n   Step5: 最大7並列まで段階的に拡張する\n\n5. コンセプト差別化の視点（k_20260326_007のナレッジを核として使う）：「Subagentsという機能を知っているかどうかではなく、並列実行というコンセプトで使うかどうか——ここが今の生産性の分かれ目」というメッセージを投稿の軸に据える。機能説明にならないように注意。\n\n6. 出典URL：https://claudelab.net/en/articles/claude-code/claude-code-parallel-development-mastery\n\n7. CTA：「この構成、まだ使ったことない方は保存しておくと後で役に立つと思います。」のようなsave誘導で締める。\n\n8. 文字数500文字以上厳守。絵文字・ハッシュタグ禁止。です・ます調（口語的）。"
+}
