@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T03:23:01.654Z",
+  "last_updated": "2026-04-07T22:28:33.676Z",
   "items": [
     {
       "id": "k_20260326_001",
@@ -163,9 +163,9 @@
         "価値提案",
         "常識の破壊"
       ],
-      "usage_count": 0,
+      "usage_count": 1,
       "max_usage": 5,
-      "last_used_at": null,
+      "last_used_at": "2026-04-08",
       "status": "active",
       "slot_affinity": "morning"
     },
@@ -211,9 +211,9 @@
         "価値提案",
         "常識の破壊"
       ],
-      "usage_count": 0,
+      "usage_count": 2,
       "max_usage": 5,
-      "last_used_at": null,
+      "last_used_at": "2026-04-08",
       "status": "active",
       "slot_affinity": "morning"
     },
