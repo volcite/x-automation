@@ -1,4 +1,0 @@
-{
-  "error": 401,
-  "body": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-}
