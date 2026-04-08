@@ -44,8 +44,8 @@ log() {
 log "========== リプライ返信パイプライン開始 =========="
 
 # .envファイル読み込み
-if [ -f ".env" ]; then
-  export $(grep -v '^#' .env | xargs)
+if [ -f "$PROJECT_DIR/.env" ]; then
+  export $(grep -v '^#' "$PROJECT_DIR/.env" | xargs)
 else
   log "警告: .envファイルが見つかりません"
 fi
