@@ -134,11 +134,13 @@ if [ "$SKIP_RESEARCH" = false ]; then
 
   log "  期間: ${SINCE_DATE} 〜 ${UNTIL_DATE}"
   log "  いいね閾値: ${MIN_FAVES}以上"
+  log "  言語: 全言語（日本語+海外）"
 
   if bash scripts/pipeline_article_research.sh \
     --min-faves "$MIN_FAVES" \
     --since "$SINCE_DATE" \
     --until "$UNTIL_DATE" \
+    --lang all \
     --analyze \
     --verbose >> "$LOG_FILE" 2>&1; then
     log "[STEP 1] リサーチ＆分析完了 ✅"
