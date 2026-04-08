@@ -72,6 +72,7 @@ STEP 6: ナレッジストック使用カウント更新
 | 画像プロンプト生成 | `/x-creative` |
 | 文体ガイド更新 | `/writing-style-clone` |
 | ストーリー投稿作成 | `/storytelling-writer` |
+| X運用メンター | `/x-mentor` |
 | ナレッジ登録 | `/x-knowledge` |
 | ナレッジ追加(CLI) | `bash scripts/pipeline_knowledge.sh '{"topic":"テーマ","content":"内容","category":"philosophy"}'` |
 | ナレッジ一覧 | `bash scripts/pipeline_knowledge.sh list` |
@@ -156,3 +157,8 @@ SOCIALDATA_API_KEY=your_socialdata_api_key  # X記事リサーチ用（https://s
 - `.claude/skills/writing-style-clone/assets/x_post_sample.md` — 5タイプの投稿文体サンプル
 - `.claude/skills/writing-style-clone/references/style_guide.md` — 文体ルール詳細
 - `.claude/skills/storytelling-writer/references/emotion_triggers.md` — 感情トリガー一覧
+- `.claude/skills/x-mentor/references/writing-workshop.md` — Hook/Thread/選題の執筆フレームワーク
+- `.claude/skills/x-mentor/references/algorithm-niche.md` — Xアルゴリズム権重・AI/tech戦略
+- `.claude/skills/x-mentor/references/growth-monetization.md` — 成長エンジン・収益化パス
+- `.claude/skills/x-mentor/references/quality-analytics.md` — 品質チェックリスト・反パターン
+- `.claude/skills/x-mentor/references/mental-models-heuristics.md` — 6メンタルモデル・10ヒューリスティック
