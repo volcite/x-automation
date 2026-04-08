@@ -256,13 +256,29 @@ if [ -z "$ARTICLE_WEBHOOK_URL" ]; then
   log "[STEP 5] ARTICLE_WEBHOOK_URL が設定されていません ⚠️ 送信をスキップ"
   log "  記事は data/article_draft.json に保存されています"
 else
-  HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" \
+  # title と content（article_content）を分離したペイロードを生成
+  WEBHOOK_PAYLOAD=$(node -e "
+const fs = require('fs');
+const draft = JSON.parse(fs.readFileSync('data/article_draft.json', 'utf-8'));
+const payload = {
+  title: draft.title || '',
+  content: draft.article_content || '',
+  subtitle: draft.subtitle || '',
+  meta_description: draft.meta_description || '',
+  char_count: draft.char_count || 0,
+  date: draft.date || ''
+};
+process.stdout.write(JSON.stringify(payload));
+")
+
+  HTTP_CODE=$(echo "$WEBHOOK_PAYLOAD" | curl -s -o /dev/null -w "%{http_code}" \
     -X POST "$ARTICLE_WEBHOOK_URL" \
     -H "Content-Type: application/json; charset=utf-8" \
-    -d @data/article_draft.json)
+    --data-binary @-)
 
   if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
     log "[STEP 5] Webhook送信完了 ✅ (HTTP $HTTP_CODE)"
+    log "  送信フィールド: title, content, subtitle, meta_description, char_count, date"
   else
     log "[STEP 5] Webhook送信失敗 ❌ (HTTP $HTTP_CODE)"
     log "  記事は data/article_draft.json に保存されています"
