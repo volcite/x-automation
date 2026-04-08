@@ -30,8 +30,8 @@ data/visual_prompt.json
 data/payload.json
 data/temp_*.json
 
-# 投稿履歴
-posts/*.json
+# 投稿履歴（git管理対象）
+# post/history/*.json
 
 # ログ
 logs/

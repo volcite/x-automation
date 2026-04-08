@@ -1,0 +1,22 @@
+{
+  "date": "2026-03-27 08:00:00",
+  "approved": true,
+  "final_content": "Claude Codeのauto mode、公式発表にいいね38,000超・インプレッション617万ついてるの見て確信しました。\n\nこれ、自動化の世界がひっくり返ります。\n\nこれまでClaude Codeって「毎回ひとつずつ承認する」か「全部スキップして任せる」の二択だったんですよね。\n\nで、どっちも正直キツかった。\n\n毎回承認してたら自動化の意味がないし、全スキップだと暴走が怖い。\n\nそこに第三の選択肢が出てきた。\nauto modeです。\n\n簡単に言うと「ここからここまでは自分で判断して進めていいよ」とAIに権限の範囲を渡せる仕組み。\n\n人間が毎回ハンドルを握らなくても、ガードレールの中でAIが自律的に走れるようになったんです。\n\nこれがn8nと組み合わさるとどうなるか。\n\n僕は実際に、n8nのワークフローからClaude Codeをauto modeで呼び出す構成を組んでます。\n\n例えばこんな流れです。\n\nn8nがトリガーを検知\n→ Claude Codeがauto modeで調査・分析・レポート作成まで自律実行\n→ 完成したアウトプットだけがSlackに届く\n\n途中で人間が介入するポイントがゼロ。\n\nこれ、15社以上のBtoBマーケ支援をやってきて、ずっと感じていた壁なんですよね。\n\n「自動化しても結局、途中の判断は人間がやらないといけない」\n\nこの壁が、auto modeでようやく崩れ始めた感覚があります。\n\nただ、1点だけ。\nauto modeは万能じゃないです。\n\n権限の範囲設定を雑にすると、思ってもないファイル操作やAPI呼び出しが走っちゃうことがある。\n\nだから最初は小さいタスクから試すのがおすすめです。\n\n具体的には、n8nのWebhookトリガーで特定の条件だけを拾う。\nそしてClaude Codeに「このフォルダ内のファイルだけ触っていい」みたいにスコープを絞る。\n\nこの「小さく始めて徐々に権限を広げる」やり方が、今のところ一番安全だなと実感してます。\n\n「AIを使う」から「AIを雇う」へ。\n\nこの変化、今まさにリアルタイムで起きてます。\n\nn8n × Claude Code auto modeの具体的な組み方、これからも発信していくのでフォローしてもらえると嬉しいです。",
+  "char_count": 878,
+  "hook_pattern": "数字のインパクト",
+  "style_type": "最新情報解説型",
+  "risk_level": "low",
+  "image_needed": false,
+  "image_prompt": "",
+  "quality_scores": {
+    "hook_strength": "S",
+    "viral_elements_applied": "A",
+    "anti_ai": "A",
+    "smartphone_readability": "A",
+    "structure": "A",
+    "follower_acquisition_power": "A",
+    "virality_potential": "B",
+    "overall": "A"
+  },
+  "feedback": ""
+}

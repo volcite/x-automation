@@ -20,7 +20,7 @@ tools: Read, Write, Glob
 - `.claude/skills/writing-style-clone/assets/x_post_sample.md`（X投稿の4タイプ別文体サンプル）
 - `.claude/skills/storytelling-writer/references/emotion_triggers.md`（感情トリガー設計の参考）
 
-さらに、直近の投稿と内容が被らないよう `posts/` フォルダ内の直近5件のファイルも確認してください。
+さらに、直近の投稿と内容が被らないよう `post/history/` フォルダ内の直近5件のファイルも確認してください。
 
 `post/data/weekly_plan.json` が存在する場合は、当日・当スロットのテーマ方向性として参考にしてください。
 
@@ -176,7 +176,7 @@ tools: Read, Write, Glob
 
 ### 2. テーマ選定
 `post/data/trends.json` のネタ候補から、**`data/persona.md` に書かれた自分の経験・強み・差別化ポイント** に最も紐づくテーマを1つ厳選してください。
-- `posts/` の直近投稿と被らないテーマを選ぶこと
+- `post/history/` の直近投稿と被らないテーマを選ぶこと
 - `post/data/weekly_plan.json` が存在する場合は、当日・当スロットの `content_type` に合致するテーマを優先すること
 - **重要**: 文体タイプに「最新情報解説型」を選ぶと判断した場合は、`trends.json` の中から「必ず明確な出典URL（公式Xや今日付の記事）が存在する事実」を選んでください。
 

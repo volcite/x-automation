@@ -7,7 +7,7 @@
 3. **コンテンツ企画**: `data/content_plan.json` の有無とスロット
 4. **下書き**: `data/draft.json` の有無と文字数
 5. **承認済み投稿**: `data/approved_post.json` の approved 状態
-6. **直近の投稿履歴**: `posts/` フォルダの最新ファイル
+6. **直近の投稿履歴**: `post/history/` フォルダの最新ファイル
 7. **リプライカウンター**: `data/reply_counter.json` の本日の返信数
 
 各項目の状態をテーブル形式でまとめて報告してください。

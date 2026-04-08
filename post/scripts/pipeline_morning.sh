@@ -384,8 +384,8 @@ run_slot() {
 
   if [ "$APPROVED" = "true" ]; then
     log "[${SLOT}] 投稿承認済み ✅ ${POST_TIME}の自動���稿キューに格納"
-    # posts/ にスロッ��付きでアー��イブ
-    cp post/data/approved_post.json "posts/$(date +%Y-%m-%d)_${SLOT}.json"
+    # post/history/ にスロット付きでアーカイブ
+    cp post/data/approved_post.json "post/history/$(date +%Y-%m-%d)_${SLOT}.json"
 
     # 朝スロットの場合: 解説動画を生成してGCSにアップロード
     local VIDEO_URL=""
