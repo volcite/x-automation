@@ -1,1 +1,5 @@
-{"slot": "morning", "post_time": "08:00", "weekly_planning": false}
+{
+  "slot": "evening",
+  "post_time": "19:00",
+  "weekly_planning": false
+}

@@ -1,133 +1,89 @@
 {
-  "date": "2026-04-09",
-  "theme": "KarpathyのLLM WikiをClaude Code×n8nで実装した——使うほど自分専用AIに育つナレッジベースの作り方",
-  "subtitle": "RAGでもメモアプリでもない。AIが知識を自分でコンパイルし続ける第三のアーキテクチャ",
-  "target_reader": "Claude CodeやChatGPTを使い始めて半年以上経つが「毎回新しいセッションで同じ背景説明をしている」「過去の知見が次の作業に活かされない」と感じている個人事業主・フリーランス。n8nで業務自動化に取り組んでいる人。RAGを試したが構築・維持コストが高くて続かなかった人。",
-  "reader_pain": "AIに何度も同じコンテキストを説明し直している。Notionやメモに知見を貯めてもAIが参照してくれない。RAGは難しそうで手が出ない。使えば使うほどAIが自分のことを理解してくれる仕組みが欲しいけど、具体的な方法がわからない。",
-  "core_message": "KarpathyのLLM Wikiは「AIが自分で知識を整理・更新し続けるMarkdownライブラリ」であり、Claude Code×n8n-MCPで実装すれば使うほど自分専用AIが賢くなる仕組みを今週から作れる。",
-  "angle": "体験談＋ハウツー形式。「自分が実際に実装してみてどう変わったか」というストーリーを軸に、概念解説と具体手順を組み合わせる。海外最新概念（Karpathy発）を日本語で自分の実装に落とし込む「輸入型コンテンツ」の構造。",
-  "structure": "ストーリーアーク",
+  "id": 4,
+  "rank": 5,
+  "theme": "マネーフォワードがClaude Agent SDKを採用した。AIは「道具」から「同僚」へ",
+  "subtitle": "国内大手のバックオフィス自動化が示す「AIエージェントの現在地」と、個人・中小企業が今から動くべき理由",
+  "target_reader": "AIの業務導入に関心があるが「自分には関係ない」と思っている経営者・個人事業主・フリーランス",
+  "reader_pain": "大企業がAIを導入しているのはわかるが、自分の仕事に使えるかどうかピンとこない。AIを試験導入したが日常業務に組み込めていない。「いつかやろう」と思いながら後回しにしている",
+  "core_message": "マネーフォワードがClaude Agent SDKをバックオフィスの中核に据えた事実は「AIが業務代行できる時代が来た」という証明であり、個人・中小企業こそ先に動くことで大きなアドバンテージが得られる",
+  "angle": "最新情報解説",
+  "structure": "PASONA法則",
   "sections": [
     {
-      "heading": "毎回AIに同じ説明をしていませんか？",
-      "content_summary": "読者の痛みから入る体験談冒頭。「ChatGPTやClaude Codeを使い始めて1年。毎回新しいセッションを開くたびに、自分のビジネスの背景を一から説明している」という具体シーン。「AIは賢いのに、自分のことを何も知らない道具として使い続けている」という矛盾を提示。NotionやObsidianに知見を貯めてもAIが参照しない問題。RAGは個人には大げさすぎる。この課題をKarpathyが解決した、という流れでLLM Wikiに自然につなげる。",
+      "heading": "「AIが同僚になる」と言われても、実感がわかない人へ",
+      "content_summary": "「AIが便利」「AIが変える」という抽象的な言葉は聞き飽きている。でも2026年4月7日に起きた具体的な出来事が、その実感の壁を壊したという導入。マネーフォワードという国内大手が何をしたかを事実ベースで提示する",
+      "word_count_target": 300
+    },
+    {
+      "heading": "何が発表されたか。AI Coworkの中身を3分で理解する",
+      "content_summary": "2026年4月7日の「Money Forward AI Vision 2026」発表会の内容を整理。Claude Agent SDK・Claude APIを採用した「AI Cowork」が何をするか（請求書発行・債務管理・経費精算・労務業務・法務業務の自律実行）を箇条書きで整理。7月リリース・先行受付開始という具体的な事実を添える",
       "word_count_target": 400
     },
     {
-      "heading": "KarpathyのLLM Wikiとは何か——RAGとの根本的な違い",
-      "content_summary": "Andrej KarpathyがGitHub GistでLLM Knowledge Baseのコンセプトを公開した事実を解説。3層構造（Raw sources→Wikiレイヤー→Schema）と3オペレーション（Ingest・Query・Lint）を日本語で平易に説明。RAGとの決定的な違いを明確にする：RAGは「毎回クエリ時にゼロからドキュメントを検索する」が、LLM Wikiは「取り込み時に一度だけ処理し、永続的なMarkdownアーティファクトとして知識を蓄積・更新し続ける」。1つのソースを取り込むと通常10〜15のWikiページが同時更新される仕組み。「使うたびに知識が複利で蓄積される」というフレームで価値を伝える。一次ソースのGistリンクを明示して信頼性を担保する。",
-      "word_count_target": 600
-    },
-    {
-      "heading": "なぜこれが「RAGの次」と言われているのか",
-      "content_summary": "RAGの3つの限界（毎回ゼロからの検索コスト・チャンク分割の精度問題・知識を構造化できない）に対してLLM Wikiがどう解決するか。公開後すぐに複数のOSSリポジトリが派生した事実。100記事・40万語規模でもindex.mdとサマリーでLLMがナビゲート可能というスケーラビリティ。退屈なメンテナンス作業をLLMが引き受けるので、人間はキュレーションと質問に集中できる。「道具を追いかけるのではなく、自分の知識基盤を育てる」という発想の転換を提示する。",
+      "heading": "なぜこれが重要か。「国内大手が採用した」という事実の意味",
+      "content_summary": "大手企業がClaude Agent SDKを中核採用したことで「実用性の信頼性」が証明された点を語る。「AIは試験導入で終わる」というイメージが崩れた具体的なシグナルとして読み解く。2030年AI関連ARR150億円という数値目標も事実として添える",
       "word_count_target": 400
     },
     {
-      "heading": "Claude Code×n8nで実装した具体的な手順5ステップ",
-      "content_summary": "自分の実装を体験談として語りながら手順を解説する。Step 1: CLAUDE.mdにWikiスキーマを定義する（ディレクトリ構造・ページ形式・自分の専門領域・文体ルール・判断基準を記述）。Step 2: raw/フォルダに自分の知見・体験・参考記事をMarkdownで整備（ナレッジストックをソースとして使う）。Step 3: n8n-MCP（GitHub Stars 17.8k、npx n8n-mcpで即インストール）をClaude Code設定に追加する。Step 4: Claude Codeのスキルとしてingest/query/lintコマンドを実装（新しいインプットを取り込むたびにWikiを自動更新）。Step 5: n8n Cronで週次Lint（矛盾検出・孤立ページ発見・古い情報の特定）を自動化する。自分のX自動化パイプライン（朝・夕2投稿）でナレッジが蓄積・活用されていく実例を添える。",
-      "word_count_target": 800
+      "heading": "では、個人・中小企業は今何をすべきか",
+      "content_summary": "「大手ができることを自分たちに当てはめると何が変わるか」という視点で、Claude Code×n8nを使った個人レベルのバックオフィス自動化の入り口を示す。請求書送付の自動化・定期レポートの自動生成・リマインドメールの自動送信という身近な例から話す",
+      "word_count_target": 500
     },
     {
-      "heading": "使ってみて変わった3つのこと",
-      "content_summary": "実際の変化を具体的に語る。(1) 毎回のコンテキスト説明がほぼゼロになった——Claude Codeがセッション開始時にWikiを参照するので、自分のビジネス背景・過去の判断経緯が自動で共有される。(2) 過去のリサーチが次の企画に自動反映される——記事アイデア出しを頼んだとき、1週間前より明らかに「自分向け」の提案になっていた体験。(3) 「AIに丸投げして後悔する」が減った——コンテキストが蓄積されているので的外れな提案が激減した。「差別化はノウハウ（機能）ではなくコンセプト（使い方の切り口）でするもの」というフレームを体験として語る。",
-      "word_count_target": 400
-    },
-    {
-      "heading": "知識が複利で効く仕組みを持つことの意味",
-      "content_summary": "まとめ。AIツールが毎月のように新しく出てくる時代に、ツールを追いかけるのではなく「自分の知識基盤を育てる」という発想の転換。既存の要素の掛け合わせ（Karpathy概念×Claude Code×n8n）で目新しいものを作るコンセプトメイキング。最初は10〜20件のソースから始めて有効性を検証するのがコツ。Claude Code×n8nの組み合わせなら非エンジニアでも今週から始められる。読者への問いかけで締める：「あなたのAIは今日もゼロから出発していますか？」。CTAとして「この記事を保存して、週末にWikiの最初のページだけ作ってみてください」という具体的なアクションを促す。",
+      "heading": "「AIエージェントが同僚になる」というのは比喩じゃない",
+      "content_summary": "「道具は使い方を知っている人が強い。同僚は信頼して仕事を任せられる」という違いを語り、AI Coworkが示す「信頼して任せる」設計思想が個人の自動化にも使える概念として締める",
       "word_count_target": 300
     }
   ],
-  "hook_strategy": "冒頭3行で読者が「自分もそれだ」と感じる痛みシーンから入る。「ChatGPTやClaude Codeを使い始めて1年。毎回新しいセッションを開くたびに、自分のビジネスの背景を一から説明している」という体験談でスタート。ストーリー・体験談型の冒頭（バズ記事分析で2日連続最多パターン：5〜6件）を採用。第2段落でKarpathyという「権威の名前」を出して信頼性と新鮮さを一気に補完する。",
-  "cta": "「この記事を保存して、週末にWikiの最初のページだけ作ってみてください。まずindex.mdに自分のビジネス概要を100文字書くだけでいいです」という具体的なアクションを促す。合わせてフォロー示唆（「n8n×Claude Codeの自動化ネタを定期的に発信しているのでフォローしておくと役立てるかもしれないです」）。",
+  "hook_strategy": "「AIが同僚になると言われても実感がわかない」という読者の正直な気持ちへの共感から入り、「でも2026年4月7日に具体的なことが起きた」という事実提示で引き込む",
+  "cta": "CTAなし。「あなたの仕事で最初に任せてみたい作業は何ですか？」という問いかけで余韻を残す",
   "buzz_patterns_applied": [
-    "ストーリー・体験談型の冒頭（バズ記事分析で2日連続最多パターン：5〜6件）",
-    "海外バズ概念→日本語速報→自分の実装案の3ステップ構造（@masahirochaenのAI自己改善投稿でいいね506・BM757を実証）",
-    "ステップ形式（5ステップ）によるブックマーク率UP（@keitowebaiの学習ロードマップでBM率1.4%を実証）",
-    "数字を含むタイトル（バズ分析で最多パターン18%）",
-    "「個人的にはこれが一番」等身大の推薦フレーム",
-    "権威者引用（Karpathy）＋等身大の実装で二段構え",
-    "BM/いいね比率0.797の高保存率を狙う有益コンテンツ設計"
+    "「大手採用＝自分も使っていい時代」という安心感の提供（バズ分析のviral_factors要素）",
+    "具体的な日付・数値（2026年4月7日・7月リリース・ARR150億円）で信頼性を高める",
+    "「初心者向け」×「最新情報解説型」の組み合わせでフォロワー獲得に適したコンテンツ"
   ],
   "knowledge_used": [
     {
       "id": "k_20260326_017",
-      "usage_type": "core",
-      "how_to_use": "「令和マーケ力」の核心メッセージ『テストの数を増やし続けることでティッピングポイントに達する』を、LLM Wikiの「使えば使うほど蓄積が加速する複利効果」と接続する。「最初の3ヶ月は地味に感じるが、半年後に突然AIとの協働効率が跳ねる」というフレームでまとめセクションに展開する"
-    },
-    {
-      "id": "k_20260326_008",
       "usage_type": "seasoning",
-      "how_to_use": "「既存の要素の掛け合わせで目新しいものを作る」というコンセプトメイキングの考え方を、Karpathy Wiki×Claude Code×n8nという掛け算の価値の正当化に使用。まとめセクションで自然に織り込む"
-    },
-    {
-      "id": "k_20260326_001",
-      "usage_type": "seasoning",
-      "how_to_use": "X攻略ロードマップの「フェーズ別アクション（0→100→1000人）」の構造を参考に、LLM Wiki実装の「段階的拡張（10件→50件→100件以上）」フレームに応用する"
+      "how_to_use": "「特定の手法は点であり、座組（ザグみ）を作ることが重要」という考え方を、AI Coworkが「AIをツールではなく業務フローの一員として設計している」ことの説明に自然に使う"
     }
   ],
-  "trend_connection": "trends.jsonの「KarpathyのLLM Wiki」（relevance: high）と直接接続。さらに「n8n AIワークフロービルダー」（relevance: high）との掛け合わせで、2つのhigh relevanceトレンドを同時に扱う唯一の記事になる。直近の承認済み投稿（Claude Code Subagents並列実行）との連続性を確保——同じClaude Code活用シリーズとして読者のフォロー継続を促す。ただし直近投稿と同テーマにならないよう、LLM Wikiという新しい切り口に集中する。",
+  "trend_connection": "マネーフォワード AI Cowork発表（2026年4月7日）という直近2日以内の国内ニュースと完全に連動。時事性が高く読者への緊急性も訴求できる",
   "verified_facts": [
     {
-      "fact": "Andrej KarpathyがGitHub GistでLLM Knowledge Baseのコンセプトを公開。3層構造（Raw sources / Wiki / Schema）と3オペレーション（Ingest / Query / Lint）で構成されており、1つのソースを取り込むと通常10〜15のWikiページが同時更新される",
-      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "fact": "マネーフォワードは2026年4月7日にAI戦略発表会「Money Forward AI Vision 2026」を開催し、「AI Cowork」を正式発表。同日より先行受付開始",
+      "source_url": "https://corp.moneyforward.com/news/release/service/20260407-mf-press-1/",
       "verified_at": "2026-04-09"
     },
     {
-      "fact": "RAGとの決定的な違い：RAGはクエリ時に毎回ゼロからドキュメントを検索するが、LLM Wikiは取り込み時に一度処理して永続的なMarkdownアーティファクトとして知識を保持し続ける",
-      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "fact": "AI CoworkはClaude Agent SDKおよびClaude API（Anthropic社）を採用。MCPを活用した外部ツール連携も実装",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001613.000008962.html",
       "verified_at": "2026-04-09"
     },
     {
-      "fact": "100記事・約40万語規模でもindex.mdとサマリーでLLMがナビゲート可能。規模拡大時はqmd（BM25+ベクトル検索）で対応可能",
-      "source_url": "https://www.analyticsvidhya.com/blog/2026/04/llm-wiki-by-andrej-karpathy/",
+      "fact": "対応業務は経理（請求書発行・債務管理・経費精算・会計仕訳）・労務（入退社・勤怠・給与・年末調整）・法務など。2026年7月リリース予定",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001613.000008962.html",
       "verified_at": "2026-04-09"
     },
     {
-      "fact": "n8n-mcp（czlonkowski作）はGitHub Stars 17.8k・Forks 3kを獲得。1,396のn8nノード情報（812コア+584コミュニティ）をClaude CodeなどのAIアシスタントに提供するMCPサーバー。npx n8n-mcpで即インストール可能",
-      "source_url": "https://github.com/czlonkowski/n8n-mcp",
-      "verified_at": "2026-04-09"
-    },
-    {
-      "fact": "n8n-skillsリポジトリ（czlonkowski作、GitHub Stars 4.1k）にはn8nワークフローをClaude Codeで構築するための7つの補完スキルが含まれている",
-      "source_url": "https://github.com/czlonkowski/n8n-skills",
-      "verified_at": "2026-04-09"
-    },
-    {
-      "fact": "n8nのAI Workflow Builder（自然言語からワークフロー生成）は2026年初頭時点でベータ提供中。MCPクライアントノードは2025年11月リリース済み",
-      "source_url": "https://n8n.io/ai/",
-      "verified_at": "2026-04-09"
-    },
-    {
-      "fact": "日本語圏では「Claude Code×n8n MCPでワークフロー自動生成」の実装記事がQiita・note・Zennに複数存在するが、「Claude Code×n8nでLLM Wikiを自動更新する」実装記事はほぼ皆無。先行者利益が大きいテーマ",
-      "source_url": "https://qiita.com/toki_mwc/items/ef964a40ac6312e8bcef",
-      "verified_at": "2026-04-09"
-    },
-    {
-      "fact": "MindStudioがClaude Codeを使ったLLM Wiki実装方法を英語で解説。Claude Codeにファイルアクセスを与えてWikiを構築・維持するアプローチを推奨",
-      "source_url": "https://www.mindstudio.ai/blog/andrej-karpathy-llm-wiki-knowledge-base-claude-code",
+      "fact": "2030年までにAI関連ARR150億円超を目指すと表明（Business Insider Japan報道）",
+      "source_url": "https://www.businessinsider.jp/article/2604-moneyforward-ai-cowork-launch/",
       "verified_at": "2026-04-09"
     }
   ],
   "source_urls": [
-    "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-    "https://www.analyticsvidhya.com/blog/2026/04/llm-wiki-by-andrej-karpathy/",
-    "https://www.mindstudio.ai/blog/andrej-karpathy-llm-wiki-knowledge-base-claude-code",
-    "https://analyticsindiamag.com/ai-news/andrej-karpathy-moves-beyond-rag-builds-llm-powered-personal-knowledge-bases",
-    "https://github.com/czlonkowski/n8n-mcp",
-    "https://github.com/czlonkowski/n8n-skills",
-    "https://qiita.com/toki_mwc/items/ef964a40ac6312e8bcef",
-    "https://note.com/soh_ainsight/n/nc5deffdae0db",
-    "https://note.com/mild_ferret3243/n/nf936464e43ab",
-    "https://n8n.io/ai/",
-    "https://docs.n8n.io/advanced-ai/accessing-n8n-mcp-server/",
-    "https://medium.com/@rentierdigital/one-open-source-repo-turned-claude-code-into-an-n8n-architect-and-n8n-has-never-been-more-useful-f68f4ec63d02"
+    "https://corp.moneyforward.com/news/release/service/20260407-mf-press-1/",
+    "https://prtimes.jp/main/html/rd/p/000001613.000008962.html",
+    "https://www.businessinsider.jp/article/2604-moneyforward-ai-cowork-launch/",
+    "https://www.watch.impress.co.jp/docs/news/2099855.html",
+    "https://note.com/datacrew/n/n748096a9b301"
   ],
-  "estimated_word_count": 3400,
+  "estimated_word_count": 1900,
   "title_candidates": [
-    "KarpathyのLLM Wikiを実装したら、AIが「昨日の自分」を覚えてくれるようになった——Claude Code×n8nで作る5ステップ",
-    "RAGはもう古い？Karpathyが公開した「LLM Wiki」をClaude Code×n8nで実装して変わったこと",
-    "使うほど賢くなるAIの作り方——KarpathyのLLM WikiをClaude Codeで実装した全記録"
-  ]
+    "マネーフォワードがClaude Agent SDKを採用した。AIは「道具」から「同僚」へ",
+    "AIが経理・労務をこなす時代が来た。マネーフォワードの発表が示すもの",
+    "「AIが同僚になる」は比喩じゃなかった。2026年4月に起きたこと"
+  ],
+  "date": "2026-04-09"
 }

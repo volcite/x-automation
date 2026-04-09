@@ -1,0 +1,673 @@
+{
+  "date": "2026-04-09",
+  "candidates": [
+    {
+      "id": 1,
+      "title_draft": "PCを閉じても仕事が進む。Claude Code Remote Tasksを使ってみた",
+      "target_reader": "Claude Codeを使い始めたエンジニア・フリーランス（中級者）",
+      "core_message": "Claude Code Remote Tasksを使えばクラウド上でAIが24時間自律稼働し、ラップトップを閉じた状態でも定期タスクが完了する",
+      "angle": "体験談",
+      "source_basis": "2026年3月20日にAnthropicがリリースしたRemote Tasksは複数の海外メディアが報道。builder.io・computeleap.com・plainenglish.ioで「everything changed」「Agentic Shift」として取り上げられ、話題性が高い。trends.jsonのviral_factorsでもトップに挙がっている。公式ドキュメント実在確認済み（code.claude.com/docs/en/web-scheduled-tasks）",
+      "buzz_score": 9,
+      "selected": true
+    },
+    {
+      "id": 2,
+      "title_draft": "Claude Code Auto Modeが生まれた理由。「93%がOKを押す」という逆説",
+      "target_reader": "Claude Codeを日常的に使う開発者・AIツール利用者（中級者）",
+      "core_message": "ユーザーの93%が許可プロンプトをそのまま承認しているというデータから、Anthropicは「そもそも聞かなければいい」という逆転発想でAuto Modeを設計した",
+      "angle": "最新情報解説",
+      "source_basis": "Anthropicの公式エンジニアリングブログに93%の数値が明記（anthropic.com/engineering/claude-code-auto-mode）。TechCrunch・SiliconAngle・HelpNetSecurityが報道。trends.jsonのviral_factorsに「具体数値フックで拡散されやすい」と分析されている",
+      "buzz_score": 9,
+      "selected": true
+    },
+    {
+      "id": 3,
+      "title_draft": "Claude Code×n8n MCPで「3時間の作業が10分」になった具体的な手順",
+      "target_reader": "n8nやClaude Codeを仕事で使いたい個人事業主・フリーランス（初〜中級者）",
+      "core_message": "n8n-MCPを設定すれば、Claude Codeとの会話だけでn8nワークフローの設計からデプロイまで完結し、手作業のノード配置が不要になる",
+      "angle": "ハウツー",
+      "source_basis": "github.com/czlonkowski/n8n-mcpのREADME、axeautomation.co・mardenseo.comのガイド記事、n8n公式ドキュメント（docs.n8n.io/advanced-ai/accessing-n8n-mcp-server/）で実在確認済み。approved_post.jsonに「3時間→10分台」の実体験が記載されており一次情報として活用可能",
+      "buzz_score": 8,
+      "selected": true
+    },
+    {
+      "id": 4,
+      "title_draft": "マネーフォワードがClaude Agent SDKを採用した。AIは「道具」から「同僚」へ",
+      "target_reader": "AIの業務導入に関心のある経営者・個人事業主・バックオフィス担当者（初〜中級者）",
+      "core_message": "国内大手がClaude Agent SDKをバックオフィスの中核に据えたことで、AIが「試験導入」から「本番運用」の時代に入ったことを個人・中小企業にとっての行動指針として読み解ける",
+      "angle": "最新情報解説",
+      "source_basis": "マネーフォワードの公式プレスリリース（prtimes.jp/main/html/rd/p/000001613.000008962.html）、corp.moneyforward.com公式ニュース、Business Insider Japan、Impress Watchが報道。2026年4月7日発表、7月リリース予定という具体的な事実が実在確認済み",
+      "buzz_score": 7,
+      "selected": false
+    },
+    {
+      "id": 5,
+      "title_draft": "Claude Code /powerup を打つだけで隠れた18機能が解放される話",
+      "target_reader": "Claude Codeを使っているが高度な機能を活かせていないユーザー（初〜中級者）",
+      "core_message": "/powerupコマンド一つでターミナル内にアニメーション付き学習システムが起動し、Hooks・MCP・サブエージェントなど「使っているつもりで知らない機能」を体系的に学べる",
+      "angle": "最新情報解説",
+      "source_basis": "2026年4月1日リリース（v2.1.90）。claudefa.st・claudelab.net・findskill.ai等複数のレビューサイトで実在確認。公式コマンドリファレンス（code.claude.com/docs/en/commands）にも記載。全プラン無料という点が拡散ポイント",
+      "buzz_score": 7,
+      "selected": false
+    },
+    {
+      "id": 6,
+      "title_draft": "生成AI導入企業の55%が「試験導入」で止まっている本当の理由",
+      "target_reader": "AIを導入したものの活用しきれていないと感じる経営者・担当者（初級者）",
+      "core_message": "「使っている」と「業務に組み込んでいる」は根本的に違う。典型的な躓きパターンを知ることで、スモールスタートで突破できる具体的な一手が見つかる",
+      "angle": "思想・哲学",
+      "source_basis": "enhanceit.jpの調査記事で55.2%という数値が報告されている。trends.jsonにも「生成AI導入企業の約55%が試験導入段階で止まっている」として記録。国内調査データとして有効",
+      "buzz_score": 7,
+      "selected": false
+    },
+    {
+      "id": 7,
+      "title_draft": "Claude Code Hooksで「AIが書いたコードを毎回自動フォーマット」する設定",
+      "target_reader": "Claude Codeで開発しているエンジニア・コードの品質を担保したい開発者（中〜上級者）",
+      "core_message": "PostToolUseフックを使えば、ClaudeがファイルをEditするたびに自動でPrettierやBlackが走り、「AIに頼みながらコード品質も担保する」が設定ファイル数行で実現できる",
+      "angle": "ハウツー",
+      "source_basis": "公式ドキュメント（code.claude.com/docs/en/hooks-guide）に実例が掲載。datacamp.com・dev.toで実践ガイドが複数存在し実在確認済み。PreToolUse/PostToolUseの動作仕様は公式に詳述されている",
+      "buzz_score": 7,
+      "selected": true
+    },
+    {
+      "id": 8,
+      "title_draft": "n8nで個人事業主の「面倒な繰り返し作業」を全部やめた話",
+      "target_reader": "毎日の事務・連絡業務に追われる個人事業主・フリーランス（初級者）",
+      "core_message": "n8nのCommunity版は完全無料かつ無制限で使えるため、請求書送付・リマインドメール・タスク管理などの繰り返し業務を小さなステップから自動化できる",
+      "angle": "体験談",
+      "source_basis": "rabiloo.co.jp・aitaroblog.com等の日本語解説記事でn8nの無料利用・活用事例が実在確認済み。フリーランス向け活用記事（note.com）も複数存在。uravation.comの2026年最新ガイドで国内事例を確認",
+      "buzz_score": 6,
+      "selected": false
+    },
+    {
+      "id": 9,
+      "title_draft": "AIツールを「使っているつもり」の人が見落としている1つのこと",
+      "target_reader": "Claude CodeやChatGPTを使っているが物足りなさを感じている人（初〜中級者）",
+      "core_message": "AI活用の差がつくのはプロンプトの巧拙ではなく「どのタスクを任せるか」の設計力であり、任せる仕組み（自動化）を作るかどうかで効果が10倍以上変わる",
+      "angle": "思想・哲学",
+      "source_basis": "knowledge_stock.json（k_20260326_017）「令和を生き抜くマーケ力」の「流れを作る仕組み」という思想と直接連動。trends.jsonの「55%が試験導入で止まっている」実態ともクロスし、オーナー独自の視点で語れる",
+      "buzz_score": 7,
+      "selected": false
+    },
+    {
+      "id": 10,
+      "title_draft": "X運用を丸ごと自動化した。Claude Code×n8nで作ったパイプライン全公開",
+      "target_reader": "X運用を効率化したいインフルエンサー志望者・副業者（初〜中級者）",
+      "core_message": "Claude Codeとn8nを組み合わせれば、リサーチ→企画→執筆→投稿→返信まで全工程を自動化したX運用パイプラインが個人でも構築できる",
+      "angle": "体験談",
+      "source_basis": "実際にこのシステム（koma-x-automation）を構築・運用している一次情報。approved_post.jsonのn8n×Claude Code実践談を根拠として活用可能。差別化が高い一次情報型コンテンツ",
+      "buzz_score": 8,
+      "selected": false
+    },
+    {
+      "id": 11,
+      "title_draft": "Claude Codeのサブエージェントとは何か。並列実行で開発速度が変わる理由",
+      "target_reader": "Claude Codeを使い倒したい中〜上級エンジニア・AI開発者",
+      "core_message": "サブエージェント機能を使えばClaude Codeが複数のタスクを並列実行し、単体では不可能だったスピードで大規模な作業をこなせる",
+      "angle": "最新情報解説",
+      "source_basis": "/powerup機能の18トピックにサブエージェントが含まれることが公式確認済み。code.claude.com/docs/en/commandsに記載。開発者向けに高い価値がある",
+      "buzz_score": 6,
+      "selected": false
+    },
+    {
+      "id": 12,
+      "title_draft": "BtoBマーケで失敗し続けた僕が、AIを使い始めてから変わったこと",
+      "target_reader": "BtoBビジネスでマーケティングに悩む経営者・担当者（初〜中級者）",
+      "core_message": "BtoBマーケの失敗パターンは「点」で施策を打つことにあり、AIで「流れ（ファネル）」全体を設計・自動化することで突破口が開ける",
+      "angle": "失敗談",
+      "source_basis": "knowledge_stock.json（k_20260326_017、k_20260326_019）のマーケティング全般の知見と、オーナーのBtoBマーケ5年の実体験を組み合わせた一次情報型コンテンツ",
+      "buzz_score": 6,
+      "selected": false
+    },
+    {
+      "id": 13,
+      "title_draft": "フォロワー0から始めるX運用。AIで「毎日投稿」の限界を突破した方法",
+      "target_reader": "X運用を始めたいが継続できない個人・副業者（初級者）",
+      "core_message": "毎日手動投稿の限界はAI自動化で突破できる。n8nとClaude Codeで投稿パイプラインを組めば、発信の継続問題は「仕組み」で解決できる",
+      "angle": "ハウツー",
+      "source_basis": "knowledge_stock.json（k_20260326_001）「フォロワーの増やし方完全ロードマップ」と（k_20260326_003）「凡人だった私がフォロワー120人で2.2万インプを達成」の知見を活用可能",
+      "buzz_score": 6,
+      "selected": false
+    },
+    {
+      "id": 14,
+      "title_draft": "Anthropicが2026年3月に追加したClaude Code機能12個を全部試した",
+      "target_reader": "Claude Codeを業務で使うエンジニア・開発者（中〜上級者）",
+      "core_message": "2026年3月のClaude Codeアップデートで追加されたRemote Tasks・Auto Mode・/loopなど12機能を実際に試した感想と、どれが実務で使えるかをランク付けする",
+      "angle": "比較",
+      "source_basis": "builder.io/blog/claude-code-updatesに「Every Claude Code Update From March 2026」として12機能が実在確認済み。releasebot.io/updates/anthropic/claude-codeのリリースノートも根拠として使用可能",
+      "buzz_score": 7,
+      "selected": false
+    },
+    {
+      "id": 15,
+      "title_draft": "「AIに仕事を任せる」と「AIを使う」は全然違う。その差を生む考え方",
+      "target_reader": "AIツールを業務に活かしきれていないと感じる個人事業主・フリーランス（初〜中級者）",
+      "core_message": "「AIを使う」は手動操作の補助。「AIに任せる」はワークフロー設計と仕組み化であり、この視点の違いが業務改善の成果に決定的な差をもたらす",
+      "angle": "思想・哲学",
+      "source_basis": "knowledge_stock.json（k_20260326_017）のマーケ力解説「特定の手法は点であり、線（流れ）を構築することが重要」という考え方と直結。trends.jsonの「AIは業務代行へシフト」という文脈とも整合する",
+      "buzz_score": 7,
+      "selected": false
+    },
+    {
+      "id": 16,
+      "title_draft": "n8nのHuman-in-the-Loopとは何か。AIに「全部任せない設計」の作り方",
+      "target_reader": "AIエージェントのガバナンス・安全性に関心のあるビジネス担当者（中〜上級者）",
+      "core_message": "n8n 2.0で追加されたHuman-in-the-Loop機能を使えば、AIが自律実行する途中に人間の承認を挟む「半自動」のワークフローが設計でき、誤動作リスクを大幅に下げられる",
+      "angle": "ハウツー",
+      "source_basis": "n8n 2026年アップデート群の情報（trends.json）でHITL機能が記録されている。blog.n8n.ioに機能概要が掲載。「安全な自動化」というニーズに応えるテーマとして差別化できる",
+      "buzz_score": 6,
+      "selected": false
+    },
+    {
+      "id": 17,
+      "title_draft": "Amazon Bedrockで動くClaude Codeを試した。企業利用の現実的な選択肢",
+      "target_reader": "AWS利用企業でClaude Codeの導入を検討しているエンジニア・CTO（上級者）",
+      "core_message": "v2.1.94でAmazon Bedrock統合が追加され、既存のAWSインフラにClaude Codeを組み込めるようになった。企業がClaude Codeを安全に採用するための現実的な道が開いた",
+      "angle": "最新情報解説",
+      "source_basis": "releasebot.io/updates/anthropic/claude-codeのリリースノートでv2.1.94のAmazon Bedrock対応が実在確認済み。trends.jsonにも「Amazon Bedrock統合・デフォルト作業強度をhighへ」として記録",
+      "buzz_score": 6,
+      "selected": false
+    },
+    {
+      "id": 18,
+      "title_draft": "SNS運用で「情報源を2〜3個に絞る」と決めてから、周回遅れがなくなった",
+      "target_reader": "情報収集に疲れているSNS発信者・AI活用者（初〜中級者）",
+      "core_message": "情報は追いかけるものではなく仕組みで受け取るもの。見る場所を意図的に絞ることが、最前線との距離を縮める最短ルートになる",
+      "angle": "体験談",
+      "source_basis": "approved_post.jsonの最新投稿（2026-04-09夕投稿）のテーマと文脈が一致し、深掘り展開が可能。記事としてNote記事化することで投稿コンテンツと連動できる",
+      "buzz_score": 5,
+      "selected": false
+    },
+    {
+      "id": 19,
+      "title_draft": "コンセプト設計で99%の人が間違えていること。「ノウハウで差別化するな」",
+      "target_reader": "副業・フリーランスで自分のサービスや商品を売りたい人（初〜中級者）",
+      "core_message": "商品を売るためにノウハウを磨こうとするのは逆効果で、重要なのは「誰に・いつ・何のために」というコンセプトを絞ることで、AIはその検証を圧倒的に速くする補助役になる",
+      "angle": "思想・哲学",
+      "source_basis": "knowledge_stock.json（k_20260326_008）「コンセプトメイキングの教科書」からの知見。usage_count=4でまだ使用可能（max_usage=5）。SNS発信者・副業者に強く刺さる普遍的テーマ",
+      "buzz_score": 6,
+      "selected": false
+    },
+    {
+      "id": 20,
+      "title_draft": "n8nで自動化できる業務10選。フリーランスが真っ先に手をつけるべき順番",
+      "target_reader": "n8nを知っているが何から始めればいいかわからない個人事業主（初〜中級者）",
+      "core_message": "n8nで自動化すべき業務には優先順位があり、「繰り返し頻度が高くてミスが痛い」タスクから着手することで、投資対効果が最大化しつつリスクが最小化する",
+      "angle": "ハウツー",
+      "source_basis": "aitaroblog.com・digital-front.jp等の日本語記事で活用事例10選が実在確認済み。uravation.comの2026年完全ガイドでも具体例が掲載。knowledge_stock.jsonのマーケ全般の知見と組み合わせ可能",
+      "buzz_score": 6,
+      "selected": false
+    }
+  ],
+  "selected": [
+    {
+      "id": 1,
+      "rank": 1,
+      "theme": "PCを閉じても仕事が進む。Claude Code Remote Tasksを使ってみた",
+      "subtitle": "Anthropicのクラウドインフラで24時間AIが自律稼働する仕組みと、実際のセットアップ手順を全公開",
+      "target_reader": "Claude Codeを使い始めたエンジニア・フリーランスで、もっと自律的にAIを活用したいと思っている人",
+      "reader_pain": "Claude Codeを使うたびに自分がターミナルの前にいなければいけない。定期的な作業（PR確認・ログ解析・ドキュメント更新）を毎回手動でやるのが面倒で、仕事を離れている間も進めておきたい",
+      "core_message": "Claude Code Remote Tasksを使えば、GitHubリポジトリ・プロンプト・スケジュールを設定するだけで、ラップトップを閉じた状態でもAnthropicのクラウド上でClaude Codeが24時間自律稼働する",
+      "angle": "体験談",
+      "structure": "ストーリーアーク",
+      "sections": [
+        {
+          "heading": "「毎朝同じプロンプトを打つ自分」に気づいた日",
+          "content_summary": "毎朝同じ「昨日のPRレビューして」「エラーログ確認して」という作業をClaude Codeに手動で頼んでいたことへの違和感から話を始める。「この操作、自分がやる必要あるのか？」という問いが起点になる体験談",
+          "word_count_target": 400
+        },
+        {
+          "heading": "Remote Tasksとは何か。クラウド・デスクトップ・/loopの3択を整理する",
+          "content_summary": "Anthropicのクラウドで動く「Cloud Tasks」、自分のPCで動く「Desktop Tasks」、セッション内で繰り返す「/loop」の違いを公式の比較表をもとに噛み砕いて説明。「PCを閉じても動く」のはCloudだけという結論を明確に示す",
+          "word_count_target": 500
+        },
+        {
+          "heading": "実際にセットアップしてみた。5ステップで動いた",
+          "content_summary": "claude.ai/code/scheduledにアクセス→タスク名とプロンプト作成→GitHubリポジトリ追加→実行環境設定→スケジュール設定、という5ステップを実体験ベースで解説。「プロンプトが自己完結していることが最重要」というハマりポイントも添える",
+          "word_count_target": 600
+        },
+        {
+          "heading": "実際に動かしてみた3つのユースケース",
+          "content_summary": "（1）毎朝9時に未マージのPRを自動レビューしてSlackに通知、（2）週次でdependency auditを実行してセキュリティレポートを生成、（3）新しいmarkdownファイルがmainにマージされるたびにドキュメントをSync。それぞれのプロンプト文例と実行結果のキャプチャを交えて紹介",
+          "word_count_target": 600
+        },
+        {
+          "heading": "注意点とトークン消費。Pro/Max/Teamでの現実的な使い方",
+          "content_summary": "各タスク実行はサブスクのトークンクォータを消費する現実を正直に書く。最小間隔は1時間、ローカルファイルにはアクセスできない（新規クローン）、デフォルトではclaude/プレフィックスのブランチにしかpushできない、という制限事項も包み隠さず伝える",
+          "word_count_target": 400
+        },
+        {
+          "heading": "「寝ている間に仕事が終わっていた」というのは本当だった",
+          "content_summary": "初めてRemote Tasksが自律実行された翌朝の体験。想定通りに動いていたことへの正直な驚きと、「ここから何を任せるか」という今後の展望で締める。夢想ではなく等身大で語る",
+          "word_count_target": 300
+        }
+      ],
+      "hook_strategy": "「毎朝同じプロンプトを打ち続けていた自分」というリアルな体験談から入る。読者が「あ、自分もやってる」と思う共感フックを冒頭に置き、その後すぐ「実はその必要がなかった」という逆転で興味を引く",
+      "cta": "「あなたが毎日Claude Codeに頼んでいる定型作業は何ですか？」という問いかけで締め、コメントで教えてもらうよう促す（柔らかいトーンで）",
+      "buzz_patterns_applied": [
+        "体験談による共感フック（バズ分析より：冒頭パターン最多は「ストーリー・体験談」）",
+        "具体的なステップ形式（保存率を高めるハウツー要素を体験談に組み込む）",
+        "「寝ている間に完了」というSF的な驚きがシェア動機になる",
+        "制限事項の正直な開示（信頼性UP・炎上防止）"
+      ],
+      "knowledge_used": [
+        {
+          "id": "k_20260326_017",
+          "usage_type": "seasoning",
+          "how_to_use": "「特定の手法（手動作業）は点であり、流れを作ることが重要」という思想を記事の結論部分に織り込み、Remote Tasksが単なる機能紹介ではなく「仕組みで受け取る」という哲学の体現として位置づける"
+        }
+      ],
+      "trend_connection": "Claude Code Remote Tasks（2026年3月20日リリース）という直近の公式アップデートと完全に連動。複数の海外メディアが「Everything changed」と評価している話題性の高いトレンド",
+      "verified_facts": [
+        {
+          "fact": "Claude Code Remote Tasksは2026年3月20日にAnthropicがリリース。GitHubリポジトリ・プロンプト・スケジュールを設定するだけでクラウドで自律実行される",
+          "source_url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "Cloud/Desktop/loopの3択があり、「PCを閉じても動く」のはCloud（Anthropicのインフラ）のみ。Desktop TasksはPCの電源が必要",
+          "source_url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "最小間隔は1時間。デフォルトではclaude/プレフィックスのブランチにしかpushできない。各実行はサブスクのトークンクォータを消費する",
+          "source_url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "claude.ai/code/scheduledからWebで作成可能。CLIでは/scheduleコマンドで設定できる",
+          "source_url": "https://code.claude.com/docs/en/web-scheduled-tasks",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "Pro/Max/Team/Enterpriseプランすべてで利用可能",
+          "source_url": "https://www.builder.io/blog/claude-code-updates",
+          "verified_at": "2026-04-09"
+        }
+      ],
+      "source_urls": [
+        "https://code.claude.com/docs/en/web-scheduled-tasks",
+        "https://www.builder.io/blog/claude-code-updates",
+        "https://www.computeleap.com/blog/claude-code-remote-tasks-cloud-ai-agents-2026/",
+        "https://help.apiyi.com/en/claude-code-2026-new-features-loop-computer-use-remote-control-guide-en.html",
+        "https://claudefa.st/blog/guide/development/scheduled-tasks"
+      ],
+      "estimated_word_count": 2800,
+      "title_candidates": [
+        "PCを閉じても仕事が進む。Claude Code Remote Tasksを使ってみた",
+        "「毎朝同じプロンプトを打つ作業」はもう終わりにできる話",
+        "Claude Codeのクラウド自律実行は、思ったより簡単だった"
+      ]
+    },
+    {
+      "id": 2,
+      "rank": 2,
+      "theme": "Claude Code Auto Modeが生まれた理由。「93%がOKを押す」という逆説",
+      "subtitle": "Anthropicが公表したデータが示す「自動化の論理」と、Auto Modeが実際にブロックするものの正体",
+      "target_reader": "Claude Codeを日常的に使う開発者・AIツール利用者で、自律化と安全性のバランスに関心がある人",
+      "reader_pain": "Claude Codeを使うたびに出てくる許可プロンプトが煩わしい。でも全部OKにして暴走されたら困る。「安全」と「自律化」はトレードオフだと思い込んでいる",
+      "core_message": "ユーザーの93%が許可プロンプトをそのまま承認しているというデータから、Anthropicは「聞くのをやめる」という逆転発想でAuto Modeを設計した。入力層と出力層の二重防御で、安全性を損なわずに自律化を実現している",
+      "angle": "最新情報解説",
+      "structure": "PREP法",
+      "sections": [
+        {
+          "heading": "「許可しますか？」を毎回押し続けた結果",
+          "content_summary": "Claude Codeを使っていると頻繁に出てくる許可プロンプトへの「あるある感」から入る。「93%のユーザーがOKを押している」という数値を冒頭に提示し、「じゃあ最初から聞かなければいい」というAnthropicの判断への驚きを語る。この数値はAnthropicの公式エンジニアリングブログに明記されている事実として提示する",
+          "word_count_target": 400
+        },
+        {
+          "heading": "Auto Modeはどう動くか。二重防御の仕組みを噛み砕く",
+          "content_summary": "入力層（プロンプトインジェクション検出）と出力層（トランスクリプト分類器）の二段構えを、専門的すぎない言葉で説明。「ファイルを読む・コードを検索する」系は自動許可、「credentials探索」「外部サービスへのデータ共有」「安全チェック回避」はブロック、という基準を具体例で示す",
+          "word_count_target": 500
+        },
+        {
+          "heading": "実際にブロックされるのはどんな操作か",
+          "content_summary": "Anthropicが公式ブログで開示している4つのブロックカテゴリ（スコープ拡張・認証情報探索・外部サービス共有・安全チェック回避）を、「こういう操作がブロックされる」という具体例で解説。偽陽性率0.4%・偽陰性率17%という公式数値も正直に添える",
+          "word_count_target": 500
+        },
+        {
+          "heading": "なぜこの機能が重要か。「許可疲れ」という問題の本質",
+          "content_summary": "93%承認という数値が示す「許可プロンプトが実質的に機能していない」という現実と、それが生む「許可疲れ（approval fatigue）」という問題を語る。Auto Modeはその構造的な問題への回答であり、「聞き方を変える」ではなく「設計思想を変える」という違いを解説する",
+          "word_count_target": 400
+        },
+        {
+          "heading": "現時点での制限と、使うべきタイミング",
+          "content_summary": "Teamプランが対象でEnterprise・APIは準備中、という制限を正直に書く。「全てに使う」のではなく「信頼できるリポジトリ・リスクが低い定型作業」から使い始めるべきという実践アドバイスを添える",
+          "word_count_target": 300
+        },
+        {
+          "heading": "「信頼できるAI」と「盲目的に任せるAI」の違い",
+          "content_summary": "Auto Modeを使う前に理解しておくべき「AIに自律判断させることの意味」についての自分の考えを語る。「信頼は設計で担保するもの」という哲学的なまとめで締める",
+          "word_count_target": 300
+        }
+      ],
+      "hook_strategy": "「93%のユーザーはOKを押している」という具体的な数値を冒頭に置き、「じゃあなぜ毎回聞いていたのか」というツッコミを誘発する構造。数値＋逆転発想の組み合わせで読者の知的好奇心を引く",
+      "cta": "CTAなし。「AIへの信頼を設計で担保する」という余韻で自然に閉じ、読者に考えさせる",
+      "buzz_patterns_applied": [
+        "「実は○○%が○○している」という具体数値フックで保存・共有動機を高める（バズ分析のviral_factors要素を直接適用）",
+        "問題提起→逆転発想→解決策の3段構成（数字を含むタイトルパターン）",
+        "「許可プロンプトの煩わしさ」というエンジニアの共感ポイントをズバリ突く"
+      ],
+      "knowledge_used": [],
+      "trend_connection": "Claude Code Auto Mode（2026年3月24日リリース）というリリースホットなアップデート。TechCrunch・SiliconAngle等の権威あるメディアが報道しており、話題性が高い",
+      "verified_facts": [
+        {
+          "fact": "Claude Code users approve 93% of permission prompts（Anthropic公式エンジニアリングブログに明記）",
+          "source_url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "Auto Modeは入力層（プロンプトインジェクション検出）と出力層（トランスクリプト分類器）の二重防御を採用",
+          "source_url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "ブロックカテゴリは4つ：スコープ拡張・認証情報探索・外部サービス共有・安全チェック回避",
+          "source_url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "完全なパイプラインは偽陽性率0.4%を実現しながら、実際の過度な行為に対して17%の偽陰性率がある",
+          "source_url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "Auto ModeはTeamプランが対象。Enterprise・APIは準備中（2026年3月24日リリース時点）",
+          "source_url": "https://www.helpnetsecurity.com/2026/03/25/anthropic-claude-code-auto-mode-feature/",
+          "verified_at": "2026-04-09"
+        }
+      ],
+      "source_urls": [
+        "https://www.anthropic.com/engineering/claude-code-auto-mode",
+        "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+        "https://www.helpnetsecurity.com/2026/03/25/anthropic-claude-code-auto-mode-feature/",
+        "https://www.builder.io/blog/claude-code-updates",
+        "https://mlq.ai/news/anthropic-expands-claude-code-with-auto-mode/"
+      ],
+      "estimated_word_count": 2400,
+      "title_candidates": [
+        "Claude Code Auto Modeが生まれた理由。「93%がOKを押す」という逆説",
+        "Anthropicはなぜ「許可プロンプトをやめた」のか。93%のデータが示すもの",
+        "許可を求めないAIは危険か。Claude Code Auto Modeの設計思想を読み解く"
+      ]
+    },
+    {
+      "id": 3,
+      "rank": 3,
+      "theme": "Claude Code×n8n MCPで「3時間の作業が10分」になった具体的な手順",
+      "subtitle": "ノードを一つも手で触らずにワークフローをデプロイする。n8n-MCPのセットアップから実際の使い方まで",
+      "target_reader": "n8nやClaude Codeを仕事で使いたいが、組み合わせ方がわからない個人事業主・フリーランス・エンジニア",
+      "reader_pain": "n8nのノード設定が多すぎて毎回調べながら3時間かかる。Claude Codeでコードを書けても、n8nのワークフロー設計は別物。「自然言語でワークフローが作れる」と聞くけど具体的な手順がわからない",
+      "core_message": "n8n-MCPをClaude Codeに設定すれば、自然言語でワークフローの設計からデプロイまで完結し、1,396のn8nノードをClaudeが把握した状態でサポートしてくれる",
+      "angle": "ハウツー",
+      "structure": "ステップ形式",
+      "sections": [
+        {
+          "heading": "「n8nワークフロー設計に3時間かけていた」という話",
+          "content_summary": "実際に毎回n8nのノードを一つひとつ調べながら組んでいた体験を語る。Webhook→Slack通知という単純なフローでも接続設定・認証・データ変換で詰まるリアルな苦労を共感ベースで伝える",
+          "word_count_target": 400
+        },
+        {
+          "heading": "n8n-MCPとは何か。「Claudeがn8nを直接操作できる橋」",
+          "content_summary": "n8n-MCPはClaudeとn8nをつなぐブリッジであり、Claude Codeに設定することでClaude が1,396のn8nノード（コア812+コミュニティ584）の知識を持った状態で会話できる仕組みを説明。「AIに設計を任せる」ではなく「AIと一緒に設計する」というニュアンスも添える",
+          "word_count_target": 400
+        },
+        {
+          "heading": "セットアップ手順。~/.claude/.mcp.jsonに追記するだけ",
+          "content_summary": "n8n-MCPのインストール（npm経由）、~/.claude/.mcp.jsonへのn8nインスタンスURL・APIキーの設定、Claude Code起動後のMCP接続確認、という3ステップを具体的なコマンドと設定例を示して解説",
+          "word_count_target": 500
+        },
+        {
+          "heading": "実際に10分で作ったワークフローの例",
+          "content_summary": "「Webhookでリクエストを受け取り、内容をSlackに通知してGoogleスプレッドシートに記録する」というワークフローを、Claude Codeとの会話だけで10分で作った実例を紹介。プロンプトの書き方（トリガー・データソース・変換・出力・スケジュールを1段落で記述するコツ）も開示する",
+          "word_count_target": 600
+        },
+        {
+          "heading": "うまくいかなかったケースと、その対処法",
+          "content_summary": "コミュニティノードの中には品質にバラツキがあり、Claudeがうまく扱えないケースも正直に書く。「ノードの公式ドキュメントをコンテキストに渡す」「n8n-skillsを組み合わせる」という対処法も添える",
+          "word_count_target": 400
+        },
+        {
+          "heading": "「会話でワークフローが完成する」という感覚",
+          "content_summary": "n8n-MCPを使い続けての感想。「n8nのエキスパートと隣に座って設計している感覚」という体験を等身大で語り、「n8nをまだ手動で組んでいる人は試す価値がある」という軽い結論で締める",
+          "word_count_target": 300
+        }
+      ],
+      "hook_strategy": "「3時間→10分」という具体的なBefore/Afterを冒頭に置き、「どうやったの？」という好奇心を引き出す。approved_post.jsonの夕投稿でも言及されているリアルな体験談として信憑性が高い",
+      "cta": "「試してみた感想や、自分が自動化したいワークフローがあれば教えてください」という問いかけで自然に閉じる",
+      "buzz_patterns_applied": [
+        "「Before→After」の具体時間数が視覚的インパクトをもたらす（バズ分析のviral_factors要素）",
+        "n8nとClaudeの両コミュニティに刺さる掛け算ネタ",
+        "「自分も試してみたい」という行動喚起が自然に起きる構造でブックマーク率UP",
+        "数字を含むタイトルパターン（バズ分析より数字入りが最多）"
+      ],
+      "knowledge_used": [
+        {
+          "id": "k_20260326_017",
+          "usage_type": "seasoning",
+          "how_to_use": "「特定のツールを使いこなすことより、点と点を繋ぐ流れを作ることが重要」という考え方を、n8n-MCPが「Claude（点）とn8n（点）を繋ぐ橋」である説明に自然に織り込む"
+        }
+      ],
+      "trend_connection": "n8n MCP + Claude Code連携（2026年実用化）というトレンドと、approved_post.jsonの「3時間から10分台になってきています」という実体験が重なる鮮度の高いテーマ",
+      "verified_facts": [
+        {
+          "fact": "n8n-MCPはgithub.com/czlonkowski/n8n-mcpとして公開されており、Claude Desktop・Claude Code・Cursor等に対応",
+          "source_url": "https://github.com/czlonkowski/n8n-mcp",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "n8n-MCPはClaude Codeに1,396のn8nワークフローノード（コア812+コミュニティ584）の知識を与える",
+          "source_url": "https://github.com/czlonkowski/n8n-mcp",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "n8n公式がMCPサーバーを提供しており、docs.n8n.io/advanced-ai/accessing-n8n-mcp-server/に公式セットアップガイドがある",
+          "source_url": "https://docs.n8n.io/advanced-ai/accessing-n8n-mcp-server/",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "設定は~/.claude/.mcp.jsonにn8nインスタンスURLとAPIキーを追記するだけで完了",
+          "source_url": "https://www.axeautomation.co/blog/n8n-mcp-integration-guide",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "Claude Codeから直接n8nを操作し、ワークフロー設計からデプロイまで会話で完結できることが複数の実践ガイドで確認されている",
+          "source_url": "https://apidog.com/blog/n8n-mcp-with-claude-code/",
+          "verified_at": "2026-04-09"
+        }
+      ],
+      "source_urls": [
+        "https://github.com/czlonkowski/n8n-mcp",
+        "https://docs.n8n.io/advanced-ai/accessing-n8n-mcp-server/",
+        "https://www.axeautomation.co/blog/n8n-mcp-integration-guide",
+        "https://apidog.com/blog/n8n-mcp-with-claude-code/",
+        "https://www.n8n-mcp.com/",
+        "https://mardenseo.com/blog/n8n-mcp-claude-code-guide/"
+      ],
+      "estimated_word_count": 2600,
+      "title_candidates": [
+        "Claude Code×n8n MCPで「3時間の作業が10分」になった具体的な手順",
+        "n8nのワークフロー設計をClaude Codeに任せたら、ノードを触らなくなった",
+        "n8n-MCPを設定して気づいた。「AIに設計させる」は想像より3倍速かった"
+      ]
+    },
+    {
+      "id": 7,
+      "rank": 4,
+      "theme": "Claude Code Hooksで「AIが書いたコードを毎回自動フォーマット」する設定",
+      "subtitle": "PostToolUseフックとPreToolUseフックの実用例。設定ファイル数行で「AIとコード品質の両立」が実現する",
+      "target_reader": "Claude Codeで開発しているエンジニアや開発者で、AIが書いたコードの品質を自動で担保したい人",
+      "reader_pain": "Claude Codeにコードを書いてもらっても、フォーマットがバラバラだったりlintエラーが残っていたりする。毎回手動でPrettierやBlackを走らせるのが面倒。AIに任せながら品質も保つ方法が知りたい",
+      "core_message": "Claude CodeのHooks機能を使えば、ClaudeがファイルをEditするたびに自動でフォーマット・lint・テストが走る決定論的な仕組みが、設定ファイル数行で構築できる",
+      "angle": "ハウツー",
+      "structure": "ステップ形式",
+      "sections": [
+        {
+          "heading": "「AIが書いたコードを毎回直す自分」に気づいた",
+          "content_summary": "Claude Codeでコードを書いてもらうたびに、フォーマットの揺れやlintエラーを手動で修正していた自分への気づきから入る。「AIに任せながら品質も担保したい」という矛盾した欲求を共感ベースで語る",
+          "word_count_target": 300
+        },
+        {
+          "heading": "Claude Code Hooksとは何か。「決定論的な自動化」という発想",
+          "content_summary": "Hooksはプロンプトやスキルと違い、「必ず実行される」ことが保証されたシェルコマンドである点を説明。PreToolUse（ツール実行前）・PostToolUse（ツール実行後）の違いと、それぞれの使い道を噛み砕いて説明する",
+          "word_count_target": 400
+        },
+        {
+          "heading": "PostToolUseで「Edit後に自動フォーマット」する設定",
+          "content_summary": ".claude/settings.jsonにPostToolUseのhookを追加し、ClaudeがEditツールでファイルを書き込むたびにPrettier（JS/TS）またはBlack（Python）が自動で走るconfigを具体的に示す。設定はproject-level（.claude/settings.json）とuser-level（~/.claude/settings.json）の2種類があることも説明",
+          "word_count_target": 500
+        },
+        {
+          "heading": "PreToolUseで「危険なコマンドをブロック」する設定",
+          "content_summary": "PreToolUseフックを使ってrm -rfやdrop table等の危険なシェルコマンドを実行前にブロックする設定例を紹介。「PreToolUseは唯一アクションをブロックできるhook」という重要性を強調",
+          "word_count_target": 400
+        },
+        {
+          "heading": "実際に動かして良かった3つのパターン",
+          "content_summary": "（1）ファイル保存後の自動Prettier、（2）Pythonファイル保存後のBlack+isort、（3）コミット前のテスト自動実行、という3つの実用パターンをconfig例付きで紹介。「どれか1つだけ試すなら自動フォーマット一択」という個人的なおすすめも添える",
+          "word_count_target": 500
+        },
+        {
+          "heading": "「AIに頼みながら品質も担保する」という発想の転換",
+          "content_summary": "AIに任せると品質が下がると思い込んでいた自分への言及と、Hooksという「決定論的な制御」によってAIの自由度と品質担保が両立できることへの気づきを語る締め",
+          "word_count_target": 300
+        }
+      ],
+      "hook_strategy": "「Claude Codeにコードを書いてもらった後、毎回フォーマットを直していませんか？」という問いかけで読者の課題を直接刺す。共感フック＋解決策の提示という王道パターン",
+      "cta": "「どんなHooksを使っているか、他に試してみたい自動化があれば教えてください」という軽い問いかけで締める",
+      "buzz_patterns_applied": [
+        "チェックリスト形式（保存率の高い実践的なハウツー）",
+        "コード例を含む具体性（開発者向けコンテンツの差別化ポイント）",
+        "「AIとコード品質の両立」というエンジニアが抱える矛盾への解決策提示"
+      ],
+      "knowledge_used": [],
+      "trend_connection": "Claude Code Hooks機能が開発者コミュニティで急速に広まっているというtrends.jsonの情報と直結。「決定論的制御×AI」という文脈はn8nの自動化思想とも親和性が高い",
+      "verified_facts": [
+        {
+          "fact": "Claude Code Hooksは早期2026年にリリース。.claude/settings.jsonで設定し、PostToolUse・PreToolUseなど複数のhookタイプがある",
+          "source_url": "https://code.claude.com/docs/en/hooks-guide",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "PostToolUseはツール実行後に発火し、コードフォーマット・ログ・後処理に適している。PreToolUseはツール実行前に発火し、唯一アクションをブロックできるhook",
+          "source_url": "https://code.claude.com/docs/en/hooks-guide",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "設定はproject-level（.claude/settings.json）とuser-level（~/.claude/settings.json）の2種類があり、project-levelが優先される",
+          "source_url": "https://code.claude.com/docs/en/hooks-guide",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "実際の活用例として自動フォーマット・自動lint・テスト実行・Git連携がdatacamp.com・dev.toのガイドで複数確認されている",
+          "source_url": "https://www.datacamp.com/tutorial/claude-code-hooks",
+          "verified_at": "2026-04-09"
+        }
+      ],
+      "source_urls": [
+        "https://code.claude.com/docs/en/hooks-guide",
+        "https://www.datacamp.com/tutorial/claude-code-hooks",
+        "https://dev.to/serenitiesai/claude-code-hooks-guide-2026-automate-your-ai-coding-workflow-dde",
+        "https://www.pixelmojo.io/blogs/claude-code-hooks-production-quality-ci-cd-patterns",
+        "https://www.eesel.ai/blog/hooks-in-claude-code"
+      ],
+      "estimated_word_count": 2400,
+      "title_candidates": [
+        "Claude Code Hooksで「AIが書いたコードを毎回自動フォーマット」する設定",
+        "設定ファイル数行で、AIとコード品質を両立させる方法",
+        "PostToolUseフックを使い始めてから、手動フォーマットをやめた"
+      ]
+    },
+    {
+      "id": 4,
+      "rank": 5,
+      "theme": "マネーフォワードがClaude Agent SDKを採用した。AIは「道具」から「同僚」へ",
+      "subtitle": "国内大手のバックオフィス自動化が示す「AIエージェントの現在地」と、個人・中小企業が今から動くべき理由",
+      "target_reader": "AIの業務導入に関心があるが「自分には関係ない」と思っている経営者・個人事業主・フリーランス",
+      "reader_pain": "大企業がAIを導入しているのはわかるが、自分の仕事に使えるかどうかピンとこない。AIを試験導入したが日常業務に組み込めていない。「いつかやろう」と思いながら後回しにしている",
+      "core_message": "マネーフォワードがClaude Agent SDKをバックオフィスの中核に据えた事実は「AIが業務代行できる時代が来た」という証明であり、個人・中小企業こそ先に動くことで大きなアドバンテージが得られる",
+      "angle": "最新情報解説",
+      "structure": "PASONA法則",
+      "sections": [
+        {
+          "heading": "「AIが同僚になる」と言われても、実感がわかない人へ",
+          "content_summary": "「AIが便利」「AIが変える」という抽象的な言葉は聞き飽きている。でも2026年4月7日に起きた具体的な出来事が、その実感の壁を壊したという導入。マネーフォワードという国内大手が何をしたかを事実ベースで提示する",
+          "word_count_target": 300
+        },
+        {
+          "heading": "何が発表されたか。AI Coworkの中身を3分で理解する",
+          "content_summary": "2026年4月7日の「Money Forward AI Vision 2026」発表会の内容を整理。Claude Agent SDK・Claude APIを採用した「AI Cowork」が何をするか（請求書発行・債務管理・経費精算・労務業務・法務業務の自律実行）を箇条書きで整理。7月リリース・先行受付開始という具体的な事実を添える",
+          "word_count_target": 400
+        },
+        {
+          "heading": "なぜこれが重要か。「国内大手が採用した」という事実の意味",
+          "content_summary": "大手企業がClaude Agent SDKを中核採用したことで「実用性の信頼性」が証明された点を語る。「AIは試験導入で終わる」というイメージが崩れた具体的なシグナルとして読み解く。2030年AI関連ARR150億円という数値目標も事実として添える",
+          "word_count_target": 400
+        },
+        {
+          "heading": "では、個人・中小企業は今何をすべきか",
+          "content_summary": "「大手ができることを自分たちに当てはめると何が変わるか」という視点で、Claude Code×n8nを使った個人レベルのバックオフィス自動化の入り口を示す。請求書送付の自動化・定期レポートの自動生成・リマインドメールの自動送信という身近な例から話す",
+          "word_count_target": 500
+        },
+        {
+          "heading": "「AIエージェントが同僚になる」というのは比喩じゃない",
+          "content_summary": "「道具は使い方を知っている人が強い。同僚は信頼して仕事を任せられる」という違いを語り、AI Coworkが示す「信頼して任せる」設計思想が個人の自動化にも使える概念として締める",
+          "word_count_target": 300
+        }
+      ],
+      "hook_strategy": "「AIが同僚になると言われても実感がわかない」という読者の正直な気持ちへの共感から入り、「でも2026年4月7日に具体的なことが起きた」という事実提示で引き込む",
+      "cta": "CTAなし。「あなたの仕事で最初に任せてみたい作業は何ですか？」という問いかけで余韻を残す",
+      "buzz_patterns_applied": [
+        "「大手採用＝自分も使っていい時代」という安心感の提供（バズ分析のviral_factors要素）",
+        "具体的な日付・数値（2026年4月7日・7月リリース・ARR150億円）で信頼性を高める",
+        "「初心者向け」×「最新情報解説型」の組み合わせでフォロワー獲得に適したコンテンツ"
+      ],
+      "knowledge_used": [
+        {
+          "id": "k_20260326_017",
+          "usage_type": "seasoning",
+          "how_to_use": "「特定の手法は点であり、座組（ザグみ）を作ることが重要」という考え方を、AI Coworkが「AIをツールではなく業務フローの一員として設計している」ことの説明に自然に使う"
+        }
+      ],
+      "trend_connection": "マネーフォワード AI Cowork発表（2026年4月7日）という直近2日以内の国内ニュースと完全に連動。時事性が高く読者への緊急性も訴求できる",
+      "verified_facts": [
+        {
+          "fact": "マネーフォワードは2026年4月7日にAI戦略発表会「Money Forward AI Vision 2026」を開催し、「AI Cowork」を正式発表。同日より先行受付開始",
+          "source_url": "https://corp.moneyforward.com/news/release/service/20260407-mf-press-1/",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "AI CoworkはClaude Agent SDKおよびClaude API（Anthropic社）を採用。MCPを活用した外部ツール連携も実装",
+          "source_url": "https://prtimes.jp/main/html/rd/p/000001613.000008962.html",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "対応業務は経理（請求書発行・債務管理・経費精算・会計仕訳）・労務（入退社・勤怠・給与・年末調整）・法務など。2026年7月リリース予定",
+          "source_url": "https://prtimes.jp/main/html/rd/p/000001613.000008962.html",
+          "verified_at": "2026-04-09"
+        },
+        {
+          "fact": "2030年までにAI関連ARR150億円超を目指すと表明（Business Insider Japan報道）",
+          "source_url": "https://www.businessinsider.jp/article/2604-moneyforward-ai-cowork-launch/",
+          "verified_at": "2026-04-09"
+        }
+      ],
+      "source_urls": [
+        "https://corp.moneyforward.com/news/release/service/20260407-mf-press-1/",
+        "https://prtimes.jp/main/html/rd/p/000001613.000008962.html",
+        "https://www.businessinsider.jp/article/2604-moneyforward-ai-cowork-launch/",
+        "https://www.watch.impress.co.jp/docs/news/2099855.html",
+        "https://note.com/datacrew/n/n748096a9b301"
+      ],
+      "estimated_word_count": 1900,
+      "title_candidates": [
+        "マネーフォワードがClaude Agent SDKを採用した。AIは「道具」から「同僚」へ",
+        "AIが経理・労務をこなす時代が来た。マネーフォワードの発表が示すもの",
+        "「AIが同僚になる」は比喩じゃなかった。2026年4月に起きたこと"
+      ]
+    }
+  ]
+}
