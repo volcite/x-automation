@@ -1,0 +1,1050 @@
+{
+  "tweet_created_at": "2026-04-08T13:11:08.000000Z",
+  "id": 2041866433404268800,
+  "id_str": "2041866433404268842",
+  "type": "tweet",
+  "conversation_id_str": "2041866433404268842",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/vP4AzeBoXF",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1231020013227671600,
+    "id_str": "1231020013227671553",
+    "name": "VALORANT Champions Tour",
+    "screen_name": "ValorantEsports",
+    "location": "Worldwide",
+    "url": "https://linktr.ee/valorantesports",
+    "description": "The source for all things @VALORANT Champions Tour, all the time. #VCT",
+    "protected": false,
+    "verified": true,
+    "followers_count": 787658,
+    "friends_count": 408,
+    "listed_count": 1555,
+    "favourites_count": 9043,
+    "statuses_count": 28857,
+    "created_at": "2020-02-22T00:57:09.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231020013227671553/1774464765",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2036878973305839616/s80JeAZH_normal.png",
+    "can_dm": false,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/riotgames",
+      "badge_url": "https://pbs.twimg.com/profile_images/1867739479605489664/NsdJSu3f_bigger.jpg",
+      "description": "Riot Games",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    },
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 110,
+  "reply_count": 25,
+  "retweet_count": 182,
+  "favorite_count": 1319,
+  "views_count": 402137,
+  "bookmark_count": 167,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041265987153182720",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/vP4AzeBoXF"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-08T13:11:08.000000Z",
+    "id": 2041866433404268800,
+    "id_str": "2041866433404268842",
+    "title": "Introducing VCT 2027: Everything Is a Tournament",
+    "preview_text": "Today, we’re sharing the first in a series of updates on changes you’ll see in VALORANT Esports next year. In 2027 the VCT will be moving to a tournament model that will introduce more high-stakes",
+    "cover_url": "https://pbs.twimg.com/media/HFQJuWqaoAAOlOM.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 271,
+              "style": "Italic"
+            }
+          ],
+          "key": "cgt3u",
+          "text": "Today, we’re sharing the first in a series of updates on changes you’ll see in VALORANT Esports next year. In 2027 the VCT will be moving to a tournament model that will introduce more high-stakes moments throughout the season, new events closer to you, and new ways for any team to qualify to VCT’s global events: Masters and Champions. This new structure will focus on the following principles:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "du776",
+          "text": "Every match should carry weight",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eq4dm",
+          "text": "The path to global events should be open",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7n6vf",
+          "text": "Live events should visit more locations",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "caq5o",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dn411",
+          "text": "When we originally designed the VCT, we made a number of choices regarding structure, regions, teams, accessibility, and economy that helped us build one of the most successful esports in the world. We’re now building on that success, evolving our vision and creating a bold new future for the VCT, re-igniting the dream, making the sport more exciting, unpredictable, and more accessible to teams and players from all over the world.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3k2hq",
+          "text": "Partnership in 2027",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "43kdg",
+          "text": "A new two-year partnership cycle will begin starting with the 2027 season, with applications for prospective teams opening today. Established teams who are not already part of the partnership program and would like to be considered can reach out to their respective regional Riot Esports teams. Applications will be evaluated based on the following criteria:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "79i1b",
+          "text": "Commitment to Grow the VALORANT Community",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bqv7n",
+          "text": "Community Resonance across Fandom and Content",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tmas",
+          "text": "Business Sustainability and Responsible Operations",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3a2sv",
+          "text": "Operational Excellence and Established Infrastructure",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1f7b",
+          "text": "Competitive Success and Performance Development",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5u8bb",
+          "text": "Partners remain essential to ensuring the success of the VCT, and will be rewarded with:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "etkho",
+          "text": "Partner Base Payment - Partner teams receive a guaranteed base payment each year",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agf82",
+          "text": "Performance Bonus - Partner teams that excel at partnership goals are eligible for additional rewards",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "do1uu",
+          "text": "Team Capsule - In-game skins that let fans support their favorite teams",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6i9ts",
+          "text": "Direct Seeding - Additional stability and increased exposure through direct placement into later rounds in qualifiers",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b1h3i",
+          "text": "Open Qualification to Global Events",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ak8qn",
+          "text": "Starting in 2027, the path to all Masters and Champions will begin with Open Qualifiers available to any team across the world. In previous seasons non-partnered teams needed to compete for an entire season for a single team to promote via Ascension. Starting next year, teams will have multiple opportunities, multiple times a year, to make it all the way to the biggest stages in the VCT. Qualification paths will vary by region and could include community tournaments, partner events, collegiate events, Premier, and more. Specific details will be shared later this year.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36a0b",
+          "text": "The best non-partner teams can stack Championship points and competitive payouts all season and, in extraordinary cases, even earn more than bottom of the pack partner teams. This approach unlocks the distribution of funds deeper into the ecosystem, in shorter cycles, enabling both partner and non-partner teams to support players and invest in the sport. Teams will have the flexibility to make multiple runs at global events each season, and make adjustments as necessary in between.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "pgas",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51lnl",
+          "text": "We have found incredible success with VALORANT’s esports digital goods, thanks to fans who show up in droves to support their favorite teams and players. Last year alone we shared over $86M from digital goods with teams in the VCT, creating a healthy and sustainable environment for teams to operate within. Starting in 2027, we want every team that competes at the highest level to have a path to this same financial success.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5h9hj",
+          "text": "Each competition will have a cash amount attached to it that teams will earn by qualifying. The amount scales with the size and stakes of the tournament, with the number approximately doubling from Cups to Masters, and doubling again from Masters to Champions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4rhk4",
+          "text": "On top of incentives, tournaments will also provide robust prize pools, totaling  over $6M USD per year, as well as fully funded travel for global events.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ia8f",
+          "text": "For Cups in particular, funds will be made available to teams in a timely manner, so they can be equipped to arrange the logistics necessary to attend the tournament, such as visas and travel.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jfuq",
+          "text": "Finally, a portion of the funds will be dedicated to Game Changers each year. More details on how the exact mechanics of distribution will be shared later this year.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3lkr2",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 55,
+              "style": "Italic"
+            },
+            {
+              "length": 5,
+              "offset": 70,
+              "style": "Italic"
+            },
+            {
+              "length": 5,
+              "offset": 105,
+              "style": "Italic"
+            }
+          ],
+          "key": "30cn8",
+          "text": "While we are still finalizing details, our goal is for every team, in every territory, to have a path to every global event. Regional communities will have dedicated pathways that send them to international and global competitions, with partner teams meeting them in the later rounds.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qllk",
+          "text": "We expect that this change will bring stakes and the best teams back to their home regions, helping develop the scene and new players that is crucial for the longevity of the sport.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4eqii",
+          "text": "The combination of regional, international and global competitions will help us achieve the fine balance between competitiveness and representation at every stage in the VCT.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d56fg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "45gm6",
+          "text": "Introducing VCT Cups: More Events in More Cities",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3ppi",
+          "text": "Open Qualifiers will feed into new tournaments, called Cups — two per territory per year, eight in total —  punchy, LAN-based events that determine the top teams in each territory. Each Cup:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ciuf",
+          "text": "Replaces regular season league play",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6l1qr",
+          "text": "Concludes with a finals weekend event",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "560t",
+          "text": "Directly qualifies teams to Masters and Champions",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "81m8g",
+          "text": "Competition at Kickoffs and Cups will be held on LAN, on a combination of Riot studios and bespoke venues, with each Cup culminating in an awesome weekend event with fans. In total, the VCT will host over 20 tournaments every year, and visit more than 16 different cities all around the world.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "61ne2",
+          "text": "Kickoff will remain a bespoke tournament with a unique format to start the season. It will also be open for any team to participate, with qualifiers happening in Q4 of the previous year, after Champions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dtlbs",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "216uv",
+          "text": "Looking Ahead",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1crbi",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6kv8t",
+          "text": "Starting in 2027, all teams will compete in a unified system and single tier of competition. This new structure removes the barriers for rising talent and creates a direct path for more teams to get to the top of the sport. With an all-tournament format and an expanded schedule of events, the VCT is heading to more cities, giving more players and fans the opportunity to experience all the sport has to offer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4l7bv",
+          "text": "The new VCT is designed to deliver:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9ggn",
+          "text": "Higher stakes from the first match",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ij77",
+          "text": "Faster progression to global stages",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "44r77",
+          "text": "More regional events",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ce5s7",
+          "text": "Greater competitive opportunity",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6umq",
+          "text": "We’ll share more details on regional calendars, slot allocations, Game Changes, and event locations as we get closer to Champions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2rel",
+          "text": "For those who have been on this journey with us over the past several seasons, thank you, and please keep sharing your thoughts and ideas as we continue building this sport together. Our goal is to create a sport worthy of your passion, and our greatest strength continues to be the ideas you as a community share with us.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "d6dcb244-c67c-46f4-aa60-7c7e4bb3658d",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041268164173131776"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "8264fb88-81b8-48c6-a489-96e101b77989",
+              "mediaItems": [
+                {
+                  "localMediaId": "13",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041268230367698944"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "ad82d515-bc12-4ffa-9622-0479a49cf644",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041267916507889664"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "1f20dc7e-9a59-4cba-a319-21eccf093bbc",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2041267383491534848"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "8494510d-b5d6-4e72-aa90-699f3b386135",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041267995591462912"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "8c67190a-18ce-40da-898c-b0cea62f0274",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041268072561152000"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFQKWt7awAAKAAIRFXYuB9UAAQAA",
+        "media_id": "2041267916507889664",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 80.95,
+                "rgb": {
+                  "blue": 37,
+                  "green": 27,
+                  "red": 16
+                }
+              },
+              {
+                "percentage": 7.02,
+                "rgb": {
+                  "blue": 187,
+                  "green": 184,
+                  "red": 182
+                }
+              },
+              {
+                "percentage": 5.57,
+                "rgb": {
+                  "blue": 97,
+                  "green": 79,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 1.66,
+                "rgb": {
+                  "blue": 71,
+                  "green": 57,
+                  "red": 149
+                }
+              },
+              {
+                "percentage": 1.5,
+                "rgb": {
+                  "blue": 69,
+                  "green": 31,
+                  "red": 27
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HFQKWt7awAAMuty.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2041267916507889664"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFQKbUiaUAAKAAIRFXYuB9UAAQAA",
+        "media_id": "2041267995591462912",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 64.37,
+                "rgb": {
+                  "blue": 36,
+                  "green": 26,
+                  "red": 17
+                }
+              },
+              {
+                "percentage": 9.46,
+                "rgb": {
+                  "blue": 41,
+                  "green": 32,
+                  "red": 65
+                }
+              },
+              {
+                "percentage": 6.84,
+                "rgb": {
+                  "blue": 81,
+                  "green": 67,
+                  "red": 235
+                }
+              },
+              {
+                "percentage": 3.56,
+                "rgb": {
+                  "blue": 66,
+                  "green": 29,
+                  "red": 27
+                }
+              },
+              {
+                "percentage": 3.1,
+                "rgb": {
+                  "blue": 185,
+                  "green": 182,
+                  "red": 182
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HFQKbUiaUAAFILn.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2041267995591462912"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFQKo/JbYAAKAAIRFXYuB9UAAQAA",
+        "media_id": "2041268230367698944",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 72.85,
+                "rgb": {
+                  "blue": 47,
+                  "green": 33,
+                  "red": 17
+                }
+              },
+              {
+                "percentage": 8.18,
+                "rgb": {
+                  "blue": 83,
+                  "green": 69,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 6.18,
+                "rgb": {
+                  "blue": 205,
+                  "green": 203,
+                  "red": 204
+                }
+              },
+              {
+                "percentage": 2.08,
+                "rgb": {
+                  "blue": 44,
+                  "green": 34,
+                  "red": 61
+                }
+              },
+              {
+                "percentage": 2.01,
+                "rgb": {
+                  "blue": 76,
+                  "green": 38,
+                  "red": 28
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HFQKo_JbYAA_AmH.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2041268230367698944"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHFQJ3sSaoAAKAAIAAAAAAAAAAAAA",
+        "media_id": "2041267383491534848",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 9,
+            "numerator": 16
+          },
+          "duration_millis": 208083,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 67.6,
+                  "rgb": {
+                    "blue": 182,
+                    "green": 185,
+                    "red": 181
+                  }
+                },
+                {
+                  "percentage": 23.54,
+                  "rgb": {
+                    "blue": 96,
+                    "green": 101,
+                    "red": 103
+                  }
+                },
+                {
+                  "percentage": 5.23,
+                  "rgb": {
+                    "blue": 51,
+                    "green": 92,
+                    "red": 91
+                  }
+                },
+                {
+                  "percentage": 1.18,
+                  "rgb": {
+                    "blue": 118,
+                    "green": 139,
+                    "red": 146
+                  }
+                },
+                {
+                  "percentage": 0.99,
+                  "rgb": {
+                    "blue": 99,
+                    "green": 112,
+                    "red": 157
+                  }
+                }
+              ]
+            },
+            "original_img_height": 2160,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2041267383491534848/img/wVejWE4uuN0Nok51.jpg",
+            "original_img_width": 3840
+          },
+          "variants": [
+            {
+              "bit_rate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041267383491534848/vid/avc1/1920x1080/SNQC5YAU4HTrLd2p.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041267383491534848/vid/avc1/1280x720/mvzSot56ieHL6LDK.mp4?tag=21"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2041267383491534848/pl/yNSelPXIbi1tY283.m3u8?tag=21"
+            },
+            {
+              "bit_rate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041267383491534848/vid/avc1/480x270/0oR-ppPBiHxEH6C1.mp4?tag=21"
+            },
+            {
+              "bit_rate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041267383491534848/vid/avc1/640x360/eqEQ2aH_JCLdRHqr.mp4?tag=21"
+            },
+            {
+              "bit_rate": 25128000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041267383491534848/vid/avc1/3840x2160/EQyo-c9R48WTlOFT.mp4?tag=21"
+            }
+          ]
+        },
+        "media_key": "13_2041267383491534848"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFQKlIjacAAKAAIRFXYuB9UAAQAA",
+        "media_id": "2041268164173131776",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 60.12,
+                "rgb": {
+                  "blue": 35,
+                  "green": 25,
+                  "red": 15
+                }
+              },
+              {
+                "percentage": 10.76,
+                "rgb": {
+                  "blue": 95,
+                  "green": 42,
+                  "red": 37
+                }
+              },
+              {
+                "percentage": 10.57,
+                "rgb": {
+                  "blue": 48,
+                  "green": 33,
+                  "red": 76
+                }
+              },
+              {
+                "percentage": 6.4,
+                "rgb": {
+                  "blue": 97,
+                  "green": 79,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 3.54,
+                "rgb": {
+                  "blue": 203,
+                  "green": 201,
+                  "red": 202
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HFQKlIjacAAOFo6.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2041268164173131776"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFQKfzRakAAKAAIRFXYuB9UAAQAA",
+        "media_id": "2041268072561152000",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 80.2,
+                "rgb": {
+                  "blue": 38,
+                  "green": 28,
+                  "red": 19
+                }
+              },
+              {
+                "percentage": 8.43,
+                "rgb": {
+                  "blue": 47,
+                  "green": 36,
+                  "red": 67
+                }
+              },
+              {
+                "percentage": 6.16,
+                "rgb": {
+                  "blue": 84,
+                  "green": 70,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 1.96,
+                "rgb": {
+                  "blue": 205,
+                  "green": 203,
+                  "red": 204
+                }
+              },
+              {
+                "percentage": 0.91,
+                "rgb": {
+                  "blue": 77,
+                  "green": 63,
+                  "red": 181
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HFQKfzRakAAo9rR.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2041268072561152000"
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "tweet_created_at": "2026-04-08T09:13:33.000000Z",
+  "id": 2041806643826917600,
+  "id_str": "2041806643826917639",
+  "type": "tweet",
+  "conversation_id_str": "2041806643826917639",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/ILXHWjj9Bx",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 511571996,
+    "id_str": "511571996",
+    "name": "谷口つばさ",
+    "screen_name": "tsaz6",
+    "location": "",
+    "url": "https://lit.link/tsaz6",
+    "description": "無所属の芸人。ほがらかつばさ旅行。福井県越前市出身。東京学芸大学卒。文章の仕事がしたいです。連絡はredbull.tsubasa777@gmail.comまで",
+    "protected": false,
+    "verified": true,
+    "followers_count": 5664,
+    "friends_count": 991,
+    "listed_count": 57,
+    "favourites_count": 9554,
+    "statuses_count": 21975,
+    "created_at": "2012-03-02T08:03:09.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/511571996/1679285889",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615016182058455040/X7z6R5WW_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 23,
+  "reply_count": 0,
+  "retweet_count": 112,
+  "favorite_count": 1019,
+  "views_count": 366048,
+  "bookmark_count": 916,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041805230506176516",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/ILXHWjj9Bx"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-08T09:13:33.000000Z",
+    "id": 2041806643826917600,
+    "id_str": "2041806643826917639",
+    "title": "男性同士のケア",
+    "preview_text": "ずっとそういう事を考えているせいなのか、Twitterでの「男性同士のケア」という話題が飛び込んできました。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6enn",
+          "text": "ずっとそういう事を考えているせいなのか、Twitterでの「男性同士のケア」という話題が飛び込んできました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6t7n3",
+          "text": "ケアと呼ぶのかコミュニケーションの先にケアがあるのか、またはそれが同時に存在するのか分かりませんが、ここではケアっぽければケア、コミュニケーションっぽければコミュニケーションと言います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "784pa",
+          "text": "ケアと呼ばれるものについて考え始めたのが芸人になってからなので、身の回りのデータが芸人しかなく「芸人的ケア」についてばかり考えてしまっていましたが、これはつまるところ「男性的ケア」なのではないだろうか？と思う事も増えてきました。\nかなりざっくり便宜的に「男性的ケア」「女性的ケア」と言います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8l1ca",
+          "text": "男性的ケアとは、つまり学生ノリではないだろうかと思うのです。\nくだらない事を言い合ったり下ネタで盛り上がったり、落ち込んでいる友達を初手でいじる、という事は中高生の時に頻繁に行われてきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6t7ue",
+          "text": "私は高校を卒業するまで、友達と「真剣な話」をしたことがありませんでした。\nどんな辛い状況にいたり、悲しい事があっても、それを友達にただ提示する事はありませんでした。\nそれを自虐の笑いにしたり、ギャグっぽく言う事はあったかもしれません。\nその時に私が友達に求めていたのは「大丈夫？」と親身になって心配してくれる事では無く、「お前、やべーな！」と笑い飛ばしてくれる事だったと記憶しています（これも当時の記憶を再現しているだけなので、本当のところは分かりません。本当は深く傷ついていた可能性もあります。当時の私は日記などをつけていないし、ブログも書いていなかったので、当時の心境は”思い出す”事しかできないのです。そしてその感情も時を経て脚色されている事は間違いないでしょう）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5k9bu",
+          "text": "「辛い事があっても笑いにする」という心情は、芸人になってから培われたものだと思っていましたが、中高生の頃からその片鱗はあったのかもしれません。\nこれは脚色ではないのですが、私は高校一年生の頃にクラスで友達ができず、辛い日々を過ごしてきました。\nこれは間違いなくはっきりと「辛かった」と言う事ができます。\n何回か挨拶をしたことがある、男子グループが教室で円になって昼食を食べているところに近づき「その円には入っていないけど、外から見たら一緒に食べていると見えなくもない」という距離で弁当を食べて、彼らとは一言も話さずに昼休みをやり過ごすという事もやっていました。今、書いているだけでも心が冷たくなりました。最近はすっかり大人になって、かつ芸人にもなって、自分のキモさを俯瞰で見て出したりひっこめたり、あまつさえ「まあ、キモいみたいなキャラでやる事もありますね笑」なんてスタンスでいたのですが、私の中高時代は本当にキモかった。キモかった事を忘れてはいけない。呆れるほど多くのキモエピソードがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eif2b",
+          "text": "しかし、所属していた陸上部では奇跡的に気の合う友達に恵まれて、自分らしく生きる事ができました。私が学校に行っていたのは完全に部活があったからです。大人になり「3年間を技能の取得に活かせなかった」「囲碁将棋部に入ればよかった」などと思う事もありましたが、今思い返せばあの時の自分にとって「陸上部に入る」という事は絶対に必要な事でした。それも中長距離部門のメンバーと常にいたのですが、全員と気が合っていました。あれは奇跡だと思います。私は軽率に奇跡って言っていく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjmg7",
+          "text": "だいぶ話題が逸れましたが、教室での辛かった事を「俺、辛いんだよね…」などと部活の友達に言った事はありませんでした（いじられるために、あえて大げさに言った事はあるかもしれません）。\n辛かった事を隠していた節もありました。\n一言で言うと「カッコつけ」だと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17gnm",
+          "text": "最近「なぜ自分はこんな間違えた選択をしてしまうのだろう」とよく考えているのですが、なんかずっとカッコつけているのだと思います。\nこれが男性的な特徴なのか私個人の特徴なのか分かりませんし、大きな風呂敷を広げてジェンダー論を繰り広げるつもりもありませんが、主観的な意見を述べると「カッコつけている男性」は非常に多いような気がします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8kbfu",
+          "text": "辛い、寂しい、悲しい、と素直に口に出す事ができないから「お茶しようよ」と友達に言えずに「カラオケ行こう」などと別の目的を設けてでしか人を誘う事ができない。かつての私の話です。\n男性社会での基本は「カッコつけ」だと思います。\nカッコつけているから弱みを見せない。弱みを見せる場合も心配してほしいではなく「笑って欲しい」（自分の言葉で笑ってもらうという事は男性にとってのカッコつけでもあるのです）。\nだから相手にも同じようなコミュニケーションを取る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "drdqu",
+          "text": "高校を卒業し大人になった今でもそのコミュニケーションを軸にしているから失敗する事が多いのではないかと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2dqnr",
+          "text": "「別のコミュニケーションの方法がある」と知った人から大人になっていくのではないでしょうか。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

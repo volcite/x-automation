@@ -1,0 +1,572 @@
+{
+  "tweet_created_at": "2026-04-07T08:55:32.000000Z",
+  "id": 2041439721872916700,
+  "id_str": "2041439721872916657",
+  "type": "tweet",
+  "conversation_id_str": "2041439721872916657",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/G68IrdgNXM",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1903052831659024400,
+    "id_str": "1903052831659024384",
+    "name": "Action Model",
+    "screen_name": "ActionModelAI",
+    "location": "",
+    "url": "https://linktr.ee/ActionModel",
+    "description": "The future of AI shouldn't be owned by big tech, it should be owned by all of us. Discord: https://t.co/S4Fj0GcQos",
+    "protected": false,
+    "verified": true,
+    "followers_count": 44666,
+    "friends_count": 24,
+    "listed_count": 34,
+    "favourites_count": 1186,
+    "statuses_count": 808,
+    "created_at": "2025-03-21T11:57:31.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903052831659024384/1764159170",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1993647821992701952/1UJZFUhu_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 212,
+  "reply_count": 529,
+  "retweet_count": 1002,
+  "favorite_count": 1079,
+  "views_count": 10370,
+  "bookmark_count": 16,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041018446394372096",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/G68IrdgNXM"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T08:55:32.000000Z",
+    "id": 2041439721872916700,
+    "id_str": "2041439721872916657",
+    "title": "The AI Boom Is Here, But Who Actually Owns It?",
+    "preview_text": "Artificial intelligence is no longer a niche trend, it’s becoming one of the most significant economic shifts of our time.\nAccording to recent data, 59% of investors now hold AI-related stocks, with",
+    "cover_url": "https://pbs.twimg.com/media/HFSlPD-bUAASgxV.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rk6o",
+          "text": "Artificial intelligence is no longer a niche trend, it’s becoming one of the most significant economic shifts of our time.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 26,
+              "style": "Bold"
+            },
+            {
+              "length": 16,
+              "offset": 181,
+              "style": "Bold"
+            }
+          ],
+          "key": "dimds",
+          "text": "According to recent data, 59% of investors now hold AI-related stocks, with ownership even higher among younger generations. At the same time, Big Tech is doubling down, committing $600–700 billion toward AI infrastructure, particularly data centers.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 91,
+              "style": "Bold"
+            }
+          ],
+          "key": "97i4a",
+          "text": "The returns are already staggering. Companies like Nvidia have seen stock prices rise over 1,190% in five years, highlighting just how valuable this new wave of technology is becoming.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4bect",
+          "text": "Naturally, investors want exposure.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2p9es",
+          "text": "But there’s a deeper question that often goes unasked:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dsqp7",
+          "text": "Who actually owns the future of AI?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b5015",
+          "text": "Investment ≠ Ownership",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ouvf",
+          "text": "Today, people can invest in some AI companies on the stock market.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "3h7td",
+          "text": "But almost no one can own the models themselves.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c372e",
+          "text": "And that distinction matters.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ev8np",
+          "text": "Because while capital is flowing into AI from the top down, something else is happening from the bottom up:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 94,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "510ro",
+          "text": "Millions of people are already contributing to these systems every day without even realising.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6128r",
+          "text": "The Invisible Workforce Behind AI",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "215sb",
+          "text": "AI isn’t just built by engineers.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2hiub",
+          "text": "It’s shaped by everyday human behavior.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dij15",
+          "text": "Every search.\nEvery workflow.\nEvery interaction online.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "casud",
+          "text": "These signals are used to train and refine AI models.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 57,
+              "style": "Bold"
+            }
+          ],
+          "key": "7dgfd",
+          "text": "In other words, people aren’t just users of AI, they are active contributors to its development. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 31,
+              "style": "Bold"
+            }
+          ],
+          "key": "1lk1f",
+          "text": "Yet despite this, they receive no ownership, no upside, and no recognition for the value they help create.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6hsgg",
+          "text": "The Gap, and the Opportunity",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ffnc",
+          "text": "This creates a fundamental imbalance.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rmva",
+          "text": "On one side:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9jtml",
+          "text": "Investors gain exposure",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8nuqt",
+          "text": "Companies capture value",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5v3j4",
+          "text": "On the other:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7nrh",
+          "text": "Users contribute data",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73sok",
+          "text": "Workers train the systems",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2kjm",
+          "text": "Society powers the entire ecosystem",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "2k78h",
+          "text": "But ownership remains concentrated.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84lq0",
+          "text": "That’s the gap.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cudci",
+          "text": "A New Model for AI Ownership",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f0t9e",
+          "text": "If AI is going to become the backbone of the global economy, then the model needs to evolve.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "euuj",
+          "text": "The people who help build these systems should have a stake in them.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 13,
+              "offset": 23
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1l3ml",
+          "text": "That’s the idea behind Action Model.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4falt",
+          "text": "A system where:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55aps",
+          "text": "Contribution is recognized",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4mdqf",
+          "text": "Participation is rewarded",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c3bls",
+          "text": "Ownership is distributed",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2tipb",
+          "text": "Because this isn’t just another investment trend.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "k5em",
+          "text": "It’s a shift in how value is created, and who gets to benefit from it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dduqu",
+          "text": "The Bigger Picture",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6197",
+          "text": "AI may be the most transformative technology of this century, but its true impact won’t just be defined by what it can do.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "52cl",
+          "text": "It will be defined by who owns it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dfgp6",
+          "text": "And whether that ownership remains concentrated…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2coqt",
+          "text": "Or becomes something everyone can be part of.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 86,
+                "text": "train.actionmodel.com/sign-up",
+                "toIndex": 115
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ks5k",
+          "text": "Join our movement, get rewarded for training and let's own the future of AI together: train.actionmodel.com/sign-up ",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://actionmodel.com"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,1932 @@
+{
+  "tweet_created_at": "2026-04-08T06:22:10.000000Z",
+  "id": 2041763512104710700,
+  "id_str": "2041763512104710538",
+  "type": "tweet",
+  "conversation_id_str": "2041763512104710538",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/sFv5qvRds4",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18902274,
+    "id_str": "18902274",
+    "name": "土屋尚史 / Goodpatch",
+    "screen_name": "tsuchinao83",
+    "location": "Tokyo",
+    "url": "http://goodpatch.com",
+    "description": "Founder, CEO of Goodpatch Inc. デザイン会社として初の東証グロース上場企業 : 7351（波来い）, 全方位で採用強化中。丸井グループ CDXO, Muture取締役 @GoodpatchTokyo 過去ブログ\nhttps://t.co/g3MvNSXbaL",
+    "protected": false,
+    "verified": true,
+    "followers_count": 43167,
+    "friends_count": 1902,
+    "listed_count": 660,
+    "favourites_count": 61611,
+    "statuses_count": 64312,
+    "created_at": "2009-01-12T14:48:41.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18902274/1595261142",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/715665333218979842/fLLzpFee_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 126,
+  "reply_count": 3,
+  "retweet_count": 125,
+  "favorite_count": 1239,
+  "views_count": 479692,
+  "bookmark_count": 2178,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041758174248861696",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/sFv5qvRds4"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-08T06:22:10.000000Z",
+    "id": 2041763512104710700,
+    "id_str": "2041763512104710538",
+    "title": "全社へのClaude Code大号令 — 1ヶ月で200個のアプリと300件のナレッジから見えたこと",
+    "preview_text": "実は3月の頭にグッドパッチの事業部所属のメンバー全員にClaude Codeを使って1アプリケーションを作ってデプロイまでやりなさいという大号令を出しました。",
+    "cover_url": "https://pbs.twimg.com/media/HFXIU4Ga8AECuFX.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bu8dl",
+          "text": "実は3月の頭にグッドパッチの事業部所属のメンバー全員にClaude Codeを使って1アプリケーションを作ってデプロイまでやりなさいという大号令を出しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a6uuo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 45,
+              "style": "Bold"
+            }
+          ],
+          "key": "bhd6v",
+          "text": "この時はグッドパッチの社員達は僕がどこまで本気かは、捉え方はそれぞれでしたが、後に社内ではClaude Code大号令＃CC令とハッシュタグが付き、グッドパッチ過去最大のムーブメントとなりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fvlok",
+          "text": "なぜこんな大号令を出したのか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 24,
+              "style": "Bold"
+            }
+          ],
+          "key": "fo1uh",
+          "text": "それは2月上旬に僕自身がClaude Codeで昔会社で使っていた年間300万払っていたSaaSのクローンをたった1日で作れてしまった所からスタートしました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a0o77",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bp95v",
+          "text": "この時に僕が作ったサービスは現在グッドパッチのほぼ全ての社員が登録し、毎日使われるツールになりました。未だに僕が1人で開発し、この2か月で120コミットし、常に機能追加されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqrmf",
+          "text": "ここからClaude Codeにハマり、1か月で20個以上のアプリケーションを作り、僕自身は自ら作ったパーソナルAIエージェント「Roger」と共に楽しいClaude Codeライフを送っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 11,
+              "style": "Bold"
+            }
+          ],
+          "key": "b1r01",
+          "text": "この一連の体験の中で、確実にゲームが変わることを確信しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6rsq6",
+          "text": "今までのソフトウェアプロダクトの作り方とは、大きく状況が変わることが見えたので、なるべく早いタイミングで全社員に理解させないといけないと思いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8pc5j",
+          "text": "でも、Claude Codeは始めるまでのハードルが高い",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8306",
+          "text": "Claude Codeは本当にすごいツールですが、始めるまでのハードルがまあまあ高いのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d2vku",
+          "text": "ターミナルを開く。VS Codeをインストールする。GitHubアカウントを作る。Supabaseのプロジェクトを立ち上げる。Vercelにデプロイする。etc..",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ci32v",
+          "text": "デザイナーや営業などの非エンジニアにとっては、かなりハードル高いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "242i4",
+          "text": "「興味はあるけど、なかなか手が動かない」状態の社員が大半でした。自然に広がるのを待っていたら、一部のアーリーアダプターだけが使って終わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5cu0n",
+          "text": "だから、今回はトップダウンで大号令を出すことにしました。僕は普段はトップダウンはあまりやらないのですが、今回は流石に危機感もあったので絶対にやり切る覚悟で意思決定しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69feb",
+          "text": "3月中という期限でしたが、やはりすぐにやる人やらない人も分かれるので、Claude Codeで毎日自動更新のesa（社内のイントラ記事）を作り、書いたメンバーの記事を自動収集し、誰が日時で書いたか書いていないかを自動チェックし、全員が書くまでマネージャーに追いかけてもらうまでやりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5q6e6",
+          "text": "結果",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b462r",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "41pe3",
+          "text": "結果：ナレッジ295記事。作った人185名。アプリケーション217個。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 70,
+              "style": "Bold"
+            }
+          ],
+          "key": "c76d7",
+          "text": "子会社とバックオフィス系メンバーを除く事業部社員のほぼ全員が、アプリを作り、esaに記事を書くところまで到達しました。アプリ開発記事に限れば約87%がデプロイまで到達しています（ノウハウ共有や分析記事など、デプロイを伴わない記事を含めると78%）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eppt3",
+          "text": "たった1か月で約300件のClaude Code関連のナレッジの投稿が増えた事になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3snb0",
+          "text": "記事の97%に振り返りの記述があり、59%が失敗や苦労を正直に書いていました。単なる「やりました」報告ではなく、「やってみて何を感じたか」が185人分、生のデータとして残りました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12hdp",
+          "text": "以下はClaudeCodeで分析したデータと気付きの一部です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1073f",
+          "text": "どんな職種が、どんなアプリを作ったか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5soc9",
+          "text": "職種の内訳\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c2oh0",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "itmi",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7hii0",
+          "text": "業務効率化が最多ですが、面白いのはその中身です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4q130",
+          "text": "「献立を考えるのがつらい」から作った献立管理アプリ。1歳の娘のアレルギー負荷試験を2タップで記録するツール。推しのニュースとイベントを一覧化するダッシュボード。冷蔵庫の食材から作れる料理を教えてくれるアプリ。コメダ珈琲で一緒にポモドーロタイマーを回せるリアルタイム同席アプリ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 42,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "29a2v",
+          "text": "壮大なものではなく、自分の生活の「小さな不便」を解決するものが圧倒的に多かったです。 これは後で触れます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bsqtb",
+          "text": "驚いたこと①：コード経験ゼロの86%がデプロイまで到達した",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8v29g",
+          "text": "最も衝撃的だったデータがこれです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cfrgk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "beas9",
+          "text": "コーディング経験が全くない57人のうち49人が、動くアプリをインターネット上に公開するところまで到達しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 74,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "aid3a",
+          "text": "「コードは1行も自分で書いていません。やったことは3つだけ：作りたいことを言葉で伝える、画面を見てフィードバックする、エラーメッセージをコピペする」— デザイナー",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 49,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4tdr0",
+          "text": "「ここまでできるとは思っていなかった。コードを一行も書かずにWebアプリができてしまった。すごい」— 営業",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dk6qu",
+          "text": "「6分後、60品目のサンプルデータ付きアプリが完成しました」— 営業",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ar2ba",
+          "text": "「0→1が、こんなに簡単にできていいんでしょうか。これ困ってるからググる時代から、自分で作る時代へ」— デザイナー",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 123,
+              "style": "Bold"
+            }
+          ],
+          "key": "933cn",
+          "text": "今までデプロイ経験のなかった非エンジニアがたった数時間でアプリを作ってデプロイできる。もちろん社内エンジニアのレクチャーもありますが、それでも少し前では考えられませんでした。\n\nグッドパッチはクライアントのデジタルプロダクトを一緒に作る会社です。その社員の大多数が「自分で動くものを出荷する体験」を持ったことの意味は大きな変化です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5dt3v",
+          "text": "驚いたこと②：半数が「ただ作れること自体には価値がない」と気づいた",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1c804",
+          "text": "295記事をAIで構造化分析し、10のテーマに分類しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dteac",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5b4lk",
+          "text": "最も多かったテーマは「自分の負から始めると強い」（52%）。半数以上が、自分自身の困りごとを起点にアプリを作っていました。先ほどの献立やアレルギー管理がまさにそれです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 19,
+              "style": "Bold"
+            }
+          ],
+          "key": "3a7b8",
+          "text": "そして僕が最も注目しているのが2番目、「何を作るかが問われる」に49%が到達していること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e315l",
+          "text": "ほぼ半数が、「作れるかどうか」ではなく「何を作るか」が勝負だと気づいたのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ehj2",
+          "text": "これは頭で理解するのと、体験して腹落ちするのでは全く重みが違います。自分でアプリを作り、デプロイし、「あ、本当に作れてしまうな」と実感した後にしか到達できない認識です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 55,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7cg53",
+          "text": "「作ろうと思えばなんだって作れるこの時代ですが、逆を返せば私が作ろうと思わなければ何も生み出されることはない」— 営業",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6ea30",
+          "text": "「『作ること』の価値ではなく『使われること』『成果につながること』をどうデザインするか」— デザイナー",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2uk6k",
+          "text": "「AIは\"作る\"を民主化するが、\"選ばれる理由\"までは生成しない」— PM",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f7m69",
+          "text": "デザイン会社にとって、この気づきは非常に重い。デザイン会社は「作ること」を売ってきた会社です。その「作ること」の価値が下がるとしたら、自分たちは何を売るのか。まず、この施策を自分の手でやらないと実感出来ない問いだと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19m8d",
+          "text": "驚いたこと③：AIが「職業的アイデンティティの鏡」になった",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a632m",
+          "text": "185人が同じツール、同じ期間、同じ会社で体験したのに、職種によって得た気づきが驚くほど違いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8f498",
+          "text": "デザイナー — 「誇りと苦闘」が同時に生まれた",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "975eq",
+          "text": "デザイナーは最も感情的に複雑な体験をしていました。「誇りと苦闘」が32%の記事で同時に出現しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dhrtn",
+          "text": "AIが出してくるものに対して「なんとなく違う」への感度が高い。でもそれを言葉にしてAIに伝えられない。このもどかしさがfrustration 39%（全職種最高）として表れている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 46,
+              "style": "Bold"
+            }
+          ],
+          "key": "fmov4",
+          "text": "しかし同時に「デザイナーの価値はむしろ上がる」が44%。この矛盾が面白い。苦しんだからこそ、「自分にしかできないこと」が逆照射的に明確になった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "18pni",
+          "text": "「バイブコーディングをしたいけど、バイブスだけではものづくりができないなと気づきました」— デザイナー",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4hvor",
+          "text": "「『これでいいか』ではなく『これがいい』を追求できるのは、人間がやる仕事だと改めて感じた」— デザイナー",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bu9v6",
+          "text": "エンジニア — 「自分が作ること」ではなく「全員が作れる仕組み」に目が向いた",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a5818",
+          "text": "エンジニアの反応は他の職種と根本的に違いました。fear 0%。surprise 6%。感情的な動揺がほぼない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7do7b",
+          "text": "代わりに「仕組み化・Skill化」が68%で、他職種の2〜3倍。そして60%が「チームのため」にアプリやツールを作っていました。自分用ではなく、組織のための基盤。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f7dfr",
+          "text": "「ハーネスエンジニアリングは『良い開発プロセスをコードとドキュメントで表現する技術』。結果的に人間にとっても分かりやすいリポジトリになる」— エンジニア",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 42,
+              "style": "Bold"
+            }
+          ],
+          "key": "5bkv",
+          "text": "エンジニアは「全員が作れるようになった世界」を驚きではなく所与の前提として受け止め、その世界で自分は何をすべきかを即座に考え始めていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ho7j",
+          "text": "営業 — 「自分の業務課題」を起点に、素直に驚いた",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dp232",
+          "text": "営業の96%が「自分の困りごと」を起点にアプリを作っていました。これは全職種で断トツの数字です。そして43%が「自分のため」のアプリを作った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbk94",
+          "text": "提案書のタスク整理ツール、商談分析、スカウトリスト管理。明確な業務課題を持っていて、それを解決するものを素直に作り、素直に驚いていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "515nn",
+          "text": "「凝ったものを作らないといけないという思い込みから、まずやってみるへの転換」— 営業",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "755f8",
+          "text": "「作れる能力よりも何を作りたいかの明確性が勝負を決める」— 営業",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 62,
+              "style": "Bold"
+            }
+          ],
+          "key": "bi9qe",
+          "text": "一方で「仕組み化」への言及は5%、「使い倒す≠思考を委ねる」は0%。体験の衝撃がまだ新鮮で、深い内省の段階には至っていない。だからこそ、次のフェーズで最も伸びしろが大きい職種でもあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6lih6",
+          "text": "PM — 「言語化の精度」が全てだと最初に見抜いた",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1sc92",
+          "text": "「言語化力がボトルネック」54%。全職種で最高。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "67qct",
+          "text": "PMは要件定義が本業です。「曖昧な指示からは曖昧なアウトプットしか出ない」ことを日常的に体験している。だからこそ、AIへの指示精度の重要性を最初に見抜いた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 49,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "76dmv",
+          "text": "「バイブコーディングは『作れるか』を解く道具。本質は『何を作るか』を定義する人間のプロセスにある」— PM",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7fsei",
+          "text": "humor（ユーモア）も61%で最高。苦労を笑いに変えながら、本質を言い当てるPMらしさ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7aihg",
+          "text": "人事 — ドメイン知識がそのままプロダクトになった",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "20n4b",
+          "text": "「業務への実践応用」36%。全職種で最高。pride（誇り）93%。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 38,
+              "style": "Bold"
+            }
+          ],
+          "key": "31hkq",
+          "text": "面談対策Skill、プリミティブジョブの自動化、オンボーディング支援ツール。人事は自分のドメイン知識をそのままプロダクトに変換していた。 技術的な挑戦より、「自分の専門領域の課題を自分で解決できた」ことへの誇りが強い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8vha",
+          "text": "「アプリ開発よりも日々の作業自動化の方が組織的インパクトが大きい」— 人事",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84lf0",
+          "text": "なぜ職種で景色が違ったのか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 19,
+              "style": "Bold"
+            }
+          ],
+          "key": "712ns",
+          "text": "面白いのは、全員が同じ体験をしたのに、それぞれが「自分の職業にとって最も大事なもの」を再発見していること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ajur",
+          "text": "デザイナーは「審美眼と意図」",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ctqe1",
+          "text": "エンジニアは「仕組みと品質基準」",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dddgk",
+          "text": "営業は「自分の課題への解像度」",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77ki7",
+          "text": "PMは「言語化力」",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8gq1",
+          "text": "人事は「ドメイン知識の実践力」",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 50,
+              "style": "Bold"
+            }
+          ],
+          "key": "1tifk",
+          "text": "AIは全員に同じ能力を与えました。でもそこから何を見出すかは、その人が何を大切にしてきたかで決まる。AIが「職業的アイデンティティの鏡」として機能したと言えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37u93",
+          "text": "「作れる」の価値が消えた世界で、デザイナーとエンジニアはどう価値を出すのか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 66,
+              "style": "Bold"
+            }
+          ],
+          "key": "42d6q",
+          "text": "49%が「作れること自体に価値がない」と気づいた。45%が「言語化力がボトルネック」にぶつかった。この2つのデータが示しているのは、「作る」から「判断する」への価値のシフトです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "791er",
+          "text": "デザイナーの価値",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fg164",
+          "text": "110人のデザイナーの44%が「デザイナーの価値はむしろ上がる」と結論づけています。ただし、価値の中身が変わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "e108k",
+          "text": "AIが出してくるものに対して「ここが違う」と指摘できるのは、積み重ねた審美眼を持つ人だけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 72,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5t12a",
+          "text": "「残念なデザインをみて『残念だ』と気づける人はまだ多くありません。わたしみたいに『わぁ、素敵なものができた！』ってなっちゃう人がたくさんいます」",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 68,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bg38",
+          "text": "「デザインとは『自分の確かさをいったん失う』ことから始まる。これは、学習データの延長線上で答えを出すAIには不可能な人間だけのプロセス」",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7q4e6",
+          "text": "「『これでいいか』ではなく『これがいい』を追求できるのは、人間がやる仕事だと改めて感じた」",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 92,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c7rgh",
+          "text": "デザイナーの役割は「作る人」から「何を作るか決め、品質を見極める人」に変わりつつある。AIは優秀な実行者ですが、「何を美しいと感じるか」「どんな体験を届けたいか」は人間にしか持てない。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "36bi3",
+          "text": "エンジニアの価値",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 10,
+              "style": "Bold"
+            }
+          ],
+          "key": "f5p1n",
+          "text": "エンジニアの68%が「仕組み化」に言及しています。これは他職種の2〜3倍。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 50,
+              "style": "Bold"
+            }
+          ],
+          "key": "7gf09",
+          "text": "全員がアプリを作れるようになった世界で、エンジニアの価値は「自分が作ること」ではなくなる。代わりに、「全員が安全に、品質高く作れる環境を設計すること」に移っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 85,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "58nln",
+          "text": "「ハーネスエンジニアリングは『AIを管理する技術』というより『良い開発プロセスをコードとドキュメントで表現する技術』。結果的に人間にとっても分かりやすいリポジトリになる」",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 87,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "degp9",
+          "text": "CLAUDE.md（AIの行動規範を定めるファイル）、Skill（再利用可能な指示セット）、セキュリティ設計、ハーネスエンジニアリング。これらは非エンジニアには設計できない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cufg",
+          "text": "共通するのは「言語化力」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 25,
+              "style": "Bold"
+            }
+          ],
+          "key": "amjie",
+          "text": "デザイナーもエンジニアも、共通して問われているのは言語化力です。45%がボトルネックとして挙げたこの能力は、AIへの指示精度だけの話ではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 55,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7r525",
+          "text": "「整理されていないものは、AIにも伝えられない。自分の仕事が整理されていないから、AIに伝えられないのが本質」",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dakeh",
+          "text": "自分が何を作りたいのか、なぜそう作るのか、ここが違うと感じるのはなぜか。これを言葉にできる精度が、AIとの協働の品質を決める。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 75,
+              "offset": 34,
+              "style": "Bold"
+            }
+          ],
+          "key": "ej5g9",
+          "text": "グッドパッチがクライアントワークでやってきたことは、まさにこれです。「ユーザーが本当に求めているものは何か」を言語化し、形にするプロセス。AIとの協働で問われる力と、デザインプロセスで鍛えられてきた力が、同じものだったのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c22k7",
+          "text": "-----",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1rnv8",
+          "text": "この施策はどんな意味があったのか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "etv0r",
+          "text": "185人が全員で同じ体験をしたことで、組織に3つの変化が起きています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "chn9m",
+          "text": "1. ドメイン知識を持つ人が自分で解決策を実装できる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 57,
+              "offset": 146,
+              "style": "Bold"
+            }
+          ],
+          "key": "2icc5",
+          "text": "アプリを作れる人 = エンジニアだけ、ではなくなった。営業のデプロイ率96%、人事86%、マーケター91%。デザイナーも81%。「作る」が特定の職種の専門行為ではなくなりました。営業が営業用のツールを作り、リサーチャーがリサーチ用のAI分析ツールを作り、人事が面談対策Skillを作っている。「エンジニアに作ってもらう」のではなく、ドメイン知識を持つ人が自分で解決策を実装することができるようになりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "arsl4",
+          "text": "2. 「何を作るか」に全員の意識がシフトした",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 45,
+              "style": "Bold"
+            }
+          ],
+          "key": "78cvj",
+          "text": "49%が「作れること自体に価値がない」と気づいた。「デザインの力で良いものを作る」会社が、全員で「作れるの先にある価値」を考え始めている。これはグッドパッチにとって、ビジネスモデルの再定義に直結する認識変化です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "80kq8",
+          "text": "3. 共通言語と学び合いの文化が生まれた",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a03gc",
+          "text": "「バイブコーディング」「CLAUDE.md」「Skill」「デプロイ」「ハーネスエンジニアリング」。職種を超えた共通言語が1ヶ月で組織に浸透し、esa投稿数はたった1か月で300件に。45%が言語化ボトルネックを体験したことで、「曖昧な指示では良いものが出ない」が共通認識になった。これはAIへの指示だけでなく、クライアントワークの要件定義、チーム内のフィードバック、すべてに波及しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aphfu",
+          "text": "AI時代でも良いモノづくりができる人とは",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60nma",
+          "text": "最後に僕の意見です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8uem8",
+          "text": "今回、グッドパッチの事業部メンバーほぼ全員がClaude Codeでアプリを作ってみた結果、分かったことがあります。デザイナーでも、「ん？」というモノしか出てこない人もいれば、営業でもこれは切り口が良いし、課題を捉えていてアプリもセンスを感じるという人もいました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84c0r",
+          "text": "いくつかの共通点はあると思っていて、3つほど挙げると",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7jcr6",
+          "text": "1. 課題を捉える力が高く、「何を作るべきか」が明確な人\n\nこれは、AI時代関係なくという感じですが、普段からどういう視点で物事を見ているかというのが大事だなと思いました。課題や価値を正しく知覚できている人、課題を解決する方法が解像度高くイメージが湧く人、こういう人は「作れる力」が渡された時に、非常に精度の高いモノが出てきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ega2m",
+          "text": "現状、作る側の職種にいなくても、こういう時に本質的にPdMやデザイナーに向いているなと思える人材が見えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3uvcc",
+          "text": "2. AIのポン出しに満足せず、クオリティに粘れる人\n\nやはり、AIがある程度のクオリティのモノを出して来てしまいますが、そこで満足する人材と、そこから更に粘ってクオリティを上げていける人材に分かれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7glm4",
+          "text": "今後、AIポン出し系のプロダクトが世の中に溢れた時に、人の琴線に触れるモノづくりができる人というのは、他の人より圧倒的にこだわれる、粘れる人だと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "607qj",
+          "text": "1と2はいわゆる審美眼ですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2siad",
+          "text": "3. 選ばれる「自分だけの文脈とストーリー」を持っている人\n\nこれからの時代、AIによって魂の入っていないプロダクトが溢れます。人がモノを選ぶ時に、作った人が人間かどうか、どんな想いやストーリーでそれを作って来たか、歴史や文脈の積み重ねが大事になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agflg",
+          "text": "先日noteに書いた記事で、Claude Codeで誰でもプロダクトを作れる時代の構造が呪術廻戦の死滅回游と似ている、という記事の中に近い話を書いています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 20,
+              "style": "Bold"
+            }
+          ],
+          "key": "6l3bd",
+          "text": "「AIで何でも作れる」は嘘です。正確には「AIで何でも\"動くもの\"は作れるが、価値があるものを作るには、自分だけの文脈が要る」。あなたの業界知識、日々感じている不満、特殊なドメイン経験——それが「術式」です。AIはそれを実装に変換する道具にすぎません。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8nhl8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a013p",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9v56e",
+          "text": "（ここまで読んでくれた人ありがとうございます！）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evufu",
+          "text": "全社員がAIでアプリを作る。言葉にすると簡単ですが、やってみると組織に想像以上の変化が起きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7jvsn",
+          "text": "問われているのは「AIで何ができるか」ではなく、「何を作るか、なぜ作るか」を決められる組織かどうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 34,
+              "style": "Bold"
+            }
+          ],
+          "key": "5phh4",
+          "text": "まだまだ、ここからも大きな変化があると思っていますが、グッドパッチは常に変化の最前線にいようとメンバーに伝えています。今回の施策を実施した事で、今社会で起こっている変化に実感値を持って体験できたと思いますし、危機感も希望も同時に感じたのではないかなと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnkov",
+          "text": "これはClaude Codeを触らないと絶対に分からない感覚なので、これを組織全体に体験してもらったのは良かったです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "54mau",
+          "text": "グッドパッチは今後AIによるエージェンティックな体験設計、Agentic UXの支援をより強化していきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 8,
+              "offset": 48
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9b7ms",
+          "text": "もし、組織へのClaude Code導入やAIを使ったプロダクト開発などを考えている企業があればご相談乗ります。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "3b1acba9-ac17-4738-818a-80081d202cdf",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041759800401522689"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "url": "https://goodpatch.com/contact"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "bb21f459-28b7-4aad-99b1-a97f4d58cb2b",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041760018102681600"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "4c6a0728-31c3-495e-8fb3-437ade2b21a6",
+              "mediaItems": [
+                {
+                  "localMediaId": "12",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041760330410491904"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "tweetId": "2021730479997956553"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "3月頭の全社ミーティングにて。MDは営業。※esaはグッドパッチのナレッジ投稿ツールです。",
+              "entityKey": "b55560c0-c98c-4bda-bc80-494e368358a7",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041758480504328192"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "4月頭の全社会の資料",
+              "entityKey": "d19f001f-cc56-4651-b62a-065844ed2d38",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041759363313102851"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "tweetId": "2040657904391639334"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "caption": "職種ごとの記事数",
+              "entityKey": "e4a52ce5-5d4e-4a85-81dc-73d393040fde",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041759584277426177"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFXKM+qaAAAKAAIAAAAAASBtAgAA",
+        "media_id": "2041760330410491904",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.95,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              }
+            ]
+          },
+          "original_img_height": 398,
+          "original_img_url": "https://pbs.twimg.com/media/HFXKM-qaAAAXGrh.jpg",
+          "original_img_width": 610
+        },
+        "media_key": "3_2041760330410491904"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFXJuIOa8AEKAAIAAAAAASBtAgAA",
+        "media_id": "2041759800401522689",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.96,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              }
+            ]
+          },
+          "original_img_height": 291,
+          "original_img_url": "https://pbs.twimg.com/media/HFXJuIOa8AEknq1.jpg",
+          "original_img_width": 562
+        },
+        "media_key": "3_2041759800401522689"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFXIhTOaEAAKAAIAAAAAASBtAgAA",
+        "media_id": "2041758480504328192",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 95.24,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 4.76,
+                "rgb": {
+                  "blue": 225,
+                  "green": 177,
+                  "red": 122
+                }
+              }
+            ]
+          },
+          "original_img_height": 675,
+          "original_img_url": "https://pbs.twimg.com/media/HFXIhTOaEAA5Ywg.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2041758480504328192"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFXJ6zObAAAKAAIAAAAAASBtAgAA",
+        "media_id": "2041760018102681600",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.9,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              }
+            ]
+          },
+          "original_img_height": 189,
+          "original_img_url": "https://pbs.twimg.com/media/HFXJ6zObAAA3KYw.jpg",
+          "original_img_width": 611
+        },
+        "media_key": "3_2041760018102681600"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFXJhjGa8AEKAAIAAAAAASBtAgAA",
+        "media_id": "2041759584277426177",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 81.19,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 7.07,
+                "rgb": {
+                  "blue": 181,
+                  "green": 75,
+                  "red": 82
+                }
+              },
+              {
+                "percentage": 3.58,
+                "rgb": {
+                  "blue": 88,
+                  "green": 110,
+                  "red": 15
+                }
+              },
+              {
+                "percentage": 1.81,
+                "rgb": {
+                  "blue": 50,
+                  "green": 91,
+                  "red": 217
+                }
+              },
+              {
+                "percentage": 1.4,
+                "rgb": {
+                  "blue": 127,
+                  "green": 83,
+                  "red": 213
+                }
+              }
+            ]
+          },
+          "original_img_height": 722,
+          "original_img_url": "https://pbs.twimg.com/media/HFXJhjGa8AE9KSP.jpg",
+          "original_img_width": 1220
+        },
+        "media_key": "3_2041759584277426177"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFXJUr8a8AMKAAIAAAAAASBtAgAA",
+        "media_id": "2041759363313102851",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.51,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 4.58,
+                "rgb": {
+                  "blue": 197,
+                  "green": 110,
+                  "red": 48
+                }
+              },
+              {
+                "percentage": 1.53,
+                "rgb": {
+                  "blue": 222,
+                  "green": 175,
+                  "red": 141
+                }
+              },
+              {
+                "percentage": 0.9,
+                "rgb": {
+                  "blue": 133,
+                  "green": 133,
+                  "red": 133
+                }
+              },
+              {
+                "percentage": 0.36,
+                "rgb": {
+                  "blue": 219,
+                  "green": 235,
+                  "red": 242
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HFXJUr8a8AMVuEu.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2041759363313102851"
+      }
+    ]
+  }
+}

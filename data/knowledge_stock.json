@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T22:28:33.676Z",
+  "last_updated": "2026-04-09T03:08:48.603Z",
   "items": [
     {
       "id": "k_20260326_001",
@@ -19,9 +19,9 @@
         "X運用",
         "効率化"
       ],
-      "usage_count": 0,
+      "usage_count": 1,
       "max_usage": 5,
-      "last_used_at": null,
+      "last_used_at": "2026-04-09",
       "status": "active",
       "slot_affinity": "morning"
     },
@@ -67,9 +67,9 @@
         "X運用",
         "効率化"
       ],
-      "usage_count": 0,
+      "usage_count": 1,
       "max_usage": 5,
-      "last_used_at": null,
+      "last_used_at": "2026-04-09",
       "status": "active",
       "slot_affinity": "morning"
     },
@@ -91,9 +91,9 @@
         "X運用",
         "効率化"
       ],
-      "usage_count": 0,
+      "usage_count": 1,
       "max_usage": 5,
-      "last_used_at": null,
+      "last_used_at": "2026-04-09",
       "status": "active",
       "slot_affinity": "morning"
     },
@@ -187,7 +187,7 @@
         "価値提案",
         "常識の破壊"
       ],
-      "usage_count": 3,
+      "usage_count": 4,
       "max_usage": 5,
       "last_used_at": "2026-04-09",
       "status": "active",
@@ -329,9 +329,9 @@
         "AI",
         "個人ブランド"
       ],
-      "usage_count": 0,
+      "usage_count": 1,
       "max_usage": 5,
-      "last_used_at": null,
+      "last_used_at": "2026-04-09",
       "status": "active",
       "slot_affinity": "both"
     },
@@ -352,9 +352,9 @@
         "AI",
         "個人ブランド"
       ],
-      "usage_count": 0,
+      "usage_count": 1,
       "max_usage": 5,
-      "last_used_at": null,
+      "last_used_at": "2026-04-09",
       "status": "active",
       "slot_affinity": "both"
     },
@@ -400,9 +400,9 @@
         "効率化",
         "戦略"
       ],
-      "usage_count": 2,
+      "usage_count": 3,
       "max_usage": 5,
-      "last_used_at": "2026-04-07",
+      "last_used_at": "2026-04-09",
       "status": "active",
       "slot_affinity": "morning"
     },
@@ -472,9 +472,9 @@
         "効率化",
         "戦略"
       ],
-      "usage_count": 0,
+      "usage_count": 1,
       "max_usage": 5,
-      "last_used_at": null,
+      "last_used_at": "2026-04-09",
       "status": "active",
       "slot_affinity": "morning"
     },
@@ -880,9 +880,9 @@
         "自己成長",
         "行動力"
       ],
-      "usage_count": 0,
+      "usage_count": 1,
       "max_usage": 5,
-      "last_used_at": null,
+      "last_used_at": "2026-04-09",
       "status": "active",
       "slot_affinity": "evening"
     },
@@ -1048,9 +1048,9 @@
         "自己成長",
         "行動力"
       ],
-      "usage_count": 0,
+      "usage_count": 1,
       "max_usage": 5,
-      "last_used_at": null,
+      "last_used_at": "2026-04-09",
       "status": "active",
       "slot_affinity": "evening"
     },
