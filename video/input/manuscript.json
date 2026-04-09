@@ -1,0 +1,55 @@
+{
+  "title": "Claude Codeの真の実力！並列実行で作業効率を爆上げする方法",
+  "scenes": [
+    {
+      "id": 1,
+      "imagePrompt": "flat illustration style, infographic layout, visual explanation, A single computer screen with one small, limited task icon vs. a larger, more complex network of interconnected task icons, representing untapped potential. Emphasize a clear contrast between limited use and vast possibilities. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
+      "narration": "もしClaude Codeを一つのセッションだけで使っているなら、もしかしてそのツールの半分も使いこなせてないかも？せっかくのすごい機能、もったいないですよね！",
+      "durationSec": 10
+    },
+    {
+      "id": 2,
+      "imagePrompt": "flat illustration style, infographic layout, diagram, visual explanation, A split screen or comparison layout. On one side, a single person working on one computer with one task. On the other side, a person surrounded by multiple computer screens, each showing a different but connected task, indicating parallel work. A large \"x3-x4\" multiplier icon visually suggests increased productivity. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
+      "narration": "実は、Claude Codeの作者さんは、いつも10〜15個ものセッションを同時に動かしているんです！これだけで生産性が3〜4倍もアップするって言ってます。",
+      "durationSec": 11
+    },
+    {
+      "id": 3,
+      "imagePrompt": "flat illustration style, concept diagram, visual explanation, A central thought bubble or lightbulb icon labeled \"Concept\" with multiple arrows pointing to various successful outcomes (represented by checkmarks or upward trends). In contrast, a smaller, less impactful icon labeled \"Feature\" with fewer, weaker arrows. The \"Concept\" icon is visually more prominent and central. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
+      "narration": "ここで大事なのが、機能を知っているかどうかじゃなくて、『どう使うか』という考え方なんです。つまり、並行して作業するコンセプトで使うかどうかが、生産性の大きな分かれ道になるってこと！",
+      "durationSec": 13
+    },
+    {
+      "id": 4,
+      "imagePrompt": "flat illustration style, workflow diagram, visual explanation, A clear process diagram showing multiple distinct agent icons (e.g., a magnifying glass for researcher, a notepad for planner, a pen for writer, an editor's symbol) all working simultaneously and feeding into a central \"X post\" icon. Arrows indicate parallel processing. A clock icon with \"zero\" inside it emphasizes time saving. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
+      "narration": "僕も、Xの投稿を自動で作る仕組みでこの考え方を使っています。リサーチャー、プランナー、ライター、エディターの4人が同時に動くイメージで、投稿について考える時間はほぼゼロに！",
+      "durationSec": 12
+    },
+    {
+      "id": 5,
+      "imagePrompt": "flat illustration style, step-by-step diagram, visual explanation, A clear, sequential infographic showing 5 distinct, numbered steps leading to a positive outcome (e.g., a rocket launch or a rapidly growing plant). Each step is represented by a simple icon. The overall layout emphasizes a progression. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
+      "narration": "じゃあ、今日からすぐに始められる『並列実行』の5つのステップを見ていきましょう！この使い方をマスターすれば、あなたの作業効率も劇的に変わるはずです。",
+      "durationSec": 11
+    },
+    {
+      "id": 6,
+      "imagePrompt": "flat illustration style, flowchart, visual explanation, A three-panel infographic or a horizontal flow diagram. Panel 1: A tree branch icon splitting off from a main trunk (git worktree). Panel 2: Multiple distinct terminal window icons appearing side-by-side. Panel 3: Each terminal window icon connected to a unique task icon (e.g., a test tube for testing, a gear for implementation, a scroll for documentation). Arrows show progression. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
+      "narration": "まずステップ1は『git worktreeで作業ブランチを作る』。次にステップ2は『複数のClaude Codeセッションを起動』。そしてステップ3は『各セッションに独立したタスクを割り当てる』です。それぞれが別の作業を進めるイメージですね。",
+      "durationSec": 14
+    },
+    {
+      "id": 7,
+      "imagePrompt": "flat illustration style, flowchart, visual explanation, A two-panel infographic or a continuation of the horizontal flow diagram. Panel 1: Multiple task branches merging back into a main trunk icon (representing merging results). Panel 2: A progression of increasing numbers of parallel worker icons (e.g., starting with 2, then 3, then up to 7), showing gradual expansion. Arrows indicate progression. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
+      "narration": "ステップ4は『結果をメインブランチにマージする』。そしてステップ5は『最大7並列まで段階的に拡張』です。最初は2〜3並列から試して、慣れてきたら増やしていきましょう！",
+      "durationSec": 12
+    },
+    {
+      "id": 8,
+      "imagePrompt": "flat illustration style, conceptual diagram, visual explanation, A thought bubble or brain icon at the center, with an arrow pointing from \"old mindset\" (represented by a single, narrow path icon) to \"new mindset\" (represented by multiple, parallel, interconnected paths leading to a powerful tool icon, like a glowing sword or a powerful engine). Emphasize transformation. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
+      "narration": "使いこなせてないと感じていた方も、それはツールのせいじゃなく、もしかしたら『考え方』のせいかもしれません。並列実行というコンセプト一つで、同じツールが強力な武器に変わりますよ！ぜひ試してみてくださいね。",
+      "durationSec": 13
+    }
+  ],
+  "bgm": "background",
+  "artStyle": "flat illustration"
+}

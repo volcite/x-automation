@@ -18,39 +18,70 @@ async function generateImage(
 ): Promise<void> {
   const fullPrompt = `Generate an image in ${artStyle} style. The image should be in 1280x720 landscape format, high quality, detailed. Maintain consistent ${artStyle} style throughout. IMPORTANT: Do NOT include any text, letters, numbers, words, labels, or captions in the image. Express all concepts purely through illustrations, icons, shapes, arrows, and colors only:\n\n${prompt}`;
 
-  const response = await fetch(GEMINI_IMAGE_URL, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: fullPrompt }] }],
-      generationConfig: {
-        responseModalities: ["IMAGE", "TEXT"],
-        imageGenerationConfig: {
-          aspectRatio: "16:9",
-        },
-      },
-    }),
-  });
+  const MAX_ATTEMPTS = 3;
+  let lastError: unknown = null;
 
-  if (!response.ok) {
-    const errorText = await response.text();
-    throw new Error(`Gemini Image API error: ${response.status} ${errorText}`);
-  }
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      const response = await fetch(GEMINI_IMAGE_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: fullPrompt }] }],
+          generationConfig: {
+            responseModalities: ["IMAGE", "TEXT"],
+            imageConfig: {
+              aspectRatio: "16:9",
+            },
+          },
+        }),
+      });
 
-  const data = await response.json();
-  const parts = data.candidates[0].content.parts;
+      if (!response.ok) {
+        const errorText = await response.text();
+        throw new Error(
+          `Gemini Image API error: ${response.status} ${errorText}`,
+        );
+      }
 
-  for (const part of parts) {
-    if (part.inlineData) {
-      const imageBuffer = Buffer.from(part.inlineData.data, "base64");
-      fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-      fs.writeFileSync(outputPath, imageBuffer);
-      console.log(`  Saved: ${outputPath}`);
-      return;
+      const data = await response.json();
+      const parts = data?.candidates?.[0]?.content?.parts ?? [];
+
+      for (const part of parts) {
+        if (part.inlineData) {
+          const imageBuffer = Buffer.from(part.inlineData.data, "base64");
+          fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+          fs.writeFileSync(outputPath, imageBuffer);
+          console.log(`  Saved: ${outputPath}`);
+          return;
+        }
+      }
+
+      // No inlineData found — Gemini sometimes returns only text parts.
+      const textParts = parts
+        .map((p: { text?: string }) => p.text)
+        .filter(Boolean)
+        .join(" ")
+        .slice(0, 200);
+      throw new Error(
+        `No image data in response${textParts ? ` (text: ${textParts})` : ""}`,
+      );
+    } catch (err) {
+      lastError = err;
+      const message = err instanceof Error ? err.message : String(err);
+      if (attempt < MAX_ATTEMPTS) {
+        const waitMs = 3000 * attempt;
+        console.log(
+          `  Attempt ${attempt}/${MAX_ATTEMPTS} failed: ${message}. Retrying in ${waitMs}ms...`,
+        );
+        await new Promise((r) => setTimeout(r, waitMs));
+      }
     }
   }
 
-  throw new Error("No image data in response");
+  throw lastError instanceof Error
+    ? lastError
+    : new Error("Image generation failed after retries");
 }
 
 async function generateAllImages(manuscriptPath: string): Promise<void> {
