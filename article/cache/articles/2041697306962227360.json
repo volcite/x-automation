@@ -1,0 +1,303 @@
+{
+  "tweet_created_at": "2026-04-08T01:59:05.000000Z",
+  "id": 2041697306962227500,
+  "id_str": "2041697306962227360",
+  "type": "tweet",
+  "conversation_id_str": "2041697306962227360",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/QYzcBA6Eyj",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1091293286520709100,
+    "id_str": "1091293286520709121",
+    "name": "芝山さゆり＠夢を叶えて未来をつくる",
+    "screen_name": "StellaSayuri",
+    "location": "",
+    "url": "https://wellnesthome.jp/",
+    "description": "㍿WELLNEST HOME取締役会長｜起業を志している方へ夢の見つけ方や叶えるヒントを発信｜人間関係のコツ｜仕事術｜メンタルケア｜生き方｜一度きりの人生、夢は見るものではなく叶えるもの",
+    "protected": false,
+    "verified": true,
+    "followers_count": 8015,
+    "friends_count": 208,
+    "listed_count": 62,
+    "favourites_count": 102168,
+    "statuses_count": 27232,
+    "created_at": "2019-02-01T11:12:49.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1091293286520709121/1711935560",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1815195768069988352/VDwL9pBq_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 82,
+  "reply_count": 1,
+  "retweet_count": 137,
+  "favorite_count": 1070,
+  "views_count": 3620473,
+  "bookmark_count": 1377,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041308135479291904",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/QYzcBA6Eyj"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-08T01:59:05.000000Z",
+    "id": 2041697306962227500,
+    "id_str": "2041697306962227360",
+    "title": "職場で同じミスを繰り返す人を見てきてわかった共通点",
+    "preview_text": "経営していて感じるのは、職場でミスを繰り返す人には共通点があるということ。\n\n職場でミスを繰り返す人の特徴を言語化すると…\n\n・返事だけは元気",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bead2",
+          "text": "経営していて感じるのは、職場でミスを繰り返す人には共通点があるということ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "22mfq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5t7ar",
+          "text": "職場でミスを繰り返す人の特徴を言語化すると…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35oou",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bsns0",
+          "text": "・返事だけは元気",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4c7nh",
+          "text": "指示を出したり、アドバイスをしたりすると返事だけはめちゃくちゃ元気なのに、実はなにも聞いていなくて、ただ脊髄反射的に声を出しているだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1nhko",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6g1bu",
+          "text": "・記憶を信用し過ぎてる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bire8",
+          "text": "言われたことをメモをしないで、他のことに手をつけてしまい忘れてしまう。そして、再度言われてやっと取り掛かる。これを毎回繰り返す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar89m",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "433oe",
+          "text": "・その場しのぎ癖がある",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3p8g7",
+          "text": "その場を切り抜けるためだけに適当なことを言って、結局なにも理解していないから同じミスを繰り返してしまう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bluuj",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmtkd",
+          "text": "・ミスした原因を理解してない",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fe9du",
+          "text": "ミスをしたことはわかるのに、なんでそのミスをしたのかを自分で考えないから、答えもわからず対策も出来ないを繰り返してしまう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpe8q",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8be5b",
+          "text": "・優先順位がわかってない",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e0brh",
+          "text": "とりあえず目についたものから手をつけてしまうから、大切なことを後回しにしてしまう。大切なことほど面倒なので、後回しにしやすいことにも気づいていない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1o0dj",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3oj4",
+          "text": "・うっすら他人のせいにする",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ej4vn",
+          "text": "露骨な責任のなすりつけまではしなくても、心の中では「自分は悪くない」と思っている。自責思考じゃない人は、改善しようとしないので、同じミスを繰り返す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12qo2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "k380",
+          "text": "なによりも自分のことを理解してない人は、ミスを繰り返すし、成長もしない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "22q6r",
+          "text": "自分を客観的に見る意識を持つことは大切です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5q75u",
+          "text": "==========================",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7dgbb",
+          "text": "経営していて感じた気づきや学びを発信しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjfuu",
+          "text": "良かったらフォローよろしくお願いします！",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

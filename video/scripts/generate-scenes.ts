@@ -96,7 +96,23 @@ async function generateScenes(
 
   const data = await response.json();
   const jsonText = data.candidates[0].content.parts[0].text;
-  const manuscript = JSON.parse(jsonText);
+
+  // Gemini may return invalid JSON — attempt to repair common issues
+  let manuscript: Record<string, unknown>;
+  try {
+    manuscript = JSON.parse(jsonText);
+  } catch {
+    // Strip markdown fences, trailing commas, and control characters
+    const cleaned = jsonText
+      .replace(/```json\s*/g, "")
+      .replace(/```\s*/g, "")
+      .replace(/,\s*([}\]])/g, "$1")
+      .replace(/[\x00-\x1F\x7F]/g, (c: string) =>
+        c === "\n" || c === "\t" ? c : "",
+      )
+      .trim();
+    manuscript = JSON.parse(cleaned);
+  }
 
   // Validate structure
   if (!manuscript.title || !Array.isArray(manuscript.scenes)) {

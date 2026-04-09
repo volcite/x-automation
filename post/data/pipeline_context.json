@@ -1,5 +1,1 @@
-{
-  "slot": "morning",
-  "post_time": "08:00",
-  "weekly_planning": true
-}
+{"slot": "morning", "post_time": "08:00", "weekly_planning": false}

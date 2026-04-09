@@ -1,0 +1,441 @@
+{
+  "tweet_created_at": "2026-04-08T14:12:24.000000Z",
+  "id": 2041881850998608100,
+  "id_str": "2041881850998608158",
+  "type": "tweet",
+  "conversation_id_str": "2041881850998608158",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/7Gn9bK6u6Z",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1590400676076601300,
+    "id_str": "1590400676076601350",
+    "name": "Xkalty",
+    "screen_name": "RegenaMcneill",
+    "location": "Los Angeles",
+    "url": "http://xkalty.com",
+    "description": "Cosplayer @xkalty_ 💌🛸\nMore me: http://xkalty.com 💘",
+    "protected": false,
+    "verified": true,
+    "followers_count": 293632,
+    "friends_count": 23,
+    "listed_count": 426,
+    "favourites_count": 1373,
+    "statuses_count": 1830,
+    "created_at": "2022-11-09T17:47:34.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590400676076601350/1768437761",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1878483492432146432/9cVerqxg_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 0,
+  "reply_count": 83,
+  "retweet_count": 24,
+  "favorite_count": 1386,
+  "views_count": 1301981,
+  "bookmark_count": 1244,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041880573929521153",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/7Gn9bK6u6Z"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-08T14:12:24.000000Z",
+    "id": 2041881850998608100,
+    "id_str": "2041881850998608158",
+    "title": "DON'T OPEN ⛔",
+    "preview_text": "One Piece… found",
+    "cover_url": "https://pbs.twimg.com/media/HFY3qScW0AAhoRX.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5ddgp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1ksh8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ak3vr",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4edeh",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2blq9",
+          "text": "One Piece… found",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "52ed42b3-72f9-445e-b2b6-c2b1274c3782",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041881413201387520"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "9973ed05-fee7-4762-9262-20407ddfa1a6",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041881451608862724"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "adecd0b7-e7d3-4461-9ac1-d1a1dc57ad34",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041881491584774147"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "be0a21db-d06c-4d98-98d2-157d3eeb2a19",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041881523901886467"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFY4U7NXYAAKAAIWEjz9FBZABgAA",
+        "media_id": "2041881413201387520",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 27.48,
+                "rgb": {
+                  "blue": 173,
+                  "green": 175,
+                  "red": 185
+                }
+              },
+              {
+                "percentage": 26.77,
+                "rgb": {
+                  "blue": 95,
+                  "green": 102,
+                  "red": 118
+                }
+              },
+              {
+                "percentage": 21.6,
+                "rgb": {
+                  "blue": 144,
+                  "green": 143,
+                  "red": 218
+                }
+              },
+              {
+                "percentage": 5.32,
+                "rgb": {
+                  "blue": 43,
+                  "green": 82,
+                  "red": 137
+                }
+              },
+              {
+                "percentage": 5.15,
+                "rgb": {
+                  "blue": 25,
+                  "green": 28,
+                  "red": 47
+                }
+              }
+            ]
+          },
+          "original_img_height": 1376,
+          "original_img_url": "https://pbs.twimg.com/media/HFY4U7NXYAAd9x2.jpg",
+          "original_img_width": 3072
+        },
+        "media_key": "3_2041881413201387520"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFY4XKSa8AQKAAIWEjz9FBZABgAA",
+        "media_id": "2041881451608862724",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 33.22,
+                "rgb": {
+                  "blue": 28,
+                  "green": 28,
+                  "red": 38
+                }
+              },
+              {
+                "percentage": 18.04,
+                "rgb": {
+                  "blue": 107,
+                  "green": 131,
+                  "red": 193
+                }
+              },
+              {
+                "percentage": 10.69,
+                "rgb": {
+                  "blue": 83,
+                  "green": 69,
+                  "red": 206
+                }
+              },
+              {
+                "percentage": 8.16,
+                "rgb": {
+                  "blue": 52,
+                  "green": 72,
+                  "red": 120
+                }
+              },
+              {
+                "percentage": 5.52,
+                "rgb": {
+                  "blue": 60,
+                  "green": 33,
+                  "red": 27
+                }
+              }
+            ]
+          },
+          "original_img_height": 1376,
+          "original_img_url": "https://pbs.twimg.com/media/HFY4XKSa8AQgtin.jpg",
+          "original_img_width": 3072
+        },
+        "media_key": "3_2041881451608862724"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFY4ZfNa8AMKAAIWEjz9FBZABgAA",
+        "media_id": "2041881491584774147",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 30.52,
+                "rgb": {
+                  "blue": 147,
+                  "green": 176,
+                  "red": 238
+                }
+              },
+              {
+                "percentage": 24.79,
+                "rgb": {
+                  "blue": 96,
+                  "green": 53,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 12.75,
+                "rgb": {
+                  "blue": 36,
+                  "green": 28,
+                  "red": 38
+                }
+              },
+              {
+                "percentage": 7.5,
+                "rgb": {
+                  "blue": 52,
+                  "green": 73,
+                  "red": 118
+                }
+              },
+              {
+                "percentage": 6.51,
+                "rgb": {
+                  "blue": 215,
+                  "green": 207,
+                  "red": 196
+                }
+              }
+            ]
+          },
+          "original_img_height": 1287,
+          "original_img_url": "https://pbs.twimg.com/media/HFY4ZfNa8AM8hDJ.jpg",
+          "original_img_width": 2873
+        },
+        "media_key": "3_2041881491584774147"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFY4bXma8AMKAAIWEjz9FBZABgAA",
+        "media_id": "2041881523901886467",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 53.37,
+                "rgb": {
+                  "blue": 97,
+                  "green": 112,
+                  "red": 183
+                }
+              },
+              {
+                "percentage": 17.93,
+                "rgb": {
+                  "blue": 72,
+                  "green": 42,
+                  "red": 47
+                }
+              },
+              {
+                "percentage": 7.5,
+                "rgb": {
+                  "blue": 45,
+                  "green": 49,
+                  "red": 91
+                }
+              },
+              {
+                "percentage": 5.54,
+                "rgb": {
+                  "blue": 153,
+                  "green": 168,
+                  "red": 236
+                }
+              },
+              {
+                "percentage": 4.61,
+                "rgb": {
+                  "blue": 146,
+                  "green": 162,
+                  "red": 178
+                }
+              }
+            ]
+          },
+          "original_img_height": 1376,
+          "original_img_url": "https://pbs.twimg.com/media/HFY4bXma8AMqeVg.jpg",
+          "original_img_width": 3072
+        },
+        "media_key": "3_2041881523901886467"
+      }
+    ]
+  }
+}

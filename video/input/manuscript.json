@@ -1,53 +1,47 @@
 {
-  "title": "Claude Codeの真の実力！並列実行で作業効率を爆上げする方法",
+  "title": "最強AIが使えない！？Anthropicの衝撃的な決断",
   "scenes": [
     {
       "id": 1,
-      "imagePrompt": "flat illustration style, infographic layout, visual explanation, A single computer screen with one small, limited task icon vs. a larger, more complex network of interconnected task icons, representing untapped potential. Emphasize a clear contrast between limited use and vast possibilities. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
-      "narration": "もしClaude Codeを一つのセッションだけで使っているなら、もしかしてそのツールの半分も使いこなせてないかも？せっかくのすごい機能、もったいないですよね！",
-      "durationSec": 10
+      "imagePrompt": "flat illustration style, infographic layout, a powerful glowing AI brain icon with a large red 'X' mark over it, symbolizing restricted access or unavailability for general use. In the background, a subtle question mark. purely visual, no text, no labels, no letters, no numbers, no words, no captions. Leave the bottom 20% of the frame clear or simple (no important elements).",
+      "narration": "最強のAIモデルが生まれたのに、なぜか私たちは使えないんです。これ、冗談じゃないんですよ！",
+      "durationSec": 5
     },
     {
       "id": 2,
-      "imagePrompt": "flat illustration style, infographic layout, diagram, visual explanation, A split screen or comparison layout. On one side, a single person working on one computer with one task. On the other side, a person surrounded by multiple computer screens, each showing a different but connected task, indicating parallel work. A large \"x3-x4\" multiplier icon visually suggests increased productivity. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
-      "narration": "実は、Claude Codeの作者さんは、いつも10〜15個ものセッションを同時に動かしているんです！これだけで生産性が3〜4倍もアップするって言ってます。",
-      "durationSec": 11
+      "imagePrompt": "flat illustration style, visual explanation, a diagram showing a robot or AI character proudly pointing at a series of high score percentages displayed on a scoreboard or bar chart. The numbers are represented by abstract shapes or color blocks, not actual digits. Tasks like 'SWE-bench' are represented by icons (e.g., a gear for engineering). purely visual, no text, no labels, no letters, no numbers, no words, no captions. Leave the bottom 20% of the frame clear or simple (no important elements).",
+      "narration": "Anthropicが発表したAIモデルは、テストで驚異的なスコアを出しました。プログラミングの問題も9割以上解けるって、もうすごすぎます！",
+      "durationSec": 6
     },
     {
       "id": 3,
-      "imagePrompt": "flat illustration style, concept diagram, visual explanation, A central thought bubble or lightbulb icon labeled \"Concept\" with multiple arrows pointing to various successful outcomes (represented by checkmarks or upward trends). In contrast, a smaller, less impactful icon labeled \"Feature\" with fewer, weaker arrows. The \"Concept\" icon is visually more prominent and central. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
-      "narration": "ここで大事なのが、機能を知っているかどうかじゃなくて、『どう使うか』という考え方なんです。つまり、並行して作業するコンセプトで使うかどうかが、生産性の大きな分かれ道になるってこと！",
-      "durationSec": 13
+      "imagePrompt": "flat illustration style, concept diagram, a complex digital lock or firewall being probed by a small, agile AI icon, discovering a hidden, glowing vulnerability or crack. A large warning sign or skull icon hovers nearby. purely visual, no text, no labels, no letters, no numbers, no words, no captions. Leave the bottom 20% of the frame clear or simple (no important elements).",
+      "narration": "こんなすごいAIが、なぜ公開されないんでしょう？なんと、AIが自分でシステムの弱点を見つけて、悪いことに使えちゃう能力があるからなんです。",
+      "durationSec": 7
     },
     {
       "id": 4,
-      "imagePrompt": "flat illustration style, workflow diagram, visual explanation, A clear process diagram showing multiple distinct agent icons (e.g., a magnifying glass for researcher, a notepad for planner, a pen for writer, an editor's symbol) all working simultaneously and feeding into a central \"X post\" icon. Arrows indicate parallel processing. A clock icon with \"zero\" inside it emphasizes time saving. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
-      "narration": "僕も、Xの投稿を自動で作る仕組みでこの考え方を使っています。リサーチャー、プランナー、ライター、エディターの4人が同時に動くイメージで、投稿について考える時間はほぼゼロに！",
-      "durationSec": 12
+      "imagePrompt": "flat illustration style, visual explanation, a shield icon protecting a central AI core. Around the shield, several corporate logos (represented by abstract, distinct shapes or colors) are positioned, indicating limited, authorized access. An arrow points from the AI core to the shield, emphasizing defensive use. purely visual, no text, no labels, no letters, no numbers, no words, no captions. Leave the bottom 20% of the frame clear or simple (no important elements).",
+      "narration": "だからAnthropicは、このAIをサイバー攻撃から守るためだけに、限られた大企業にだけ使わせる特別なプロジェクトを始めたんです。",
+      "durationSec": 7
     },
     {
       "id": 5,
-      "imagePrompt": "flat illustration style, step-by-step diagram, visual explanation, A clear, sequential infographic showing 5 distinct, numbered steps leading to a positive outcome (e.g., a rocket launch or a rapidly growing plant). Each step is represented by a simple icon. The overall layout emphasizes a progression. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
-      "narration": "じゃあ、今日からすぐに始められる『並列実行』の5つのステップを見ていきましょう！この使い方をマスターすれば、あなたの作業効率も劇的に変わるはずです。",
-      "durationSec": 11
+      "imagePrompt": "flat illustration style, infographic layout, a balanced scale with abstract shapes representing 'positive outcomes' on one side and 'negative risks' on the other. The 'negative risks' side is significantly heavier, tipping the scale, illustrating that avoiding harm is more crucial than pursuing benefits. purely visual, no text, no labels, no letters, no numbers, no words, no captions. Leave the bottom 20% of the frame clear or simple (no important elements).",
+      "narration": "ここで大事なのは、「すごい技術を見せびらかす」よりも「危険なことを避ける」という考え方。もし悪用されたら、取り返しのつかない大問題になっちゃいますからね。",
+      "durationSec": 8
     },
     {
       "id": 6,
-      "imagePrompt": "flat illustration style, flowchart, visual explanation, A three-panel infographic or a horizontal flow diagram. Panel 1: A tree branch icon splitting off from a main trunk (git worktree). Panel 2: Multiple distinct terminal window icons appearing side-by-side. Panel 3: Each terminal window icon connected to a unique task icon (e.g., a test tube for testing, a gear for implementation, a scroll for documentation). Arrows show progression. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
-      "narration": "まずステップ1は『git worktreeで作業ブランチを作る』。次にステップ2は『複数のClaude Codeセッションを起動』。そしてステップ3は『各セッションに独立したタスクを割り当てる』です。それぞれが別の作業を進めるイメージですね。",
-      "durationSec": 14
+      "imagePrompt": "flat illustration style, concept diagram, a winding road or path leading into the distance, symbolizing long-term strategy. One path is smooth and steady, labeled 'Trust,' while another path shows a rapid ascent followed by a sharp drop, labeled 'Technology.' A broken bridge or gap on the 'Technology' path. purely visual, no text, no labels, no letters, no numbers, no words, no captions. Leave the bottom 20% of the frame clear or simple (no important elements).",
+      "narration": "技術はいつか追いつかれるけど、「信頼」は一度失ったらなかなか戻りません。Anthropicは、そのことをよく理解しているんですね。",
+      "durationSec": 7
     },
     {
       "id": 7,
-      "imagePrompt": "flat illustration style, flowchart, visual explanation, A two-panel infographic or a continuation of the horizontal flow diagram. Panel 1: Multiple task branches merging back into a main trunk icon (representing merging results). Panel 2: A progression of increasing numbers of parallel worker icons (e.g., starting with 2, then 3, then up to 7), showing gradual expansion. Arrows indicate progression. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
-      "narration": "ステップ4は『結果をメインブランチにマージする』。そしてステップ5は『最大7並列まで段階的に拡張』です。最初は2〜3並列から試して、慣れてきたら増やしていきましょう！",
-      "durationSec": 12
-    },
-    {
-      "id": 8,
-      "imagePrompt": "flat illustration style, conceptual diagram, visual explanation, A thought bubble or brain icon at the center, with an arrow pointing from \"old mindset\" (represented by a single, narrow path icon) to \"new mindset\" (represented by multiple, parallel, interconnected paths leading to a powerful tool icon, like a glowing sword or a powerful engine). Emphasize transformation. Leave the bottom 20% of the frame clear or simple (no important elements). no text, no labels, no letters, no numbers, no words, no captions, purely visual.",
-      "narration": "使いこなせてないと感じていた方も、それはツールのせいじゃなく、もしかしたら『考え方』のせいかもしれません。並列実行というコンセプト一つで、同じツールが強力な武器に変わりますよ！ぜひ試してみてくださいね。",
-      "durationSec": 13
+      "imagePrompt": "flat illustration style, visual explanation, an AI robot figure standing confidently behind a sturdy 'Safety First' barrier or a 'No Entry' sign for dangerous elements. In the background, a bright, evolving technology roadmap with a clear path forward. purely visual, no text, no labels, no letters, no numbers, no words, no captions. Leave the bottom 20% of the frame clear or simple (no important elements).",
+      "narration": "最強のAIを使うのは楽しみですが、「出してはいけない」と判断できる会社のAIを使っていることに、私たちも安心できますよね。",
+      "durationSec": 7
     }
   ],
   "bgm": "background",
