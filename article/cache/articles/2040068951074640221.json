@@ -1,0 +1,737 @@
+{
+  "tweet_created_at": "2026-04-03T14:08:35.000000Z",
+  "id": 2040068951074640100,
+  "id_str": "2040068951074640221",
+  "type": "tweet",
+  "conversation_id_str": "2040068951074640221",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/IpwRozDAOK",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 998380790,
+    "id_str": "998380790",
+    "name": "Simón Levy",
+    "screen_name": "SimonLevyMx",
+    "location": "",
+    "url": "http://linktr.ee/Slevymx",
+    "description": "Manager of Community Engagement and Outreach @RiskCentre and @UN Future Forum. YGL @WEF 2013. Board AI 2030. ✍🏻 @CrecerSinDeuda La @EraMicroglobal 2.0 🪬",
+    "protected": false,
+    "verified": true,
+    "followers_count": 336817,
+    "friends_count": 180,
+    "listed_count": 680,
+    "favourites_count": 199963,
+    "statuses_count": 135163,
+    "created_at": "2012-12-09T01:56:15.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/998380790/1725403710",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2026792855373754369/bNr4yIBR_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 16,
+  "reply_count": 33,
+  "retweet_count": 598,
+  "favorite_count": 1068,
+  "views_count": 52154,
+  "bookmark_count": 38,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040065590203953152",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/IpwRozDAOK"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T14:08:35.000000Z",
+    "id": 2040068951074640100,
+    "id_str": "2040068951074640221",
+    "title": "REMESASGATE: CÓMO USÓ AMLO A LOS POBRES PARA SERVIRLE AL NARCO.",
+    "preview_text": "Hay decisiones de Estado que no parecen peligrosas cuando se toman. Se presentan como políticas sociales, como inclusión financiera, como protección al migrante. \nLlevan nombres amables. \nTienen",
+    "cover_url": "https://pbs.twimg.com/media/HE_E6E5aMAA0kTn.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bodoh",
+          "text": "Hay decisiones de Estado que no parecen peligrosas cuando se toman. Se presentan como políticas sociales, como inclusión financiera, como protección al migrante. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aasl3",
+          "text": "Llevan nombres amables. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "anjgv",
+          "text": "Tienen logotipos con colores de la bandera. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cj4h7",
+          "text": "Las firman funcionarios que hablan de los pobres con una ternura que desarma. Y sin embargo, cuando se miran en conjunto, cuando se traza la línea que las une, lo que aparece no es un programa de gobierno. Es una arquitectura de control. Fría, deliberada, total.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "12a1d",
+          "text": "Eso es RemesasGate. \n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dpjcj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ejr3m",
+          "text": "No es un escándalo de corrupción convencional donde alguien robó dinero. \n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56o64",
+          "text": "Es algo más sofisticado y más perturbador: es el diseño sistemático de un mecanismo donde la dependencia económica de millones de familias mexicanas fue convertida en dependencia política, y donde el flujo de dinero más importante del país, 63 mil 300 millones de dólares al año, fue capturado por el aparato del partido en el poder.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 149,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7ormh",
+          "text": "Esta investigación fue presentada formalmente ante el Departamento del Tesoro de los Estados Unidos, ante FinCEN y ante el Departamento de Justicia. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4435s",
+          "text": "No es opinión. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "feeng",
+          "text": "No es especulación. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5kql4",
+          "text": "Es seguimiento documentado con trazabilidad financiera y datos on-chain verificados por herramientas como Chainalysis y Elliptic.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5cgnp",
+          "text": "I. EL SISTEMA QUE NADIE QUISO NOMBRAR",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "alq2q",
+          "text": "López Obrador llegó al poder con una promesa que nadie discutía: atender a los olvidados. Y en efecto, construyó algo. 2 millones de promotores del Bienestar en cada colonia del país. 22 millones de familias dependientes. 500 mil millones de pesos de presupuesto anual. 2,802 sucursales del Banco del Bienestar, más que cualquier banco privado en la historia de México.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "afga",
+          "text": "Pero la pregunta que esta investigación se hizo, la que ningún análisis oficial se atrevió a formular, no es si llegó. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3rc8n",
+          "text": "La pregunta es: a cambio de qué.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 219,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2tlm4",
+          "text": "Cuando 22 millones de familias reciben al menos un programa del Estado y 2 millones de promotores pagados saben exactamente quién recibe qué en qué municipio, lo que se ha construido no es una red de protección social. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "co4ih",
+          "text": "Es la infraestructura de control político más sofisticada levantada en México desde que el PRI controlaba el voto con credenciales del sindicato. \n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cf7gq",
+          "text": "La diferencia es que el PRI necesitaba el empleo público para amarrar al ciudadano. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "al26m",
+          "text": "López Obrador encontró algo más eficiente: la pobreza misma. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ngi6",
+          "text": "Cuando una familia depende del Bienestar para comer, votar diferente no es un riesgo político. Es un riesgo existencial.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "etl8i",
+          "text": "II. EL GOLPE MAESTRO: FINABIEN Y EL IMPUESTO DE TRUMP",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 301,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 301,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "en6nf",
+          "text": "El hallazgo central: cuando el impuesto de Trump entró en vigor, Morena ya tenía el canal exento listo y operando. FINABIEN, la Financiera para el Bienestar, es un canal digital de remesas distribuido desde los consulados mexicanos en Miami, Chicago y Los Ángeles, antes de que el impuesto existiera. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ej8cv",
+          "text": "No fue una reacción. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2sk4",
+          "text": "Fue una anticipación.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2dt9r",
+          "text": "Western Union paga el 1%. MoneyGram paga el 1%. El canal de Morena no paga nada. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "comli",
+          "text": "La arquitectura del impuesto americano fue cabildada por el gobierno de Sheinbaum en Washington para proteger exactamente ese canal. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bmdc2",
+          "text": "Trump pensó que atacaba a México. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 95,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fmp0g",
+          "text": "En la práctica Morena creó una ventaja competitiva sobre el flujo de dinero más grande del país.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vf8q",
+          "text": "Y con cada familia que adoptó FINABIEN, el gobierno obtuvo algo que vale más que cualquier comisión: los datos. \nCuánto recibe esta familia. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8csvm",
+          "text": "De qué estado viene el dinero. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1736b",
+          "text": "Qué tan dependiente es ese hogar. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0tjk",
+          "text": "Esa es inteligencia política en manos del partido que controla el Estado.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eupu5",
+          "text": "III. EL EFECTO CUCARACHA",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "df0dp",
+          "text": "Las cucarachas no mueren cuando enciendes la luz. Se van adonde no puedes verlas. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eul7o",
+          "text": "Las familias que no pudieron o no quisieron usar FINABIEN cayeron en los canales oscuros: USDT sobre red TRON a menos de un centavo por transacción, Bitcoin por Lightning Network, Binance P2P donde la operación crypto se disfraza de transferencia bancaria ordinaria, redes de couriers en efectivo sin registro.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dfji2",
+          "text": "El seguimiento on-chain de esta investigación muestra la consecuencia más grave: el dinero del migrante y el dinero del cártel fluyen por los mismos canales. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eo6bf",
+          "text": "Se mezclan. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cj573",
+          "text": "Se vuelven indistinguibles. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "pgd7",
+          "text": "El migrante que quiso evitar el impuesto de un dólar terminó poniendo sus remesas en el mismo flujo que el Cártel de Sinaloa usa para mover sus ganancias. El impuesto que Trump diseñó para debilitar a los cárteles terminó fortaleciendo exactamente los canales financieros que esos cárteles controlan.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cimhb",
+          "text": "IV. HSBC, EL GAFI Y 126 MUNICIPIOS",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "32fki",
+          "text": "Las señales de alerta llevan años encendidas. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dbqf",
+          "text": "HSBC admitió en 2012 haber procesado intencionalmente recursos del Cártel de Sinaloa. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85rfn",
+          "text": "Pagó mil novecientos veinte millones de dólares. Ningún directivo fue a la cárcel. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3va3n",
+          "text": "Hoy procesa el 8% de las remesas de México. México lleva tres años en la lista gris del GAFI por deficiencias graves en su sistema antilavado. Y cuando Banco del Bienestar abandonó el pago de remesas, 126 municipios quedaron sin ningún punto alternativo de cobro. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fe6vn",
+          "text": "La única opción para esas familias: cruzar horas de camino o aceptar FINABIEN. Eso no fue un error de cobertura. Fue una decisión.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 49,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fn9pn",
+          "text": "Andrés Manuel López Obrador no robó las remesas. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 151,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "567rq",
+          "text": "Hizo algo más sofisticado: construyó el sistema para que las remesas dependieran de él. Y Donald Trump, sin saberlo, cerró el único escape que quedaba.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "m85b",
+          "text": "Cuando 14 millones de familias reciben su dinero a través del canal del Estado, cuando 22 millones de hogares dependen de sus programas, cuando 2 millones de promotores saben exactamente quién vive en cada calle, lo que se ha construido no es un Estado de bienestar. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "822jp",
+          "text": "Es un Estado de captura.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ohos",
+          "text": "México tiene el récord histórico de remesas. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1259p",
+          "text": "El partido que gobierna tiene el control histórico de la pobreza que esas remesas sostienen. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "amt0m",
+          "text": "No como coincidencia. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "10c2",
+          "text": "Como diseño.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "akhfe",
+          "text": "Eso se llama RemesasGate.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 164,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d3ta6",
+          "text": "La investigación completa, el modelo interactivo y el análisis de trazabilidad blockchain están disponibles para los miembros del Laboratorio de Futuros en Patreon.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://www.patreon.com/posts/154644431?utm_campaign=postshare_creator",
+                "toIndex": 70
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 70,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1vcl1",
+          "text": "https://www.patreon.com/posts/154644431?utm_campaign=postshare_creator\n",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 0,
+                "text": "SimonLevyMx",
+                "toIndex": 12
+              }
+            ],
+            "urls": [
+              {
+                "fromIndex": 15,
+                "text": "simonlevy.mx",
+                "toIndex": 27
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lr2r",
+          "text": "@SimonLevyMx · simonlevy.mx​​​​​​​​​​​​​​​​",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "527f969d-502b-4683-ab12-ccb7224d31e6",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040068781817622528"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/Hv5GacAAKAAIAAAAAO4IU9gAA",
+        "media_id": "2040068781817622528",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 84.08,
+                "rgb": {
+                  "blue": 251,
+                  "green": 252,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 12.38,
+                "rgb": {
+                  "blue": 13,
+                  "green": 12,
+                  "red": 13
+                }
+              },
+              {
+                "percentage": 0.76,
+                "rgb": {
+                  "blue": 149,
+                  "green": 141,
+                  "red": 220
+                }
+              },
+              {
+                "percentage": 0.76,
+                "rgb": {
+                  "blue": 46,
+                  "green": 28,
+                  "red": 197
+                }
+              },
+              {
+                "percentage": 0.7,
+                "rgb": {
+                  "blue": 46,
+                  "green": 40,
+                  "red": 94
+                }
+              }
+            ]
+          },
+          "original_img_height": 1304,
+          "original_img_url": "https://pbs.twimg.com/media/HE_Hv5GacAAXa4E.jpg",
+          "original_img_width": 2048
+        },
+        "media_key": "3_2040068781817622528"
+      }
+    ]
+  }
+}

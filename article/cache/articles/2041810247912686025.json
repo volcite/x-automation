@@ -1,0 +1,1191 @@
+{
+  "tweet_created_at": "2026-04-08T09:27:52.000000Z",
+  "id": 2041810247912686000,
+  "id_str": "2041810247912686025",
+  "type": "tweet",
+  "conversation_id_str": "2041810247912686025",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/fG84m9LDgm",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1868904688688808000,
+    "id_str": "1868904688688807937",
+    "name": "トリッカル・もちもちほっペ大作戦",
+    "screen_name": "trickcal_jp",
+    "location": "",
+    "url": "https://trickcal.biligames.com/jp/",
+    "description": "タッチセラピー系カードRPGモバイルゲーム『#トリッカル』！ \nダウンロードして130連ガチャをゲットしよう！\n✧今すぐダウンロード：https://t.co/X32VlBtWB5\n✧公式DC：https://t.co/u17uCozYB2\n#Trickcal",
+    "protected": false,
+    "verified": true,
+    "followers_count": 143061,
+    "friends_count": 4,
+    "listed_count": 379,
+    "favourites_count": 59,
+    "statuses_count": 683,
+    "created_at": "2024-12-17T06:23:05.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868904688688807937/1747828669",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925824885370019842/Jk0sLYy4_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 92,
+  "reply_count": 15,
+  "retweet_count": 813,
+  "favorite_count": 1967,
+  "views_count": 141731,
+  "bookmark_count": 91,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041806445948366849",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/fG84m9LDgm"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-08T09:27:52.000000Z",
+    "id": 2041810247912686000,
+    "id_str": "2041810247912686025",
+    "title": "「★3スノーキー」、「★3シスト」、「★3ディアナ」期間限定で獲得確率アップ！たくさんの特典を大放出～",
+    "preview_text": "イベント1：新使徒「★3スノーキー」期間限定で獲得確率アップ\nイベント期間：2026年4月9日メンテナンス後 - 4月23日 10:59 (UTC+9)\n◆イベント期間中、「★3スノーキー」の出現確率が大幅にアップします！",
+    "cover_url": "https://pbs.twimg.com/media/HFX1YcVa8AITy2o.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d1k83",
+          "text": "イベント1：新使徒「★3スノーキー」期間限定で獲得確率アップ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7rbcb",
+          "text": "イベント期間：2026年4月9日メンテナンス後 - 4月23日 10:59 (UTC+9)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5n87",
+          "text": "◆イベント期間中、「★3スノーキー」の出現確率が大幅にアップします！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vcn9",
+          "text": "特別募集：「アンダーグラウンドギャングスター」スノーキー",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "52rha",
+          "text": "過去、かなりヤンチャなギャングのボスだったゴロツキ魔女。★3使徒スノーキーが登場！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cp79s",
+          "text": "「どれ、一丁やってみるか！？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qsq8",
+          "text": "◆ピックアップカードガチャ：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2tqrb",
+          "text": "イベント期間中、スノーキーの愛用遺物「スノーキーのフェドーラ」の出現確率がアップします！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "195fr",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4k3hs",
+          "text": "イベント2：使徒「★3シスト」期間限定で獲得確率アップ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4os94",
+          "text": "イベント期間：2026年4月16日 4:00 - 4月23日 10:59 (UTC+9)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ge6h",
+          "text": "◆イベント期間中、「★3シスト」の出現確率が大幅にアップします！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1d42s",
+          "text": "特別募集：「詐欺師の逸材」シスト",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5sn66",
+          "text": "何でも売り買いして商売をするアメジストの竜族。★3使徒シストが登場！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cs9sl",
+          "text": "「何かご入用ですか？ なんでも言ってくださいな、へへっ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cef0u",
+          "text": "◆ピックアップカードガチャ：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9i5tt",
+          "text": "イベント期間中、伝説遺物「暗殺者の秘伝書」の出現確率がアップします！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fssn0",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1qb0a",
+          "text": "イベント3：使徒「★3ディアナ」期間限定で獲得確率アップ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9aq8a",
+          "text": "イベント期間：2026年4月16日 4:00 - 4月23日 10:59 (UTC+9)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cvsci",
+          "text": "◆イベント期間中、「★3ディアナ」の出現確率が大幅にアップします！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9l1gr",
+          "text": "特別募集：「亀の甲より年の功」ディアナ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2igu3",
+          "text": "獣人たちが信頼して従う賢明な長老。★3使徒ディアナが登場！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qkmq",
+          "text": "「目をつぶってあげるのにも、限界がありますよ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fpa2t",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 1,
+              "style": "Bold"
+            }
+          ],
+          "key": "1nh8b",
+          "text": " イベント4：「ギャングスターのための王国はない」テーマイベント開始！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flb20",
+          "text": "イベント期間：2026年4月9日メンテナンス後 - 4月23日 10:59 (UTC+9)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cpsql",
+          "text": " 教団派のボスの座を争っているスノーキー。教団派を乗っ取るため、下っ端として潜入する。スノーキーは教主を追い出して教団派の最も高い座に登れるか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1gve4",
+          "text": " ◆スノーキーの物語を観賞し、イベントステージをクリアすると、イベント通貨「特製豆乳」を獲得できます。今回の物語の主人公をデッキに編成すると、追加でイベント通貨を獲得できます！さらに、イベントステージをクリアすると「黄鉄鉱」を集められ、各段階に到達するとアイテムを獲得できます！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ogq4",
+          "text": "◆イベント通貨はイベントショップで「ほろ酔いスノーキーのフィギュア」、「スノーキーの冒険ボタン」など、たくさんの報酬と交換できます！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkm1n",
+          "text": " ※イベント期間中に使い切れなかったイベント通貨は、ゴールドに変換されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "en4la",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "65deg",
+          "text": "イベント5：新イベント「異世界ピクセル」まもなく開放",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8fb1",
+          "text": " イベント期間：2026年4月16日 11:00 - 4月23日 10:59 (UTC+9)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "frotu",
+          "text": " 異世界ピクセルのロード完了！ここでは微辛、中辛の難易度をプレイできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3hu08",
+          "text": "異世界ピクセルでは、チームビルドフェイズごとにチートアイテムを選択して、体験使徒を強化できます！チートアイテムは、異世界ピクセルで適用される特殊な効果です。即時適用、永続効果の2種類に分かれています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fangb",
+          "text": "ステージ終了後、永続チートアイテムを所持している場合、リストから1つ選択して保存することができます！持ち帰ったチートアイテムは、ステージを再プレイする際に効果が適用されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60jj8",
+          "text": "異世界ピクセルでは、難易度に応じてステージでクリアしたエリアが記録されます。記録された進捗状況に応じて、実績をクリアし、色々な報酬を獲得してみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8rn5",
+          "text": "※ イベント期間中に使い切れなかったイベント通貨は、ゴールドに変換されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "54l1c",
+          "text": "イベント6：ミニゲーム「教団の拳、スノーキー」まもなく開放！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6a6lh",
+          "text": "イベント期間：2026年4月9日メンテナンス後 - 4月23日 10:59 (UTC+9)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmq7f",
+          "text": " 教団派の幹部を目指す、スノーキーの険しい道のり！迫り来る敵を倒しましょう！左右から登場する敵が攻撃範囲に入ったら、攻撃して倒してください。黄鉄鉱の交換で獲得した地位に応じて、スノーキーをアップグレードできます！一、二発では倒れない敵もいます！アクションパターンに合わせて、正しい方向に攻撃を成功させましょう！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "binpp",
+          "text": "サプライズ：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dtp9j",
+          "text": "一、 「★3スノーキー」の新しい私服「ショッピングファタール ギャングスター」が登場！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5oh",
+          "text": " ケンカ以外で大物になってみせると、いつもと違う格好で現れたスノーキー。誰が選んだのか、トータルコーデがなかなか様になっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8bg6m",
+          "text": " 新しく生まれ変わったスノーキーに、ぜひ会いに来てくださいね～！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "572gc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 1,
+              "style": "Bold"
+            }
+          ],
+          "key": "57o94",
+          "text": " 二、インテリアショップがアップデート！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bncds",
+          "text": "インテリアショップに家具とペットの新商品が入荷しました！スノーキーが暮らす部屋【ラグジュアリーバーセット】に「ギャングスタースノーキーの大型ポスター」が新登場～！さらに、平日農場の希少ペット、「アザフライ」も登場！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "do26v",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 1,
+              "style": "Bold"
+            }
+          ],
+          "key": "82at6",
+          "text": " アップデート：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ea0l8",
+          "text": "◆以下の使徒のアサイドが開放されます：「スノーキー」、「シスト」、「ディアナ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6do1r",
+          "text": "4月9日 メンテナンス後：「スノーキー」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2c32",
+          "text": "4月16日 04:00 (UTC+9)：「シスト」、「ディアナ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6e6pt",
+          "text": "◆ペットのお使い：新しいお使いエリア「獣人の村」を追加",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ra71",
+          "text": "◆「次元の衝突」アップデート",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e0dnb",
+          "text": "◆週末イベント「すくすく！ パワータワー！」まもなく開放！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ao343",
+          "text": "◆「性格選択募集」の憂鬱性格グループに「スノーキー」を追加",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "709jb",
+          "text": "◆一部の家具の割引がまもなく終了します",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "10v47",
+          "text": "4月9日 10:59 (UTC+9)に割引が終了する家具：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5mro1",
+          "text": "二階建てコレクションラウンジ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dj9rm",
+          "text": "メゾネット城北大屋敷",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6sllc",
+          "text": "平屋アートハウス",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dho4p",
+          "text": "メゾネット大型ギャラリー",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ol6n",
+          "text": "メゾネット大型スタチューホーム",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dec6q",
+          "text": " ※今後のアップデートで再度割引を行う可能性がございます。詳細は公式のお知らせをご確認ください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "abd3s",
+          "text": "その他：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fug3n",
+          "text": "現在ゲーム内で開催中の期間限定「エイプリルフールロビー」と特別アイテム「エルフィンが用意した特別プレゼント」（内容物：アイコン：クレヨンマヨちゃん ×1、ぐるぐるクレヨンフレーム ×1）は、2026年4月9日 10:59 (UTC+9) のメンテナンス後、終了・削除されます。予めご了承ください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cv3md",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "ca1774e4-81a3-480d-aa5e-10cf57ee6d45",
+              "mediaItems": [
+                {
+                  "localMediaId": "12",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041810130380156928"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "37a430b3-7774-4252-898b-cf76e60f000c",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetGif",
+                  "mediaId": "2041811324796317696"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "94ce17b5-4859-444d-bc1a-bce2ffccead6",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041806873104728064"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "5cc1301c-0cd9-4d81-8106-7daa728375ab",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041806652366843906"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "fd56c89a-7b52-40dd-a04d-b88e198cae56",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041807015669067777"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "49e08648-8e82-423f-95b7-9210d5cfef51",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041807693862858754"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFX0qaza8AEKAAIZ767pmFvAAQAA",
+        "media_id": "2041807015669067777",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 63.19,
+                "rgb": {
+                  "blue": 194,
+                  "green": 213,
+                  "red": 246
+                }
+              },
+              {
+                "percentage": 24.87,
+                "rgb": {
+                  "blue": 79,
+                  "green": 98,
+                  "red": 166
+                }
+              },
+              {
+                "percentage": 3.29,
+                "rgb": {
+                  "blue": 111,
+                  "green": 110,
+                  "red": 154
+                }
+              },
+              {
+                "percentage": 3.26,
+                "rgb": {
+                  "blue": 118,
+                  "green": 145,
+                  "red": 219
+                }
+              },
+              {
+                "percentage": 2.18,
+                "rgb": {
+                  "blue": 208,
+                  "green": 207,
+                  "red": 217
+                }
+              }
+            ]
+          },
+          "original_img_height": 720,
+          "original_img_url": "https://pbs.twimg.com/media/HFX0qaza8AELMoW.jpg",
+          "original_img_width": 1024
+        },
+        "media_key": "3_2041807015669067777"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFX0VRZa8AIKAAIZ767pmFvAAQAA",
+        "media_id": "2041806652366843906",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 52.47,
+                "rgb": {
+                  "blue": 169,
+                  "green": 182,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 27.15,
+                "rgb": {
+                  "blue": 62,
+                  "green": 71,
+                  "red": 74
+                }
+              },
+              {
+                "percentage": 4.34,
+                "rgb": {
+                  "blue": 52,
+                  "green": 126,
+                  "red": 174
+                }
+              },
+              {
+                "percentage": 3.91,
+                "rgb": {
+                  "blue": 125,
+                  "green": 167,
+                  "red": 174
+                }
+              },
+              {
+                "percentage": 3.28,
+                "rgb": {
+                  "blue": 54,
+                  "green": 94,
+                  "red": 122
+                }
+              }
+            ]
+          },
+          "original_img_height": 720,
+          "original_img_url": "https://pbs.twimg.com/media/HFX0VRZa8AIqBsT.jpg",
+          "original_img_width": 1024
+        },
+        "media_key": "3_2041806652366843906"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFX1R5Ra8AIKAAIZ767pmFvAAQAA",
+        "media_id": "2041807693862858754",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 32.8,
+                "rgb": {
+                  "blue": 22,
+                  "green": 40,
+                  "red": 61
+                }
+              },
+              {
+                "percentage": 22.81,
+                "rgb": {
+                  "blue": 113,
+                  "green": 178,
+                  "red": 217
+                }
+              },
+              {
+                "percentage": 15.5,
+                "rgb": {
+                  "blue": 45,
+                  "green": 88,
+                  "red": 128
+                }
+              },
+              {
+                "percentage": 8.2,
+                "rgb": {
+                  "blue": 52,
+                  "green": 50,
+                  "red": 56
+                }
+              },
+              {
+                "percentage": 6.39,
+                "rgb": {
+                  "blue": 136,
+                  "green": 159,
+                  "red": 172
+                }
+              }
+            ]
+          },
+          "original_img_height": 628,
+          "original_img_url": "https://pbs.twimg.com/media/HFX1R5Ra8AIT9-8.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2041807693862858754"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFX3fuAacAAKAAIZ767pmFvAAQAA",
+        "media_id": "2041810130380156928",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 53.24,
+                "rgb": {
+                  "blue": 240,
+                  "green": 253,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 14.75,
+                "rgb": {
+                  "blue": 63,
+                  "green": 70,
+                  "red": 84
+                }
+              },
+              {
+                "percentage": 9.61,
+                "rgb": {
+                  "blue": 66,
+                  "green": 74,
+                  "red": 175
+                }
+              },
+              {
+                "percentage": 6.58,
+                "rgb": {
+                  "blue": 250,
+                  "green": 174,
+                  "red": 215
+                }
+              },
+              {
+                "percentage": 4.05,
+                "rgb": {
+                  "blue": 138,
+                  "green": 175,
+                  "red": 207
+                }
+              }
+            ]
+          },
+          "original_img_height": 714,
+          "original_img_url": "https://pbs.twimg.com/media/HFX3fuAacAAq7om.jpg",
+          "original_img_width": 1391
+        },
+        "media_key": "3_2041810130380156928"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAGCgABHFX4lPjasAAKAAIZ767pmFvAAQAA",
+        "media_id": "2041811324796317696",
+        "media_info": {
+          "__typename": "ApiGif",
+          "aspect_ratio": {
+            "denominator": 157,
+            "numerator": 300
+          },
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 55.71,
+                  "rgb": {
+                    "blue": 131,
+                    "green": 216,
+                    "red": 188
+                  }
+                },
+                {
+                  "percentage": 27.96,
+                  "rgb": {
+                    "blue": 58,
+                    "green": 103,
+                    "red": 140
+                  }
+                },
+                {
+                  "percentage": 4.71,
+                  "rgb": {
+                    "blue": 172,
+                    "green": 206,
+                    "red": 210
+                  }
+                },
+                {
+                  "percentage": 3.14,
+                  "rgb": {
+                    "blue": 113,
+                    "green": 191,
+                    "red": 183
+                  }
+                },
+                {
+                  "percentage": 3.1,
+                  "rgb": {
+                    "blue": 97,
+                    "green": 182,
+                    "red": 252
+                  }
+                }
+              ]
+            },
+            "original_img_height": 628,
+            "original_img_url": "https://pbs.twimg.com/tweet_video_thumb/HFX4lPjasAAuDi5.jpg",
+            "original_img_width": 1200
+          },
+          "variants": [
+            {
+              "bit_rate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/HFX4lPjasAAuDi5.mp4"
+            }
+          ]
+        },
+        "media_key": "16_2041811324796317696"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFX0iHtbwAAKAAIZ767pmFvAAQAA",
+        "media_id": "2041806873104728064",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 59.66,
+                "rgb": {
+                  "blue": 123,
+                  "green": 105,
+                  "red": 144
+                }
+              },
+              {
+                "percentage": 26.7,
+                "rgb": {
+                  "blue": 229,
+                  "green": 230,
+                  "red": 251
+                }
+              },
+              {
+                "percentage": 3.91,
+                "rgb": {
+                  "blue": 186,
+                  "green": 147,
+                  "red": 193
+                }
+              },
+              {
+                "percentage": 2.3,
+                "rgb": {
+                  "blue": 158,
+                  "green": 134,
+                  "red": 176
+                }
+              },
+              {
+                "percentage": 1.56,
+                "rgb": {
+                  "blue": 108,
+                  "green": 74,
+                  "red": 128
+                }
+              }
+            ]
+          },
+          "original_img_height": 720,
+          "original_img_url": "https://pbs.twimg.com/media/HFX0iHtbwAAeK_n.jpg",
+          "original_img_width": 1024
+        },
+        "media_key": "3_2041806873104728064"
+      }
+    ]
+  }
+}

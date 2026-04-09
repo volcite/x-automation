@@ -1,0 +1,1434 @@
+{
+  "tweet_created_at": "2026-04-03T07:19:41.000000Z",
+  "id": 2039966047378583800,
+  "id_str": "2039966047378583815",
+  "type": "tweet",
+  "conversation_id_str": "2039966047378583815",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/9bLSQxoY8u",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1932935705711513600,
+    "id_str": "1932935705711513600",
+    "name": "Yanhua",
+    "screen_name": "yanhua1010",
+    "location": "",
+    "url": "https://lnk.bio/yanhua",
+    "description": "AI Solopreneur · Creator · Growth\n🔗 https://t.co/sK8Mi76Vd1\n🎬 https://t.co/xFvVwEQRpS",
+    "protected": false,
+    "verified": true,
+    "followers_count": 23247,
+    "friends_count": 911,
+    "listed_count": 267,
+    "favourites_count": 7651,
+    "statuses_count": 7444,
+    "created_at": "2025-06-11T22:59:32.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932935705711513600/1765357792",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1998302113592713216/jbKruapM_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 40,
+  "reply_count": 50,
+  "retweet_count": 437,
+  "favorite_count": 1791,
+  "views_count": 403857,
+  "bookmark_count": 3935,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039957790010327040",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/9bLSQxoY8u"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T07:19:41.000000Z",
+    "id": 2039966047378583800,
+    "id_str": "2039966047378583815",
+    "title": "用 LLM + Obsidian 构建个人知识库：基于 Karpathy 的“LLM Knowledge Bases”工作流",
+    "preview_text": "Karpathy 今天发了一条推文，讲他怎么用 LLM 构建和管理个人知识库。\n \n我反复读了几遍。不是因为什么新概念，是因为他做的事和我这几个月在 Obsidian",
+    "cover_url": "https://pbs.twimg.com/media/HE9psObbAAA2lB2.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1tcl",
+          "text": "Karpathy 今天发了一条推文，讲他怎么用 LLM 构建和管理个人知识库。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4sd4o",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b82bb",
+          "text": "我反复读了几遍。不是因为什么新概念，是因为他做的事和我这几个月在 Obsidian 里瞎折腾的东西，结构上撞了。但他用了一个词来概括，我之前一直没找到：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "avtuc",
+          "text": "编译（Compile）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjrb2",
+          "text": "把原始资料\"编译\"成结构化知识。Obsidian Vault 是代码仓库，LLM 是编译器。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1a5vv",
+          "text": "这个类比一出来，好多之前说不清的感觉突然有名字了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e9n8t",
+          "text": "你的笔记库在腐烂",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c61km",
+          "text": "我之前写过关于Obsidian + AI 的文章：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1j4aa",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffesc",
+          "text": "评论区里有一类反馈反复出现：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "q4im",
+          "text": "我也在用 Obsidian，攒了几百篇笔记，但越攒越乱。我知道里面有好东西，但找不到。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehq4g",
+          "text": "我太理解这种感觉了，因为我自己就是这样。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "61otf",
+          "text": "剪藏了一堆文章，记了不少想法，攒了很多链接。三个月后回头看，大部分变成了死文件。你记不住在哪，也记不住讲了什么。传统解法是\"定期整理\"，加标签、补链接、重新分类。我试了两周就放弃了。靠人来维护笔记库，就跟靠人来做回归测试一样，理论上可以，实际上不可能持续。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "eis4d",
+          "text": "Karpathy 换了个思路：别让人整理，让 LLM 整理。 而且不是随便整理，是用软件工程的方式来搞。有输入层，有编译层，有输出层。有索引，有健康检查。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5bjot",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "i8eb",
+          "text": "把知识库当代码仓库管",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c4bsg",
+          "text": "如果你写过代码，Karpathy 这套东西你会秒懂。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4aikp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "862nv",
+          "text": "我是开发出身，第一眼看到这张表的反应是：这不就是 CI/CD 的知识库版本吗？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "chpbl",
+          "text": "核心就三件事。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9jvbm",
+          "text": "分层。 原始资料、编译产物、运行时输出，三层分开。你不会把 .class 文件和 .java 文件混在一起，笔记也一样。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "97jbk",
+          "text": "增量。 不用每次全量重建。每天新进来几篇文章，增量编译就好。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9rbfp",
+          "text": "可追溯。 每个知识条目能追到原始来源，每个摘要保留原文引用。出了问题能查到根源。不是\"我好像在哪里看过这个说法\"，是\"来源在 raw/articles/2026-03/ 那篇里，第三段\"。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cl8oa",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88r1m",
+          "text": "我的落地方案：三层目录 + Claude Code 当编译器",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cq2u",
+          "text": "说完类比说实操。我把 Karpathy 的方法论落到了自己的 Vault 里，目录结构长这样：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "565v",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9592i",
+          "text": "我保留了平台内容目录，因为我的知识库不只是研究用的，还要出内容。成品是给读者看的，wiki 是给自己看的，这两个不能混。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cq4la",
+          "text": "摄取：三个入口",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f8lov",
+          "text": "Web Clipper 管网页文章。一键保存，模板里强制写入 source_url、author、published、tags。这步很重要，没有元数据的剪藏跟没剪一样。",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9u1sv",
+          "text": "Podwise 管播客。自动转录加 AI 摘要，导出 Markdown。我之前专门写过一篇讲这个：",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1703m",
+          "text": "手动剪藏 管 X 推文和零散内容。Claude Code 有个 Skill 叫 baoyu-url-to-markdown，丢个链接进去，几秒变干净的 Markdown。",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "di95l",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "163j5",
+          "text": "编译：这步最关键",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "75fba",
+          "text": "攒了 5 到 10 篇 raw 之后，就可以做第一次\"编译\"了。在 Obsidian 里打开 Claudian，跟 Claude 说：”读一下 raw/articles/ 里最近新增的文章，为每篇生成摘要，提取概念，更新索引。”  然后让它干就行了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2egkn",
+          "text": "具体来说干三件事：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9fe3g",
+          "text": "逐篇摘要。 每篇 raw 文档产出一份结构化摘要，包括核心结论、关键证据、疑点、术语。存到 wiki/summaries/。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "85eq8",
+          "text": "概念抽取。 从摘要里提概念，映射到 wiki/concepts/。新概念就建条目，老概念就补新证据。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1j05q",
+          "text": "索引更新。 自动维护 All-Sources.md 和 All-Concepts.md。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6490r",
+          "text": "质量怎么保证？靠 CLAUDE.md。我在里面写了编译规范：摘要的结构模板、概念条目该有哪些字段、命名规则。Claude 每次启动都读，输出就稳了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fosia",
+          "text": "第一次编译可能要花半小时到一小时。但跑通一次之后，后面增量编译很快，因为只处理新增的 raw。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ammp3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cus1p",
+          "text": "让每次对话都变成库存",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 25,
+              "style": "Bold"
+            }
+          ],
+          "key": "cnqnk",
+          "text": "Karpathy 方法论里有一个设计我觉得特别妙：Output 落文件。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "543a8",
+          "text": "以前我用 AI 的方式是：问一个问题，得到答案，关掉。下次有类似问题再问一遍。答案全在聊天记录里，等于没有。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3etro",
+          "text": "现在改了。每次对知识库做复杂提问，结果以 Markdown 文件存到 outputs/qa/：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fbo9k",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36ii7",
+          "text": "三个月下来我积累了几十份这样的 Q&A 文件。它们本身就是知识条目，因为带推理过程和原始来源。下次遇到类似问题，Claude 直接读已有的 Q&A，不用重新推导。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bv96o",
+          "text": "你每跟 AI 聊一次，知识库就增加一层。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c6332",
+          "text": "健康检查：给知识库做体检",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1me46",
+          "text": "这步是大部分人不会想到的。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5hlbg",
+          "text": "你的笔记库里有没有这些情况：同一个概念在三个地方定义不一样；某个条目只有标题没有正文；一堆笔记孤零零没有任何链接指向。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ji4p",
+          "text": "我之前也没在意。直到有一次搜到一条笔记，写的结论跟另一条完全矛盾，搞不清哪个是对的。这才意识到知识库也有\"技术债\"，不处理的话时间越长越乱。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "etskf",
+          "text": "Karpathy 的建议是定期做 Health Checks。我把它做成了每周任务，让 Claude 检查三样东西：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1lq03",
+          "text": "一致性。 wiki/concepts/ 里有没有定义冲突？比如\"RAG\"在一个地方叫\"检索增强生成\"，另一个地方变成了\"向量数据库搜索\"。",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e8cre",
+          "text": "完整性。 哪些概念条目缺定义、缺例子、缺来源？",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e9lfe",
+          "text": "孤岛。 哪些笔记入链出链都少于 2？该连到哪？",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5f2tk",
+          "text": "报告存到 outputs/health/，每周一份。做了几周之后最大的感受是：搜到一条笔记，敢直接用了。以前还得想想：“这玩意靠谱吗”。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3gpqj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ao79o",
+          "text": "别上来就搞 RAG",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8lf4",
+          "text": "这点必须单独说，因为太多人在这儿可能会走弯路。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4hueq",
+          "text": "一提\"AI + 笔记\"，很多人的第一反应是搭 RAG：选 Embedding 模型、搭向量数据库、调切片策略。整套架构搞了一个月，笔记库里还是只有 20 篇文章。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bq9fk",
+          "text": "Karpathy 推荐这样做：知识库规模不大的时候（100 篇文章，40 万词左右），维护几个索引文件就够了。LLM 先读索引定位，再直接阅读相关内容。简单、可靠、零额外成本。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "99j3v",
+          "text": "等你的笔记真的过了一万条，搜东西开始找不到、找不全了，再考虑 RAG。MotherDuck 有篇博文讲了用 DuckDB 给 Obsidian 做向量检索的完整方案，到时候再看不迟。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bkrkr",
+          "text": "先跑通流程，再优化基础设施。 这道理写代码的人应该都懂，但轮到自己搭知识库的时候就忘了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ed4u9",
+          "text": "两周跑通最小闭环",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nrub",
+          "text": "如果你想试，不需要什么额外工具。Obsidian + 任何你用的 LLM 就行。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7m1h0",
+          "text": "第一周：搭 raw → wiki 的最小循环。 建三个目录（raw / wiki / outputs），装 Web Clipper 配好模板，开始剪藏。攒够 5 到 10 篇后做第一次编译：生成摘要、提概念、建索引。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a3oks",
+          "text": "第二周：让 Q&A 开始积累，启动第一次健康检查。 所有复杂问答的结果存到 outputs/qa/。让 LLM 扫一遍 wiki/，输出第一份健康报告。按报告补缺失、加链接。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7q4f0",
+          "text": "两周之后你有一个能持续运转的小系统。规模不重要，流程跑通了就行。后面就是往 raw/ 里不断喂素材，让编译器持续工作。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2e0fr",
+          "text": "知识库的\"GitHub 时刻\"",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "epvbl",
+          "text": "Karpathy 推文最后一句话是：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ulp8",
+          "text": "这套东西目前仍然像一堆 hacky scripts，但有空间做成 incredible new product。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dpgda",
+          "text": "我想到了 2006 年前的版本控制。那时候也是 svn、cvs、git 命令行，只有程序员在用。然后有人把它做成了 GitHub，整个协作方式都变了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8cml1",
+          "text": "个人知识库可能正在类似的节点。今天它是 Obsidian + LLM + 手搓脚本的组合，看起来还很粗糙。但底层范式已经有了：把知识当代码来管理。有输入，有编译，有产物，有测试。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8fdp",
+          "text": "如果你是程序员，好消息是你不需要学任何新东西。代码仓库怎么管，知识库就怎么管。你积累了这么多年的工程直觉，终于可以用在自己的笔记上了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b0bhd",
+          "text": "如果你不写代码，也别被\"编译\"这个词吓住。说白了就是：让 AI 帮你定期整理笔记，而且比你自己整理得好得多。因为它不累，不忘，不偷懒。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7vhf3",
+          "text": "别让你的笔记腐烂。让它们被编译。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ettij",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cf8g8",
+          "text": "延伸阅读（我的 Obsidian + AI 系列）：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 38,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "12dbb",
+          "text": "《如何基于 Obsidian 和 Claude 打造 AI 时代超级大脑？》→ 把笔记库变成内容工厂",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 44,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1ohmv",
+          "text": "《Obsidian + Claude Code：你的笔记库就是你最强大的 AI 上下文》→ 笔记库作为 AI 上下文的价值",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 26,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1ga5h",
+          "text": "《我用 Podwise 把播客变成了可检索的知识库》→ 播客信息摄取的完整流程",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "9h2ka",
+          "text": "你现在是否也在搭自己的知识库系统？",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 9,
+                "text": "yanhua1010",
+                "toIndex": 20
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 39,
+              "offset": 23,
+              "style": "Italic"
+            }
+          ],
+          "key": "8vt79",
+          "text": "欢迎关注 --> @yanhua1010 , 评论区聊聊你的方案。这个领域现在很早期，说不定你的实践就是未来某个产品的原型。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "url": "https://x.com/yanhua1010/status/2029369274847072591?s=20"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n---\nquestion: \"RAG 和轻量索引的适用边界？\"\nasked_at: 2026-04-03\nsources:\n  - [[S-001 MotherDuck Obsidian RAG]]\n  - [[C-042 RAG]]\n---\n\n# RAG vs 轻量索引\n\n## TL;DR\n规模在万级 note 以下，轻量索引够了。\n语义搜索需求强或规模更大，上 RAG。\n\n## 结论\n...\n\n## 证据\n（链接回原始来源）\n\n## 不确定性\n...\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "7e30af36-b06b-4e93-acb8-6202ffa0208e",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039960008537108480"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "url": "https://x.com/yanhua1010/status/2020342019575673223?s=20"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "52658696-0ef7-4477-9a20-9d742729db77",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039961022463946752"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "url": "https://x.com/yanhua1010/status/2033726054351966613?s=20"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "markdown": "```\nVault/\n├── raw/                    # 原始资料，不改\n│   ├── articles/           # Web Clipper 剪藏\n│   ├── podcasts/           # Podwise 导出\n│   └── papers/             # 论文\n│\n├── wiki/                   # 编译产物，LLM 维护\n│   ├── indexes/            # 索引（来源清单、概念清单、术语表）\n│   ├── concepts/           # 概念条目\n│   └── summaries/          # 逐篇摘要\n│\n├── outputs/                # 运行时输出\n│   ├── qa/                 # 问答沉淀\n│   └── health/             # 健康检查报告\n│\n├── x/                      # X 平台成品\n├── 公众号/                  # 公众号成品\n└── 小红书/                  # 小红书成品\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "tweetId": "2033726054351966613"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "tweetId": "2020342019575673223"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "259f0981-f7ff-447b-afc2-d47e371c28e7",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039959183995580416"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "65b5f916-f174-4e3f-a680-1c70eb497110",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039959389344571392"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "d11a5334-3f82-4021-8d2f-fcb3175fc1d7",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039960536151134208"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "markdown": "```\n软件工程          →  知识库工程\n───────────────────────────────\nsrc/             →  raw/（原始资料）\nbuild/           →  wiki/（知识条目）\nlogs/            →  outputs/（问答归档）\n编译器            →  LLM\nIDE              →  Obsidian\nLint / CI        →  健康检查\n增量编译          →  只处理新增/变更的 raw\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9lTKkakAAKAAIa0yrIgJqQAAAA",
+        "media_id": "2039960536151134208",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 72.63,
+                "rgb": {
+                  "blue": 176,
+                  "green": 216,
+                  "red": 245
+                }
+              },
+              {
+                "percentage": 23.91,
+                "rgb": {
+                  "blue": 252,
+                  "green": 253,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 0.9,
+                "rgb": {
+                  "blue": 105,
+                  "green": 182,
+                  "red": 212
+                }
+              },
+              {
+                "percentage": 0.89,
+                "rgb": {
+                  "blue": 107,
+                  "green": 134,
+                  "red": 108
+                }
+              },
+              {
+                "percentage": 0.55,
+                "rgb": {
+                  "blue": 133,
+                  "green": 153,
+                  "red": 204
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HE9lTKkakAAMu-A.jpg",
+          "original_img_width": 2752
+        },
+        "media_key": "3_2039960536151134208"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9kQaYbIAAKAAIa0yrIgJqQAAAA",
+        "media_id": "2039959389344571392",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 83.24,
+                "rgb": {
+                  "blue": 191,
+                  "green": 223,
+                  "red": 239
+                }
+              },
+              {
+                "percentage": 4.71,
+                "rgb": {
+                  "blue": 95,
+                  "green": 143,
+                  "red": 195
+                }
+              },
+              {
+                "percentage": 4.28,
+                "rgb": {
+                  "blue": 252,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 3.37,
+                "rgb": {
+                  "blue": 104,
+                  "green": 146,
+                  "red": 106
+                }
+              },
+              {
+                "percentage": 1.33,
+                "rgb": {
+                  "blue": 58,
+                  "green": 161,
+                  "red": 210
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HE9kQaYbIAAtxQL.jpg",
+          "original_img_width": 2752
+        },
+        "media_key": "3_2039959389344571392"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9lveObMAAKAAIa0yrIgJqQAAAA",
+        "media_id": "2039961022463946752",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 58.44,
+                "rgb": {
+                  "blue": 185,
+                  "green": 219,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 32.53,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 5.94,
+                "rgb": {
+                  "blue": 73,
+                  "green": 93,
+                  "red": 118
+                }
+              },
+              {
+                "percentage": 0.98,
+                "rgb": {
+                  "blue": 143,
+                  "green": 200,
+                  "red": 224
+                }
+              },
+              {
+                "percentage": 0.91,
+                "rgb": {
+                  "blue": 128,
+                  "green": 160,
+                  "red": 215
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HE9lveObMAAN8zu.jpg",
+          "original_img_width": 2752
+        },
+        "media_key": "3_2039961022463946752"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9kEdZaMAAKAAIa0yrIgJqQAAAA",
+        "media_id": "2039959183995580416",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 97.27,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 2.46,
+                "rgb": {
+                  "blue": 145,
+                  "green": 143,
+                  "red": 140
+                }
+              }
+            ]
+          },
+          "original_img_height": 1300,
+          "original_img_url": "https://pbs.twimg.com/media/HE9kEdZaMAADLIU.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2039959183995580416"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9k0dDbcAAKAAIa0yrIgJqQAAAA",
+        "media_id": "2039960008537108480",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 68.29,
+                "rgb": {
+                  "blue": 166,
+                  "green": 211,
+                  "red": 245
+                }
+              },
+              {
+                "percentage": 19.3,
+                "rgb": {
+                  "blue": 253,
+                  "green": 253,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 5.69,
+                "rgb": {
+                  "blue": 160,
+                  "green": 206,
+                  "red": 241
+                }
+              },
+              {
+                "percentage": 4.87,
+                "rgb": {
+                  "blue": 100,
+                  "green": 112,
+                  "red": 132
+                }
+              },
+              {
+                "percentage": 1.06,
+                "rgb": {
+                  "blue": 117,
+                  "green": 139,
+                  "red": 118
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HE9k0dDbcAAIbTG.jpg",
+          "original_img_width": 2752
+        },
+        "media_key": "3_2039960008537108480"
+      }
+    ]
+  }
+}

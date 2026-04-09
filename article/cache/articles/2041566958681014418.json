@@ -1,0 +1,481 @@
+{
+  "tweet_created_at": "2026-04-07T17:21:08.000000Z",
+  "id": 2041566958681014500,
+  "id_str": "2041566958681014418",
+  "type": "tweet",
+  "conversation_id_str": "2041566958681014418",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/RZlp39Wkrf",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 12819682,
+    "id_str": "12819682",
+    "name": "Mitchell Hashimoto",
+    "screen_name": "mitchellh",
+    "location": "Los Angeles, CA",
+    "url": "https://mitchellh.com",
+    "description": "Working on a new terminal: Ghostty. 👻 Prev: founded @HashiCorp. Created Vagrant, Terraform, Vault, and others. Vision Jet Pilot. 👨‍✈️",
+    "protected": false,
+    "verified": true,
+    "followers_count": 175096,
+    "friends_count": 146,
+    "listed_count": 2199,
+    "favourites_count": 23,
+    "statuses_count": 39455,
+    "created_at": "2008-01-29T07:56:05.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/12819682/1727388395",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141762999838842880/64_Y4_XB_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 44,
+  "reply_count": 24,
+  "retweet_count": 120,
+  "favorite_count": 1045,
+  "views_count": 209956,
+  "bookmark_count": 1556,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041548775328829440",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/RZlp39Wkrf"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T17:21:08.000000Z",
+    "id": 2041566958681014500,
+    "id_str": "2041566958681014418",
+    "title": "The Building Block Economy",
+    "preview_text": "The most effective way to build software and get massive adoption is no longer high quality mainline apps but via building blocks that enable and encourage others to build quantity over quality.",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eamnh",
+          "text": "The most effective way to build software and get massive adoption is no longer high quality mainline apps but via building blocks that enable and encourage others to build quantity over quality.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 11,
+              "style": "Bold"
+            },
+            {
+              "length": 8,
+              "offset": 76,
+              "style": "Bold"
+            }
+          ],
+          "key": "5ajc4",
+          "text": "Ghostty in 18 months: one million daily macOS update checks. \nlibghostty in 2 months: multiple millions of daily users. [^1]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "519mb",
+          "text": "Similar growth trajectories can be seen in other \"building block\" technologies: Pi Mono, Next.js, Tailwind, etc.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2msch",
+          "text": "Experiencing this firsthand as well as witnessing it in other ecosystems has fundamentally shifted how I view the practice of product and software development today, regardless of commercial vs non-commercial goals. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "elr0e",
+          "text": "Imports Are Up",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 44,
+              "style": "Italic"
+            }
+          ],
+          "key": "fqnel",
+          "text": "I use the term \"building block\" to describe how they're being used because they're being assembled today in a very different way than former decades. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30rfu",
+          "text": "I don't use the term \"library\" or \"framework\" because it extends even up to \"applications\" (e.g. the Ghostty GUI app has more forks than ever before with customized patches on top, which is awesome). ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4te4b",
+          "text": "The factory of today is agentic. I say that as objective truth, regardless of what your feelings about it are. You can argue that 99% of the stuff coming out of these factories is total crap, but you can't argue the sheer quantity of stuff coming out. The numbers are everywhere spanning tech stacks and industries and they're undeniable.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 58,
+              "style": "Italic"
+            }
+          ],
+          "key": "9q73b",
+          "text": "AI is okay at building everything from scratch, but it is really good at gluing together high quality, well documented, and proven components. And, AI prefers to do this when it can unless explicitly prompted otherwise. This is the \"building block\" nature of software today: we're more than ever before grabbing off the shelf components and gluing them together.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bectn",
+          "text": "Humans, of course, always have done this as well. For my entire career, human software developers have preferred to build on top of proven primitives. But the natural barrier to entry of understanding the component pieces well enough to even slap them together was high enough to limit the ecosystem. This barrier is now gone.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1m5t",
+          "text": "Exports Are Up",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1a7lq",
+          "text": "Coming out of these factories is of course software. So much software. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8avoi",
+          "text": "There are negatives to this. I think the negatives are obvious enough that I'm not going to dedicate much time to them, but I want to recognize they exist: security vulnerabilities, instability, a general lack of understanding about how load-bearing systems might work.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7m3hc",
+          "text": "But there are a huge amount of positives:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7tgj4",
+          "text": "The quality bar is lower. A mainline application used by a large cross-section of users has to weigh every feature against every other feature: how do they interact? does it make sense for the long term vision? can I maintain this for millions of users? A factory artifact targeting one to hundreds of users doesn't need to care about this. You can ship faster and looser, as a result.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 10,
+              "offset": 58,
+              "style": "Italic"
+            }
+          ],
+          "key": "cnri1",
+          "text": "The awareness is greater. A mainline application can't do everything. It usually optimizes for the use cases that the most users need and use. A factory artifact can optimize for a tiny cross-section of users, and these users gain awareness of the building block as a result. I'm seeing this hugely in Ghostty, as very niche communities are getting terminals.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 12,
+              "offset": 233
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3et63",
+          "text": "The maintenance burden is lower. It is easier than ever to say \"no thank you\" to feature requests, because you're offering a key part of the means to production. My challenges with slop requests is very public, to the point I made a \"no machine\", but I'm also feeling less and less bad every day about saying \"no.\"",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7n6dp",
+          "text": "R&D is outsourced. It is so much easier now as a maintainer to look at what others are doing, see working proof of concepts, and decide what you want to bring back to mainline. There's way less talk and way more walk. And while others walk you can cherry pick the best ideas (this is fair: you're giving away a building block and they're giving away their ideas).",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7bh1d",
+          "text": "The Impact",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "empj1",
+          "text": "This is changing how I view software and product development. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ecrka",
+          "text": "I'm much more purposeful about creating building blocks and encouraging applications or forks on top of that. I think this is resulting in a happier community, a larger community, and ultimately better mainline software.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96un9",
+          "text": "High-quality applications aren't disappearing. And high-quality applications produced by the developers of the building block aren't disappearing. In my case, Ghostty the application isn't disappearing because libghostty the building block exists.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c0unv",
+          "text": "Instead, I think the mainline application is becoming more stable and more purposeful in its feature set. The stability comes from a much larger and diverse user group. The feature set comes from the massive ecosystem of outsourced R&D. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2i2mk",
+          "text": "The Elephant in the Room: Commercialization",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9f4c",
+          "text": "The obvious question that follows is what this can mean for commercialization. Closed source, commercial software appears to be at a massive disadvantage. And it is. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1g9v",
+          "text": "Agents will more readily pick open and free software over closed and commercial. At the time of writing this article, this is an objective truth. Independent research labs running experiments on popular models have found repeatedly that under diverse circumstances, models pick open and free alternatives over commercial. So far.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2rtu4",
+          "text": "But, I don't have a concrete answer here, because unlike product and software development, I'm not directly building a commercializable product right now. I have thoughts, and as with all hard things, I think the answer is nuanced. But, I don't want to give the illusion of talking authoritatively about this so I'm going to avoid it. When I walk the walk and learn more, I'll share more. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "anmih",
+          "text": "I'm once again simply acknowledging that this challenge obviously exists. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "970uu",
+          "text": "The Shift Has Happened",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4c4p8",
+          "text": "We have to accept that building blocks and software factories rule everything around us and accept and internalize the consequences of that.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 34,
+              "offset": 52
+            },
+            {
+              "key": 2,
+              "length": 40,
+              "offset": 108
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "274i5",
+          "text": "We can choose to run the other direction and create enclaves where we fight against it. Or we can choose to submit ourselves completely to the chaos. People who know me know I'm far less extreme in my actions and carry different opinions depending on context.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d2gdv",
+          "text": "The point is the shift has already happened. We're living in it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4fmhg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ooed",
+          "text": "[^1]: Getting exact numbers is obviously hard since Ghostty has no real tracking. We can see aggregate update file checks for macOS. We have no visibility at all into Linux. libghostty has no tracking but tools integrating libghostty might and have shared aggregates with us.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8i0k",
+          "text": "[^2]: This article was written by hand, without the assistance of AI. I love and use AI abundantly, but I draw the line personally at content. I want posts to reflect who I am directly.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://github.com/mitchellh/vouch"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://drewdevault.com/2026/03/25/2026-03-25-Forking-vim.html"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

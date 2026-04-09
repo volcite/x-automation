@@ -1,0 +1,1111 @@
+{
+  "tweet_created_at": "2026-04-06T14:50:07.000000Z",
+  "id": 2041166569368387800,
+  "id_str": "2041166569368387736",
+  "type": "tweet",
+  "conversation_id_str": "2041166569368387736",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/eZwoID4WR6",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1450649639569354800,
+    "id_str": "1450649639569354754",
+    "name": "九兆",
+    "screen_name": "kyu_tyou99",
+    "location": "荻窪で生存戦略",
+    "url": "https://kakuyomu.jp/users/kyu_tyou",
+    "description": "≪ゼロ年代に狂わされた止まらぬ残響（ノイズ）、ただし5Hz≫みたいなっ！\n事象な小説書き＆ジャンプ感想アカウント、多分。\n適当なことや戯言やでたらめを呟いたりしてます。\nフォロー外からフォローも凸も全然ＯＫ、業者は勘弁な　質問箱：https://t.co/Iw1eXw7vVZ",
+    "protected": false,
+    "verified": true,
+    "followers_count": 8597,
+    "friends_count": 284,
+    "listed_count": 200,
+    "favourites_count": 298,
+    "statuses_count": 145261,
+    "created_at": "2021-10-20T02:26:48.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1450649639569354754/1696846870",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1923876274801348609/VwnCKr7X_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 276,
+  "reply_count": 22,
+  "retweet_count": 985,
+  "favorite_count": 3549,
+  "views_count": 3063411,
+  "bookmark_count": 2184,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041142961715490816",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/eZwoID4WR6"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T14:50:07.000000Z",
+    "id": 2041166569368387800,
+    "id_str": "2041166569368387736",
+    "title": "何故ここ最近のジャンプの新連載は打ち切られてばかりなのか？",
+    "preview_text": "今回のパワーワード『インフラ系ヒロイン』\n \n皆さんは、週刊少年ジャンプを読んでいますか？",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6cpog",
+          "text": "今回のパワーワード『インフラ系ヒロイン』",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6h9is",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "etb62",
+          "text": "皆さんは、週刊少年ジャンプを読んでいますか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5t4s",
+          "text": "2025年のジャンプは、『さむわんへるつ』という新たな柱が生まれ、『魔男のイチ』が好調を維持し、新連載が非常に優秀と思えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fsl2f",
+          "text": "──それは幻覚です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dgas",
+          "text": "エンバーズ、Ｂの星線、NICE PRISON、灯火のオテル、ハルカゼマウンド、カエデガミ、エキデンブロス、ピングポング、ゴンロン・エッグ……数多の作品が次々と打ち切られ、その死体が敷き詰められた安置所（モルグ）の遥か彼方にて上記の二作品が成功を収めていた、と見るのが正しいでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 14,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 56,
+              "style": "Bold"
+            }
+          ],
+          "key": "72ce",
+          "text": "さて、2026年も相変わらずとりあえず新連載いくつか載せてればどれか当たるだろ～～と思ってそうなジャンプ編集部に活を入れるべく、今回は「なぜここ最近のジャンプ新連載は打ち切られてばかりなのか？」という主題で",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bp3h0",
+          "text": "「なぜ『さむわんへるつ』と『魔男のイチ』は人気作品となったのか？　あと『しのびごと』は？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6gql4",
+          "text": "というロジカルを分析したいと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c2oh2",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2cg1",
+          "text": "うなぎポテトとデスカラスの共通項",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f1j90",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "foe9v",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2j9co",
+          "text": "今ジャンプにて最も話題なヒロインはこの二人と言っても過言ではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b4a1v",
+          "text": "日常系作品の名物リスナーである水尾海月こと『うなぎポテト』",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flesg",
+          "text": "異能バトル系作品の最強魔女である『デスカラス』",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1eq7t",
+          "text": "　一般人／魔法使い",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8hfa",
+          "text": "　主人公の同級生／主人公の親師匠",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7j86a",
+          "text": "　両片思い／バブみ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jte1",
+          "text": "世界観も能力もキャラクターの立ち位置も全く異なる二人ですが、『作品の人気を支える』という点において、共通する行為をしています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b44d",
+          "text": "それは、「主人公のインフラ整備をしている」ということ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "csudh",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 45,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3t9g9",
+          "text": "[#3]さむわんへるつ／週刊少年ジャンプ新連載試し読み - ヤマノエイ | 少年ジャンプ＋",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9lc7p",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 31,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "89djf",
+          "text": "[第2話]魔男のイチ - 西修/宇佐崎しろ | 少年ジャンプ＋",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42dd3",
+          "text": "うなぎポテトは、ミメイのラジオ環境を豊かにし、話題提供やネタ協力を通じて「ミメイの日常」をより充実させます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5omcf",
+          "text": "デスカラスは、イチを管理・支援し、組織との橋渡しや契約によって「イチの戦う環境」を切り開きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18ork",
+          "text": "ジャンプの感想欄でよく見られる「村を焼け」という言葉がありますが、これは主人公の退路を断ち強制的に動かす為の代案批評であり、もうこれは『旧世代』の発想。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "ac4qi",
+          "text": "今は『キャラに村（インフラ）を作らせろ！』が《標準装備》です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "43aug",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2d2or",
+          "text": "新世代は『主人公の環境を整え、時には支え、時には助言し、しかし甘やかさず叱咤をしたり見守ったりなど、主人公の世界を整備をするヒロインが重要』となっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "21ugj",
+          "text": "ツンデレ系、ヤンデレ系、メンヘラ系など、さまざまなヒロイン像が時代を支えてきましたが,、2020年代以降の世界を牽引するヒロインは",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 1,
+              "style": "Bold"
+            }
+          ],
+          "key": "7cumu",
+          "text": "「インフラ系ヒロイン」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6kdf2",
+          "text": "です！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "18s2t",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51gc3",
+          "text": "『しのびごと』を支えるヒロイン",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5v7e",
+          "text": "上記の理論では今のジャンプ作品ではインフラを整えるヒロインが人気の秘訣だと言ってますが、じゃあ『しのびごと』はどうなんだ？　となりますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85ju6",
+          "text": "もちろんいます。主人公を、環境を、世界を、作品を整え支えるヒロインが。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "900rc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 36,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ag95e",
+          "text": "[第1話]しのびごと - たけぐし一本/みたらし三大 | 少年ジャンプ＋",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8coq7",
+          "text": "『しのびごと』のインフラ系ヒロイン",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "573ot",
+          "text": "オペさんです。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "693a5",
+          "text": "ＣＶ浪川大輔だから男？　いやだなぁ～",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ecsdk",
+          "text": "ボイスチェンジャーに決まってるじゃないですか。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ckk1",
+          "text": "とまあ（半分）冗談は置いておき、このようにインフラを整えるキャラがいると世界観がグッと深まる、というより『その作品を象徴するキャラ』がいてくれると読者にも分かりやすく、読みやすくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4qs9",
+          "text": "もし\"インフラ系キャラ\"いなかったらどうなるか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1lis5",
+          "text": "オペさんのいない『しのびごと』を想像してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esebn",
+          "text": "オペさんの突っ込みがないので、ヨダカは無軌道勝手に行動し、延々と独り言で状況説明して、ヒロインを影から支えるみたいなストーカー半歩前の目的で、いきなり事件遭遇したヒロインをなんか勝手に助けて格好良いことした風に見えるけど全然魅力的じゃないしキモくてムリという作品になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eg0rm",
+          "text": "つまり、こうなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1rd3",
+          "text": "謎の村雨くんになります。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ib7b",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://shonenjumpplus.com/volume/4856001361007364176",
+                "toIndex": 53
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d238k",
+          "text": "https://shonenjumpplus.com/volume/4856001361007364176",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c62ph",
+          "text": "『しのびごと』と『謎の村雨くん』を交互に読んだら確実に「何故インフラ系キャラがいないと打ち切られるのか？」が如実に分かります。創作者は是非この二つを教科書として読んでください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "fka3p",
+          "text": "なのでここ最近のジャンプ新連載漫画の大体の打ち切り原因は『インフラ系キャラがいないから』です、以上。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jfb0",
+          "text": "ジャンプ編集部はいますぐ担当作家にインフラ整備するように指示しろッッ！！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8jovs",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "eo8e6",
+          "text": "そんな訳で、『自分は漫画の仕組みを熟知してると思い込んでるジャンプを毎週読んでるおじさん』である九兆の戯言でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6go5",
+          "text": "ジャンプ編集部がこんな文章を読ませんように！（祈り）",
+          "type": "header-two"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "entityKey": "0043f686-f605-4f67-a8a9-7cf739718245"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "e3466433-5ae3-4cfe-b5cc-4e0ab5422a0f"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "caption": "さむわんへるつ　#3",
+              "entityKey": "4cc86f40-3cca-4059-928c-bc46e5be67e9",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041151846648266752"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "caption": "『謎の村雨くん』作者：いとうみきお",
+              "entityKey": "9bb5be8d-6a3e-4dab-9e48-49077603c9b7",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041157327940952064"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "caption": "『しのびごと』　オペさん（CV:浪川大輔）　※左下の台詞の人。姿はまだ一度も出てない。",
+              "entityKey": "23c6ab34-abd6-444e-843f-49582699d298",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041153693865897984"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "532b2246-bf91-43c1-a11a-75e9ee60c2c0",
+              "url": "https://shonenjumpplus.com/episode/17107094910795720777"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "51cf9bbc-1830-4044-b675-94665f86af20",
+              "url": "https://shonenjumpplus.com/episode/17106567267644412837"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "caption": "魔男のイチ　第2話 ウロロの魔法",
+              "entityKey": "85937582-374c-4fec-8350-0ac8fb1b0c15",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041152068040437760"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "d97ef43b-f9ce-478f-be49-159b9af19cc9"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "28331fd8-78bb-4287-b99e-c5a16da1e299"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "水尾 海月（みずお くらげ）　ラジオネーム「うなぎポテト」",
+              "entityKey": "293784df-3f6f-4203-8e13-a0f79156aa90",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041144353087979521"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "ba8fdf94-19f7-4111-aec2-d798247f49c7",
+              "url": "https://shonenjumpplus.com/episode/17106567267891157206"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "caption": "デスカラス　『現代最強魔女』",
+              "entityKey": "3690d3eb-9dc0-401e-9c57-1f7aba15741d",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041144678347870209"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOgykAaQAAKAAIUIb4pTBRwAgAA",
+        "media_id": "2041151846648266752",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 78.38,
+                "rgb": {
+                  "blue": 239,
+                  "green": 239,
+                  "red": 239
+                }
+              },
+              {
+                "percentage": 14.32,
+                "rgb": {
+                  "blue": 13,
+                  "green": 13,
+                  "red": 13
+                }
+              },
+              {
+                "percentage": 9.2,
+                "rgb": {
+                  "blue": 117,
+                  "green": 117,
+                  "red": 117
+                }
+              }
+            ]
+          },
+          "original_img_height": 476,
+          "original_img_url": "https://pbs.twimg.com/media/HFOgykAaQAAJf3z.png",
+          "original_img_width": 751
+        },
+        "media_key": "3_2041151846648266752"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOaRUAakAEKAAIUIb4pTBRwAgAA",
+        "media_id": "2041144678347870209",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 96.14,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 2.41,
+                "rgb": {
+                  "blue": 17,
+                  "green": 17,
+                  "red": 17
+                }
+              },
+              {
+                "percentage": 1.8,
+                "rgb": {
+                  "blue": 117,
+                  "green": 117,
+                  "red": 117
+                }
+              }
+            ]
+          },
+          "original_img_height": 375,
+          "original_img_url": "https://pbs.twimg.com/media/HFOaRUAakAE6xuB.jpg",
+          "original_img_width": 1455
+        },
+        "media_key": "3_2041144678347870209"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOg/cwasAAKAAIUIb4pTBRwAgAA",
+        "media_id": "2041152068040437760",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 75.15,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 18.67,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 7.53,
+                "rgb": {
+                  "blue": 123,
+                  "green": 123,
+                  "red": 123
+                }
+              }
+            ]
+          },
+          "original_img_height": 377,
+          "original_img_url": "https://pbs.twimg.com/media/HFOg_cwasAAwk_z.png",
+          "original_img_width": 492
+        },
+        "media_key": "3_2041152068040437760"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOZ+YUagAEKAAIUIb4pTBRwAgAA",
+        "media_id": "2041144353087979521",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 86.19,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 5.08,
+                "rgb": {
+                  "blue": 131,
+                  "green": 87,
+                  "red": 17
+                }
+              },
+              {
+                "percentage": 2.87,
+                "rgb": {
+                  "blue": 193,
+                  "green": 162,
+                  "red": 154
+                }
+              },
+              {
+                "percentage": 1.67,
+                "rgb": {
+                  "blue": 77,
+                  "green": 68,
+                  "red": 66
+                }
+              },
+              {
+                "percentage": 1.2,
+                "rgb": {
+                  "blue": 179,
+                  "green": 147,
+                  "red": 173
+                }
+              }
+            ]
+          },
+          "original_img_height": 342,
+          "original_img_url": "https://pbs.twimg.com/media/HFOZ-YUagAEoPFf.jpg",
+          "original_img_width": 1568
+        },
+        "media_key": "3_2041144353087979521"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOieFbacAAKAAIUIb4pTBRwAgAA",
+        "media_id": "2041153693865897984",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 87.13,
+                "rgb": {
+                  "blue": 234,
+                  "green": 234,
+                  "red": 234
+                }
+              },
+              {
+                "percentage": 11.29,
+                "rgb": {
+                  "blue": 130,
+                  "green": 130,
+                  "red": 130
+                }
+              },
+              {
+                "percentage": 1.58,
+                "rgb": {
+                  "blue": 16,
+                  "green": 16,
+                  "red": 16
+                }
+              }
+            ]
+          },
+          "original_img_height": 434,
+          "original_img_url": "https://pbs.twimg.com/media/HFOieFbacAAGHkV.png",
+          "original_img_width": 496
+        },
+        "media_key": "3_2041153693865897984"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOlxnabIAAKAAIUIb4pTBRwAgAA",
+        "media_id": "2041157327940952064",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 84.36,
+                "rgb": {
+                  "blue": 248,
+                  "green": 248,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 9.11,
+                "rgb": {
+                  "blue": 112,
+                  "green": 112,
+                  "red": 112
+                }
+              },
+              {
+                "percentage": 8.92,
+                "rgb": {
+                  "blue": 36,
+                  "green": 36,
+                  "red": 36
+                }
+              }
+            ]
+          },
+          "original_img_height": 1025,
+          "original_img_url": "https://pbs.twimg.com/media/HFOlxnabIAAIiv6.jpg",
+          "original_img_width": 1070
+        },
+        "media_key": "3_2041157327940952064"
+      }
+    ]
+  }
+}

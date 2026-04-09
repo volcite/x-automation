@@ -1,0 +1,169 @@
+{
+  "tweet_created_at": "2026-04-02T04:15:14.000000Z",
+  "id": 2039557244686303700,
+  "id_str": "2039557244686303726",
+  "type": "tweet",
+  "conversation_id_str": "2039557244686303726",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/VZDiZhu70s",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 852285786066006000,
+    "id_str": "852285786066006016",
+    "name": "ナツイ＠3/2著書『サブカルをお守りにして生きてきた 』発売！",
+    "screen_name": "natsui_tanoshi",
+    "location": "Amazonアソシエイトに参加しています！",
+    "url": "https://note.com/natsui_festa",
+    "description": "かわいくて楽しくて天才のおふざけ屋さん。日常・サブカルのエッセイ。記事に沢山あります。ご依頼はDMかnatsui.tanoshi@gmail.com。3/2発売エッセイ集（https://t.co/FKThQ6pKrA）noteメンシプ（https://t.co/RqfCWjaMps)参加ZINE（https://t.co/RPk0hXlCUD）",
+    "protected": false,
+    "verified": true,
+    "followers_count": 139715,
+    "friends_count": 4553,
+    "listed_count": 523,
+    "favourites_count": 234469,
+    "statuses_count": 66384,
+    "created_at": "2017-04-12T22:22:20.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1589312711820988416/S64me7E9_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 106,
+  "reply_count": 2,
+  "retweet_count": 360,
+  "favorite_count": 3672,
+  "views_count": 2101612,
+  "bookmark_count": 985,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039529212932136960",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/VZDiZhu70s"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T04:15:14.000000Z",
+    "id": 2039557244686303700,
+    "id_str": "2039557244686303726",
+    "title": "友達の恋人がカスな時「わたしじゃダメなんかよ」って思うよな",
+    "preview_text": "",
+    "cover_url": "https://pbs.twimg.com/media/HE32JLTbAAAc_SV.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8p9lb",
+          "text": "　友達がカスと付き合ってしまったことが、何度もある。ある友達は恋人に毎月数万円をせびられ続け、ついにブチギレたら「じょ、冗談だよぉ……」と言われたそうだ。なるほど、冗談なのか。だとしたら、面白くなさすぎるのではないだろうか。あと、冗談なんだったら友達がお前に渡した数十万はさっさと返してあげて欲しい。\n\n　また、ある友達は恋人から日常的にモラハラを受けていて、自分の部屋からわたしに泣きながら電話をしてきた。しかし、途中で同棲している友達の恋人が乱入してきて、スマホを奪い、わたしに向かって怒鳴りはじめた。\n　同じ言語を使用しているはずなのに何を言っているのか本当に分からなくて、少し話しただけでも、とにかく頭が悪そうだということは伝わってきた。そこで一か八か「実はわたしは法学部で……弁護士の友達が沢山いて……」という、どの角度から見てもバレバレの嘘を言ってみたら、急に大人しくなりこちらの話を丁寧に聞いてくれるようになった。頭が悪いにもほどがある。\n　ちなみにわたしは経済学部出身だ。学歴詐称をしているわたしと存在しない弁護士のおかげで、友達は恋人と別れられることになった。「バカvsかなりバカ」という「ゴジラvsメカゴジラ」以来の熱いカードは順当にバカの勝利で戦いを終えた。\n\n　他にも「嫌がっているのに、自分の友達との遊びの場に連れて行かれる」「服装や髪色にいちいち口を出される」などは、ほんっっっとうによく聞く。わたしの友達はお前のラブブでも、リカちゃん人形でもない。そんなに人間をおもちゃにして遊びたいなら、お前を黒ひげ危機一発のようにタルに入れて剣でも刺してやろうか。\n　あと別れ話をすると「別れるなら、死ぬ」と言われるという話も聞く。とにかく卑怯で自分勝手だと思うし、それはただの脅迫だ。わたしはこういう人間には冷たいので「そもそも、なんで別れたいって言われているのに、自分を人質にできると思ったんだよ」と思う。\n\n　こういうことがあまりにも多すぎてイラついていたわたしは、ツイッターで突然「あなたの恋人が優しくない場合、恋人よりも唐揚げを選びなさい。なぜならあなたの恋人はいつでもクソだけど、唐揚げはいつでも美味しいから。」というツイートをした。意味が分からなすぎて反応がなかったので、すぐに消したのだけど、後日フォロワーからDMで唐揚げの写真と共に「恋人と別れました！」と送られてきたので、笑顔になった。\n\n　「優しい友達がなんでこんな人と付き合ってしまうのだろう」と思うこともあるが、優しい友達だからこそ、近づいてくる人の危うさに気づけないのだろう。\n　まあ、わたしも人のことは言えない。昔、ヤバい人と付き合ってしまった時、デートで意図せず終電を逃したら「こういう時は、警察署に行けば無料で泊めてくれるよ！ちょっと聞いてくる！」と言い出し、そのまま警察署に突入してしばらく連絡が取れなかったことがある。当時の恋人がご迷惑をおかけして警察の方々には心から申し訳ないのだけど、今思い出してもちょっとだけ「なんであいつ、あんなに自信満々だったんだよ」と笑顔になる。\n\n　そんな自分を棚に上げて、同性・異性問わず友達がカスと付き合っている時、「なんでわたしじゃダメなんだろう」と思う。わたしは友達のことはとにかく甘やかす。軽率に「かわいいね」「天才だね」って言うし、困っていたら毎月お米も送る。笑ってくれるなら公園ででんぐり返しもする。急に好きなアイドルの振り付けを覚えて披露するし、コーラを一気飲みして山手線の駅名全部言ってもいい。ビジュが好みになることで話を聞いてくれるならダイエットだって頑張る。とにかく砂糖漬けになるまで甘やかすし、絶対に飽きさせない。沢山笑顔にさせる。\n\n　その為にわたしは、お米を買う為のお金を稼ぎ、でんぐり返しの練習をし、YouTubeを見てダンスを踊り、ダイエットコーラを飲み、山手線の駅名を覚えて、ちょっとだけランニングをした上で、ヘンテコなエッセイを書いているのだった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bmhb1",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "avabd",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9t99t",
+          "text": "※これの300倍ぐらいの時間をかけて書いたエッセイが、24本も収録されている本が発売しています！本の宣伝の為に書いたので本を買ってくださるとありがたいです！1人暮らしの話やバイト先の話やコーヒーの話も書いてるので、似た感じでウケることが出来ます！サブカルの話も、事前知識があまり必要ないように作っています！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dpj4q",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cuph6",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "45fab101-70ba-4dda-a55b-316de50c25ea"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "14467fc6-4c84-4b25-9ea1-b21bccd95273",
+              "tweetId": "2010292617377153348"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "tweet_created_at": "2026-04-01T06:01:48.000000Z",
+  "id": 2039221674546253800,
+  "id_str": "2039221674546253854",
+  "type": "tweet",
+  "conversation_id_str": "2039221674546253854",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/SQEGQppqvq",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1645718130549989400,
+    "id_str": "1645718130549989379",
+    "name": "レイラ66",
+    "screen_name": "layla_biz",
+    "location": "",
+    "url": null,
+    "description": "人生60年の経験から見える、日常のツッコミと人間関係の本音を発信｜若い世代には｢そういう見方あるんだ｣、同世代には｢それな｣を届けたい",
+    "protected": false,
+    "verified": true,
+    "followers_count": 10161,
+    "friends_count": 314,
+    "listed_count": 70,
+    "favourites_count": 63612,
+    "statuses_count": 54269,
+    "created_at": "2023-04-11T09:19:22.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1645718130549989379/1774410627",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1689069849929293825/jU0fz6GB_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 97,
+  "reply_count": 8,
+  "retweet_count": 166,
+  "favorite_count": 1699,
+  "views_count": 5230054,
+  "bookmark_count": 1242,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039178296848777216",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/SQEGQppqvq"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T06:01:48.000000Z",
+    "id": 2039221674546253800,
+    "id_str": "2039221674546253854",
+    "title": "中村倫也さんを見ていて思う。結婚相手は「好きな人」より「顔色を見なくていい人」のほうが大事。",
+    "preview_text": "毒親育ちの人にとって結婚は、愛されることより「安心して話せること」が救いかも\n中村倫也さんを見ていて思う。\n結婚相手って、「好きな人」より\n顔色を見なくていい人 のほうが大事なんじゃないか。",
+    "cover_url": "https://pbs.twimg.com/media/HEyeBWPbkAAp3bD.png",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5vpu6",
+          "text": "毒親育ちの人にとって結婚は、愛されることより「安心して話せること」が救いかも",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 31,
+              "style": "Bold"
+            }
+          ],
+          "key": "4ekli",
+          "text": "中村倫也さんを見ていて思う。\n結婚相手って、「好きな人」より\n顔色を見なくていい人 のほうが大事なんじゃないか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3iqt5",
+          "text": "これ、恋愛に夢がない話をしたいわけじゃない。\nむしろ逆で、ずっと人の機嫌を見て生きてきた人ほど、ここは切実。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3s2at",
+          "text": "水卜ちゃんが結婚してから\n「小さい頃からずっと他人の顔色をうかがって、自分の話をしないように生きてきたけど、今はそれがなくて、夫に自分の話ができる」\nと話していて、それ救いだと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "bnmv8",
+          "text": "ただの夫婦エピソードじゃない。\n口を開く前に一回止まる癖が、少しほどけた話なんだと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jfek",
+          "text": "「私のこと嫌いかな」\n「私の話、飽きてるかな」\nって、先に相手の顔色を見てしまう人っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7mtkl",
+          "text": "だからこそ、\n「今日これが楽しかった」\n「私はこう思った」\nと、その日の小さい感想をそのまま話せることが大きい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 20,
+              "style": "Bold"
+            }
+          ],
+          "key": "4dk8g",
+          "text": "それは、ただ話せるということじゃない。\n顔色をうかがわずに話せるようになった\nということだから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ous4",
+          "text": "そんな人が、結婚して初めて\n自分の話をそのままできる相手に出会えたって、かなり大きい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpl75",
+          "text": "顔色を見ながら話す癖は、家の中で作られる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6da8b",
+          "text": "何か言おうとして、喉まで来てるのに、一瞬で引っ込める。\n「いま言わないほうがいいか」\n「変な空気にならないかな」\n「面倒くさいと思われないかな」\nって、頭の中で勝手に会議が始まる。\nで、結局飲み込む。\n話したいことより、相手の顔のほうを見てしまう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajd4k",
+          "text": "私がそうだった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "es6o2",
+          "text": "子どもの頃から、家の中では笑うことより、空気を読むことのほうが大事だった。\n何を言えば怒られないか。\nどの言い方なら機嫌を損ねないか。\nいま顔を上げていいか。\nまだ黙っていたほうが安全か。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 29,
+              "style": "Bold"
+            }
+          ],
+          "key": "d28lm",
+          "text": "たとえば食事中。\n学校であったことを話そうとすると、父に\n「食事中は口を開けるな。黙って食べろ」\nと言われる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 75,
+              "style": "Bold"
+            }
+          ],
+          "key": "63cf7",
+          "text": "つまり家は、今日あったことを話す場所じゃなかった。\n楽しかったことをそのまま持ち込める場所じゃなかった。\n先に考えるのは「何を話したいか」じゃなく、\n“いま話しても大丈夫か” だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8mftn",
+          "text": "こういうの、あとまで残る。\n大人になっても、言葉を出す前に一回止まる。\n相手の顔を見て、声のトーンを見て、いま安全かを確かめる。\n会話がキャッチボールじゃなくて、確認作業になる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77h9o",
+          "text": "夫とは、食事中に自然に会話が弾んだ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vj7a",
+          "text": "でも夫とは、食事中に自然に会話が弾んだ。\nこれが最初、かなり不思議だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brbjm",
+          "text": "食事って、黙ってやり過ごす時間じゃないんだ。\n今日あったことを話していい。\n自分の意見を言っていい。\n途中で口をつぐまなくていい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7c2ea",
+          "text": "そんなことを、私は結婚して初めて知った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b4qpq",
+          "text": "これ、普通に育った人には大げさに見えるかもしれない。\nでも、ずっと“家の中でこそ黙る”のが当たり前だった人間には、かなり大きい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73r43",
+          "text": "中村倫也さんのすごさは「安心させること」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8n46n",
+          "text": "しかも中村倫也さんは、\nお皿の料理が減ると寂しそうな顔をする妻を見て\n「本当に食べ物が好きなんだな」\nって笑える人なんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "hqau",
+          "text": "これ、地味だけど強い。\n「まだ食べたいの？」で終わらせない。\nその表情を、その人らしさとして受け取っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 12,
+              "style": "Bold"
+            }
+          ],
+          "key": "3pmrf",
+          "text": "優しい旦那、というより\n相手を安心させる人 なんだと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6gmlk",
+          "text": "この人の前では100点でいなくていい。\n話をうまくまとめなくてもいい。\nちょっと変な間があっても、妙な顔をしても、\nいちいち減点されない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5kuv",
+          "text": "そう思わせてくれる人って、\nずっと人の顔色を見てきた人にはものすごく大きい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ulg8",
+          "text": "夫婦に必要なのは「好き」より「安心」かもしれない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2n7nv",
+          "text": "好きな人と結婚したい。\nそれはそう。\nでも、好きな人だけでは足りない人もいる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4je8r",
+          "text": "とくに、ずっと緊張の中で生きてきた人には、\nドキドキさせてくれる人より、\n「そのままでいいよ」と空気で伝えてくる人のほうが、人生を変える。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "f4ta9",
+          "text": "結婚相手って、「好きな人」より\n顔色を見なくていい人 のほうが大事かも。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5hdd8",
+          "text": "少なくとも、ずっと緊張して生きてきた人にとっては。\n夫婦って、ずっと盛り上がることより、\nそのままの自分を受け入れてもらえることのほうが、\n大事だと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 65,
+                "text": "layla_biz",
+                "toIndex": 75
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ftdic",
+          "text": "こういう、言葉にしにくい違和感や気持ちの話を普段から書いています。\n気になったら、フォローしてほかの投稿ものぞいてみてください。\n@layla_biz ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cpo0i",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6l2hj",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "d675cd62-596b-4425-94fd-d0ea3b47c0d7",
+              "tweetId": "2038858974397915426"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

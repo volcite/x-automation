@@ -1,0 +1,225 @@
+{
+  "tweet_created_at": "2026-04-03T08:55:42.000000Z",
+  "id": 2039990212781286000,
+  "id_str": "2039990212781285823",
+  "type": "tweet",
+  "conversation_id_str": "2039990212781285823",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/fFq4bKpEIs",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 929316340694900700,
+    "id_str": "929316340694900736",
+    "name": "yuma@内向哲学",
+    "screen_name": "yumaevo",
+    "location": "",
+    "url": "https://note.com/yumaevo",
+    "description": "内向哲学(@naikoutetsugaku)を運営してます。「読んだ人の思考,視点,知恵を深化する」「孤独を愛する人に向けた実践と哲学」を両輪に、内向的な人の人生戦略を発信しています。X運用/note発信なら@yumawitter",
+    "protected": false,
+    "verified": true,
+    "followers_count": 38004,
+    "friends_count": 11,
+    "listed_count": 163,
+    "favourites_count": 3889,
+    "statuses_count": 2048,
+    "created_at": "2017-11-11T11:54:16.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1973276843626438657/Yr2AykYk_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 431,
+  "reply_count": 26,
+  "retweet_count": 807,
+  "favorite_count": 7100,
+  "views_count": 14033468,
+  "bookmark_count": 5802,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039967083191312384",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/fFq4bKpEIs"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T08:55:42.000000Z",
+    "id": 2039990212781286000,
+    "id_str": "2039990212781285823",
+    "title": "頭がいい人は、性格もいい",
+    "preview_text": "「この人、頭いいな」って思う人って、おおむね性格も良いんですよね。\n不思議に感じていたんですが、これはよく考えると当然のことなんだと思うようになりました。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6deuq",
+          "text": "「この人、頭いいな」って思う人って、おおむね性格も良いんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brjr3",
+          "text": "不思議に感じていたんですが、これはよく考えると当然のことなんだと思うようになりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "20r2o",
+          "text": "聡明な人ほど無駄に怒らない。無闇に他人をジャッジしない。マウントも取らない。これって「性格が温厚だから」という話じゃなくて、「頭が良いから」なんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "73dpj",
+          "text": "怒った先に何があるか。相手との関係が悪化し、自分の評判も下がって感情も荒れる。多くの場合、問題は何も解決しない。頭の良い人はそこまで見えているから怒りが湧いても外に出すことを選ばない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "aq3cg",
+          "text": "他者をジャッジした先に何があるか。「あの人はダメだ」と決めつけた瞬間にその人から学べることがゼロになる。視野が狭まって自分の器も小さくなっていく。それが見えているから聡明な人は安易に人を裁こうとしない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e0tif",
+          "text": "マウントを取った先に何があるか。一瞬の優越感と引き換えに相手の反感を買い信頼を少しずつ失っていく。長期的に見れば明らかにマイナスです。そこまで計算できているからマウントを取る気にならない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ccigj",
+          "text": "つまり聡明な人というのは感情が湧いた瞬間ではなく、2手先3手先を読んで行動を選んでいるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4ia9",
+          "text": "もちろん、頭が良いゆえにコンプレックスが少ないという側面もあります。自分の軸がしっかりしているから他者と比べる必要がない。誰かに揺さぶられても動じにくい。だから余計に穏やかに見えるんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "975a2",
+          "text": "内心でどう思っているかはわかりません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8rea",
+          "text": "苛立ちを感じる瞬間だって当然あるでしょう。(ひょっとしたら腹黒いかもしれません。)でも少なくとも「目に見えるコミュニケーション」において頭の良い人は性格が良く、一緒に過ごしていて快適である蓋然性が高いんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1kk9",
+          "text": "「頭の良さ」というのは知識の量でも弁舌の鮮やかさでもなく、こういう振る舞いの端々に滲み出てくるものなんじゃないかと、ぼくは思っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 16,
+                "text": "https://note.com/yumaevo/n/n9aa0e2dbb172",
+                "toIndex": 56
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jkul",
+          "text": "・地頭とは感情知性(EQ)のことhttps://note.com/yumaevo/n/n9aa0e2dbb172",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 38,
+                "text": "https://note.com/yumaevo/n/nf69efe5597ea",
+                "toIndex": 78
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpvoj",
+          "text": "・【地頭を鍛える】学校ではなかなか教わらない「構造を見抜く力」を強化する方法https://note.com/yumaevo/n/nf69efe5597ea",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "tweet_created_at": "2026-04-04T09:57:27.000000Z",
+  "id": 2040368139607871700,
+  "id_str": "2040368139607871782",
+  "type": "tweet",
+  "conversation_id_str": "2040368139607871782",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/J11aCluT1E",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1754422463860228000,
+    "id_str": "1754422463860228096",
+    "name": "さとう",
+    "screen_name": "pam99ham",
+    "location": "→本",
+    "url": "https://www.amazon.co.jp/dp/B0FTSL2RYD",
+    "description": "25歳整形レズ",
+    "protected": false,
+    "verified": true,
+    "followers_count": 164023,
+    "friends_count": 221,
+    "listed_count": 232,
+    "favourites_count": 26715,
+    "statuses_count": 4614,
+    "created_at": "2024-02-05T08:31:36.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754422463860228096/1746723812",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2002008575519195137/U4oqm__r_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 49,
+  "reply_count": 5,
+  "retweet_count": 183,
+  "favorite_count": 1971,
+  "views_count": 174689,
+  "bookmark_count": 556,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040365326676955136",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/J11aCluT1E"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T09:57:27.000000Z",
+    "id": 2040368139607871700,
+    "id_str": "2040368139607871782",
+    "title": "きみのこと嫌いになんかならないよ",
+    "preview_text": "私はあまり人を嫌いになれない。",
+    "cover_url": "https://pbs.twimg.com/media/HFDXvQKagAAYCOy.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eifdb",
+          "text": "私はあまり人を嫌いになれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flakk",
+          "text": "思春期を共に笑って過ごした同級生が大人になってなんか苦手なやつだなって思う人になっちゃってても、あの時一緒に過ごした思い出は私の中で色褪せていないから、どうしたって嫌いになれない。あの記憶は私にとって宝物だから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kii3",
+          "text": "好きな文章を書く人がいるなあって思って、実際にあったらすごくおかしな人だったりしても、それでも嫌いにはなれない。私があなたの文章に惹かれた事実は変わらないから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86rkm",
+          "text": "好きな音楽を作る人がいて、その人がどんな不祥事を起こしても、やっぱり嫌いになれない、あなたの音楽に何度も救われた夜があったし、あなたの音楽が好きだから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98ur6",
+          "text": "この人なんか思っていた人と違うなと感じて、自分が苦しくなるならば、静かに離れればいいだけでさ、相手に怒りをぶつけるのは傲慢だとおもうの。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9o0r3",
+          "text": "よく「そんな人だと思わなかった」「あなたは変わってしまった」と吐き捨てて離れて行く人がいるけど、勝手に期待していたのはあなたの方で、私はなんにも変わっていなかったりする。きっと、あなたの知らない私の一面が見えてしまっただけでしょう？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "99q48",
+          "text": "だから私はあんまり人を嫌いにならない。というかなれない。私は何よりもあなたがくれた事実を見る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eoeq6",
+          "text": "ネットニュースよりも噂話よりも、私はあなたが私にくれたものしか信じないよ。あなたの違う一面が見えても、あの時あなたにもらった感動、素敵な言葉、共有した時間は変わらない。心のどこかで、ずっと私の生きる糧になっているし、あなたがどこにいても幸せに生きていたらいいなとおもうの。どうかこれを読んでいる君がずっと苦しくありませんように。愛を込めて。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

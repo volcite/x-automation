@@ -1,0 +1,535 @@
+{
+  "tweet_created_at": "2026-04-05T11:12:21.000000Z",
+  "id": 2040749378386960600,
+  "id_str": "2040749378386960520",
+  "type": "tweet",
+  "conversation_id_str": "2040749378386960520",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/h8xvXBR1y3",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 91959566,
+    "id_str": "91959566",
+    "name": "まくるめ",
+    "screen_name": "MAMAAAAU",
+    "location": "だいたい東京",
+    "url": "https://www.amazon.jp/hz/wishlist/ls/1U9QTBN6L3X3?ref_=wl_share",
+    "description": "怪文書家、小説の者。植物が好き。創作ジャンルは怪談・ＳＦ・ファンタジーです。初の拙著「その怪異はまだ読まれていません」がKADOKAWA様より出版となります／ノベルアップ+の第一回小説賞入賞者",
+    "protected": false,
+    "verified": true,
+    "followers_count": 48584,
+    "friends_count": 4046,
+    "listed_count": 823,
+    "favourites_count": 9342,
+    "statuses_count": 113606,
+    "created_at": "2009-11-23T07:38:03.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/91959566/1459145662",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181185661119811584/OsgEJl_m_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 1344,
+  "reply_count": 111,
+  "retweet_count": 6383,
+  "favorite_count": 22220,
+  "views_count": 15658232,
+  "bookmark_count": 5838,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040745761865109504",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/h8xvXBR1y3"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T11:12:21.000000Z",
+    "id": 2040749378386960600,
+    "id_str": "2040749378386960520",
+    "title": "上司がそば打ちにハマってみんな死んだ",
+    "preview_text": "ほらよくあるじゃないですか。ある程度年くった人がそばにハマるってやつ。あれにうちの上司もなったんですよ。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6t863",
+          "text": "ほらよくあるじゃないですか。ある程度年くった人がそばにハマるってやつ。あれにうちの上司もなったんですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dq0kl",
+          "text": "最初は各地の有名なそばを食べ歩いたりとかしてて。出張なんかでもそば屋めぐりをするんですよ。職場のみんなは「年くってラーメンがキツくなった人がそばに行きがちだよね」とか陰口を叩いてました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56pb6",
+          "text": "上司はそのうち自分でそばを打つようになって、部下に食べさせたりとかしてました。そば自体はまあそこそこうまかったんだけど、休日に付き合わされてそばを食べさせられるのって「なんかなあ」って感じで評判は悪くて、ぼくらは陰で上司のことを「そばチンポ」ってあだ名で呼んでました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3bleb",
+          "text": "なんでチンポかって言うと、ある日の「上司のそばを食べる会」で上司が尿道結石になって、あれ痛いらしいじゃないですか。実際七転八倒してたんですけど、それでも上司はそばを茹で上げて水で締めるまでは救急車を呼ばなかったんですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "399ig",
+          "text": "そんで救急車が来て運ばれていくときに「これが最後のそばかもしれん……」って言って、みんな重病かと思ってさすがに若干しんみりしてそばをすすってたら尿道結石だってわかって、みんな「ワハハ」ってなって「そばチンポ」のあだ名をひょうきんな同僚がつけたんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9c27a",
+          "text": "上司が仕事をやめて、退職金でそば屋を開いたのはその一年半後でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9bsa8",
+          "text": "職場のみんなはその元上司に招かれて、そばを食べに行ったんです。まあもう上司じゃないから付き合う義理もないんだけど、なんとなく集まりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3mvh9",
+          "text": "上司のそば屋はちょっと郊外にあって、思った以上にアクセスの悪いところでした。「そばチンポ、不動産屋につかまされたな」とか言ってみんなで笑い合ってたんですが、車を駐車場に停め、店内に入ったときに、雰囲気は一変しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fild",
+          "text": "ガーッて大きな音を立てて、入り口のシャッターが閉まったんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ff30k",
+          "text": "あれ？　と思うと、入り口にあった木彫りの七福神がしゃべり出したんです。「ようこそ血のそばショーへ……」上司の声でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "52lb6",
+          "text": "声が促す通りに、私たちは店の奥に入りました。曲がりくねった廊下があって、奥には木でできたテーブルと椅子がありました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "194th",
+          "text": "座ろうと椅子を引くと、机の下の暗がりから何かが這い出てきました。そばの塊でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ag0km",
+          "text": "その塊は、十割そばとは思えないスピードで私たちにからみついて、私たちを椅子に座らせて拘束しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "o7pv",
+          "text": "「さあ、そばを食べてくれたまえ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fs9j",
+          "text": "元上司の声がすると同時に、めんつゆにまみれたそばの塊が天井からどさどさとテーブルの上に落ちてきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "srtl",
+          "text": "「まずはお前からだ！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15umr",
+          "text": "「キキャア！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "afk71",
+          "text": "そばの塊のひとつが、わたしの隣の席にいた同僚の顔に飛びつきます。同僚は抵抗しますが、彼の耳と鼻の穴からそばがズルズルと侵入していきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkpgl",
+          "text": "さばぶしの香りがしたかと思うと、すぐにそれは血の匂いに変わりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnmic",
+          "text": "同僚の両目が破裂し、まぶたから血と粘液にまみれたそばが這い出します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "j5uq",
+          "text": "同僚は抵抗……というか痙攣し、やがてぐったりとしました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b616t",
+          "text": "「そばチンポのおそばの味はどうかな？」元上司の声が響きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "54j39",
+          "text": "「な、なぜそのあだ名を」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6k8vc",
+          "text": "向かいの同僚が言いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5r54",
+          "text": "「ぜんぶ盗聴してたんだよーん」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6evpi",
+          "text": "元上司は、まるで手品の種明かしをするように言いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8t4de",
+          "text": "彼はオフィスや自宅に無数の盗聴機を仕掛け、わたしたちの会話をすべて録音していたのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80als",
+          "text": "「だから私はヌードル・デーモンに魂を売って、復讐のための力を手に入れたんだよーん」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7e5uv",
+          "text": "元上司が姿を現しました。それは、もはや人間の姿をしていませんでした。巨大なそばの塊に、ただ破れた人間の皮がはりついているだけでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b39h4",
+          "text": "「くそっ、卑怯だぞっ！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3clto",
+          "text": "「卑怯なのはどっちかな？　さあ次はお前だ！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3p1i0",
+          "text": "そばの塊が彼の口から入り込んで、頭部を破裂させるまでは３分もかかりませんでした。こうして、同僚たちは一人また一人とそばの餌食になっていったのです。最後に残されたのは私でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4gc3c",
+          "text": "「さて、最後に君だが……君は生かしてやってもいい」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cv6h",
+          "text": "「えっ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b3r7e",
+          "text": "「君はわたしの悪口を言わなかったからね。ただし、生きて返してやるには条件がある」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63i9k",
+          "text": "「な、なんですか」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bbcj",
+          "text": "「君は食べログでこのそば屋のレビューに５をつけ、それからお友達やお知り合いにこのそば屋を紹介するんだ。それが条件だ……」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cim3l",
+          "text": "「なるほど、さらに犠牲者を増やそうという考えなのですね」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3cf0q",
+          "text": "わたしは深呼吸して言った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2c43u",
+          "text": "「お断りします」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5kub7",
+          "text": "「なぜだ？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4riqb",
+          "text": "「ラーメン派なので」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efc3e",
+          "text": "「……そうか、残念だよ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fj8a",
+          "text": "無数のそばの群れが私に襲いかかります。わたしは自分を縛りつけているそばを引きちぎり、攻撃を回避しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1an2a",
+          "text": "「なにっ！　私のそばを引きちぎるだと？！　そんな筋力が……」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cg5tc",
+          "text": "わたしは自分の腕を見せつけました。その腕には、まるで強化外骨格のような形に黄色い麺がからみついています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69sh7",
+          "text": "「そ、それは、ラーメン！！　ラーメンを筋肉組織のように構成し、筋力を増幅させたのか！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ag7ul",
+          "text": "「ヌードラーはあなただけではないということですよ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30mrb",
+          "text": "「ぬかせ！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ep8hh",
+          "text": "元上司はそばをムチのように使い、私を攻撃しようとします。しかしそれより先に、わたしのラーメンは素早く触手を伸ばし、卓上に置かれていたわさびとねぎをつかんで、相手に投げつけました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1cccp",
+          "text": "「ぐわああ！　やめろ！　最初の一口めは薬味を入れずに食え！！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7crc",
+          "text": "それが彼の断末魔でした。そばは急速に力を失い、元上司はその場に崩れ落ちます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84mjc",
+          "text": "「ヌードルとは基本的に自由なもの。それを忘れ、食べ手に指図するヌードラーは暗黒面に堕ちるのです」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5eb6c",
+          "text": "誰も聞くものがいなくなった空間で、私はつぶやきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1iv4i",
+          "text": "私が冷酷な決断をしたことを隠す気はありません。しかし、仕方がないのです。ヌードラーが持つ力……町にいるラーメン屋、うどん屋、そば屋たちがもつ潜在的な力に世界が気づくことはあってはならないのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "616bp",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

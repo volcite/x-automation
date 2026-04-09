@@ -1,0 +1,717 @@
+{
+  "tweet_created_at": "2026-04-06T12:24:45.000000Z",
+  "id": 2041129984702795800,
+  "id_str": "2041129984702795872",
+  "type": "tweet",
+  "conversation_id_str": "2041129984702795872",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/ogjETOnUGx",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1510247053124792300,
+    "id_str": "1510247053124792329",
+    "name": "こーずぶろぐ",
+    "screen_name": "cozeblog",
+    "location": "ブログ→",
+    "url": "https://note.com/cozeblog",
+    "description": "とにかく勉強します/新人薬剤師(27)/サウナ/読書/YouTube(7.5万)/ペンを持つことが趣味/皆様の学びをサポートしたい/勉強頑張ってる人フォローします/ こーずぶろぐ初の著書『マジカル勉強脳』絶賛発売中https://t.co/X5xjsMxgqR",
+    "protected": false,
+    "verified": true,
+    "followers_count": 27348,
+    "friends_count": 367,
+    "listed_count": 90,
+    "favourites_count": 2104,
+    "statuses_count": 2363,
+    "created_at": "2022-04-02T13:25:59.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510247053124792329/1668430790",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1512807260095131656/p_rOnhkC_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 64,
+  "reply_count": 8,
+  "retweet_count": 162,
+  "favorite_count": 1793,
+  "views_count": 3088855,
+  "bookmark_count": 3262,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041127866403049473",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/ogjETOnUGx"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T12:24:45.000000Z",
+    "id": 2041129984702795800,
+    "id_str": "2041129984702795872",
+    "title": "Googleが“優秀な人材”を見抜く基準",
+    "preview_text": "「優秀な人材とは何か」\nこの問いに対して、多くの人はこう答える。\n学歴が高い人、スキルがある人、成果を出してきた人。\nでも、Googleは違った。\nGoogleは過去に、世界中から超優秀な人材を集め続けてきた企業だ。",
+    "cover_url": "https://pbs.twimg.com/media/HFOLbEWb0AA4yb_.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4p782",
+          "text": "「優秀な人材とは何か」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "emeug",
+          "text": "この問いに対して、多くの人はこう答える。\n学歴が高い人、スキルがある人、成果を出してきた人。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ent4d",
+          "text": "でも、Googleは違った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2bim9",
+          "text": "Googleは過去に、世界中から超優秀な人材を集め続けてきた企業だ。\nスタンフォード、MIT、ハーバード。\nいわゆる“トップ中のトップ”が集まる環境。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "butam",
+          "text": "それでも、彼らはある時期から「学歴や経歴だけでは判断しない」という結論にたどり着く。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "75ab4",
+          "text": "なぜか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3e8tl",
+          "text": "“それだけでは、長期的に成果を出す人材を見抜けなかったから”だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fd4q2",
+          "text": "ここから、Googleは採用の基準を大きく変えていく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flcqb",
+          "text": "学歴を重視していたGoogleが気づいた違和感",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f22bq",
+          "text": "かつてのGoogleは、明確にエリートを採用していた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "234dk",
+          "text": "トップ大学出身者。\n優れた研究実績。\n華やかなキャリア。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9iud7",
+          "text": "一見すると、完璧な人材だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3e8ce",
+          "text": "しかし、実際に働き始めると、ある問題が浮き彫りになる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cvovo",
+          "text": "「期待していたほど成果が出ない人」が一定数いたのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1a7p",
+          "text": "一方で、学歴や経歴がそこまで突出していないにも関わらず、\n圧倒的な成果を出す人も存在していた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8rm5s",
+          "text": "このギャップに対して、Googleは本気で向き合った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7clpj",
+          "text": "そして社内で大規模なデータ分析を行う。\nどのような人材が実際に活躍しているのか。\n何がパフォーマンスの差を生んでいるのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nq9h",
+          "text": "その結果、ある結論にたどり着く。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9nsg0",
+          "text": "「優秀さは、履歴書では測れない」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5t4k",
+          "text": "Googleが見つけた本当に重要な5つの要素",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a007q",
+          "text": "Googleは研究の結果、優秀な人材に共通する要素を定義した。\nそれが、以下の5つだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ffpp",
+          "text": "一般的なスキルや知識ではない。\nもっと本質的な部分だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ku4m",
+          "text": "まず1つ目が、「一般的な認知能力」。\nこれは単なるIQではなく、未知の問題にどう向き合うかという力だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7p977",
+          "text": "答えが用意されていない状況で、どれだけ思考を深められるか。\nどれだけ柔軟に仮説を立てられるか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kor9",
+          "text": "ここが重要だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qs7j",
+          "text": "2つ目が、「役割に応じたリーダーシップ」。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5tqt",
+          "text": "ここで言うリーダーシップは、役職とは関係ない。\n必要な場面で前に出て、不要な場面では引く。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6a7cu",
+          "text": "状況に応じて動ける柔軟さのことだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5p57n",
+          "text": "3つ目が、「謙虚さ」。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4re8i",
+          "text": "Googleはこれを特に重視している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "au376",
+          "text": "自分が間違っている可能性を受け入れられるか。\n他人の意見を素直に取り入れられるか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86g5k",
+          "text": "これができない人は、どれだけ優秀でもチームで機能しない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmm8p",
+          "text": "4つ目が、「オーナーシップ」。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7k9gc",
+          "text": "自分の仕事を“自分ごと”として捉えられるか。\n指示待ちではなく、自ら問題を見つけて動けるか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2pas6",
+          "text": "ここで大きな差がつく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "44dva",
+          "text": "そして最後が、「専門性」。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "acm08",
+          "text": "意外かもしれないが、専門性は最後に来る。\nつまりGoogleは、「スキルは後から伸ばせる」と考えている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55l2j",
+          "text": "それよりも重要なのは、\n“どう考え、どう動くか”という土台の部分だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cqk30",
+          "text": "面接で実際に行われていること",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpbme",
+          "text": "これらの要素を見抜くために、Googleの面接はかなり独特だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "achhg",
+          "text": "過去には「マンホールのフタはなぜ丸いのか」といった問題が出されていたことで有名だが、\n重要なのは答えではない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpfg4",
+          "text": "“考え方のプロセス”が見られている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a50ct",
+          "text": "例えば、ある候補者が難しい問題に直面したとき。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cu7uo",
+          "text": "すぐに答えを出そうとするのか。\nそれとも一度立ち止まり、前提を整理するのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbp24",
+          "text": "わからないときにどう振る舞うのか。\n仮説をどう組み立てるのか。\n他者とどうコミュニケーションを取るのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fe7h",
+          "text": "すべてが評価対象になる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5k5ps",
+          "text": "つまりGoogleは、完成された人材を求めているわけではない。\n“成長し続ける人材”を見ている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ql2e",
+          "text": "ここに、多くの企業との違いがある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rn12",
+          "text": "なぜこの基準が重要なのか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jogt",
+          "text": "この採用基準は、単なる理想論ではない。\n実際に成果につながっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ur5a",
+          "text": "なぜなら、現代の仕事は「正解がない問題」を扱うことが多いからだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ecrr0",
+          "text": "マニュアル通りに動けばいい時代ではない。\n過去の成功パターンが通用するとも限らない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bnlcd",
+          "text": "だからこそ重要になるのが、\n“未知に対応できる力”だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5e3pc",
+          "text": "Googleはそれを見抜くために、\nあえて測りにくい要素を重視している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66gur",
+          "text": "短期的なスキルよりも、長期的な成長性。\n一時的な成果よりも、継続的に価値を生み出せるかどうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "v66v",
+          "text": "この視点の違いが、組織全体の強さを決めている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ck69u",
+          "text": "この基準は誰でも再現できる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahtpd",
+          "text": "ここまで読んで、「結局すごい人の話でしょ」と思うかもしれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "971j1",
+          "text": "でも違う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "drcqv",
+          "text": "Googleが重視している要素は、どれも後天的に伸ばせるものだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dm680",
+          "text": "未知の問題に向き合う力。\n状況に応じて動く柔軟さ。\n他人から学ぶ姿勢。\n主体的に動く力。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cuia5",
+          "text": "これらは、日々の行動で鍛えられる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "87db3",
+          "text": "むしろ、意識しないと身につかないものばかりだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4koto",
+          "text": "だからこそ差がつく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "151i7",
+          "text": "多くの人は、スキルばかりを追いかける。\n資格、知識、テクニック。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8hel",
+          "text": "でも本当に重要なのは、その土台だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30i23",
+          "text": "Googleは、それを見抜いている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72kn3",
+          "text": "優秀さは見えない部分で決まる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89q17",
+          "text": "結局のところ、優秀さとは何か。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6op1s",
+          "text": "それは履歴書に書けるものではない。\n一瞬で測れるものでもない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40tad",
+          "text": "思考のクセ。\n行動の基準。\n問題への向き合い方。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffug4",
+          "text": "そういった“見えない部分”にすべてが現れる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6fr0u",
+          "text": "Googleはそこを見ている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4jn2b",
+          "text": "だからこそ、長期的に強い組織であり続けられる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8plqc",
+          "text": "そしてこの考え方は、企業だけでなく個人にもそのまま当てはまる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4obhs",
+          "text": "何を学ぶかより、どう考えるか。\n何を持っているかより、どう使うか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9a7en",
+          "text": "差がつくポイントは、もう明確だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ee5gj",
+          "text": "あとは、それを日常に落とし込めるかどうか。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

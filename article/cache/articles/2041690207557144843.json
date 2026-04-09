@@ -1,0 +1,239 @@
+{
+  "tweet_created_at": "2026-04-08T01:30:52.000000Z",
+  "id": 2041690207557144800,
+  "id_str": "2041690207557144843",
+  "type": "tweet",
+  "conversation_id_str": "2041690207557144843",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/ha6Mvk1H8a",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1657059045956518000,
+    "id_str": "1657059045956517897",
+    "name": "Abelardo De La Espriella",
+    "screen_name": "ABDELAESPRIELLA",
+    "location": "",
+    "url": "https://defensoresdelapatria.com",
+    "description": "Candidato a la Presidencia de Colombia por el movimiento Defensores de la Patria. Padre y Esposo. Patriota. Abogado. Empresario. Firme por la Patria. 🇨🇴🐅",
+    "protected": false,
+    "verified": true,
+    "followers_count": 167607,
+    "friends_count": 99,
+    "listed_count": 144,
+    "favourites_count": 5623,
+    "statuses_count": 4406,
+    "created_at": "2023-05-12T16:24:25.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657059045956517897/1774056953",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1945621224668680192/pwl96-HY_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 16,
+  "reply_count": 67,
+  "retweet_count": 599,
+  "favorite_count": 1290,
+  "views_count": 18159,
+  "bookmark_count": 14,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041688684743761921",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/ha6Mvk1H8a"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-08T01:30:52.000000Z",
+    "id": 2041690207557144800,
+    "id_str": "2041690207557144843",
+    "title": "PETRO, el jefe de la mafia, ¡MIENTE! ",
+    "preview_text": "Queridos compatriotas:\nPETRO, el jefe de la mafia, ¡MIENTE!\nLo afirmo de manera enfática y categórica: no conozco a los dueños del contrato de Thomas Greg & Sons. Jamás he hablado con ellos, ni",
+    "cover_url": "https://pbs.twimg.com/media/HFWKZBua8AAHSLm.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6o1r",
+          "text": "Queridos compatriotas:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9sevr",
+          "text": "PETRO, el jefe de la mafia, ¡MIENTE!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2kctv",
+          "text": "Lo afirmo de manera enfática y categórica: no conozco a los dueños del contrato de Thomas Greg & Sons. Jamás he hablado con ellos, ni personalmente, ni por teléfono ni por ningún medio. No existe una sola conversación ni un solo contacto. Eso es una vil mentira del cómplice del narcoterrorismo, Gustavo Petro.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "em10h",
+          "text": "De lo que sí es dueño Petro es de lo que reconoce en su propio trino del 4 de abril, en el que confesó públicamente que me tiene interceptado y que le llegan “informes de inteligencia” sobre mí. Con sus propias palabras admitió lo que yo vengo denunciando: me tiene chuzado ilegalmente, a mí, al candidato presidencial opositor a su régimen. ¿No empezó así a perfilar a Miguel Uribe? ¿No es esa confesión y el montaje en mi contra lo suficientemente grave como para que el país se pronuncie?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "61jui",
+          "text": "Esa es la prueba: su confesión. No necesito más. ¡El que se delata es él! No te tengo miedo, miserable; yo estoy hecho de otro material.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e4a20",
+          "text": "Petro me calumnia y miente al intentar involucrarme en hechos que no existen. Lo hace para desprestigiarme, para frenar mi carrera presidencial. Sabe perfectamente que yo, como el único candidato independiente en esta contienda electoral, soy el único que es capaz de enfrentarlo, derrotarlo y, después, castigarlo con la ley y con la verdad, porque yo no tengo compromisos con nadie más que con el pueblo y no vengo con cálculos politiqueros que me distraigan de mi misión: salvar la patria.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhudv",
+          "text": "Y aquí se ve la jugada completa, la estrategia de las partes que, aunque parezcan rivales, terminan conectadas para destruir al único outsider:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ceih",
+          "text": "* Petro me ataca frontalmente porque me teme.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ockb",
+          "text": "* Desde algunos sectores del Centro Democrático, encabezados por Rafael Nieto y Pacho Santos, tuiteros e influencers, y con el grupo de santistas que están allá —hermanos, primos, sobrinos, exministros, exconsejeros, etc., del Tartufo—, con la clase politiquera tradicional, con el establecimiento, con las encuestadoras y con los medios tradicionales, fingen solidaridad mientras repiten como loros la tesis que ellos mismos inventaron sobre el “voto útil”: “Petro ataca a Abelardo, dicen, para crecerlo porque lo quiere de rival en segunda vuelta”. ¡Qué clase de solidaridad es esa! Petro confiesa que me intercepta, me calumnia, ejecuta un montaje en mi contra y la supuesta oposición sale a cacarear que es una estrategia para crecerme. Vaya solidaridad, vaya respuesta a mis llamados de unidad… que la política saca lo peor de los seres humanos, cada día lo creo más… Afortunadamente, de mí ha sacado lo mejor, y lo recibo como una raya más para el Tigre, y sigo repitiendo: el único enemigo es Cepeda, porque Colombia no puede aguantar el continuismo de Petro. La patria está por encima de todo.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "frkpr",
+          "text": "La paradoja está en que es la misma mano la que mueve los hilos. Unos me atacan para tumbarme y otros me “defienden” diciendo que me están “creciendo” para que la gente dude de mí y termine apoyando a la candidata que ellos, los de siempre, controlan.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9i1jf",
+          "text": "Del petrismo a la campaña de Paloma Valencia, pasando por los de siempre, todos terminan en la misma orilla: pretenden destruir al independiente, al que no se deja manejar, al que no viene del club de los de toda la vida, al que nunca transaría con ellos, al que nunca defraudaría al pueblo: al verdadero outsider.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "t08h",
+          "text": "Colombianos, vean el juego completo. Tres caminos están sobre la mesa:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3l5cm",
+          "text": "\t1.\tEl camino del petrismo y su continuidad con Cepeda.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4l83k",
+          "text": "\t2.\tEl camino del establecimiento tradicional disfrazado de oposición, el de los de siempre.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2l3po",
+          "text": "\t3.\tEl camino independiente, claro, sin dueños, sin pactos por debajo de la mesa.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8spbr",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b9ek",
+          "text": "Yo estoy en el tercero. Y les pregunto con serenidad, pero con firmeza: ¿cuál de los tres caminos quieren ustedes para Colombia? Porque el país ya no se deja engañar. La gente sabe distinguir entre los que pelean de verdad y los que solo reparten roles para seguir mandando.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1pbsi",
+          "text": "Aquí estoy. Sin miedo. Con la verdad por delante. Y seguiré adelante, porque Colombia necesita un presidente que no le deba favores a nadie, que represente a los que nunca la han podido gobernar.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g2bq",
+          "text": "Si ustedes son del equipo del Tigre, de los que nunca han vivido de la politiquería, de los pactos corruptos, de los privilegios de los de siempre, únanse a la manada, integren la selección del Tigre y venzamos en un solo partido al régimen de Petro y Cepeda y al establecimiento de los de siempre.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

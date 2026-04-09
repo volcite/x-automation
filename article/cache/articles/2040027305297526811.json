@@ -1,0 +1,2544 @@
+{
+  "tweet_created_at": "2026-04-03T11:23:06.000000Z",
+  "id": 2040027305297526800,
+  "id_str": "2040027305297526811",
+  "type": "tweet",
+  "conversation_id_str": "2040027305297526811",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/EvCnm17Xvg",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4695994044,
+    "id_str": "4695994044",
+    "name": "Amit Shekhar",
+    "screen_name": "amitiitbhu",
+    "location": "India",
+    "url": "https://outcomeschool.com",
+    "description": "Founder @ Outcome School | Teaching AI, ML & Software Engineering | Open Source | IIT 2010-14 | @outcome_school",
+    "protected": false,
+    "verified": true,
+    "followers_count": 21399,
+    "friends_count": 655,
+    "listed_count": 160,
+    "favourites_count": 5966,
+    "statuses_count": 6780,
+    "created_at": "2016-01-02T12:45:10.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4695994044/1775040553",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1550394637075943424/PAdpHzNV_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 7,
+  "reply_count": 7,
+  "retweet_count": 204,
+  "favorite_count": 1274,
+  "views_count": 149722,
+  "bookmark_count": 1780,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039964214501249024",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/EvCnm17Xvg"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T11:23:06.000000Z",
+    "id": 2040027305297526800,
+    "id_str": "2040027305297526811",
+    "title": "Math behind Attention - Q, K, and V ",
+    "preview_text": "In this blog, we will learn about the math behind Attention: Query(Q), Key(K), and Value(V) with a step-by-step numeric example.\nWe will cover the following:\nThe Attention Formula\nSetting Up: From",
+    "cover_url": "https://pbs.twimg.com/media/HE9orWubgAAbWj1.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f1gec",
+          "text": "In this blog, we will learn about the math behind Attention: Query(Q), Key(K), and Value(V) with a step-by-step numeric example.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aj6qo",
+          "text": "We will cover the following:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "k0rv",
+          "text": "The Attention Formula",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a13t9",
+          "text": "Setting Up: From Words to Vectors",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ij02",
+          "text": "Creating Q, K, and V Matrices",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4jap",
+          "text": "Computing Attention Scores (Q x K^T)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "pp30",
+          "text": "Scaling the Scores",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8399o",
+          "text": "Applying Softmax",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d4te7",
+          "text": "Computing the Final Output (Attention Weights x V)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjufs",
+          "text": "Putting It All Together",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dlf1l",
+          "text": "Let's get started.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ac12",
+          "text": "The Attention Formula",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 21,
+              "style": "Bold"
+            }
+          ],
+          "key": "flj75",
+          "text": "The core formula for Scaled Dot-Product Attention is:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9mn07",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "74eft",
+          "text": "Here:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ap7jf",
+          "text": "Q is the Query matrix",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3q3ju",
+          "text": "K is the Key matrix",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7gta3",
+          "text": "V is the Value matrix",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "70bcd",
+          "text": "K^T is the transpose of the Key matrix",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dg862",
+          "text": "d_k is the dimension of the Key vector",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8m1v",
+          "text": "sqrt means square root",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tihq",
+          "text": "Do not worry if this formula looks complex. We will break it down step by step with actual numbers. By the end of this blog, every part of this formula will be clear.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 62,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 104,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 176,
+              "style": "Bold"
+            }
+          ],
+          "key": "avc80",
+          "text": "The idea is simple: we compare what each word is looking for (Query) with what every other word offers (Key), and then use those comparisons to collect the actual information (Value) from the most relevant words.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "lndu",
+          "text": "Now, let's see this with real numbers.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95vld",
+          "text": "Setting Up: From Words to Vectors",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eqncv",
+          "text": "Let's take a simple sentence with 3 words:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2oid",
+          "text": "\"I love AI\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 9,
+              "offset": 96
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 190,
+              "style": "Bold"
+            }
+          ],
+          "key": "55n75",
+          "text": "In a Transformer, each word is first converted into a vector (i.e. a list of numbers) called an embedding. Just for the sake of understanding, we will use very small vectors of size 4 (i.e. d_emb = 4).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "350gn",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 23,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 47,
+              "style": "Bold"
+            }
+          ],
+          "key": "f438p",
+          "text": "We stack these into an input matrix X of shape 3 x 4 (3 words, each with 4 numbers):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1mtlj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dvsg3",
+          "text": "Here, each row is one word and each column is one number in the embedding. This is our starting point.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85to7",
+          "text": "Creating Q, K, and V Matrices",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 48,
+              "style": "Bold"
+            },
+            {
+              "length": 7,
+              "offset": 59,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 72,
+              "style": "Bold"
+            }
+          ],
+          "key": "6cq08",
+          "text": "Now, we need to create three separate matrices: Q (Query), K (Key), and V (Value).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 52,
+              "style": "Bold"
+            },
+            {
+              "length": 15,
+              "offset": 74,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 91,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 96,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 105,
+              "style": "Bold"
+            }
+          ],
+          "key": "9fuk2",
+          "text": "How do we create them? We multiply the input matrix X with three separate weight matrices: W_Q, W_K, and W_V. These weight matrices are learned during training.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a72bt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 27,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 113,
+              "style": "Bold"
+            }
+          ],
+          "key": "4aj7j",
+          "text": "For our example, let's say d_k = 3 (i.e. we want Q, K, V vectors of size 3). So each weight matrix has the shape 4 x 3 (input dimension 4, output dimension 3).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cn03v",
+          "text": "Let's use the following weight matrices for the sake of understanding:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "252ct",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dm7uv",
+          "text": "Now, let's compute Q, K, and V.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bgl24",
+          "text": "Computing Q = X x W_Q:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "96t8n",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 25,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 97,
+              "style": "Bold"
+            }
+          ],
+          "key": "atlbs",
+          "text": "For the first row (\"I\"): [1*1 + 0*0 + 1*1 + 0*0, 1*0 + 0*1 + 1*0 + 0*1, 1*1 + 0*0 + 1*0 + 0*1] = [2, 0, 1]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 29,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 101,
+              "style": "Bold"
+            }
+          ],
+          "key": "cn1vd",
+          "text": "For the second row (\"love\"): [0*1 + 1*0 + 0*1 + 1*0, 0*0 + 1*1 + 0*0 + 1*1, 0*1 + 1*0 + 0*0 + 1*1] = [0, 2, 1]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 26,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 98,
+              "style": "Bold"
+            }
+          ],
+          "key": "fqngf",
+          "text": "For the third row (\"AI\"): [1*1 + 1*0 + 0*1 + 0*0, 1*0 + 1*1 + 0*0 + 0*1, 1*1 + 1*0 + 0*0 + 0*1] = [1, 1, 1]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c6ord",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "78b51",
+          "text": "Computing K = X x W_K:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 25,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 97,
+              "style": "Bold"
+            }
+          ],
+          "key": "12bqr",
+          "text": "For the first row (\"I\"): [1*0 + 0*1 + 1*0 + 0*1, 1*1 + 0*0 + 1*0 + 0*1, 1*0 + 0*1 + 1*1 + 0*0] = [0, 1, 1]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 29,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 101,
+              "style": "Bold"
+            }
+          ],
+          "key": "dne0l",
+          "text": "For the second row (\"love\"): [0*0 + 1*1 + 0*0 + 1*1, 0*1 + 1*0 + 0*0 + 1*1, 0*0 + 1*1 + 0*1 + 1*0] = [2, 1, 1]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 26,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 98,
+              "style": "Bold"
+            }
+          ],
+          "key": "752h9",
+          "text": "For the third row (\"AI\"): [1*0 + 1*1 + 0*0 + 0*1, 1*1 + 1*0 + 0*0 + 0*1, 1*0 + 1*1 + 0*1 + 0*0] = [1, 1, 1]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aqei9",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a6jf4",
+          "text": "Computing V = X x W_V:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 25,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 97,
+              "style": "Bold"
+            }
+          ],
+          "key": "anbsu",
+          "text": "For the first row (\"I\"): [1*1 + 0*0 + 1*0 + 0*1, 1*0 + 0*1 + 1*0 + 0*1, 1*0 + 0*0 + 1*1 + 0*0] = [1, 0, 1]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 29,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 101,
+              "style": "Bold"
+            }
+          ],
+          "key": "1hack",
+          "text": "For the second row (\"love\"): [0*1 + 1*0 + 0*0 + 1*1, 0*0 + 1*1 + 0*0 + 1*1, 0*0 + 1*0 + 0*1 + 1*0] = [1, 2, 0]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 26,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 98,
+              "style": "Bold"
+            }
+          ],
+          "key": "4afvu",
+          "text": "For the third row (\"AI\"): [1*1 + 1*0 + 0*0 + 0*1, 1*0 + 1*1 + 0*0 + 0*1, 1*0 + 1*0 + 0*1 + 0*0] = [1, 1, 0]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7pe4r",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efv7p",
+          "text": "Now, we have our Q, K, and V matrices ready.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "vt01",
+          "text": "Note: In real models, these weight matrices are not set by hand. They are learned during training. We are using simple numbers here for the sake of understanding.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1o0lo",
+          "text": "Till now, we have learned how to create Q, K, and V from the input. Now, let's move to the next step.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jn6q",
+          "text": "Computing Attention Scores (Q x K^T)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 54,
+              "style": "Bold"
+            }
+          ],
+          "key": "33boj",
+          "text": "The first step in the attention formula is to compute Q x K^T.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "at2co",
+          "text": "This tells us how much each word should attend to every other word. We multiply the Query of each word with the Key of every other word.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "b82he",
+          "text": "First, we need K^T (transpose of K). Transposing simply means we swap the rows and columns. The first row becomes the first column, the second row becomes the second column, and so on:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6vt17",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 19,
+              "style": "Bold"
+            }
+          ],
+          "key": "nn7s",
+          "text": "Now, let's compute Q x K^T:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eur19",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "pl50",
+          "text": "For \"I\" attending to all words:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 11,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 29,
+              "style": "Bold"
+            }
+          ],
+          "key": "987ud",
+          "text": "\"I\" → \"I\": 2*0 + 0*1 + 1*1 = 1",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 14,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 32,
+              "style": "Bold"
+            }
+          ],
+          "key": "ej10d",
+          "text": "\"I\" → \"love\": 2*2 + 0*1 + 1*1 = 5",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 12,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "2261b",
+          "text": "\"I\" → \"AI\": 2*1 + 0*1 + 1*1 = 3",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1pfjm",
+          "text": "For \"love\" attending to all words:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 14,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 32,
+              "style": "Bold"
+            }
+          ],
+          "key": "4ce39",
+          "text": "\"love\" → \"I\": 0*0 + 2*1 + 1*1 = 3",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 17,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 35,
+              "style": "Bold"
+            }
+          ],
+          "key": "ctvfi",
+          "text": "\"love\" → \"love\": 0*2 + 2*1 + 1*1 = 3",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 15,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 33,
+              "style": "Bold"
+            }
+          ],
+          "key": "6vkk3",
+          "text": "\"love\" → \"AI\": 0*1 + 2*1 + 1*1 = 3",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e0fnu",
+          "text": "For \"AI\" attending to all words:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 12,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "d3af8",
+          "text": "\"AI\" → \"I\": 1*0 + 1*1 + 1*1 = 2",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 15,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 33,
+              "style": "Bold"
+            }
+          ],
+          "key": "8pcm7",
+          "text": "\"AI\" → \"love\": 1*2 + 1*1 + 1*1 = 4",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 13,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 31,
+              "style": "Bold"
+            }
+          ],
+          "key": "8g6i6",
+          "text": "\"AI\" → \"AI\": 1*1 + 1*1 + 1*1 = 3",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2kbt4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 72,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 167,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 224,
+              "style": "Bold"
+            }
+          ],
+          "key": "5gg0b",
+          "text": "Here, we can see that the word \"I\" gives the highest attention score of 5 to \"love\", meaning \"I\" finds \"love\" the most relevant. The word \"love\" gives equal scores of 3 to all words. The word \"AI\" gives the highest score of 4 to \"love\".",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d7md0",
+          "text": "This was all about computing the attention scores. Now, let's move to scaling.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "422cm",
+          "text": "Scaling the Scores",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "9828a",
+          "text": "Now, we divide every score by sqrt(d_k).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 16,
+              "style": "Bold"
+            },
+            {
+              "length": 15,
+              "offset": 63,
+              "style": "Bold"
+            }
+          ],
+          "key": "88k0p",
+          "text": "In our example, d_k = 3 (the dimension of our Key vectors), so sqrt(3) = 1.732.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "qs6m",
+          "text": "Now, the question is: why do we scale? The answer is: if the dot product values are too large, the softmax function in the next step will produce very extreme values (close to 0 or 1). This makes it difficult for the model to learn. Scaling keeps the values in a manageable range.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4rsrc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7o055",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5snal",
+          "text": "Here, we can notice that the relative order of the scores has not changed. The word \"I\" still attends to \"love\" the most. But the values are now smaller, which is exactly what we wanted.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 64,
+              "style": "Bold"
+            }
+          ],
+          "key": "15ur6",
+          "text": "In the future, I plan to write about why we choose to divide by sqrt(d_k) instead of some other factor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9q96i",
+          "text": "Now, let's apply softmax.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9971",
+          "text": "Applying Softmax",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 7,
+              "offset": 48
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 18,
+              "style": "Bold"
+            }
+          ],
+          "key": "32gk1",
+          "text": "Now, we apply the softmax function to each row. Softmax converts the scores into probabilities that add up to 1.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 32,
+              "style": "Bold"
+            }
+          ],
+          "key": "frdd3",
+          "text": "The softmax formula for a value x_i in a row is:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b80k9",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 6,
+              "style": "Bold"
+            }
+          ],
+          "key": "2ftpg",
+          "text": "Here, e is the mathematical constant (approximately 2.718). Do not worry about the formula too much. We will compute it step by step.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9gb3c",
+          "text": "For the \"I\" row: [0.577, 2.887, 1.732]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "aiqid",
+          "text": "e^0.577 = 1.781",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a9t0c",
+          "text": "e^2.887 = 17.940",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "847du",
+          "text": "e^1.732 = 5.651",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nqtu",
+          "text": "Sum = 1.781 + 17.940 + 5.651 = 25.372",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cmcl",
+          "text": "Attention Weights:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "d7no6",
+          "text": "\"I\" → \"I\": 1.781 / 25.372 = 0.070",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 32,
+              "style": "Bold"
+            }
+          ],
+          "key": "ba6v",
+          "text": "\"I\" → \"love\": 17.940 / 25.372 = 0.707",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 29,
+              "style": "Bold"
+            }
+          ],
+          "key": "9dj2d",
+          "text": "\"I\" → \"AI\": 5.651 / 25.372 = 0.223",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5iu4e",
+          "text": "For the \"love\" row: [1.732, 1.732, 1.732]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjnml",
+          "text": "All values are equal, so each word gets equal attention:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 14,
+              "style": "Bold"
+            }
+          ],
+          "key": "1fea2",
+          "text": "\"love\" → \"I\": 0.333",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 17,
+              "style": "Bold"
+            }
+          ],
+          "key": "4prq7",
+          "text": "\"love\" → \"love\": 0.333",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "pmu1",
+          "text": "\"love\" → \"AI\": 0.333",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6t2gk",
+          "text": "For the \"AI\" row: [1.155, 2.309, 1.732]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "54sjf",
+          "text": "e^1.155 = 3.174",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2cfsn",
+          "text": "e^2.309 = 10.063",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6j4jt",
+          "text": "e^1.732 = 5.651",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ao0h2",
+          "text": "Sum = 3.174 + 10.063 + 5.651 = 18.888",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "797vg",
+          "text": "Attention Weights:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 29,
+              "style": "Bold"
+            }
+          ],
+          "key": "dk073",
+          "text": "\"AI\" → \"I\": 3.174 / 18.888 = 0.168",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 33,
+              "style": "Bold"
+            }
+          ],
+          "key": "aqg07",
+          "text": "\"AI\" → \"love\": 10.063 / 18.888 = 0.533",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "d1fed",
+          "text": "\"AI\" → \"AI\": 5.651 / 18.888 = 0.299",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 10,
+              "style": "Bold"
+            }
+          ],
+          "key": "35abq",
+          "text": "The final Attention Weight Matrix is:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6dc0c",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "882fv",
+          "text": "Here, we can see that:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 9,
+              "style": "Bold"
+            },
+            {
+              "length": 6,
+              "offset": 44,
+              "style": "Bold"
+            },
+            {
+              "length": 4,
+              "offset": 61,
+              "style": "Bold"
+            }
+          ],
+          "key": "csqm3",
+          "text": "The word \"I\" pays 70.7% of its attention to \"love\", 22.3% to \"AI\", and only 7.0% to itself.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "eda6f",
+          "text": "The word \"love\" pays equal attention to all three words (33.3% each).",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 9,
+              "style": "Bold"
+            },
+            {
+              "length": 6,
+              "offset": 45,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 83,
+              "style": "Bold"
+            }
+          ],
+          "key": "2uoq",
+          "text": "The word \"AI\" pays 53.3% of its attention to \"love\", 29.9% to itself, and 16.8% to \"I\".",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ahc",
+          "text": "Each row adds up to 1.0 (i.e. 100%). This is what softmax ensures.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ndl9",
+          "text": "Now, we have the attention weights. It is time to compute the final output.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9jnf",
+          "text": "Computing the Final Output (Attention Weights x V)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 67,
+              "style": "Bold"
+            }
+          ],
+          "key": "9c0b2",
+          "text": "Now, we multiply the Attention Weight Matrix with the Value matrix V to get the final output.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d87bo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 19,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3ingl",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6i3ka",
+          "text": "For \"I\":",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "dbh0i",
+          "text": "0.070*1 + 0.707*1 + 0.223*1 = 1.000",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "8km66",
+          "text": "0.070*0 + 0.707*2 + 0.223*1 = 1.637",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "91g5m",
+          "text": "0.070*1 + 0.707*0 + 0.223*0 = 0.070",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2tstd",
+          "text": "For \"love\":",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "58gd4",
+          "text": "0.333*1 + 0.333*1 + 0.333*1 = 0.999",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "3ma8b",
+          "text": "0.333*0 + 0.333*2 + 0.333*1 = 0.999",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "49eso",
+          "text": "0.333*1 + 0.333*0 + 0.333*0 = 0.333",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7jpd6",
+          "text": "For \"AI\":",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "d9k8",
+          "text": "0.168*1 + 0.533*1 + 0.299*1 = 1.000",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "b2tdr",
+          "text": "0.168*0 + 0.533*2 + 0.299*1 = 1.365",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "ptmn",
+          "text": "0.168*1 + 0.533*0 + 0.299*0 = 0.168",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 20,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7n79k",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 63,
+              "style": "Bold"
+            }
+          ],
+          "key": "72t6u",
+          "text": "Here, we can see that each word now has a new vector that is a weighted combination of the Value vectors of all words. The word \"I\" gets a new representation that is heavily influenced by the Value of \"love\" (because it had the highest attention weight of 0.707 for \"love\"). This is the power of the attention mechanism.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d28mv",
+          "text": "The output for each word is no longer just about that word alone. It now contains information from all the other words, weighted by how relevant they are. This is how the model understands context and relationships between words.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "90mf9",
+          "text": "This was all about computing the final output. Now, let's put it all together.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bnmtg",
+          "text": "Putting It All Together",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f7jnb",
+          "text": "Let's summarize the entire computation in one place:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "71rcu",
+          "text": "Step 1: Start with the input embeddings (X).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cqgc0",
+          "text": "Step 2: Multiply X with weight matrices to get Q, K, and V.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2lefb",
+          "text": "Step 3: Compute attention scores by multiplying Q with the transpose of K (Q x K^T).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5h79u",
+          "text": "Step 4: Scale the scores by dividing by sqrt(d_k).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f880s",
+          "text": "Step 5: Apply softmax to get attention weights (probabilities).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f7fi9",
+          "text": "Step 6: Multiply attention weights with V to get the final output.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8mvso",
+          "text": "The entire process in one formula:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 21,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dlku3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4eem8",
+          "text": "Now, every part of this formula is clear.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dkqvf",
+          "text": "This is how the math behind Query, Key, and Value works in the Attention mechanism.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1lf6m",
+          "text": "Every Large Language Model uses this exact computation at its core. The numbers we used were small for the sake of understanding, but in real models, the dimensions are much larger (512, 1024, or more) and the weight matrices are learned during training.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4867a",
+          "text": "Now, we must have understood the math behind Attention: Q, K, and V.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "861kf",
+          "text": "That's it for now.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "644s7",
+          "text": "Thanks",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 22,
+              "length": 14,
+              "offset": 23
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f1sie",
+          "text": "Amit Shekhar\nFounder @ Outcome School",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 23,
+              "length": 39,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5uc02",
+          "text": "Read all of my high-quality blogs here.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n            \"I\"   \"love\"   \"AI\"\nScores = |  1      5       3  |   ← \"I\"\n         |  3      3       3  |   ← \"love\"\n         |  2      4       3  |   ← \"AI\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nK = | 0  1  1 |   ← \"I\"\n    | 2  1  1 |   ← \"love\"\n    | 1  1  1 |   ← \"AI\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nOutput = | 0.070  0.707  0.223 |     | 1  0  1 |\n         | 0.333  0.333  0.333 |  x  | 1  2  0 |\n         | 0.168  0.533  0.299 |     | 1  1  0 |\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "23",
+          "value": {
+            "data": {
+              "url": "https://outcomeschool.com/blog"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nQ = X x W_Q\nK = X x W_K\nV = X x W_V\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "url": "https://www.youtube.com/watch?v=2Zx6x01WwWM"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "markdown": "```\nQ x K^T = | 2  0  1 |     | 0  2  1 |\n          | 0  2  1 |  x  | 1  1  1 |\n          | 1  1  1 |     | 1  1  1 |\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "markdown": "```\nV = | 1  0  1 |   ← \"I\"\n    | 1  2  0 |   ← \"love\"\n    | 1  1  0 |   ← \"AI\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "url": "https://outcomeschool.com/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nScaled Scores = Scores / sqrt(3)\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nsoftmax(x_i) = e^(x_i) / sum(e^(x_j) for all j in that row)\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nW_Q = | 1  0  1 |\n      | 0  1  0 |\n      | 1  0  0 |\n      | 0  1  1 |\n\nW_K = | 0  1  0 |\n      | 1  0  1 |\n      | 0  0  1 |\n      | 1  1  0 |\n\nW_V = | 1  0  0 |\n      | 0  1  0 |\n      | 0  0  1 |\n      | 1  1  0 |\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "markdown": "```\nK^T = | 0  2  1 |\n      | 1  1  1 |\n      | 1  1  1 |\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nAttention(Q, K, V) = softmax(Q x K^T / sqrt(d_k)) x V\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nQ = | 1.0  0.0  1.0  0.0 |     | 1  0  1 |\n    | 0.0  1.0  0.0  1.0 |  x  | 0  1  0 |\n    | 1.0  1.0  0.0  0.0 |     | 1  0  0 |\n                               | 0  1  1 |\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://www.youtube.com/watch?v=LedXW6xl21s"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n                       \"I\"     \"love\"    \"AI\"\nAttention Weights = | 0.070    0.707    0.223 |   ← \"I\"\n                    | 0.333    0.333    0.333 |   ← \"love\"\n                    | 0.168    0.533    0.299 |   ← \"AI\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n                    \"I\"      \"love\"     \"AI\"\nScaled Scores = |  0.577    2.887     1.732  |   ← \"I\"\n                |  1.732    1.732     1.732  |   ← \"love\"\n                |  1.155    2.309     1.732  |   ← \"AI\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nAttention(Q, K, V) = softmax(Q x K^T / sqrt(d_k)) x V\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nOutput = | 1.000  1.637  0.070 |   ← \"I\"\n         | 1.000  1.000  0.333 |   ← \"love\"\n         | 1.000  1.365  0.168 |   ← \"AI\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n\"I\"    → [1.0, 0.0, 1.0, 0.0]\n\"love\" → [0.0, 1.0, 0.0, 1.0]\n\"AI\"   → [1.0, 1.0, 0.0, 0.0]\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nOutput = Attention Weights x V\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nQ = | 2  0  1 |   ← \"I\"\n    | 0  2  1 |   ← \"love\"\n    | 1  1  1 |   ← \"AI\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nX = | 1.0  0.0  1.0  0.0 |   ← \"I\"\n    | 0.0  1.0  0.0  1.0 |   ← \"love\"\n    | 1.0  1.0  0.0  0.0 |   ← \"AI\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

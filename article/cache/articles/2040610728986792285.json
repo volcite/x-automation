@@ -1,0 +1,3049 @@
+{
+  "tweet_created_at": "2026-04-05T02:01:25.000000Z",
+  "id": 2040610728986792200,
+  "id_str": "2040610728986792285",
+  "type": "tweet",
+  "conversation_id_str": "2040610728986792285",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/q8FaBPV483",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3102399630,
+    "id_str": "3102399630",
+    "name": "tatsuki",
+    "screen_name": "nobel_824",
+    "location": "AI活用推進の無料相談受付中",
+    "url": null,
+    "description": "AI業務設計コンサルタント｜AI×BPaaS事業責任者｜AI導入は設計が9割｜中小企業AI導入支援｜主に海外のAI最新情報を解説します | コーヒーとコーラが好き｜相談はDMへ",
+    "protected": false,
+    "verified": true,
+    "followers_count": 6171,
+    "friends_count": 366,
+    "listed_count": 39,
+    "favourites_count": 8669,
+    "statuses_count": 4572,
+    "created_at": "2015-03-22T03:02:18.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3102399630/1680271074",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1663195371793965057/zpyy5s1l_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 66,
+  "reply_count": 5,
+  "retweet_count": 141,
+  "favorite_count": 1696,
+  "views_count": 830963,
+  "bookmark_count": 4891,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040607551763718144",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/q8FaBPV483"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T02:01:25.000000Z",
+    "id": 2040610728986792200,
+    "id_str": "2040610728986792285",
+    "title": "Claude Coworkの使いこなし方【完全ガイド】",
+    "preview_text": "「AIに仕事を頼む」って言われても、正直ピンとこなかったんですよね。\nChatGPTもClaude",
+    "cover_url": "https://pbs.twimg.com/media/HFG0EGTagAAqGkO.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6tdnm",
+          "text": "「AIに仕事を頼む」って言われても、正直ピンとこなかったんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eup96",
+          "text": "ChatGPTもClaude Chatも使ってはいます。でもやっていることは結局「質問して、答えをもらって、コピペして、自分で整える」の繰り返し。便利は便利だけど、「仕事を任せた」感覚はありませんでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "onlm",
+          "text": "Claude Cowork（以下、Cowork）を触り始めて、その感覚が変わりました。フォルダを指定して「この中の請求書を種類別に分けて、Excelで一覧表も作って」と頼んだら、本当にファイルが仕分けされて、Excelができあがっていました。自分のPC上で。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f7iqh",
+          "text": "これは会話ツールじゃない。仕事を渡す相手です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpnpu",
+          "text": "ちなみにこの記事では、Anthropicの公式ドキュメント「Skill Authoring Best Practices」にある設計思想（スキルは3段階でロードされるから、100個入れてもトークンを圧迫しない、コンテキストウィンドウは公共財、など）まで踏み込んでいます。「Coworkの基本は知ってるよ」という方も、後半まで読んでもらえたら新しい発見があるんじゃないかと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "32dk5",
+          "text": "この記事では、Coworkをまだ触ったことがない人が迷わず始められるように、そしてすでに使っている人が「こういう使い方もあるのか」と思えるように、できるだけ具体的にまとめていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "556u5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c32v0",
+          "text": "そもそもCoworkって何？ Chat・Code・Coworkの違い",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bkegt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "57uuf",
+          "text": "Claudeには3つの使い方があります。ここを最初に整理しておくと、Coworkの立ち位置がはっきりします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "an5el",
+          "text": "Claude Chat は会話相手です。プロンプト（指示文）を入れて、答えが返ってきます。ブレスト、下書き、ちょっとした調べものに向いています。ずっと会話の中にいる前提です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bhjt1",
+          "text": "Claude Code は開発者向けのツールです。ターミナル（プログラマーが使う黒い画面）の中で動いて、コードを書いたり、テストを実行したり、GitHub（ソースコードの管理サービス）にプッシュしたりします。技術者じゃないと正直とっつきにくいんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "apq9g",
+          "text": "Claude Cowork はその中間というか、新しい位置づけです。Claude Codeと同じ自律実行エンジン（自分で計画を立てて、自分で手を動かして、完成物を納品する仕組み）が裏で動いているんだけど、インターフェースはデスクトップアプリのGUI（グラフィカルな操作画面）です。技術的な知識がなくても使えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c22ci",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "732om",
+          "text": "Anthropic（Claudeの開発元）の公式説明がわかりやすいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fm20",
+          "text": "Coworkはローカルファイル、フォルダ、日常使うアプリケーションの間を移動し、複数のソースから情報を統合して、ユーザーがステップを調整することなくタスクを完了する",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "domds",
+          "text": "つまり、こういうことです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "egpth",
+          "text": "Chatは「会話」。Coworkは「タスク委任」。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94as7",
+          "text": "この区別が腹落ちすると、Coworkの見え方がガラッと変わります。「AIに質問する」じゃなくて「AIに仕事を渡す」になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a90tt",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ce0mg",
+          "text": "5分で動かす最初のタスク",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51i8d",
+          "text": "理屈はいいから、まず動かしてみましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dvo1n",
+          "text": "ステップ1: モデルを選ぶ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b9tq",
+          "text": "Coworkの画面右側でAIモデルを選べます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6v4i6",
+          "text": "Sonnet 4.6: 基本的にはこれを使います。速くて、安くて、99%の仕事はこなせます",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "13kch",
+          "text": "Opus 4.6: 重たい分析や複雑な判断が必要なときだけ。トークン（利用量）の消費が大きいので常用はもったいないです",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9seb4",
+          "text": "Haiku 4.5: 軽い仕事向け。速さ重視です",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkmbs",
+          "text": "よく言われるのが「アインシュタインに皿洗いはさせるな」。Opusは本当に重要な仕事専用にしておくのが正解です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6n59l",
+          "text": "ちなみにCoworkではExtended Thinking（拡張思考、Claudeがロジックを組み立てて深く考えるモード）が自動的に有効化されます。Chat画面のように手動でON/OFFする必要はありません。Claudeがタスクの複雑さを判断して、必要なときに勝手に使ってくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d98ol",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c879",
+          "text": "ステップ2: サンドボックスフォルダを作る",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esj36",
+          "text": "デスクトップに「claude-workspace」フォルダを1つ作ります。Coworkの操作範囲はこのフォルダの中に限定されます。それ以外のファイルには触れないので安心していいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "818h",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ch1t",
+          "text": "ステップ3: フォルダの権限を付与する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "t5f9",
+          "text": "Cowork内で「Work in a folder」をクリックして、さっき作ったフォルダを選びます。「Allow once（今回だけ許可）」か「Always allow（常に許可）」を選んで完了です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fl5l9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "633sf",
+          "text": "ステップ4: 最初のタスクを実行する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fmbp",
+          "text": "散らかったダウンロードフォルダの中身を10〜20個、サンドボックスにコピーしてきて、こう頼んでみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1j8sb",
+          "text": "このフォルダの中のファイルを種類別にサブフォルダに分けて、ファイル一覧のExcelも作って。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4nhpf",
+          "text": "Coworkは画面右側に計画を表示して、自律的に動き始めます。複数のサブエージェント（並列で動く分身）を立ち上げて、同時に処理を進めることもあります。コーヒーを淹れて戻ってきたら、ファイルが整理されてExcelができています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "as5ns",
+          "text": "これが「仕事を渡す」という感覚です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3upcq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5g5mp",
+          "text": "毎回ゼロから説明するのをやめる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cb3oe",
+          "text": "Coworkを使い始めてしばらくすると、あることに気づきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnafl",
+          "text": "「また自分の会社のこと説明してる…」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ho20",
+          "text": "Coworkは新しいセッション（会話窓）を開くたびにまっさらな状態から始まります。先週やった仕事のことも、自分の会社のことも、好みの文体も何も覚えていません。これが「使い捨てチャット」状態です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "doe68",
+          "text": "この「毎回ゼロからやり直し」感、めちゃくちゃストレスなんですよね。ここを突破するのが、Coworkを使いこなす最初の分岐点だと思います。3つの仕組みを使います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fpmrr",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "720s",
+          "text": "プロジェクト機能：文脈が蓄積される「箱」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9uufu",
+          "text": "プロジェクトは単なるフォルダじゃありません。ファイル、カスタム指示、スキル（後述）、そして蓄積された文脈がまとまったコンテナです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85k8k",
+          "text": "プロジェクトなしだと、Claudeは自分のことを何も知りません。毎回ゼロから説明します。永遠に。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ecvn",
+          "text": "プロジェクトありだと、文脈が積み上がります。最初の1週間は丁寧にプロンプトを書いているけど、6週間目には「いつもの感じで」と言えば通じるようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ujra",
+          "text": "大事なのは、テーマ別にプロジェクトを分けることです。YouTube運用と経理を同じプロジェクトでやると、YouTubeの文体ルールが経理タスクに混入してClaudeが混乱します。これは分けます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhek7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "93geo",
+          "text": ".mdファイルでClaudeに「ビジネス脳」を与える",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7b2e",
+          "text": "プロジェクトが箱なら、中身の「性格」はマークダウンファイル（.md、テキストファイルの一種）で定義します。プロジェクトのコンテキストフォルダ（文脈を置く場所）に入れておくと、Claudeが毎回のセッション開始時に読み込んでくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qiqe",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "g3dq",
+          "text": "具体的にはこの3つです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbdos",
+          "text": "about_me.md：自分は誰で、何の会社をやっていて、顧客は誰で、どうやって収益を上げていて、今の優先事項は何か。Claudeはこれを毎回読みます。毎回です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "auiko",
+          "text": "例：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3rv6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53j17",
+          "text": "例：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2amlm",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjl5o",
+          "text": "working_preferences.md：タスクの進め方、ファイルの保存先、出力フォーマットの好み。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3iaec",
+          "text": "これは全部自分で書く必要はありません。Claudeに「一連の質問をして、僕の回答からビジネス脳ファイルを作って」と頼めば、15分のインタビューで完成します。15分の投資で、毎週何時間も節約できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8pf73",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eic6r",
+          "text": "設定の3階層を使い分ける",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fc3id",
+          "text": "Coworkには指示を入れられる場所が3つあります。スコープ（適用範囲）が違うので、正しく使い分けると一貫した動作になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dhh9",
+          "text": "レベル1: Claudeパーソナライゼーション（設定 → 名前をクリック） Chat、Code、Coworkすべてに適用されます。「太字を使いすぎない」「曖昧な表現を避ける」「一次情報を優先する」みたいな、自分の普遍的なクセをここに書きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8241k",
+          "text": "レベル2: Coworkグローバル設定（設定 → Cowork設定 → グローバル指示） Cowork内の全タスクに適用されます。日付フォーマット、ファイル命名規則（アンダースコア区切りの説明的な名前にする、等）、ビジネスに関する質問はサンドボックスフォルダを先に確認する、といったルールをここに。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ctqfo",
+          "text": "レベル3: プロジェクト固有の設定 特定のプロジェクトだけに効くルールです。YouTube運用プロジェクトなら「動画イントロには特定のスライドスキルを使う」「進捗は特定のスプレッドシートで管理する」みたいな指示。これが他のプロジェクトに漏れることはありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56d54",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37bi1",
+          "text": "外部ツールと繋いで実用度を一気に上げる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lu7p",
+          "text": "正直、ファイル整理だけでも十分便利なんですよね。でも、Coworkの真価は日常使っているツールと繋がったときに出ます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ak7u",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5m50j",
+          "text": "MCP（Model Context Protocol）コネクタ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53ep6",
+          "text": "MCP（モデルコンテキストプロトコル）は、Claudeが外部アプリに直接アクセスするための仕組みです。コピペでもなく、スクリーンショットでもなく、認証済みの直接接続です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1u86v",
+          "text": "接続方法はシンプルで、チャット内のプラスボタン → コネクタタブ → 使いたいツールを検索 → ブラウザで認証フロー。これだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86hpo",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8gmo",
+          "text": "対応しているネイティブコネクタの一例：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bre75",
+          "text": "Slack（チャットツール）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8aar2",
+          "text": "Notion（ドキュメント・データベース管理）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "buhao",
+          "text": "Google Drive（ファイル共有）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1lhf",
+          "text": "Gmail",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56rf9",
+          "text": "GitHub（ソースコード管理）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fr1lp",
+          "text": "Figma（デザインツール）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jg4l",
+          "text": "HubSpot（CRM、顧客管理ツール）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2bq78",
+          "text": "DocuSign（電子署名）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fmotu",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d6sp0",
+          "text": "接続すると、アクションごとに「常に許可 / 承認が必要 / ブロック」を細かく設定できます。何を触らせて、何を触らせないかは自分でコントロールできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9gbqr",
+          "text": "繋がるとどうなるかというと、例えばこういう使い方ができます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30ue7",
+          "text": "Slackの#generalチャンネルの今週の未読をまとめて、重要なものだけピックアップして。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ksfv",
+          "text": "Notionの議事録データベースから先週の会議メモを取ってきて、次のアクションアイテムを抽出して。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8aliv",
+          "text": "Google Driveの「提案書」フォルダにある最新のファイルを読んで、要約して。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2siqt",
+          "text": "1つの画面で、複数のツールをまたいだ仕事が完結します。これがCoworkの本領だと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4343r",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8i1q",
+          "text": "日本の業務ツールとの連携: freee",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "avt03",
+          "text": "freee（クラウド会計ソフト）のMCPコネクタが使えるのは、日本のユーザーにとってかなり大きいです。会計・人事労務・請求書データに直接アクセスできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "224bb",
+          "text": "例えば「今月の経費を集計してレポートにまとめて」と頼めば、freeeのデータを引っ張ってきて、整理して、レポートファイルを生成します。手作業で管理画面とExcelを行き来する時間がごっそり消えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12dul",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddvqq",
+          "text": "Zapier MCP：「うちのツール対応してないじゃん」への回答",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a5d9o",
+          "text": "ネイティブコネクタにないサービスと繋ぎたいとき、Zapier MCP（ザピア）が橋渡し役になります。Zapierは8,000以上のアプリと連携できるサービスで、そのMCPをCoworkに接続できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fp4pl",
+          "text": "設定は、Zapierのプラットフォームでクライアントに「Claude Cowork」を選んでMCPサーバーを作成 → 許可するツールとアクションを設定 → 生成されたURLをCoworkのコネクタに貼ります。10分くらいで終わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e4d1l",
+          "text": "ただ、正直に言うと「8,000アプリ！」という数字ほどのインパクトが日常的にあるかというと、そうでもありません。ネイティブコネクタがあるサービス（Slack、Notionなど）はネイティブのほうが操作の粒度が細かくて安定しています。Zapier MCPの本質は「ネイティブにないサービスとの補完手段」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7mq75",
+          "text": "kintone（サイボウズの業務アプリ）やAirtable（オンラインデータベース）のように、日本企業でよく使われているけどMCPコネクタが未対応のツール。こういうものと繋ぎたいときにZapier MCPが効きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2kjv",
+          "text": "ただしkintoneのようにアプリ構造が複雑なサービスだと、Zapier経由では操作がもたつくことがあります。単純なレコード追加やステータス更新なら問題ありませんけど、サブテーブルやプロセス管理が絡む操作はZapier側のアクション設計次第になります。この辺は過度な期待はしないほうがいいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4inb0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fr2l",
+          "text": "プラグインで「専門AI」を手に入れる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6eop4",
+          "text": "ここからCoworkの使い方がもう一段変わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tkbc",
+          "text": "プラグインは、インストールするだけでCoworkに専門能力が追加される仕組みです。「経理のプロ」「営業のプロ」「マーケティングのプロ」がワンクリックで手に入る感覚です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "436t9",
+          "text": "具体的にどんなことができるのか、部門別にまとめてみます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "25bpi",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3slgt",
+          "text": "Finance（経理・財務）：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91ov2",
+          "text": "/journal-entry：仕訳を作成。借方・貸方と根拠書類をセットで出してくれます",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "q65g",
+          "text": "/income-statement：損益計算書を前期比較・差異分析付きで生成します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "120g6",
+          "text": "/sox-testing：SOX（内部統制）監査のサンプル選定とテスト調書を作成します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88gat",
+          "text": "月次決算管理、勘定科目の照合、経費の差異分析にも対応します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar3hu",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26oms",
+          "text": "Sales（営業）：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eg89h",
+          "text": "/call-prep：商談前の準備。取引先情報、参加者のリサーチ、アジェンダ案を自動生成します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ka1i",
+          "text": "/draft-outreach：見込み客を調べてから、パーソナライズしたアウトリーチ文を作成します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2k8oo",
+          "text": "/pipeline-review：パイプライン（商談の進捗管理）を分析、リスクのある案件をフラグ立てします",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5tnjh",
+          "text": "/forecast：加重平均の売上予測をベスト・ミドル・ワーストの3シナリオで生成します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cd9gv",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2vk9",
+          "text": "Marketing（マーケティング）：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fkjs9",
+          "text": "/draft-content：ブログ、SNS投稿、メールニュースレター、LP（ランディングページ）、プレスリリースを作成します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4loa5",
+          "text": "/campaign-plan：キャンペーンの目的、チャネル戦略、コンテンツカレンダー、KPI（目標達成度を測る指標）を一括設計します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bmog3",
+          "text": "/seo-audit：キーワード調査、ページ内分析、コンテンツギャップ、技術チェックをまとめて実行します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddgvh",
+          "text": "/competitive-brief：競合のポジショニングとメッセージングを比較分析します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvv5v",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "das65",
+          "text": "Customer Support（カスタマーサポート）：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dpb7f",
+          "text": "/triage：問い合わせを分類して優先度（P1〜P4）をつけ、担当チームへの振り分けを提案します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "108b6",
+          "text": "/draft-response：状況と緊急度に合わせた顧客向け返信文を作成します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ai35n",
+          "text": "/kb-article：解決済みの問題からナレッジベース（社内の知識集約場所）の記事を自動生成します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3lid",
+          "text": "/escalate：エンジニアや経営層への報告資料をパッケージングします",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4gh3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eijk6",
+          "text": "Product Management（プロダクト管理）：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bttgr",
+          "text": "/write-spec：PRD（製品要求仕様書）を課題定義、ユーザーストーリー、受入条件付きで作成します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f7bbd",
+          "text": "/roadmap-update：RICE、MoSCoW等のフレームワーク（優先順位づけの枠組み）でロードマップを整理します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8e8l7",
+          "text": "/synthesize-research：ユーザーインタビューやアンケート結果から気づきを構造化します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c0lpp",
+          "text": "/stakeholder-update：経営層向け、エンジニア向け、顧客向けなど相手に合わせた報告書を作成します",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ba0l7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1h964",
+          "text": "ChatGPTにも「GPTs」というカスタマイズ機能があります。でも、CoworkのプラグインとGPTsの違いは決定的です。GPTsは「プロンプトのテンプレート」に近いです。Coworkのプラグインは、自分のPCのファイルにアクセスできて、SlackやNotionと実際に繋がって、コードを実行できます。「答えを教えてくれるAI」と「仕事を実行するAI」の差です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajmj2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3oe2",
+          "text": "スキル：繰り返す作業を「1コマンド」に変える",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "46ve1",
+          "text": "「週に1回以上やる作業はスキルにしろ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88q4e",
+          "text": "毎週同じことを手作業でやってる自分に気づいたこと、ありませんか。これはシンプルだけど強力なルールだと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3vomh",
+          "text": "スキルとは何か。再利用可能なワークフローを1つのコマンドにまとめたもの。裏側は.mdファイル（指示書）とスクリプト（自動処理プログラム）の組み合わせで、Claudeが必要に応じて読み込みます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b0tc8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bl5nb",
+          "text": "スキルの作り方",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kt99",
+          "text": "複雑そうに聞こえるかもしれませんけど、流れは意外とシンプルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1ec6v",
+          "text": "ステップ1: まず普通にClaudeとタスクをやる。 例えば、毎週やっている「YouTubeの動画URLからトランスクリプト（文字起こし）を取って、Notionにまとめて、X投稿用の要約を3パターン作る」みたいな仕事を、普通の会話でやります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "hjn2",
+          "text": "ステップ2: うまくいったパターンを特定する。 「毎回同じような指示を出していて、毎回うまくいっている」部分を見つけます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2ac8q",
+          "text": "ステップ3: Claudeにスキル化を頼む。 「今のやり方をスキルにして」と言えば、Claudeが.mdファイルを生成します。コードを自分で書く必要はありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "74ori",
+          "text": "ステップ4: テストする。 Coworkの内蔵評価機能がスキルあり/なしの出力を比較してくれます。「ベージュの背景を使い忘れた」「フォントの太さが違う」みたいなフィードバックを返して調整します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "up33",
+          "text": "ステップ5: 保存して運用開始。 以後はスラッシュコマンド（/スキル名）で呼び出すだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1dqo7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnlqj",
+          "text": "Anthropicが教えるスキル設計の3原則",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "92rd",
+          "text": "ここからは、Anthropicの公式ドキュメント「Skill Authoring Best Practices（スキル作成のベストプラクティス）」から、特に重要な設計思想を紹介します。スキルを1つ2つ作ったことがある人ほど、ここの考え方が効いてくると思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "57qsp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "74e7q",
+          "text": "原則1: 簡潔さが命：コンテキストウィンドウは公共財",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2hfum",
+          "text": "コンテキストウィンドウ（Claudeが一度に処理できる情報量の枠）は有限で、スキルの指示、会話の履歴、システムプロンプト、他のスキルのメタデータ（名前と説明文）がすべて同じ枠の中に入ります。つまり、スキルの中に無駄な説明を詰め込むと、他の情報が入るスペースが減ります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ds19a",
+          "text": "公式の表現がいいです。「デフォルトの前提: Claudeはすでに十分賢い」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3q2hu",
+          "text": "スキルに書く情報の1つ1つに対して、こう問いかけます：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbk82",
+          "text": "「Claudeはこの説明を本当に必要としているか？」",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2st3c",
+          "text": "「Claudeがすでに知っていることを繰り返していないか？」",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmqrf",
+          "text": "「この段落はトークンコスト（消費量）に見合っているか？」",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b00j7",
+          "text": "悪い例（150トークン消費）：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bs7kc",
+          "text": "PDF（Portable Document Format）は一般的なファイル形式で、テキスト、画像、その他のコンテンツを含みます。PDFからテキストを抽出するにはライブラリが必要です。利用可能なライブラリはたくさんありますが、pdfplumberは使いやすく…",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1gd1",
+          "text": "良い例（50トークン消費）：",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 41,
+                "text": "pdfplumber.open",
+                "toIndex": 56
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e44ar",
+          "text": "pdfplumberでテキスト抽出：import pdfplumber\nwith pdfplumber.open(\"file.pdf\") as pdf:\n    text = pdf.pages[0].extract_text()\n",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aq2se",
+          "text": "Claudeはそもそも「PDFが何か」も「ライブラリが何か」も知っています。教える必要はありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9366g",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9p08b",
+          "text": "原則2: 自由度を意図的に設計する：橋のメタファー",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "75c2e",
+          "text": "Claudeをロボットに見立てて、道の安全性に応じてガイドの粒度を変えます。これが公式の「橋のメタファー」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6i20i",
+          "text": "崖の横の細い橋（失敗したらダメージが大きいタスク）： 安全な道は1つしかありません。コマンドを一字一句指定して、余計なことをさせません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "698nt",
+          "text": "例：データベースのマイグレーション（構造変更）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "alad4",
+          "text": "このスクリプトをそのまま実行：\npython scripts/migrate.py --verify --backup\nコマンドを変更したりフラグを追加しないこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2vkbm",
+          "text": "何もない開けた草原（失敗してもリカバリーできるタスク）： 多くの道が正解に通じます。方向性だけ示して、Claudeに最適ルートを任せます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lc8b",
+          "text": "例：コードレビューのプロセス",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "59bob",
+          "text": "1. コードの構造と整理を分析\n2. 潜在的なバグやエッジケースをチェック\n3. 可読性と保守性の改善を提案\n4. プロジェクト規約への準拠を確認",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4u66c",
+          "text": "ほとんどの業務タスクはこの中間のどこかに位置します。判断基準は「このタスクが失敗したときのダメージの大きさ」です。ダメージが大きいほど自由度を下げて、小さいほど上げます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5j4g3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6aliu",
+          "text": "原則3: 段階的開示（Progressive Disclosure）：必要なものだけ、必要なときに",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qnnn",
+          "text": "これがスキル設計で最も知っておくべき仕組みだと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8h4fi",
+          "text": "Coworkのスキルは3段階でロードされます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4aibp",
+          "text": "Level 1: メタデータ（常にロード） スキルの名前と説明文だけです。1つあたり約100トークン。100個のスキルをインストールしても、この段階では10,000トークンしか消費しません。Claudeは「このスキルが存在する」「どういうときに使う」だけを知っている状態です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e95k6",
+          "text": "Level 2: 指示書（スキルが発動したとき） SKILL.md（スキルの本体ファイル）の中身が読み込まれます。公式推奨は5,000トークン以下、500行以内です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "49icp",
+          "text": "Level 3: リソースとコード（必要なときだけ） 参照ファイル、スクリプト、データ。Claudeが「これが必要だ」と判断したときだけ読みに行きます。使わないファイルはコンテキストを一切消費しません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2hpm3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "23gd2",
+          "text": "つまりSKILL.mdは「目次」として書きます。詳細は別ファイルに分割して、Claudeが必要なファイルだけ読みにいく設計にします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8utv",
+          "text": "ここのポイントは、スクリプト（.pyファイルなど）は実行されるけど、コードの中身自体はコンテキストウィンドウに入らないことです。出力結果だけが返ってきます。だから同じ処理を会話の中でClaudeにコードを書かせて実行するよりも、スクリプト化しておくほうがトークン効率がずっといいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehd9o",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c201f",
+          "text": "スキルを育てる方法",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esci3",
+          "text": "公式が推奨しているのが「Claude A（設計者）とClaude B（テスター）」パターンです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1e95f",
+          "text": "Claude A（ある会話ウィンドウ）と一緒にスキルを設計・作成する",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4t71j",
+          "text": "Claude B（別の会話ウィンドウ、スキルをロード済み）に実際のタスクをやらせる",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "i13l",
+          "text": "Claude Bの挙動を観察します。スキルの情報を見つけられているか？ルールを正しく適用しているか？",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2lari",
+          "text": "問題があればClaude Aに戻って「Bがこういう場面で失敗した。どう直す？」と相談します",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "adl28",
+          "text": "修正して、また Claude B でテスト",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnd9g",
+          "text": "実際の使用で見つかった問題をもとに改善するので、机上の想定よりずっと精度が上がります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ckie",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eusgj",
+          "text": "コネクタを組み合わせて「業務パイプライン」を作る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgckc",
+          "text": "1つのMCPコネクタを繋ぐだけでも便利だけど、複数を組み合わせたときに起きるのは「量の変化」じゃなくて「質の変化」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85m6s",
+          "text": "具体例を出します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b51l2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ifkb",
+          "text": "例: 週次営業レポートの自動化",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3knag",
+          "text": "手でやる場合：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1m19i",
+          "text": "Slackの#salesチャンネルを遡って、今週の商談メモを拾う（15分）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7j42e",
+          "text": "Notionの商談データベースにメモを転記する（10分）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cph3",
+          "text": "Wordで週次レポートのテンプレートを開いて書き込む（20分）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cno8q",
+          "text": "Google Driveにアップロードする（5分）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "540oj",
+          "text": "Coworkでやる場合：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5f25j",
+          "text": "先週やったのと同じ形式で、今週の営業レポートを作って。Slackの#salesチャンネルから今週の商談メモを取ってきて、Notionの商談データベースに追加して、Docxで週次レポートにまとめてGoogle Driveに保存して。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7892k",
+          "text": "1行です。プロジェクトに文脈が蓄積されているので、フォーマットも命名規則も前回の踏襲になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7enfl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ac5o",
+          "text": "CLAUDE.mdでパイプラインの品質基準を固定する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8u9vv",
+          "text": "プロジェクトフォルダの直下にCLAUDE.mdというファイルを置くと、セッション開始時にClaudeが自動で読み込みます。ここにワークフローの手順書を書いておくと、誰が（どのセッションで）実行しても同じ品質基準で動きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19n2g",
+          "text": "新人に引き継ぎ書を渡すような感覚に近いです。「レポートのファイル名はYYYY-MM-DD_weekly_sales_report.docxにする」「売上数値は千円単位で丸める」「レポートの冒頭には先週のハイライトを3行で書く」みたいなルールを書いておけば、Claudeが毎回それに従います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6j554",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7t76",
+          "text": "CLAUDE.mdの設計で意識すると良いのは：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "de8kk",
+          "text": "プロジェクト全体のコーディング規約・品質基準はここに書く",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bd3hm",
+          "text": "特定タスクの詳細手順は別のスキルファイルに分離する（CLAUDE.mdが長くなりすぎると毎回の読み込みコストが増える）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95pgf",
+          "text": "「こうしてはいけない」というアンチパターンも明記しておく（Claudeは「やってね」より「やるな」のほうを忠実に守る傾向があります）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d62gc",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9kjg0",
+          "text": "スケジュールタスクとディスパッチ：自分がいなくても回る仕組み",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bp3g3",
+          "text": "スケジュールタスク",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ol3v",
+          "text": "「毎朝9時にやっておいて」を設定する方法です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "54t6b",
+          "text": "設定方法：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71j72",
+          "text": "左サイドバーの「Scheduled（スケジュール）」タブに移動",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7sp77",
+          "text": "「New Task」をクリック",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbpbs",
+          "text": "タスク名と説明を入力",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c4eou",
+          "text": "プロンプト欄にやらせたいことを書く（例：「メールとカレンダーをチェックして、今日のデイリーブリーフを作って」）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5vnlp",
+          "text": "実行頻度を設定：毎時、毎日、毎週、特定曜日の特定時刻",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cd1v",
+          "text": "対象プロジェクトフォルダを選んで保存",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a277j",
+          "text": "注意点があります。スケジュールタスクは、PCが起動していてCoworkアプリが開いている場合にのみ実行されます。ノートPCが閉じていたら、9時のタスクはPCを開くまで待機状態になります。電源設定でスリープを防ぐ設定にしておくのを忘れないでください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fqvo",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69ni0",
+          "text": "ディスパッチモード：スマホから自宅PCを遠隔操作",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fm0at",
+          "text": "外出先にいるけど、自宅PCのファイルで処理したいタスクがあります。そういうときにディスパッチモードを使います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "93dct",
+          "text": "スマホのClaudeアプリからメッセージを送ると、自宅のPC上でCoworkがタスクを実行します。会話スレッドが共有されているので、スマホとPCの間でコンテキスト（文脈）が途切れません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7r79l",
+          "text": "設定：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40m1j",
+          "text": "デスクトップのCowork設定でディスパッチを有効化",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77av0",
+          "text": "ディスパッチメニューの「Keep Awake（スリープ防止）」をON。これを忘れるとPCがスリープしてファイルアクセスできなくなります",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8q013",
+          "text": "ブラウザ操作やコンピュータ操作を許可する場合は個別に設定",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4nqas",
+          "text": "使用例： スマホから「レシートフォルダをスキャンしてダッシュボード作って」と送ります。自宅PCのCoworkが処理を実行して、プッシュ通知で完了を知らせてくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rq7l",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ej595",
+          "text": "Claude in Chrome：ブラウザ操作という奥の手",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hog4",
+          "text": "MCPコネクタがないWebサービスを操作したいとき、Chrome拡張（ブラウザの追加機能）が使えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b83c9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9bgsj",
+          "text": "セットアップ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7u78s",
+          "text": "Google Chromeのウェブストアで「Claude」を検索 → インストール → ツールバーにピン留め → Coworkの設定で「Claude in Chrome」を有効化します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qmnl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "foskg",
+          "text": "できること",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "g1ce",
+          "text": "Chromeのタブを開いてWebページを自律的に読む",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "sbq7",
+          "text": "ページの構造（見出し、強調テキスト、レイアウトの階層）を理解する",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8bukc",
+          "text": "リンクをクリックして、ページを遷移する",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8akqf",
+          "text": "フォームに入力する",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f049b",
+          "text": "競合サイトの定点観測、フォーム入力の自動化、Web上のデータ収集",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5av6i",
+          "text": "YouTubeを開いて、おすすめ動画の視聴回数、高評価率、コメントの傾向を取ってきて。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efrtp",
+          "text": "こういう指示もできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7c5hr",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eh2ft",
+          "text": "セキュリティの注意",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84hsu",
+          "text": "ここは強調しておきます。Claudeは自分のChromeを使います。つまり、ログイン済みのアカウントにアクセスできます。もし航空券予約サイトで決済情報が保存されていたら、理論上は購入を完了できてしまいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bnk5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5f8u1",
+          "text": "対策：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6enfb",
+          "text": "Coworkの設定でブロックリスト（操作を禁止するサイト）を先に設定する",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7epk",
+          "text": "銀行、決済サービス、重要なアカウントのサイトはブロックリストに入れる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ja4b",
+          "text": "Chrome操作中はアクティビティを監視する。新人社員にアカウントのアクセス権を渡したときと同じ心構えで",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98ip3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1vrtv",
+          "text": "Computer Use：画面を見てマウスを動かす",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3uf1s",
+          "text": "Claude in Chromeはブラウザ内の操作に限定されますけど、Computer Use（コンピュータ操作）はもう一歩先を行きます。Claudeが画面のスクリーンショットを撮って、マウスを動かして、キーボードを叩いて、デスクトップアプリを直接操作する機能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fa0mn",
+          "text": "設定 → 一般 → 「Computer Use」をONにします。ただし、ONにする前にブロックリスト（操作を禁止するアプリ）を必ず設定してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6m5i9",
+          "text": "できることの例：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fl57c",
+          "text": "デスクトップ上の動画ファイルを見つけて、CapCut（動画編集アプリ）にドラッグ&ドロップする",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "44rc8",
+          "text": "Finderでファイルを検索して、特定のアプリで開く",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cv848",
+          "text": "デスクトップアプリのUIを視覚的に認識して、ボタンをクリックする",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qqtq",
+          "text": "使い分けの整理としては、MCPコネクタで対応しているサービスならコネクタを使います。コネクタがなくてブラウザでアクセスできるならClaude in Chrome。それでもダメなデスクトップアプリの操作がComputer Use。この3段階で考えるといいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28pjm",
+          "text": "Pro/Maxプランで利用可能で、macOSとWindowsの両方に対応しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58o6r",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv4kf",
+          "text": "フィードバックループと検証：出力品質を安定させる設計パターン",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dvn0a",
+          "text": "スキルを作って、コネクタを繋いで、パイプラインを組みます。ここまでくると、次に気になるのは「出力の品質がブレる」問題だと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a103o",
+          "text": "Anthropicの公式ベストプラクティスが繰り返し強調しているのは「一発で完璧を求めず、ループを回す」ことです。具体的なパターンが3つあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4mebe",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv9uo",
+          "text": "パターン1: 実行→検証→修正→再実行ループ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42a7r",
+          "text": "スキルの中に検証ステップを組み込みます。Claudeにやらせっぱなしにするんじゃなくて、やったあとに自分でチェックさせます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "as7jd",
+          "text": "例えばWordドキュメントの編集スキルなら：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7dms4",
+          "text": "1. document.xmlを編集する\n2. 即座にバリデーション（検証）を実行: python scripts/validate.py unpacked_dir/\n3. バリデーションに失敗したら:\n   - エラーメッセージを読む\n   - XMLの問題箇所を修正する\n   - 再度バリデーションを実行する\n4. バリデーションを通過したときだけ次へ進む\n5. ドキュメントを再構築: python scripts/pack.py unpacked_dir/ output.docx",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4rjm2",
+          "text": "この「実行→検証→修正→再実行」を自動でループさせます。手動チェックなしでも品質が安定する仕組みです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e48kc",
+          "text": "公式が補足しているのは、バリデーションスクリプトのエラーメッセージは具体的に書くことです。「バリデーション失敗」だけだとClaudeは何を直せばいいかわかりません。「フィールド 'signature_date' が見つかりません。利用可能なフィールド: customer_name, order_total, signature_date_signed」のように書くと、Claudeが自力で修正できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6v5v0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8umil",
+          "text": "パターン2: チェックリスト駆動ワークフロー",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e9oeq",
+          "text": "複雑なタスクをステップに分解して、Claudeに進捗を追跡させます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d74oe",
+          "text": "リサーチ進捗:\n- [ ] ステップ1: ソース文書をすべて読む\n- [ ] ステップ2: 主要テーマを特定する\n- [ ] ステップ3: 主張をソース間で相互参照する\n- [ ] ステップ4: 構造化されたサマリを作成する\n- [ ] ステップ5: 引用を検証する（不備があればステップ3に戻る）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "m6a0",
+          "text": "このチェックリストをスキルの中に書いておくと、Claudeが自分でチェックを入れながら進みます。ステップを飛ばすことがなくなるし、ステップ5で引用に不備があればステップ3に戻るような「分岐」も仕込めます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cb4js",
+          "text": "コードを含まないタスク（リサーチ、文書作成、レビュー）でもこのパターンは使えます。スクリプトの代わりにスタイルガイド（文体の基準書）をバリデーターとして使い、Claudeに「チェックリストの項目をスタイルガイドと照合して」と指示します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpk0c",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ag4no",
+          "text": "パターン3: 検証可能な中間出力",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7boda",
+          "text": "いきなり最終成果物を作るのではなく、まず「計画ファイル」を作らせます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2lii",
+          "text": "例えば50件のPDFフォームに一括入力するタスクがあるとします。いきなり全部入力させると、フィールド名の間違いや値の矛盾に気づくのが最後になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eepem",
+          "text": "代わりに：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ldmp",
+          "text": "フォームの構造を分析させる（analyze_form.py）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "608vg",
+          "text": "入力計画をJSONファイルとして出力させる（changes.json）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bte3u",
+          "text": "計画ファイルをバリデーションスクリプトで検証する（validate_fields.py）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a76uc",
+          "text": "問題なければ実行（fill_form.py）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4knl4",
+          "text": "完了後に結果を確認（verify_output.py）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b16fu",
+          "text": "「分析→計画作成→計画検証→実行→確認」の5ステップです。ステップ3で問題が見つかればステップ2に戻ります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d51hg",
+          "text": "この「計画を先に作って、実行前に検証する」パターンは、バッチ処理（大量の一括処理）、破壊的な変更（元に戻しにくい操作）、高リスクな作業（ミスの影響が大きい操作）で特に有効です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajt68",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1kpfl",
+          "text": "トークンを無駄にしない実践知",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bqd3",
+          "text": "「なんかもう今週の利用上限に達しちゃった…」という経験、ありませんか。Coworkに送るすべての言葉と、Claudeがファイルから読み込むすべての情報にトークンがかかります。管理が甘いと、週の半ばで上限に到達します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2s6q",
+          "text": "避けるべき3つのパターンがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37n4b",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cl577",
+          "text": "ミス1: ベースロードを無視する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbfdp",
+          "text": "自分が1文字もタイプしていない状態で、すでにコンテキストウィンドウの一部が埋まっています。システム指示、有効なツール、接続中のMCPコネクタです。全部カウントされています。コネクタをたくさんONにしていると、それだけで基礎消費が増えます。今のタスクに必要なコネクタだけONにしてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71kam",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e12cs",
+          "text": "ミス2: コンテキスト腐敗",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "985mi",
+          "text": "同じチャットタブで何時間も作業を続けると、Claudeは毎回その会話の全履歴を再読み込みします。メールの下書きを終えたあと、同じウィンドウでドバイ旅行の計画を始めたら、メールのコンテキストが旅行の処理に毎回ロードされます。純粋な無駄です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4tjru",
+          "text": "30〜45分ルール：セッションは30〜45分、1トピックに限定します。話題が変わったら新しいウィンドウを開きます。新しいコンテキスト、新しい予算。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eb92f",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1l0pb",
+          "text": "ミス3: 会話で大量処理",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fksd9",
+          "text": "100件の請求書をClaudeに1件ずつ会話の中で読ませて処理させると、セッションのトークンがみるみる減ります。代わりに、スキル化してスクリプトで回します。スクリプトの実行結果だけがコンテキストに入るので、トークン消費は桁違いに少ないです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5itea",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "850oq",
+          "text": "並列サブエージェントの活用",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8tgel",
+          "text": "大きなタスクでは「並列で処理して」と指示します。Coworkが複数のサブエージェント（分身）を立ち上げて、それぞれ別のコンテキストウィンドウで同時に作業します。1つのウィンドウにすべてを詰め込むよりもトークン効率がいいし、処理も速いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9sf46",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g1qb",
+          "text": "外部スキルのセキュリティ：2分でできる安全確認",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "n8nn",
+          "text": "GitHubなどからコミュニティが作ったスキルをダウンロードして使えます。これは便利だけど、リスクがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9fid",
+          "text": "スキルは「Claudeへの指示書」です。もし悪意のある指示が.mdファイルに埋め込まれていたら、プロンプトインジェクション（AIへの不正な指示注入）になります。ファイルの削除、データの外部送信、アクセス権限の昇格。理論上は全部できてしまいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "iffd",
+          "text": "Anthropicの公式も「信頼できるソース（自分で作ったもの、またはAnthropicから入手したもの）のスキルのみを使用することを強く推奨」と明記しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1s8kk",
+          "text": "もし外部スキルを使うなら、この手順を毎回やってください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aug9t",
+          "text": "スキルの.mdファイルの全文をClaude Chatに貼って、こう聞きます：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fub2o",
+          "text": "このスキルに有害な指示、タスクの範囲外の動作を指示する内容、または不審なパターン（予期しないネットワーク呼び出し、ファイルアクセスパターン、本来の目的と合わない操作）はないか？",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rff8",
+          "text": "2分です。毎回やります。例外なし。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3tuel",
+          "text": "特に注意すべきは、外部URLからデータを取得するスキルです。取得先のコンテンツが変更されれば、もともと安全だったスキルが後から危険になりうります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2sg1i",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9bpgj",
+          "text": "まとめ：今日やる3つのこと",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fga05",
+          "text": "ここまで読んで「全部やるのは大変だな」と思ったかもしれません。でも、最初の3つだけやれば、Coworkの世界は十分に変わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "84mif",
+          "text": "1. フォルダを1つ作って、1つタスクを任せてみる。 デスクトップに「claude-workspace」フォルダを作って、散らかったファイルを入れて、「種類別に整理して」と頼みます。5分で終わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cck10",
+          "text": "2. about_me.mdを作ってClaudeに自分を覚えさせる。 「僕のことをインタビューして、ビジネス脳ファイルを作って」と頼むだけです。15分で、毎回のゼロからの説明がなくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3ts5s",
+          "text": "3. 普段使っているツールのコネクタを1つ繋いでみる。 SlackでもNotionでもGoogle Driveでもいいです。1つ繋がるだけで「Coworkってファイル整理だけじゃないんだ」とわかります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6poqu",
+          "text": "この3つを起点にして、慣れてきたらスキル化→スケジュールタスク→パイプライン構築へ進みます。Coworkの恩恵は使うほど加速します。最初の1歩が一番ハードルが高くて、そこを超えたらあとは勝手に「これもCoworkでやれるな」が見えてくるようになります。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "01930d1f-82b1-4ac1-ba60-8d33498dada4",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2040610532038959104"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "markdown": "```\n## 基本情報\n- 名前:aaa\n- 役割: プロダクト開発\n- 主な業務: MEO（Googleマップ検索の最適化）代行事業の立ち上げ\n\n## 顧客\n- ローカルビジネス（飲食店、美容室、クリニックなど）\n- ITリテラシーは高くないが、集客への関心は強い\n\n## 今の優先事項\n- MEOツール群の自動化率を上げる\n- note/Xでの情報発信を習慣化する\nbrand_voice.md：どんな文体で書くか、好きなトーン、嫌いな表現、実際の文章サンプル。これがないと「AIが書いた感」丸出しの文章が出てきます。\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "markdown": "```\n## トーン\n- カジュアルだけど中身は濃い。友人に説明するような口調\n- 一人称は「僕」\n- 「めちゃくちゃ」「ぶっちゃけ」「やってみた」OK\n\n## 避ける表現\n- 過度に丁寧な敬語（「させていただきます」）\n- 抽象的なビジネス用語だけの文（「DX推進」「シナジー」）\n- 上から目線の断定（「〜すべきです」）\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "markdown": "```\npdf-skill/\n├── SKILL.md          ← Level 2: 発動時に読み込み（目次のような役割）\n├── FORMS.md          ← Level 3: フォーム操作が必要なときだけ\n├── REFERENCE.md      ← Level 3: API情報が必要なときだけ\n└── scripts/\n    └── fill_form.py  ← Level 3: 実行されるが中身はコンテキストに入らない\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHFG0d58aYAAKAAIAAAAAAAAAAAAA",
+        "media_id": "2040610532038959104",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 9,
+            "numerator": 16
+          },
+          "duration_millis": 68754,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 100,
+                  "rgb": {
+                    "blue": 203,
+                    "green": 215,
+                    "red": 225
+                  }
+                }
+              ]
+            },
+            "original_img_height": 720,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2040610532038959104/img/o_XkWHzPErtMKP8e.jpg",
+            "original_img_width": 1280
+          },
+          "variants": [
+            {
+              "bit_rate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040610532038959104/vid/avc1/480x270/qmak2qqpuvGJ6jUd.mp4?tag=21"
+            },
+            {
+              "bit_rate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040610532038959104/vid/avc1/640x360/oitf86npbF9Heu3C.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040610532038959104/vid/avc1/1280x720/gy0pPqU7abnzpGqe.mp4?tag=21"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2040610532038959104/pl/gDB9C7vaAQlZRB4f.m3u8?tag=21&v=cfc"
+            }
+          ]
+        },
+        "media_key": "13_2040610532038959104"
+      }
+    ]
+  }
+}

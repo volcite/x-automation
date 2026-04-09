@@ -1,0 +1,296 @@
+{
+  "tweet_created_at": "2026-04-07T02:40:13.000000Z",
+  "id": 2041345272199144000,
+  "id_str": "2041345272199143926",
+  "type": "tweet",
+  "conversation_id_str": "2041345272199143926",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/e3tJo1fMGO",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1640120449110790100,
+    "id_str": "1640120449110790144",
+    "name": "思考遊戯",
+    "screen_name": "think_hacking",
+    "location": "学校では教わらない考え方→",
+    "url": "https://note.com/think_hacking/membership",
+    "description": "勉強で勝てなかった人のための思考術｜学校では教わらない処世術や立ち回りを言語化しています｜考えの積み上げ方｜勝ち筋の見つけ方｜自分の頭で生きていくための視点を発信しています",
+    "protected": false,
+    "verified": true,
+    "followers_count": 32684,
+    "friends_count": 79,
+    "listed_count": 129,
+    "favourites_count": 16868,
+    "statuses_count": 8814,
+    "created_at": "2023-03-26T22:36:09.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640120449110790144/1758418453",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1969575656616050693/B2fXqx4__normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 65,
+  "reply_count": 3,
+  "retweet_count": 97,
+  "favorite_count": 1040,
+  "views_count": 1723937,
+  "bookmark_count": 468,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040073230443294720",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/e3tJo1fMGO"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T02:40:13.000000Z",
+    "id": 2041345272199144000,
+    "id_str": "2041345272199143926",
+    "title": "夜桜でちゃんと幸せになれるうちは大丈夫だと思った",
+    "preview_text": "高級レストランに行って幸せを感じるのもいいし、高級ホテルで過ごす時間にもちゃんと価値はあると思います。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3gkkg",
+          "text": "高級レストランに行って幸せを感じるのもいいし、高級ホテルで過ごす時間にもちゃんと価値はあると思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "csf2d",
+          "text": "でも最近、それとは別の幸せをちゃんと大事にしないとまずいなと思いました。お金を払わなくても得られるものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aqbuo",
+          "text": "どれだけお金があっても、それを幸せだと感じられる感覚だけは失いたくない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "daagf",
+          "text": "この前、久しぶりに奥さんと二人になる時間ができました。桜の季節だったので、せっかくだから見に行こうとなったんですが、名所と呼ばれる場所はだいたい人が多い。ということで近くの役所にある桜の木を、夜に見に行くことにしました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "224od",
+          "text": "わざわざ遠くまで行くわけでもなく、特別なイベントでもなく、ただ近所を歩くだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "906gm",
+          "text": "夜の空気の中で、明るすぎない街灯に照らされた桜を見ながら、好きな人と歩く。これだけで十分だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dp5o2",
+          "text": "これで十分だと思えることのほうが大事なんじゃないかと思いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88b92",
+          "text": "高いお金を払ったから特別なのではなく、誰とどういう時間を過ごしたかで、その夜の価値が決まる。そう考えると、幸せって贅沢品ではないんだなと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6v0m5",
+          "text": "人は、お金があると選択肢が増えるので、幸せまで豪華にしようとしてしまいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "k5lm",
+          "text": "もっといい店、もっといい宿、もっといい景色。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "99uhu",
+          "text": "その感覚だけで生きていると、無料で手に入るものの価値を見落としやすくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "599b9",
+          "text": "夜桜を見ながら歩くことなんて、別に何のステータスにもならないし、SNSに上げてもそんなに映えない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fh294",
+          "text": "でも、そういう時間にちゃんと心が動くかどうかって、人生では大事な気がします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3o0kf",
+          "text": "というか、本当にまずいのは、お金をかけないと幸せを感じにくくなることなのかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29h8b",
+          "text": "高いものじゃないと満足できない、派手な時間じゃないと記憶に残らない、そうなったら少し寂しいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fi9t7",
+          "text": "夜の散歩とか、近所の桜とか、好きな人との何気ない会話とか、そういうものをちゃんと大事だと思える感覚は、どれだけお金があっても手放さないほうがいいと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "591pq",
+          "text": "この前の夜、役所の近くにある桜を見ながら歩いていて、なんとなく思いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e0hpv",
+          "text": "こういう無料の幸せを感じれなくなったら、もう幸せを手に入れることはできない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "beaki",
+          "text": "夜桜を見ながら好きな人と歩くだけでちゃんと満たされること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lfen",
+          "text": "あれは何より大事にしないといけない感覚なんだと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbuhc",
+          "text": "お勉強をしてこなかった人に向けて「思考のジム」というコミュニティを運営しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80stc",
+          "text": "リンクは下記から。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://note.com/think_hacking/membership",
+                "toIndex": 41
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 41,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7nb7",
+          "text": "https://note.com/think_hacking/membership",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://note.com/think_hacking/membership"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

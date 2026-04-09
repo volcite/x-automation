@@ -1,0 +1,167 @@
+{
+  "tweet_created_at": "2026-04-02T11:24:57.000000Z",
+  "id": 2039665384673124600,
+  "id_str": "2039665384673124610",
+  "type": "tweet",
+  "conversation_id_str": "2039665384673124610",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/rJVuLggpMf",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1981004015958913000,
+    "id_str": "1981004015958913024",
+    "name": "夜夏",
+    "screen_name": "renai_yona",
+    "location": "",
+    "url": "https://note.com/renai_yona",
+    "description": "恋愛の本質を語る。記事はnote、恋愛相談はこちらから→ https://t.co/SkXGlh51Su",
+    "protected": false,
+    "verified": true,
+    "followers_count": 6434,
+    "friends_count": 22,
+    "listed_count": 18,
+    "favourites_count": 2414,
+    "statuses_count": 2175,
+    "created_at": "2025-10-22T14:25:52.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1981004015958913024/1762184913",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1985373486379134976/fShScCv6_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 25,
+  "reply_count": 2,
+  "retweet_count": 63,
+  "favorite_count": 1301,
+  "views_count": 236200,
+  "bookmark_count": 757,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039663604400869376",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/rJVuLggpMf"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T11:24:57.000000Z",
+    "id": 2039665384673124600,
+    "id_str": "2039665384673124610",
+    "title": "長続きする恋は男のベタ惚れから始まる",
+    "preview_text": "恋愛が長く続く関係を見ていると、ある共通した空気があります。男のほうが彼女にしっかり惚れていて、その気持ちが言葉だけでなく態度にも表れている関係です。無理に尽くしているわけではなく、自然に大切にしたく",
+    "cover_url": "https://pbs.twimg.com/media/HE5YzAwaUAAHHoa.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5n36e",
+          "text": "恋愛が長く続く関係を見ていると、ある共通した空気があります。男のほうが彼女にしっかり惚れていて、その気持ちが言葉だけでなく態度にも表れている関係です。無理に尽くしているわけではなく、自然に大切にしたくなる。その温度が日常の中に流れていると、二人の関係は驚くほど穏やかになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qm6j",
+          "text": "男性が本気で惚れているとき、相手を大事にすることを負担だと感じません。連絡を返すことも、会いに行くことも、気持ちを伝えることも、わざわざ努力している感覚ではなくなります。好きだからそうしているだけで、そこに無理がない。その姿勢が続くと、女性は無理に愛情を確かめようとしなくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9b97u",
+          "text": "大切にされている実感があると、人は安心します。安心している女性は恋愛だけに心を縛られません。彼の気持ちを疑い続ける必要がないから、友達との時間も、仕事や趣味も自然に大事にできます。恋愛にしがみつくような状態にならず、自分の生活をきちんと保てる。そういう女性は精神的に安定しているので、関係の中で感情が揺れすぎることが少なくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ek7cl",
+          "text": "一方で、男性側にも変化が起きます。好きな女性を大切にしていると、自分自身の姿が少し誇らしく感じられることがあります。自分はこの人をきちんと大事にできている。そう思えると、恋愛そのものに自信が生まれます。自分の行動に意味を感じられるようになるからです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3sa5i",
+          "text": "この自信はとても大きなものです。自信を持っている男性は、関係を壊すような軽い行動を取りにくくなります。彼女を大切にする自分の姿を守りたいと思うからです。恋愛が不安定になるときは、どこかで自分の立ち位置が曖昧になっていることが多いものですが、自信を持っているとその揺れが起きにくくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b9446",
+          "text": "女性は安心して自分の生活を大事にできる。男性は恋愛の中で自信を持てる。この二つが重なると、関係は自然と安定していきます。どちらかが無理をして支えているわけではなく、お互いの状態が穏やかだからです。感情の波に振り回されることが減り、恋愛が生活の中で落ち着いた場所を持つようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "buspg",
+          "text": "恋愛というと、どちらが強く好きなのかという話になりがちです。けれど本当に続く関係は、勝ち負けのような構図ではありません。男性が惚れていることで女性が安心し、その安心が男性の自信につながる。そんな循環が静かに回っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6gb77",
+          "text": "逆に言えば、恋愛が苦しくなるときは、この循環のどこかが崩れています。愛情が不安に変わると女性は心が揺れやすくなり、その揺れを感じ取ると男性も自信を失っていく。そうなると関係は少しずつ不安定になっていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eftcl",
+          "text": "長く続く恋愛は、特別な出来事が多いわけではありません。派手な言葉や刺激がなくても、日常の中で安心が続いていること。それが一番の土台になります。心が安定している女性と、自分の恋愛に自信を持っている男性。この組み合わせが揃ったとき、二人の関係は驚くほど穏やかに続いていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5dhmb",
+          "text": "恋愛は感情の激しさで決まるものではなく、どれだけ安心していられるかで形が決まっていくのかもしれません。惚れている男性と、安心していられる女性。そのバランスが整ったとき、関係は静かに強くなっていきます。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

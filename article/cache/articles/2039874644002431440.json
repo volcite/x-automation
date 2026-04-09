@@ -1,0 +1,471 @@
+{
+  "tweet_created_at": "2026-04-03T01:16:28.000000Z",
+  "id": 2039874644002431500,
+  "id_str": "2039874644002431440",
+  "type": "tweet",
+  "conversation_id_str": "2039874644002431440",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/TKU1p4Sa7G",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1147688287697551400,
+    "id_str": "1147688287697551361",
+    "name": "Ahmed Bassi",
+    "screen_name": "ahmedbassii",
+    "location": "",
+    "url": null,
+    "description": "Parody account for Ahmed Bassi fans. | فيلسوف افريقيا | DM للإعلان 📩",
+    "protected": false,
+    "verified": true,
+    "followers_count": 634622,
+    "friends_count": 12,
+    "listed_count": 241,
+    "favourites_count": 6274,
+    "statuses_count": 3218,
+    "created_at": "2019-07-07T02:06:25.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1147688287697551361/1682012945",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1649107658568335366/n-bO2HtX_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 2,
+  "reply_count": 20,
+  "retweet_count": 383,
+  "favorite_count": 1924,
+  "views_count": 170246,
+  "bookmark_count": 103,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039872742611173376",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/TKU1p4Sa7G"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T01:16:28.000000Z",
+    "id": 2039874644002431500,
+    "id_str": "2039874644002431440",
+    "title": "The face of genocide ! - وجه الإبادة !",
+    "preview_text": "انها ليست مجرد حالة…\nهذا وجه الإبادة.\n\nهذا الراجل عائد من غزة.\nواللي أماكم ليس مرض…\nذلك نتيجة إبادة جماعية تحدث على أرض الواقع.\n\nتشوّه كامل في الوجه !\nإصابة في العينين الاتنين !\nوحياة تغيرت للأبد !\n",
+    "cover_url": "https://pbs.twimg.com/media/HE8VhosaoAA7INX.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eeen0",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1018i",
+          "text": "انها ليست مجرد حالة…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c2ai",
+          "text": "هذا وجه الإبادة.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "964mr",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7li4o",
+          "text": "هذا الراجل عائد من غزة.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53u9h",
+          "text": "واللي أماكم ليس مرض…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fui9",
+          "text": "ذلك نتيجة إبادة جماعية تحدث على أرض الواقع.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6u0pf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cvhm",
+          "text": "تشوّه كامل في الوجه !",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fesf8",
+          "text": "إصابة في العينين الاتنين !",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnq9h",
+          "text": "وحياة تغيرت للأبد !",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4aj2u",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6c21v",
+          "text": "ده هذا ممنهج بإيدي بشر !",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e77p0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e084m",
+          "text": "في غزة…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28ura",
+          "text": "فقدان النظر ليس complication،",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18o6s",
+          "text": "هذا نتيجة إبادة جماعية مستمرة !",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "di4b",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c36v4",
+          "text": "الحالات ليست مجرد أرقام…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8or7",
+          "text": "الحالات بشر حقيقية تتألم،",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kup4",
+          "text": "وإحنا دورنا نحكي ونوصل الحقيقة.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3k7jo",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ckk1",
+          "text": "We’ll be seeing war repercussions for longer than the war itself lasted",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "d842a1f9-c0c5-400c-b2cc-402df67f895a",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039873726712590336"
+                },
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039873726557171713"
+                },
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039873726691606528"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE8WWMNbMAAKAAIP7WhqvRbAAQAA",
+        "media_id": "2039873726712590336",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 49.92,
+                "rgb": {
+                  "blue": 49,
+                  "green": 80,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 18.94,
+                "rgb": {
+                  "blue": 30,
+                  "green": 28,
+                  "red": 46
+                }
+              },
+              {
+                "percentage": 17.29,
+                "rgb": {
+                  "blue": 134,
+                  "green": 128,
+                  "red": 185
+                }
+              },
+              {
+                "percentage": 5.43,
+                "rgb": {
+                  "blue": 108,
+                  "green": 114,
+                  "red": 127
+                }
+              },
+              {
+                "percentage": 2.31,
+                "rgb": {
+                  "blue": 23,
+                  "green": 94,
+                  "red": 133
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HE8WWMNbMAAwy_y.jpg",
+          "original_img_width": 2048
+        },
+        "media_key": "3_2039873726712590336"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE8WWLoXsAEKAAIP7WhqvRbAAQAA",
+        "media_id": "2039873726557171713",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 35.85,
+                "rgb": {
+                  "blue": 50,
+                  "green": 78,
+                  "red": 107
+                }
+              },
+              {
+                "percentage": 34.42,
+                "rgb": {
+                  "blue": 29,
+                  "green": 34,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 11.66,
+                "rgb": {
+                  "blue": 146,
+                  "green": 131,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 6.02,
+                "rgb": {
+                  "blue": 45,
+                  "green": 50,
+                  "red": 84
+                }
+              },
+              {
+                "percentage": 3.03,
+                "rgb": {
+                  "blue": 92,
+                  "green": 78,
+                  "red": 60
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HE8WWLoXsAEICjA.jpg",
+          "original_img_width": 2048
+        },
+        "media_key": "3_2039873726557171713"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE8WWMIbAAAKAAIP7WhqvRbAAQAA",
+        "media_id": "2039873726691606528",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 38.99,
+                "rgb": {
+                  "blue": 37,
+                  "green": 44,
+                  "red": 64
+                }
+              },
+              {
+                "percentage": 35.56,
+                "rgb": {
+                  "blue": 92,
+                  "green": 118,
+                  "red": 146
+                }
+              },
+              {
+                "percentage": 19.02,
+                "rgb": {
+                  "blue": 155,
+                  "green": 135,
+                  "red": 186
+                }
+              },
+              {
+                "percentage": 3.09,
+                "rgb": {
+                  "blue": 51,
+                  "green": 74,
+                  "red": 100
+                }
+              },
+              {
+                "percentage": 1.13,
+                "rgb": {
+                  "blue": 210,
+                  "green": 231,
+                  "red": 240
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HE8WWMIbAAAwvp7.jpg",
+          "original_img_width": 2048
+        },
+        "media_key": "3_2039873726691606528"
+      }
+    ]
+  }
+}

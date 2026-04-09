@@ -1,0 +1,391 @@
+{
+  "tweet_created_at": "2026-04-08T08:50:14.000000Z",
+  "id": 2041800777325539600,
+  "id_str": "2041800777325539709",
+  "type": "tweet",
+  "conversation_id_str": "2041800777325539709",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/hsg8KrABgO",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1639262813246857200,
+    "id_str": "1639262813246857217",
+    "name": "宴",
+    "screen_name": "utage_utauta",
+    "location": "",
+    "url": "https://lit.link/utagedesu",
+    "description": "思考を整理するアカウントISTJ-A/6w5/△612/Ti-LSI(N)/so/sp/RCOEN 日常ｱｶ@syoen_utauta\nPola診断:https://t.co/vos24vbm3J",
+    "protected": false,
+    "verified": true,
+    "followers_count": 13273,
+    "friends_count": 308,
+    "listed_count": 77,
+    "favourites_count": 2028,
+    "statuses_count": 9208,
+    "created_at": "2023-03-24T13:48:14.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639262813246857217/1727072192",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1887897086131359744/IBY0eTUy_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 39,
+  "reply_count": 0,
+  "retweet_count": 82,
+  "favorite_count": 1186,
+  "views_count": 151387,
+  "bookmark_count": 596,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041758839704580096",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/hsg8KrABgO"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-08T08:50:14.000000Z",
+    "id": 2041800777325539600,
+    "id_str": "2041800777325539709",
+    "title": "ENFPは「ただ軽い」タイプではない",
+    "preview_text": "ENFPの一般イメージ\nENFPに対して抱くイメージは、だいたい似ている。 明るい、フットワークが軽い、飽きっぽい、言葉が上滑りする。 話は面白いけど、深いところまで行けない人。",
+    "cover_url": "https://pbs.twimg.com/media/HFXLUUKaEAAI-36.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ctr4t",
+          "text": "ENFPの一般イメージ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d54n0",
+          "text": "ENFPに対して抱くイメージは、だいたい似ている。 明るい、フットワークが軽い、飽きっぽい、言葉が上滑りする。 話は面白いけど、深いところまで行けない人。 どこかそういう印象で固定されていることが多い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5dhls",
+          "text": "それは完全な間違いだとは言わない。 熱量が長続きしないことはあるし、ひとつのことを丁寧に積み上げるより、いくつもの方向に同時に動いていることの方が多い。そこは否定しない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1se7",
+          "text": "でも、それを見てENFPを「軽い」と判断しているとしたら、かなり手前で止まっているのではないかと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8p3e",
+          "text": "表面が「軽さ」に見える理由",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "anp7h",
+          "text": "ENFPの優勢機能はNe。 情報に触れたとき、そこから可能性を一気に展開する。点と点がつながって、まだ言語化されていない何かが見える。その興奮が、言葉より先に出てくる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2q8l9",
+          "text": "だから話していると、飛ぶ。 脈絡なく別の話題に跳ぶように見える。矛盾したことを言っているように聞こえることもある。 そのスピードと跳躍が、外側からは「軽い」と映る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "femia",
+          "text": "でもNeが拾っているのは「つながり」だ。 表面的に関係のない話が、実はひとつの構造でつながっている、ということをENFPは直感的に理解している。それが整理されて出てくる前に話し始めるから、受け取る側が追いつけないだけで、内側に走っている線は一本通っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ka6m",
+          "text": "「夢を語る」ENFPが本気のとき",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2hue",
+          "text": "ここからは自分の話。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ee6fq",
+          "text": "昔、ENFP友人と1対1で夢の話をしたことがある（とは言っても自分は夢という夢は無いから、ENFPの話を聞いているだけだったが）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kg2o",
+          "text": "最初はいつも通り、話は跳ぶしスケールが大きい。どこから手をつけるのか見えない。「現実的じゃない話をしてるな～」という感覚。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3gcr",
+          "text": "でも話が続くうちに、印象が変わり始める。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 93,
+              "style": "Bold"
+            }
+          ],
+          "key": "1kk2a",
+          "text": "どうやって始めるか。リソースをどう確保するか。どこで方向を変えるか。 段階の話になってきたとき、地に足のついた現実的な視点が見えてきた。理想の話をしているはずなのに、手順が具体的だった。スケールは大きいままなのに、実際のやり方やアプローチがスラスラ言葉で出てくる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70jl8",
+          "text": "「あ、ちゃんと考えてるんだな」という感想が正直なところだった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6kur3",
+          "text": "ENFPの信念＝Fi",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 13,
+              "style": "Bold"
+            }
+          ],
+          "key": "67eji",
+          "text": "そのとき印象に残ったのは、「なぜそれをやるのか」の部分だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eq0ik",
+          "text": "何をやるかより、なぜかの話になったとき、ENFPの言葉が急に変わった。 さっきまでの軽やかさが消えて、一つの線としてまとまっていく感じがあった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ldgf",
+          "text": "「自分の得意なことはこれだから」 「これをやればみんなを喜ばせることが出来る」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 21,
+              "style": "Bold"
+            }
+          ],
+          "key": "7j5nu",
+          "text": "断言だった。根拠を並べてくるわけじゃない。でも揺らがない。 あの強度は、NeじゃなくてFiが出てきているときの感じだと思っている。ENFPにも内側に価値観の軸がある。表に出る機会が少ないだけで、Fiは静かにずっと働いている。「なぜそれでなければならないか」を、ENFPは本当に真剣に問うているのだろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7as99",
+          "text": "「こうあるべき」で共鳴できる人",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5mokr",
+          "text": "自分はISTJで、ENFPとはタイプとして対極に近い。 論理と手順を大事にする側から見ると、ENFPの動き方は最初は抵抗を感じやすい。ENFP目線でもそうだろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 21,
+              "style": "Bold"
+            }
+          ],
+          "key": "fvc34",
+          "text": "でも、理念の話になったとき、話が通じた。 「こうあるべき」という部分で、完全に共鳴できた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cvsag",
+          "text": "プロセスや手段は違う。優先順位も違う。でも「何が正しいか」「何のためにやるか」というところで、同じ方向を向いていた。あの感覚はどの自分と近いタイプからも感じたことがない。ENFPだから共鳴しないだろうと思っていた部分で、一番深く共鳴した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cm7fd",
+          "text": "ENFPを「軽い人」で止めていたら、そこまでたどり着かなかったと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7n59t",
+          "text": "誤解のコスト",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ejq4h",
+          "text": "これは自分のサンプル=1の話だが、今まで見てきたENFPも共通して同じ傾向を感じる。SNSで交流をしてきたENFPたちも「正反対だがなぜか共鳴する」という経験を幾度も体験してきた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "dlu7b",
+          "text": "ENFPを「軽い人」で止めておくと、損をするのは止めた側だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36d2i",
+          "text": "表面の跳躍と雑談の速さを見て、「この人と深い話はできない」と判断する。 でも実際は、深い話ができる場所を見つけていないだけだったりする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cp6jo",
+          "text": "ENFPが「この人と本気で話せる」と思ったとき、何を話すか。 夢の話でも、アイデアの話でもなく、「自分が何に怒っているか」「何を信じているか」になることがある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42f7o",
+          "text": "そのレイヤーにたどり着いたENFPは、表面とは全く別の人間に見える。 あの振れ幅が、ENFPをENFPたらしめているもので、最大の魅力だと感じる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8froa",
+          "text": "軽やかに動けることと、深く信じていることは、矛盾しない。 ENFPはその両方を、同時に持っている。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

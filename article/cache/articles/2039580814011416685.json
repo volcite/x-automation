@@ -1,0 +1,253 @@
+{
+  "tweet_created_at": "2026-04-02T05:48:54.000000Z",
+  "id": 2039580814011416600,
+  "id_str": "2039580814011416685",
+  "type": "tweet",
+  "conversation_id_str": "2039580814011416685",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/OJCuS9YdLC",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1090513571581091800,
+    "id_str": "1090513571581091840",
+    "name": "Lets Cinema",
+    "screen_name": "letscinema",
+    "location": "Mumbai, India",
+    "url": "http://letscinema.com",
+    "description": "The trusted name for cinema updates & box office data. Email for collabs — contact@letscinema.com ✉️",
+    "protected": false,
+    "verified": true,
+    "followers_count": 514759,
+    "friends_count": 805,
+    "listed_count": 574,
+    "favourites_count": 4992,
+    "statuses_count": 26658,
+    "created_at": "2019-01-30T07:34:31.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090513571581091840/1747852235",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1985686530451783680/WCrzy2J8_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 18,
+  "reply_count": 29,
+  "retweet_count": 169,
+  "favorite_count": 1583,
+  "views_count": 255935,
+  "bookmark_count": 217,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039576471682080769",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/OJCuS9YdLC"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T05:48:54.000000Z",
+    "id": 2039580814011416600,
+    "id_str": "2039580814011416685",
+    "title": "Good isn't good enough anymore — and we have SS Rajamouli to blame",
+    "preview_text": "The teaser dropped today. India's most expensive film ever made. Hans Zimmer and A.R. Rahman composing together for the first time. Ranbir Kapoor as Ram. Yash as Ravana. The VFX powerhouse DNEG behind",
+    "cover_url": "https://pbs.twimg.com/media/HE4Mm3NbIAAzm-6.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9lsff",
+          "text": "The teaser dropped today. India's most expensive film ever made. Hans Zimmer and A.R. Rahman composing together for the first time. Ranbir Kapoor as Ram. Yash as Ravana. The VFX powerhouse DNEG behind the visuals, with the whole thing shot for IMAX. On paper, this is everything a cinematic event should be. And watching it, you feel it — the goosebumps are real, the scale is undeniable, the ambition is staggering.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6fdol",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 119,
+              "style": "Italic"
+            }
+          ],
+          "key": "cj7i0",
+          "text": "But then something strange happens. Somewhere between the spectacle and the emotion, a quiet voice in your head asks — is it enough?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7uq8d",
+          "text": "Not a dismissal. Not cynicism. Just a feeling. The kind that creeps up on you when you have seen what Indian cinema is truly capable of at its absolute best, and that standard — unfairly, beautifully, inevitably — becomes the lens through which everything else gets measured.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "vusd",
+          "text": "That standard has a name. SS Rajamouli.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ff9c4",
+          "text": "The Ramayana teaser is impressive. The visuals carry weight. The casting is ambitious. And yet — the moment you begin to process it, your mind drifts, almost involuntarily, to what Rajamouli is simultaneously cooking. Varanasi. A story that moves across multiple yugas, from Treta Yuga to Kali Yuga, spanning continents from Africa to Antarctica, with Mahesh Babu charging through timelines. That's not a film. That's a phenomenon still under construction. The teaser they released a couple of months back caught massive attention from Hollywood media and that alone speaks volumes.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "689uo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 129,
+              "style": "Italic"
+            }
+          ],
+          "key": "dssfe",
+          "text": "Think about what Rajamouli does. Think about how he positions a film before you've even seen a single frame. With Baahubali, the why did Kattappa kill Baahubali question became a cultural event in itself. With RRR, the marketing never sold you a plot — it sold you a feeling, a pulse, a fury. Every piece of content that came out before release felt like it was building toward something you physically couldn't miss. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 206,
+              "style": "Italic"
+            }
+          ],
+          "key": "12sh1",
+          "text": "What he understands — and what makes him genuinely different from everyone else working in Indian cinema right now — is that scale alone is never the product. Scale is just the canvas. What he sells you is inevitability. The sense that this film was always going to exist, that the universe was building toward it, that missing it would mean missing something permanent. He makes cinema feel like an event not just for the industry but for human experience itself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5s0qj",
+          "text": "The Ramayana will be a massive film. It should be — Namit Malhotra spent more than a decade building toward this, the investment is staggering, and Nitesh Tiwari is no small name. But Rajamouli makes you realise that machinery isn't magic. Magic is what happens when a filmmaker's instinct is so precise that every decision — the casting, the music drop, the release timing, the first image you see, even where and how a date is announced — feels curated not by a committee but by a singular, obsessive vision. You can feel that in every frame of RRR even before a word is spoken. And you can already feel it building in Varanasi, a film that's still being shot, still in post, and already living rent-free in every serious cinephile's head.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bmhgv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4va93",
+          "text": "Probably no one can match what Rajamouli does to your anticipation before you've bought a ticket. And that's not a failure of Ramayana. That's just what it means to have a GOAT in the room — even when he's not in the room.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "tweetId": "2039559804310651146"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "tweetId": "1989728797713973257"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "tweetId": "1990017063474352319"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,6599 @@
+{
+  "tweet_created_at": "2026-04-05T09:23:38.000000Z",
+  "id": 2040722018635747600,
+  "id_str": "2040722018635747663",
+  "type": "tweet",
+  "conversation_id_str": "2040722018635747663",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/hMv12hB5Ae",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1912080237028114400,
+    "id_str": "1912080237028114432",
+    "name": "mana｜株式会社MakeAI CEO",
+    "screen_name": "MakeAI_CEO",
+    "location": "無料のAI相談はこちら→",
+    "url": "https://lin.ee/Z3bEb8N",
+    "description": "法人向けAI研修・業務自動化の設計〜実装まで一気通貫で支援｜導入企業で残業ゼロ・離職率低下の実績あり｜中小企業のAI活用を「分かる」から「回る」に変える｜研修/導入支援のご相談はDMまたは公式LINEから↓",
+    "protected": false,
+    "verified": true,
+    "followers_count": 14612,
+    "friends_count": 153,
+    "listed_count": 99,
+    "favourites_count": 4863,
+    "statuses_count": 2500,
+    "created_at": "2025-04-15T09:47:16.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1912080237028114432/1775187568",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2004460966822727680/x2wh_2kc_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 23,
+  "reply_count": 4,
+  "retweet_count": 122,
+  "favorite_count": 1571,
+  "views_count": 199526,
+  "bookmark_count": 2825,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040629391148060672",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/hMv12hB5Ae"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T09:23:38.000000Z",
+    "id": 2040722018635747600,
+    "id_str": "2040722018635747663",
+    "title": "資料作成・データ集計・メール返信・契約書チェック。「めんどくさい」を全部消せるClaude活用事例45選",
+    "preview_text": "Claude Codeで仕事が消えた。非エンジニアの自動化と始め方の全手順\nチャット型AIと「何が違うの？」という疑問\nChatGPTやClaude、Gemini。",
+    "cover_url": "https://pbs.twimg.com/media/HFIZ1hmb0AAFTv3.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "i9il",
+          "text": "Claude Codeで仕事が消えた。非エンジニアの自動化と始め方の全手順",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7a6sm",
+          "text": "チャット型AIと「何が違うの？」という疑問",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqi41",
+          "text": "ChatGPTやClaude、Gemini。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ch4h",
+          "text": "こういったAIチャットを使ったことがある方は、もうかなり多いと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjap0",
+          "text": "質問を入力すると答えが返ってくる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c11h8",
+          "text": "また質問すると、また答えが返ってくる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbe5l",
+          "text": "画面の中でやり取りを繰り返すスタイルですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2f1q",
+          "text": "これ、めちゃくちゃ便利なんですけど、1つだけどうしようもない弱点があるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50pom",
+          "text": "それは「ファイルの受け渡しは結局自分でやるしかない」ということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1pbmi",
+          "text": "例えば議事録を作りたいとします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1e1v",
+          "text": "まず会議のメモをコピーして、AIに貼り付けて、「議事録にまとめて」と伝える。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fuo6t",
+          "text": "出てきた結果をコピーして、Wordに貼り付けて、体裁を整えて、保存する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bltr5",
+          "text": "AIが賢くなっても、このコピペ作業は自分でやるしかないんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3de5c",
+          "text": "正直めんどくさくないですか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eu84v",
+          "text": "しかもこのコピペ作業、1回だけじゃないですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ai0to",
+          "text": "毎日の仕事で何回も何回も繰り返しているはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "diiol",
+          "text": "会議があるたびに議事録、月末になるたびにレポート、商談のたびに提案資料。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dhkee",
+          "text": "AIは賢いのに、ファイルの受け渡しという単純作業は自分でやり続けなきゃいけない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3hs8h",
+          "text": "これが従来のチャット型AIの限界だったんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "di8pk",
+          "text": "正直めんどくさくないですか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "64scl",
+          "text": "「AIが全部やってくれたらいいのに」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ftiq",
+          "text": "そう思ったことがある方、多いんじゃないでしょうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "adc3m",
+          "text": "実はそれ、もうできるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "br5gn",
+          "text": "それがClaude Code（クロードコード）です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8t70",
+          "text": "「隣のデスクの同僚」がやってきた",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42jei",
+          "text": "Claude Codeは「エージェント型AI」と呼ばれるものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1dm70",
+          "text": "エージェントとは「代理人」という意味ですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6m1hr",
+          "text": "つまり、皆さんの代わりにパソコンの中で実際に手を動かしてくれるAIのことです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9tc83",
+          "text": "ファイルを直接作ったり、フォルダーを整理したり、データを分析したり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6g14v",
+          "text": "「やっておいて」と伝えるだけで、全部やってくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6t7m1",
+          "text": "たとえで考えると分かりやすいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4j0f8",
+          "text": "従来のチャット型AIは「ヘルプデスクへの電話」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7gsp4",
+          "text": "「まず〇〇を開いてください」「次に△△をクリックしてください」と手順を教えてくれますが、実際に操作するのは自分です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f32ac",
+          "text": "一方、Claude Codeは「隣のデスクで一緒に作業してくれる同僚」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3cg7e",
+          "text": "「この議事録まとめておいて」とお願いしたら、メモを読んで、内容を整理して、ファイルを作って、保存して、「できました」と報告してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ej83q",
+          "text": "自分は依頼と確認だけでOKなんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6m6op",
+          "text": "この違い、かなり大きいですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6na3l",
+          "text": "ClaudeとClaude Codeは「別物」です",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9mmhr",
+          "text": "ここで1つ大事な整理をさせてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enljo",
+          "text": "「Claude」と「Claude Code」は名前が似ていますが、まったく別物です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ba06l",
+          "text": "Claudeの正体はAIそのものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63mi0",
+          "text": "ブラウザやアプリのチャット画面で質問に答えてくれる、あのClaudeです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cve28",
+          "text": "Claude CodeはそのClaudeを「エージェントとして動かすツール」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e3c6t",
+          "text": "パソコンの中で実際にファイル操作やデータ処理をしてくれる仕組みのことです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96gn0",
+          "text": "つまり「Claude＝頭脳」「Claude Code＝手足」と考えると分かりやすいかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjb5h",
+          "text": "頭脳だけだとアドバイスしかできませんが、手足がつくと実際に作業ができるようになるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "78qdh",
+          "text": "具体的に仕事はどう変わるのか",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bv1nc",
+          "text": "もう少し具体的にイメージしてみましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dqbd",
+          "text": "議事録作成の場面を考えてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bs0ec",
+          "text": "今まではどうしていたか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "j7oj",
+          "text": "会議のメモを見ながら、手動で内容を整理して、Wordに打ち込んでいましたよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9aevb",
+          "text": "Claude Codeを使うと、文字起こしのファイルを渡して「議事録にして」と伝えるだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4i9h5",
+          "text": "AIが内容を整理して、見出しをつけて、読みやすく整えて、ファイルを作成して保存までしてくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1e2g8",
+          "text": "自分はファイルを開いて最終チェックするだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6h07",
+          "text": "データ分析レポートの場面も同じです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agmco",
+          "text": "今まではExcelでデータを集計して、グラフを作って、パワポに貼り付けて…という手順でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9g365",
+          "text": "Claude Codeなら「このデータを分析してレポートにして」と伝えるだけで、グラフ付きのレポートが一気に完成します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b243b",
+          "text": "メール返信、請求書の整理、プレゼン資料の作成、競合調査、経費精算。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jps0",
+          "text": "こういった「やらなきゃいけないけど、正直やりたくない」タイプの定型作業が、「伝えるだけ」で片付くようになるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nhvb",
+          "text": "AIと会話する時代から、AIに仕事を任せる時代へ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgbm1",
+          "text": "これがClaude Codeがもたらしている変化の本質です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d7k6l",
+          "text": "2026年、非エンジニアの活用が爆発している",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hpnl",
+          "text": "「Claude Codeってプログラマー向けのツールでしょ？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "csv4d",
+          "text": "そう思っている方がまだまだ多いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2r6av",
+          "text": "でも、2026年に入ってその常識は完全に崩れました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5inq",
+          "text": "Anthropic（クロードを開発している会社）が2026年4月にニューヨークで開催したハッカソンでは、優勝者5人のうち3人が非エンジニアでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tkam",
+          "text": "弁護士、心臓専門医、道路技師。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ck5ko",
+          "text": "プログラミングの専門家じゃない人たちが、Claude Codeを使って実用的なツールを作り上げたんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2v6f0",
+          "text": "弁護士はカリフォルニア州の建築許可コード準拠チェックツールを構築して1位を獲得。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8c91",
+          "text": "心臓専門医は診察記録から継続的な健康ガイダンスを自動生成するシステムを作りました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1hnmt",
+          "text": "日経クロストレンドでも「非エンジニアこそ生産性に差がつく」と特集が組まれました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18ca3",
+          "text": "あるCTOの会社では、Claude Code利用者の90%がエンジニア経験ゼロだったという話もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9rsm",
+          "text": "なぜ非エンジニアの活用がここまで広がっているのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2m27b",
+          "text": "理由はシンプルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "et2h3",
+          "text": "Claude Codeは自然言語、つまり普通の日本語で指示を出せるからです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "311ne",
+          "text": "「このExcelの売上データを月別にグラフにまとめて」と入力するだけで、数秒後には棒グラフ付きのレポートが完成する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8t0r",
+          "text": "ある研修では、50代の総務部長がこの体験をして「え、これ本当に私がやったの？」と驚いたそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4b24k",
+          "text": "もはやClaude Codeは「コーディングツール」ではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4524",
+          "text": "「PCの中であらゆる作業を実行してくれるエージェント」として、再定義されつつあるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "desi2",
+          "text": "この記事で手に入ること",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4cgk7",
+          "text": "ここまで読んで、「ちょっと気になるな」と思った方。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e40po",
+          "text": "この記事では、Claude Codeを使って実際に業務を自動化した45の具体的な事例と、ゼロから始めて使いこなすまでの全手順をお伝えします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "coev4",
+          "text": "「経費精算4.5時間→35分」「商談準備30分→2分」「税理士1人で60社管理」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2npg0",
+          "text": "こういった実例を見ながら、自分の仕事のどこに使えるかをイメージしていただけるはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ok0v",
+          "text": "プログラミングの知識は一切不要です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "625q6",
+          "text": "日本語で「これやっておいて」と伝えるだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cp41j",
+          "text": "それだけで、隣のデスクに優秀な同僚がやってきたような体験ができます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aorto",
+          "text": "では、実際にどんなことができるのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "avhl7",
+          "text": "まずは資料作成とデータ分析の事例から見ていきましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 17
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "akm82",
+          "text": "お仕事相談、AI講座の依頼はこちら👇",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://lin.ee/vAywH34",
+                "toIndex": 22
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7u22c",
+          "text": "https://lin.ee/vAywH34",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b72sb",
+          "text": "第2章：資料作成・データ分析を丸投げする｜事例15選",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2qsv",
+          "text": "資料作成が「指示するだけ」で終わる世界",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "913db",
+          "text": "「企画書作らなきゃ…」「月次レポートまとめなきゃ…」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6fqn3",
+          "text": "こういう定型作業に何時間も取られていませんか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtnkd",
+          "text": "Claude Codeを使うと、この手の作業がびっくりするほど簡単になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37tfh",
+          "text": "具体的にどうなるのか、実際の事例を見ていきましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9nar5",
+          "text": "事例1：企画書・報告書の自動生成",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dlro9",
+          "text": "背景、課題、目的をプロンプトに入力するだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4uajo",
+          "text": "それだけで、エグゼクティブサマリー、現状課題の整理、期待効果、実施スケジュールを含む構造化された企画書がMarkdown形式で自動生成されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5bo6o",
+          "text": "手動で一から作っていた時間が、ほぼゼロになるイメージです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3gje",
+          "text": "もちろん最終的な微調整は必要ですが、「ゼロから作る」と「8割完成したものを手直しする」では、かかる時間がまったく違いますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dubd",
+          "text": "事例2：月次報告書の自動化",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2bbd5",
+          "text": "売上データやKPIの進捗を数値で入力すると、経営層向けのレポートが自動で作成されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ctav9",
+          "text": "さらにすごいのが、翌月のレポートは「前月のデータを更新して」と指示するだけで、差分のみを反映した新しいレポートが生成されるということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bisn0",
+          "text": "毎月同じような作業を繰り返していた方にとっては、かなりの時間短縮になるはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cj7gi",
+          "text": "事例3：プレゼンスライドの自動生成",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29hof",
+          "text": "「スライド作り、好きですか？」と聞かれて「はい！」と答える人は少ないと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1n8aq",
+          "text": "Claude Codeでは、MarkdownベースのツールMarpと連携することで、音声入力のメモから統一テーマのスライドを10分以内に自動生成できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "sosh",
+          "text": "会議の文字起こしからスライドにすることもできるので、「会議の内容をそのままプレゼン資料にする」という流れも可能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a5eah",
+          "text": "さらにPowerPoint MCPを使えば、Excelのデータをもとにパワポスライドに自動で差し込むこともできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c87rk",
+          "text": "毎回同じ書式が自動適用されるので、「見た目を揃える」という地味に時間がかかる作業からも解放されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fd29o",
+          "text": "カンファレンスの登壇資料をClaude Codeで作成したという事例もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29jgq",
+          "text": "構成案から最終資料まで一貫して対応してくれるので、「登壇は好きだけど資料作りが苦痛」という方にもぴったりですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8gc6c",
+          "text": "事例4：Office文書の一括生成",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9jt8r",
+          "text": "海外のオープンソースプロジェクトでは、PowerPoint、Word、Excelを自然言語から一括生成できるスキルが公開されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjf3q",
+          "text": "「この内容でパワポを作って、詳細版のWord文書も作って、データはExcelにまとめて」みたいな指示で、3種類のファイルが一気にできあがるイメージです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jljp",
+          "text": "提案書と見積書と仕様書をセットで準備するような場面で、かなり効率化できますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9pb1",
+          "text": "事例5：ビジネス文書のスタイル統一",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2sior",
+          "text": "公認会計士がCLAUDE.mdにスタイルガイドを定義して、一貫性のあるビジネス文書を生成するフレームワークを構築した事例もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "21d29",
+          "text": "「うちの会社のトーンで書いて」という曖昧な指示ではなく、具体的なスタイルガイドをAIに渡しておくことで、誰が作っても同じ品質の文書が出てくるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80c33",
+          "text": "属人化の防止にもなるので、チームで使う場合にも有効ですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tlbi",
+          "text": "事例4：レポート作成ワークフローで月16時間削減",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e0f21",
+          "text": "ある方は、複数のAIで並列に調査してドラフトを作成し、それを資料化するという4段階のワークフローを構築しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5umnh",
+          "text": "結果、月32時間かかっていたレポート作成が約16時間に半減。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ut32",
+          "text": "投資回収期間はわずか約2.5ヶ月だったそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bg38v",
+          "text": "月に16時間の空き時間が生まれたら、何に使いたいですか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "14hua",
+          "text": "新しい企画を考える時間に充てるもよし、早く帰って家族との時間を増やすもよし。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63lmd",
+          "text": "「時間を作る」ということの価値は、お金では測れないものがありますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "desom",
+          "text": "事例5：PRD・チケットの自動作成",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b64j6",
+          "text": "プロダクトマネージャー向けの事例も紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f719d",
+          "text": "ラフなメモや会議の文字起こしから、PRD（製品要件定義書）やJiraチケットを自動で生成してくれるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c0obh",
+          "text": "PMの方なら分かると思いますが、「仕様書を書く」って本当に時間がかかりますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eg2j2",
+          "text": "会議で決まったことをまとめて、要件に落とし込んで、チケットに分割して…。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ig11",
+          "text": "この一連の作業がClaude Codeに会議メモを渡すだけで完了するのは、かなりの生産性向上です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dro5h",
+          "text": "ここからはデータ分析の事例です",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmrgp",
+          "text": "「データ分析」と聞くと、Excelのピボットテーブルとにらめっこしている風景が浮かぶかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6dl9u",
+          "text": "でもClaude Codeを使えば、日本語で指示するだけでデータの集計・分析・可視化まで全部やってくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5a26",
+          "text": "事例5：CSVデータの自動集計・グラフ化（集計時間93%削減）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1o70m",
+          "text": "CSVファイルに対して「月別の売上推移をグラフにして」と伝えるだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jovs",
+          "text": "裏側ではPandasというデータ処理ツールが自動で動いて、月別売上推移、カテゴリ別構成比、前年比分析まで実行し、グラフ化してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8tc9",
+          "text": "集計時間は93%削減されたというデータもあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "701n0",
+          "text": "Excelで関数を組んだり、グラフの設定を調整したりする時間が、ほぼなくなるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "49c19",
+          "text": "事例6：GA4・Search Console分析の自動化",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "557c",
+          "text": "Webサイトを運営している方なら、GA4やSearch Consoleのデータ分析は避けて通れませんよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37sv3",
+          "text": "Claude Codeでは、流入元別のコンバージョン率やページ別PV数の自動クロス集計ができます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "buce5",
+          "text": "「CTR3%未満かつポジション10位以内」のような条件付き分析で、改善すべきキーワードを自動で抽出してくれるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4jvv",
+          "text": "今まで分析ツールを行ったり来たりしながら手動でやっていた作業が、一発で終わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3dubf",
+          "text": "事例7：11タブの財務モデルを10分で構築",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3uch0",
+          "text": "これは海外の事例ですが、インパクトがあるので紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7o9gi",
+          "text": "Claude Codeで11タブの財務モデルが10分で完成したという報告があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ogdr",
+          "text": "類似企業分析、DCFモデル、デューデリジェンスデータパック、収益分析、カバレッジ開始レポート。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40js0",
+          "text": "投資銀行のアナリストが何日もかけて作るような資料が、10分です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7igas",
+          "text": "もちろん最終チェックは人間がやる必要がありますが、ベースを作る速度が桁違いなんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5sc8p",
+          "text": "事例8：家計管理の自動化",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "780am",
+          "text": "仕事だけじゃなくて、プライベートの活用もできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnub1",
+          "text": "マネーフォワードのCSVデータをアップロードするだけで、収支分析、カテゴリ別集計、資産推移のシミュレーションが動的に実行されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f916d",
+          "text": "家計簿アプリの機能では物足りないけど、Excelで本格的に管理するのは面倒。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4drlq",
+          "text": "そんな方にはちょうどいい使い方ですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7fahi",
+          "text": "事例9：競合インテリジェンスモニタリング",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9rqr",
+          "text": "競合サイトを定期的に巡回して、価格や製品情報を自動で抽出。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4hlce",
+          "text": "以前のスナップショットと比較して、「ここが変わりました」というサマリーを自動作成してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7t372",
+          "text": "マーケティング担当者がブラウザを何個も開いて、手動でチェックしていた作業が完全に自動化されるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "elmlo",
+          "text": "事例10：週次ビジネスメトリクスダッシュボード",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bm7hd",
+          "text": "毎週のビジネス指標（購読者数、成長率、売上推移など）を自動で収集して、前週比の視覚的なダッシュボードとアクション可能なインサイトを生成してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5va2",
+          "text": "経営者や事業責任者にとっては「毎週の数字確認」を完全に自動化できるのは嬉しいですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cuaoe",
+          "text": "この章のまとめ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgmh2",
+          "text": "資料作成もデータ分析も、Claude Codeを使えば「指示するだけ」で完了します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eljaq",
+          "text": "ポイントは「ゼロから作る必要がなくなる」ということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "adaal",
+          "text": "8割の完成品がまず出てくるので、自分は残りの2割を調整するだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "q13n",
+          "text": "これだけで、日々の業務時間が劇的に変わってきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ult8",
+          "text": "ここで大事なことを1つお伝えしておきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fb9of",
+          "text": "「AIに任せたら品質が下がるんじゃないか？」と心配する方もいるかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "38np4",
+          "text": "でも実際は逆なんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1e33m",
+          "text": "人間がゼロから作ると、疲れている時や急いでいる時はどうしても品質にムラが出ます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2ks5",
+          "text": "Claude Codeは毎回同じ基準で作業してくれるので、品質の安定性はむしろ上がるケースが多いんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lgmk",
+          "text": "もちろん最終チェックは人間がやる必要がありますが、「下書きの品質が高ければチェックも楽」というのは当たり前ですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cocv6",
+          "text": "もう1つ大事なのは、こうした自動化は「積み重なる」ということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6riod",
+          "text": "1つの作業で30分短縮されたとしても、それが毎日、毎週、毎月繰り返されると、年間で何百時間もの差になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "887tp",
+          "text": "まさに「塵も積もれば山となる」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f05uu",
+          "text": "次の章では、さらに具体的な職種別の事例を見ていきましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv5p7",
+          "text": "第3章：営業・マーケ・経理の定型業務を消す｜事例20選",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c788b",
+          "text": "あなたの職種にも使える事例がある",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7b5ue",
+          "text": "前の章では資料作成とデータ分析の事例を見ました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kvik",
+          "text": "「すごいのは分かったけど、自分の仕事にはどう使えるの？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2sd7",
+          "text": "そう思った方もいるかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cocb",
+          "text": "ここからは職種別に事例を紹介していきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "osbd",
+          "text": "営業、マーケティング、経理、法務、人事。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vn51",
+          "text": "「あ、これ自分の仕事じゃん」と思える事例がきっと見つかるはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "81s91",
+          "text": "営業の仕事を変えた事例",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8e7l8",
+          "text": "事例11：商談準備30分→2分に短縮",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "74o3p",
+          "text": "営業の方なら分かると思いますが、商談前の準備って地味に時間がかかりますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g210",
+          "text": "顧客情報を調べて、過去のやり取りを確認して、提案の方向性を考えて…。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ntnf",
+          "text": "Claude Codeでは、顧客情報と商談テーマを指定するだけで、事前準備資料が自動生成されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8g1h",
+          "text": "30分かかっていた準備が、わずか2分。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36brf",
+          "text": "1日に3件の商談があるとしたら、毎日約90分の短縮です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "at5po",
+          "text": "その時間を商談自体のクオリティ向上に回せたら、成果も変わってきますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2v8to",
+          "text": "事例12：提案資料の下書き自動作成",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cq7q7",
+          "text": "テンプレートと顧客情報を指定すれば、カスタマイズされた提案資料の下書きが生成されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "43elc",
+          "text": "営業担当者は修正と加筆だけで対応可能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "576el",
+          "text": "「毎回似たような提案書を一から作っている」という非効率から完全に解放されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv2b3",
+          "text": "特に新人の営業担当者にとっては、先輩レベルの提案資料がすぐに手に入るので、立ち上がりのスピードが段違いに速くなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7fong",
+          "text": "事例13：商談メモの自動整理（週5時間削減）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddn6p",
+          "text": "商談の録音データを文字起こしして、議事録フォーマットに整理し、ネクストアクションまで自動で抽出してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "trf5",
+          "text": "営業担当者の事務作業時間が週5時間削減されたという報告があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dp35g",
+          "text": "週5時間って、月に換算すると約20時間ですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1oe80",
+          "text": "丸々2.5日分の時間が生まれるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "buqku",
+          "text": "事例14：リード管理ダッシュボードの構築",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bikkl",
+          "text": "HubSpotのCRMデータをMCP（外部サービス連携機能、詳しくは後の章で解説します）経由で取得して、リードのステータス、スコア、ソース別の分布を自動で集計・可視化してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1r4f3",
+          "text": "営業マネージャーが毎週Excelで手動集計していたデータが、常に最新の状態で見られるようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98gr9",
+          "text": "事例15：パーソナルCRMの自動構築",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2m0qt",
+          "text": "会議の文字起こしから、連絡先、重要な議論、アクションアイテム、フォローアップの予定を自動で抽出して、パーソナルCRMを構築するという事例もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12b6p",
+          "text": "「あの人との前回の打ち合わせで何を話したっけ？」という曖昧な記憶に頼らず、すべてのやり取りのコンテキストが蓄積されていくんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ag0ui",
+          "text": "営業マンにとって「過去の会話の文脈を正確に把握している」というのは、信頼関係の構築においてものすごく大きいアドバンテージですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhgaa",
+          "text": "マーケティングの仕事を変えた事例",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2j2me",
+          "text": "事例15：広告分析レポートの完全自動化",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89p20",
+          "text": "広告運用をしている方なら共感すると思いますが、レポート作成って毎週同じ作業の繰り返しですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bufiv",
+          "text": "CSVの広告データから地域名を抽出して、地域別・月別に集計して、CTR・CPC・CVR・CPAを計算して、前月比と前年比を出して、改善エリアを特定する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8sdqb",
+          "text": "この5ステップの手動作業が、Claude Codeで完全に自動化されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cet5v",
+          "text": "「レポート作ってないで、もっと戦略考えたいのに」という悩みが解消されるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3scbo",
+          "text": "事例16：競合分析を自動化",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95tm8",
+          "text": "「この5社の料金ページの情報を取得して比較表を作って」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36rld",
+          "text": "こう伝えるだけで、Webサイトからデータを自動抽出して比較表を作ってくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "41g4h",
+          "text": "1社あたり30分〜1時間かかっていた手動作業が大幅に短縮されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4vn5a",
+          "text": "5社分なら2.5〜5時間の節約です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjl9l",
+          "text": "事例17：ひとりマーケチームの構築",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71oe2",
+          "text": "これは国内のマーケターの事例ですが、1人でClaude Codeを使って分析・クリエイティブ・レポーティングを並列に実行し、複数人分の業務をこなしているそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9n1to",
+          "text": "「人が足りない」という課題を、AIで解決しているわけですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "emr1",
+          "text": "中小企業やスタートアップのマーケ担当者にとっては、かなり参考になる事例だと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ccd9l",
+          "text": "事例18：コンテンツ制作パイプラインの構築",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eji4d",
+          "text": "キーワードリサーチから記事の構成案作成、ドラフト生成、SEOメタデータの最適化、CMS用HTML生成まで、一連のプロセスが自動化されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abl9e",
+          "text": "属人化の解消と品質の標準化が同時に実現するのがポイントです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dcbgk",
+          "text": "「この人がいないとコンテンツが作れない」という状態から脱却できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jdtq",
+          "text": "事例19：仮説導出の高速化（1ヶ月→半日）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2n152",
+          "text": "ある企業では、マーケティングの仮説導出に従来1ヶ月かかっていたところ、Claudeの活用で半日に短縮されたそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8id2",
+          "text": "1ヶ月が半日ですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1q2lh",
+          "text": "この速度差は、競合に対する圧倒的なアドバンテージになりますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ucjf",
+          "text": "事例20：広告クリエイティブの大量生成",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24u5v",
+          "text": "Anthropic社内のマーケティングチームの事例です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kdng",
+          "text": "Figmaプラグインを構築して、フレームの自動認識で最大100パターンの広告クリエイティブバリエーションを生成。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3r5h9",
+          "text": "1つの広告あたり30分かかっていた作業が30秒に短縮され、出力量は10倍になったそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5keao",
+          "text": "広告運用では「クリエイティブの量が勝負」という場面が多いので、この効率化は売上に直結するレベルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "99c2n",
+          "text": "事例21：SEO記事作成の効率化（4-5時間→1.5-2時間）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5vbo0",
+          "text": "3,000文字のSEO記事を作成する時間が、4-5時間から1.5-2時間に短縮されたという事例もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "87nq9",
+          "text": "Claude Codeが構成と下書きを生成して、人間が編集とファクトチェックを行うスタイルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbti6",
+          "text": "AIに丸投げではなく、AIと人間の役割分担がうまくいっている好例だと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "14gr1",
+          "text": "経理・法務・人事の仕事を変えた事例",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cfd0o",
+          "text": "事例21：請求書PDFの一覧化（4.5時間→35分、87%削減）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b47sj",
+          "text": "経理の方に特に注目してほしい事例です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8n1ke",
+          "text": "フォルダ内のPDFから請求日、金額、支払期限を自動で抽出してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3fjfl",
+          "text": "4.5時間かかっていた作業が35分に短縮。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4mi82",
+          "text": "87%の時間削減です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5nq6",
+          "text": "月末の経理業務が劇的に楽になりますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ev5b",
+          "text": "事例22：経費精算の自動化（30分→5分）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d96kk",
+          "text": "マネーフォワードのデータ解析、Gmailの領収書検索、勘定科目の自動マッピング、freee入力シートの生成。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c099k",
+          "text": "これらが全部自動化されて、月間30分以上かかっていた経費精算が5〜10分で完了します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ldd7",
+          "text": "経費精算が嫌いな人は多いと思いますが、5分で終わるならストレスも激減するはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "947qp",
+          "text": "事例23：請求書データの突合チェック",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e35vb",
+          "text": "請求書PDFと発注データを入力すると、金額、数量、品目の一致を確認して、差異の一覧を自動で作成してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "caf8d",
+          "text": "目視チェックでは見落としがちな差異も自動検出されるので、ミスの防止にもなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fh6n3",
+          "text": "経理担当者が「合ってるかな…」と不安になりながらチェックしていた作業を、AIが正確にやってくれるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1msrc",
+          "text": "事例24：月次経理レポートの自動生成",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "conf8",
+          "text": "freeeやマネーフォワードのデータをCSVで読み込んで、集計から比較表の生成まで自動処理。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7rl9b",
+          "text": "Excelの手動集計を完全に排除できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "352ie",
+          "text": "毎月同じ作業を繰り返している経理担当者にとって、これほど嬉しい自動化はないんじゃないでしょうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1bbe",
+          "text": "事例25：請求書の自動仕分け・リネーム",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ve76",
+          "text": "海外の事例ですが、247件のPDF請求書を4分以内で自動整理したという報告があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ds5bs",
+          "text": "内容を読み取って、ベンダー名、日付、金額を抽出。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1e04r",
+          "text": "「2026-03-15 ベンダー名」のような統一フォーマットにリネームして、税務カテゴリごとに分類するところまで自動です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2pvep",
+          "text": "月末に請求書の山と格闘している経理担当者にとって、4分で全部片付くなんて夢みたいな話ですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9dh2",
+          "text": "事例26：契約書レビューの自動化（数日→数時間）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "btjit",
+          "text": "法務関連の事例も紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ba7f",
+          "text": "スラッシュコマンドで契約書を条項ごとに分析し、3段階でリスクをフラグ付けしてくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fc0c",
+          "text": "赤線修正と変更理由まで自動生成されるので、数日かかっていたレビューが数時間で完了します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cd8m8",
+          "text": "弁護士やリーガル担当者の負担が劇的に減る事例です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "faj5g",
+          "text": "事例26：72時間で50,000件の契約レビュー",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8nqa",
+          "text": "海外の事例ですが、これはインパクトがすごいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fj4kh",
+          "text": "72時間で50,000件を超える契約を、手動レビューより高い精度で分析したという報告があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aamd8",
+          "text": "変更点の追跡とカテゴリ分類も自動化。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "76pui",
+          "text": "大企業のM&Aや法務部門にとっては、革命的な話ですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "126j4",
+          "text": "事例27：応募書類のスクリーニング自動化",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cr30b",
+          "text": "人事の事例です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2iji6",
+          "text": "応募書類の一次スクリーニングを自動化して、基準に合致する候補者を優先度付きで抽出してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6thmh",
+          "text": "100通の応募書類を1通ずつ読んでいた作業が、数分で優先順位付きのリストになるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhac6",
+          "text": "事例28：面接質問の自動設計",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f67ql",
+          "text": "ポジションごとに最適な面接質問を自動設計してくれる事例もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dc9v7",
+          "text": "データドリブンな意思決定力や組織マネジメント力を評価する質問を、5段階の評価基準付きで生成。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dr0e",
+          "text": "「どんな質問を聞けばいいんだろう…」と悩む時間がなくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95gq2",
+          "text": "事例29：メール返信の自動生成（80%時間削減）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkgfo",
+          "text": "カスタマーサポートの返信下書きを自動作成する事例です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "882m4",
+          "text": "1通15分かかっていた返信が3分に短縮。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2kr9",
+          "text": "80%の時間削減です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63ol2",
+          "text": "サポートチームの生産性が一気に上がりますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a568n",
+          "text": "事例30：ブログ運営の半自動化",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "m4te",
+          "text": "分析から記事作成、公開まで半自動化した事例もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1lvpb",
+          "text": "SEO情報（タイトル、メタディスクリプション、キーワード）と記事本文をWordPressのブロック形式で直接投稿できる状態まで自動で作ってくれるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98gqh",
+          "text": "ブロガーやメディア運営者にとっては、かなり魅力的な使い方ですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9b05r",
+          "text": "この章のまとめ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1s2gr",
+          "text": "営業、マーケ、経理、法務、人事。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bce9i",
+          "text": "どの職種でも「定型的な作業」はClaude Codeで大幅に自動化できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ogld",
+          "text": "共通しているのは、「人間がやるべきこと」と「AIに任せるべきこと」の切り分けが明確だということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9pelt",
+          "text": "AIに下書きや集計を任せて、人間は判断や修正に集中する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3hlpn",
+          "text": "この役割分担ができている事例ほど、大きな成果が出ています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "75mg3",
+          "text": "ここまでの事例を振り返ると、時間削減の数字がかなりインパクトのあるものばかりでしたよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48pcn",
+          "text": "商談準備30分→2分。経費精算30分→5分。請求書処理4.5時間→35分。契約書レビュー数日→数時間。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4og9l",
+          "text": "これらは誰かの理想論ではなく、実際に報告されている実績です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c64o9",
+          "text": "そしてここがポイントなんですが、こうした自動化をしている人たちは特別な技術力を持っていたわけではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69qr8",
+          "text": "「このめんどくさい作業、AIにやらせられないかな？」と考えて、やってみた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29lo3",
+          "text": "それだけなんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "749k9",
+          "text": "つまり、あなたにもできるということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e24k2",
+          "text": "次の章では、さらにスケールの大きな「仮想チーム」の事例を見ていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4tkhb",
+          "text": "第4章：「仮想チーム」で1人が10人分働く｜衝撃の自動化事例",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "322f8",
+          "text": "個別の業務自動化を超えた「組織ごとAIに任せる」発想",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b88v4",
+          "text": "ここまでの事例は、1つの業務をClaude Codeで自動化するパターンでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eb0dn",
+          "text": "でも2026年に入って、もっとスケールの大きい使い方が出てきています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efs3r",
+          "text": "それが「仮想チーム」という発想です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6au7u",
+          "text": "1人の人間がClaude Codeで複数のエージェントを動かして、チームや組織のような働き方をする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rgnm",
+          "text": "「え、そんなことできるの？」と思いますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dqh9",
+          "text": "できるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bfucs",
+          "text": "実際にやっている人たちの事例を見ていきましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7clpc",
+          "text": "事例31：税理士がスタッフゼロで60社を管理",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c36v2",
+          "text": "これは国内で大きな話題になった事例です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cahbn",
+          "text": "ある税理士がClaude Codeを使って、スタッフゼロで60社の顧問業務を回しているんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cr4f",
+          "text": "毎晩21時に60社分の仕訳を自動処理。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6tv17",
+          "text": "freee、Gmail、NotionをMCPで接続して「転記ゼロ」の環境を構築しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8t636",
+          "text": "通常なら6人のスタッフ（年間約3,000万円の人件費）が必要なところを、1人で実現しているわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arvga",
+          "text": "年間3,000万円の人件費が浮くと考えると、Claude Codeの月額20ドル（約3,000円）なんて誤差みたいなものですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3pv3",
+          "text": "この事例のすごいところは「単純に作業を自動化した」だけではなくて、「仕組み全体を設計した」という点です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vhsn",
+          "text": "毎晩21時に自動実行されるということは、翌朝出勤した時にはすべての仕訳が完了しているわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ejoq7",
+          "text": "税理士は朝いちばんで結果を確認して、異常値があれば修正するだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "330gh",
+          "text": "「作業する人」から「確認する人」に役割が変わったと言えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "srrm",
+          "text": "この発想の転換こそが、AIを活用する上で最も重要なポイントなんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6k1o1",
+          "text": "事例32：10部門40人の仮想社員チームを構築",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5fkh",
+          "text": "1人の経営者が、Claude Codeで10部門40人分の仮想社員チームを構築した事例です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1c685",
+          "text": "経営企画、事業開発、マーケティング、営業、M&A評価部まで完備されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "biae8",
+          "text": "指示を出すと最適な担当が自動で動き、部門をまたぐ案件はサブ担当も自動でアサインされる仕組みです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5kk39",
+          "text": "1人社長でも、組織として意思決定ができる環境を作り上げているんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7norc",
+          "text": "これ、従来なら最低でも数千万円の人件費がかかる規模の組織ですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7142l",
+          "text": "それが月額数千円のAIツールで実現できる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2muj",
+          "text": "この事実に気づいている経営者と気づいていない経営者で、競争力に大きな差がつく時代になっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "853fh",
+          "text": "事例33：毎朝7時に11個の自動化ジョブが起動",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "akhh8",
+          "text": "アソビュー株式会社のCPO（最高プロダクト責任者）の事例です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a33co",
+          "text": "毎朝7時になると11個のAI自動化ジョブが勝手に動き出して、朝起きてSlackを開く頃には今日必要な情報が全部揃っているそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "alicv",
+          "text": "「デモ映えする一発芸」ではなく、毎日使い続けている実務的な仕組みだというのがポイントです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "is9r",
+          "text": "ご本人も「派手さはないが業務に定着する仕組みこそが重要」と述べています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4aq6",
+          "text": "多くのAI活用事例は「すごいアプリを30分で作りました」「Webサイトを一瞬で生成しました」みたいな話が多いですが、実はそういう一発芸は日常業務には定着しにくいんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "atib6",
+          "text": "本当に価値があるのは「地味だけど毎日使う自動化」なんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fnldk",
+          "text": "PoCで盛り上がって、その後使わなくなる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d4o3l",
+          "text": "そうならないためには「自分自身が毎日使い続ける切実な理由」が必要です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fi5mk",
+          "text": "この事例はそこを見事にクリアしています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g0dr",
+          "text": "事例34：38プロジェクトの横断管理",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ao2de",
+          "text": "GitHub、GitLab、Backlog、Slack、Google Docs、Todoistを統合して、38のプロジェクトを管理している事例もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a5pl5",
+          "text": "スラッシュコマンドで全プロジェクトの状況を一括更新し、横断的なTODOリストを自動生成。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8sgcc",
+          "text": "日報からの未完了タスク抽出、議事録からの決定事項収集、カンバンの期限切れタスク検知も毎朝自動で実行されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "k6pt",
+          "text": "複数のツールを行ったり来たりする「ツール疲れ」から解放されるのは、かなり大きいですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eflgl",
+          "text": "複数のプロジェクトを掛け持ちしているマネージャーやフリーランスの方にとって、この自動化は精神的な負担の軽減にもなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qhsc",
+          "text": "事例35：カスタマーサポート月10,000件を自動処理",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2m1k",
+          "text": "海外のObvi社では、Claude Codeのワークフローで月に10,000件を超えるサポートチケットを自動処理しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cariv",
+          "text": "レスポンスタイムは65%高速化。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "datp",
+          "text": "お客様を待たせる時間が大幅に減るので、顧客満足度も上がるという好循環です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9uv42",
+          "text": "事例36：SEOコマンドセンター（月1万ドルの代理店を代替）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7nadt",
+          "text": "19のサブスキルと12のサブエージェントを持つSEOスキルを構築した事例があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhrgq",
+          "text": "テクニカルSEO、E-E-A-T分析、スキーママークアップ、被リンク分析、ローカルSEO対応まで網羅。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50kh7",
+          "text": "月1万ドル（約150万円）のSEO代理店を代替できるレベルだという評価です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "27mhp",
+          "text": "フリーランスや中小企業にとって、外注費を大幅に削減できる可能性がありますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29sqg",
+          "text": "事例37：コンテンツ制作6倍（月50本→300本）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "atarl",
+          "text": "アソビュー社ではClaude Codeを全社導入した結果、コンテンツ制作量が月50本から300本に増加。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1es8",
+          "text": "6倍です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a41qd",
+          "text": "しかもビジネス職のAI開発量がエンジニアを上回ったという驚きのデータも報告されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ijbs",
+          "text": "非エンジニアが「使う側」から「作る側」に回った時、エンジニア以上のアウトプットが出せる可能性がある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cg0ig",
+          "text": "この事例がそれを証明しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8amr0",
+          "text": "事例38：毎朝のAI秘書",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ce200",
+          "text": "Googleカレンダーの予定確認、未読のSlackメンション、重要メール、商談ステータス、進行中プロジェクトのサマリー。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fc0s1",
+          "text": "これを毎朝自動でまとめてくれるAI秘書のテンプレートが、設定3分で作れるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7nord",
+          "text": "経営者やマネージャーにとって「今日やるべきことの全体像」が朝一で把握できるのは、精神的にもかなり楽になるはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fr4ia",
+          "text": "事例39：Googleワークスペース横断自動化（30秒で完了）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "npac",
+          "text": "「Johnからの予算メールを探して、添付ファイルをDriveに保存して、火曜14時にミーティングを設定して、Docsでアウトラインを作って」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2088b",
+          "text": "こんな指示を出すと、Gmail、Drive、Calendar、Docsを横断して30秒以内に全部完了します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1gokb",
+          "text": "複数のGoogleサービスを行き来していた作業が、一声で終わるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3d79h",
+          "text": "事例40：「PCの中にAIカンパニーを作る」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12pb",
+          "text": "Claude Codeで社員ゼロ経営を実現するというコンセプトで、複数の専門エージェントを並列に稼働させている方もいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95hqo",
+          "text": "業務マニュアルをCLAUDE.mdに記載して、自社の文脈をAIに学習させることで、自分の会社のやり方に最適化されたAIチームが構築されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6vnv0",
+          "text": "フリーランスや1人起業家にとって、「自分1人なのに組織力がある」という状態を作れるのは、かなりの競争力になりますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efeno",
+          "text": "事例41：メール→カレンダー照合→返信案作成の一気通貫",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ef53a",
+          "text": "メールを確認して、カレンダーと照合して、返信案を作成するという一連の流れを完全に自動化した事例もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fv40l",
+          "text": "「来週の火曜日14時はいかがですか？」というメールが来たら、自動でカレンダーの空き状況をチェックして、適切な返信を下書きしてくれるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9q6da",
+          "text": "メール返信って1通1通は大した時間じゃないですが、1日に何十通も処理していると、合計でかなりの時間を取られますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7mnhv",
+          "text": "この「ちりつも」の自動化が、意外と大きな効果を生みます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84gsc",
+          "text": "事例42：ファイル管理の自動整理（847ファイル→12カテゴリ、3分）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bobcc",
+          "text": "ちょっと変わった事例も紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ekf2l",
+          "text": "Downloadsフォルダーにたまった847個のファイルを、ファイルタイプ、日付、内容を分析して、12カテゴリに3分で自動整理したという報告があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "34jio",
+          "text": "デスクトップやダウンロードフォルダーがカオス状態になっている方、けっこう多いんじゃないですか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qvne",
+          "text": "Claude Codeに「このフォルダーを整理して」と言うだけで、あっという間にきれいになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70qjf",
+          "text": "事例43：1,400枚のスクリーンショットを自動分類",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "813qj",
+          "text": "スクリーンショットが1,400枚たまっている方もいるかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bso3c",
+          "text": "Claude Codeは画像の内容を分析して、カテゴリごとに分けて、論理的なフォルダー構造にリネーム・整理してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6qr74",
+          "text": "「あのスクショどこだっけ…」と探す時間がゼロになりますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ch3r",
+          "text": "この章のまとめ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "adg8f",
+          "text": "個別の業務自動化から「仮想チーム」へ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djkl6",
+          "text": "Claude Codeの使い方は確実に進化しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dtmb",
+          "text": "税理士が1人で60社、経営者が仮想40人チームを構築、CPOが11個の自動化を毎日稼働。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "513n3",
+          "text": "こういった事例を見ると「AIに仕事を任せる」が単なるスローガンではなく、すでに実践されている現実だと分かるはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "704fs",
+          "text": "ここで気づいてほしいのは、これらの事例に共通するパターンです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84rke",
+          "text": "最初は小さな自動化（1つの作業を任せる）から始まって、Skillsで定型化し、MCPで外部サービスと繋げて、サブエージェントで複雑な作業を分担させる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7r609",
+          "text": "このステップを踏んでいくことで、最終的に「仮想チーム」レベルの自動化が実現しているんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qs1l",
+          "text": "いきなり仮想40人チームを作ろうとする必要はありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "htg6",
+          "text": "まずは1つ、次に3つ、次に10と段階的に増やしていくのが現実的なアプローチです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6kuq3",
+          "text": "では、ここからは実際にClaude Codeを始めるための具体的な手順に入っていきましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1bhr",
+          "text": "第5章：始め方と初期設定｜30分で「AI同僚」を迎え入れる全手順",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dule7",
+          "text": "まずは料金プランを知っておこう",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "21qlv",
+          "text": "Claude Codeを使うには、Claudeの有料プランへの加入が必要です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "87esl",
+          "text": "無料プランでは使えないので、そこだけ注意してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9h9nb",
+          "text": "2026年4月時点のプラン構成はこうなっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aufj4",
+          "text": "Proプラン：月額20ドル（約3,000円）。Claude Codeを使い始めるならここからです。デフォルトのAIモデルはSonnet 4.6で、Opus 4.6も利用可能です。ただしOpusは使用量の消費が大きいので、頻繁に使いたい場合はMaxプランを検討してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1gm7k",
+          "text": "Max 5xプラン：月額100ドル（約15,000円）。Proの5倍の使用量が使えます。毎日がっつり使う方向けです。Opus 4.6がデフォルトモデルになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jti7",
+          "text": "Max 20xプラン：月額200ドル（約30,000円）。Proの20倍の使用量です。1日中AIと一緒に仕事をするようなヘビーユーザー向けです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0md5",
+          "text": "2026年4月1日から、日本では消費税10%が別途加算されるようになったので、その点も頭に入れておいてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9nrbb",
+          "text": "おすすめは「まずProで始めて、制限に頻繁にかかるようになったらMaxに上げる」というステップです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f1pls",
+          "text": "いきなりMaxにする必要はありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qfj0",
+          "text": "自分の使い方に合ったプランを見つけていけば大丈夫です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "39hg",
+          "text": "ちなみにProプランの年払い（年額200ドル）を選べば月換算で約2,500円とさらにお得です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66u40",
+          "text": "まずはお試しで月払いから始めて、「これは使い続けるな」と確信できたら年払いに切り替えるのが賢い選択ですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kmjh",
+          "text": "もう1つ知っておいてほしいのが、2026年に追加された「追加使用量（Extra Usage）」という仕組みです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fsaic",
+          "text": "Proプランの利用枠を使い切った後でも、API従量課金で作業を続けられるようになりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8i3qs",
+          "text": "月間の上限も自分で設定できるので、「普段はProで十分だけど、たまに忙しい時だけ超過する」という使い方にぴったりです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pehq",
+          "text": "常にMaxに課金するよりも、Pro＋必要な時だけ追加使用量のほうがコスパが良いケースも多いですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3rj5l",
+          "text": "4つの使い方、どれから始める？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68ebg",
+          "text": "Claude Codeには4つの使い方があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1lae1",
+          "text": "1つ目はCLI版。ターミナル（黒い画面）にコマンドを打ち込んで使う方法です。いちばん多くの機能が使えますが、この画面に慣れていない方にはハードルが高いかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fa8gf",
+          "text": "2つ目はVSCode版。Microsoftが作った無料のソフト「Visual Studio Code」の中でClaude Codeを使う方法です。今回はこの方法を中心に解説します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ailu2",
+          "text": "3つ目はデスクトップアプリ版。パソコンにアプリをインストールするだけで使えます。コマンド入力が不要なので始めやすいです。2026年に入ってからCowork機能が追加され、非エンジニアでもファイル操作やデータ分析がかなり簡単にできるようになりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar5dp",
+          "text": "4つ目はブラウザ版。Claudeのサイトからコードメニューを選んで使う方法です。GitHub連携が前提になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4608k",
+          "text": "「どれがいいの？」と迷ったら、VSCode版をおすすめします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5dm58",
+          "text": "理由はシンプルで、AIが作ったファイルをその場で確認・編集できること、フォルダー構成が常に見えること、会話の履歴がパソコンに保存されることです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f33vn",
+          "text": "チャット型AIだと会話が流れてしまって「あれ、さっき何て言ってたっけ？」となりがちですが、VSCode版ならその心配がありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5650e",
+          "text": "もし「ターミナルとかVSCodeとか難しそう…」と感じる方は、デスクトップアプリ版のCowork機能から始めるのもありです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7gdsk",
+          "text": "ターミナルもコマンドも一切不要で、フォルダーへのアクセス権限を与えるだけで、Claudeが自律的にファイルを読んで、作って、編集してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cvog4",
+          "text": "Coworkは2026年1月にMaxプラン向けに公開され、2月にProプランにも開放、3月に本格展開されました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddhub",
+          "text": "「Claude Codeの非エンジニア版」という位置づけで、Excel分析からPowerPointプレゼン作成まで1つの指示でシームレスにこなすクロスアプリワークフローも利用可能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2e7vd",
+          "text": "VSCodeを使いこなす自信がない方は、まずCoworkで「AIに仕事を任せる体験」をしてみて、慣れてきたらVSCode版に移行するというステップもおすすめです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b0ji3",
+          "text": "VSCodeのインストール手順",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "es3mr",
+          "text": "ここからは具体的な手順です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17sce",
+          "text": "まずVSCodeを開いてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28fmc",
+          "text": "まだインストールしていない方は、Googleで「Visual Studio Code」と検索して、公式サイトからダウンロードしてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fdbdv",
+          "text": "無料です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjscm",
+          "text": "VSCodeを開いたら、画面左端を見てください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5sqt2",
+          "text": "縦に並んでいるアイコンの中から、四角が4つ組み合わさったようなアイコンをクリックします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ds0v",
+          "text": "これが拡張機能のメニューです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1kod",
+          "text": "拡張機能とは、VSCodeに後から機能を追加できる仕組みのことで、スマホにアプリをインストールするような感覚です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ge0a",
+          "text": "検索欄に「Claude Code」と入力してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fc9bn",
+          "text": "Anthropic社が出している公式の拡張機能が表示されるので、インストールボタンをクリックします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bsdal",
+          "text": "インストールが完了したらClaudeのアイコンをクリックして、Claudeのアカウントでログインしましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50bfk",
+          "text": "これで準備完了です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7r6q5",
+          "text": "画面右側にClaude Codeのパネルが表示されて、ここからAIとやり取りを始められます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fcb0k",
+          "text": "フォルダーを開いて作業場所を作る",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3vgo4",
+          "text": "次に、作業したいフォルダーをVSCodeで開きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajn8q",
+          "text": "画面左上のファイルメニューから「フォルダーを開く」を選んでください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9m5fd",
+          "text": "例えば週次レポートを自動化したいなら、レポート関連のファイルが入ったフォルダーを開きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77gfc",
+          "text": "まだフォルダーがなければ、新しく作って大丈夫です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fvrar",
+          "text": "このフォルダーがClaude Codeとの作業場所になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqb61",
+          "text": "CLAUDE.mdを作ろう（AIへの自己紹介カード）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9irs4",
+          "text": "Claude Codeはとても優秀ですが、会話を終えると記憶がリセットされます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5sba",
+          "text": "つまり毎回が初対面なんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4mljh",
+          "text": "毎回「私はこういう仕事をしていて、こういう書き方が好きで…」と説明するのは大変ですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "af71a",
+          "text": "そこで使うのがCLAUDE.mdです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5k8m0",
+          "text": "これはAIへの自己紹介カードのようなものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9l5of",
+          "text": "あなたのことや、このフォルダーで作業する際に守ってほしいルールを書いておくと、会話を始めるたびにAIが読んでくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8cj8j",
+          "text": "書くべき内容は3つです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4blff",
+          "text": "1つ目は役割。「私はマーケティング担当でSNS運用をしています」のように、自分が何をしている人なのかを書きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ic34",
+          "text": "2つ目は目標。「週次レポートを効率的に作成したい」のように、何を達成したいかを書きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8nk4c",
+          "text": "3つ目は制約。「日本語で回答してください」「箇条書きの後に改行してください」のようなルールです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c71ml",
+          "text": "ここで大事なポイントがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "11u9l",
+          "text": "CLAUDE.mdは最初は10行以内で十分です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7f0p5",
+          "text": "細かいルールを100個並べるよりも、「あなたは丁寧で親しみやすい同僚です」と伝えるほうが良い結果が出ることがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "767s1",
+          "text": "細かく指示しすぎると、AIが自分で考える余地がなくなってしまうからです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "balgm",
+          "text": "使いながら少しずつ追加していけば大丈夫ですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnc9t",
+          "text": "ちなみにこのCLAUDE.mdも、Claude Codeに「CLAUDE.mdを作って」と頼めば自動で作ってくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48t9o",
+          "text": "/initというコマンドを実行するだけで、フォルダーの中身を確認して適切なCLAUDE.mdを生成してくれるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3fonj",
+          "text": "CLAUDE.mdには2つの置き場所があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "crhd5",
+          "text": "プロジェクトのCLAUDE.mdは、特定のフォルダーに置いて、そのフォルダーを開いた時だけ読み込まれるものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5esk",
+          "text": "グローバルのCLAUDE.mdは、ホームフォルダーの.claudeという隠しフォルダーに置いて、どのフォルダーを開いても必ず読み込まれるものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2givo",
+          "text": "「日本語で回答して」のような全フォルダー共通の設定は、Claude Codeに「全てのプロジェクトで日本語で回答して」と伝えれば、適切な場所にCLAUDE.mdを作ってくれるので安心してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "307k7",
+          "text": "許可モードを設定する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3me3o",
+          "text": "最後に、AIにどこまで仕事を任せるかを決めましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4uq76",
+          "text": "3つのモードがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1gu76",
+          "text": "確認モード（Ask Before Edit）：AIがファイルを編集する前に毎回確認してくれます。最も安全なモードです。「こういう変更をしますがよろしいですか？」と聞いてくれるので、内容を確認してからOKを出せます。初めて使う方はこのモードで始めることを強くおすすめします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8aa40",
+          "text": "自動編集モード（Edit Automatically）：AIが自動でファイルを編集してくれます。いちいち確認を求められないので、作業がサクサク進みます。AIの判断を信頼できるようになってから使うのがいいですね。ただし、大事なファイルを扱う時は確認モードに戻しておくのが安全です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aasu4",
+          "text": "計画モード（Plan Mode）：AIがまず「こういう手順でやりますね」と全体の計画を立てて、あなたがOKと言ってから実行します。「全体像を把握してから進めたい」という方に向いています。複数のファイルをまたぐ大きな作業を任せる時に特に便利です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "44r00",
+          "text": "最初は確認モードで始めてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dr8t6",
+          "text": "AIが何をしようとしているのか毎回確認できるので安心です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "204db",
+          "text": "慣れてきたら計画モードに切り替えると、全体像を把握しながら効率よく進められます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jhru",
+          "text": "自分のスタイルに合ったモードを見つけていってくださいね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ia6b",
+          "text": "覚えておくと便利なコマンド",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2prk9",
+          "text": "Claude Codeにはスラッシュで始まる短い指示（コマンド）がいくつかあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbiag",
+          "text": "全部覚える必要はありませんが、以下の3つだけは知っておくと便利です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6vke1",
+          "text": "/model：使用するAIモデルを切り替えるコマンドです。いちばん賢いのがOpus 4.6で、複雑な作業に向いています。バランスが良いのがSonnet 4.6で、デフォルトで選ばれています。速さ重視ならHaiku 4.5です。迷ったらデフォルトのままで大丈夫ですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnjq1",
+          "text": "/compact：会話の圧縮コマンドです。やり取りが長くなると処理量が増えていきます。このコマンドを使うとこれまでの会話を要約して、処理量をリセットしてくれます。「なんか動作が遅くなってきたな」と感じたら使ってみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5v1i7",
+          "text": "/voice：音声モードを有効にするコマンドです。スペースキーを長押しして話すだけで、口頭で指示を出せるようになります。キーボードを打つのが面倒な時や、考えながら指示したい時にすごく便利です。日本語にも対応しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cok0j",
+          "text": "使用量の確認も大事です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31c8v",
+          "text": "Claude Codeは使いすぎると一時的な利用制限がかかることがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eddpc",
+          "text": "5時間ごとにリセットされる利用枠と、7日間の週次枠があるので、時々チェックしておくと安心です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4radh",
+          "text": "ステータスラインにレート制限の使用率が表示されるようになっているので、「あとどのくらい使えるか」がひと目で分かりますよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b3r9a",
+          "text": "これで初期設定は完了です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "srtg",
+          "text": "30分もあれば全部終わるはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f9r0u",
+          "text": "次の章では、Claude Codeの本当の力を引き出す3つの機能について解説します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19ovq",
+          "text": "第6章：Skills・MCP・サブエージェント｜自動化を加速させる3つの武器",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bcb3l",
+          "text": "Claude Codeを「自分専用のアシスタント」に育てる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7h1lt",
+          "text": "前の章で初期設定が完了しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "893oa",
+          "text": "ここからが本番です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ecpf5",
+          "text": "Claude Codeを単なるAIチャットの延長ではなく「自分専用のアシスタント」として育てていくための3つの機能を解説します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6r6j5",
+          "text": "この3つを使いこなせるかどうかで、Claude Codeの活用レベルがまったく変わってきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c03a3",
+          "text": "武器1：Skills（スキルズ）＝業務マニュアルをAIに渡す",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1jap",
+          "text": "Skillsとは、AIに特定の作業手順を教える機能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4pi72",
+          "text": "CLAUDE.mdが「自己紹介カード」だとしたら、Skillsは「業務マニュアル」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b9p9a",
+          "text": "マニュアルを1つ渡すごとに、AIができる作業の種類が1つ増えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6tjpc",
+          "text": "例えば、議事録作成のスキルを教えると、会議メモを渡すだけで決まったフォーマットの議事録を作ってくれるようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2blq5",
+          "text": "週次レポート作成のスキルを教えると、データを渡すだけでグラフ付きのレポートが完成します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qad3",
+          "text": "Skillsの正体はSKILL.mdというファイルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dneam",
+          "text": "このファイルに作業手順を書いて、専用フォルダーに入れておくだけでAIが手順通りに作業してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5029",
+          "text": "専用フォルダーはプロジェクトフォルダー内の.claude/skills/という場所です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9v6d0",
+          "text": "まだ存在していなくても大丈夫です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eftoa",
+          "text": "Claude Codeに「スキルを作って」と頼めばフォルダーごと自動で作ってくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3sje2",
+          "text": "CLAUDE.mdとSkillsの決定的な違い",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1scg",
+          "text": "「CLAUDE.mdに全部書けばいいんじゃないの？」と思うかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dlesk",
+          "text": "でも実は読み込まれ方がまったく違うんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3pipd",
+          "text": "CLAUDE.mdは会話を始めるたびに全文が読み込まれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agvbi",
+          "text": "長く書けば書くほど、毎回の処理量が増えていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3busf",
+          "text": "だからCLAUDE.mdは10行以内を目安にしてほしいとお伝えしました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1parc",
+          "text": "Skillsは違います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35gov",
+          "text": "必要な時だけ読み込まれるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aphbd",
+          "text": "最初に読み込まれるのはスキルの名前と説明文だけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fk55",
+          "text": "AIが「今このスキルが必要だ」と判断した時にだけ、本文が読み込まれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7m8m7",
+          "text": "つまり、スキルをたくさん追加しても、使わないスキルはほとんど処理量を消費しません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98e7r",
+          "text": "気軽にスキルを増やせるのが、Skillsの大きなメリットです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30fit",
+          "text": "SKILL.mdの構造",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7jmrb",
+          "text": "SKILL.mdの中身は2つのパートに分かれています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "92ao1",
+          "text": "1つ目がヘッダー部分。スキルの名前と説明文を書きます。AIはこの説明文を読んで「今このスキルを使うべきかどうか」を判断します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nfqr",
+          "text": "2つ目が本文。作業の具体的な手順やルールを書きます。「ステップ1：データを確認する」「ステップ2：グラフを作成する」のように手順を順番に記載します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "barl9",
+          "text": "スラッシュコマンドで一発呼び出し",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6fojk",
+          "text": "Skillsを作ると、自動でスラッシュコマンドが登録されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "feid7",
+          "text": "例えば「weekly-sales-report」というスキルを作ると、/weekly-sales-reportと入力するだけで実行できるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "41kfi",
+          "text": "スラッシュを入力すると作成済みのスキル一覧が表示されるので、選ぶだけでOK。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fec2d",
+          "text": "毎回「週次レポートを作って、フォーマットはこうで…」と指示する必要がなくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4sq0t",
+          "text": "前の章で紹介した事例を思い出してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ru7q",
+          "text": "税理士が60社の仕訳を自動処理したり、CPOが11個の自動化ジョブを毎朝動かしたり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e45f4",
+          "text": "あれらはすべてSkillsで定型化されているからこそ、毎日安定して動いているんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95pbm",
+          "text": "具体的なスキルの活用パターンを3つ紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68q9e",
+          "text": "1つ目はドキュメント作成スキルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d7et0",
+          "text": "議事録やレポートなど、決まったフォーマットの資料を自動で作れるようにします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4sk2j",
+          "text": "テンプレートやルールを教えておけば、毎回同じ品質の資料が仕上がります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbfij",
+          "text": "例えば定例MTGと顧客打ち合わせで異なるフォーマットを自動で切り替えて生成するようなスキルも作れます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e6ru5",
+          "text": "進捗報告、アクションアイテム（優先度付き）、決定事項、懸念事項を構造化した議事録が、文字起こしデータを渡すだけで完成するわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bsd3c",
+          "text": "2つ目はワークフロー自動化スキルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "81b58",
+          "text": "複数の手順がある作業を1つの流れとして教えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "763q0",
+          "text": "例えば「データをダウンロードして、集計して、レポートにまとめる」という作業。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4f2ah",
+          "text": "毎週金曜日に30分かかっていた定型作業が、スラッシュコマンド1つで完了するようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6u6o",
+          "text": "3つ目は外部ツール連携スキルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahkb5",
+          "text": "SlackやNotionなど普段使っているサービスと組み合わせた作業手順を教えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82u69",
+          "text": "こちらはMCPの設定が必要になりますが、一度設定してしまえば「SlackのチャンネルからQ&Aを集めてFAQドキュメントにまとめて」みたいなことが一声で実現します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "10qj5",
+          "text": "最初は1つ目のドキュメント作成スキルから始めるのがおすすめです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6luht",
+          "text": "自分でスキルを書く必要はない",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3868s",
+          "text": "「SKILL.mdを書くのは難しそう…」と思った方、安心してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1vpe1",
+          "text": "Claude Code自身にスキルを作ってもらえるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "76g6n",
+          "text": "「週次レポートを作成するスキルを作って」と伝えるだけで、フォルダー構造ごと作ってくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c51vd",
+          "text": "最初から完璧なスキルを作ろうとする必要はありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6q72u",
+          "text": "まずシンプルなスキルを作って、使ってみて、「ここが違うな」と感じたらSKILL.mdを修正する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95q4v",
+          "text": "この繰り返しでスキルはどんどん良くなっていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "57s8m",
+          "text": "修正もClaude Codeに任せられます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a5igj",
+          "text": "「レポートの日付の書き方が違っていたから直して」と伝えるだけで、SKILL.mdを直接編集してくれるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bcmkb",
+          "text": "小さく作って、使いながら育てる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8op8l",
+          "text": "これがSkillsのいちばんのコツです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b3o2v",
+          "text": "武器2：MCP＝外部サービスとの連携ルート",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7350k",
+          "text": "MCPとは「Model Context Protocol」の略で、Claude Codeと外部サービスをつなぐ仕組みです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ge87",
+          "text": "オフィスのたとえで言うと、他の部署や外部パートナーとの連携ルートです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82cp6",
+          "text": "優秀な同僚が隣にいるだけでも便利ですが、経理部や営業部、外部ベンダーともやり取りできるようになったらどうでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c10c1",
+          "text": "MCPはそれを可能にします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "p39n",
+          "text": "MCPを設定すると、Claude CodeからGoogleカレンダー、Slack、Gmail、freee、HubSpotなどの外部サービスを直接操作できるようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82n6j",
+          "text": "具体的にどうなるか、例を見てみましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahg3j",
+          "text": "「今日のミーティングの予定を確認して議事録テンプレートを作って」と伝えると、MCPでGoogleカレンダーと連携していれば、カレンダーから予定を取得して参加者や議題を含めた議事録テンプレートを自動で作成してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tu81",
+          "text": "「先週のSlackでチームから上がった課題をまとめて」と伝えると、MCPでSlackと連携していれば、メッセージを読み取って課題を整理したレポートを作ってくれるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48jct",
+          "text": "MCPの設定方法はとてもシンプルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 16,
+                "text": "claude.ai",
+                "toIndex": 25
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7q873",
+          "text": "VSCode版を使っている場合、claude.aiのサイトにアクセスして、左メニューのカスタマイズからコネクターを選択するだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9919h",
+          "text": "すぐに使えるサービスのリストが表示されるので、連携したいものを選んで認証を完了させます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "pk6v",
+          "text": "これだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "488k2",
+          "text": "VSCodeを再起動すれば、すぐに使えるようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fld6o",
+          "text": "2026年4月時点で9,000以上のプラグインやMCPサーバーが公開されており、ほとんどのメジャーなサービスと連携可能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63gr8",
+          "text": "連携できるサービスの具体例をいくつか挙げておきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aia5n",
+          "text": "Googleカレンダーは予定の確認や新規イベントの作成ができます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bvgi",
+          "text": "Gmailはメールの検索や下書きの作成が可能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ln4s",
+          "text": "Slackはメッセージの取得やチャンネルへの投稿ができます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjr02",
+          "text": "freeeやマネーフォワードと連携すれば、会計データの自動処理が実現します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjfo5",
+          "text": "HubSpotと連携すれば、CRMデータの分析やレポート生成が一気通貫で行えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fr680",
+          "text": "NotionやAhrefsとの連携も可能で、ナレッジ管理やSEO分析にも活用できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ao5n",
+          "text": "この一覧にないサービスの場合でも、「こんなサービスと連携したい」とClaude Codeに聞いてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7d2i",
+          "text": "設定できるかどうか、何が必要かを教えてくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mrfi",
+          "text": "ただしMCPの設定はサービスによってはやや複雑なケースもあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnco7",
+          "text": "まずCLAUDE.mdやSkillsをしっかり使いこなせるようになってからMCPに挑戦するのがおすすめです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "13gqa",
+          "text": "前の章で紹介した税理士60社の事例も、freee・Gmail・NotionのMCP連携があってこそ実現しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3gbl",
+          "text": "MCPは「個別の作業の自動化」を「業務フロー全体の自動化」に引き上げるための鍵なんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fv6r",
+          "text": "武器3：サブエージェント＝AIチームで仕事を分担",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19mqe",
+          "text": "サブエージェントとは、メインのAIが別のAIに仕事を割り振る機能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjb9",
+          "text": "オフィスでチームを組んで仕事を進めるイメージですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1bpsb",
+          "text": "「データを分析してレポートにして」と頼んだとします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5f93d",
+          "text": "メインのAIはこう考えるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "122n1",
+          "text": "「まずデータの中身を調べよう。調査はExploreに任せよう」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b9fv6",
+          "text": "「調査結果をもとにレポートの構成を考えよう。計画はPlanに任せよう」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3v8ro",
+          "text": "「構成が決まったら自分でレポートを書こう」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6v76n",
+          "text": "このように、複雑な作業を自動で分担してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2f9mo",
+          "text": "Claude Codeには3つのサブエージェントがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7etfc",
+          "text": "Exploreは調査専門。ファイルの内容を調べたり、大量の情報から必要なものを探し出したりします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "muqd",
+          "text": "Planは計画専門。作業の順番や進め方を考えてくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8tbin",
+          "text": "General Purposeは汎用型。複数のタスクを同時に進める時に使われます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "39dm",
+          "text": "これらは皆さんが意識しなくても、Claude Codeが作業内容に応じて自動で使い分けてくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5b5qf",
+          "text": "さらに2026年に入ってAgent Teamsという機能も登場しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "db0bs",
+          "text": "複数のエージェントを並列で稼働させることができるので、処理速度が大幅に向上します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fdb6q",
+          "text": "前の章で紹介した「10部門40人の仮想社員チーム」も、このサブエージェントとAgent Teamsがあってこそ実現しているわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6gmkr",
+          "text": "この章のまとめ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5id34",
+          "text": "Skills、MCP、サブエージェント。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqvgo",
+          "text": "この3つの武器を組み合わせることで、Claude Codeは単なるAIチャットから「仕事を自動化するプラットフォーム」に変わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3mf2c",
+          "text": "Skillsで業務マニュアルを渡し、MCPで外部サービスと連携させ、サブエージェントで複雑な作業を自動分担する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1nscb",
+          "text": "この組み合わせが、前の章で見たような驚異的な自動化事例を可能にしているんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "776g6",
+          "text": "最後の章では、2026年の最新トレンドと、あなたの職種に合ったおすすめの始め方をお伝えします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1g87k",
+          "text": "第7章：2026年最新トレンドと職種別おすすめ活用法",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ng0b",
+          "text": "2026年、Claude Codeに何が起きているのか",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36uq4",
+          "text": "2026年に入ってから、Claude Codeの進化が加速しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9oemd",
+          "text": "「チャットAI」から「自律的に作業を遂行するAIエージェント」へ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3gqh1",
+          "text": "わずか数ヶ月で根本的に変わったと言ってもいいくらいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8tvnt",
+          "text": "特に注目すべきアップデートを紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c37ut",
+          "text": "Voice Mode（音声モード）が追加されました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "sqat",
+          "text": "/voiceコマンドで有効化して、スペースキーを長押しして話すだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ddrk",
+          "text": "キーボードから手を離して、口頭で指示を出しながらコードの変更を確認するというワークフローが可能になっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98kut",
+          "text": "日本語を含む20言語に対応していて、追加コストもかかりません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ldcc",
+          "text": "「AIに話しかけて仕事を任せる」という映画みたいな体験が、もう現実のものになっているんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "46rvt",
+          "text": "Remote Control（リモートコントロール）もリリースされました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1sbpm",
+          "text": "ローカルで起動中のClaude Codeセッションに、スマートフォンやタブレット、別のPCのブラウザからアクセスして操作を継続できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "511k0",
+          "text": "外出先でも「あのタスクどうなった？」「次はこれやっておいて」と指示が出せるわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b4hj",
+          "text": "パソコンの前にいなくても仕事が進む。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5dft",
+          "text": "これは働き方そのものを変えるインパクトがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7e11s",
+          "text": "Auto Modeでは、AIが許可の範囲内で自律的に判断して作業を進めてくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "752hu",
+          "text": "いちいち「次はこれやって」と指示しなくても、AIが自分で考えて行動するんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "uj2",
+          "text": "もちろん安全性の仕組みが組み込まれていて、危険な操作の前には確認が入るようになっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f116r",
+          "text": "Opus 4.6では100万トークン（約75万字）のコンテキストウィンドウが使えるようになりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ps49",
+          "text": "数百ページの仕様書を丸ごと読み込んで処理するということが、実用レベルで可能になっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "638gh",
+          "text": "5つのトレンドを押さえておこう",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "10lej",
+          "text": "100件の活用事例を分析すると、5つの明確なトレンドが見えてきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5u7f0",
+          "text": "1つ目は、非エンジニアの活用が爆発的に増えていること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbf8k",
+          "text": "Anthropicのハッカソンで優勝者の過半数が非エンジニアだったこと、ある企業ではClaude Code利用者の90%がエンジニア経験ゼロだったこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5d8p9",
+          "text": "「プログラミングができる人のためのツール」という認識は、もう古くなっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b9d9h",
+          "text": "2つ目は、MCP連携が活用の鍵になっていること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "535jn",
+          "text": "freee、HubSpot、Slack、Gmail、Googleカレンダー、Notion、Ahrefs。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2o2sf",
+          "text": "こういった日常的に使っているサービスとClaude Codeをつなぐことで、業務の一気通貫自動化が実現しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "20bdg",
+          "text": "単体で使うだけでは出せない価値が、MCPで一気に広がるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1r0uk",
+          "text": "3つ目は、「仮想チーム」「AIカンパニー」という概念が台頭していること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1rlb2",
+          "text": "1人の経営者が10部門40人分のAIエージェントを指揮する事例が出現しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ef5nn",
+          "text": "1人起業やフリーランスの競争力が、組織規模に関係なく発揮できる時代になりつつあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5log4",
+          "text": "4つ目は、士業の業務自動化が急激に進んでいること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dk2",
+          "text": "税理士がスタッフゼロで60社を管理、弁護士が72時間で50,000件の契約をレビュー。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fr52",
+          "text": "専門的で高度な業務こそ、AIによる自動化のインパクトが大きいという逆説的な結果が出ています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9l1cl",
+          "text": "5つ目は、「チャットAI」から「アクションAI」への転換。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12gvp",
+          "text": "AIは質問に答えるだけの存在から、実際に手を動かして仕事をしてくれる存在へ進化しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c6fc7",
+          "text": "Claude Codeは「コーディングツール」ではなく「PCの中であらゆる作業を実行するエージェント」として再定義されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "blk34",
+          "text": "職種別「まずこれやってみて」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88huc",
+          "text": "ここまで読んで「やってみたいけど、何から始めればいいか分からない」という方のために、職種別のおすすめ活用法をまとめました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2hpr7",
+          "text": "マーケティング担当者なら、まずは広告レポートの自動化から始めてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70i2m",
+          "text": "毎週同じ手順で作っているレポートがあるなら、そのCSVデータをClaude Codeに渡して「このデータを分析してレポートにして」と伝えるだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pfia",
+          "text": "2回目からはSkillsに登録すれば、スラッシュコマンド一発で完了するようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1hm5q",
+          "text": "その後、競合分析やSEO記事作成の自動化に広げていくと、効果がどんどん積み上がっていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f51or",
+          "text": "特にコンテンツマーケティングをしている方は、記事の構成案作成→下書き生成→SEOメタデータ最適化という一連のワークフローをSkills化するだけで、記事制作の速度が2-3倍になるはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2t5s",
+          "text": "営業担当者なら、商談メモの整理から始めるのがおすすめです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dqr3",
+          "text": "会議の文字起こしデータをClaude Codeに渡して「議事録にまとめてネクストアクションも抽出して」と伝えてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dj9q0",
+          "text": "毎回の商談後に30分かけていた作業が数分で終わるようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94fth",
+          "text": "慣れてきたら、提案資料の下書き自動作成やリード管理の自動化に進んでいけます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7pm9e",
+          "text": "最終的には「商談前の準備→商談メモの整理→フォローアップメールの下書き」という一連の営業プロセスが、ほぼ自動で回るようになるイメージです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "459rl",
+          "text": "商談準備30分→2分、メモ整理30分→5分、メール下書き15分→3分。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cesp",
+          "text": "合計で1商談あたり約1時間の短縮になるとしたら、1日3件の商談で3時間の節約です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bj6cd",
+          "text": "浮いた時間で1件でも多くの商談をこなせたら、売上への直接的なインパクトは計り知れませんよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2hup7",
+          "text": "経理担当者なら、請求書PDFの一覧化から始めてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ksh0",
+          "text": "フォルダーに溜まった請求書PDFをClaude Codeに「このフォルダーの請求書から日付、金額、支払期限を一覧にして」と指示するだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6n3r3",
+          "text": "4.5時間が35分になった事例のインパクトは、自分で体験すると本当に驚きますよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "etisa",
+          "text": "その後、経費精算の自動化やfreee連携に広げていくと、月末の経理業務が劇的に変わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2l6um",
+          "text": "最終的にはfreeeとのMCP連携で「転記ゼロ」の環境を構築できれば、税理士事例のようにスタッフを増やさずに処理量を大幅に増やすことが可能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63jic",
+          "text": "経営者やマネージャーなら、毎朝のAI秘書から始めてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5p5c",
+          "text": "Googleカレンダー、Slack、Gmailの情報を毎朝自動でまとめて、「今日やるべきこと」の全体像を一瞬で把握できるようにする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7fc6p",
+          "text": "設定3分で始められて、効果は毎日実感できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d52hb",
+          "text": "その後、月次レポートの自動化、仮想チームの構築へとステップアップしていけます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fecj5",
+          "text": "1人経営者の方は特に恩恵が大きくて、「自分の代わりに調べてくれる」「自分の代わりにまとめてくれる」「自分の代わりに分析してくれる」という3つの代替が実現するだけで、経営の質が大きく変わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flbdp",
+          "text": "新規事業の検討時にリサーチ、財務分析、法務確認を同時並行で走らせて数十分で完了するような使い方も、決して夢物語ではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bb0t1",
+          "text": "今日から始める3ステップ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ct8nu",
+          "text": "最後に、今日からClaude Codeを始めるための3ステップをまとめます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77kda",
+          "text": "ステップ1：まずProプランに登録して、VSCodeにClaude Codeの拡張機能をインストールしてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6v7l2",
+          "text": "ここまで15分あればできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6teka",
+          "text": "ステップ2：CLAUDE.mdを書いてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "93gpf",
+          "text": "「私はマーケティング担当です。週次レポートを効率化したいです。日本語で回答してください」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9r4vh",
+          "text": "これだけで十分です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3i6qj",
+          "text": "もしくは/initコマンドで自動生成してもOKです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7d3i",
+          "text": "ステップ3：1つだけ「いつもやっている定型作業」をClaude Codeに任せてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "43p37",
+          "text": "CSVの集計でも、議事録の整理でも、メールの下書きでも何でもいいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dplp0",
+          "text": "1つの作業が自動化される体験をすると、「次はあれもこれも」と自然に広がっていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5rs0",
+          "text": "小さく始めて、使いながら育てていく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agk9t",
+          "text": "これが、Claude Codeを使いこなすための最も確実な方法です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djgp6",
+          "text": "おわりに",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ufi6",
+          "text": "「AIが全部やってくれたらいいのに」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6lf93",
+          "text": "この記事の冒頭で、そんな言葉を紹介しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jroc",
+          "text": "2026年、それは「いつか実現する夢」ではなく、すでに実践している人がたくさんいる現実です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9vam",
+          "text": "税理士がスタッフゼロで60社を管理している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brfuf",
+          "text": "1人の経営者が仮想40人チームを動かしている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5lt1c",
+          "text": "CPOが毎朝11個の自動化ジョブを稼働させている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e4hhc",
+          "text": "マーケターが1人で6倍のコンテンツを生産している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6dm7b",
+          "text": "経理担当者が請求書処理を87%削減している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1lfgq",
+          "text": "営業担当者が商談準備を30分から2分に縮めている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qb9a",
+          "text": "彼らは特別なプログラミングスキルを持っていたわけではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jr34",
+          "text": "「これ、自動化できないかな？」と考えて、Claude Codeに任せてみた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7dqb5",
+          "text": "ただそれだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c3hbf",
+          "text": "大事なのは「最初の1歩を踏み出すかどうか」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1046g",
+          "text": "100件の事例を一気に実践する必要はありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "asu1",
+          "text": "まずは1つだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d09i0",
+          "text": "自分の仕事の中で「正直これ、めんどくさいんだよな」と思っている作業を1つだけ選んでください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dh7v7",
+          "text": "それをClaude Codeに任せてみるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8oqn2",
+          "text": "最初はうまくいかないこともあるかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15igj",
+          "text": "でもSkillsの章でお伝えした通り、「小さく作って、使いながら育てる」のがコツです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3bjdm",
+          "text": "1回目が50点でも、修正すれば2回目は70点になる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1k3ni",
+          "text": "さらに修正すれば3回目は90点になる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "93fmh",
+          "text": "そうやって自分専用のAIアシスタントが育っていくプロセスを楽しんでほしいと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98d76",
+          "text": "AIに仕事を任せる人と、まだコピペで消耗している人。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "61ade",
+          "text": "この差は、時間が経つほど開いていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "es9g7",
+          "text": "半年後に「あの時始めておいてよかった」と思えるか、「あの時始めていればよかった」と思うか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53rgk",
+          "text": "まずはProプランで始めて、CLAUDE.mdを書いて、1つだけ定型作業を任せてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qnen",
+          "text": "そこから始まるAIとの協働が、あなたの働き方を根本から変えてくれるはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6e5oj",
+          "text": "【セールスレター】",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "filpj",
+          "text": "ヘッドコピー",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2kai2",
+          "text": "経費精算4.5時間→35分。商談準備30分→2分。税理士1人で60社管理。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 62,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e450i",
+          "text": "「プログラミング知識ゼロ」の非エンジニアが、Claude Codeで定型業務を消した45の実例と、今日から始められる全手順。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmfuc",
+          "text": "あなたは今、毎日どのくらいの時間を「本当はやりたくない作業」に使っていますか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbsch",
+          "text": "議事録の整理。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4g2k6",
+          "text": "月次レポートの作成。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tvna",
+          "text": "Excelでの集計作業。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7kqom",
+          "text": "請求書PDFの確認。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1t6ge",
+          "text": "提案資料の下書き。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89f9t",
+          "text": "どれも大事な仕事です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9smqr",
+          "text": "でも正直なところ、「この作業、誰かにやってほしい」と思ったことはないですか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2rvs1",
+          "text": "実はいま、その「誰か」を月額約3,000円で雇える時代になっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9tetk",
+          "text": "しかも、その「誰か」はプログラミングの知識がなくても、日本語で「これやっておいて」と伝えるだけで動いてくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45d67",
+          "text": "それがClaude Code（クロードコード）です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8t3ok",
+          "text": "「エンジニア向けのツールでしょ？」という誤解",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9f4nt",
+          "text": "Claude Codeと聞くと「プログラマーが使うもの」と思っている方がほとんどです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9tk2v",
+          "text": "でもこの認識、2026年に入って完全に崩れています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ueqf",
+          "text": "Anthropic社のハッカソンで優勝した5人のうち3人が非エンジニア。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "epkt9",
+          "text": "弁護士、心臓専門医、道路技師。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "820go",
+          "text": "コードを1行も書いたことがない人たちが、Claude Codeを使って実用的なツールを作り上げました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "asmjr",
+          "text": "ある企業では、Claude Code利用者の90%がエンジニア経験ゼロ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eo4rv",
+          "text": "日経クロストレンドは「非エンジニアこそ生産性に差がつく」と特集を組みました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1l5rs",
+          "text": "もはやClaude Codeは、コーディングツールではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4igcd",
+          "text": "PCの中で「あらゆる作業を代行してくれるエージェント」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cn882",
+          "text": "この記事で手に入るもの",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 30,
+              "style": "Bold"
+            },
+            {
+              "length": 18,
+              "offset": 41,
+              "style": "Bold"
+            }
+          ],
+          "key": "chhbq",
+          "text": "この記事では、Claude Codeで実際に業務を自動化した45の具体的な事例と、ゼロから始めて使いこなすまでの全手順をまとめました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2c6ns",
+          "text": "資料作成・データ分析の自動化事例",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ivtk",
+          "text": "企画書・報告書の自動生成",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1a4ae",
+          "text": "プレゼンスライドの自動作成（10分以内で完成）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5hkos",
+          "text": "CSVデータの自動集計・グラフ化（集計時間93%削減）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bqbbv",
+          "text": "11タブの財務モデルを10分で構築",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "54seg",
+          "text": "営業・マーケ・経理の職種別事例",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b76lm",
+          "text": "商談準備30分→2分に短縮",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5bpvr",
+          "text": "広告レポートの完全自動化",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4nfn1",
+          "text": "請求書PDFの一覧化（4.5時間→35分、87%削減）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ens8o",
+          "text": "契約書レビュー自動化（数日→数時間）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "80jdk",
+          "text": "「仮想チーム」の衝撃事例",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "es2mj",
+          "text": "税理士がスタッフゼロで60社を管理（年間3,000万円の人件費削減相当）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7qrrf",
+          "text": "1人の経営者が10部門40人の仮想社員チームを構築",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7nf36",
+          "text": "毎朝7時に11個の自動化ジョブが自動起動",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7if2m",
+          "text": "コンテンツ制作量が月50本→300本（6倍）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3tia0",
+          "text": "初期設定から活用までの完全ガイド",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1vchq",
+          "text": "料金プランの選び方（Pro / Max 5x / Max 20x）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ae9s",
+          "text": "VSCodeインストールからCLAUDE.md作成まで",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "q2j0",
+          "text": "Skills・MCP・サブエージェントの使い方",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c8n3",
+          "text": "職種別「まずこれやってみて」ガイド",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9iv3",
+          "text": "「自分にもできるの？」という不安に答えます",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26om1",
+          "text": "この記事で紹介している45の事例の多くは、プログラミング経験ゼロの方が実践しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "79ueb",
+          "text": "必要なのは「日本語で指示を出すこと」だけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6fmc",
+          "text": "「このExcelの売上データを月別にグラフにまとめて」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cnq",
+          "text": "「このフォルダの請求書から日付と金額を一覧にして」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "23oa2",
+          "text": "「先週のSlackの議論をまとめて」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3t45s",
+          "text": "こう伝えるだけで、Claude Codeが全部やってくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4m74e",
+          "text": "もちろん最初からすべてがうまくいくわけではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4qc1",
+          "text": "でも「小さく作って、使いながら育てる」というアプローチで、誰でも自分専用のAIアシスタントを育てていけます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjdh1",
+          "text": "その具体的な方法を、この記事では7章にわたって詳しく解説しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6muq2",
+          "text": "こんな方に読んでほしい",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "38obd",
+          "text": "ChatGPTは使っているけど、Claude Codeはまだ触ったことがない方",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8t7e1",
+          "text": "毎日の定型作業に時間を取られて、本来やるべき仕事に集中できない方",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dp847",
+          "text": "「AIで仕事を自動化したい」と思いながらも、何から始めればいいか分からない方",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58aas",
+          "text": "プログラミング知識がないけど、AIを使いこなして生産性を上げたい方",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3a46f",
+          "text": "フリーランスや1人起業家で「組織力」がほしいと感じている方",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cb5cf",
+          "text": "経営者・マネージャーとして、チームの生産性を根本から変えたい方",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5t6l7",
+          "text": "AIに仕事を任せる人と、まだコピペで消耗している人",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5cts2",
+          "text": "この差は、時間が経つほど開いていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bbpm",
+          "text": "半年後に「あの時始めておいてよかった」と思えるか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "em3d9",
+          "text": "「あの時始めていればよかった」と後悔するか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jck8",
+          "text": "この記事を読み終わる頃には、あなたの仕事のどこにClaude Codeを使えるかが明確になっているはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agbcg",
+          "text": "そして、今日から始められる具体的な手順が全部分かっているはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flnvu",
+          "text": "あなたの「めんどくさい」を消す第一歩を、ここから始めてみませんか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 18
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "98nsa",
+          "text": "Claude使いこなしたい方はこちら👇",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://note.com/hataraku_writer/m/m081848aa83e4",
+                "toIndex": 48
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "buulb",
+          "text": "https://note.com/hataraku_writer/m/m081848aa83e4",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f447.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f447.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

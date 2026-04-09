@@ -1,0 +1,607 @@
+{
+  "tweet_created_at": "2026-04-06T08:16:41.000000Z",
+  "id": 2041067557256634600,
+  "id_str": "2041067557256634712",
+  "type": "tweet",
+  "conversation_id_str": "2041067557256634712",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/BFQMLcjMG1",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 129082205,
+    "id_str": "129082205",
+    "name": "スイスイ/エッセイスト",
+    "screen_name": "suisuiayaka",
+    "location": "",
+    "url": "https://note.com/suisuiayaka/n/n66f597376bf5",
+    "description": "【🔊5/4文フリ東京/ぬ27.28】🍣noteメンバーシップSUISUICLUBで連載『君の日常と混浴したい』(600記事読み放題)|🎾本→『すべての女子はメンヘラである』(飛鳥新社)|🧠cakesコンテスト創作大賞入賞|noteに〈ベストアルバム〉|新刊出したい！",
+    "protected": false,
+    "verified": true,
+    "followers_count": 22415,
+    "friends_count": 1585,
+    "listed_count": 81,
+    "favourites_count": 51862,
+    "statuses_count": 19350,
+    "created_at": "2010-04-03T03:47:55.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/129082205/1761044854",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2013851838022590467/mbxdGpLz_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 243,
+  "reply_count": 16,
+  "retweet_count": 683,
+  "favorite_count": 4085,
+  "views_count": 2508583,
+  "bookmark_count": 995,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041048056662208512",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/BFQMLcjMG1"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T08:16:41.000000Z",
+    "id": 2041067557256634600,
+    "id_str": "2041067557256634712",
+    "title": "主婦の解像度",
+    "preview_text": "気づいたときにはラヴィットに夢中だった。写真フォルダを検索したら2022年に渋谷のラヴィットカフェに長男と行っていたので少なくともその時にはとっくに夢中だった。私の場合は小学生男児二人を育てていて彼らは8:",
+    "cover_url": "https://pbs.twimg.com/media/HFNSB8IbsAAohuK.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5arv",
+          "text": "\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6up88",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a63p7",
+          "text": "気づいたときにはラヴィットに夢中だった。写真フォルダを検索したら2022年に渋谷のラヴィットカフェに長男と行っていたので少なくともその時にはとっくに夢中だった。私の場合は小学生男児二人を育てていて彼らは8:00に登校する。そのあと9:00くらいに家を出たほうが良かったのだけど、ラヴィットからあまりに目が離せないので出発時間はどんどん遅くなり、結局ニュースが始まる9:50くらいまで家を出られない生活になってた。あの頃まだTVerはなかった気がする。絶対に見れない日は録画してたけど録画の容量がほぼいっぱいだったから基本的には毎朝欠かさず生放送を見ないといけなかった。これを書いていて、どうしてそんなに必死だったのか？と思うけど、そうやってラヴィットに翻弄されてきた人は多いのではないか？ラヴィットは彗星のように私たちの朝を乗っとった。地球外生命体であり、意味不明であり、予測不能であり、危険であり、決して安心できないし、別にそんなに面白いことが起きない日もあるんだけど、それも含めて「生」すぎて、とにかくこの生き物ような番組を見張っていないと気が済まなかった。毎日毎日この世界に実験を仕掛けられていた。まんまと引っかかった。ここまで書いて涙が出てきた。本当につらいことがこの数年色々あったけど、まじでまじでラヴィットを見ている時間は脳がラヴィットでいっぱいだった。洗い物の片手間とかじゃなく普通にテレビの目の前で座って見てた。洗い物なんてラヴィットの放送時間以外にすればいいのだ。ラヴィットは新しいのに懐かしかった。なぜだろう？と思ったら、10代の頃「めちゃイケ」や「笑う犬の冒険」に喉から血がでるほど爆笑させられていたような、突き抜ける自由を感じるのだ。気づけばバラエティがやってる20:00なんて子供がテレビ見てるし結局私は運転中のradikoかpodcastが爆笑のすべてで、テレビの前で誰にも邪魔されず爆笑で泣くなんて（子供が生まれて12年）ずっとしていなかった。だから平日朝にテレビの前に座れる層の特権としてのラヴィットに、毎朝「ラッキー！」と感じさせられた。桶ットのカツジ初登場、嶋佐の初Oasis、ヨギソダイブ、マッチョが突然マリオの水中ステージの曲を演奏したときも、全部生で見た。実は私はヒルナンデスで椅子が壊れるシーンもMステのTATOOミッシェル回も全部リアルタイムで見ているのでそういう目撃才があると思うのだけど、決してそんな才がなくてもラヴィットは軽率に伝説を目撃させてくれた。なぜかラヴィットの過去回を思い返すと、ああ私頑張ってたなあという“子育て振り返り感情”まで吹き上がる。支えてもらった。すごく感謝している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6dbp7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1h9q6",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6o7pa",
+          "text": "2026年3月13日。約1ヶ月前、もちろんこの朝も生で見ていた。明らかに異質だった。異質すぎて私は「今日祝日とか？特別タイアップ番組やってる？」と思ってカレンダーをみたくらい異質だった。どう異質だったかはツイッターに沢山出てくるが、スタジオセット以外ほぼ別の雰囲気、ツイッターには戸惑いが並んだ。でも翌週から通常に戻って、あれはなんだったんだろう？と思いつつ安心した。番組が変わることはすごく大事だと思う。お店でもブランドでも、意図的変化により常連をふるい落とし新規客を都度入れて進化して長期的成長につなげる必要があるんだと思う。そんななか結局、4月に入るとあの3月13日につながるようなリニューアルを、していた。毎日のようにお料理コーナーが始まった。繰り返すけど変わることは良いことだし、番組側がたくさんの時間や人やデータをかけて考え抜いた策の結果だろうし「それでも見たい」と思う視聴者だけ見たらいいし、離れたい人は消せばいい。ただこうして「めちゃくちゃ変わった！私が夢中だったラヴィットの感じは残らなかったのかも！寂しいけど仕方ないか！」という気持ちで終わっただけなら、こんな長文を私は書き始めなかった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "faq1g",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "clm99",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eea5i",
+          "text": "今日「書かないと」と急に思ったのは、土曜に放送された『夜明けのラヴィット』をTVerでやっと見たからだった。我らが最愛最大の光であるギャル曽根が、放送中に披露した唐揚げレシピのことを「テレビを観てる主婦の方に向けたレシピだったから」と言った。先に早口で書くが私はギャル曽根が大好き、先日熱愛報道後初の出演となった高比良くるまイジリ回でもギャル曽根の「手広いね」発言は見事だった。魔女のように空気を操りヒールとなりプロレスを展開してくれる真の実力者（ラヴィットに出ている人、関わる人、全てが実力者です）ギャル曽根！ギャル曽根がいなかったらラヴィットはラヴィットじゃない！第三子を産んでもすぐ復帰してくれたギャル曽根！TVチャンピオンからこんなにもずっと（同い年）走り続けて私たちの朝を殴りにきてくれたギャル曽根ありがとう大好き！と日々思っているのだけど、そのギャル曽根が「テレビを観てる主婦の方に向けたレシピだったから」と言った。びっくりした。いや、べつに、密かに「いわゆる主婦層っぽい人たちに向けてこういうリニューアルしましたよ」という隠れた思惑により番組が変わるのは良いんだけど、でも、はっきり名指しで「テレビを観てる“主婦“の方に向けたレシピだったから」って言われてびっくりした。これは「審査員である男性芸人たちではなく主婦をターゲットにしたレシピだったから真悠ちゃんに負けた」という文脈だったんだけど……このとき私は、「主婦って、誰なんだろう」と思った。大雑把な解像度で括られている？あるいは私が知らない「主婦」が確かに存在している？この直後千鳥大悟が言った「いや唐揚げはそれぞれの家庭の味がもう決まっとるからな」のほうがよっぽど解像度高かった。私も充分主婦なのに、ギャル曽根が語る「主婦」は私とは離れた生き物な気がした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "75akl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aq6gl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dm4ij",
+          "text": "例えば「サラリーマンに向けたバラエティ番組を作ろう！」と思ったとき、プレゼン資料の仕上げ方とか上司への媚び方とかコンペでの戦い方とか部下への指導方法とかをコーナーにしますか？「サラリーマン」にも色々な人がおり色々な興味があり、そんな人たちが仕事を忘れられるようなドカンと一発脳に殴りかかるような面白番組を作ったりしませんか？なのに主婦は、家事や育児の合間にも家事や育児のことを考えたい生き物？まじ？そんな主婦会ったことない！情報を得る機会が今より少ない昔の主婦はテレビでレシピを知りたいかもしれない。だけど私たちは家事や育児に関する知りたいことは検索できる。日々料理なんて作らなきゃいけなくて作ってるんだから自分で都合良くやってる。これまで子供が家にいない時間帯、テレビではまさに「主婦向け」番組しかやってなかった。そこに不時着したのがラヴィットだった。変わるのはラヴィットの勝手だけど「主婦に向けてこう変えました」って明言して簡単なレシピ教えるとか悲しいじゃん。私たちのことそんな風に思ってた？ずっと？信じてほしかったけどな？シャレになってないじゃん？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85nqa",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5rgf2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "auju",
+          "text": "数年前、私は子供の幼稚園でPTA会長としてある講演会に出席しなくてはならず、そこにある男性議員が登壇した。彼はマイクを持ち「この会はお母さんたちばかりなので」と言ったあと「政治がどうだという話をしても難しいと思うので」と丁寧に前置きして【ある仕事先で不倫報道をカップルを目撃した話】をした。まじでまじでまじでびっくりした。会場は爆笑。私は、この人すげえ！！！！と思った。PTAのお母さんたちは政治がわからない！PTAのお母さんたちは不倫報道のほうが好き！PTAのお母さんたちは難しい話を聞けない！……そう示されたのだ。主婦はこうして日々舐められ、慣れる。私はそいつの事務所に抗議のメールを送ろうとした。さっきスマホ内で検索したら下書きはpagesに出てきて怒りに満ちていた。でも当時送らなかった。「伝わらない」と諦めたのだ。私も私で「議員」という生き物のことを「自分の考えを改めないに決まってる」と区別したのだ。主婦も議員もかつてはめちゃイケや笑う犬や特報王国に同じくらい夢中だったかもしれないのに。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6vcc1",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ac4m",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6mf0u",
+          "text": "トム・ブラウンのニッポン圧縮計画というpodcast番組がある。この番組は「主婦」からのメッセージがかなり多く、番組内でも「俺たちの番組は、主婦が聞いてくれてるんだからな！」と繰り返している。だけど間違っても「番組を聞いてる主婦の方に向けたコーナー」なんて作らない。布川さんは「主婦こそなあ！ちんぽの話が聞きたいんだよ！」と叫ぶし風俗の話はするし、みちおは鼻くそを食べるし殴り合う。（そのすべての結果としてしばらくスポンサーはついていない)殺気をぶちまけながら唾を飛ばす二人の罵声に私の脳はかち割れ腹の底から気力が湧く。私は主婦だけど人間で、面白いことに笑いたいし、熱い闘志に混乱したいし、きもい話に吐きたい。もし布川さんがスタッフの誰かに「主婦をターゲットにしたほのぼのコーナーしませんか？」とか言われたら(そんなスタッフいないと思うけど)「主婦なめんなよ！！！！」と、ブチぎれてくれると思う。ありがたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kdf9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1tpp",
+          "text": "私の友達のママたちは、アイドルを推したりマユリカを推したりファッションが好きだったり韓国に行きまくったりそれぞれの楽しみで日々を充実させている。もちろん子供のことで悩んで、明日も中学の入学式なんだけどLINEでは子供のリュックに何を入れさせれば良いんだと混乱のやりとりをしている。塾は週何回にするか？ゲームは何時間にするか？晩御飯は何にするか？子供のことも家のこともたくさん考える。でも私たちは、米粉の唐揚げレシピを与えておけば満足とは限らない。よくお笑い芸人が、スポンサーや偉い社員のことを「大人が」と言う。今回のこともきっと「大人が」考えたことで仕方ないのかもしれない。だけどギャル曽根も大人じゃんー？？？？石田さんも大木さんも若槻さんも赤荻さんも栗山Dも誰もが大人で、大人同士で真剣に面白いことを突き詰めてくれるのがラヴィットじゃん？？？？この番組はそうして関わる大人がたくさん主体性を持っていられたから、こんなに自由で開放感を受けとれていたのでは？と、机上の空論ばかり畳み掛けるけどお願いお願いお願いお願い！！！！！！！変わっても良いから、「主婦」の解像度ももう良いから、一回、ほんとに、面白いことだけやらへん？って、それを貫きながらスポンサーさんたちにも納得してもらう方法もっかい考え直せへん？って、仕切り直したりできないものですかね？そんな簡単な話じゃないよねこんな大人気番組になっちゃったし背負うものだらけだろうし！！！！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fd5pq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b39es",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abovc",
+          "text": "最後に。なんでこんな執着してるんだろう？と自分でも思う。さっき書いたように、合わないならテレビを切って他のことをしたら良い。ではなぜこんなに4990字も書いてるのかといえば、きっともうかなりダメかも無理かもやばいかもいう日常を生きる人がこれからも、頭をぶん回されて救われる貴重な番組が残って欲しいというただの願いだ。桜の木を切らないでくださいっていう感情みたいなものだ。再開発や安全や長期的解決のために桜が切られることが必要な場面もあると、私たちはわかってる。ていうかここまで書いてふと思ったけどラヴィットって〈今の暮らしが10倍楽しくなるライフアイディア発見バラエティ〉だった。100000000000倍楽しくなった。その自分はこれからも存在し続けるわけで、LOVEit!な日々を自力でも更新していきたい。私だって大人だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1knoo",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "euu86",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bc0ah",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "914lt",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lhdi",
+          "text": "おわり",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 2,
+              "offset": 0
+            },
+            {
+              "key": 1,
+              "length": 2,
+              "offset": 2
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cvph6",
+          "text": "〰️〰️",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d35ga",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bniuu",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tr98",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15h4i",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17fjg",
+          "text": "トム・ブラウンについての文↓",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://note.com/suisuiayaka/n/n987430e27648",
+                "toIndex": 44
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 44,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ejs40",
+          "text": "https://note.com/suisuiayaka/n/n987430e27648",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1n7cb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2u1lp",
+          "text": "＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6obou",
+          "text": "ベストエッセイ↓ここにまとめてます",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://note.com/suisuiayaka/m/m165e87f2d54c",
+                "toIndex": 44
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 44,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1o4e6",
+          "text": "https://note.com/suisuiayaka/m/m165e87f2d54c",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "39r5o",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1dvb5",
+          "text": "お悩み相談や日記600記事読み放題↓メンバーシップ（相談ぜんぶ答えている！）",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://note.com/suisuiayaka/n/n66f597376bf5",
+                "toIndex": 44
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 44,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7sbu2",
+          "text": "https://note.com/suisuiayaka/n/n66f597376bf5",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bm951",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqb9j",
+          "text": "丘《ロンドンミラノ日本冒険破壊解放記》という新作できました！予約ここから↓",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://suisuiyard.stores.jp/",
+                "toIndex": 29
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 29,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fmqem",
+          "text": "https://suisuiyard.stores.jp/",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4sv7h",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6hprb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhnk7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ped6",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://note.com/suisuiayaka/n/n66f597376bf5"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://suisuiyard.stores.jp/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/3030.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/3030.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://note.com/suisuiayaka/n/n987430e27648"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "url": "https://note.com/suisuiayaka/m/m165e87f2d54c"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,645 @@
+{
+  "tweet_created_at": "2026-04-04T10:28:21.000000Z",
+  "id": 2040375917818868000,
+  "id_str": "2040375917818867939",
+  "type": "tweet",
+  "conversation_id_str": "2040375917818867939",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/5FTlx4jO6w",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1760163050064408600,
+    "id_str": "1760163050064408576",
+    "name": "詩旅 紡",
+    "screen_name": "tsumugi_utatabi",
+    "location": "",
+    "url": "https://lit.link/tsumugi_utatabi",
+    "description": "𓃠 泣いてばかり⌇拙著『栞をはさむように休めばいい』⌇うつ病 • 適応障害 • 思考の癖による生きづらさを抱える人のためのnote→https://t.co/vbWFUi7Usr ⌇なんてことない哲学と思想→https://t.co/BjaB9YN0Oj",
+    "protected": false,
+    "verified": true,
+    "followers_count": 65471,
+    "friends_count": 597,
+    "listed_count": 206,
+    "favourites_count": 35417,
+    "statuses_count": 7382,
+    "created_at": "2024-02-21T04:42:38.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1760163050064408576/1767174198",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1896381703884509184/z4g-5pDc_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 115,
+  "reply_count": 7,
+  "retweet_count": 638,
+  "favorite_count": 5757,
+  "views_count": 2094844,
+  "bookmark_count": 7203,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040366369112485888",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/5FTlx4jO6w"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T10:28:21.000000Z",
+    "id": 2040375917818868000,
+    "id_str": "2040375917818867939",
+    "title": "先延ばし癖だけでも苦しいのに、完璧主義まで持っている人がやりがちな「最初の一手」",
+    "preview_text": "「やらなきゃ」と思いながら、スマホを触っている。\n締め切りが近づいているし、自己嫌悪にもうすでに陥っているのに、やるべきことに手をつけることができない。",
+    "cover_url": "https://pbs.twimg.com/media/HFDW3Fvb0AAjlIV.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "alq0i",
+          "text": "「やらなきゃ」と思いながら、スマホを触っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "sol1",
+          "text": "締め切りが近づいているし、自己嫌悪にもうすでに陥っているのに、やるべきことに手をつけることができない。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fv825",
+          "text": "気づけば夜で、また何もできなかった自分にひどく落胆する。それを私は、何度繰り返しただろうか。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "h2fh",
+          "text": "先延ばし癖がある人が、よくやる「最初の一手」がある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "ftp1n",
+          "text": "それは、「とりあえずやってみよう」 と思うことだ。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 23,
+              "style": "Bold"
+            }
+          ],
+          "key": "3epav",
+          "text": "作業興奮という現象がある。気乗りしない作業でも「とりあえず5分」動くことで、脳が刺激され、ドーパミンが分泌。集中力が高まるという仕組みだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brmge",
+          "text": "この理論はわかる。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "8ochq",
+          "text": "ただ——その5分ができなくて苦しい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9mgvm",
+          "text": "そんな人も多いのではないだろうか。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsbi4",
+          "text": "やろうと思っても、失敗が怖い。すべてを理解してから始めたい。どうせやるなら完璧にやりたい。だから「とりあえず」が、どうしても「とりあえず」にならない。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "41qn6",
+          "text": "先延ばし癖と完璧主義。どちらか一方だけでも厄介なのに、この2つが絡み合うと、抜け出しにくい悪循環が生まれる。動き出す燃料がたまるのは、納期直前のみ。そこで血眼になってやり遂げようとするが、時間が足りず完璧にできなくて絶望する——そんなシーンが、人生に多すぎやしないだろうか。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "drivc",
+          "text": "ただ私は、この悪循環を突破する方法を現在は携えている。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7bq9t",
+          "text": "抜け出せたきっかけは、「とりあえずやってみること」ではなかった。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "amd6e",
+          "text": "「完璧以外の目的」を持つこと だった。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4c11g",
+          "text": "「うまくやること」をゴールにすると、しんどい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "duqjk",
+          "text": "だから代わりに「なんのためにやるか」を想像するようにした。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29sai",
+          "text": "すると気づいた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "at5hu",
+          "text": "実は求められていないものが、たくさんあった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5i0q",
+          "text": "たとえば仕事のメールで、相手が知りたいのは「可否」だけなのに、私は完璧な文章、丁寧な前置き、配慮の言葉——すべてを揃えようとしていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31g06",
+          "text": "「全部やらなきゃ」という思い込みが、返信を重くし、先延ばしを深めていた。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 49,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "30pam",
+          "text": "完璧主義を手放せたのは、意志が強くなったからではない。「降ろしていい荷物」に気づいたからだ。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "emn8i",
+          "text": "他にも、たとえばnoteを書こうと思ったとき。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5n0gv",
+          "text": "完璧な記事を書こうとするのではなく",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fikbl",
+          "text": "・アウトプット習慣にしよう\n・自分の感じていることを整理する手段にしよう\n・自分の成長や変化を記録。振り返りツールとして利用しよう\n・共感やつながりを生むためのコミュニケーション手段にしよう\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jgj8",
+          "text": "完璧以外の目的を持つことが、私の一歩目を軽くしてくれた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "6rrl3",
+          "text": "そこで着手し、やり切るという小さな積み重ねが「完了できる自分」というイメージをつくる。すると、次の一歩もまた出やすくなる。\n\n完璧主義から、完了主義になれるといい。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7j54a",
+          "text": "とはいえ、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "67ulf",
+          "text": "目的を変えたところで「やっぱり手がつかない」という状態はあるかもしれない。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 18,
+              "style": "Bold"
+            }
+          ],
+          "key": "8n253",
+          "text": "そんなときに有効だったことを私なりに3つ紹介したい。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3do4n",
+          "text": "①やるべきこと“以外で”、小さな変化を起こしてみる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fns76",
+          "text": "\nやるべきことから、思い切って一旦目を逸らしてみる。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9078i",
+          "text": "そこで何か“小さな変化”を起こしてみる。\n\n\nたとえば、机の配置を変えてみる。朝のコーヒーを紅茶にしてみる。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 40,
+              "style": "Bold"
+            }
+          ],
+          "key": "66cid",
+          "text": "一見、やるべきこととは無関係の行為だ。でも、その小さな変化の中で、私は久しぶりに「自分が何かを決めた」という感覚を取り戻せた。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2iaok",
+          "text": "先延ばしの本質は、怠惰ではなく",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8uji4",
+          "text": "「自分には何も変えられない」という無力感の堆積かもしれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fs1oe",
+          "text": "つまり解決策は「やる気を出すこと」ではなく「小さくても自分で何かを変えること」だと私は考えている。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2hs02",
+          "text": "②今の気持ちを声に出す",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7qej1",
+          "text": "\n明るい知人に相談したとき、こう教えてくれた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "69bru",
+          "text": "「やるべきことに手がつかなくなったら、大きく発声してます。そしたらノリでいけます！」\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d3g54",
+          "text": "最初は笑ったが、とても取り入れやすいものだった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "7mkde",
+          "text": "つまりこれは、やり始める前に、自分なりの「スイッチとなる行動」を持っておく、ということだ。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6vhou",
+          "text": "たとえば、先ほどの声を出すという方法。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 31,
+              "style": "Bold"
+            }
+          ],
+          "key": "6f6m6",
+          "text": "それ以外にも、散歩をする、日記を書く、掃除から始める。あるいは今の自分の気持ちをAIに聞いてもらう。そういったものをルーティン化すれば、思った以上に動き出しを変えてくれる。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8lfe8",
+          "text": "③場所を変える——脳は怠ける場所を覚えている",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajbmk",
+          "text": "\nあるときカウンセラーさんに言われた言葉が、今でも私の中で残っている。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d64v",
+          "text": "「場所と行動を、脳がセットで覚えているだけで、あなたは弱くない」\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80h9c",
+          "text": "同じ場所にいると、行動は良くも悪くも固定されてしまう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "bn7b7",
+          "text": "そこで、カフェに行く、知らない駅で降りてみる——そうして「景色を変える」という意識を持つだけで、脳のパターンはほぐれていく。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fita2",
+          "text": "先延ばし癖がある人に足りないのは、やる気でも意志力でもない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 16,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "8p334",
+          "text": "「完璧じゃなくていい理由」と、「動き出すための小さなきっかけ」だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2neir",
+          "text": "この記事を書きながら、私もまた、一つ完了できた。あなたにも、今日一つ、完了できるものがあることを願っている。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 51,
+              "offset": 7
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f9qvs",
+          "text": "【関連記事】\n仕事や生活の中で数多ある「すぐにやった方がいいこと」をすぐにやれず、溜め込み、自己嫌悪が止まらない方へ",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://note.com/tsumugi_utatabi/n/n32ef311a6869?app_launch=false"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

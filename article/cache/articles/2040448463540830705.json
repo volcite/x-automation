@@ -1,0 +1,803 @@
+{
+  "tweet_created_at": "2026-04-04T15:16:38.000000Z",
+  "id": 2040448463540830700,
+  "id_str": "2040448463540830705",
+  "type": "tweet",
+  "conversation_id_str": "2040448463540830705",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/lFeYmFLe32",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 256825519,
+    "id_str": "256825519",
+    "name": "Nick Spisak",
+    "screen_name": "NickSpisak_",
+    "location": "Join Build With AI 👉",
+    "url": "https://www.skool.com/buildwithai/about",
+    "description": "| AI Transformation Engineer\n| Seven Figure E-Commerce Business Owner",
+    "protected": false,
+    "verified": true,
+    "followers_count": 13718,
+    "friends_count": 779,
+    "listed_count": 170,
+    "favourites_count": 5644,
+    "statuses_count": 5525,
+    "created_at": "2011-02-24T04:21:08.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/256825519/1769359219",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1614514579098275840/6dgPShU3_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 101,
+  "reply_count": 88,
+  "retweet_count": 596,
+  "favorite_count": 4792,
+  "views_count": 2114134,
+  "bookmark_count": 15291,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040440595642994688",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/lFeYmFLe32"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T15:16:37.000000Z",
+    "id": 2040448463540830700,
+    "id_str": "2040448463540830705",
+    "title": "How to Build Your Second Brain",
+    "preview_text": "@karpathy  dropped a post describing how he uses AI to build personal knowledge bases.\nThe idea is simple: instead of keeping notes scattered across apps, you dump everything into one folder. Then you",
+    "cover_url": "https://pbs.twimg.com/media/HFEgzdzaMAAsz3P.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 0,
+                "text": "karpathy",
+                "toIndex": 9
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5uf4",
+          "text": "@karpathy  dropped a post describing how he uses AI to build personal knowledge bases.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dpvp7",
+          "text": "The idea is simple: instead of keeping notes scattered across apps, you dump everything into one folder. Then you tell your AI to organize all of it into a personal wiki - summaries, connections, articles - that gets smarter every time you use it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9ipb",
+          "text": "No special software. No database. Just folders and text files.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4152r",
+          "text": "In under 7 minutes you'll learn:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dm9ng",
+          "text": "The exact folder structure to set up (takes 2 minutes)",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fl1gf",
+          "text": "How to automate web scraping into your knowledge base with one CLI tool",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "blol1",
+          "text": "The one-file \"schema\" that makes the whole system work",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7kha",
+          "text": "How to get your AI to compile raw notes into an organized wiki",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ogft",
+          "text": "The compounding trick that makes it smarter every time you use it",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cn3h",
+          "text": "The health check that catches mistakes before they pile up",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 7,
+                "text": "NickSpisak_",
+                "toIndex": 19
+              }
+            ],
+            "urls": [
+              {
+                "fromIndex": 194,
+                "text": "https://return-my-time.kit.com/286e11f7e6",
+                "toIndex": 235
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7qrm7",
+          "text": "Follow @NickSpisak_ for practitioner-level AI implementation and Claude Code architecture content. \n\nWant the skill that builds this system for you? Grab the free LLM Knowledge Base skill here: https://return-my-time.kit.com/286e11f7e6",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ml0a",
+          "text": "Alright let's get started...",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "91fjg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1bc74",
+          "text": "1. Create Three Folders (2 Minutes)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2mqbp",
+          "text": "Open your terminal or file explorer. Create a project folder anywhere on your computer. Inside it, create three subfolders:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9lfnh",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 38,
+                "text": "karpathy",
+                "toIndex": 47
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bk347",
+          "text": "That's it. This is the same structure @karpathy  uses. The raw/ folder is your junk drawer of source material. The wiki/ folder is where the AI turns that mess into something organized. The outputs/ folder is where answers to your questions live.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1htum",
+          "text": "No apps to install. No accounts to create. Three folders.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fmdgc",
+          "text": "2. Fill Your Raw Folder (10 Minutes)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bamlu",
+          "text": "This is where most people stall. They create the folders and then stare at an empty raw/ directory wondering what to put in it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "catc5",
+          "text": "The answer: everything. Copy-paste articles into .md or .txt files. Save screenshots or diagrams as images. Export notes from whatever app you use now. Paste in meeting notes, research papers, project docs. Dump in bookmarks you've been hoarding for months.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6uus",
+          "text": "Don't organize it. Don't rename anything. Don't clean it up. That's the AI's job.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bba7f",
+          "text": "I keep 17 raw source files across my X content pipeline - clipped articles, competitor breakdowns, analytics reports. None of it is organized by hand.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dk9ls",
+          "text": "But Karpathy didn't mention the part that actually speeds this up: automated collection.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1b4dh",
+          "text": "3. Automate Source Collection With Agent Browser (Optional But Powerful)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6cqke",
+          "text": "Vercel Labs just shipped agent-browser - a free CLI tool that lets your AI agent control a real browser. 26K+ GitHub stars. Two commands to install:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f5roj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9l03a",
+          "text": "That second command downloads a dedicated Chrome browser. Now your AI can scrape any webpage, extract the text, and save it directly into your raw/ folder.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bleub",
+          "text": "Here's what that looks like in practice:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "96lqb",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d4jlq",
+          "text": "That's it. The AI opens the page, grabs the article text, and you pipe it into a file in raw/. No manual copy-paste. No browser extensions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2v42f",
+          "text": "Agent-browser handles pages that copy-paste can't touch. JavaScript-heavy sites that load content dynamically. Pages behind logins. Research papers with interactive figures. Anything that requires scrolling, clicking \"load more,\" or navigating through menus before the content appears.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1v659",
+          "text": "The tool uses 82% fewer tokens than Playwright MCP, which means your AI agent can scrape 5-6x more pages within the same session. I use it to pull competitor articles, trending threads, and research docs directly into my pipeline without ever opening a browser myself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96n0d",
+          "text": "For your knowledge base, the workflow is simple: find an article you want, tell your AI \"scrape this URL and save it to raw/\", and agent-browser handles the rest. Your raw/ folder fills itself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvqgj",
+          "text": "4. Write Your Schema File (5 Minutes)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ad5d1",
+          "text": "This is the part most people will skip. Don't.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69m5g",
+          "text": "Create a file in the root of your project called CLAUDE.md (or AGENTS.md or README.md - the name doesn't matter, the content does). This file tells your AI what the knowledge base is about and how to organize it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8fshh",
+          "text": "Here's a starter template you can copy right now:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "slt9",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 0,
+                "text": "karpathy",
+                "toIndex": 9
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6e4nl",
+          "text": "@karpathy  confirmed he keeps his schema \"super simple and flat\" in an AGENTS.md file. No database. No plugin. Just a text file that tells the AI the rules.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjn1j",
+          "text": "This is the equivalent of what I use CLAUDE.md for across every project. It's the AI's instruction manual for your specific knowledge base.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "br9jc",
+          "text": "5. Tell Your AI to Compile the Wiki (15 Minutes)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evmvq",
+          "text": "Open Claude Code (or Cursor, or any AI coding tool that can read your files). Point it at your project folder and say:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ca03t",
+          "text": "\"Read everything in raw/. Then compile a wiki in wiki/ following the rules in CLAUDE.md. Create an INDEX.md first, then create one .md file per major topic. Link related topics. Summarize every source.\"",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3esm",
+          "text": "Then step away. Let it work.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2m1f",
+          "text": "When it's done, you'll have a wiki/ folder full of organized articles - connections you didn't see, summaries of things you forgot you saved, and an index file that makes everything searchable in seconds.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "22bqh",
+          "text": "The important thing: you don't edit the wiki by hand. That's the AI's job. You read it, you ask questions against it, and the AI keeps it updated.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mb3k",
+          "text": "6. Ask Questions and Save the Answers (Ongoing)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4s6np",
+          "text": "Once your wiki has 10+ articles, start asking questions:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9084a",
+          "text": "\"Based on everything in wiki/, what are the three biggest gaps in my understanding of [topic]?\"",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "vuuo",
+          "text": "\"Compare what source A says about [concept] vs what source B says. Where do they disagree?\"",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cu887",
+          "text": "\"Write me a 500-word briefing on [topic] using only what's in this knowledge base.\"",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2fvn",
+          "text": "The AI reads across your entire wiki and gives you answers grounded in your own collected material.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b14nv",
+          "text": "Save those answers back into the knowledge base. Drop the output into outputs/ or have the AI update the relevant wiki article with the new insight. Every question makes the next answer better. That's the loop.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fehhl",
+          "text": "7. Run a Health Check (Monthly)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "67gs6",
+          "text": "Tell your AI:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86tu",
+          "text": "\"Review the entire wiki/ directory. Flag any contradictions between articles. Find topics mentioned but never explained. List any claims that aren't backed by a source in raw/. Suggest 3 new articles that would fill gaps.\"",
+          "type": "blockquote"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 53,
+                "text": "HFloyd",
+                "toIndex": 60
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aho12",
+          "text": "One of the best replies to Karpathy's post came from @HFloyd : \"When outputs get filed back, errors compound too.\" That's real. If the AI writes something slightly wrong and you save it back, the next answer builds on that wrong thing.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9snq",
+          "text": "The fix is simple: run periodic health checks. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "951u8",
+          "text": "8. You Don't Need Obsidian (But You Can Use It)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8a16",
+          "text": "Half the replies to Karpathy's post were people pitching Obsidian plugins. Lex Fridman uses Obsidian + Cursor. There are already three startups building dedicated tools for this.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cdlkl",
+          "text": "But here's what Karpathy actually said when someone asked about his setup: \"I'm trying to keep it super simple and flat. It's just a nested directory of .md files.\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "amu6t",
+          "text": "A folder of text files and a schema file is the entire product.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69vtp",
+          "text": "I run my whole knowledge system from the terminal with Claude Code. You could use VS Code. You could use Obsidian. You could use Notepad. The AI doesn't care what app you open the files in. What matters is the folder structure and the schema.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29pp6",
+          "text": "Obsidian with 47 plugins is the Notion trap all over again. You spend more time configuring the tool than using the knowledge base. Flat files and a good schema will outperform a fancy tool stack 90% of the time. I've watched it happen across dozens of client setups.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbo8q",
+          "text": "Stop shopping for the perfect tool. Start building.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "80ft5",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1grtg",
+          "text": "That's the full system. Three folders, one schema file, a browser scraper, and an AI that maintains everything.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5cqar",
+          "text": "41K people bookmarked Karpathy's post. The difference between bookmarking it and benefiting from it is one weekend of setup.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3t6up",
+          "text": "Pick your topic. Create the folders. Drop in what you already have. Let the AI do the rest.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 118,
+                "text": "https://return-my-time.kit.com/286e11f7e6",
+                "toIndex": 159
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ovce",
+          "text": "Want to skip the manual setup? Grab the free LLM Knowledge Base skill that scaffolds the entire system in 60 seconds: https://return-my-time.kit.com/286e11f7e6",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n# Knowledge Base Schema\n\n## What This Is\nA personal knowledge base about [YOUR TOPIC].\n\n## How It's Organized\n- raw/ contains unprocessed source material. Never modify these files.\n- wiki/ contains the organized wiki. AI maintains this entirely.\n- outputs/ contains generated reports, answers, and analyses.\n\n## Wiki Rules\n- Every topic gets its own .md file in wiki/\n- Every wiki file starts with a one-paragraph summary\n- Link related topics to each other using [[topic-name]] format\n- Maintain an INDEX.md in wiki/ that lists every topic with a one-line description\n- When new raw sources are added, update the relevant wiki articles\n\n## My Interests\n[List 3-5 things you want this knowledge base to focus on]\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "markdown": "```\nmy-knowledge-base/\n  raw/          (your source material - articles, notes, screenshots)\n  wiki/         (where your AI will write the organized version)\n  outputs/      (answers, reports, and research your AI generates)\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "markdown": "```\nnpm install -g agent-browser\nagent-browser install\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "markdown": "```\nagent-browser open https://some-article-you-want.com\nagent-browser get text \"article\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

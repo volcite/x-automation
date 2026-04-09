@@ -1,0 +1,681 @@
+{
+  "tweet_created_at": "2026-04-03T22:55:39.000000Z",
+  "id": 2040201591299748000,
+  "id_str": "2040201591299748196",
+  "type": "tweet",
+  "conversation_id_str": "2040201591299748196",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/xZVmPtrI7F",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1082927252113748000,
+    "id_str": "1082927252113747968",
+    "name": "もとやま",
+    "screen_name": "ysk_motoyama",
+    "location": "自由気ままな働き方note「シゴデキ部屋」はこちら👇",
+    "url": "https://note.com/yusuke_motoyama/membership",
+    "description": "1人社長兼会社員の「自由気ままな働き方」を発信｜著書『投資としての読書』『仕事ができる人のキリの悪い時間の使い方』｜生成AIとかコンテンツマーケとかDXが得意｜株式会社Shikumu代表｜グロービス講師｜元PwCコンサルタント｜Globis MBA←慶應商｜福岡住み｜お問い合わせはDMまで",
+    "protected": false,
+    "verified": true,
+    "followers_count": 78405,
+    "friends_count": 126,
+    "listed_count": 453,
+    "favourites_count": 8145,
+    "statuses_count": 11862,
+    "created_at": "2019-01-09T09:09:11.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082927252113747968/1770467005",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490283922475057152/3AtJmWNQ_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 65,
+  "reply_count": 11,
+  "retweet_count": 96,
+  "favorite_count": 1405,
+  "views_count": 440707,
+  "bookmark_count": 1443,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040194212961071104",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/xZVmPtrI7F"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T22:55:39.000000Z",
+    "id": 2040201591299748000,
+    "id_str": "2040201591299748196",
+    "title": "議事録を書くとツヨツヨになれる",
+    "preview_text": "タイトルを見て\n「議事録って下っ端の仕事でしょ」\n「てか、議事録はAIが書けばよくね？」\n「まだ\"議事録を書くの大事\"とか言っている人いる。ぷっぷーw化石がいるぞw」",
+    "cover_url": "https://pbs.twimg.com/media/HFBAcmLawAArX7U.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d7lbk",
+          "text": "タイトルを見て\n「議事録って下っ端の仕事でしょ」\n「てか、議事録はAIが書けばよくね？」\n「まだ\"議事録を書くの大事\"とか言っている人いる。ぷっぷーw化石がいるぞw」\nと思われそうですが、でも議事録を人の手で書いてみませんか？\n・・・が、この記事で書いておきたいことです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "basl5",
+          "text": "そもそも何のために議事録が必要か？",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ds57o",
+          "text": "大きく3つです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "armro",
+          "text": "①ToDoを明確にして物事を前に進めるため\n会議で発生したToDoを関係者に周知する。これぞ議事録の醍醐味です。\n会議が終わって自席についたときに「で、私は何すればいいんだっけ？」と思わせてしまったらアウト。\nそうならないために、「いつまでに、誰が、何をやるのか」を誰の目から見ても明らかになるよう、議事録を書いて周知しきる。\nこれこそ、議事録の一丁目一番地です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a7v8f",
+          "text": "②決定事項の証跡を残すため\nこれも議事録の立派な役割です。\n会議で決まったことを明記しておかないと、後になって「それ言ったよね」「いや言ってないよね」…という水掛け論になりかねません。最悪、偉い人とかに決まったことをちゃぶ台返しされます。（まあ、議事録に書いていても、平気でちゃぶ台返ししてくる人もいますが、その対策は別の機会に）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "65ph9",
+          "text": "③会議の不参加者にも文脈を理解してもらうため\n会議に参加していない人にも、決定事項に至った経緯や議論の流れを理解してもらう。これも議事録の大事な役割です。\n議事録に決定事項とToDoしか書かれていないと、「え、なぜに、その結論になったん？」と、不参加者からすると「取り残された感」を抱いてしまいます。\n「取り残された感」ってのは厄介で、少しずつ関係者のモチベーションを蝕んでいきます。\nしたがい、会議の「文脈」も議事録に残すことで「不参加者にもフレンドリーな議事録」にしてあげられるとGoodです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6g3hj",
+          "text": "生成AIがあるのに、人間が議事録を書く意味は何なのよ？",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aobia",
+          "text": "「いまや議事録は生成AIが書いてくれるので、人間が議事録を書く意味はないよね」みたいな話を見聞きします。\nただ、会議を毎日やっている身からすると、人力で議事録をリアルタイムで書きながら会議を回した方が、効率いいよなーという感覚値です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arbog",
+          "text": "会議中にリアルタイムで議事録を書きながら、ファシリテーションをする。\nそのメリットは、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "337js",
+          "text": "論点からブレることなく議論を進行しやすい\n会議が終わるまでにどの論点に決着をつける必要があって、今はどの論点を話しているか、会議の現在地を示しながら進行できる",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "17pkj",
+          "text": "認識のズレを無くしやすい\n「○○さんの発言は、こういう理解で合っていますか？」と理解を確かめながら議事録を書いていくので、参加者の認識ズレを防ぎやすい",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6emsq",
+          "text": "ToDoと決定事項を明確に握りやすい\nリアルタイムで議事録を書くことで「このToDoは～さん担当で、いつまでに、このアウトプットで仕上げてくださいね」「この決定事項は、こう決まったという理解でいいですよね」とToDoや決定事項を具体的に定義をしながら会議を進行できる",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4num5",
+          "text": "もちろん、会議の参加者全員が\n「今日の会議の論点はこれとこれで、現在はこの論点までケリがついているな」\n「ToDoと決定事項を決め切るぞ」\n…というマインドで議論していれば、生成AIに議事録を取ってもらっても、ちゃんと論点に沿った綺麗で具体的な議事録に仕上がるでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9u072",
+          "text": "ただ、生成AIが書いてくれるのは、あくまで「発言録」なんですよね。\n何を話したかは正確に記録してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tfot",
+          "text": "ただ、\n・何を話すべきか、論点は何か？\n・決定事項やToDoは決まりきったのか？\n・この発言の意味をちゃんと理解するためにも、追加で質問をしたほうがいいのではないか？\n…みたいなところまでは、AIは考えてくれません。\n何が何でもToDoを決め切るぞ、そんで議事録に残すぞ！みたいなことも、AIは面倒を見てくれないわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "65vgq",
+          "text": "もちろんAIがファシリまでやりはじめたら話は別なのですが、\n今のところは「人間がファシリテーションをしながら議事録を取るスタイル」が何だかんだ会議が捗るなーという現場感です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9pg2",
+          "text": "あと、議事録を書きまくると、ツヨツヨになれます",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f39ao",
+          "text": "それに、議事録を人力で書きまくると、結構わりとツヨツヨになれます。\nというのも、議事録を書く行為は基礎的なスキルセットとマインドセットの総合格闘技だからです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3s47n",
+          "text": "で、議事録を書いていると、どんな能力が身につくかというと、特に大きいやつだと5つありまして",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5v9m4",
+          "text": "①文章力",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsq9u",
+          "text": "議事録を読んだとき、最初に透けて見えるのは「文章力」です。\n文章力が酷い人が書いた議事録を読むと「何度読み直しても、頭に入ってこない」「一文が長すぎて、読む気が失せる」と思わずにはいられない。\n文章力がないと、議事録を最後まで読んでもらうことすらできない。それくらい、厳しい世界なのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "kt81",
+          "text": "一方で、努力さえすれば、文章力は伸ばせるスキルです。\nシゴデキな先輩が身近にいらっしゃるなら、「僕の議事録をぎったぎたのめっためたに赤入れしてください。どうかお願いします！」と懇願して、修業に付き合ってもらうのが一番近道かと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "43u5o",
+          "text": "②構造化力",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5tlj8",
+          "text": "読みやすい文章が書けても、議事録の「構造」がめちゃくちゃだと、読み手は迷子になってしまいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bce8j",
+          "text": "例えば、会議の流れをそのままメモしただけの議事録。\n発言順に書いてあるだけで「今、何の話をしているのか」がさっぱりわかりません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "791gm",
+          "text": "そうならないために、議事録を書くときは「会議の構造」を示してあげる必要があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1s34o",
+          "text": "会議の全体像を示すこと",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c3lhf",
+          "text": "全体像における、各論点の位置づけを示すこと",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1736l",
+          "text": "この構造化がないと、「今、何の話をしているのか」がさっぱりわからなくなる。そうならないためにも、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qmii",
+          "text": "人の話をしているのか、カネの話をしているのか、モノの話をしているのか",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fsim",
+          "text": "仕組みの話をしているのか、文化の話をしているのか",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esche",
+          "text": "聞き手の話をしているのか、話し手の話をしているのか",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6vb39",
+          "text": "戦略の話をしているのか、実行の話をしているのか",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "986ot",
+          "text": "このように、構造を示してあげる必要があります。\n議事録を書くということは、構造化をするということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31ln2",
+          "text": "ちなみに、みんな大好き構造化のやり方は、↓の記事にまとめています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4fh0f",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2dpk8",
+          "text": "③話の理解度・キャッチアップ力",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8sg6m",
+          "text": "「文章力と構造化力があれば、余裕で議事録なんて書けるっしょ。高学歴なめんなよ」と思った方。ちょっと待ってください。まだあるんですよ、注意点が。「専門用語」「専門知識」に足元をすくわれないよう、気を付けてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4jfa3",
+          "text": "英語でも、文法や構文がわかっていても、単語の意味がわからないと文章が読み解けないこと、あるじゃないですか。\n主語が何で述語が何かはわかるけど、述語の意味がさっぱりわからない。\nそういう「？」が積み重なると、とたんに議事録は書けなくなります。\nなので、一瞬でもわからない用語が出てきたら",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8fo1n",
+          "text": "まず、自分で単語の意味を調べる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fjh0",
+          "text": "Webや社内イントラで10分調べてもわからなければ、人に聞く",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48fp2",
+          "text": "この動作を徹底すべきです。\nそうやって会議に3回くらい参加していると、社内用語や業界用語の6割くらいは理解できるようになります。\n6割意味がわかっていれば、初見の用語が出ても、ある程度推論できるようになります。\nそれに「わからないことを、ちゃんと周りに聞く」が徹底できていれば、周囲の人とも「わからないことがあれば、気軽に聞きに行ける関係性」も出来上がっているはず。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63n56",
+          "text": "④会議への当事者意識",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3hrsq",
+          "text": "実は、議事録の良し悪しを大きく左右するのは「会議への当事者意識」だったりします。\n「この会議で何かしらの価値を提供しなきゃ」\n「この会議で自分が参加する意味は何なのか」\n・・・こういったことを自問自答している人が書いた議事録と、そうでない人が書いた議事録は、何となく見分けがつくものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqdoe",
+          "text": "例えば、誰がToDoを持つのか曖昧なシーン、決まったのかどうかわかりづらい発言があるシーンって、よく見かけるじゃないですか。\n「確かに、〇〇をこのタイミングでやっておくのは大事だよね、私もそう思うよ」「ですよね。それで、次の議題なのですが」みたいなやりとりって、結構あります。そのときに「いや待って。〇〇は結局やるの？やるとして、誰がいつまでにやるん？」と嚙みつけるかどうかが、議事録の品質を左右します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c438s",
+          "text": "当事者意識が高い人は、「何がなんでも物事を決め切りたい」「議論の内容を曖昧にしたくない」という想いが滲み出ているものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "16bs4",
+          "text": "逆に、当事者意識の低い人が書いた議事録は「決まっていそうで決まっていないことが散見される」「どっちともとれる曖昧な記述が残っている」というケースが散見されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40do3",
+          "text": "⑤仕事のスピード",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77gvg",
+          "text": "議事録をお願いされたときは、仕事のスピードがいかほどか試されていると思ったほうがいいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77led",
+          "text": "仕事が速い人は、会議が終わると同時に議事録の初版が出来上がっている。なので、会議終了後5分以内に「議事録の確認をお願いします」という連絡\nが、会議の参加者全員に飛んでいる。\nほんと、これくらいのスピード感なんですよ。\nこのスピード感で仕事を進めてくれる人は「何だかこの人仕事できそうだし、信用できるな」と思いますよね。\n「会議が終わって何分後に議事録が出来上がるか」は、誰も見ていないようで、実はあなたの仕事の印象を大きく左右します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bf7gk",
+          "text": "・・・ってことで、人間議事録、個人的にはまだまだ色あせていないというか、オススメです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "coj67",
+          "text": "ちなみに「リアルタイムで議事録を書く方法」については、以下のnoteに詳しく書いていますので、よろしければ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 23,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "trsi",
+          "text": "note：【秘伝技】リアルタイム議事録の書き方",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2f0na",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ft535",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "tweetId": "2016129312433606678"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://note.com/yusuke_motoyama/n/n8d7252ee7bee"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "c7ef9562-d9c5-49d8-bef3-77804718cbdb",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040199578327343104"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFA+tQEaYAAKAAIPB1SZI9RwAAAA",
+        "media_id": "2040199578327343104",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 94.3,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 2.78,
+                "rgb": {
+                  "blue": 127,
+                  "green": 127,
+                  "red": 127
+                }
+              },
+              {
+                "percentage": 1.59,
+                "rgb": {
+                  "blue": 248,
+                  "green": 181,
+                  "red": 170
+                }
+              },
+              {
+                "percentage": 0.93,
+                "rgb": {
+                  "blue": 248,
+                  "green": 130,
+                  "red": 114
+                }
+              },
+              {
+                "percentage": 0.3,
+                "rgb": {
+                  "blue": 250,
+                  "green": 93,
+                  "red": 73
+                }
+              }
+            ]
+          },
+          "original_img_height": 670,
+          "original_img_url": "https://pbs.twimg.com/media/HFA-tQEaYAAVIhE.jpg",
+          "original_img_width": 1280
+        },
+        "media_key": "3_2040199578327343104"
+      }
+    ]
+  }
+}

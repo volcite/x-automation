@@ -1,0 +1,311 @@
+{
+  "tweet_created_at": "2026-04-03T04:34:52.000000Z",
+  "id": 2039924570690650600,
+  "id_str": "2039924570690650600",
+  "type": "tweet",
+  "conversation_id_str": "2039924570690650600",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/e9f8pqXMZP",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1654332441010774000,
+    "id_str": "1654332441010774019",
+    "name": "Bitcoin.不求人",
+    "screen_name": "btcbqr",
+    "location": "唯一TG：btcbqr👉",
+    "url": "https://t.me/btcbqr",
+    "description": "全职炒币9年，20年牛市2万本金打到A7，没有套路，主打免费课程免费进群，每天分享交易知识带你穿越牛熊！",
+    "protected": false,
+    "verified": true,
+    "followers_count": 66680,
+    "friends_count": 971,
+    "listed_count": 309,
+    "favourites_count": 28371,
+    "statuses_count": 16224,
+    "created_at": "2023-05-05T03:49:35.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1654332441010774019/1707121679",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1755778120819564544/VN-W-jMH_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 8,
+  "reply_count": 52,
+  "retweet_count": 264,
+  "favorite_count": 1245,
+  "views_count": 649858,
+  "bookmark_count": 1785,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039921346248097792",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/e9f8pqXMZP"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T04:34:52.000000Z",
+    "id": 2039924570690650600,
+    "id_str": "2039924570690650600",
+    "title": "为什么强烈建议长湿疹的人都去调节蛋白酶活性？",
+    "preview_text": "《皮肤学杂志》早已证实：绝大多数湿疹反复发作、痒到睡不着的人，不是因为皮肤太干，而是因为你皮肤里的蛋白酶活性异常升高！\n我就是通过调节蛋白酶活性，把顽固湿疹治好了。\n整个过程不用激素，成本还很低。",
+    "cover_url": "https://pbs.twimg.com/media/HE9Dp-lbsAA5o_8.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6bs5",
+          "text": "《皮肤学杂志》早已证实：绝大多数湿疹反复发作、痒到睡不着的人，不是因为皮肤太干，而是因为你皮肤里的蛋白酶活性异常升高！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cf3oj",
+          "text": "我就是通过调节蛋白酶活性，把顽固湿疹治好了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "885qg",
+          "text": "整个过程不用激素，成本还很低。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cb7is",
+          "text": "我是上了大学开始住宿舍，洗澡频繁、熬夜压力大，四肢窝和脖子后面开始出现红斑、脱屑。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "62esk",
+          "text": "最严重的时候晚上痒得根本睡不着，抓得血肉模糊...",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dm296",
+          "text": "一开始自己买了好几种湿疹膏，试过的朋友应该都知道，激素药膏一抹就消，一停就炸，反弹得比原来还猛。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7b2fd",
+          "text": "我也是反复失败了好几次才长记性，终止了试错。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dipkk",
+          "text": "最后还是靠自己啃皮肤科文献，搞懂了湿疹发作的原理（好歹也是学生物的，看文献还是有点底子），才真正稳定下来。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3enuc",
+          "text": "在《科学》子刊发布的一篇研究中，揭示了湿疹和蛋白酶的关系：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3fu",
+          "text": "简单来说，湿疹患者的皮肤里，KLK5和KLK7这类丝氨酸蛋白酶的活性会异常升高。它们一旦高了，就会开始疯狂降解皮肤屏障的关键蛋白质（比如聚角蛋白微丝），同时激活一种叫\"PAR-2\"的受体。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31t29",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aoaj6",
+          "text": "结果就是：皮肤砖墙被拆得千疮百孔，锁不住水，外界的细菌、灰尘嗖嗖往里钻，瘙痒信号被无限放大，炎症就这么没完没了地反复发作。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5btps",
+          "text": "关键蛋白酶还会影响另外两件事：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "v3t4",
+          "text": "第一，脂质加工酶被降解。 脂质是皮肤的水泥，没了水泥，砖墙全是缝隙，水分疯狂流失，皮肤干到起皮。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85i6t",
+          "text": "第二，抗菌肽被破坏。 没了保安，金黄色葡萄球菌这些坏东西在皮肤上开派对，加重感染和炎症。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fosqt",
+          "text": "所以，你想搞定湿疹，不是单纯抹猪油一样的保湿膏糊住表面，最快的方法就是通过抑制过度活跃的蛋白酶活性，从源头阻断它对皮肤屏障的破坏，并安抚那个让你痒到发狂的PAR-2受体。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1l83n",
+          "text": "这也是皮肤科研组较为推荐的调理思路，其中提到最多的两个作用成分就是红没药醇和甘草次酸。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1o5g",
+          "text": "一个负责安抚PAR-2受体，直接切断\"痒-挠-更痒\"的恶性循环，同时降低炎症因子释放；",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cc9fh",
+          "text": "一个负责抑制蛋白酶的过度活跃，保护皮肤里的丝聚蛋白和脂质不被降解，把被拆散的砖墙重新稳住；",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b377",
+          "text": "两者协同不仅止住了痒，还从内部保护了皮肤的圈层结构，让屏障自己慢慢长结实。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3n4fj",
+          "text": "皮肤耐造了，湿疹自然就没机会反复发作，而非靠激素硬性压制。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9p182",
+          "text": "这些原理和成分比较直白，却是最有实质性效果的。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fnd9",
+          "text": "作为反复发作七八年的老湿疹患者，一开始涂的前5天其实没什么翻天覆地的变化，但作为生物生我太懂了，这是身体在给过度活跃的蛋白酶踩刹车，需要适应期。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brkqm",
+          "text": "一周后，你就能真切感受到晚上终于能睡个整觉了。不是红斑瞬间消失，而是那种从骨子里往外渗的痒感没了，不用把自己挠得血淋淋的。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tfph",
+          "text": "不存在激素那种一夜回春的假象，就是实打实地让你皮越来越厚实。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "114u1",
+          "text": "再往后，皮肤开始变得平滑，原来粗糙脱屑的地方摸上去软了，最后颜色也慢慢接近正常肤色。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "243dt",
+          "text": "总结下来就是，皮肤有自己的生态系统，我们要做的不是用激素去\"镇压\"它，而是按照它的逻辑走，哪里出bug修哪里，想要的结果就会自然而然达到。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d883m",
+          "text": "最后强调一下，太急躁的不适合这个，因为它不是那种强效激素立竿见影的压制效果，而是通过抑制过度活跃的蛋白酶活性，让皮肤屏障慢慢自己长回来，身体上会适应一到两周时间。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

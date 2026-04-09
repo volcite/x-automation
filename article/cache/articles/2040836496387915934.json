@@ -1,0 +1,663 @@
+{
+  "tweet_created_at": "2026-04-05T16:58:32.000000Z",
+  "id": 2040836496387916000,
+  "id_str": "2040836496387915934",
+  "type": "tweet",
+  "conversation_id_str": "2040836496387915934",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/PHMEzKh7qw",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1729117207878422500,
+    "id_str": "1729117207878422529",
+    "name": "ジュドー・ロウ",
+    "screen_name": "nagopine_zz",
+    "location": "",
+    "url": "https://concafe-mental-wars.fly.dev",
+    "description": "拙者、派手髪好き好き侍のコンカフェ通い\n今は代官山あたりに住んでいます\nコンカフェ接客訓練用シミュレーターを作りました\n#コンカフェメンタルウォーズ",
+    "protected": false,
+    "verified": true,
+    "followers_count": 1126,
+    "friends_count": 206,
+    "listed_count": 4,
+    "favourites_count": 13284,
+    "statuses_count": 2645,
+    "created_at": "2023-11-27T12:37:30.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1729117207878422529/1730102183",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1886774456363966466/kez0P-Ut_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 493,
+  "reply_count": 15,
+  "retweet_count": 899,
+  "favorite_count": 6919,
+  "views_count": 3017265,
+  "bookmark_count": 6720,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040821899492831232",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/PHMEzKh7qw"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T16:58:32.000000Z",
+    "id": 2040836496387916000,
+    "id_str": "2040836496387915934",
+    "title": "【コンカフェに3000万円使った男が語る】客にボトルを開けさせる方法",
+    "preview_text": "はじめに二つだけ、断っておく。",
+    "cover_url": "https://pbs.twimg.com/media/HFJ19yybIAAmaZw.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2iuiu",
+          "text": "はじめに二つだけ、断っておく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmcrg",
+          "text": "一つ。世の中には、エンジェルの1本や2本で枕を求める客や、それに応じてしまうキャストがいるらしい。本文では、そういった僕が出会ったことのない都市伝説みたいな人たちのことは考慮していない。 あくまでルール内の、健全なコンカフェ活動の話だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtopp",
+          "text": "もう一つ。僕は普段、カメラマンをしている。 ファインダー越しに人を見る仕事だから、「ステージに立つ人間」のプロ意識や所作に対する目は、たぶん同年代の客よりかなりうるさい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1pa53",
+          "text": "しかも、シャンパンが嫌いだ。 炭酸も甘い酒も苦手で、本音を言えば一生、水割りとテキーラだけで生きていたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94u1i",
+          "text": "つまり僕は、金を使わせるにはかなり面倒くさい部類の客である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jaol",
+          "text": "そんな人間に、なぜ3000万円もの金を使わせることができたのか。 今日書くのは、「手法」の解説であると同時に、僕自身の敗北の記録でもある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cra42",
+          "text": "簡単なおねだりの賞味期限は、もう終わっている",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8m5sa",
+          "text": "「ボトル入れて」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "j0cb",
+          "text": "この一言で何万円もするボトルを開けるほど、現代のオタクは素朴にできていない。少なくとも、僕はそうじゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bdmid",
+          "text": "可愛いだけなら、可愛い子はこの街の空気に溶けるほどいる。可愛さは、もはや希少資源ではない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2m7gh",
+          "text": "じゃあ何で開けるのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "vlfn",
+          "text": "振り返ると、僕がメニュー表に手を伸ばした瞬間には、いつも理屈では説明しにくい「圧」があった。敬意、衝動、見栄、意地。名前がつく前に、指が動いている。あれは判断ではなく、反射に近い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 21,
+              "style": "Bold"
+            }
+          ],
+          "key": "co0fo",
+          "text": "ボトルとは、喉の渇きを癒すものではない。 その子と僕の間に堆積した時間の、領収書だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cjp7",
+          "text": "結局、人間は勘定ではなく感情で財布を開く生き物らしい。 「高額ボトルなんて冷静に考えれば無理だ」と頭では分かっている。分かっていて開ける。理性とは、その程度のものだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bsbme",
+          "text": "僕がその理性を踏み倒された、いくつかの夜について書く。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55h2v",
+          "text": "① ある火曜日の夜、僕は共犯者になった",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c7daa",
+          "text": "その子は人気キャストだった。 いつも明るくて、フロア全体の照度が彼女を中心に上がるような子だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dkt8o",
+          "text": "ある火曜日、席に着いた僕に向ける彼女の表情が、いつもと少し違った。 笑ってはいる。でもどこか、考え事の途中を中断してきたような顔をしていた。 しばらく他愛のない話をしたあと、彼女はグラスをテーブルに置いて、声を半音だけ下げた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 62,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8o8io",
+          "text": "「ねえ、最近新規のお客さんとうまく話せなくて悩んでるんだけど……じゅどうさんから見て、私の接客ってどう直したらいいと思う？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7hnn",
+          "text": "終わった、と思った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b19av",
+          "text": "僕らみたいな面倒くさいオタクは、「育ての親」を演じたがる生き物だ。推しの成長曲線に、自分の指紋を残したい。 「客と店員」という境界線が引かれた空間で、「私をプロデュースしてほしい」という鍵を渡された瞬間、もう冷静ではいられない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ub16",
+          "text": "気づけば僕は、頼まれてもいないコンサルティングを始めていた。 「君の良さはその愛嬌だから、もっとそこを前に出した方がいい」なんて、偉そうに。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "876sm",
+          "text": "そうやって「育てる側」を自ら引き受けた時点で、退路は消えていた。 誰に頼まれたわけでもないのに、「これが俺の応援だ」と自分を納得させながら、ボトルを入れた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "am2n8",
+          "text": "彼女は「ボトルを開けて」とは一言も言っていない。ただ、僕を共犯者に仕立てただけだ。それで十分だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7qqm2",
+          "text": "【気づき①】客を消費者ではなく「当事者」に変える客は、ただの客でいる限り、そこまで大きくは動かない。でも「自分はこの子の物語に関わっている」と思った瞬間に財布が開く。「入れてほしい」ではなく、相談し、意見を求め、信頼の空気を渡す。人はモノにお金を払うより、自分の役割にお金を払う方が気持ちいい生き物なのだ。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89kgk",
+          "text": "② 完璧な鎧と、一言の亀裂",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fmhb",
+          "text": "僕がこの2年で一番金を使ったキャストの話をする。 彼女のすごさは、「しないこと」の精度にあった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4hd9m",
+          "text": "店内でスマホを触らない。ヘルプで他の席についても空気の温度を測り続ける。僕の地雷を完璧に地図化していて、その境界線を一ミリも踏まない。プライベートの生活感も、疲労の影も、こちら側には極力漏らさない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1prsi",
+          "text": "ただひたすらに「僕の推し」という役割を全うし続ける人だった。アイドルや声優と同じ水準で、虚構の誠実さを守り抜いていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aktnp",
+          "text": "そんな彼女のバースデーイベント。 連日の準備で疲労困憊のはずなのに、完璧な笑顔でフロアを回しきっていた。何十人もの客に同じ熱量で対応し、シャンパンコールをさばき、写真撮影をこなし続けていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bia6i",
+          "text": "そして僕の席に来た時、ほんの一瞬だけ、肩から力が抜けるのが見えた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dlbpn",
+          "text": "「じゅどうさんの顔見たら、なんかちょっとだけ安心しちゃった」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bogbt",
+          "text": "僕はシャンパンを開けた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1afts",
+          "text": "計算だったのだろうか。たぶん、そうだ。 でも、それは問題の本質ではない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 103,
+              "style": "Bold"
+            }
+          ],
+          "key": "8h2g2",
+          "text": "何ヶ月もかけて磨き上げた完璧な鎧に、たった一箇所だけ入った亀裂。あれは計算だろうが天然だろうが、同じ威力で心臓を貫く。 普段が100点の人間の99点は、普段が60点の人間の100点より、ずっと破壊力がある。精度の高い日常だけが、「例外」に意味を与えるのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6i0p9",
+          "text": "【気づき②】武器なのは「前提の上に置かれた」一瞬の弱さ売れていない子ほど、「しんどい」「頑張ってる」「助けて」を前に出しがちだ。でも、土台の信頼がない状態でそれをやられると、客側にはただ重い。武器なのは弱さそのものじゃない。「この子は普段ちゃんとしている」という前提の上に置かれた、一瞬の弱さだ。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5u93l",
+          "text": "③ コルクの写真",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8e8sm",
+          "text": "ボトルを入れた\"後\"のことも書いておく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1bdc",
+          "text": "売れない子ほど、ボトルが入ったその夜にすべてを回収しようとする。感謝を山盛りにして、時間を目一杯使って、その場で完結させる。 気持ちは分かる。でもそれだと、僕の中でボトルは「消費されたもの」として処理される。楽しかった。以上。それでは次がない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7kr1g",
+          "text": "あるキャストは違った。ボトルを入れた数日後、LINEが来た。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9o0q2",
+          "text": "「この前入れてくれたシャンパンのコルク、可愛くデコって部屋に飾ったよ！ 毎日これ見て頑張るね！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9g7u6",
+          "text": "添えられていたのは、自撮りではなく、丁寧にデコレーションされたコルクの写真だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "97ehv",
+          "text": "不覚にも、目頭が熱くなった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51bjd",
+          "text": "過去に支払った金が、「消えたもの」から「残っているもの」に変わった瞬間だった。僕がいない時間にも、あのコルクは彼女の部屋にある。僕の存在が、物質として残留している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "828k7",
+          "text": "次にこの子がイベントを打てば、僕はまたボトルを入れるだろう。もはや理屈の話ではなかった。そうしたい、と思ってしまったのだから仕方がない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a27dr",
+          "text": "【気づき③】「ありがとう」よりも「残っている」という事実客は「ありがとう」と言われたいわけじゃない。自分が払ったものが、その子の中にちゃんと残ったと感じたいのだ。形に残す、後日伝える、思い出を再提示する。ボトルを\"消費\"ではなく\"蓄積\"に変える動きが、次の一本を生む。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "166lt",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3a7i6",
+          "text": "喧嘩の後の一杯が、一番高くつく",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "hp5i",
+          "text": "ここまで書いてきたのは、いわば\"綺麗なやられ方\"だ。 でも、もう一つ書かなければならない。もっと泥臭くて、格好悪い話。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5qb6n",
+          "text": "喧嘩である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7dr9",
+          "text": "コンカフェに通い詰めれば、キャストとぶつかる日は必ず来る。 接客への不満、態度への苛立ち、期待と現実の落差。ある夜それが決壊して、「もう二度と行かない」と本気で思う瞬間がある。僕にも何度もあった。LINEをブロックしかけたこともあるし、本気で縁を切ろうとしたこともある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1mir",
+          "text": "でも、結局戻る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40bra",
+          "text": "理由は分かっている。コンコルド効果だ。 回収不能なコストに引きずられて、撤退すべきタイミングで撤退できなくなる。「ここで切ったら、今までの全部が水の泡になる」。 非合理的だと頭では理解している。理解していて、足が店に向かう。人間の合理性なんて、その程度の強度しかない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 77,
+              "style": "Bold"
+            }
+          ],
+          "key": "39unt",
+          "text": "そして大抵、お互いが少し冷えた頃に、どちらからともなく歩み寄る。 ぎこちない「ごめんね」のあとに流れる、あの安堵と気まずさの混合物。それを洗い流すように、詫びシャンが開く。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bh88j",
+          "text": "この「喧嘩→仲直り→詫びシャン」の導線は、たぶん一番危ない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1nind",
+          "text": "さっきまで「もう終わりだ」と思っていた関係が復旧した安堵。相手を傷つけた後ろめたさ。それでもやっぱりこの場所にいたいという執着。 感情が乱高下した直後に差し出されるメニュー表に、理性のブレーキが効くわけがない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50nd7",
+          "text": "僕も何度繰り返したか分からない。「またこのパターンか」と苦笑しながら、それでも開ける。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9ie7o",
+          "text": "自覚は、感情の前ではただの観客席だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8v69i",
+          "text": "おわりに",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9oc22",
+          "text": "だからといって、僕らは騙されたいわけじゃない。 「美しい虚構」を共同制作したいのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "an9r2",
+          "text": "その制作現場を放棄して、客をATMとして処理した瞬間に、すべてが終わる。 どれだけ顔が整っていても、どれだけ場を回すのが上手くても、信頼を切り売りした人間のところへ僕が戻ることは、もうない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 59,
+              "style": "Bold"
+            }
+          ],
+          "key": "5mqu0",
+          "text": "ボトルとは、ただの炭酸水ではない。 キャストが店で燃やしている時間と、客の感情が正面から衝突した瞬間にだけ発行される、本気と敬意の交換チケットだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3o0et",
+          "text": "それを理解している人に、僕は明日もまた、苦手なシャンパンを開けてしまうのだろう。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

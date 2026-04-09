@@ -1,0 +1,95 @@
+{
+  "tweet_created_at": "2026-04-05T06:02:43.000000Z",
+  "id": 2040671456347193600,
+  "id_str": "2040671456347193511",
+  "type": "tweet",
+  "conversation_id_str": "2040671456347193511",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/amfEYZILNN",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1689672109612818400,
+    "id_str": "1689672109612818432",
+    "name": "Kina🐈‍⬛🪄",
+    "screen_name": "KinaCatGirl",
+    "location": "She/Her 🏳️‍⚧️| 18yro",
+    "url": "https://www.ko-fi.com/KinaVT",
+    "description": "Magical Cat Girl Vtuber 🐈‍⬛🪄 | EN/中文 | REBUILDING | Trans Teenager Who Uses the internet too much | 🍬 Started HRT: Sep/26/2025",
+    "protected": false,
+    "verified": true,
+    "followers_count": 9739,
+    "friends_count": 2237,
+    "listed_count": 13,
+    "favourites_count": 31565,
+    "statuses_count": 15350,
+    "created_at": "2023-08-10T16:16:45.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689672109612818432/1739897556",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2037440588916862976/qGgTFSYq_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 3,
+  "reply_count": 31,
+  "retweet_count": 338,
+  "favorite_count": 3294,
+  "views_count": 41143,
+  "bookmark_count": 87,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040671049256488961",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/amfEYZILNN"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T06:02:43.000000Z",
+    "id": 2040671456347193600,
+    "id_str": "2040671456347193511",
+    "title": "Trans Rights are Human Rights",
+    "preview_text": "Trans women are women\n\nTrans Men are men\n\nGender is fluid\n\nSexuality is fluid\n\nTrans Rights Are Human Rights\n\nThis is a fact.",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "352sq",
+          "text": "\nTrans women are women\n\nTrans Men are men\n\nGender is fluid\n\nSexuality is fluid\n\nTrans Rights Are Human Rights\n\nThis is a fact.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

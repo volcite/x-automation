@@ -1,0 +1,189 @@
+{
+  "tweet_created_at": "2026-04-05T06:12:30.000000Z",
+  "id": 2040673915803140400,
+  "id_str": "2040673915803140377",
+  "type": "tweet",
+  "conversation_id_str": "2040673915803140377",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/KKWAjhSQRG",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1005035618601074700,
+    "id_str": "1005035618601074688",
+    "name": "沼ちゃん",
+    "screen_name": "numachanx",
+    "location": "",
+    "url": null,
+    "description": "【恋愛IQ×夜の技術】を探求する人。恋愛に綺麗事はいらない。「本気で沼らせたい女」だけ読んでください。https://t.co/9xV4z1e9Xo",
+    "protected": false,
+    "verified": true,
+    "followers_count": 40719,
+    "friends_count": 6,
+    "listed_count": 104,
+    "favourites_count": 2506,
+    "statuses_count": 901,
+    "created_at": "2018-06-08T10:35:38.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005035618601074688/1763119437",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1977271257432530945/tWgfPKew_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 39,
+  "reply_count": 3,
+  "retweet_count": 91,
+  "favorite_count": 1251,
+  "views_count": 7103824,
+  "bookmark_count": 1444,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040673713591394304",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/KKWAjhSQRG"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T06:12:30.000000Z",
+    "id": 2040673915803140400,
+    "id_str": "2040673915803140377",
+    "title": "振られる女、男の「性欲」をナメすぎ",
+    "preview_text": "まず前提として、男の性欲という本能を理解してる女は恋愛で圧倒的に有利。\nこれを甘く見てる女は必ず後で痛い目を見る。男の行動の根っこには性欲があって、そこを掴んでる女が最終的に最強になれる。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7g7v9",
+          "text": "まず前提として、男の性欲という本能を理解してる女は恋愛で圧倒的に有利。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtj2h",
+          "text": "これを甘く見てる女は必ず後で痛い目を見る。男の行動の根っこには性欲があって、そこを掴んでる女が最終的に最強になれる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fjuh",
+          "text": "それと、「自立してるのに、たまに甘えてくる」ギャップ。普段はひとりでちゃんと生きていけるくせに、ふとした瞬間だけ無防備に寄ってくる女。この”予測できない可愛さ”が男の脳をバグらせる。いつ来るかわからないから、ずっと気になり続ける。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ogv",
+          "text": "温度差も相当重要で、離れてる時はあっさりしてるのに、会った瞬間に一気に濃厚になる女。この寒暖差が「また会いたい」を無限ループさせる。毎回同じ温度の女は飽きられる。波がある女が、男の頭を占領し続ける。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6run5",
+          "text": "自分の世界があることも外せない。恋愛だけが全てじゃなくて、仕事も趣味も友達も充実してる女には、どこか追いきれない”奥行き”がある。全部見えた本を何度も読みたいとは思わないでしょ。それと同じで、「まだ知らない面がある」と思わせ続けることが、男の興味を切らさない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "chhmn",
+          "text": "強がってる男ほど、弱い部分を受け止めてくれる女に深くハマる。正論じゃなくてただ「そうなんだ」って受け入れてくれる女は、男にとって他に替えのきかない存在になる。安心と興奮、両方くれる女なんてそうそういないから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "kdla",
+          "text": "そして夜。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "34drh",
+          "text": "技術で満たしながら、焦らしで「まだ足りない」を残せる女は中毒性が段違い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "br8an",
+          "text": "「この人じゃないと満たされない」って本能に刻まれたら、男は理屈じゃなくあなたを求め続ける。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8nd83",
+          "text": "男がハマるのは、いつでも手に入る女じゃない。離れてても頭に浮かぶ、存在感ある女。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 17,
+                "text": "https://note.com/numachanx/n/nf043fc85472b",
+                "toIndex": 59
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpnts",
+          "text": "・男を圧倒的に沼らせる禁断のテク↓https://note.com/numachanx/n/nf043fc85472b",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

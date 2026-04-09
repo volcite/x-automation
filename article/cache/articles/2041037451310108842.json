@@ -1,0 +1,409 @@
+{
+  "tweet_created_at": "2026-04-06T06:17:03.000000Z",
+  "id": 2041037451310109000,
+  "id_str": "2041037451310108842",
+  "type": "tweet",
+  "conversation_id_str": "2041037451310108842",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/YaATDryaXT",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1975113924862431200,
+    "id_str": "1975113924862431232",
+    "name": "内向哲学",
+    "screen_name": "naikoutetsugaku",
+    "location": "",
+    "url": "https://note.com/yumaevo",
+    "description": "運営者@yumaevo｜「読んだ人の思考,視点,知恵を深化する」「孤独を愛する人に向けた実践と哲学」を両軸に、内向的な人の人生戦略を発信しています。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 58129,
+    "friends_count": 1,
+    "listed_count": 115,
+    "favourites_count": 849,
+    "statuses_count": 1121,
+    "created_at": "2025-10-06T08:20:38.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2018700453920591872/b3CGfxbo_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 114,
+  "reply_count": 12,
+  "retweet_count": 284,
+  "favorite_count": 3272,
+  "views_count": 2684752,
+  "bookmark_count": 3905,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041036295578021888",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/YaATDryaXT"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T06:17:03.000000Z",
+    "id": 2041037451310109000,
+    "id_str": "2041037451310108842",
+    "title": "９割以上の人は「枝葉」に気を取られて人生を終えていく",
+    "preview_text": "現実世界で役立つ「頭の良さ」って、何だと思いますか。\nテストで高得点を取れる力でしょうか。それとも、話が上手い人のことでしょうか。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8grae",
+          "text": "現実世界で役立つ「頭の良さ」って、何だと思いますか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7s53j",
+          "text": "テストで高得点を取れる力でしょうか。それとも、話が上手い人のことでしょうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24dgj",
+          "text": "ぼくはずっとその定義が曖昧なまま大人になりましたが、あるとき気づいたことがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7738l",
+          "text": "本当の意味で「地頭がいい」と感じさせる人たちには、ある共通したものが見え隠れしているんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1rn4i",
+          "text": "それは「構造を見抜き、構造を把握し、構造を利用する力」とでも言うべきものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "avbqc",
+          "text": "学校教育で身につく「頭の良さ」は、どちらかといえば「記憶力」と「根性」に近いものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmatc",
+          "text": "教科書の内容を頭に詰め込んで、試験本番でそれを正確に再現する。毎日コツコツと机に向かい続ける継続力。それさえあれば、学校という場では確かに「優秀な人」と見なされます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ijaj",
+          "text": "もちろん、その能力が役に立たないだとか、無駄だとか言うつもりはありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7c93e",
+          "text": "でも、社会に出てから「あ、これは別の話だな」と感じる瞬間が来るんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80c5f",
+          "text": "職場でミスが連発したとします。上司は「また同じミスをした」と叱り、本人も「もう二度としないよう気をつけよう」と反省する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e6arj",
+          "text": "で、しばらくするとまた別のミスが起きる。「どうしてこんなに続くんだろう」と頭を抱える。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c37al",
+          "text": "こういう状況、一度は見たことがあるのではないでしょうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "76ulm",
+          "text": "これが「枝葉の問題」を一つひとつ潰していく、いわゆるモグラ叩き状態です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsqa8",
+          "text": "一個の問題を解決しても、また別の問題が頭を出す。永遠に終わらないゲームをやらされているような感覚です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fvli",
+          "text": "冗談でも何でもなく、９割以上の人は枝葉の問題をコネコネこねくり回して寿命を終えていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 61,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9e7fc",
+          "text": "構造を見抜く力がある人は、このモグラ叩きではなく「なぜミスが繰り返されるのか」という、より深い問いを立てられるんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6fjrr",
+          "text": "「もしかして確認フローが問題なのではないか」\n「そもそもマニュアルの不徹底なんじゃないか」\n「そもそもそもそも、マニュアル自体がおかしなことになっているんじゃないか」\n「そもそもそもそもそもそも、採用のシステムがおかしなことになっているのでは」\n\n等はあくまで一例ですが、表面に現れた現象ではなく、その裏側にある仕組みや構造に目を向けることができる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f08gh",
+          "text": "根っこに手を入れるから、枝葉はおのずと落ち着いていくんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8qfbs",
+          "text": "「地頭がいい人」というのは、この「根っこを見る力」が深く鋭い人のことだとぼくは思っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6c7v4",
+          "text": "表に出てきた症状だけを見るのではなく、「なぜそれが起きているのか」「この問題の本当の原因はどこにあるのか」という問いを立てられる人のことです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "778db",
+          "text": "この力は、学校では教えてもらえません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6g947",
+          "text": "というより、教育の\"構造上\"なかなか育ちにくいんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "akbg2",
+          "text": "テストには「正解」があるけれど、現実の問題には「そもそも何が問題なのか」という定義から始めないといけない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c392d",
+          "text": "その「問題を定義する力」「構造を把握する力」は、試験科目にならない能力なんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqo18",
+          "text": "だからこそ、社会に出てから意識的に鍛えていく必要があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 55,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5i0ma",
+          "text": "ぼく自身が実感しているのは、この力は「なぜ？」を一段深く掘る癖をつけることで少しずつ育っていくということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ova3",
+          "text": "問題が起きたとき、すぐに解決策に飛びつくのではなく、「これってそもそも何が起きているんだろう」と立ち止まって考える。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vm9q",
+          "text": "最初はゆっくりでも、その習慣が積み重なっていくうちに、物事の構造が自然と見えてくるようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "blao3",
+          "text": "真の意味での「大人の頭の良さ」とは、知識の量でも記憶力の高さでもなく、この構造把握力にあるんだとぼくは思っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9jonh",
+          "text": "根っこを押さえられれば、枝葉の問題は自然と少なくなる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fg166",
+          "text": "それが「モグラ叩きのループ」から抜け出す唯一の道なんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 38,
+                "text": "https://note.com/yumaevo/n/nf69efe5597ea",
+                "toIndex": 78
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "etc9a",
+          "text": "・【地頭を鍛える】学校ではなかなか教わらない「構造を見抜く力」を強化する方法https://note.com/yumaevo/n/nf69efe5597ea",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 18,
+                "text": "https://note.com/yumaevo/n/nb01401dda7d3",
+                "toIndex": 58
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1nc03",
+          "text": "・構造把握力を鍛えるための「メモ術」https://note.com/yumaevo/n/nb01401dda7d3",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

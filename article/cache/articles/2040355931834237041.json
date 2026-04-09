@@ -1,0 +1,1292 @@
+{
+  "tweet_created_at": "2026-04-04T09:08:56.000000Z",
+  "id": 2040355931834237000,
+  "id_str": "2040355931834237041",
+  "type": "tweet",
+  "conversation_id_str": "2040355931834237041",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/wZHHV9HQMp",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1974631524,
+    "id_str": "1974631524",
+    "name": "對木 拳 | Ken Tsuiki",
+    "screen_name": "ken_coach12",
+    "location": "コーチング受講のご相談は公式LINEへ→",
+    "url": "https://lin.ee/P0udzeK",
+    "description": "自分の能力を発揮しきれていない人へ｜原因は実力不足じゃない｜視点を変えてあなたの\"ブレーキ\"を外す｜独自の強み発掘し、価値を形にするコーチ｜7年・500名以上支援｜大手広告代理店→LINEヤフー→独立",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4640,
+    "friends_count": 628,
+    "listed_count": 55,
+    "favourites_count": 83830,
+    "statuses_count": 25138,
+    "created_at": "2013-10-20T10:32:08.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974631524/1757313270",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1983035555261878272/TK0Uc8eI_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 46,
+  "reply_count": 4,
+  "retweet_count": 77,
+  "favorite_count": 1055,
+  "views_count": 654239,
+  "bookmark_count": 1150,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040331159574650880",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/wZHHV9HQMp"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T09:08:56.000000Z",
+    "id": 2040355931834237000,
+    "id_str": "2040355931834237041",
+    "title": "藤井風さんに学ぶ、INFPの繊細さを武器にする3つの変換方法",
+    "preview_text": "前回、令和ロマン・くるまさんで「ENTPの使い方が桁違いな件」を記事にした。1日で500万インプと大反響をいただいたので、今回は別のタイプで書いてみる。",
+    "cover_url": "https://pbs.twimg.com/media/HFDABsvaoAAqOu0.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8n2r2",
+          "text": "前回、令和ロマン・くるまさんで「ENTPの使い方が桁違いな件」を記事にした。1日で500万インプと大反響をいただいたので、今回は別のタイプで書いてみる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b5hje",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8urrv",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "coual",
+          "text": "改めて、タイプ診断は特性を教えてくれる。でも「どう変換すれば結果が最大化されるか」は教えてくれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19bem",
+          "text": "別のタイプで「上手なタイプの使い方」をしている人を考えていたら、藤井風さんがINFP-Tだと公表していたのを思い出した。今回は「藤井風さん×INFPを深掘りしていく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "kds8",
+          "text": "ちなみに私もINFP。だから人物解剖の記事をこうして毎日楽しく書ける。「人の内面を掘りたい衝動」は最高の燃料になっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71ong",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2elbu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8023a",
+          "text": "INFPの教科書的な強み",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8t26",
+          "text": "INFPの代表的な強みは3つ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bn97t",
+          "text": "感受性の深さ",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8asn",
+          "text": "理想主義",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5algr",
+          "text": "自己表現力",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vmvp",
+          "text": "藤井風さんはSpotifyバイラルチャート23カ国同時1位という前代未聞の実績を持つ。彼には、どんな武器にする使い方があるのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4l0qo",
+          "text": "INFPは日本に一番多いとされており、推定1,600万人以上いる。参考になる人はきっとたくさんいるだろう。では、明らかにしていく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "blbf3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1uavp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a19ah",
+          "text": "感受性を「削ぎ落とすフィルター」に変換",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "99c12",
+          "text": "INFPの感受性は放っておくと「受け取りすぎ」になる。周りの感情を吸い込みすぎて疲弊する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fqogf",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 6,
+              "offset": 52
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1efps",
+          "text": "藤井風さんの歌詞には固有名詞がほとんどない。椎名林檎さんが固有名詞をちりばめるのと完全に対極。筑摩書房のwebちくまではこれを「捨象」と分析していた。具体を捨てて普遍だけを残す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fecau",
+          "text": "自分の体験を「自分の歌」のまま出さない。削ぎ落として、誰が聴いても「自分の歌だ」と感じるように変換して、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fskmh",
+          "text": "感受性の使い方を自分でコントロールしている。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7r6cf",
+          "text": "\nこれ、コーチングのクライアントさんにもいた。その方は人事職で「顔色を読みすぎて疲れる」と。上司の表情から組織の力学まで正確に読み取る。問題はその力を「自分を守る防御」にだけ使っていたこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7f3e5",
+          "text": "なので、この力を「面接で本音を見抜く力」として意識して使うようにしてもらった。すると、評価が変わった。能力は変わってない。特性の向け先を変えるだけでいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bp4ur",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3qs0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8pfmt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dujrn",
+          "text": "理想主義は「手放す哲学」に変換する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ba4fg",
+          "text": "INFPの理想主義は放っておくと「まだ足りない」の自己批判ループになる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36fl4",
+          "text": "藤井風さんの楽曲の核は「手放す」だと思う。「もうええわ」「帰ろう」「まつり」。どれも根っこに手放すがある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c6af6",
+          "text": "実際に「まつり」の一節にもある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3llga",
+          "text": "「なかなか気づけんよね 何もかも既に持ってるのにね」",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "535h9",
+          "text": "\nINFPの理想主義は普通「まだ持っていないもの」に向かう。でも、藤井風さんは",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhgtn",
+          "text": "「もう持っているのに気づいていないこと」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ip20",
+          "text": "に向いている。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5n1pl",
+          "text": "ベクトルが逆。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tr1m",
+          "text": "「死ぬのがいいわ」は欲望むき出しの曲で「手放す」とは真逆。でも「自分はこの曲が好きだ」という直感は手放さなかった。「日本では一番聴かれてなくて、でもワシは凄い好きな曲だった」と語ってる。（NHK MUSIC SPECIAL）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eksgf",
+          "text": "結果、2年後、TikTok経由でタイから火がつき23カ国1位。取りに行ったんじゃない。手放した先に、世界に届いた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "634rc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8o7lp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "34cgq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agokh",
+          "text": "自己表現は「届く仕組み」を活用する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "625hh",
+          "text": "INFPは表現に強いが多くは「出す」止まりで届かないことが多い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "486r0",
+          "text": "藤井風さんは12歳で父の「これからはYouTubeの時代」という言葉から岡山の喫茶店でカバー動画を始めた。インスタは英語発信を自分に課し「日本に限定しない届け方」が最初からあった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c429e",
+          "text": "INFPは内向的で人前が得意じゃない。多くは「外向的にならなきゃ」と矯正する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fd3i4",
+          "text": "でも、藤井風さんは矯正しなかった。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5sus",
+          "text": "\n矯正するのではなく、仕組みで解決した。YouTube、Instagram、Spotify。自分が前に出なくても届くプラットフォーム。内向的なまま届く形を取った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "edq26",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5lcck",
+          "text": "発信を続けると複数レーベルからオファーが来た。結果、唯一岡山まで足を運んだ河津さんの熱意で上京。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "blg50",
+          "text": "取りに行くんじゃない。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4scld",
+          "text": "届く仕組みを作って、",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgotj",
+          "text": "届けたいと思ってくれる人を待つ。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a543n",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1jtia",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "am1fq",
+          "text": "タイプを活かす側にいるか試す3つの問い",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4rd50",
+          "text": "藤井風さんの変換を整理する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dqmha",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bsnt",
+          "text": "\n",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68gcb",
+          "text": "ただし、INFPには一つだけ注意点がある↓",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8gft5",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 1,
+              "style": "Bold"
+            }
+          ],
+          "key": "8ka8g",
+          "text": "\nこの溝を越えるセルフチェックを3つ。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dng5t",
+          "text": "① 自分の繊細さは「防御」か「武器」か？ ",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4fpr",
+          "text": "→ 昨日一番疲れた場面を思い出してほしい。その「空気を読む力」は誰のために使っていたか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "29e7t",
+          "text": "② 「まだ足りない」リストばかり増えていないか？ ",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ditl2",
+          "text": "→ 今抱えているものを一つだけ「やめる」と決めてみてほしい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d9b7p",
+          "text": "③ 自分の成果に「届く仕組み」はあるか？ ",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eolel",
+          "text": "→ 今ある成果物を一つ、今日中に誰かが見える場所に置いてみてほしい。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5tho2",
+          "text": "\nあなたが今、手放せずにいるものは何だろうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "pud1",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 33,
+                "text": "https://www.webchikuma.com/n/nacf31be73e8e",
+                "toIndex": 75
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 42,
+              "offset": 33
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4rqmm",
+          "text": "参考：北村匡平「第6回 満ちてゆくこと」webちくま（筑摩書房） https://www.webchikuma.com/n/nacf31be73e8e",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3n2ku",
+          "text": "※藤井風さんは16Personalitiesの診断でMediator（仲介者）= INFP-Tだと公表しています。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "entityKey": "efb26099-4039-49a4-abd4-07520e1de266",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040353358360571905"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "84ca653d-b8e7-4bdc-8024-d8363dedf8e2"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "8ed69955-b286-45fa-a7dc-4adf303bb1a8",
+              "url": "https://www.webchikuma.com/n/nacf31be73e8e"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "entityKey": "90bcf3a0-8ffe-4fdd-96bc-f80fd2a7765d",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040353211278913536"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "63e09f87-9170-4792-8c6b-bf39aa57a36d",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040354179664003072"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "entityKey": "8a614db1-1c86-4595-b2e2-2ef59c52b305",
+              "url": "https://www.webchikuma.com/n/nacf31be73e8e"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "46f5dd77-d7c9-4e2b-ac19-c62e12acc2c1",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040355841904435200"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "66a3c335-bad3-4e81-ba2f-6bd220f30f92"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "5d4ed6cf-5633-45f8-9068-2c6290802f23"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "264546c5-18bc-429e-b76a-660a719e2dbb"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "5e8e0c9c-b3fc-49bc-a7b1-8bf30fdd43a9",
+              "tweetId": "2039991983490691202"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "11f5fc6f-3bf8-41b4-ad4d-9314fd6ba99d"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "827d8e42-7c3f-4038-89ae-974050d463da",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040352935289536512"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "7c9faad1-87cc-4bf2-a25a-5ca0a4672f12",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040352729051344896"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFDKb3abcAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2040353211278913536",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 91.58,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 4.05,
+                "rgb": {
+                  "blue": 132,
+                  "green": 129,
+                  "red": 121
+                }
+              },
+              {
+                "percentage": 2.83,
+                "rgb": {
+                  "blue": 165,
+                  "green": 223,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 1.53,
+                "rgb": {
+                  "blue": 107,
+                  "green": 202,
+                  "red": 236
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFDKb3abcAA7rHW.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2040353211278913536"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFDJ/y+asAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2040352729051344896",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.19,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 5.03,
+                "rgb": {
+                  "blue": 123,
+                  "green": 120,
+                  "red": 114
+                }
+              },
+              {
+                "percentage": 1.09,
+                "rgb": {
+                  "blue": 39,
+                  "green": 161,
+                  "red": 223
+                }
+              },
+              {
+                "percentage": 0.94,
+                "rgb": {
+                  "blue": 162,
+                  "green": 220,
+                  "red": 245
+                }
+              },
+              {
+                "percentage": 0.32,
+                "rgb": {
+                  "blue": 64,
+                  "green": 56,
+                  "red": 43
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFDJ_y-asAAbfcv.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2040352729051344896"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFDKLzRbwAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2040352935289536512",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 91.97,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 4.63,
+                "rgb": {
+                  "blue": 125,
+                  "green": 125,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 1.49,
+                "rgb": {
+                  "blue": 135,
+                  "green": 217,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 0.83,
+                "rgb": {
+                  "blue": 38,
+                  "green": 187,
+                  "red": 247
+                }
+              },
+              {
+                "percentage": 0.37,
+                "rgb": {
+                  "blue": 70,
+                  "green": 62,
+                  "red": 49
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFDKLzRbwAAtEjb.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2040352935289536512"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFDKkbVbcAEKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2040353358360571905",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 87.62,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 4.76,
+                "rgb": {
+                  "blue": 125,
+                  "green": 125,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 4.45,
+                "rgb": {
+                  "blue": 168,
+                  "green": 225,
+                  "red": 252
+                }
+              },
+              {
+                "percentage": 2.4,
+                "rgb": {
+                  "blue": 105,
+                  "green": 205,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 0.61,
+                "rgb": {
+                  "blue": 53,
+                  "green": 189,
+                  "red": 254
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFDKkbVbcAE9NG3.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2040353358360571905"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFDLUO7bQAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2040354179664003072",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 90.65,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 3.39,
+                "rgb": {
+                  "blue": 124,
+                  "green": 124,
+                  "red": 124
+                }
+              },
+              {
+                "percentage": 2.82,
+                "rgb": {
+                  "blue": 66,
+                  "green": 172,
+                  "red": 219
+                }
+              },
+              {
+                "percentage": 1.56,
+                "rgb": {
+                  "blue": 153,
+                  "green": 218,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 0.59,
+                "rgb": {
+                  "blue": 40,
+                  "green": 188,
+                  "red": 244
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFDLUO7bQAAbk1t.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2040354179664003072"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFDM0/QbYAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2040355841904435200",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.89,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 6.37,
+                "rgb": {
+                  "blue": 123,
+                  "green": 123,
+                  "red": 123
+                }
+              },
+              {
+                "percentage": 0.46,
+                "rgb": {
+                  "blue": 27,
+                  "green": 175,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 0.17,
+                "rgb": {
+                  "blue": 178,
+                  "green": 230,
+                  "red": 251
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFDM0_QbYAANmao.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2040355841904435200"
+      }
+    ]
+  }
+}

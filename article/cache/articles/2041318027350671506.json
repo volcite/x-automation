@@ -1,0 +1,2704 @@
+{
+  "tweet_created_at": "2026-04-07T00:51:58.000000Z",
+  "id": 2041318027350671600,
+  "id_str": "2041318027350671506",
+  "type": "tweet",
+  "conversation_id_str": "2041318027350671506",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/gk5opJknZc",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2029602282212565000,
+    "id_str": "2029602282212564993",
+    "name": "Open Compress",
+    "screen_name": "opencompress_ai",
+    "location": "San Francisco",
+    "url": "https://www.opencompress.ai",
+    "description": "Better answers. Faster responses. Lower bills.\nDrop-in compression for any LLM, any agent, any gateway. \nWe only win when you save.\nhttps://t.co/XaenzHBX2k",
+    "protected": false,
+    "verified": true,
+    "followers_count": 1182,
+    "friends_count": 0,
+    "listed_count": 1,
+    "favourites_count": 65,
+    "statuses_count": 16,
+    "created_at": "2026-03-05T16:58:10.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029602282212564993/1775415580",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2040920951571746816/s3MHhbKt_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 4,
+  "reply_count": 32,
+  "retweet_count": 163,
+  "favorite_count": 1133,
+  "views_count": 334982,
+  "bookmark_count": 418,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040938808850722816",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/gk5opJknZc"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T00:51:58.000000Z",
+    "id": 2041318027350671600,
+    "id_str": "2041318027350671506",
+    "title": "The LLM Compression Landscape in 2026: Who's Compressing What, and How",
+    "preview_text": "In an economy where tokens are currency, compression is the exchange rate.\nA single Claude Code session burns 200K tokens before lunch. Cursor debugging a monorepo easily hits 500K. Devin running",
+    "cover_url": "https://pbs.twimg.com/media/HFQ1yFlbAAAVLb7.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 74,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "36n5i",
+          "text": "In an economy where tokens are currency, compression is the exchange rate.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12lb9",
+          "text": "A single Claude Code session burns 200K tokens before lunch. Cursor debugging a monorepo easily hits 500K. Devin running overnight? Millions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2ibv",
+          "text": "We ran a benchmark last week, 70% of those tokens were tool output the model barely glanced at.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0843",
+          "text": "But the real cost isn't money. It's the \"lost in the middle\" problem: stuff 200K tokens into a prompt, and the model ignores the middle 60%. More context literally makes models dumber.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 14,
+              "style": "Bold"
+            },
+            {
+              "length": 20,
+              "offset": 40,
+              "style": "Bold"
+            },
+            {
+              "length": 18,
+              "offset": 66,
+              "style": "Bold"
+            }
+          ],
+          "key": "5a9rd",
+          "text": "Now there are 30+ open-source projects, 2 YC-backed startups, and Microsoft Research all trying to fix this.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "chktn",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ispa",
+          "text": "We've been building and benchmarking in this space for months. This is the full map of who's building what, what actually works, what's hype, and what nobody has built yet.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "drhqh",
+          "text": "The Four Layers Nobody Talks About",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5f56",
+          "text": "Not all \"compression\" is the same. The field splits into four layers, and most projects only operate at one.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b2q01",
+          "text": "Layer 1: Provider-side caching. Anthropic gives you 90% off cached token reads. OpenAI gives 50-75%. This doesn't reduce tokens. It reduces the cost of re-processing them. It's a discount, not a cut.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f3pl3",
+          "text": "Layer 2: Input/prompt compression. Remove tokens from prompts before they reach the model. This is where 80% of the action is.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6ccq5",
+          "text": "Layer 3: Tool output compression. Shrink file contents, grep results, test output, and API responses before they hit the context window. AI agents spend 70% of their tokens here. This is the biggest untapped opportunity.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cmnv1",
+          "text": "Layer 4: Output compression. Make the model say less. Output tokens cost 3-5x more than input tokens. Almost nobody is working on this.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "49ha2",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 54,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "apsso",
+          "text": "The real savings stack multiplicatively across layers. A tool that does all four can cut bills 70%+. A tool that does one? Maybe 30%.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4n7rq",
+          "text": "Layer 2: Input Compression",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9o1s",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ek7g3",
+          "text": "1. LLMLingua: the paper that started everything",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 19,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "83iko",
+          "text": "GitHub: microsoft/LLMLingua · 6,000 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 0,
+                "text": "microsoft",
+                "toIndex": 10
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 160,
+              "style": "Bold"
+            }
+          ],
+          "key": "b0aon",
+          "text": "@microsoft Research published LLMLingua at EMNLP 2023. The core idea: a small model (GPT-2-size) scores each token's importance and drops the low-scoring ones. Up to 20x compression with minimal quality loss.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5rfha",
+          "text": "LLMLingua-2 (2024) reformulated this as a BERT-size token classification problem, 3-6x faster, distilled from GPT-4 annotations. This is the version every production system builds on today.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 52,
+              "offset": 208,
+              "style": "Bold"
+            }
+          ],
+          "key": "3q3a6",
+          "text": "The critical take: LLMLingua proved the concept. But it's a research project, not a product. Development has nearly stopped (4 stars/week). Every serious startup today is building on top of its core insight: train a small model to classify which tokens matter.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 15,
+                "text": "chopra_tejas",
+                "toIndex": 28
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2pstq",
+          "text": "2. headroom by @chopra_tejas",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 20,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fhh7",
+          "text": "GitHub: chopratejas/headroom · 1,123 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4t8dc",
+          "text": "The most comprehensive open-source compression toolkit. Routes content through specialized compressors:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bqtes",
+          "text": "SmartCrusher for JSON dedup and structural compression",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cdrgu",
+          "text": "CodeCompressor for AST-aware code compression (Python, JS, Go, Rust, Java, C++)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9092c",
+          "text": "Kompress, their own ModernBERT-based token pruner",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3b5o2",
+          "text": "CCR (Compressed Context Retrieval), compresses aggressively but stores originals. The LLM can call a tool to get full details back on demand",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 13,
+              "style": "Bold"
+            },
+            {
+              "length": 12,
+              "offset": 49,
+              "style": "Bold"
+            },
+            {
+              "length": 18,
+              "offset": 97,
+              "style": "Bold"
+            }
+          ],
+          "key": "2j60i",
+          "text": "The numbers: 92% savings on code search results. 97% accuracy on SQuAD v2 reading comprehension. Zero accuracy drop on GSM8K math. 15-200ms overhead.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ftsdc",
+          "text": "The standout feature is CCR: reversible compression. Compress everything, but let the model \"zoom in\" when it needs to. This turns compression from a lossy gamble into a lossless system with lazy expansion. It's the most promising architectural pattern in the entire field.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 21,
+                "text": "Nielsen777Brian",
+                "toIndex": 37
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5od8m",
+          "text": "3. Claw Compactor by @Nielsen777Brian ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 28,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f8l6n",
+          "text": "GitHub: open-compress/claw-compactor · 1,943 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eg58f",
+          "text": "A 14-stage fusion pipeline where each stage has a should_apply() gate. Instead of one-size-fits-all token dropping, it routes content through type-specific compressors: JSON schema sampling, Tree-sitter AST compression, log folding, diff context collapse, SimHash dedup.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 51,
+              "offset": 13,
+              "style": "Bold"
+            },
+            {
+              "length": 13,
+              "offset": 90,
+              "style": "Bold"
+            }
+          ],
+          "key": "bp9e",
+          "text": "Key numbers: JSON: 81.9% compression. ROUGE-L at 0.3 rate: 0.653 (vs LLMLingua-2: 0.346), +88% fidelity at the same compression ratio. Under 50ms latency, zero external dependencies, 1,600+ tests.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6tq5j",
+          "text": "RewindStore: hash-addressed LRU that stores originals before compression. The LLM calls a Rewind tool to expand any section. Same reversible compression philosophy as headroom's CCR.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 65,
+              "offset": 81,
+              "style": "Bold"
+            }
+          ],
+          "key": "2d675",
+          "text": "Both claw-compactor and headroom independently arrived at the same architecture: multi-stage, content-aware pipelines with reversible compression. When two teams independently converge on the same design, it's usually the right one.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94ai4",
+          "text": "4. The Token Company (YC W26)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 16,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cgd0l",
+          "text": "GitHub: nimhar/imptokens · 58 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 101,
+                "text": "harel_nimrod",
+                "toIndex": 114
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 90,
+              "style": "Bold"
+            },
+            {
+              "length": 44,
+              "offset": 159,
+              "style": "Bold"
+            }
+          ],
+          "key": "3fu19",
+          "text": "Drop-in API middleware using their proprietary \"bear-1.1\" ML model. Their open-source CLI imptokens (@harel_nimrod) runs Llama 3.2 1B locally to score tokens. 66% input reduction with +1.1% accuracy gain on their commercial API. $0.05/1M tokens.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 21,
+                "text": "Compresr_yc_w26",
+                "toIndex": 37
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5t74h",
+          "text": "5. Compresr (YC W26) @Compresr_yc_w26",
+          "type": "header-two"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 87,
+                "text": "IvanZakazov",
+                "toIndex": 99
+              },
+              {
+                "fromIndex": 100,
+                "text": "KamelCharaf",
+                "toIndex": 112
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 121,
+              "style": "Bold"
+            }
+          ],
+          "key": "b0arq",
+          "text": "API compression service. Team of 4, all EPFL. CEO has a PhD in LLM context compression @IvanZakazov @KamelCharaf. Claims 100x compression. The most research-credentialed team in the space, but the 100x number needs scrutiny. Even academic papers struggle past 20x without severe quality loss.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 14,
+                "text": "devindolar",
+                "toIndex": 25
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fad8",
+          "text": "6. distill by @devindolar",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 17,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "el34n",
+          "text": "GitHub: samuelfaj/distill · 382 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 158,
+              "style": "Bold"
+            }
+          ],
+          "key": "6ouc6",
+          "text": "Different philosophy: pipe command output through a local LLM that extracts the relevant parts. kubectl logs pod-xyz | distill \"what errors happened?\" Claims 98.7% reduction. The catch: you're paying for a local LLM inference to save tokens on a remote one. If the local model is free (Ollama), net win. But the summarization is lossy in unpredictable ways.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 19,
+                "text": "janreges",
+                "toIndex": 28
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3up3i",
+          "text": "7. ai-distiller by @janreges",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 21,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5goqm",
+          "text": "GitHub: janreges/ai-distiller · 146 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 129,
+              "style": "Bold"
+            }
+          ],
+          "key": "3r5ua",
+          "text": "Uses Tree-sitter to parse 12+ languages and extract only public APIs, types, and signatures. React codebase: 5.5M → 250K tokens (95% reduction). 3,000-10,000+ files/second. The limitation: strips implementations. Great for \"understand the codebase\" phase, not \"fix the bug\" phase.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91euf",
+          "text": "Layer 3: Tool Output Compression, The Biggest Opportunity",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ens1p",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 23,
+              "style": "Bold"
+            }
+          ],
+          "key": "ckvvt",
+          "text": "AI coding agents spend 70% of their tokens reading tool outputs: file contents, grep results, test output, API responses. This is the fattest compression target, and only a few projects address it directly.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 19,
+                "text": "mksglu",
+                "toIndex": 26
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bf7nf",
+          "text": "1. context-mode by @mksglu",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 19,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "qkg",
+          "text": "GitHub: mksglu/context-mode · 6,563 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 79,
+              "style": "Bold"
+            }
+          ],
+          "key": "d26n4",
+          "text": "The highest-starred project in the entire compression space. Its core insight: don't compress tool output. Sandbox it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19aip",
+          "text": "Instead of feeding raw tool results into the context window, context-mode stores them externally and returns only a compact summary. The LLM can drill into the full data on demand.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6tub2",
+          "text": "98% context reduction on tool output (315 KB → 5.4 KB). Session continuity via SQLite + FTS5. 12 platform support (Claude Code, Gemini CLI, Cursor, Codex, etc).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "crlv4",
+          "text": "Why it's winning: it solves the problem at the right level. Tool outputs are mostly structured data, and summarizing them is low-risk. The session continuity feature is a genuine pain point nobody else addresses.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 15,
+                "text": "yvesgugger.ch",
+                "toIndex": 28
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91srg",
+          "text": "2. lean-ctx by yvesgugger.ch",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 15,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "csvns",
+          "text": "GitHub: yvgude/lean-ctx · 448 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1itnr",
+          "text": "Single Rust binary that hooks into 90+ CLI command patterns (git, docker, npm, kubectl) and compresses their output automatically.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 12,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 35,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 54,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 70,
+              "style": "Bold"
+            }
+          ],
+          "key": "83pj1",
+          "text": "File reads: 99% savings. Git/grep: 70%. Test runners: 90%. Curl JSON: 89%. 23 editor integrations, the broadest reach of any tool. The shell hook approach is invisible: use your normal commands and get compressed output.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 14,
+                "text": "0xnihilism",
+                "toIndex": 25
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8a19f",
+          "text": "3. CLOV-AI by @0xnihilism",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 22,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d7c6i",
+          "text": "GitHub: alexandephilia/clov-ai · 34 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 80,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 130,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 148,
+              "style": "Bold"
+            }
+          ],
+          "key": "bmh9m",
+          "text": "Rust MCP proxy that intercepts tool responses with four strategies. Web search: 93% reduction (65K → 4.5K tokens). DB connectors: 87%. Cargo tests: 90%. Small but well-built.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5flul",
+          "text": "Layer 2.5: Context Selection. Not Compression, Same Goal",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5g0gd",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 38,
+              "style": "Bold"
+            }
+          ],
+          "key": "dokg3",
+          "text": "Instead of compressing what you send, send less in the first place.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 24,
+                "text": "tirth_8205",
+                "toIndex": 35
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5p018",
+          "text": "1. code-review-graph by @tirth_8205",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 27,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "16qt2",
+          "text": "GitHub: tirth8205/code-review-graph · 4,914 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9i7l3",
+          "text": "The fastest-growing project on this list. Uses Tree-sitter to build a knowledge graph of your codebase, then computes the \"blast radius\" of a change, only feeding affected files to the LLM.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 13,
+              "offset": 48,
+              "style": "Bold"
+            }
+          ],
+          "key": "3lo8l",
+          "text": "8.2x average token reduction across real repos. 49x reduction on a monorepo (27,732 files → ~15). 100% recall: never misses an affected file. 19 languages.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "anh9",
+          "text": "This isn't compression. It's intelligent context selection. But the end result is identical: fewer tokens, lower cost, better accuracy.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 20,
+                "text": "jlehman_",
+                "toIndex": 29
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58q2t",
+          "text": "2. lossless-claw by @jlehman_",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 33,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "au7aa",
+          "text": "GitHub: Martian-Engineering/lossless-claw · 4,027 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37ag1",
+          "text": "Replaces OpenClaw's sliding-window conversation truncation with hierarchical DAG-based summarization. Every message persisted in SQLite (truly \"lossless\"). Chunks of 20K tokens summarized to ~1,200 tokens (~16x). Agents can expand any summary to recover original detail.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 65,
+              "style": "Bold"
+            }
+          ],
+          "key": "e2dde",
+          "text": "The key insight: conversation management isn't compression. It's information architecture. The DAG structure means you never lose context. You just access it at different fidelity levels.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1l81",
+          "text": "Layer 1: Provider-Side Caching",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8b4b3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6k3",
+          "text": "Anthropic: 90% off cached reads (manual, mark blocks with cache_control)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a17a",
+          "text": "OpenAI: 50-75% off (automatic, matching prefixes)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4m4s3",
+          "text": "Google Gemini: cheap reads + storage fee (manual, 32K minimum)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1b8eb",
+          "text": "The critical insight: caching and compression are complementary, not competing. Compression reduces the tokens that need to be cached. A cache-aligned compressor, one that ensures compressed output has stable prefixes, gets the best of both worlds.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "38odo",
+          "text": "No open-source project has shipped cache-aligned compression yet.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 166,
+                "text": "bc1beat",
+                "toIndex": 174
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 10,
+              "offset": 138
+            },
+            {
+              "key": 18,
+              "length": 8,
+              "offset": 166
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 56,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 23,
+              "offset": 405,
+              "style": "Bold"
+            }
+          ],
+          "key": "d3r32",
+          "text": "Worth noting: smart routing as a complementary strategy. While compression reduces what you send, routing reduces what you pay per token. ClawRouter (6,180 stars) by @bc1beat takes this approach: a 15-dimension scoring engine routes each request to the cheapest capable model in under 1ms across 41+ models. Blended cost drops from $25/M to ~$2/M. Not compression, but solves the same underlying problem: spending less on tokens. The ideal stack combines both: compress first, then route the compressed prompt to the cheapest model that can handle it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6tf0a",
+          "text": "The Deeper Layer: KV Cache Compression",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68et7",
+          "text": "While application-layer tools compress prompts and outputs, a parallel research track compresses the model's internal memory.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 17,
+                "text": "0xSero",
+                "toIndex": 24
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4vfl",
+          "text": "1. turboquant by @0xSero ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 19,
+              "length": 17,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2pbp8",
+          "text": "GitHub: 0xSero/turboquant · 544 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 146,
+              "style": "Bold"
+            }
+          ],
+          "key": "d0b9c",
+          "text": "Implementation of Google's TurboQuant (ICLR 2026). Compresses LLM KV cache to 3-bit keys and 2-bit values with Triton kernels + vLLM integration. 5x compression at 99.5% attention fidelity.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 17,
+                "text": "ScryaHQ",
+                "toIndex": 25
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8ddv",
+          "text": "2. rotorquant by @ScryaHQ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 20,
+              "length": 20,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a83uc",
+          "text": "GitHub: scrya-com/rotorquant · 232 stars",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 50,
+              "style": "Bold"
+            }
+          ],
+          "key": "40m1m",
+          "text": "KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs 7.07), 28% faster decode, 5.3x faster prefill, 44x fewer parameters. Drop-in llama.cpp integration.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7t0f",
+          "text": "These don't help you save money on API calls directly. They help inference providers serve you cheaper. The savings trickle down as lower token prices.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7nldu",
+          "text": "Layer 4: Output Compression, The Blank Spot",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 21,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "67s76",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 19,
+              "style": "Bold"
+            }
+          ],
+          "key": "1in6l",
+          "text": "Output tokens cost 3-5x more than input tokens across all major providers. Yet almost every project focuses exclusively on input.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evgf1",
+          "text": "The few approaches that exist today are primitive:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "gile",
+          "text": "Prompt engineering. \"Be direct. No preamble. Code only.\" Dumb, but saves 40-60%.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c6n0e",
+          "text": "Output aliasing. Predict repeated terms, assign short codes. The LLM outputs \"a1\" instead of authentication_middleware_config. Saves 10-30%.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82fp5",
+          "text": "Structured generation. Force JSON/YAML schemas. Skip prose entirely.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 65,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4kkro",
+          "text": "No standalone project has built a real output compression engine. This is the single biggest gap in the field.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "27bpc",
+          "text": "Why LLM Providers Will Never Build This",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 22,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "acf0f",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 51,
+              "style": "Bold"
+            }
+          ],
+          "key": "1vlbl",
+          "text": "Here's the uncomfortable truth nobody talks about: LLM providers have zero incentive to compress your prompts.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fc5p",
+          "text": "Anthropic's API revenue is ~70-75% of their $19B annualized revenue. OpenAI is at $25B. Both charge per token. Every token you don't send is revenue they don't collect.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1iib3",
+          "text": "Building compression into their API would be like an airline selling you a tool to fly less.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffmqf",
+          "text": "Yes, they've shipped prompt caching. But caching doesn't reduce tokens. It reduces the compute cost of processing tokens. You still send the same number. The write premium (1.25x at Anthropic) means they actually make more money on the first call.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3mgr3",
+          "text": "The incentive structure is crystal clear:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9n9gj",
+          "text": "Providers want more tokens consumed. Users want fewer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3m3lj",
+          "text": "Providers want longer contexts (sell bigger windows). Users want smaller contexts (faster, cheaper, more accurate).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jqgq",
+          "text": "Providers want more agentic loops (more API calls). Users want fewer loops (get it right the first time).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fuua8",
+          "text": "This isn't cynicism. It's basic business logic. Anthropic and OpenAI are building incredible models. But asking them to also build the tool that reduces how much you use those models is like asking AWS to build a tool that reduces your EC2 hours. It won't happen as a priority.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7rad1",
+          "text": "This is why compression must be a third-party layer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7a738",
+          "text": "Just like CDNs (Cloudflare, Fastly) sit between users and origin servers to reduce bandwidth, compression middleware sits between your agent and the LLM provider to reduce tokens. The CDN analogy is almost exact: origin charges per GB, CDN caches and compresses, origin has no incentive to build a CDN.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "62krk",
+          "text": "The CDN market is $25B+. Token compression could surpass it within 3-4 years, because the underlying token spend is growing 3-5x annually while CDN's underlying bandwidth grew ~30%.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 23,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5u1v4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1p4dv",
+          "text": "The Market Math",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 71,
+              "style": "Bold"
+            }
+          ],
+          "key": "aushn",
+          "text": "Jensen Huang mentioned \"token\" over 70 times at GTC 2026. His formula: Revenue = Tokens per Watt × Available Gigawatts. His prescription: every $500K engineer should consume $250K worth of tokens annually.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7do29",
+          "text": "Total LLM API token spend in 2026: ~$30 billion.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b23d",
+          "text": "Anthropic ~$13B API, OpenAI ~$10B API, rest ~$5-8B. And growing 3-5x annually.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bq4d1",
+          "text": "Token consumption isn't growing linearly. AI coding agents turned every developer into a 200K+ token/day consumer. Before agents, humans typed 500-token prompts. Now agents generate 50,000-token contexts automatically.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 75,
+              "offset": 86,
+              "style": "Bold"
+            }
+          ],
+          "key": "as6ju",
+          "text": "Token prices dropped 100x since 2023, but usage grew 10,000x. Net spend went up 100x. Cheaper tokens × more tokens = bigger compression opportunity, not smaller.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jkil",
+          "text": "What's Still Missing",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 24,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2vbbs",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eip2c",
+          "text": "After benchmarking 30+ projects, here are the gaps nobody has filled:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fb65h",
+          "text": "1. Output compression. Untouched. 3-5x more expensive tokens and nobody is systematically compressing them.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1q9u2",
+          "text": "2. Cache-aligned compression. Compress around cacheable segments so you get both compression savings AND provider cache discounts. Nobody ships this.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "389u2",
+          "text": "3. Agent-native integration. Most tools are \"pipe text through me.\" None deeply understand the tool_use → tool_result loop that agents actually run.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7mj7u",
+          "text": "4. A public benchmark everyone agrees on. Without a standard benchmark, every project picks metrics that make them look good.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8hhuj",
+          "text": "5. Cross-session compression. Your codebase description doesn't change between sessions. But every session re-compresses it from scratch.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56a6t",
+          "text": "Prediction",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 20,
+              "style": "Bold"
+            }
+          ],
+          "key": "4osu6",
+          "text": "We are entering the Token Economy. Every knowledge worker will have a token budget. Every enterprise will track token spend like they track cloud compute.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6s0m",
+          "text": "By end of 2026:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6gh4i",
+          "text": "Compression becomes middleware. Every LLM gateway (Portkey, Helicone, LiteLLM) will ship some form of it, just like every web server ships gzip.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "btjnb",
+          "text": "Agent frameworks will integrate compression natively. Not as plugins, but as core infrastructure.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 85,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7817o",
+          "text": "The winners will be the products that compress input + output + tool results together, cache-aware, with a benchmark to prove quality.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9ba4u",
+          "text": "LLM providers will NOT build this. Just as Akamai, not Apache, built the CDN layer, compression will be owned by specialized third parties.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6sjo7",
+          "text": "The question isn't whether compression becomes standard infrastructure. It's who owns the standard, and how much of that $30B+ in annual token spend flows through the compression layer.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 83,
+                "text": "github.attentionvc.ai/trending/repos?c=compress",
+                "toIndex": 130
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 202,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "1vq6m",
+          "text": "Project rankings and weekly star trends in this article are sourced from GitHubVC (github.attentionvc.ai/trending/repos?c=compress). Additional data from GitHub, arXiv, Y Combinator, and direct testing.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 62,
+                "text": "opencompress_ai",
+                "toIndex": 78
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 147,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "h4vr",
+          "text": "If you're working in this space or we missed your project, DM @opencompress_ai. We're tracking everything and want to feature every serious effort.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "entityKey": "5a32f501-daa3-48a3-9c28-f9fdd3b573d0",
+              "url": "https://github.com/alexandephilia/clov-ai"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "eb3772a0-58d8-4370-8b07-4c5ac6d76619",
+              "url": "https://github.com/janreges/ai-distiller"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "entityKey": "926ddcef-29ea-405b-adef-17bf30f60a2f",
+              "url": "https://github.com/0xSero/turboquant"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "23",
+          "value": {
+            "data": {
+              "entityKey": "beac008f-bc8e-4c0e-8d7d-518c2c992a38",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040973810048843777"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "2216b78c-355d-4ba3-a290-30999583ec59",
+              "url": "https://github.com/chopratejas/headroom"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "entityKey": "8928e718-626f-4a75-a427-c9245c30db86",
+              "url": "https://github.com/Martian-Engineering/lossless-claw"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "entityKey": "ffcedecd-1fdc-4e11-a818-5efa599318e2",
+              "url": "https://github.com/yvgude/lean-ctx"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "5bdc3cec-bdfc-4d1d-b708-0578a495823f",
+              "mediaItems": [
+                {
+                  "localMediaId": "14",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040978128500400128"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "entityKey": "55c413ff-5aca-4c8b-a263-0948da8ad408",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040973254337380352"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "entityKey": "7409d62c-1efd-403b-91d0-9f8442bb776e",
+              "mediaItems": [
+                {
+                  "localMediaId": "16",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040978272679251968"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "24",
+          "value": {
+            "data": {
+              "entityKey": "537ed75b-4bb4-4b2d-ab03-3f318f33eda1",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040976106111533056"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "entityKey": "2e59e52b-48a4-44e4-9ff9-e63fb3dab046",
+              "mediaItems": [
+                {
+                  "localMediaId": "18",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040978395065122817"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "3c1fc089-a83d-4908-a095-72959a8fe655",
+              "url": "https://github.com/open-compress/claw-compactor"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "0925ddb9-2f1f-406d-bf83-bff3c96622a3",
+              "url": "https://github.com/mksglu/context-mode"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": {
+              "entityKey": "61b9cc80-2fe8-4948-8d2e-14525a86cd4b",
+              "mediaItems": [
+                {
+                  "localMediaId": "20",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040978609465409536"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "f13f4ceb-695a-452f-8432-848c2ce0784a",
+              "url": "https://github.com/nimhar/imptokens"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "0cdf8bb7-2a03-42c9-8345-2b74dcd0dada",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040972144088059904"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "entityKey": "7f685c36-b579-4bd5-b11a-7604928d269c",
+              "url": "https://github.com/BlockRunAI/ClawRouter"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "entityKey": "2391bdbb-a79a-46c4-9515-6baa754abc33",
+              "url": "https://github.com/tirth8205/code-review-graph"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "3032d24f-9241-445a-9338-aaca5c909f72",
+              "mediaItems": [
+                {
+                  "localMediaId": "22",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040978923195125760"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "entityKey": "629ced33-e764-495b-bbc9-5bee60b40c6f",
+              "url": "https://github.com/scrya-com/rotorquant"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "f6334f4b-3bb2-48d4-95bb-7f599e34f8da",
+              "mediaItems": [
+                {
+                  "localMediaId": "24",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040983553941389312"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "entityKey": "bedf2400-2cee-4767-8faf-289cec70e504",
+              "url": "https://x.com/bc1beat"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "87828e85-9679-45f3-b1a3-ce113fac6d94",
+              "url": "https://github.com/samuelfaj/distill"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "c9995059-23e7-4ad6-99f7-7c790bfc9c35",
+              "url": "https://github.com/microsoft/LLMLingua"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFMDhF8a0AAKAAIcKpiFupogAQAA",
+        "media_id": "2040978923195125760",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 82.05,
+                "rgb": {
+                  "blue": 242,
+                  "green": 246,
+                  "red": 247
+                }
+              },
+              {
+                "percentage": 10.66,
+                "rgb": {
+                  "blue": 27,
+                  "green": 28,
+                  "red": 28
+                }
+              },
+              {
+                "percentage": 8.95,
+                "rgb": {
+                  "blue": 114,
+                  "green": 117,
+                  "red": 117
+                }
+              },
+              {
+                "percentage": 0.12,
+                "rgb": {
+                  "blue": 90,
+                  "green": 83,
+                  "red": 236
+                }
+              }
+            ]
+          },
+          "original_img_height": 940,
+          "original_img_url": "https://pbs.twimg.com/media/HFMDhF8a0AADK_-.jpg",
+          "original_img_width": 1671
+        },
+        "media_key": "3_2040978923195125760"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFMC7OlWUAAKAAIcKpiFupogAQAA",
+        "media_id": "2040978272679251968",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 95.03,
+                "rgb": {
+                  "blue": 240,
+                  "green": 244,
+                  "red": 246
+                }
+              },
+              {
+                "percentage": 4.81,
+                "rgb": {
+                  "blue": 111,
+                  "green": 112,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 0.15,
+                "rgb": {
+                  "blue": 158,
+                  "green": 159,
+                  "red": 225
+                }
+              }
+            ]
+          },
+          "original_img_height": 937,
+          "original_img_url": "https://pbs.twimg.com/media/HFMC7OlWUAA-YF9.jpg",
+          "original_img_width": 1678
+        },
+        "media_key": "3_2040978272679251968"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL9WfzWEAAKAAIcKpiFupogAQAA",
+        "media_id": "2040972144088059904",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 91.66,
+                "rgb": {
+                  "blue": 244,
+                  "green": 249,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 2.24,
+                "rgb": {
+                  "blue": 73,
+                  "green": 74,
+                  "red": 75
+                }
+              },
+              {
+                "percentage": 1.79,
+                "rgb": {
+                  "blue": 148,
+                  "green": 146,
+                  "red": 227
+                }
+              },
+              {
+                "percentage": 0.67,
+                "rgb": {
+                  "blue": 51,
+                  "green": 40,
+                  "red": 217
+                }
+              },
+              {
+                "percentage": 0.29,
+                "rgb": {
+                  "blue": 101,
+                  "green": 96,
+                  "red": 222
+                }
+              }
+            ]
+          },
+          "original_img_height": 940,
+          "original_img_url": "https://pbs.twimg.com/media/HFL9WfzWEAA5XYr.jpg",
+          "original_img_width": 1671
+        },
+        "media_key": "3_2040972144088059904"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL+XHzaQAAKAAIcKpiFupogAQAA",
+        "media_id": "2040973254337380352",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 87.27,
+                "rgb": {
+                  "blue": 239,
+                  "green": 243,
+                  "red": 244
+                }
+              },
+              {
+                "percentage": 7.38,
+                "rgb": {
+                  "blue": 119,
+                  "green": 122,
+                  "red": 122
+                }
+              },
+              {
+                "percentage": 6.51,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              }
+            ]
+          },
+          "original_img_height": 940,
+          "original_img_url": "https://pbs.twimg.com/media/HFL-XHzaQAAaIPh.jpg",
+          "original_img_width": 1671
+        },
+        "media_key": "3_2040973254337380352"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFMDCWgagAEKAAIcKpiFupogAQAA",
+        "media_id": "2040978395065122817",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 75.34,
+                "rgb": {
+                  "blue": 242,
+                  "green": 246,
+                  "red": 247
+                }
+              },
+              {
+                "percentage": 19.32,
+                "rgb": {
+                  "blue": 121,
+                  "green": 124,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 2.82,
+                "rgb": {
+                  "blue": 23,
+                  "green": 25,
+                  "red": 28
+                }
+              },
+              {
+                "percentage": 1.86,
+                "rgb": {
+                  "blue": 130,
+                  "green": 132,
+                  "red": 210
+                }
+              },
+              {
+                "percentage": 0.5,
+                "rgb": {
+                  "blue": 32,
+                  "green": 31,
+                  "red": 110
+                }
+              }
+            ]
+          },
+          "original_img_height": 937,
+          "original_img_url": "https://pbs.twimg.com/media/HFMDCWgagAEJnwQ.jpg",
+          "original_img_width": 1678
+        },
+        "media_key": "3_2040978395065122817"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFMDO1NbQAAKAAIcKpiFupogAQAA",
+        "media_id": "2040978609465409536",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 94.19,
+                "rgb": {
+                  "blue": 244,
+                  "green": 248,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 5.23,
+                "rgb": {
+                  "blue": 119,
+                  "green": 120,
+                  "red": 120
+                }
+              },
+              {
+                "percentage": 0.31,
+                "rgb": {
+                  "blue": 60,
+                  "green": 64,
+                  "red": 217
+                }
+              },
+              {
+                "percentage": 0.15,
+                "rgb": {
+                  "blue": 57,
+                  "green": 58,
+                  "red": 58
+                }
+              },
+              {
+                "percentage": 0.11,
+                "rgb": {
+                  "blue": 134,
+                  "green": 137,
+                  "red": 229
+                }
+              }
+            ]
+          },
+          "original_img_height": 940,
+          "original_img_url": "https://pbs.twimg.com/media/HFMDO1NbQAA9aG9.jpg",
+          "original_img_width": 1672
+        },
+        "media_key": "3_2040978609465409536"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL+3d/WQAEKAAIcKpiFupogAQAA",
+        "media_id": "2040973810048843777",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 94.17,
+                "rgb": {
+                  "blue": 245,
+                  "green": 249,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 5.7,
+                "rgb": {
+                  "blue": 115,
+                  "green": 117,
+                  "red": 117
+                }
+              },
+              {
+                "percentage": 0.13,
+                "rgb": {
+                  "blue": 48,
+                  "green": 49,
+                  "red": 49
+                }
+              }
+            ]
+          },
+          "original_img_height": 940,
+          "original_img_url": "https://pbs.twimg.com/media/HFL-3d_WQAE_032.jpg",
+          "original_img_width": 1671
+        },
+        "media_key": "3_2040973810048843777"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFMA9HfWgAAKAAIcKpiFupogAQAA",
+        "media_id": "2040976106111533056",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.52,
+                "rgb": {
+                  "blue": 238,
+                  "green": 242,
+                  "red": 243
+                }
+              },
+              {
+                "percentage": 6.35,
+                "rgb": {
+                  "blue": 114,
+                  "green": 118,
+                  "red": 117
+                }
+              },
+              {
+                "percentage": 1.05,
+                "rgb": {
+                  "blue": 139,
+                  "green": 142,
+                  "red": 234
+                }
+              }
+            ]
+          },
+          "original_img_height": 940,
+          "original_img_url": "https://pbs.twimg.com/media/HFMA9HfWgAARHb_.jpg",
+          "original_img_width": 1671
+        },
+        "media_key": "3_2040976106111533056"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFMHuo0XQAAKAAIcKpiFupogAQAA",
+        "media_id": "2040983553941389312",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.04,
+                "rgb": {
+                  "blue": 233,
+                  "green": 241,
+                  "red": 241
+                }
+              },
+              {
+                "percentage": 4.98,
+                "rgb": {
+                  "blue": 87,
+                  "green": 90,
+                  "red": 90
+                }
+              },
+              {
+                "percentage": 0.21,
+                "rgb": {
+                  "blue": 127,
+                  "green": 132,
+                  "red": 180
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFMHuo0XQAAEBtH.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2040983553941389312"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFMCy1eboAAKAAIcKpiFupogAQAA",
+        "media_id": "2040978128500400128",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 77.81,
+                "rgb": {
+                  "blue": 241,
+                  "green": 245,
+                  "red": 246
+                }
+              },
+              {
+                "percentage": 11.38,
+                "rgb": {
+                  "blue": 1,
+                  "green": 1,
+                  "red": 1
+                }
+              },
+              {
+                "percentage": 5.78,
+                "rgb": {
+                  "blue": 3,
+                  "green": 4,
+                  "red": 241
+                }
+              },
+              {
+                "percentage": 0.81,
+                "rgb": {
+                  "blue": 143,
+                  "green": 146,
+                  "red": 236
+                }
+              },
+              {
+                "percentage": 0.15,
+                "rgb": {
+                  "blue": 3,
+                  "green": 5,
+                  "red": 82
+                }
+              }
+            ]
+          },
+          "original_img_height": 940,
+          "original_img_url": "https://pbs.twimg.com/media/HFMCy1eboAATxW7.jpg",
+          "original_img_width": 1671
+        },
+        "media_key": "3_2040978128500400128"
+      }
+    ]
+  }
+}

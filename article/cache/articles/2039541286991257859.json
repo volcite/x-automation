@@ -1,0 +1,206 @@
+{
+  "tweet_created_at": "2026-04-02T03:11:50.000000Z",
+  "id": 2039541286991257900,
+  "id_str": "2039541286991257859",
+  "type": "tweet",
+  "conversation_id_str": "2039541286991257859",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/crVV1IkKz5",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 9007302,
+    "id_str": "9007302",
+    "name": "finalvent",
+    "screen_name": "finalvent",
+    "location": "Tokyo",
+    "url": "http://goo.gl/fiZBC",
+    "description": "ペンネーム: finalvent(ファイナルヴェント)。1957年東京生まれ。学術研究者として、言語学・中世英語学(聖書英語)・日本伝統芸術を研究しています。インターネットでは、2003年からブロガーをしています。著書に『新しい「古典」を読む』全4巻、『考える生き方』など。finalvent読書会を運営しています。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 23943,
+    "friends_count": 5866,
+    "listed_count": 1180,
+    "favourites_count": 76079,
+    "statuses_count": 278868,
+    "created_at": "2007-09-21T01:07:33.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/9007302/1563103965",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198768591/twitter_photo_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 44,
+  "reply_count": 3,
+  "retweet_count": 298,
+  "favorite_count": 1010,
+  "views_count": 245917,
+  "bookmark_count": 649,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039541086822207488",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/crVV1IkKz5"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T03:11:50.000000Z",
+    "id": 2039541286991257900,
+    "id_str": "2039541286991257859",
+    "title": "日本は本当に「転落」したのか ",
+    "preview_text": "日本の一人当たりGDPの順位低下を理由に「日本の転落」を説く言説が目立ちますが、最新の学術的知見（Fernández-Villaverde et al. 2025、白川",
+    "cover_url": "https://pbs.twimg.com/media/HE3n4yUacAASxwR.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7a529",
+          "text": "日本の一人当たりGDPの順位低下を理由に「日本の転落」を説く言説が目立ちますが、最新の学術的知見（Fernández-Villaverde et al. 2025、白川 2024）に照らすと、その解釈には重大な誤りがあります。具体的数値に基づき「日本のアルゼンチン化」説を検証しましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4ogbh",
+          "text": "「一人当たりGDP」という指標の罠",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ad1va",
+          "text": "高齢化が急激に進む社会では、非労働力人口の増加が分母を押し下げるため、一人当たりGDPは現場の生産性を正しく反映しません。日本の生産年齢人口は1995年から2023年までに約15%減少しており、これは近代経済史でも前例のない速度です。人口動態を無視した比較は、走者の速さを「チームの合計点」で測るような誤解を招きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4ar99",
+          "text": "「労働年齢人口一人当たり」で見える真実",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "lm36",
+          "text": "Fernández-Villaverde et al. (2025) によれば、経済の実力を測るべき「労働年齢人口一人当たりGDP」の成長率において、日本（1.39%）と米国（1.65%）の差はわずかです。1998〜2019年の蓄積成長率では日本が米国を上回り、2008年以降の成長率はG7諸国で最高を記録しています。つまり、日本経済の停滞は「人口減少」という構造要因でほぼ説明が可能であり、特別な「失敗」によるものではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1qg2h",
+          "text": "アルゼンチンとの根本的な違い",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cfqjc",
+          "text": "アルゼンチンの衰退は「生産効率の崩壊」が原因ですが、日本の停滞は「労働投入量の物理的減少（規模の縮小）」によるものです。病因が全く異なる両者を同一視するのは不適切です。仮に日本が米国並みの総GDP成長率を達成しようとすれば、労働年齢人口一人当たりの成長率が年率3.12%という非現実的な水準に達する必要がありました。これは米国の実績の約2倍、日本の実績の2.2倍以上のスピードで生産性を上げ続けなければならないのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "850n3",
+          "text": "社会的厚生（生活の質）の視点",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2pk4n",
+          "text": "白川（2024）は、寿命や平等性、労働時間の短縮を加味した「社会的厚生」で日本を評価すべきだと説いています。日本は主要先進国の中でこの指標の成長率が最も高く、世界第2位の平均寿命や、新幹線の正確性に象徴される社会の安定性を維持しています。過去30年で労働時間を大幅に削減しつつ生産性を維持している点は、生活の質の向上を意味します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9ea2u",
+          "text": "冷静な現状認識のために",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d4oj1",
+          "text": "「国力の転落」という安易で情緒的な悲観論に陥る前に、指標が何を測っているのかを問うべきです。データが示すのは、日本が「衰退する国」ではなく「前例のない人口減少という課題に直面しながら、高い効率を維持している国」であるという姿です。必要なのは、適切な「物差し」を用いた冷静な議論と、この構造的課題への新たな挑戦ではないでしょうか。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  },
+  "conversation_policy": "Verified"
+}

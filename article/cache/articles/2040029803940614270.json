@@ -1,0 +1,546 @@
+{
+  "tweet_created_at": "2026-04-03T11:33:01.000000Z",
+  "id": 2040029803940614100,
+  "id_str": "2040029803940614270",
+  "type": "tweet",
+  "conversation_id_str": "2040029803940614270",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/PZYvvKRoPY",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1740061029579866000,
+    "id_str": "1740061029579866112",
+    "name": "Concrete",
+    "screen_name": "ConcreteXYZ",
+    "location": "",
+    "url": "https://www.concrete.xyz/",
+    "description": "Concrete provides full-stack yield infrastructure for DeFi, powering automated, risk-managed vault products | Backed by @Polychain @YziLabs @VanEck_US",
+    "protected": false,
+    "verified": true,
+    "followers_count": 134165,
+    "friends_count": 93,
+    "listed_count": 222,
+    "favourites_count": 2049,
+    "statuses_count": 1266,
+    "created_at": "2023-12-27T17:24:32.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1740061029579866112/1707927820",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1758230390932905984/axpGRz3c_normal.png",
+    "can_dm": true,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 36,
+  "reply_count": 71,
+  "retweet_count": 93,
+  "favorite_count": 18246,
+  "views_count": 39698,
+  "bookmark_count": 7,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040029351006146560",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/PZYvvKRoPY"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T11:33:01.000000Z",
+    "id": 2040029803940614100,
+    "id_str": "2040029803940614270",
+    "title": "Concrete and Euler Partner to Build Institutional-Grade Lending Markets on Modular DeFi Infra",
+    "preview_text": "Concrete and @eulerfinance Partner to Build Institutional-Grade Lending Markets on Modular DeFi Infrastructure\nBlueprint Finance, the core developer of the institutional DeFi protocol Concrete, today",
+    "cover_url": "https://pbs.twimg.com/media/HE-j878bQAA3nOK.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 13,
+                "text": "eulerfinance",
+                "toIndex": 26
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dl7k",
+          "text": "Concrete and @eulerfinance Partner to Build Institutional-Grade Lending Markets on Modular DeFi Infrastructure",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 17,
+              "offset": 0
+            },
+            {
+              "key": 1,
+              "length": 9,
+              "offset": 72
+            },
+            {
+              "key": 2,
+              "length": 6,
+              "offset": 119
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aujal",
+          "text": "Blueprint Finance, the core developer of the institutional DeFi protocol Concrete, today announced a collaboration with Euler, a modular lending protocol, under which Concrete will serve as a curator within Euler's vault framework. Through this arrangement, Concrete will design, deploy, and supervise isolated lending markets structured for institutional participation, deepening the credit infrastructure underlying Concrete's vault ecosystem",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffrct",
+          "text": "Euler’s modular architecture enables more than participation; it enables design.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjv1g",
+          "text": "Concrete will operate as a curator within Euler’s vault framework. This role extends beyond allocation to encompass the structured design and ongoing supervision of isolated credit markets built to institutional standards.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9i2t3",
+          "text": "As curator, Concrete will define the fundamental parameters that shape each vault, including collateral eligibility and quality thresholds, loan-to-value ratios and liquidation boundaries, interest rate model configurations, oracle selection and pricing methodology, and exposure caps and supply limits.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4f2u4",
+          "text": "Each of these decisions directly influences risk distribution and capital behavior within the vault. Rather than inheriting parameters from a shared global pool, we define them explicitly at the vault level.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "47ovq",
+          "text": "This is particularly important in a modular system.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a203r",
+          "text": "Euler’s architecture allows any vault to exist independently, but independence without discipline can create fragmentation. Curation aims to introduce accountability. Curation aims to introduce accountability and helps ensure vaults follow coherent standards rather than opportunistic configurations.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fc51r",
+          "text": "Concrete’s approach to curation will emphasize clear isolation of risk per vault, collateral selection prioritizing liquidity depth and observable market pricing, defined caps to limit concentration risk, observable liquidation mechanics designed to interact with on-chain liquidity, and continuous monitoring of utilization, oracle deviations, and health factors.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8tlq5",
+          "text": "The objective is not to maximize utilization at the expense of safety. It is to create lending environments where liquidity can participate within defined risk parameters.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8io9h",
+          "text": "Importantly, Concrete’s role as curator integrates directly with the broader Concrete ecosystem.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fq0t",
+          "text": "Concrete vault strategies may allocate into Concrete-curated Euler markets where appropriate (1), operating within credit environments whose parameters align with Concrete’s internal quantitative framework. This strengthens structural coherence across the stack, from liquidity routing to credit market participation.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6683h",
+          "text": "In addition, Euler’s modular design allows markets to be structured around assets originating within the Concrete ecosystem, including ct[asset] vault shares. Where appropriate, and within defined risk parameters, this may enable more additional utility for yield-bearing assets while preserving isolation and transparency at the vault level.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48j2h",
+          "text": "Curation within Euler therefore, serves two purposes:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "59n44",
+          "text": "It enhances the quality and discipline of individual lending markets.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "h4lb",
+          "text": "It improves the structural alignment of the broader Concrete product stack.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c6pnj",
+          "text": "This is not a transition into market optimization as a standalone service. It is an extension of our infrastructure strategy; strengthening the credit layer beneath our vault system and creating additional, controlled fee mechanisms through responsible market design.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ejis",
+          "text": "As decentralized finance evolves, capital may increasingly favor systems where risk is explicit, parameterized, and compartmentalized. (2)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtn3a",
+          "text": "Acting as curator on Euler allows Concrete to contribute directly to that architecture.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "40rvi",
+          "text": "About Concrete",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 8,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9eo4v",
+          "text": "Concrete is an Ethereum-based protocol that provides institutional-grade tooling for on-chain asset management. With a proven track record of executing billions in structured flow volume, Concrete offers sophisticated vault architecture and strategy layering to enable secure and transparent yield generation in the DeFi ecosystem. Concrete is part of the Blueprint ecosystem.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2r6g7",
+          "text": "About Blueprint Finance",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 9,
+              "offset": 112
+            },
+            {
+              "key": 5,
+              "length": 13,
+              "offset": 138
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5sui",
+          "text": "Blueprint Finance is a multi-chain DeFi infrastructure company and the core developer of both the Ethereum-based Concrete and Solana-based Glow Finance. Concrete powers tokenized DeFi native asset management and the creation of new derivatives for any asset, while Glow powers yield, trading, and lending on Solana. The company's quantitative framework transforms complex DeFi mechanisms into products that work reliably for both institutions and individuals alike. By eliminating traditional DeFi pain points like liquidation risk and capital fragmentation, Blueprint is building the technical foundation for broader institutional adoption of decentralized finance.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "659ld",
+          "text": "About Euler",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 5,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8co39",
+          "text": "Euler is the credit layer for programmable finance. Euler enables anyone to deploy customised, risk-isolated credit markets for any asset, permissionlessly and without compromising composability. The Euler Vault Kit (EVK) gives builders, curators, and institutions full control over collateral parameters, oracle selection, interest rate models, and risk thresholds at the individual vault level. The Ethereum Vault Connector (EVC) links vaults into a unified account system, enabling cross-collateralisation, batched transactions, and multi-vault strategies. Euler is deployed across 10+ EVM chains.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 28,
+                "text": "eulerfinance",
+                "toIndex": 41
+              }
+            ],
+            "urls": [
+              {
+                "fromIndex": 9,
+                "text": "euler.finance",
+                "toIndex": 22
+              },
+              {
+                "fromIndex": 50,
+                "text": "docs.euler.finance",
+                "toIndex": 68
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 13,
+              "offset": 9
+            },
+            {
+              "key": 8,
+              "length": 13,
+              "offset": 28
+            },
+            {
+              "key": 9,
+              "length": 18,
+              "offset": 50
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a9lq5",
+          "text": "Website: euler.finance | X: @eulerfinance | Docs: docs.euler.finance",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2v0u4",
+          "text": "Important Disclosures",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bi2hp",
+          "text": "This announcement is for informational purposes only and does not constitute an offer to sell or solicitation of an offer to buy any security, investment product, or service. All yield generation strategies involve risk of loss. Past performance does not guarantee future results. This announcement contains forward-looking statements regarding future services. Neither Blueprint Finance nor Concrete nor Euler as named undertakes any obligation to update forward-looking statements.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48bbe",
+          "text": "‍-------------------",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d31to",
+          "text": "Concrete vault strategies operate pursuant to defined risk parameters and applicable governance procedures. Allocations are subject to change.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kp7a",
+          "text": "Forward-looking statement. This reflects a general market perspective only and does not imply that any specific protocol, including Euler or Concrete, will achieve any particular level of adoption or capital inflows. Actual market developments may differ materially.",
+          "type": "ordered-list-item"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "url": "https://x.com/eulerfinance"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://www.concrete.xyz/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "url": "https://docs.euler.finance/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://www.glowfinance.xyz/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "url": "https://www.euler.finance/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://concrete.xyz/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://blueprintfinance.com/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://euler.finance/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "url": "https://www.euler.finance/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "url": "https://www.concrete.xyz/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

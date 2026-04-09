@@ -1,0 +1,1261 @@
+{
+  "tweet_created_at": "2026-04-02T15:10:11.000000Z",
+  "id": 2039722065855381800,
+  "id_str": "2039722065855381883",
+  "type": "tweet",
+  "conversation_id_str": "2039722065855381883",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/tJI8qkljV8",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14710129,
+    "id_str": "14710129",
+    "name": "Peter H. Diamandis, MD",
+    "screen_name": "PeterDiamandis",
+    "location": "",
+    "url": "https://www.diamandis.com/metatrends",
+    "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+    "protected": false,
+    "verified": true,
+    "followers_count": 366838,
+    "friends_count": 827,
+    "listed_count": 5553,
+    "favourites_count": 8268,
+    "statuses_count": 17167,
+    "created_at": "2008-05-09T05:22:23.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14710129/1589572832",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/xprize",
+      "badge_url": "https://pbs.twimg.com/profile_images/1243276648557858817/yj3Pgmmy_bigger.jpg",
+      "description": "XPRIZE",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 48,
+  "reply_count": 133,
+  "retweet_count": 291,
+  "favorite_count": 2543,
+  "views_count": 248831,
+  "bookmark_count": 1278,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039720594443276288",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/tJI8qkljV8"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T15:10:11.000000Z",
+    "id": 2039722065855381800,
+    "id_str": "2039722065855381883",
+    "title": "Robotaxies & Flying Cars Will Reinvent Real Estate",
+    "preview_text": "What to Buy, What to Sell, and What to Transform Before Everyone Else Figures It Out\nAutonomous Vehicles (AVs or Robotaxis) and eVTOLs (electric vertical takeoff or landing aircraft) or as I call",
+    "cover_url": "https://pbs.twimg.com/media/HE6LGQYXQAAAATZ.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bp93",
+          "text": "What to Buy, What to Sell, and What to Transform Before Everyone Else Figures It Out",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eh6c4",
+          "text": "Autonomous Vehicles (AVs or Robotaxis) and eVTOLs (electric vertical takeoff or landing aircraft) or as I call them, flying cars aren’t just changing transportation.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3lv4f",
+          "text": "They are about to reshape real estate and urban design in ways that are going to feel obvious in hindsight but are still invisible to most people today.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c6vh2",
+          "text": "This newsletter is incredibly actionable for almost everyone reading. What real estate you might purchase or sell, and what you might do with your current residential assets. Let me walk you through what’s happening, what it means for you, and what you need to do about it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evhn8",
+          "text": "But first an update and context on AVs and Flying Cars…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5ndl9",
+          "text": "Your Robotaxi is 10x Safer Than You Are",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6tahr",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 84,
+              "style": "Italic"
+            }
+          ],
+          "key": "27b5n",
+          "text": "Waymo is currently running 3,000 vehicles across 10 cities and just hit 170 million fully autonomous miles.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjv7j",
+          "text": "And here’s the kicker: Their data indicated 92% fewer serious crashes than human drivers. The type of safety data we also recently witnessed with Tesla’s FSD… basically 10x better than you and me (well, definitely me).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 104,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "l5ai",
+          "text": "Waymo is preventing one serious crash every eight days compared to what human drivers would have caused.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2vs25",
+          "text": "It’s still insane that we give a 16-year-old testosterone laden young man control of a 4,000 lbs chunk of metal traveling at 60 miles per hour with only (on average) 30-40 hours of training. Note: In Michigan, there is NO minimum requirement… theoretically a teenager could get a license with almost no documented driving time).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "sa30",
+          "text": "And guess what?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 173,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bncti",
+          "text": "In teenagers (ages 15–19), motor vehicle crashes are the #1 cause of death in the US. For children 5 and under, motor vehicle accidents are typically #2 or #3 cause of death",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ev4j",
+          "text": "There will be an inevitable moment when AVs are SOOOO much safer than human drivers, that having a human behind the wheel starts to look like drunk driving looked in the 1980s. Reckless. Unacceptable. Banned.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2scgr",
+          "text": "Flying Cars Are Finally, Actually Here",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fcfki",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9h09s",
+          "text": "Now let’s talk about eVTOLs, because this is where things get really interesting.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ogi",
+          "text": "Joby Aviation—founded by JoeBen Bevirt over a decade ago—just completed testing for its first FAA-conforming aircraft. They did demonstration flights over the Golden Gate Bridge. And they’ve partnered with Uber to launch Uber Air.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjt7c",
+          "text": "The second major flying car company in the U.S. is Archer Aviation, who just became the first company to achieve 100% FAA acceptance of its eVTOL aircraft means of compliance.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9eo2d",
+          "text": "Translation: We’re going to start seeing these flying cars operating in US cities in the next 18 months. And they’ll be here in LA in a big way for the 2028 Olympics.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 51,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fmkvn",
+          "text": "So, What are Joby and Archer’s Performance Metrics?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e0g2i",
+          "text": "Let’s start with Joby. Their S4 aircraft carries one pilot and four passengers (think of it as a flying Uber Black) and cruises at up to 200 mph with a range of up to 150 miles on a single charge. That’s Los Angeles to San Diego. Or Manhattan to the Hamptons. It operates as quietly as 45 decibels at cruise altitude—roughly the sound level of a quiet library—and is 100 times quieter than a helicopter during takeoff and landing.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7fdg",
+          "text": "This isn’t a noisy, vibrating helicopter experience. This is closer to riding in a Tesla, except it flies. The aircraft can recharge in under 20 minutes meaning it’s designed for rapid, back-to-back urban missions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6qoqd",
+          "text": "Next up, Archer’s Midnight aircraft. This is a purpose-built aircraft for a slightly different use case—carrying four passengers and one pilot for up to 60 miles at speeds of up to 150 mph EVTOL News—optimized for the bread-and-butter urban trip: airport to downtown, across a congested city, or suburb to business district. Archer’s goal is to replace 60 to 90-minute car commutes with 10 to 20-minute electric air taxi flights that are safe, quiet, and cost-competitive with ground transportation.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5ccuj",
+          "text": "Beyond Joby & Archer…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "21u9h",
+          "text": "The eVTOL space is actually enormous. There are over 500 eVTOL companies active worldwide right now, of which arguably ~20 are serious contenders. Briefly, there’s Eve Air Mobility (backed by Embraer), Wisk (backed by Boeing), Vertical Aerospace out of the UK, Volocopter out of Germany and EHang out of China which secured type certification for its EH216-S from China’s Civil Aviation Administration in October 2023, becoming the world’s first certified eVTOL, completing 40,000 test flights in just 31 months.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 119,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "27h9n",
+          "text": "Most important, these are not transportation stories. This is full urban redesign. This is about Land becomes abundant.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7kupt",
+          "text": "If you fly across the US in an airplane and look out the window… most of America is empty! No people! We do not have a scarcity problem. We have a mobility and accessibility problem.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b05m8",
+          "text": "The US average population density is only about 94 people per square mile.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 119,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cl5pt",
+          "text": "That’s the key insight: We don’t have a land scarcity problem. We have a mobility problem. And we’re about to solve it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fecsp",
+          "text": "4 Key Implications For You",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 66,
+              "offset": 84,
+              "style": "Italic"
+            },
+            {
+              "length": 66,
+              "offset": 84,
+              "style": "Bold"
+            }
+          ],
+          "key": "4g085",
+          "text": "Okay, so autonomous vehicles are 92% safer and flying cars are landing in 18 months. What does that actually mean for your life? Let me break it down.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6cmde",
+          "text": "#1) Your time expands…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68fpo",
+          "text": "Let’s use my hometown of Los Angeles as the example here.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2nnmf",
+          "text": "Personally I hate driving… luckily my Tesla does it for me (though it complains every time I check my phone).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjc2j",
+          "text": "Here’s the numbers on the “Driving Time-Suck” in LA.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2h2fe",
+          "text": "· 157 hours driving per year = nearly 4 full work weeks behind the wheel",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6tqo",
+          "text": "· 86–88 hours of that is pure gridlock — not moving, just sitting — equal to more than 2 work weeks of your life, every year, just waiting in traffic",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 194,
+              "style": "Italic"
+            },
+            {
+              "length": 11,
+              "offset": 194,
+              "style": "Bold"
+            }
+          ],
+          "key": "7bms4",
+          "text": "Imagine when these 157 hours become time to sleep, meditate, catchup on your work, play video games, watch a movie or a hundred other things you currently don’t have time to fit into your life. LIBERATION!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4bna8",
+          "text": "#2) Then parking disappears",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 160,
+              "style": "Italic"
+            },
+            {
+              "length": 27,
+              "offset": 160,
+              "style": "Bold"
+            }
+          ],
+          "key": "64jrp",
+          "text": "Today Los Angeles County had 18.6 million parking spaces: residential off-street, non-residential off-street, and on-street combined. That amounts to more than 200 square miles of parking, equivalent to 14% of the county’s incorporated land area.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 113,
+              "style": "Italic"
+            },
+            {
+              "length": 69,
+              "offset": 113,
+              "style": "Bold"
+            }
+          ],
+          "key": "dl3hu",
+          "text": "Beyond parking, if you include roads, freeways, parking lots, driveways, and garages combined, you end up with a jaw-dropping 50% of Los Angeles’s surface area is given over to cars.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahpv4",
+          "text": "So, what happens in an era where you don’t own a car—when you just summon an autonomous vehicle that arrives at your door and then leaves to serve someone else—you don’t need parking? Not in your home. Not at your office. Not at the stadium.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cekim",
+          "text": "In my own home in Santa Monica, we already converted one of our three-car garages into an extra bedroom. The other two garages have become storage and workout space. I’m never going back to parking cars there.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70tan",
+          "text": "And, what happens to the roughly 200 square miles of LA currently frozen as parking? What happens when that land gets released?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dvskc",
+          "text": "It becomes gardens. Park land. It becomes housing. Living, breathing, human-promoting real estate.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4122f",
+          "text": "If you’re in the parking garage business, you need to be thinking ahead right now.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7tcgu",
+          "text": "If you own property with massive parking lots, you need to be thinking about what you’re going to do with that space in five years.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9eotu",
+          "text": "#3) Next, car ownership collapses",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bafd1",
+          "text": "Here’s a number that should stop you cold…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 130,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3vvc6",
+          "text": "The world manufactures roughly 90 million new cars every year — and the average vehicle sits parked and idle for 95% of every day.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42cmd",
+          "text": "We’ve built a civilization around assets that are in use for barely one hour out of twenty-four. Even if autonomous vehicles double the utilization of each car in a shared fleet, you’d need a fraction of the vehicles we produce today to move the same number of people. The knock-on effect for the auto industry (and for the steel, insurance, financing, and parking industries built around it) would be seismic.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24bcn",
+          "text": "Now let’s look at the economics, because this is where it gets really personal.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45hqc",
+          "text": "Take an Uber from San Francisco International Airport to downtown SF: a 13-mile trip that currently runs you roughly $35 to $75 depending on time of day.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ck3fe",
+          "text": "The overwhelming majority of that fare is paying the driver. The vehicle itself, the gas, the insurance… those costs are modest compared to the human sitting in the front seat. Strip out the driver with full autonomy, increase fleet utilization, and the math changes dramatically.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jcmo",
+          "text": "ARK Invest projects that a Waymo vehicle will cost about 40 cents per mile by 2030, with Tesla’s purpose-built Cybercab potentially reaching 20 cents per mile at scale.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 139,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "54dc",
+          "text": "All of a sudden that 13-mile trip from SFO to downtown SF now costs you something between $3 - $6 bucks instead of $35 - $75 (10x cheaper!)",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mqnf",
+          "text": "That’s not a projection anymore. It’s directionally confirmed by what’s already happening. Tesla’s robotaxi in Austin launched at around $1.25 per mile, already undercutting human-driven Uber. The trajectory is unmistakable.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 115,
+              "offset": 43,
+              "style": "Bold"
+            }
+          ],
+          "key": "8t2gm",
+          "text": "Compare that to what you pay to own a car. AAA’s 2024 study puts the total cost of owning and operating a new vehicle at $12,297 per year (over $1,000 a month) when you factor in depreciation, financing, insurance, fuel, and maintenance. At 15,000 miles per year, that works out to roughly 82 cents per mile, and your car still sits parked 95% of the time doing nothing for you.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 98,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8itle",
+          "text": "A mature autonomous ride network running at 20 cents per mile would be a 4x cheaper than ownership, and that gap widens further when you factor in that you’d no longer need to buy, insure, maintain, or park a vehicle at all.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "die5v",
+          "text": "So, if you’re young and living in a city, the question isn’t whether you should own a car, it’s why on Earth you would.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7q88h",
+          "text": "On-demand autonomous transportation is going to cost a fraction of ownership, arrive in minutes, and never need parking. We’re going from “car ownership” to “transport as a service”… everywhere, all the time.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "65pln",
+          "text": "#4/ Real estate gets completely repriced",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7qe87",
+          "text": "This is where it gets really actionable and fun.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cn14c",
+          "text": "Dave Blundin, my brilliant Moonshot Mate had this advice: “If you’re young and you’ve got a job and you’re living in a city, you might not want to buy in the city. Keep renting. And look for something that becomes your second home later in life that’s in a beautiful spot that’s a little harder to get to. That is going to be incredibly coveted.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9p68n",
+          "text": "Here’s why: When accessibility stops being a constraint, the value proposition of urban real estate changes dramatically.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ej7h1",
+          "text": "Right now, you pay a premium to live in the city because you need to be close to work, close to airports, close to services. But if you can summon an autonomous vehicle that takes you to a flying car that lands you in downtown LA in 15 minutes from a property 50 miles away, why pay the urban premium?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "986ab",
+          "text": "Island real estate becomes 10x, 100x more accessible. Beautiful remote properties become suddenly valuable.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8mhp1",
+          "text": "In particular, just think about the island real estate in the U.S., and how their value will increase as accessibility becomes as easy as hoping an uber. Before flying cars you’d need to own a boat and have to build a dock and get appropriate coastal commissions to make an island useful and accessible.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4lmou",
+          "text": "Check out the plethora of islands you could develop in the United States once flying cars are easy and cheap:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "ec3es",
+          "text": "· The San Juan Islands in Washington State have 172 named islands.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "cn3aq",
+          "text": "· Florida Keys, a coral archipelago with around 1,700 islands, though most are tiny mangrove islets.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "c64qt",
+          "text": "· Thousand Islands (New York/Ontario border) straddle the US-Canada border along the St. Lawrence River with over 1,800 islands.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "2c9ql",
+          "text": "· Maine Coast has roughly 4,600 coastal islands, making it arguably the most island-dense coastline in the lower 48.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 190,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4mue4",
+          "text": "Bottom line, we don’t have a real estate scarcity problem. We have an accessibility problem. And once you solve accessibility, those islands and lakes and mountains become prime real estate.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "r57m",
+          "text": "What You Need to Do",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3o4o7",
+          "text": "Okay, so autonomous vehicles and flying cars are reshaping real estate, urban design, and personal wealth. What should you actually do?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 49,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "35dl7",
+          "text": "If you own Commercial or Residential real estate:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qcc2",
+          "text": "Start thinking now about what you’re going to do with parking structures and garages. Don’t wait until they’re worthless. Convert them into something valuable: housing, commercial space, gyms, storage facilities. The writing is on the wall.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4jvut",
+          "text": "If you own downtown urban real estate that’s priced on proximity, be aware that the premium for proximity is about to compress. You’re not going to zero, but the relative value proposition changes when everyone can access everything easily.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "850vh",
+          "text": "If you’re young and renting in a city:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6h82",
+          "text": "Don’t rush to buy urban real estate. Keep renting. Save your capital. And start looking for beautiful, remote properties that are going to be incredibly coveted in a world where accessibility is solved. Islands, mountains, lakes—places that are hard to get to today but won’t be in five years.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d2eet",
+          "text": "Dave’s advice again: “Even if you have to pay a little more, close that transaction. We have a huge country, but the really great spots are limited.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3utpa",
+          "text": "If you’re an investor:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5g1u8",
+          "text": "Look for companies solving the infrastructure layer: vertiports, autonomous vehicle networks, drone delivery systems. The convergence of AVs, eVTOLs, and drone delivery is going to create entirely new categories of real estate and infrastructure.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c08gs",
+          "text": "Also, pay attention to companies reimagining urban design. When 20% to 50% of LA’s land gets released from car parking and transport, someone’s going to redevelop it. That’s a multi-trillion-dollar opportunity.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "51uh2",
+          "text": "If you’re homeowner:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "986pd",
+          "text": "Start thinking about your garage as new-found-living space. What are you going to do with that space? Because in five years, you’re not going to need it for cars. Turn it into something that generates value—an office, a rental unit, a gym, a workshop.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b01c7",
+          "text": "Here’s my closing thought…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 171,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "crfrs",
+          "text": "When autonomous vehicles, flying cars, and drone delivery all hit simultaneously—and they will, probably within the next three to five years—geography stops being destiny.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31pae",
+          "text": "You won’t need to live in the city to access city opportunities. You won’t need to live near an airport to travel frequently. You won’t need to live near stores to get what you need.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fshj9",
+          "text": "The constraints that have shaped human civilization for thousands of years are about to evaporate.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 131,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ftgik",
+          "text": "Land becomes abundant. Mobility becomes abundant. And the people who understand that early are going to build extraordinary wealth.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4pde",
+          "text": "The question is: Are you positioned to benefit, or are you going to be stuck with overpriced urban real estate and a three-car garage you don’t need?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3uu1n",
+          "text": "Choose wisely. The future is closer than you think.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ef3o",
+          "text": "- Peter",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "5b3c61da-290d-4a3d-a80d-1f3324383fbe",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039720793450700801"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "42c6fd35-0dbf-45b0-8997-d646525bd603",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039720983746207745"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE6LQTabYAEKAAIAAAAAAOB1cQAA",
+        "media_id": "2039720793450700801",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 76.45,
+                "rgb": {
+                  "blue": 18,
+                  "green": 22,
+                  "red": 23
+                }
+              },
+              {
+                "percentage": 20.39,
+                "rgb": {
+                  "blue": 133,
+                  "green": 137,
+                  "red": 138
+                }
+              },
+              {
+                "percentage": 2.35,
+                "rgb": {
+                  "blue": 48,
+                  "green": 195,
+                  "red": 241
+                }
+              },
+              {
+                "percentage": 0.54,
+                "rgb": {
+                  "blue": 33,
+                  "green": 104,
+                  "red": 126
+                }
+              },
+              {
+                "percentage": 0.14,
+                "rgb": {
+                  "blue": 71,
+                  "green": 73,
+                  "red": 74
+                }
+              }
+            ]
+          },
+          "original_img_height": 817,
+          "original_img_url": "https://pbs.twimg.com/media/HE6LQTabYAE06-M.jpg",
+          "original_img_width": 1456
+        },
+        "media_key": "3_2039720793450700801"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE6LbYUaYAEKAAIAAAAAAOB1cQAA",
+        "media_id": "2039720983746207745",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 36.48,
+                "rgb": {
+                  "blue": 66,
+                  "green": 65,
+                  "red": 71
+                }
+              },
+              {
+                "percentage": 27.51,
+                "rgb": {
+                  "blue": 193,
+                  "green": 201,
+                  "red": 205
+                }
+              },
+              {
+                "percentage": 11.76,
+                "rgb": {
+                  "blue": 124,
+                  "green": 179,
+                  "red": 223
+                }
+              },
+              {
+                "percentage": 7.67,
+                "rgb": {
+                  "blue": 179,
+                  "green": 162,
+                  "red": 140
+                }
+              },
+              {
+                "percentage": 2.83,
+                "rgb": {
+                  "blue": 93,
+                  "green": 179,
+                  "red": 243
+                }
+              }
+            ]
+          },
+          "original_img_height": 604,
+          "original_img_url": "https://pbs.twimg.com/media/HE6LbYUaYAEufBs.jpg",
+          "original_img_width": 1114
+        },
+        "media_key": "3_2039720983746207745"
+      }
+    ]
+  }
+}

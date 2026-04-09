@@ -1,0 +1,171 @@
+{
+  "tweet_created_at": "2026-04-01T17:04:24.000000Z",
+  "id": 2039388423065117200,
+  "id_str": "2039388423065117157",
+  "type": "tweet",
+  "conversation_id_str": "2039388423065117157",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/jrZLfXFzsN",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1332751359632879600,
+    "id_str": "1332751359632879624",
+    "name": "Alexander Wallasch",
+    "screen_name": "AlexWallasch",
+    "location": "Deutschland ",
+    "url": "https://www.alexander-wallasch.de",
+    "description": "Wir sind die neuen Medien! Investigativen Journalismus unterstützen: https://t.co/3IxacXzyZW",
+    "protected": false,
+    "verified": true,
+    "followers_count": 63927,
+    "friends_count": 15605,
+    "listed_count": 242,
+    "favourites_count": 101853,
+    "statuses_count": 46184,
+    "created_at": "2020-11-28T18:21:17.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1332751359632879624/1688763702",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1916047540547387392/v_GxATG7_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 7,
+  "reply_count": 23,
+  "retweet_count": 360,
+  "favorite_count": 1430,
+  "views_count": 39134,
+  "bookmark_count": 335,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039386634727084032",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/jrZLfXFzsN"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T17:04:24.000000Z",
+    "id": 2039388423065117200,
+    "id_str": "2039388423065117157",
+    "title": "Gaddafi vor der UN 2009: Sie werden einen Virus und einen Impfstoff erfinden",
+    "preview_text": "Muammar al-Gaddafis Auftritt bei der UN-Vollversammlung am 23. September 2009 war ein diplomatischer Eklat. Statt der geplanten 15 Minuten sprach er über 95 Minuten, zerriss aus Protest die UN-Charta,",
+    "cover_url": "https://pbs.twimg.com/media/HE1c8rGXEAAuh57.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2jqt0",
+          "text": "Muammar al-Gaddafis Auftritt bei der UN-Vollversammlung am 23. September 2009 war ein diplomatischer Eklat. Statt der geplanten 15 Minuten sprach er über 95 Minuten, zerriss aus Protest die UN-Charta, kritisierte den UN-Sicherheitsrat scharf und brachte Dolmetscher zur Verzweiflung. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vkn3",
+          "text": "Der libysche Diktator Muammar al-Gaddafi wurde am 20. Oktober 2011 nach der Eroberung seiner Heimatstadt Sirte durch Rebellen getötet. Nach seiner Festnahme, bei der er sich in einem Abwasserrohr versteckt hielt, wurde er misshandelt und starb kurz darauf.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 49,
+                "text": "https://www.youtube.com/watch?v=PBRqqa7ZpeQ",
+                "toIndex": 92
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18t16",
+          "text": " Aber noch ein Zitat ist in Erinnerung geblieben https://www.youtube.com/watch?v=PBRqqa7ZpeQ ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84pht",
+          "text": "Deutsche Übersetzung: ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 699,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "8qvm3",
+          "text": "„Heute gibt es die Schweinegrippe. Vielleicht gibt es morgen die Fischgrippe, denn manchmal stellen wir Viren her, indem wir sie kontrollieren. Es ist ein kommerzielles Geschäft. Kapitalistische Unternehmen produzieren Viren, damit sie Impfstoffe herstellen und verkaufen können. Das ist sehr beschämend und schlechte Ethik. Impfstoffe und Medikamente sollten nicht verkauft werden. In meinem Grünen Buch vertrete ich die Auffassung, dass Medikamente nicht verkauft oder kommerzialisiert werden dürfen. Medikamente sollten kostenlos sein und Impfungen für Kinder kostenlos verabreicht werden, aber kapitalistische Unternehmen produzieren die Viren und die Impfstoffe und wollen damit Profit machen.“",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g5k6",
+          "text": "Englischer Originaltext (aus dem offiziellen Transkript seiner UN-Rede 2009):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 588,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "5chv",
+          "text": "„Today there is swine flu. Perhaps tomorrow there will be fish flu, because sometimes we produce viruses by controlling them. It is a commercial business. Capitalist companies produce viruses so that they can generate and sell vaccinations. This is very shameful and poor ethics. Vaccinations and medicine should not be sold. In The Green Book, I maintain that medicines should not be sold or subject to commercialization. Medicines should be free of charge and vaccinations given free to children, but capitalist companies produce the viruses and vaccinations and want to make a profit.“",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6uotb",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

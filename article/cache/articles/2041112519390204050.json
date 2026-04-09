@@ -1,0 +1,191 @@
+{
+  "tweet_created_at": "2026-04-06T11:15:21.000000Z",
+  "id": 2041112519390204200,
+  "id_str": "2041112519390204050",
+  "type": "tweet",
+  "conversation_id_str": "2041112519390204050",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/x7FmsHI8No",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2026901239641026600,
+    "id_str": "2026901239641026562",
+    "name": "† 𝕽𝖊𝖓𝖆 𝕭𝖊𝖘𝖙𝖎𝖆 †",
+    "screen_name": "Rena_Noct",
+    "location": "",
+    "url": null,
+    "description": "✦──『 𝑰 𝑨𝑴 𝑨𝑻𝑶𝑴𝑰𝑪 』──✦",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4486,
+    "friends_count": 8,
+    "listed_count": 20,
+    "favourites_count": 31,
+    "statuses_count": 67,
+    "created_at": "2026-02-26T06:06:22.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026901239641026562/1773017083",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2030573948241608705/lbfUlvMR_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 1,
+  "reply_count": 27,
+  "retweet_count": 60,
+  "favorite_count": 4785,
+  "views_count": 1049065,
+  "bookmark_count": 4075,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041068547032399872",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/x7FmsHI8No"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T11:15:21.000000Z",
+    "id": 2041112519390204200,
+    "id_str": "2041112519390204050",
+    "title": "タップで脱げる！？♡※注意",
+    "preview_text": "寝ると横に広がっちゃう♡好き？",
+    "cover_url": "https://pbs.twimg.com/media/HFNYv2eaUAAcsXf.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2usfv",
+          "text": "寝ると横に広がっちゃう♡好き？\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bphrv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmvn0",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "9f92073f-680c-48ec-b983-d7baef0d7b76",
+              "mediaItems": [
+                {
+                  "localMediaId": "26",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041072452852465664"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFNYlPEbQAAKAAIcIP/wP5owAgAA",
+        "media_id": "2041072452852465664",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 45.9,
+                "rgb": {
+                  "blue": 79,
+                  "green": 63,
+                  "red": 53
+                }
+              },
+              {
+                "percentage": 31.96,
+                "rgb": {
+                  "blue": 205,
+                  "green": 212,
+                  "red": 226
+                }
+              },
+              {
+                "percentage": 6.54,
+                "rgb": {
+                  "blue": 121,
+                  "green": 104,
+                  "red": 88
+                }
+              },
+              {
+                "percentage": 5.99,
+                "rgb": {
+                  "blue": 89,
+                  "green": 70,
+                  "red": 220
+                }
+              },
+              {
+                "percentage": 3.54,
+                "rgb": {
+                  "blue": 108,
+                  "green": 92,
+                  "red": 171
+                }
+              }
+            ]
+          },
+          "original_img_height": 634,
+          "original_img_url": "https://pbs.twimg.com/media/HFNYlPEbQAASdjr.jpg",
+          "original_img_width": 1170
+        },
+        "media_key": "3_2041072452852465664"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "date": "2026-04-09",
+  "theme": "KarpathyのLLM Wiki手法をClaude Code × n8nで実装して「使うほど賢くなる自分専用AI」を作る方法",
+  "subtitle": "RAGでもメモアプリでもない。AIが知識を「コンパイル」して育てる第三のアーキテクチャ",
+  "target_reader": "Claude CodeやAIツールを使い始めたが、毎回同じことを説明し直す・過去の知見が蓄積されない、と感じている個人事業主・フリーランス・エンジニア",
+  "reader_pain": "AIに何度も同じ背景説明をしている。Notionやメモに知見を貯めても結局AIが参照してくれない。RAGは難しそうで手が出ない。使えば使うほどAIが自分のことを理解してくれる仕組みが欲しいけど、具体的な方法がわからない。",
+  "core_message": "Karpathyが提唱したLLM Wikiは「AIが自分で知識を整理・更新し続けるMarkdownライブラリ」であり、Claude Code × n8nで実装すれば、使うほど自分専用AIが賢くなる仕組みを誰でも作れる。",
+  "angle": "海外最新コンセプト紹介 + 自分の実装体験ハウツー",
+  "structure": "ステップ形式",
+  "sections": [
+    {
+      "heading": "毎回AIに同じ説明をしていませんか？",
+      "content_summary": "読者の痛みに共感する導入。「AIは賢いのに、昨日教えたことを今日は覚えていない」という体験を描写。NotionやObsidianにメモを貯めてもAIが参照しない問題。RAGは個人には大げさすぎる。この課題を4月3日にKarpathyが解決した。",
+      "word_count_target": 400
+    },
+    {
+      "heading": "Karpathyが提唱した「LLM Wiki」とは何か",
+      "content_summary": "2026年4月3日にAndrej KarpathyがX投稿とGitHub Gistで公開したLLM Knowledge Baseのコンセプトを解説。3層構造（Raw sources / Wiki / Schema）と3オペレーション（Ingest / Query / Lint）を図解的に説明。RAGとの決定的な違い：RAGは毎回ゼロから検索するが、LLM Wikiは知識を永続的なMarkdownファイルとして蓄積・更新し続ける。「クエリ時に毎回処理」ではなく「取り込み時に一度だけ処理して永続的に保持」という発想の転換。1つのソースを取り込むと10〜15のWikiページが同時に更新される仕組み。Karpathyは1945年のVannevar Bush「Memex」ビジョンと関連づけている。",
+      "word_count_target": 600
+    },
+    {
+      "heading": "なぜこれが「RAGの次」と言われているのか",
+      "content_summary": "RAGの3つの限界（毎回ゼロからの検索コスト・チャンク分割の精度問題・知識の構造化ができない）に対してLLM Wikiがどう解決するか。VentureBeatが「RAGをバイパスするアーキテクチャ」として報道した事実。公開後すぐに複数のOSSリポジトリが派生（lucasastorian/llmwiki等）。100記事・40万語規模でもindex.mdとサマリーでLLMがナビゲート可能というスケーラビリティ。退屈なメンテナンス作業をLLMが引き受けるので、人間はキュレーションと質問に集中できる。",
+      "word_count_target": 500
+    },
+    {
+      "heading": "僕がClaude Code × n8nで実装した具体的な手順",
+      "content_summary": "Step 1: CLAUDE.mdにスキーマ定義を書く（Wikiの設計図。ディレクトリ構造・ページ形式・ワークフローを定義。自分の専門領域・文体ルール・判断基準をスキーマに落とし込む）。Step 2: raw/フォルダに自分の知見・体験・参考記事をMarkdownで整備（オーナーの思想・体験を構造化。Obsidian Web Clipperで記事収集）。Step 3: Claude Codeのスキルとしてingest/query/lintコマンドを実装（MindStudioの事例を参考に）。Step 4: n8nのCronトリガーで定期的にLintを自動実行（矛盾検出・孤立ページ発見・古い情報の特定を自動化）。Step 5: 日常の作業でWikiが自然に育つ運用フロー。自分のX自動化パイプライン（朝・夕2投稿）でナレッジが蓄積・活用されていく実例を添える。最初は10〜20件のソースから始めて有効性を検証するのがコツ。",
+      "word_count_target": 800
+    },
+    {
+      "heading": "使ってみて変わったこと",
+      "content_summary": "実際の変化を具体的に。「AIへの説明回数が激減した」「過去のリサーチ結果が自動的に次の企画に反映される」「知見が複利で効いてくる感覚」。ノウハウ（機能）ではなくコンセプト（使い方の切り口）を変えただけで結果が変わった、という差別化フレームを適用。Boris Chernyが「間違いのたびにCLAUDE.mdに追記する」living document運用を推奨していることにも触れる。",
+      "word_count_target": 400
+    },
+    {
+      "heading": "「知識が複利で効く」仕組みを持つことの意味",
+      "content_summary": "まとめ。AIツールが毎月のように新しく出てくる時代に、ツールを追いかけるのではなく「自分の知識基盤を育てる」という発想の転換。既存の要素の掛け合わせ（Karpathy概念 × Claude Code × n8n）で目新しいものを作るコンセプトメイキング。Claude Code × n8nの組み合わせなら非エンジニアでも始められる。読者への問いかけで締める。",
+      "word_count_target": 300
+    }
+  ],
+  "hook_strategy": "「毎回AIに同じ説明をしている」という読者の日常的なストレスを冒頭で突き、4月3日にKarpathyが公開した解決策を提示。「RAGでもメモアプリでもない第三の方法」という意外性で引き込む。ストーリー・体験談型の冒頭（バズ記事分析で最多パターン）を採用。",
+  "cta": "この仕組みに興味がある方はフォローしておくと、続きの実装TipsをX投稿で共有していきます",
+  "buzz_patterns_applied": [
+    "数字を含むタイトル（5ステップ、第三の〜）",
+    "ストーリー・体験談型の冒頭（バズ記事分析で最多パターン：6件）",
+    "ブックマーク保存を誘発するステップ形式（keitowebaiの学習ロードマップでBM率1.4%を実証）",
+    "海外バズ概念の日本語速報＋自分の実装案（masahirochaenのAI自己改善投稿でいいね506・BM757を実証）",
+    "BM/いいね比率0.797の高保存率を狙う有益コンテンツ設計",
+    "権威者引用（Karpathy）＋等身大の実装で二段構え"
+  ],
+  "knowledge_used": [
+    {
+      "id": "k_20260326_007",
+      "usage_type": "seasoning",
+      "how_to_use": "「差別化はノウハウではなくコンセプトでするもの」というフレームを、LLM WikiとRAGの違い・ツール追いかけ vs 知識基盤構築の対比に適用。セクション5「使ってみて変わったこと」で自然に織り込む。"
+    },
+    {
+      "id": "k_20260326_008",
+      "usage_type": "seasoning",
+      "how_to_use": "「既存の要素の掛け合わせで目新しいものを作る」というコンセプトメイキングの考え方を、Karpathy Wiki × Claude Code × n8nという掛け算の正当化に使用。まとめセクションで触れる。"
+    }
+  ],
+  "trend_connection": "trends.jsonの「KarpathyのLLM Wiki」トピック（relevance: high）と直接接続。「AI同士の自己改善」トピック（Lintオペレーション＝AIによる自己レビュー）とも接続。直近の承認済み投稿（Claude Code Subagents並列実行）との連続性も確保——同じClaude Code活用シリーズとして読者のフォロー継続を促す。",
+  "verified_facts": [
+    {
+      "fact": "Andrej Karpathyが2026年4月3日にX投稿とGitHub GistでLLM Knowledge Baseのコンセプトを公開。「a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating knowledge」と述べた",
+      "source_url": "https://x.com/karpathy/status/2039805659525644595",
+      "verified_at": "2026-04-09"
+    },
+    {
+      "fact": "LLM Wikiは3層構造（Raw sources / Wiki / Schema）と3オペレーション（Ingest / Query / Lint）で構成。1つのソースを取り込むと通常10〜15のWikiページが同時更新される",
+      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "verified_at": "2026-04-09"
+    },
+    {
+      "fact": "RAGとの決定的な違い：RAGは毎回クエリ時にゼロから検索するが、LLM Wikiは取り込み時に一度だけ処理し永続的なMarkdownアーティファクトとして保持し続ける",
+      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "verified_at": "2026-04-09"
+    },
+    {
+      "fact": "VentureBeatが「RAGをバイパスするアーキテクチャ」として報道",
+      "source_url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an",
+      "verified_at": "2026-04-09"
+    },
+    {
+      "fact": "公開後すぐにOSSリポジトリが派生（lucasastorian/llmwikiなど）",
+      "source_url": "https://github.com/lucasastorian/llmwiki",
+      "verified_at": "2026-04-09"
+    },
+    {
+      "fact": "MindStudioがClaude Codeでの具体的な実装方法を解説。5分で始められるセットアップ手順を公開",
+      "source_url": "https://www.mindstudio.ai/blog/andrej-karpathy-llm-wiki-knowledge-base-claude-code",
+      "verified_at": "2026-04-09"
+    },
+    {
+      "fact": "100記事・約40万語規模でもindex.mdとサマリーでLLMがナビゲート可能。規模拡大時はqmd（BM25+ベクトル検索）で対応可能",
+      "source_url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "verified_at": "2026-04-09"
+    },
+    {
+      "fact": "Boris Cherny（Claude Code開発者）が「間違いのたびにCLAUDE.mdに追記する」living document運用を推奨。CLAUDE.mdはセッション間で一貫性を保つスキーマとして機能する",
+      "source_url": "https://mindwiredai.com/2026/03/25/claude-code-creator-workflow-claudemd/",
+      "verified_at": "2026-04-09"
+    },
+    {
+      "fact": "Karpathyはこのアプローチを1945年のVannevar Bush「Memex」ビジョンと関連づけている",
+      "source_url": "https://antigravity.codes/ja/blog/karpathy-llm-wiki-idea-file",
+      "verified_at": "2026-04-09"
+    },
+    {
+      "fact": "日本語圏で「Claude Code × n8nでLLM Wikiを自動更新する」実装記事はほぼ皆無（WebSearch確認済み。先取り余地：大）",
+      "source_url": "",
+      "verified_at": "2026-04-09"
+    }
+  ],
+  "source_urls": [
+    "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "https://x.com/karpathy/status/2039805659525644595",
+    "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an",
+    "https://www.mindstudio.ai/blog/andrej-karpathy-llm-wiki-knowledge-base-claude-code",
+    "https://antigravity.codes/ja/blog/karpathy-llm-wiki-idea-file",
+    "https://github.com/lucasastorian/llmwiki",
+    "https://academy.dair.ai/blog/llm-knowledge-bases-karpathy",
+    "https://mindwiredai.com/2026/03/25/claude-code-creator-workflow-claudemd/"
+  ],
+  "estimated_word_count": 3000,
+  "title_candidates": [
+    "KarpathyのLLM Wikiを実装したら、AIが「昨日の自分」を覚えてくれるようになった",
+    "RAGはもう古い？Karpathyが提唱した「LLM Wiki」をClaude Code × n8nで作る5ステップ",
+    "使うほど賢くなるAIの作り方——KarpathyのLLM WikiをClaude Codeで実装した全記録"
+  ]
+}

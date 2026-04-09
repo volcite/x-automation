@@ -1,0 +1,431 @@
+{
+  "tweet_created_at": "2026-04-07T23:10:04.000000Z",
+  "id": 2041654772336620000,
+  "id_str": "2041654772336619932",
+  "type": "tweet",
+  "conversation_id_str": "2041654772336619932",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/WOstmN5NR7",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 91959566,
+    "id_str": "91959566",
+    "name": "まくるめ",
+    "screen_name": "MAMAAAAU",
+    "location": "だいたい東京",
+    "url": "https://www.amazon.jp/hz/wishlist/ls/1U9QTBN6L3X3?ref_=wl_share",
+    "description": "怪文書家、小説の者。植物が好き。創作ジャンルは怪談・ＳＦ・ファンタジーです。初の拙著「その怪異はまだ読まれていません」がKADOKAWA様より出版となります／ノベルアップ+の第一回小説賞入賞者",
+    "protected": false,
+    "verified": true,
+    "followers_count": 48582,
+    "friends_count": 4046,
+    "listed_count": 823,
+    "favourites_count": 9342,
+    "statuses_count": 113606,
+    "created_at": "2009-11-23T07:38:03.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/91959566/1459145662",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181185661119811584/OsgEJl_m_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 155,
+  "reply_count": 36,
+  "retweet_count": 1069,
+  "favorite_count": 5117,
+  "views_count": 1709053,
+  "bookmark_count": 1095,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041094952881733633",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/WOstmN5NR7"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T23:10:04.000000Z",
+    "id": 2041654772336620000,
+    "id_str": "2041654772336619932",
+    "title": "青いオシッコ職人だったんですがAIのせいで失業しました",
+    "preview_text": "気がつけば人生の半分を青いオシッコを出すことに費やしてきました。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f64t2",
+          "text": "気がつけば人生の半分を青いオシッコを出すことに費やしてきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ne0d",
+          "text": "意味が分からない、という方は、オムツのＣＭを思い描いてください。オムツの吸水力をアピールするために、青い液体をオムツに流し込んだりしてるじゃないですか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5lbk7",
+          "text": "実はあれ、人間が出してたんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1hdot",
+          "text": "というか、ほとんど私ですね。業界内に青いオシッコ職人は私のほか二人いるかいないか、と言ったところでした。個人事業主の形でしたが、非常に珍しく代わりのいない職業ですし、オムツ業界などは不況にも強いですから、安定して年収が二千万を超えておりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35ek1",
+          "text": "それなりに裕福でしたから、個人事業の経費で車など購入し、営業とかこつけて各地の便所を巡っていたのも今となっては良い思い出でございますが、こうなることを分かっていたら、もう少しお金を節約したかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aaum2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtoe7",
+          "text": "青いオシッコを出すのはかなり大変です。人間のオシッコは通常黄色くなります。これは主にウロビリンという成分によるもので、血液に由来します。自然な代謝で生まれるものですから、完全になくすことはできません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1bluo",
+          "text": "わたしはこのウロビリンを尿中から減らすため、仕事が近づくとかなりハードな腸の洗浄をいたします。ウロビリンの生成には腸内微生物が関わっているのです。ですので特殊な調合をした薬品を飲むほか、活性炭の粉末なども服用し、尿の黄色を極限まで減らすことをいたします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ipub",
+          "text": "しかし、それだけでは尿が透明に近づくだけで青くはなりません。そこで青い食品を大量に食べます。青い食品は珍しいですが、食べて尿中にその色が出るものはもっと珍しい。ある種の食用色素がその中心となります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9r22l",
+          "text": "食べるだけでは限界がありますので、医師の補助のもと色素を血管に注入などもいたします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d466s",
+          "text": "これにより私の身体は大量の青い色素を溶かし込んだ状態になりますので、肌も独特の紫かあるいは黒ずんだ色相になります。また汗なども青くなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0prr",
+          "text": "そのような状態になりますから、電車などでは奇異の目で見られたりもします。サウナなどに入りますと、青い汗と小便をだらだら流し出禁などにもなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgjet",
+          "text": "子供の集まる公園の中心で立小便などしますと、周囲は子供も大人も大騒ぎになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4tgjm",
+          "text": "子供の中には「青いおしっこすげー！」などと素直に驚く子もいますが、だいたい警察を呼ばれます。立小便など普通は注意で済みますが、私は毎日そこかしこの公園で、妖精のように回転しながら小便を撒き散らしておりますので、警察官としても見逃すわけにはいかないのか、罰金などを課す流れになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ad4e4",
+          "text": "これまでに払った罰金の額もかなりのものです。道を歩いたり、公共の交通機関を利用するときなどは「ああ、わたしの払った罰金も人々の役に立つ日本の一部となればよいが」と思う次第です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjd2t",
+          "text": "わたしなりのせめてもの社会貢献のつもりでございました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "436k1",
+          "text": "そんな風に、青いおしっこを出すという仕事に誇りを感じて、これまで及ばすながら職を奉じておりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1p07a",
+          "text": "しかし、そんな私にある日、晴天の霹靂とも言うべき出来事が起こったのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f9fi",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dasi4",
+          "text": "「悪いんですけど、今回で取引は最後になると思いますので」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgp2o",
+          "text": "さる大手の製紙会社の部長が言いました。その会社は、激戦のおむつ業界の重鎮として「おむつのご意見番」と呼ばれていた方でした。そんな重役がわざわざ私の前に出てきたので少し悪い予感はしたのですが、突然の取引停止です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3lo69",
+          "text": "「わたしの青いおしっこに何か問題でもありましたでしょうか？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ioqv",
+          "text": "わたしは問いかけます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19nv0",
+          "text": "「いつも通りいい青さが出せたと自負していたのですが」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e3k2p",
+          "text": "「いや、そうじゃなくてね。うーん」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ekquf",
+          "text": "部長は言いづらそうに眉を寄せます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "qqq7",
+          "text": "「最近ちょっとうちでもAIを利用して業務の効率化をしようと思って色々やっているんだけども」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eqfha",
+          "text": "「AIですか」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30u2r",
+          "text": "わたしは意外でした。ちまたではAIに職を奪われるなどと言う話をちらほら耳にしますが、わたしには無関係な事だとばかり思っていたからでございます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aogv4",
+          "text": "なぜなら、AIにおしっこは出せないからです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "83k9e",
+          "text": "この完全に論理的な理由により、わたしは自身の仕事をAIにはけして代替できないものと自負しておりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7qgu",
+          "text": "しかし、その前提はあまりに浅はかであったようです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2tdhm",
+          "text": "「し、しかし、どうやって」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8i83",
+          "text": "どうやって人工知能はおしっこを出し、わたしの職を奪ったのでしょうか？　わたしの頭の中は「AIのおしっこ」でいっぱいでございました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fmjn",
+          "text": "「いや、AIが言うんだよ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enc8s",
+          "text": "部長は言います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "62mq4",
+          "text": "「『色水でいいじゃん』って……」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2h4cf",
+          "text": "目の前が真っ白になるとは、まさにこのことでございました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ad11n",
+          "text": "「いや、それで気づいたんだよ。『たしかに色水でいいな』ってさ。わざわざ３００万円とか払ってプロの尿遣いに青いおしっこを出してもらわなくても、青インキ水で薄めたらいいって。技術畑に訊いても『べつにそれでもいいです』って答えだったし……」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e6iv5",
+          "text": "最後のほうは、部長が何を言っておられたか、正直なところあまり覚えておりません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "afr",
+          "text": "覚えているのは、会社を出ての帰り道、風がひどく寒く感じたことだけでございます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4jqt",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1p9bl",
+          "text": "皆さまもよくよくご注意ください。技術の進歩は、ときに人間を突き放すものであるということを。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

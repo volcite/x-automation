@@ -1,0 +1,251 @@
+{
+  "tweet_created_at": "2026-04-04T10:56:16.000000Z",
+  "id": 2040382941168271600,
+  "id_str": "2040382941168271653",
+  "type": "tweet",
+  "conversation_id_str": "2040382941168271653",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/GPVBvEMY5a",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2010635168994984000,
+    "id_str": "2010635168994983936",
+    "name": "ラスティニャックNEO",
+    "screen_name": "rastignac00",
+    "location": "",
+    "url": null,
+    "description": "性愛やお金や社会問題や創作物についてツイートします",
+    "protected": false,
+    "verified": true,
+    "followers_count": 2782,
+    "friends_count": 307,
+    "listed_count": 15,
+    "favourites_count": 1727,
+    "statuses_count": 587,
+    "created_at": "2026-01-12T08:49:22.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2010635168994983936/1775042238",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2036527627545268224/Dka_bpj2_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 559,
+  "reply_count": 63,
+  "retweet_count": 1033,
+  "favorite_count": 8091,
+  "views_count": 18032031,
+  "bookmark_count": 2730,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040346301624373248",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/GPVBvEMY5a"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T10:56:16.000000Z",
+    "id": 2040382941168271600,
+    "id_str": "2040382941168271653",
+    "title": "Z世代はなぜ割り勘するようになったのか",
+    "preview_text": "チン高マン安だからである。\nチー牛が恋愛市場から退場したからである。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8pohn",
+          "text": "チン高マン安だからである。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9lpo6",
+          "text": "チー牛が恋愛市場から退場したからである。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "983o3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2lik6",
+          "text": "男たちが女に奢り貢ぎ尽くした、かつてのチン安マン高時代においては、男が女に貢いで初めて男女の釣り合いが取れていた。マンはチンより圧倒的に価値があった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "909qn",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "46lcc",
+          "text": "では令和はどうか。目下チン高マン安が進行中である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 38,
+              "style": "Bold"
+            }
+          ],
+          "key": "ail75",
+          "text": "かつてブサ男は「貢ぐこと」でなんとかデートにこぎつけていた。女性がブサ男でも「奢り」という条件でデートに付き合ってくれたと言い換えてもいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b42r3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "f1un9",
+          "text": "しかしZ世代の女子は、たかがメシを奢ってくれるくらいではブサ男とデートなどしない。パパ活なり水商売をしたほうが効率がいいので当然である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "5shld",
+          "text": "つまり、z世代女子は性的魅力が高いイケメン/陽キャ男性としかデートをしなくなったのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fse2m",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40nu6",
+          "text": "「奢り」とは不均衡な男女の価値の差の釣り合いを取るための方法である以上、性的魅力が同等のカップルにおいては、当然奢りなど発生しない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 32,
+              "style": "Bold"
+            }
+          ],
+          "key": "c183e",
+          "text": "「チン高マン安」「割り勘の一般化」は、市場価値の低い男性、つまり奢る必要のあるブサ男が恋愛から退場したとも言い換えることができるだろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbchv",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ug9o",
+          "text": "以上の経緯から「恋愛」そのものが古典文学やクラシック音楽のように一部の豊かな人だけの娯楽となることで、つまりある種オワコン化することで、これからもチン高マン安は進んでいく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6gmod",
+          "text": "チンとマンの価値が完全に等しくなった時、「奢り」という文化そのものが消滅し、永遠に繰り広げられる不毛な奢り奢られ論争もついに終戦を向かえるかもしれない。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

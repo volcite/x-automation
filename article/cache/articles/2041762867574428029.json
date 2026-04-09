@@ -1,0 +1,296 @@
+{
+  "tweet_created_at": "2026-04-08T06:19:36.000000Z",
+  "id": 2041762867574428000,
+  "id_str": "2041762867574428029",
+  "type": "tweet",
+  "conversation_id_str": "2041762867574428029",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/T7z3ri8wZI",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1282668760449478700,
+    "id_str": "1282668760449478656",
+    "name": "まりてん👼",
+    "screen_name": "uramariten",
+    "location": "日本 東京",
+    "url": "https://lit.link/mariten_bukuro",
+    "description": "YouTubeプロデューサー／作家｜著書『聖と性 私のほんとうの話』（講談社）📕3刷重版・タレント本総合1位｜YouTubeホンクレch登録者24万人｜前のアカウント使えません⚠️｜仕事の色々：@mariten_sub",
+    "protected": false,
+    "verified": true,
+    "followers_count": 65488,
+    "friends_count": 100,
+    "listed_count": 133,
+    "favourites_count": 16053,
+    "statuses_count": 9282,
+    "created_at": "2020-07-13T13:30:42.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1282668760449478656/1747029032",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1922501419686625281/dUYIXn_6_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 50,
+  "reply_count": 26,
+  "retweet_count": 138,
+  "favorite_count": 1760,
+  "views_count": 739592,
+  "bookmark_count": 1151,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041712263162425345",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/T7z3ri8wZI"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-08T06:19:36.000000Z",
+    "id": 2041762867574428000,
+    "id_str": "2041762867574428029",
+    "title": "10年働いて分かった『深く関わってはいけない人』の共通点",
+    "preview_text": "どの世界にも、“深く関わってはいけない人”がいる。\n私は10年以上、夜の街で「裸と裸の付き合い」を続けてきて、少しずつ「危ないお客様」の共通点が分かってきた。",
+    "cover_url": "https://pbs.twimg.com/media/HFXMH1Fa8AAXlAX.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "67lrp",
+          "text": "どの世界にも、“深く関わってはいけない人”がいる。\n私は10年以上、夜の街で「裸と裸の付き合い」を続けてきて、少しずつ「危ないお客様」の共通点が分かってきた。\nどれも初回は【いい印象】で、むしろ神対応にさえ見える。私も新人の頃は【おいしいお客様】だなんてのんきに思って、距離感を間違え、何度も事故りかけた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9nfmi",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "arqlu",
+          "text": "① 出会った初日から大絶賛してくる人",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mrgi",
+          "text": "「最高」「人生で1番」「絶対」など強い言葉を連発するタイプ。\n“永遠”を口にする人ほど感情の波が激しく、イメージと違う行動を取った瞬間に豹変する。初日から連日予約を入れてくれるけど、急に居なくなっても大丈夫なように、枠はセーブしておくのが正解。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "te8f",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2e99r",
+          "text": "② 「プレイなしでいいよ」と言う人",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4lgfk",
+          "text": "「休憩していいよ」「話すだけでいい」と優しさを見せながら、後で見返りを求めてくるタイプ。\n本当に優しい人もいるけど、裏では“貸し”としてカウントされていたりする。無理にでも誘い込んだ方が安全。優しさに甘えると、あとで面倒を抱えることになる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4vlun",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cpbjr",
+          "text": "③ 不機嫌でコントロールしてくる人",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "belug",
+          "text": "怒鳴らない。けど、黙る。\n時にはドアを強く閉めたり、ため息で空気を支配する。こちらが「怒らせたかも」と怯えた瞬間、関係の主導権は相手に移る。\n振り回されるとキリがなく、どんどんエスカレートする。不機嫌を武器にする人に、誠実さを求めても無駄である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8f0ui",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8e5lr",
+          "text": "④ 「僕は偏見ないよ」と言う人",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eb9pu",
+          "text": "理解のあるフリをしながら、「他の男とは違う俺」を演出するタイプ。\n本当の理解者は、偏見がないことをわざわざ言わない。受け入れているようで、実は“許してあげている”だけ。\n最初から対等でいる気がない人だと心得て付き合うのがよい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "83peo",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8faf0",
+          "text": "⑤ 開示スピードが異常に早い人",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ms4d",
+          "text": "会ってすぐに過去や家族の話、通帳や診断書まで見せてくるタイプ。\nそれは信頼ではなく、“支配の布石”のことが多い。\n距離を詰めるスピードが速い人ほど、離れる時の反動も強い。焦って親密になろうとする人ほど、注意が必要。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "616kd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5u5c",
+          "text": "⑥ 全ての発言が「自分に向けられている」と勘違いする人",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhu1k",
+          "text": "SNSやブログの何気ない一言を、すべて“俺宛て”と受け取るタイプ。\n被害者意識が強く、ネガティブに解釈して怒りへと繋がりやすい。繋がりを“所有”と錯覚し、否定すれば怒り、沈黙すれば被害者を演じる。\n離れる以外に鎮静化の方法はない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9337h",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "acmlt",
+          "text": "【共感するものはありましたか？】 \n並べてみたけど、歪さのない人なんて私含めていないので。\n大事なのは、大事故にならないための“距離感”だと思う。誰も最初から傷つけ合いたいわけじゃないのだから。\nゆるく共存しながら、ちびちび成長していくしかないわけです。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

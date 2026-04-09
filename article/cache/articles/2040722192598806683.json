@@ -1,0 +1,740 @@
+{
+  "tweet_created_at": "2026-04-05T09:24:20.000000Z",
+  "id": 2040722192598806800,
+  "id_str": "2040722192598806683",
+  "type": "tweet",
+  "conversation_id_str": "2040722192598806683",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/2DWePY1S0l",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1803998800408903700,
+    "id_str": "1803998800408903680",
+    "name": "おさつ",
+    "screen_name": "journey50cc",
+    "location": "鎌倉",
+    "url": "https://note.com/osatsu_journey50",
+    "description": "日本中の田舎町を転々とするフォトライター。noteに旅の記録を綴り、NotNewsというポッドキャストで喋ってます。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4127,
+    "friends_count": 893,
+    "listed_count": 14,
+    "favourites_count": 6701,
+    "statuses_count": 1917,
+    "created_at": "2024-06-21T03:50:16.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1803998800408903680/1754892004",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1908064063252475905/rahH2WyO_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 42,
+  "reply_count": 5,
+  "retweet_count": 466,
+  "favorite_count": 2171,
+  "views_count": 578228,
+  "bookmark_count": 699,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040717750633422848",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/2DWePY1S0l"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T09:24:20.000000Z",
+    "id": 2040722192598806800,
+    "id_str": "2040722192598806683",
+    "title": "「江ノ電自転車ニキ」が教えてくれたこと ",
+    "preview_text": "あなたは4年前のあの事件を覚えているだろうか。\nそう、「江ノ電自転車ニキ事件」である。",
+    "cover_url": "https://pbs.twimg.com/media/HFIWPPHbcAAQ2Ft.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "191i5",
+          "text": "あなたは4年前のあの事件を覚えているだろうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "6u5ir",
+          "text": "そう、「江ノ電自転車ニキ事件」である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3onhe",
+          "text": "約4年前のある夜、試運転の江ノ電を撮影しようと撮り鉄（車体撮影を専門とする鉄道マニア）が腰越あたりでカメラを構えていたところ、ママチャリに乗った何も知らない地元住民が意図せず撮影の邪魔をしていまい、撮り鉄たちが大激怒したという事件（？）だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8pb3m",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f16cd",
+          "text": "まあ説明するより映像を観たほうが早い。44秒の動画なのでよかったら観てみてほしい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 25,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "90vhg",
+          "text": "YouTube：【江ノ電自転車ニキ】撮り鉄がキレる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "27vur",
+          "text": "なぜこんなにも撮り鉄たちが怒っているのかというと、なんでもこの車両が試運転をすること自体がとても貴重だったのだとか。よく分からないけど、数年に1回とかそんな感じ。彼らが心から待ち焦がれた瞬間が、この「江ノ電ニキ」によって台無しにされたというわけだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fe65j",
+          "text": "まあ、とはいえ、江ノ電ニキは全くもって悪くない。普通に自転車を漕いでいただけなのに突然大勢に罵声を浴びせられて、さぞ驚いたことだろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 26,
+              "style": "Bold"
+            }
+          ],
+          "key": "575dj",
+          "text": "ちなみに江ノ電ニキが大きく手を上げた理由は諸説あり、「自分が撮影されていると思った」「向こう側にいる友人に手を降った」など様々な説が浮上していた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ei67b",
+          "text": "なにはともあれ、そんなおかしな出来事が4年前にあったのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arscp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1gv",
+          "text": "江ノ電自転車ニキのタコス屋へ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 74,
+              "style": "Bold"
+            }
+          ],
+          "key": "fvm78",
+          "text": "先日、腰越に住む友人を訪ねたときのこと。夕飯なににしよっか〜と街をふらふらと歩くも、週末なこともありどこもかしこも満席。そこで友人がひらめいたように「そうだ、江ノ電ニキの店は？」と言った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 15,
+              "offset": 18
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "26e3j",
+          "text": "そう、彼は事件当時から腰越でタコス屋「HOME taco bar」を営んでいる（あのときも退勤中だった）。事件の後はGoogleマップのクチコミが撮り鉄によって荒らされたり、それが話題になって大繁盛したりとカオスだったようだが、さすがに今は落ち着いているということで行ってみた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c50h",
+          "text": "店内はテーブルが2席とカウンターのこぢんまりとしたお店。江ノ電ニキと綺麗な奥さんが迎えてくれて、私は心の中で（本物だ…！）と思いテンションが上がったが、謎に平静を装った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6g4un",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 65,
+              "style": "Bold"
+            }
+          ],
+          "key": "7cnks",
+          "text": "江ノ電ニキはアメリカ人ということもあり、底抜けに明るい。真剣にタコスを作っていたかと思いきや、鳥の被り物を被って私たちの席に来て、「これからパーティーがあるんだ！」「君たちも一緒にどうだい？」みたいなことを言ってくる。奥さんは「いつものこと」といった様子でキッチンから笑っている。なんか平和。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jf7c",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5mbn4",
+          "text": "今更ながら事件の真相を聞いてみる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bvdv",
+          "text": "せっかくなので例の事件について聞いてみた。\nなぜあの瞬間にポーズをとったのか、真実が知りたかったのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "25bks",
+          "text": "「ホ、ホワイ…ディッジュー…あの…ポーズ？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7ffm",
+          "text": "カタコトどころの騒ぎじゃない英語とジャスチャーで尋ねると、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9n939",
+          "text": "「なんとなく！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hrp7",
+          "text": "と流暢な日本語で答えた。あ、日本語喋れるのね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6i0cj",
+          "text": "「あの日はいつもの帰り道で、角を曲がったらカメラ持ってる人が100人くらいいたからポーズした。江ノ電が隣にいたけど、いつも通りだと思った」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ijeb",
+          "text": "ほうほう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 47,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "300av",
+          "text": "「でもあれは5年か10年に1度の電車だった！知ってるわけないじゃん江ノ電のスケジュール！！！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmb0k",
+          "text": "江ノ電ニキは両手のひらを上に向けて、アメリカ人特有の「Why？」みたいなジャスチャーをしている。そうだよね、そんなん知るわけないよね。試運転情報なんて尚更ねえ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 23,
+              "style": "Bold"
+            }
+          ],
+          "key": "edblf",
+          "text": "ということで、彼があそこでポーズをとった真相は「なんとなく」だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8bhqi",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2494p",
+          "text": "江ノ電自転車ニキが教えてくれたこと",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "klob",
+          "text": "その後も江ノ電ニキといろいろなことを話した。江ノ電ニキは日本語が喋れるが、ふとした瞬間に英語スイッチに切り替わって当たり前のように英語で喋りだす。だけど彼は比較的簡単な単語を使ってくれるので、話している内容はなんとなく分かった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4u586",
+          "text": "その中で、特に印象に残っている彼の言葉がある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9guo6",
+          "text": "「Everyday is a new day for me」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9hef4",
+          "text": "僕にとっては、毎日が新しい日なんだ。\n江ノ電ニキはビール片手に幸せそうな表情でそう話す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3tfr",
+          "text": "多分、「毎日飲んでるからあんまり昨日のことは覚えてなくて、毎日が新しい日なのさ」みたいなジョークだと思うのだが、私は不覚にも心を打たれてしまった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80d3h",
+          "text": "毎日が新しい日、かあ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5hbth",
+          "text": "それすごくいいかも。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b2n2r",
+          "text": "人は無意識のうちに過去に縛られる。これまでがこうだったから、これからも、こう。そんな風に思っているつもりはなくても、今までの経験や教訓は、心や頭の深いところに刻み込まれている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2asj",
+          "text": "それは決して悪いことではないし、自分を守るためには大切なことだ。同じ失敗を繰り返さないためのもの、同じ傷を負わないようにするもの。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9q2e7",
+          "text": "だけど、時にそれは足かせになる。自由な発想を奪う。本当に行きたい方向へと進もうとする力を弱くする。「まただめかも」「どうせ前と同じだ」と、傷つかないための言い訳作りを手伝う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d099a",
+          "text": "でも、「毎日が新しい日」だったらどうだろうか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "193bj",
+          "text": "過去に起きた出来事は関係ない。かつて誰かが言っていたことも関係ない。何もないまっさらな心で、ゼロから始めていい。昨日まで悲しかったことだって考えなくていい。昨日まで悩んでいたことも忘れていい。だって今日は新しい日だから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63usd",
+          "text": "そう思ったら急に肩の荷が下りた気がした。\nまた明日、新しい朝が来るんだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6qiq2",
+          "text": "「エブリデイ イズ ニューデイ！イッツベリーグッド！センキュー！！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5kcsb",
+          "text": "私が江ノ電ニキにそう伝えると「Yeah♪」とビールを高く上げて喜んでいた。多分よく分かっていない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bfu8c",
+          "text": "さあ、新しい季節が始まります。\nきっといろいろなことがあるけど、エブリデイ イズ ニューデイ。笑顔でまいりましょう。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "画像はYouTube『【江ノ電自転車ニキ】撮り鉄がキレる』（K）より引用",
+              "entityKey": "446364fe-bf17-47a7-983c-e38efe394202",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040720486947323906"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "1ec32163-ac2b-4479-9668-37b429081e6a",
+              "url": "https://youtu.be/lVGhtpvSDfc?si=NBUM5W2z7d2Pf08X"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "3653cda5-5fe3-436d-8714-01027440dc01",
+              "url": "https://www.instagram.com/hometacobar"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "3424d2b0-1c35-4253-9a12-f57175e7e3c1",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040719733117558784"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIYeH5bgAIKAAIZCRdZ2ZqAAAAA",
+        "media_id": "2040720486947323906",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 52.68,
+                "rgb": {
+                  "blue": 26,
+                  "green": 32,
+                  "red": 37
+                }
+              },
+              {
+                "percentage": 13.67,
+                "rgb": {
+                  "blue": 61,
+                  "green": 97,
+                  "red": 66
+                }
+              },
+              {
+                "percentage": 10.53,
+                "rgb": {
+                  "blue": 101,
+                  "green": 155,
+                  "red": 175
+                }
+              },
+              {
+                "percentage": 6.46,
+                "rgb": {
+                  "blue": 160,
+                  "green": 179,
+                  "red": 185
+                }
+              },
+              {
+                "percentage": 2.79,
+                "rgb": {
+                  "blue": 50,
+                  "green": 90,
+                  "red": 100
+                }
+              }
+            ]
+          },
+          "original_img_height": 669,
+          "original_img_url": "https://pbs.twimg.com/media/HFIYeH5bgAIKOfo.jpg",
+          "original_img_width": 1280
+        },
+        "media_key": "3_2040720486947323906"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIXyPqaIAAKAAIZCRdZ2ZqAAAAA",
+        "media_id": "2040719733117558784",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 38.65,
+                "rgb": {
+                  "blue": 24,
+                  "green": 27,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 23.03,
+                "rgb": {
+                  "blue": 53,
+                  "green": 73,
+                  "red": 127
+                }
+              },
+              {
+                "percentage": 10.82,
+                "rgb": {
+                  "blue": 147,
+                  "green": 152,
+                  "red": 177
+                }
+              },
+              {
+                "percentage": 6.78,
+                "rgb": {
+                  "blue": 77,
+                  "green": 183,
+                  "red": 210
+                }
+              },
+              {
+                "percentage": 3.17,
+                "rgb": {
+                  "blue": 17,
+                  "green": 12,
+                  "red": 69
+                }
+              }
+            ]
+          },
+          "original_img_height": 900,
+          "original_img_url": "https://pbs.twimg.com/media/HFIXyPqaIAAyjFv.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2040719733117558784"
+      }
+    ]
+  }
+}

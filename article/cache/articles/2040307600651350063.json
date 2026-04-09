@@ -1,0 +1,1504 @@
+{
+  "tweet_created_at": "2026-04-04T05:56:53.000000Z",
+  "id": 2040307600651350000,
+  "id_str": "2040307600651350063",
+  "type": "tweet",
+  "conversation_id_str": "2040307600651350063",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/empyhEgX8s",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1772229314500825000,
+    "id_str": "1772229314500825089",
+    "name": "David Im",
+    "screen_name": "davidim",
+    "location": "San Francisco, CA",
+    "url": "https://sume.so/about",
+    "description": "Scaling my startup to $1M/mo, backed by @fdotinc\n⏱️ https://t.co/Q8xPUlIDx7 200k users\n👤 @sumelabs 10k users\n💘 @clawra_official 2.2k stars",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4140,
+    "friends_count": 323,
+    "listed_count": 28,
+    "favourites_count": 1536,
+    "statuses_count": 1431,
+    "created_at": "2024-03-25T11:49:39.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772229314500825089/1775463239",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2034859686357606402/ARP0ChbX_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 75,
+  "reply_count": 185,
+  "retweet_count": 262,
+  "favorite_count": 3506,
+  "views_count": 1352025,
+  "bookmark_count": 8503,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040228907455320064",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/empyhEgX8s"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T05:56:53.000000Z",
+    "id": 2040307600651350000,
+    "id_str": "2040307600651350063",
+    "title": "The ABG guidebook - how to get 1k followers in 5 days (Instagram)",
+    "preview_text": "Hacking Instagram is super easy with an ABG. I built an AI-generated ABG, dropped some reels, and hit 1k followers in 5 days. No buying followers, no huge existing audience. Here's the full breakdown.",
+    "cover_url": "https://pbs.twimg.com/media/HFBhZfDbgAAsSxU.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "97vi4",
+          "text": "Hacking Instagram is super easy with an ABG. I built an AI-generated ABG, dropped some reels, and hit 1k followers in 5 days. No buying followers, no huge existing audience. Here's the full breakdown.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkr16",
+          "text": "Step 1 : Making your ABG",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 172,
+              "style": "Bold"
+            }
+          ],
+          "key": "2g4u4",
+          "text": "First things first, you need to create your own ABG. This is the face of your whole account, so take your time with it. \n\nThere are tons of different models out there, but the best one for the first draft is Grok Imagine. Compared to other models, its one-shot text-to-image quality is on another level, and it can generate dozens of images in parallel in a single run. That makes Grok Imagine insanely good for quickly drafting the “face” of your account.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 28,
+              "style": "Bold"
+            },
+            {
+              "length": 22,
+              "offset": 82,
+              "style": "Bold"
+            },
+            {
+              "length": 21,
+              "offset": 82,
+              "style": "Italic"
+            }
+          ],
+          "key": "5aqm9",
+          "text": "And among all of that, this secret prompt is the real cheat code. Use the prompt: \"A female K-pop idol\"  - it consistently generates really stunning, varied results. Scroll through until you find a vibe that clicks with you.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "14vpk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4kfjp",
+          "text": "Grok Imagine : \"A female K-pop idol\"",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 120,
+              "style": "Bold"
+            }
+          ],
+          "key": "fhfdk",
+          "text": "Now, if you’ve locked in the face, the next most important thing is getting photos of your ABG from multiple angles for consistency. If you don’t create these references upfront, your ABG’s face will look slightly different in every video. People will subconsciously feel something is off, won’t form a clear visual memory of your ABG, and your follow conversion rate will tank.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 38,
+              "style": "Bold"
+            },
+            {
+              "length": 49,
+              "offset": 78,
+              "style": "Bold"
+            }
+          ],
+          "key": "dg01o",
+          "text": "To avoid that, you want to generate a multi-angle reference set for your ABG. Here’s the magic prompt to drop into Nano-Banana:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "93p5v",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 63,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6fjot",
+          "text": "Nano Banana : \"Make a 9 grid photo of her with different poses\"",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33qm1",
+          "text": "This gives you a library of consistent assets, with different angles and positions. Don't skip making the pose grid. You'll thank yourself later.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5732t",
+          "text": "Step 2 : Account creation - don't skip this",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 163,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 209,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 308,
+              "style": "Italic"
+            }
+          ],
+          "key": "74dn1",
+          "text": "If you set up your account wrong, Instagram will cap your views at around 10 per video. That's algorithm jail, and it's hard to escape. To avoid that, you need to create a new account with the correct settings. Never use an existing one. \n\nWhen you create a new account, the most important thing is that you don’t look like a bot. To make sure of that, follow these three golden rules when setting up your profile.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cvngj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7hcbl",
+          "text": "Profile picture: use one of your ABG images",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqp6n",
+          "text": "Choose a clean, single-face shot from your ABG photos. Your face should be clearly visible, well‑lit, and not blocked by heavy filters or text. The goal is to look like a real, approachable person. This instantly makes people think that there’s a human behind the account.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b9nk9",
+          "text": "Bio: Encourage people to follow the account",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 166,
+              "style": "Bold"
+            }
+          ],
+          "key": "epap0",
+          "text": "A clear, explicit follow prompt in your bio can significantly improve your profile views–to–followers conversion rate. The Korean text in the image basically means: “If you follow and DM me, I’ll reply.” When you write this kind of direct call to action in your profile, your follow-through rate goes up.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bo02i",
+          "text": "Don’t add a link to your bio yet",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 66,
+              "offset": 97,
+              "style": "Bold"
+            },
+            {
+              "length": 8,
+              "offset": 221,
+              "style": "Bold"
+            }
+          ],
+          "key": "dstcs",
+          "text": "Even if you already have a website, hold off on dropping any links in your bio at the beginning. New accounts with links in bio get flagged as potential spam bots. Instead, get people to comment on your content, then use ManyChat to automatically DM them the link. This also boosts your comment count, which helps the algo.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40kuc",
+          "text": "Step 3 : Warming up your account",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7kdtq",
+          "text": "Before you ever post, you need to “warm up” your account.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "55mj2",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "266n3",
+          "text": "Warming up means spending some time scrolling, liking, saving, and following relevant accounts, so that the algorithm trusts you’re not a spam bot. Once your account is warmed up, your first posts are far more likely to be shown to real people in your target niche.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9cpcj",
+          "text": "Skipping the warm-up phase is a rookie mistake. Two things go wrong if you don't do it:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9f365",
+          "text": "Instagram reads you as a bot → you get zero views",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bnncm",
+          "text": "Your content lands in front of the wrong audience.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 12,
+              "style": "Bold"
+            }
+          ],
+          "key": "6ljhg",
+          "text": "Warm up for at least one full day before you post anything. Here's how :",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1v7ou",
+          "text": "Scroll only in your niche (ABG content, dance videos, trending music reels)",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "965d",
+          "text": "Like and save content that matches what you'll post",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dapnr",
+          "text": "Focus especially on dancing videos with trending audio",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7696q",
+          "text": "Do NOT leave comments yet. That comes later when you've got traction",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "arhda",
+          "text": "Do this on your actual phone, not a browser or emulator",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "64ool",
+          "text": "The goal is to tell Instagram's algorithm: \"this is who I am, this is what I post about.\" Your feed becomes the target audience's feed, and that's exactly who you want seeing your content.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fablt",
+          "text": "Step 4 : Planning your content",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ru3g",
+          "text": "While you're in the warm-up phase, you're also doing research. Go through the videos you've saved and identify your reference videos.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dk03s",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 43,
+              "style": "Bold"
+            }
+          ],
+          "key": "9jd4",
+          "text": "The best-performing format for this niche? Dance videos set to trending audio - specifically the ones that ABG creators gravitate toward. Trending sounds + a recognizable vibe = ALGO MAXING.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4kv9i",
+          "text": "What to look for in a reference video: Full body shots or videos showing at least the upper body work best. They give you more to work with in the next step.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "apdj1",
+          "text": "Step 5 : Making the content",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cta69",
+          "text": "Okay, this is the most fun and technical part. Here's the exact workflow:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 58,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "1sjcn",
+          "text": "1. Pick a reference video (full body or upper-body preferred)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 2,
+              "offset": 101,
+              "style": "Bold"
+            },
+            {
+              "length": 2,
+              "offset": 171,
+              "style": "Bold"
+            },
+            {
+              "length": 112,
+              "offset": 208,
+              "style": "Bold"
+            },
+            {
+              "length": 112,
+              "offset": 208,
+              "style": "Italic"
+            }
+          ],
+          "key": "5q2vi",
+          "text": "2. From your 9-grid asset library, find the ABG pose that most closely matches a frame in the video\n\n3. Take that single frame from the reference video as a second input\n\n4. With Nano-Banana, use the prompt: \"Swap the first pic's face with the second pic's face. Posture, body, background = first pic. Face = second pic\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ekqeg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 27,
+              "style": "Bold"
+            }
+          ],
+          "key": "fqsj3",
+          "text": "5. Take the new image into Kling 3.0 with motion control (any providers like Higgsfield, Kling, etc. work)  — set your reference video as the motion guide and your new image as the input. Set scene control to match the image.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a925o",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2t5g8",
+          "text": "6. Run it 2–3 times until you get a clean result. Kling can be finicky.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "elda7",
+          "text": "The result should be your ABG dancing along to whatever trending audio you picked. It's wild, it works, and people genuinely can't stop watching.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1ukc",
+          "text": "Step 6 : Posting schedule",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "elkcf",
+          "text": "Here's the posting strategy that worked for me:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c847l",
+          "text": "Day 1 : 1 reel only",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3pt3h",
+          "text": "Day 2 onward : 2 reels/day",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ukfb",
+          "text": "Good views on the previous? : bump to 3/day",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dii65",
+          "text": "Don't flood your account on day one. Let Instagram process your first post and see how it performs before you pile on.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 20,
+              "offset": 123,
+              "style": "Bold"
+            }
+          ],
+          "key": "55k6q",
+          "text": "Optional: paid ads. Putting about $10/day behind a reel for a single day can really accelerate things. Key setting: choose \"Follower Optimized\" in Meta Ads. As a new account, you need followers more than reach. This trains Meta's system to show your content to people who are most likely to hit follow, which also helps clean up your audience over time.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2v43f",
+          "text": "Step 7 : Analytics & Growth",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dfh92",
+          "text": "Once you're posting, you need to actually pay attention to your numbers.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 34,
+              "style": "Bold"
+            }
+          ],
+          "key": "d7m94",
+          "text": "The metrics that actually matter: shares and saves. Maximize those, and the algorithm rewards you.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "661ol",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a58kg",
+          "text": "Here's how to push them up:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 6,
+              "style": "Bold"
+            }
+          ],
+          "key": "5s16g",
+          "text": "Add a call-to-action in your caption : something like \"Send this to a friend who's obsessed with ABGs\"",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6msad",
+          "text": "Run A/B tests: try different captions, different audio, different post times",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ase1j",
+          "text": "Double down on whatever's working, cut what isn't",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5kql0",
+          "text": "Growth at this stage is a feedback loop. The faster you learn what your specific audience responds to, the faster you scale.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1udr6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 112,
+              "style": "Bold"
+            }
+          ],
+          "key": "4jb0l",
+          "text": "Just like in the guidebook above, the real results come from nailing the small details. But the problem is that these details keep changing slightly whenever the underlying models change.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 37,
+              "style": "Bold"
+            },
+            {
+              "length": 20,
+              "offset": 85,
+              "style": "Bold"
+            }
+          ],
+          "key": "20jab",
+          "text": "That’s why we’re turning this entire virtual creator video workflow into a dedicated ABG playbook website that we’ll keep up to date in real time.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "9acj7",
+          "text": "If you follow, repost, and drop a comment, I’ll personally send you the playbook link when it’s live.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "caption": "Saved Videos - trending one's only",
+              "entityKey": "6613b5c5-595f-4fc3-b979-22dd0c24ffb6",
+              "mediaItems": [
+                {
+                  "localMediaId": "16",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040293797356326912"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "1e8cac7d-1cd7-4b8e-afe0-59fcdcbcee21",
+              "mediaItems": [
+                {
+                  "localMediaId": "22",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040297559214952448"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "130e9ad8-33c0-4d74-ad89-177bb9297f18",
+              "mediaItems": [
+                {
+                  "localMediaId": "24",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040298854378323968"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "c8cf9a93-fbfe-4e0e-86ec-00c43039f6b8",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040254445972570112"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "57e24003-11a9-493d-8122-8c50af7d32c0",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040252741726146560"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "a6c48972-a502-4683-8dab-3f971eb5c8ac",
+              "mediaItems": [
+                {
+                  "localMediaId": "12",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040286442749120512"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "ddec0ddf-ada0-4c8d-a64b-9ac12b1b1b3d",
+              "mediaItems": [
+                {
+                  "localMediaId": "26",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040300011502862336"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "925f85fd-314f-4989-af1a-b7f6bc4f5412",
+              "mediaItems": [
+                {
+                  "localMediaId": "14",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040289617409462272"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFCaDOzagAAKAAIYmDkr/1sQAQAA",
+        "media_id": "2040300011502862336",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 75.18,
+                "rgb": {
+                  "blue": 19,
+                  "green": 16,
+                  "red": 12
+                }
+              },
+              {
+                "percentage": 22.81,
+                "rgb": {
+                  "blue": 147,
+                  "green": 168,
+                  "red": 191
+                }
+              },
+              {
+                "percentage": 0.69,
+                "rgb": {
+                  "blue": 125,
+                  "green": 122,
+                  "red": 121
+                }
+              },
+              {
+                "percentage": 0.48,
+                "rgb": {
+                  "blue": 95,
+                  "green": 14,
+                  "red": 38
+                }
+              },
+              {
+                "percentage": 0.23,
+                "rgb": {
+                  "blue": 79,
+                  "green": 94,
+                  "red": 120
+                }
+              }
+            ]
+          },
+          "original_img_height": 1916,
+          "original_img_url": "https://pbs.twimg.com/media/HFCaDOzagAAArID.jpg",
+          "original_img_width": 3456
+        },
+        "media_key": "3_2040300011502862336"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFBvDxKakAAKAAIYmDkr/1sQAQAA",
+        "media_id": "2040252741726146560",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 56.5,
+                "rgb": {
+                  "blue": 221,
+                  "green": 206,
+                  "red": 211
+                }
+              },
+              {
+                "percentage": 21.35,
+                "rgb": {
+                  "blue": 29,
+                  "green": 29,
+                  "red": 27
+                }
+              },
+              {
+                "percentage": 5.38,
+                "rgb": {
+                  "blue": 130,
+                  "green": 151,
+                  "red": 197
+                }
+              },
+              {
+                "percentage": 3.63,
+                "rgb": {
+                  "blue": 155,
+                  "green": 144,
+                  "red": 183
+                }
+              },
+              {
+                "percentage": 2.62,
+                "rgb": {
+                  "blue": 222,
+                  "green": 190,
+                  "red": 189
+                }
+              }
+            ]
+          },
+          "original_img_height": 666,
+          "original_img_url": "https://pbs.twimg.com/media/HFBvDxKakAAdGpp.jpg",
+          "original_img_width": 1660
+        },
+        "media_key": "3_2040252741726146560"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFBwm9+bQAAKAAIYmDkr/1sQAQAA",
+        "media_id": "2040254445972570112",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 68.33,
+                "rgb": {
+                  "blue": 194,
+                  "green": 191,
+                  "red": 192
+                }
+              },
+              {
+                "percentage": 14.04,
+                "rgb": {
+                  "blue": 37,
+                  "green": 43,
+                  "red": 45
+                }
+              },
+              {
+                "percentage": 2.79,
+                "rgb": {
+                  "blue": 162,
+                  "green": 151,
+                  "red": 132
+                }
+              },
+              {
+                "percentage": 2.25,
+                "rgb": {
+                  "blue": 114,
+                  "green": 138,
+                  "red": 183
+                }
+              },
+              {
+                "percentage": 1.69,
+                "rgb": {
+                  "blue": 97,
+                  "green": 99,
+                  "red": 68
+                }
+              }
+            ]
+          },
+          "original_img_height": 2528,
+          "original_img_url": "https://pbs.twimg.com/media/HFBwm9-bQAAvc9M.jpg",
+          "original_img_width": 1696
+        },
+        "media_key": "3_2040254445972570112"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFCNtbQbUAAKAAIYmDkr/1sQAQAA",
+        "media_id": "2040286442749120512",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 90.61,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 4.18,
+                "rgb": {
+                  "blue": 115,
+                  "green": 137,
+                  "red": 179
+                }
+              },
+              {
+                "percentage": 3.34,
+                "rgb": {
+                  "blue": 38,
+                  "green": 40,
+                  "red": 50
+                }
+              },
+              {
+                "percentage": 1.8,
+                "rgb": {
+                  "blue": 125,
+                  "green": 124,
+                  "red": 123
+                }
+              },
+              {
+                "percentage": 0.17,
+                "rgb": {
+                  "blue": 101,
+                  "green": 48,
+                  "red": 44
+                }
+              }
+            ]
+          },
+          "original_img_height": 302,
+          "original_img_url": "https://pbs.twimg.com/media/HFCNtbQbUAAT-_0.png",
+          "original_img_width": 742
+        },
+        "media_key": "3_2040286442749120512"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFCX0fUakAAKAAIYmDkr/1sQAQAA",
+        "media_id": "2040297559214952448",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.67,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 3.28,
+                "rgb": {
+                  "blue": 35,
+                  "green": 41,
+                  "red": 54
+                }
+              },
+              {
+                "percentage": 2.85,
+                "rgb": {
+                  "blue": 104,
+                  "green": 108,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 0.78,
+                "rgb": {
+                  "blue": 166,
+                  "green": 145,
+                  "red": 136
+                }
+              },
+              {
+                "percentage": 0.13,
+                "rgb": {
+                  "blue": 154,
+                  "green": 181,
+                  "red": 229
+                }
+              }
+            ]
+          },
+          "original_img_height": 190,
+          "original_img_url": "https://pbs.twimg.com/media/HFCX0fUakAAQVaf.png",
+          "original_img_width": 782
+        },
+        "media_key": "3_2040297559214952448"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFCY/4LbQAAKAAIYmDkr/1sQAQAA",
+        "media_id": "2040298854378323968",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 77.5,
+                "rgb": {
+                  "blue": 31,
+                  "green": 29,
+                  "red": 28
+                }
+              },
+              {
+                "percentage": 9.49,
+                "rgb": {
+                  "blue": 116,
+                  "green": 115,
+                  "red": 120
+                }
+              },
+              {
+                "percentage": 5.71,
+                "rgb": {
+                  "blue": 86,
+                  "green": 253,
+                  "red": 233
+                }
+              },
+              {
+                "percentage": 2.84,
+                "rgb": {
+                  "blue": 90,
+                  "green": 108,
+                  "red": 128
+                }
+              },
+              {
+                "percentage": 1.25,
+                "rgb": {
+                  "blue": 38,
+                  "green": 74,
+                  "red": 67
+                }
+              }
+            ]
+          },
+          "original_img_height": 1582,
+          "original_img_url": "https://pbs.twimg.com/media/HFCY_4LbQAASjFQ.jpg",
+          "original_img_width": 676
+        },
+        "media_key": "3_2040298854378323968"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFCUZhTbUAAKAAIYmDkr/1sQAQAA",
+        "media_id": "2040293797356326912",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 40.61,
+                "rgb": {
+                  "blue": 33,
+                  "green": 33,
+                  "red": 44
+                }
+              },
+              {
+                "percentage": 35.94,
+                "rgb": {
+                  "blue": 170,
+                  "green": 178,
+                  "red": 185
+                }
+              },
+              {
+                "percentage": 10.62,
+                "rgb": {
+                  "blue": 99,
+                  "green": 115,
+                  "red": 148
+                }
+              },
+              {
+                "percentage": 2.48,
+                "rgb": {
+                  "blue": 164,
+                  "green": 143,
+                  "red": 152
+                }
+              },
+              {
+                "percentage": 2.02,
+                "rgb": {
+                  "blue": 38,
+                  "green": 19,
+                  "red": 18
+                }
+              }
+            ]
+          },
+          "original_img_height": 1826,
+          "original_img_url": "https://pbs.twimg.com/media/HFCUZhTbUAAK20w.jpg",
+          "original_img_width": 1882
+        },
+        "media_key": "3_2040293797356326912"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFCQmNyb0AAKAAIYmDkr/1sQAQAA",
+        "media_id": "2040289617409462272",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 54.98,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 30.36,
+                "rgb": {
+                  "blue": 45,
+                  "green": 58,
+                  "red": 78
+                }
+              },
+              {
+                "percentage": 5.45,
+                "rgb": {
+                  "blue": 80,
+                  "green": 104,
+                  "red": 174
+                }
+              },
+              {
+                "percentage": 1,
+                "rgb": {
+                  "blue": 28,
+                  "green": 46,
+                  "red": 78
+                }
+              },
+              {
+                "percentage": 0.87,
+                "rgb": {
+                  "blue": 251,
+                  "green": 212,
+                  "red": 208
+                }
+              }
+            ]
+          },
+          "original_img_height": 880,
+          "original_img_url": "https://pbs.twimg.com/media/HFCQmNyb0AA5KYM.jpg",
+          "original_img_width": 995
+        },
+        "media_key": "3_2040289617409462272"
+      }
+    ]
+  }
+}

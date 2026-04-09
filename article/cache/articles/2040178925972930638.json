@@ -1,0 +1,724 @@
+{
+  "tweet_created_at": "2026-04-03T21:25:35.000000Z",
+  "id": 2040178925972930600,
+  "id_str": "2040178925972930638",
+  "type": "tweet",
+  "conversation_id_str": "2040178925972930638",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/HbvOtoHY50",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1041760075,
+    "id_str": "1041760075",
+    "name": "しゃもじ",
+    "screen_name": "Rice_scoop00",
+    "location": "",
+    "url": "https://www.instagram.com/rice_scoop01",
+    "description": "あなただけの\"救いの音楽\"を見つけてほしい。楽曲考察、ライブレポ、セトリ予想、グッズ紹介。すべての音楽が誰かの絆創膏であり命綱。音楽がなかったらしんでた https://t.co/fpxybGks8o",
+    "protected": false,
+    "verified": true,
+    "followers_count": 32721,
+    "friends_count": 133,
+    "listed_count": 106,
+    "favourites_count": 25548,
+    "statuses_count": 24487,
+    "created_at": "2012-12-28T09:16:13.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1041760075/1747519958",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1659171355865276416/5SLuPGe2_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 21,
+  "reply_count": 18,
+  "retweet_count": 187,
+  "favorite_count": 2351,
+  "views_count": 346786,
+  "bookmark_count": 427,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040172275199266816",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/HbvOtoHY50"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T21:25:35.000000Z",
+    "id": 2040178925972930600,
+    "id_str": "2040178925972930638",
+    "title": "サカナクションMステ現地観覧レポ",
+    "preview_text": "4年ぶりのMステ出演となるサカナクション。その収録現場の観覧に運良く当選したため、今日ここで起こったことをお裾分けするべく、許可の出ている範囲でなるべく詳細に記録を残してみる。",
+    "cover_url": "https://pbs.twimg.com/media/HFAqEFva8AAzACy.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "59tj6",
+          "text": "4年ぶりのMステ出演となるサカナクション。その収録現場の観覧に運良く当選したため、今日ここで起こったことをお裾分けするべく、許可の出ている範囲でなるべく詳細に記録を残してみる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bso1d",
+          "text": "今回の収録場所はなんとSGCホール有明。2週間後に行われるこの会場のこけら落とし公演を務めるのは他でもないサカナクションなわけだが、その前に彼らのライブがこの場所で観れるとは思わなかった。自分はこけら落とし公演は全先行落選。リセールも取れる気配がないけれど、ここでまさかのMステ当選ということで、運が回ってきた感じがする。(ただこの幸運は後に語るさらなる幸運の前触れでしかない…。)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ba2tu",
+          "text": "＜20:00＞",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "frc2v",
+          "text": "ホール前に集合すると、ライブハウス公演のスタンディングエリアの呼び出しのような形式で、1番から整理番号順に呼び出され入場していく。1番の方が呼ばれた時には、周囲から温かい拍手が送られていた。案内の掲示を見るに、おそらく600番くらいまでいる模様。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6uv7q",
+          "text": "呼び出されるまでの間、スタッフの方から案内がある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8upue",
+          "text": "「SNSに現在の状況や場所などを書き込まないようにすること」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51kqn",
+          "text": "「放送の画面は物凄い演出になっている。放送前にセット内容などを書き込んでしまうとマジックの種明かしを事前にしているようなものなので控えるように」との注意喚起。その言葉に観客はざわつき、期待が膨らむ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ldf9",
+          "text": "それにしても軽装かつ手荷物少なめの指定があったため、みんな薄着で寒そうにしている。(この日の夜の気温は8度)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dh2u",
+          "text": "自分は髪色などの観点から比較的目立つ容姿をしているため、進行や演出の妨げにならないようある程度地味な変装をして会場に向かったものの、帽子などは外すよう言われたのでここで全武装解除。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4l56",
+          "text": "この辺りから自分の視聴者さんにちょくちょく声を掛けられるが、収録現場の進行に影響が出ると困るのでだいぶ簡素な対応になってしまった(ごめんね)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bfuaf",
+          "text": "＜20:10＞",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "akqao",
+          "text": "自分の番号(200番台)が呼び出され、ロビーに入る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "10c2",
+          "text": "入れ替えでホール内からBE:FIRSTファンっぽい方々が中から出てくる。ペンライトやぬいぐるみキーホルダーのようなグッズをたくさん身につけておりかわいい。手にはみんな金テープを持っていたので、きっと演出で使われたのだろうと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7fpoj",
+          "text": "ロビーで整理番号と顔写真付き身分証の照合を行い、奥の通路へ向かう。スタッフさんの対応がとても丁寧だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6p2g4",
+          "text": "＜20:20＞",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2olp0",
+          "text": "ロビーの通路に並ぶ。並びながらお手洗いタイム。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f9knr",
+          "text": "一通りの人がお手洗いに行き終わると沈黙の15分。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6uirj",
+          "text": "ホールへと続く扉の先からはガタガタと転換の音が聞こえる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4rr4",
+          "text": "＜20:35＞",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ma8k",
+          "text": "ホール内入場のアナウンスがあったがセッティングの関係で変わらずしばらく待機。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "difqt",
+          "text": "＜20:45＞",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9o823",
+          "text": "案内より遅れて入場開始。床にはケーブルが張り巡らされており、段差がたくさんある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bsnar",
+          "text": "正面のメインステージとは別に、ホールのど真ん中にどデカい360°センターステージがある。立ち位置は自由、どこでも見えるし映ると言われたので、とりあえずど真ん中正面の3列目くらいに位置取る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7gfro",
+          "text": "ピコ太郎さんがメインステージにいて、中継でタモさんと何か話している。映像は映っていないが、中継先のタモさんの声がホール内に聞こえている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhf72",
+          "text": "中継が終わると、ピコ太郎さんがステージから捌ける前に「今来られたみなさんはサカナクションのファンなんですね！テレビ越しだと動きが小さく映ってしまいがちなので、いつものライブの倍くらい大きく手を上げて盛り上がってもらえると、みなさんの熱量がしっかり伝わると思います！それじゃあ楽しんで！」と挨拶をしてくれた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cpavo",
+          "text": "＜20:50＞",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69nq8",
+          "text": "現場の監督？ディレクターの方が前説を開始。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5dc31",
+          "text": "(Mステプロデューサーの利根川さんとは別の方)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1lure",
+          "text": "「明日の朝ぐらいまではSNS投稿禁止」「録画などで観る方への配慮」といった先ほど入り口でされたものと同じような案内があった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7nrds",
+          "text": "＜21:00＞",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6g0dk",
+          "text": "「今日は誰を観に来ましたか？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1l66g",
+          "text": "(サカナクション！)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "141gi",
+          "text": "「あードッキリっての知らないんだ〜」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6k55s",
+          "text": "(ザワザワ)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ag49l",
+          "text": "「あ、来ますよ？本人。来るんですけど、みなさんはきっと帰ってからオンエアを見て「あーそういうこと！」ってわかると思います。」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffri0",
+          "text": "などと特殊な演出を匂わせながらも観客を楽しめるようなトークを聞いていると",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abemv",
+          "text": "「きゃー！」という歓声が袖から聞こえる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtjt1",
+          "text": "唐突に一郎さんがふらっと出てきた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bb2hn",
+          "text": "予定調和無しで本当に気まぐれで出てきたらしくスタッフさんがバタバタしている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fv4qr",
+          "text": "「今までで1番盛り上がってくれぃ！今日はよろしく！」と叫び、一郎さん退場。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bm1rn",
+          "text": "その後もスタッフの方が「Mステ観覧はじめての人ー！」などのMCをしながら場を繋いでくれる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0rid",
+          "text": "＜21:05＞",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e45s4",
+          "text": "まもなく出番というタイミングで楽器隊4人が入場。拍手や歓声と共に迎えられる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94ilj",
+          "text": "それぞれがセンターステージの四隅に立ち、ファンサをしまくっている。ザッキーはサングラスを外したりしながらずっとホワホワしていて大盤振る舞い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4do0s",
+          "text": "一通りファンサが終わるとメンバー間で雑談が始まる。なぜかザッキーの声だけメンバーのイヤモニに入っておらず聞こえないらしく、ザッキーが何か話し始めるたびに「…？」みたいになって都度イヤモニを外すエジー。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnvq8",
+          "text": "黙ってギターの調整をしているもっち。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6m4gv",
+          "text": "「緊張してんじゃないよみんな！」と叫ぶあみちゃん。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ov3",
+          "text": "エジーが「みんな今日の演出どこまで知ってるの？」と尋ねると、何も聞かされていない我々は一様に首を振る。「一郎はしばらく出てこないよ。最後の方だけ出てくる」と演出の内容を匂わせてくる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91h61",
+          "text": "1つ前の出番の小泉今日子さんの歌に合わせて1人でチョコチョコしながら踊るザッキー。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dvohu",
+          "text": "そしてメンバーのイヤモニにだけ、どこか別の場所にいる一郎さんの声が入っているようで、何か話しているのをもっちが代わりに話して中継してくれている",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "312hg",
+          "text": "「エジー調子乗んなよ！！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "16shl",
+          "text": "エジー「いや俺にも直接聞こえてるから！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "freu9",
+          "text": "(笑笑笑)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agp74",
+          "text": "「これもう黙ってた方がいいのかな？」と心配になってソワソワし始めるエジー",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eomk",
+          "text": "「まだきょんきょんが歌ってる間は大丈夫じゃない？」とあみちゃんが言いつつもメンバーみんなソワソワしている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "hi5b",
+          "text": "「3分前です！」というスタッフさんの掛け声で現場が一気に静寂になる。さっきまでソワソワしていたメンバーにパチっとスイッチが入り一気に目つきが変わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c54pt",
+          "text": "＜21:10＞",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4113f",
+          "text": "サカナクションオンエアスタート",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8h6f2",
+          "text": "「続いてはサカナクションです。」とアナウンサーさんの紹介が流れ始めると拍手が巻き起こる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ui3j",
+          "text": "何の合図もなく唐突に『いらない』のイントロ演奏開始",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "db4re",
+          "text": "何がどう映っているのかわからないのでとりあえず体を揺らしてみたりする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6sn37",
+          "text": "曲の後半で一郎さんが会場後方から登場。観客をかき分けステージの上に。『いらない』はバンド編成でのノリが初めてなので不安だったけど、初歌唱配信でやっていた人差し指を交互に上げるダンスで大盛り上がり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "59d3v",
+          "text": "全力で踊り、曲が終わった後も観てるだけのこっちですら心臓と脈がバクバクで息が上がる中で『怪獣』のイントロが始まり静かに歌い出す一郎さん。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8pia3",
+          "text": "若干の音や声の揺らぎから一郎さんの緊張を感じる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ac7pu",
+          "text": "(揺らぎについては、会場についているスピーカーや音声は客演用のものではなくあくまでモニター用のものなので、普段のサカナクションのライブのような音質ではなかったからかもしれない。帰宅後オンエアの録画を見てみたら音はとても安定していて素晴らしかった)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cs0cj",
+          "text": "久しぶりのMステ出演ということで、観客もメンバーもどこか\"掛かって\"おり、お茶の間にライブの盛り上がりをわかりやすく伝えようと各々が試行錯誤した結果、ワンマンライブではなかった手拍子などをやってみたりしていて、普段やらないことをし始めたのがちょっと面白かった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "415ns",
+          "text": "ラストの大サビでは大合唱。みんな\"掛かって\"いるからか、ワンマンのアリーナで聴くのと相違ないレベルの合唱と歓声に包まれ、曲が終わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6kisp",
+          "text": "演奏後、中継でタモさんから「どうだった？」と聞かれた一郎さんもやはり我々と同じく\"掛かって\"おり、「2週間後にこの会場のこけら落としでライブをやるんですけど、そのいい練習になりました」などと普段の一郎さんなら絶対言わないような意味不明なくらい尖った返しをしていて笑ってしまった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7io1c",
+          "text": "中継が終わるや否や一郎さんが「写真撮っていいよ！」と叫ぶ。始まったよ。ここはフェスじゃねえんだぞ！！カメラが止まった途端あまりにも平常運転の一郎さんに思わず吹き出してしまう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7rdd",
+          "text": "ここでメンバーがそれぞれ特大のファンサービスを開始。センターステージの外周を回り、手を振ったり、最前列の人とはステージの上からハイタッチをしたりしていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a013u",
+          "text": "久しぶりのMステ出演、あまりにも圧巻のステージ。演出にもかなり力が入っており、しかも2曲それぞれフル演奏という贅沢すぎる内容に大満足、その現場に居合わせられた、これ以上の幸運もそうないだろうと思ったのも束の間、ここで更なる幸運が訪れる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2lt2c",
+          "text": "メンバー1人1人が前を通過していき、最後に一郎さんが目の前に来た時、偶然にも目が合い、唐突にこちらに向かって「お！しゃもじいるじゃーん！」みたいな感じで指差してくれたものだから「(…は!?!?!?!?)」となり、脳が処理しきれずフリーズ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "362m7",
+          "text": "「さすがに今のは空耳か夢の類」「ライブ後によくある\"今日絶対メンバーと目が合った！絶対私のこと見てた！\"みたいな自意識過剰補正現象と同じ類」と自分の頭と心に言い聞かせながら会場を後にする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "did5g",
+          "text": "ホールの出口では、スタッフの方々が軍隊のように深いお辞儀をしながら「ありがとうございました！」とお見送りをしてくださり、「それはこちらのセリフ」と思いつつ、後に一郎さんが「Mステの製作陣はアーティストや作品へのリスペクトが凄い」という話をしていたが、それはアーティストのファンに対しても同じなのだなと思った。こういったクリエイティブに対してリスペクトのある番組がこれからも続いていってほしいと心から思った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "birvl",
+          "text": "その後帰りの電車で、今日の記憶を辿りつつこの文章を書きながら、ラジオ代わりに一郎さんのYouTube生配信を観ていると「あと今日しゃもじくんが来てたわ。」とか言い始めたところで自分の脳は焼き切れてしまった。まるで「友達や親戚がライブに来てた！」みたいなノリで自分の名前が話題に出ていることに驚愕と衝撃を隠しきれない。もうこれ以上のことは何も覚えていない。この配信を観る前にここまでレポを書き進めておいて本当に良かった。今はなんとか平静を保ってこの文章を書いているものの少しでもネジが飛べばどうなってしまうかわからなぬおあああああああああああああああああああああああああああああああああああああああああああああああああああああああああああこれどういう世界線！？！？！？！？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vc09",
+          "text": "(一郎さん、いつも本当にありがとうございます)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72u1h",
+          "text": "各所に私情が織り混ぜられ体験レポとしては大変お粗末な文章だったかと思いますが、貴重な体験のお裾分けになっていれば幸いです。最後までお読みいただきありがとうございました。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "hashtags": [
+              {
+                "fromIndex": 0,
+                "text": "サカナクション",
+                "toIndex": 8
+              },
+              {
+                "fromIndex": 9,
+                "text": "Mステ",
+                "toIndex": 13
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "do2v3",
+          "text": "#サカナクション #Mステ",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

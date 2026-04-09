@@ -1,0 +1,220 @@
+{
+  "tweet_created_at": "2026-04-03T20:59:50.000000Z",
+  "id": 2040172445571728000,
+  "id_str": "2040172445571727759",
+  "type": "tweet",
+  "conversation_id_str": "2040172445571727759",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/RaGtxuRjmd",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1713961084426797000,
+    "id_str": "1713961084426797058",
+    "name": "cass",
+    "screen_name": "codecassidyy",
+    "location": "",
+    "url": "https://linktr.ee/codeinecass",
+    "description": "turn ur notis on and ill post more fr",
+    "protected": false,
+    "verified": true,
+    "followers_count": 29592,
+    "friends_count": 34,
+    "listed_count": 28,
+    "favourites_count": 383,
+    "statuses_count": 115,
+    "created_at": "2023-10-16T16:52:36.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1713961084426797058/1762049167",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1984789373770956800/f-6XhjpW_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 0,
+  "reply_count": 80,
+  "retweet_count": 31,
+  "favorite_count": 2991,
+  "views_count": 2824446,
+  "bookmark_count": 4645,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040170609250856960",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/RaGtxuRjmd"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T20:59:50.000000Z",
+    "id": 2040172445571728000,
+    "id_str": "2040172445571727759",
+    "title": "Don't Click.... Video",
+    "preview_text": "▶︎ 0:09...",
+    "cover_url": "https://pbs.twimg.com/media/HFAk7-qaUAAQe6q.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7rvj3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "akvce",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b320n",
+          "text": "▶︎ 0:09...",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "f487c99e-0404-4cca-876d-87a4ed382b6e",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2040172024572637184"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHFAlpaVXcAAKAAIAAAAAAAAAAAAA",
+        "media_id": "2040172024572637184",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 16,
+            "numerator": 9
+          },
+          "duration_millis": 9079,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 38.16,
+                  "rgb": {
+                    "blue": 114,
+                    "green": 135,
+                    "red": 190
+                  }
+                },
+                {
+                  "percentage": 33.34,
+                  "rgb": {
+                    "blue": 29,
+                    "green": 34,
+                    "red": 52
+                  }
+                },
+                {
+                  "percentage": 8.15,
+                  "rgb": {
+                    "blue": 115,
+                    "green": 113,
+                    "red": 136
+                  }
+                },
+                {
+                  "percentage": 4.19,
+                  "rgb": {
+                    "blue": 37,
+                    "green": 61,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 2.55,
+                  "rgb": {
+                    "blue": 42,
+                    "green": 41,
+                    "red": 97
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1280,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2040172024572637184/img/W36dhqvpy2YNOOhH.jpg",
+            "original_img_width": 720
+          },
+          "variants": [
+            {
+              "bit_rate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040172024572637184/vid/avc1/320x568/GEdrv_xFSVxwGXFj.mp4?tag=21"
+            },
+            {
+              "bit_rate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040172024572637184/vid/avc1/480x852/mEKUEn0LNrnU0dQB.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040172024572637184/vid/avc1/720x1280/lm4U8WcLTO7HkggC.mp4?tag=21"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2040172024572637184/pl/tVaqyou7ElkGg0wZ.m3u8?tag=21"
+            }
+          ]
+        },
+        "media_key": "13_2040172024572637184"
+      }
+    ]
+  },
+  "conversation_policy": "Verified"
+}

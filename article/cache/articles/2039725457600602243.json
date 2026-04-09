@@ -1,0 +1,249 @@
+{
+  "tweet_created_at": "2026-04-02T15:23:40.000000Z",
+  "id": 2039725457600602400,
+  "id_str": "2039725457600602243",
+  "type": "tweet",
+  "conversation_id_str": "2039725457600602243",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/vXbkJneoiy",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1259364299077648400,
+    "id_str": "1259364299077648384",
+    "name": "さんご@5/18くびれセミナー",
+    "screen_name": "35210re",
+    "location": "",
+    "url": "https://desty.jp/",
+    "description": "Bikini Athlete👙産後太りから筋肉女王へ！夢は「骨×神経×筋肉」で叶える💪23MUSCLE GATE🥇×9🥈×2🥉×1／JBBF🥇／25JBBF🥇🥈ALL JAPAN MASTERS🥇ALL JAPAN163+🥈／本業はデザイナー／本性はオタク",
+    "protected": false,
+    "verified": true,
+    "followers_count": 28748,
+    "friends_count": 785,
+    "listed_count": 171,
+    "favourites_count": 30994,
+    "statuses_count": 34094,
+    "created_at": "2020-05-10T06:07:13.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1259364299077648384/1752197456",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1943482934331346945/2H3LnWvh_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 45,
+  "reply_count": 6,
+  "retweet_count": 246,
+  "favorite_count": 2148,
+  "views_count": 724751,
+  "bookmark_count": 2945,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039690716507766784",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/vXbkJneoiy"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T15:23:39.000000Z",
+    "id": 2039725457600602400,
+    "id_str": "2039725457600602243",
+    "title": "さんごカロリー計算GPT作りました",
+    "preview_text": "ダイエットプロンプト大幅修繕したついでにGPT作りました🎉\nhttps://chatgpt.com/g/g-69ce7a42185c8191af0f083e724a86ba-sankoshi-karoriji-suan-gpt-v1\n \n\nな！ん！と！\nダイエット／リコンプ\nどちらも計算できます！\n調整もききます！",
+    "cover_url": "https://pbs.twimg.com/media/HE5w6yObgAAIs3q.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 28
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4hqkh",
+          "text": "ダイエットプロンプト大幅修繕したついでにGPT作りました🎉",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://chatgpt.com/g/g-69ce7a42185c8191af0f083e724a86ba-sankoshi-karoriji-suan-gpt-v1",
+                "toIndex": 86
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bv19d",
+          "text": "https://chatgpt.com/g/g-69ce7a42185c8191af0f083e724a86ba-sankoshi-karoriji-suan-gpt-v1",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "14pbd",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3sgdd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kab0",
+          "text": "な！ん！と！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9bcfb",
+          "text": "ダイエット／リコンプ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1ftf",
+          "text": "どちらも計算できます！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4rak8",
+          "text": "調整もききます！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2hsca",
+          "text": "安全性を重視してどんな身長・体組成でも1500kcal以下の提案はせず、確実に除脂肪するようにしました！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9h9ju",
+          "text": "PFCバランスは =2:3:5をベースにしました！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cttac",
+          "text": "そして1200kcalにはしない安全設計です！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a3fbo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8td8",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f389.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "9eaba3d1-c7e2-4bf4-b1b5-16421e78e7a5",
+              "tweetId": "2039723937467420919"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "tweetId": "2039870216486969751"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "tweet_created_at": "2026-04-03T04:51:09.000000Z",
+  "id": 2039928670316601600,
+  "id_str": "2039928670316601593",
+  "type": "tweet",
+  "conversation_id_str": "2039928670316601593",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/dyUg57VcAA",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 606233074,
+    "id_str": "606233074",
+    "name": "週刊文春",
+    "screen_name": "shukan_bunshun",
+    "location": "",
+    "url": "https://bunshun.jp/denshiban/",
+    "description": "昭和34年（1959年）創刊の総合週刊誌「週刊文春」の公式アカウントです。独自のスクープを先行公開している「週刊文春 電子版」の記事を中心に注目コンテンツを24時間配信中。記事は会員向けを含みます。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 504768,
+    "friends_count": 65,
+    "listed_count": 3610,
+    "favourites_count": 594,
+    "statuses_count": 61568,
+    "created_at": "2012-06-12T11:07:47.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/606233074/1758786508",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1963098428948549632/bRwmoSSP_normal.png",
+    "can_dm": false,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 48,
+  "reply_count": 22,
+  "retweet_count": 570,
+  "favorite_count": 1042,
+  "views_count": 103266,
+  "bookmark_count": 44,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039925896011010048",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/dyUg57VcAA"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T04:51:09.000000Z",
+    "id": 2039928670316601600,
+    "id_str": "2039928670316601593",
+    "title": "片山さつき財務相が代表の政治団体で計200万円超の“二重計上”が行われていた",
+    "preview_text": "片山さつき財務大臣が代表を務める2つの政治団体が、2024年までの3年間に計200万円超もの支出を二重計上していたとして、政治資金収支報告書を2026年の3月27日に訂正したことが分かった。",
+    "cover_url": "https://pbs.twimg.com/media/HE9HsK8aYAACm2C.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "baqp6",
+          "text": "片山さつき財務大臣が代表を務める2つの政治団体が、2024年までの3年間に計200万円超もの支出を二重計上していたとして、政治資金収支報告書を2026年の3月27日に訂正したことが分かった。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1h3eo",
+          "text": "「週刊文春」は3月18日に片山氏の政治団体での二重計上を報じていた。どのような内容が報じられ、修正するに至ったのか。2026年3月18日配信の「週刊文春」記事を再公開する。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b0um1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ai2n9",
+          "text": "長引くイラン攻撃で、物価高がさらに加速し、危機的な状況にある日本経済。そんな中、経済政策の舵取りを任されている、片山さつき財務相（66）が、事務所費を“二重計上”していたことが「週刊文春」の取材でわかった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4iafr",
+          "text": "2団体で支出を二重計上する“錬金術”が3年間で13件",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bqh0s",
+          "text": "現在、片山氏は「自由民主党東京都参議院比例区第25支部」（以下、支部）、資金管理団体の「片山さつき後援会」（以下、後援会）という2つの政治団体の代表を務めている。今回、総務省に提出された2団体に関する資料を情報公開請求し、過去3年分の領収書が添付された約1900枚の資料を精査したところ、浮かび上がってきたのが、事務所費の問題だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aqgrg",
+          "text": "例えば、片山氏の後援会は2022年6月7日、「プリンター保守料等」という名目で34万2289円を支出。資料として振込票と請求書が貼付されている。他方、支部にも「コピー機利用料」として同日に同額の支出の記載があり、領収証が貼付されているのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1np4e",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvfq",
+          "text": "1つの支払いに係る「振込票（および請求書）」と「領収証」を用い、2団体で支出を二重計上する“錬金術”。その他、「サービス使用料」「システム代」などの名目で同様の手法が用いられたのは、少なくとも3年間で13件あり、合計200万円を超えている。政治資金に詳しい神戸学院大学の上脇博之教授が指摘する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2fbh",
+          "text": "「支部と後援会は事務所の所在地が異なるため、利用料を折半したとは考えにくく、政治資金規正法上の虚偽記載に当たり得ます。実際には支出がないのに、支出したと記載しているということは、“裏金化”している疑いもある」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a77in",
+          "text": "片山事務所の回答は…",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2r7rm",
+          "text": "片山事務所に、二重計上について尋ねると、税理士事務所を通じて概ね次のように回答した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24l74",
+          "text": "「事務的なミスであり、結果として誤りが生じたことについて、当事務所として重く受け止めております。（中略）必要な修正手続等について関係先と連携の上、速やかに対応して参ります」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5lbr3",
+          "text": "だが、片山氏の「政治とカネ」を巡る疑惑はこれだけではない――。  　現在配信中の「週刊文春 電子版」では、片山氏が政治資金で金券を“爆買い”していること、元秘書への謎の業務委託費、アポなしで地銀の頭取を訪問した件、片山夫妻が保有する金融資産や不動産などについて詳しく報じている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 75,
+              "offset": 7
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fjaqb",
+          "text": "続きはこちら：片山さつき財務相のデタラメ金銭感覚《システム代、コピー代を二重計上200万、金券も爆買い》《謎の業務委託費 支払い先の元秘書は「分かりません」》  ",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "訂正された収支報告書",
+              "entityKey": "dada6231-7d69-45fa-aafc-7977c19e1ee6",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039928091028631552"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "576d5a05-7f7a-4608-b7cc-59be80037e46",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039928345035726848"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://bunshun.jp/denshiban/articles/b13619"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9HynEaMAAKAAIAAAAAJCJh8gAA",
+        "media_id": "2039928091028631552",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.75,
+                "rgb": {
+                  "blue": 253,
+                  "green": 253,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 0.25,
+                "rgb": {
+                  "blue": 144,
+                  "green": 144,
+                  "red": 144
+                }
+              }
+            ]
+          },
+          "original_img_height": 583,
+          "original_img_url": "https://pbs.twimg.com/media/HE9HynEaMAA0_ZW.png",
+          "original_img_width": 814
+        },
+        "media_key": "3_2039928091028631552"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9IBZUa4AAKAAIAAAAAJCJh8gAA",
+        "media_id": "2039928345035726848",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.8,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.2,
+                "rgb": {
+                  "blue": 140,
+                  "green": 140,
+                  "red": 140
+                }
+              }
+            ]
+          },
+          "original_img_height": 243,
+          "original_img_url": "https://pbs.twimg.com/media/HE9IBZUa4AAQlMP.png",
+          "original_img_width": 728
+        },
+        "media_key": "3_2039928345035726848"
+      }
+    ]
+  }
+}

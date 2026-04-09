@@ -1,0 +1,224 @@
+{
+  "tweet_created_at": "2026-04-05T10:05:18.000000Z",
+  "id": 2040732502898135300,
+  "id_str": "2040732502898135252",
+  "type": "tweet",
+  "conversation_id_str": "2040732502898135252",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/u46JF1wXMa",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 8105922,
+    "id_str": "8105922",
+    "name": "Clarín",
+    "screen_name": "clarincom",
+    "location": "Argentina",
+    "url": "http://www.clarin.com",
+    "description": "Nuevo Clarín en X: Información adaptada, resumida y editada para entender rápido sin perder profundidad. DM abierto.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 3304476,
+    "friends_count": 128,
+    "listed_count": 11494,
+    "favourites_count": 578,
+    "statuses_count": 695188,
+    "created_at": "2007-08-10T15:14:11.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/8105922/1757345266",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1951342167185674240/NR2P7flY_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 219,
+  "reply_count": 306,
+  "retweet_count": 666,
+  "favorite_count": 2882,
+  "views_count": 1775035,
+  "bookmark_count": 605,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040469321059594240",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/u46JF1wXMa"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T10:05:18.000000Z",
+    "id": 2040732502898135300,
+    "id_str": "2040732502898135252",
+    "title": "Adam Smith: el padre de la economía",
+    "preview_text": "Por Javier Milei\nAdam Smith, aún a 250 años de la publicación de su obra Investigación sobre la naturaleza y causas de la riqueza de las naciones sigue generando debate. Así como estamos quienes",
+    "cover_url": "https://pbs.twimg.com/media/HFIgO07WIAAvMzm.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 12,
+              "offset": 4
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "37irv",
+          "text": "Por Javier Milei",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7bgcf",
+          "text": "Adam Smith, aún a 250 años de la publicación de su obra Investigación sobre la naturaleza y causas de la riqueza de las naciones sigue generando debate. Así como estamos quienes mostramos una profunda admiración, hay otros a los que su grandeza les provoca rechazo, ya sea porque no lo entienden (sea por incapacidad o por cuestiones del entorno temporal), porque piensan distinto (en niveles dispares de intensidad) o de modo un más básico sienten envidia por el lugar que ocupa en la historia y eso los coloca en una posición incómoda ya sea desde un punto de vista profesional y/o personal.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "65jd2",
+          "text": "Desde mi punto de vista, Adam Smith es a la economía, lo que Carl Gauss a la matemática. Una persona 200 años adelantada a su tiempo. Es más, probablemente sea mucho mejor la definición de quien fue su mejor discípulo, John Millar que lo definió como “el Newton de la economía política”. Por ende, en la presente nota, intentaré demostrar, desde mi perspectiva, por qué resulta correcto otorgar a Adam Smith, el título de “padre de la economía”. A su vez, mi planteo excede por mucho a la calificación de Smith como un gran sintetizador del saber de un momento que lo encapsuló en un producto compacto y que luego se convirtió en un nuevo campo de estudio. Esto es, antes de La riqueza de las naciones (1776), no existía la economía como disciplina, siendo la obra en cuestión la pionera en la materia. ¿Hubo aportes interesantes previos a la obra de Smith? Sin dudas. Cantillón, Quesnay, los Escolásticos, Turgot y Hume han hecho aportes importantes. Sin embargo, Smith los sintetizó en una obra compacta y en la cual aportó elementos nuevos muy importantes que debieron pasar más de 200 años para que se pudieran entender y valorar.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19evn",
+          "text": "A su vez, en mi opinión, Adam Smith no estaba pensando en crear un nuevo campo de estudio, sino más bien de generar un texto que contuviera el material para una de las cuatro partes de su curso de filosofía moral: (i) teología, (ii) ética, (iii) jurisprudencia y (iv) economía política. Esto es, implica que resulta fundamental al momento de leer La riqueza de las naciones hacerlo desde una perspectiva moral. Es más, tampoco puede ser asimilada en plenitud la obra si no se tiene en cuenta la influencia de los Estoicos sobre Smith ya desde su primer éxito editorial que fue La teoría de los sentimientos morales (segunda parte de su curso). Más concretamente me refiero al capítulo sobre la virtud, donde apunta a la prudencia (en la cual juega un rol central el interés propio), la justicia, el autocontrol (que aúna la visión de los Estoicos de la fortaleza y la templanza) y, por último, la beneficencia (de carácter voluntario).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cl4qr",
+          "text": "Sin embargo, a la luz de mi valoración de Adam Smith, mi primera reflexión está vinculada a su aporte a la teoría del crecimiento económico. Un campo del análisis económico que apareció de modo formal unos 180 años después y que debimos transitar 30 años de debate para asimilar la contribución del padre de la economía.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6r5l6",
+          "text": "La explicación de la fábrica de alfileres pone sobre el tapete la idea del crecimiento económico basada en los rendimientos crecientes. Smith señalaba que una persona experta podía hacer sola unos 20 alfileres por día. Sin embargo, si la tarea se separaba en 18 actividades y para ello se contrataba 10 trabajadores, la producción total pasaba de 200 a 48.000. Esto es, fruto de la división del trabajo, el aumento de la cantidad de trabajadores llevaba a un aumento de 240 veces en la productividad. Así, mientras la teoría del crecimiento neoclásico navegaba en la intrascendencia empírica frente al palo de hockey, esto es, que de un producto per-cápita constante a lo largo de la historia, luego de la revolución industrial, la población se multiplicó por 10 veces, mientras que el producto per-cápita los hizo por 15 (haciendo que la pobreza extrema en el plante caiga desde un 95% a menos del 10%), Adam Smith había encontrado la solución más de 250 años antes, aun cuando no había indicios empíricos para ello.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cs5qh",
+          "text": "La cuestión de los rendimientos crecientes no es un punto menor, ya que la ausencia de los mismos (propio de los neoclásicos) imposibilita la existencia de crecimiento a largo plazo por una cuestión de diseño matemático. Diseño que puede ser muy cómodo para derivar teoremas, pero que ha sido incapaz de describir lo más importante en economía que es el crecimiento, lo cual ha plagado a la profesión de modelos parche. Sin embargo, Adam Smith ya había dado la respuesta en 1776, la cual no sólo permitió explicar los resultados del salto productivo de la revolución industrial y de la innovación de Henry Ford, sino que también, a la luz de los rendimientos crecientes, se podría señalar que la inteligencia artificial es la fábrica de alfileres del Siglo XXI. Es más, la sentencia de Smith que señala que la división del trabajo está limitada por el tamaño del mercado, nos lleva a descartar de cuajo todos los escenarios distópicos sobre las consecuencias de la utilización de la inteligencia artificial.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ecrgm",
+          "text": "Al mismo tiempo, Smith incorpora la idea del progreso tecnológico (producir más por unidad de insumo) sustentado en tres elementos: (i) el ahorro de tiempo que implicaba no tener que estar pasando de una actividad a otra, (ii) el aprendizaje en la práctica; esto es, en la medida que la tarea se repetía en el tiempo se hacía cada vez mejor y (iii) el cambio tecnológico; el cual derivaba de encontrar una forma de ahorrar tiempo manifestado en un salto discreto de productividad. Nótese que esto describe un proceso de crecimiento muy claro, conforme la especialización avanza el producto per-cápita sube de modo continuo hasta que llega un salto discreto (cambio tecnológico), que permite repetir el proceso anterior, pero desde un nivel de productividad más alto.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "opmf",
+          "text": "Por otra parte, la obra de Adam Smith resalta como virtudes la laboriosidad y el ahorro. En este sentido, la adscripción al trabajo permite explotar los rendimientos crecientes, ya que cada unidad de trabajo adicional aumenta la producción más que proporcionalmente. Lo mismo pasa con el ahorro, ya que éste al aumentar permite una mayor inversión, mayor capital per-cápita y por ende mayor producción. Esto es, una sociedad trabajadora y frugal progresará, mientras que en aquellas sociedades con valores opuestos se hundirán.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efjc3",
+          "text": "Sin embargo, el crecimiento no se agota en el progreso tecnológico y en las preferencias por el ocio y el consumo futuro, sino que al estar limitada la división del trabajo por el tamaño del mercado (los árboles no llegan hasta el cielo), la apertura de la economía juega un rol crucial al aumentar el tamaño del mismo. A su vez, en la obra no sólo se defiende la apertura, sino que se aniquila conceptual y cuantitativamente la posición mercantilista, al tiempo que además se brinda un fundamento moral de la misma. Esto es, dado el impacto de la división del trabajo sobre los ingresos, Smith considera inhumano condenar a la miseria a la población para cuidar el negocio de los amigos del poder. Lo cual, obviamente, no estaba exento de los riesgos propios de aquellos que cometían la osadía de enfrentar a los dueños de dichos privilegios. Al mismo tiempo, y un efecto colateral es el fomento de la competencia, donde usando los conceptos de gravitación y reposo de Newton, Smith describe la trayectoria del precio de mercado y la convergencia al precio de equilibrio (al cual llamaba precio natural). Puesto en terminología actual, frente a un exceso de demanda positivo el precio subirá y en caso opuesto el precio caerá. ¿Cuándo terminará esto? Cuando encuentre el precio de equilibrio (punto de reposo). A su vez, es de una exquisitez extrema la vinculación entre el sistema de precios como mecanismo de coordinación bajo la idea de la mano invisible en el ejemplo de los abrigos de lana (para ver algo similar sugiero “Yo, el lápiz” de Leonard Read).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28hf4",
+          "text": "Al mismo tiempo y probablemente, para evitar que el modelo no fuera explosivo (NEWTON) y que la idea de valor careciera de sentido empírico, llevó al autor a errar al elegir una teoría del valor objetiva como la teoría del valor trabajo. Sin dudas, en este punto usted podría cuestionar si había tanta matemática escondida debajo de la alfombra. Sólo le cuento que Smith tenía una sólida formación lógica-matemática (antes de ser profesor de filosofía moral lo fue de lógica), había leído a Newton y escribió una monografía sobre la historia de la astronomía. No sólo eso, dado el enfoque empírico de Newton, la influencia de dicho autor está presente en todos los autores de la ilustración escocesa.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "chmi9",
+          "text": "Ahora sí, lo que seguramente estaba esperando: la idea de la mano invisible. Dicho concepto nos dice que cada uno de los individuos guiados por su propio interés conduce a la maximización del bienestar general. Esto es, aparece la idea del orden espontáneo en la que la Escuela Austríaca de Economía y muy especialmente Hayek han trabajado para mostrar la superioridad del mercado por sobre la idea del Estado rector. En este sentido ameritan dos comentarios. Por un lado, la idea de la mano invisible no es exclusividad de Adam Smith ni fue La riqueza de las nacioness donde plasmó por primera. De hecho, la idea ya estaba en el libro sobre filosofía de Smith, La teoría de los sentimientos morales. Por otro lado, esta idea era una respuesta a los planteos colectivistas que emergieron en Escocia (tras unirse a Inglaterra), luego del explosivo aumento del bienestar económico derivado del intercambio comercial de tabaco con Estados Unidos. Esto es, ante la mejora de las condiciones económicas, aparecieron un grupo de parásitos que en nombre de la igualdad querían apropiarse por medio de la fuerza del fruto del trabajo ajeno. Esto es, la idea de un Estado presente que promueva la justicia social.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "do26g",
+          "text": "En el quinto libro, Adam Smith aborda la cuestión de las finanzas públicas. En este sentido, en primer lugar, determina cuales deberían ser los gastos a cargo del Estado. Así, dentro de las tareas básicas determina la defensa nacional (la cual consideraba que no podía quedar en manos de mercenarios) y la seguridad. Respecto a la seguridad, Smith como digno heredero de John Locke consideraba que el Estado debía proteger la vida de los ciudadanos, la libertad y la propiedad privada. De este modo, definidos los gastos, se pasa a la determinación de los ingresos, para lo que define que los impuestos deben ser lo más bajo posible y lo más sencillo de computar ya que bastante tienen los ciudadanos con tener que afrontar por la fuerza estos pagos. Por último, el apartado de las finanzas públicas concluye con el emergente de la diferencia de ingresos y gastos, esto es, la deuda.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1cl0a",
+          "text": "Respecto a la cuestión monetaria, recordemos que en ese momento el dinero era metálico y en materia de dinero y precios, Smith seguía los lineamientos de David Hume, esto es, una suerte de teoría cuantitativa extendida a economías abiertas (condiciones monetarias relativas). Es decir, Smith en La riqueza de las naciones no sólo adhiere a la naturaleza monetaria de la inflación, sino que además brega por la acuñación privada de la moneda. En definitiva, Smith ya también adelantaba problemas asociados a la elección pública y las instituciones.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2d60r",
+          "text": "Por lo tanto, creo que estos argumentos no sólo muestran la magnitud extraordinaria de la obra y de su vigencia. Obviamente, no está exenta de errores, pero pretender la perfección (como si algo lo fuera) no sería esperable para la primera obra completa en la materia. Sin embargo, desde mi punto de vista, haber puesto en el centro de la escena al crecimiento económico eleva el valor de La riqueza de las naciones a un nivel superlativo, ya que como señalara Robert Lucas Jr.: “las consecuencias que este tipo de cuestiones entrañan para el bienestar humano son sencillamente estremecedoras: una vez que uno empieza a pensar en ellas es difícil pensar en cualquier otra cosa”. Adam Smith la vio primero.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://www.clarin.com/autor/javier-milei.html"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

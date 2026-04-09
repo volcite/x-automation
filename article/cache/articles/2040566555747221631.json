@@ -1,0 +1,415 @@
+{
+  "tweet_created_at": "2026-04-04T23:05:53.000000Z",
+  "id": 2040566555747221500,
+  "id_str": "2040566555747221631",
+  "type": "tweet",
+  "conversation_id_str": "2040566555747221631",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/FRrpToPeQq",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1999600230631895000,
+    "id_str": "1999600230631895040",
+    "name": "りさ",
+    "screen_name": "Risa_logical",
+    "location": "",
+    "url": null,
+    "description": "【相談件数・累計400名以上】ママの\"モヤモヤ\"を言語化してきた現役コーチが女心をロジカルに解剖",
+    "protected": false,
+    "verified": true,
+    "followers_count": 250,
+    "friends_count": 24,
+    "listed_count": 1,
+    "favourites_count": 2775,
+    "statuses_count": 689,
+    "created_at": "2025-12-12T22:00:31.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2005039224693948416/7Lb9jE0o_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 619,
+  "reply_count": 77,
+  "retweet_count": 438,
+  "favorite_count": 2068,
+  "views_count": 8925178,
+  "bookmark_count": 584,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040544821845368832",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/FRrpToPeQq"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T23:05:53.000000Z",
+    "id": 2040566555747221500,
+    "id_str": "2040566555747221631",
+    "title": "女子が助手席で絶望する「曲がる直前にウィンカー出す男」の正体",
+    "preview_text": "「カチカチ……」\nウィンカーが鳴った瞬間、助手席の彼女は静かに心の中でシャッターを下ろす。「この人とは一生無理だわ」",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aob12",
+          "text": "「カチカチ……」\nウィンカーが鳴った瞬間、助手席の彼女は静かに心の中でシャッターを下ろす。「この人とは一生無理だわ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fger",
+          "text": "本人は「スマートに曲がった」つもりかもしれない。でも、女子が見ているのは運転技術じゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9u1t",
+          "text": "情報の出し渋ることでの周りへの影響",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "an455",
+          "text": "という、静かで致命的な不誠実さ。これが、恋愛で「絶対に信頼できない男」の正体。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ot7l",
+          "text": "女子が助手席で見てるのは、ハンドルの回し方でもスピードでもないわけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "21h24",
+          "text": "「この人は、どのタイミングで情報を共有してくれるか」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8l3rs",
+          "text": "ウィンカーが遅いってことは、「自分が次どう動くか」をギリギリまで教えないってこと。それってつまり、相手に心の準備をさせない不親切な男だって証明してるようなもん。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6karm",
+          "text": "これって日常のコミュニケーションでも絶対に出ちゃうんだよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "av2b8",
+          "text": "なぜ直前ウィンカーが不安にさせるのか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31jmb",
+          "text": "道が空いてるのに前の車がいきなりブレーキ踏んで、数秒後にカチカチ出す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5l3r4",
+          "text": "後ろを走ってる車の気持ち、ちょっと想像してみて。\n道空いてるのに、いきなりブレーキ踏まれたら「何？どうした！？」ってなるでしょ！？\nで、曲がる直前でウィンカー出されたら「おい、曲がるのかよ！」ってなるじゃん。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vc6r",
+          "text": "その一瞬の遅れが判断を狂わせて、最悪は事故に繋がる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "668mf",
+          "text": "逆にブレーキ踏む前に、ウィンカー出してくれたら、\n「あ、曲がるのね。スピード落とすだろうから、ブレーキ踏む準備しよう」ってなる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8rujg",
+          "text": "ここを理解できない男は、恋愛でも「周りにリスクを押し付けて平気な顔してる」ってことなんだよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "737pj",
+          "text": "これが助手席の彼女だったら、どう感じると思う？\n彼女は理屈じゃなく、本能でこう察しちゃうんだよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cdb9u",
+          "text": "「この人、次何するかわかんない」\n「急に予想外のことが起きる」\n「私はいつもそれに振り回されるんだ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "acjl5",
+          "text": "この予測不能な怖さが、信頼をジワジワ削っていく一番の元凶なの",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5kio9",
+          "text": "恋愛でも全く同じことが起きてる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bclpo",
+          "text": "この手のタイプってさ、恋愛でも同じミスをやりがち。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6t8ru",
+          "text": "・大事なことを相談なしで勝手に決める\n・当日にいきなり予定をぶち込んでくる\n・自分の中で答えを出してから、事後報告する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ffs1",
+          "text": "本人に悪気がないのは分かってるよ。むしろ「しっかり考えてから言おう」って思ってるんだろうけど。でもそれって結局、相手をプロセスから外してるってことなんだよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3euk",
+          "text": "恋愛で女子が求めてるのは、\nピカピカに完成された結論なんかじゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8j13b",
+          "text": "「今こんな風に考えてるんだけど、どうかな？」\nっていう途中経過を見せてほしいの。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fmue4",
+          "text": "それが、女子にとっての早めのウィンカーなわけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbbj3",
+          "text": "男が勘違いしがちな「カッコよさ」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1udfn",
+          "text": "直前にウィンカー出す人って、心のどこかで勘違いしてない？\n「ギリギリでサッと出す方が、手際よくてスマートじゃん」って。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aljgn",
+          "text": "悪いけど、それ完全にズレてるからね。\nスマートさっていうのは\n「無駄がない」ことじゃなくて、「相手に余裕を与えること」なのよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8l3i4",
+          "text": "例えば、\n外食後にわざわざ「これくらいだから」って金額を口にする男。\n本人は太っ腹なつもりだろうけど、実際は自分の価値を下げてるだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "90t3c",
+          "text": "本当に余裕がある男は、野暮な説明なんてしない。\n「今日は楽しかったから、出させて」\nそれだけで十分伝わるから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajde",
+          "text": "ウィンカーも一緒。見せるべきは運転技術じゃなくて配慮の速さでしょ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e9vvl",
+          "text": "信頼される男が共通してやってること",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "97sv7",
+          "text": "じゃあ具体的にどうすればいいかって？\n答えはめちゃくちゃシンプル。\nいつもより「数秒早く出す」だけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1pn81",
+          "text": "でも、このたった数秒に本質が詰まってるんだよね。\nこの数秒の余裕を持てる人は、\n\n・相手の立場で景色を見ている\n・ちょっと先の未来を予測している\n・周りの人に準備する時間を与えている",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3paq3",
+          "text": "つまり、「一緒にいて心から安心できる人」ってことなんだよ。\n予測不能っていうのは、かなりデカい減点対象だよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ujfc",
+          "text": "「選ばれる男」の正体",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1pcm9",
+          "text": "女子が「この人といたい」って思うのは、\n「何が起きるか予測がつく人」なんだよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9nbcs",
+          "text": "別にサプライズの天才を求めてるわけじゃない。\n普段の行動に裏表がなくて、安心させてくれる人。\n\n・次に何をしようとしてるか分かる\n・どんな判断をする男か予測できる\n・自分がどう扱われるかイメージが湧く",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjs5t",
+          "text": "この安心感を作れる男が、結局は選ばれるんだよ。\nだからまずは、ウィンカーの出し方から変えて。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e84qb",
+          "text": "曲がる3秒前にちゃんと出す。\nたったそれだけで、「あ、この人他とは違うな」って思わせられるから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgr5",
+          "text": "恋愛ってね、特別なことなんてしなくていいの。\n当たり前の配慮を、当たり前以上に、丁寧にできるかどうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kjuu",
+          "text": "その積み重ねが、「この人なら大丈夫」っていう本物の信頼に変わるんだよ。\n私たちが一番見てるのは、そういう地味なところなんだから。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

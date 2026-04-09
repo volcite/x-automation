@@ -1,0 +1,555 @@
+{
+  "tweet_created_at": "2026-04-02T21:56:38.000000Z",
+  "id": 2039824352812892400,
+  "id_str": "2039824352812892450",
+  "type": "tweet",
+  "conversation_id_str": "2039824352812892450",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/XgEg05olnr",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 17468569,
+    "id_str": "17468569",
+    "name": "Bryan Johnson",
+    "screen_name": "bryan_johnson",
+    "location": "LA",
+    "url": "https://bryanjohnson.komi.io/",
+    "description": "Conquering death will be humanity’s greatest achievement.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 999378,
+    "friends_count": 706,
+    "listed_count": 4060,
+    "favourites_count": 5917,
+    "statuses_count": 15202,
+    "created_at": "2008-11-18T19:15:16.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17468569/1704825657",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1888004001872101378/jVNJQ-iu_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 26,
+  "reply_count": 196,
+  "retweet_count": 93,
+  "favorite_count": 2149,
+  "views_count": 898295,
+  "bookmark_count": 2465,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039804608609136640",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/XgEg05olnr"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T21:56:38.000000Z",
+    "id": 2039824352812892400,
+    "id_str": "2039824352812892450",
+    "title": "Sauna people, you want to know about this ",
+    "preview_text": "I baked in a 195°F (90°C) dry sauna for 38 minutes.\n\nIt was painful.\n\nIt was also the minimum necessary to saunamaxx. \n\nMany think that sweating is the goal.  The goal is to get your core body",
+    "cover_url": "https://pbs.twimg.com/media/HE7XxkWa0AAtbPl.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b9rqs",
+          "text": "I baked in a 195°F (90°C) dry sauna for 38 minutes.\n\nIt was painful.\n\nIt was also the minimum necessary to saunamaxx. \n\nMany think that sweating is the goal.  The goal is to get your core body temperature to 102.2°F (39°C). Below that threshold you're getting maybe half the health benefits sauna offers.\n\nThe thing that most surprised me from this experiment is experiencing what 102.2 °F (39° C) actually feels like. The level of discomfort. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 769,
+              "style": "Bold"
+            }
+          ],
+          "key": "e1m4k",
+          "text": "The big sauna benefits happen when your core body temp reaches 102.2 °F (39° C). At this temp, the body releases heat shock proteins (HSPs). They act inside your cells as molecular chaperones, catching misfolded proteins and refolding them before they clump together. Protecting metabolism, brain function, and cellular longevity.\n\nI wanted to verify that my sauna protocol was getting my core body temp to 102.2 °F (39° C), and even up to 103°F (39.4° C). To do that, I had two options, a rectal probe or swallow a jelly bean sized pill. I opted for the pill. The pill then goes through my digestive track, reading out my core body temperature every 30 seconds until it exits on the other side. \n\n Up until now, I was relying upon an ear probe which has a ~1°F (0.5°C) error margin.\n\nWhat shown in the image below: \n1. My core body temperature hit a peak of 102.65°F (39.25°C), the heat shock protein activation threshold. \n2. The dry sauna temp was 195°F (90.5°C). \n3. I was in the sauna for about 38 minutes. \n4. My subjective experience: I was dying. \n5. My waking baseline core body temp hit a trough of 96.08°F (35.6°C) before activity.\n6. Pre-sauna exercise elevated core temperature by 2.52°F (1.4°C), aided by natural circadian rhythm following wake-up.\n7. Sauna increased my core temperature by an additional 3.6°F (2°C)\n8. I sat at 195°F and my core temp didn’t budge for 16 minutes. \n9. After leaving the sauna, I cooled down 15.8% faster than I heated up. 10. Both the long lag and faster cooling indicate heat acclamation (I’ve done over 200 sauna sessions in the past year).\n",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5rrl3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5cpn1",
+          "text": "The reading form the temperature gauge inside the sauna, at my eye level. \n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5qn9j",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1cvt1",
+          "text": "CAVEAT\n\nDoes this mean you need to sit in a dry sauna at 195°F (90.5°C) for 38 minutes? Not necessarily.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8qoke",
+          "text": "In this session I was cooling my face and neck to test whether active cooling could prevent thermal skin damage. That cooling worked against my core temperature rise, extending the time needed to hit the HSP threshold. The 40 minutes reflects that tradeoff.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1uao5",
+          "text": "We will next experiment by removing the cooling to evaluate the time to hit the heat shock threshold of 102.65°F (39.25°C). \n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9474u",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "di8q1",
+          "text": "Here is some of what we know about sauna, core temperature, and heat shock protein activation.\n\nDry sauna is unique in engaging cardiovascular, skin, and molecular responses to thermal challenges.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehqrk",
+          "text": "While the cardiovascular, skin and detox (sweating) benefits are already obtainable at smaller core temperature increases, starting with 0.36-0.9°F (0.2-0.5°C) shifts, the molecular heat responses including Heat Shock Protein expression and activation require more pronounced core temperatures increases.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7di7a",
+          "text": "While this mechanism makes dry sauna safe and tolerable, it also means one must be highly intentional to achieve the deeper biological impacts associated with heat shock protein activation, including neuroprotection, long-term metabolic improvements and cellular longevity.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 151,
+              "style": "Bold"
+            }
+          ],
+          "key": "bqjaj",
+          "text": "Evidence suggests a minimum threshold of approximately 102.2°F (39°C) is required for robust HSP induction, though this varies by cell and tissue type.\n\nIn vitro studies on human white blood cells indicate that 101.3°F (38.5°C) is insufficient for HSP induction (104°F (40°C) was sufficient in the same study), whereas 102.2°F (39°C) significantly increases HSP70 (a key inducible protein) in monocytes.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "qifs",
+          "text": "Clinical observations in healthy young men showed that a core temperature rise above 101.3°F (38.5°C) (reaching over 101.48°F (38.6°C)) during an initial sauna session induced HSP72. However, heat acclimation by the 10th session limited the core temperature to 100.76°F (38.2°C), largely eroding the HSP response.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6d9f1",
+          "text": "Hot water immersion protocol targeting a rectal temperature of 103.1°F (39.5°C) for 60 minutes produced significant increases in both HSP27 and HSP70.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33d99",
+          "text": "Heated exercise protocols reaching 103.1°F (39.5°C) resulted in meaningful increases in HSP90, the initiator of the heat shock protein expression cascade\n",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "65u86",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8cmni",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "cee2b36c-2d9b-47b3-a1e0-677d8be1ff31",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039807870309707776"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "61df73b9-4530-4f63-b12d-bf8001ea2ff8",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039808260870713344"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "9ada0d39-12fd-4a45-9f9f-42acd983a394",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039809406116995072"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "251e4f3e-55ff-4caa-a333-5a396b47eb6a",
+              "mediaItems": [
+                {
+                  "localMediaId": "16",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039826151615696896"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE7ac1/bMAAKAAIAAAAAAQqMmQAA",
+        "media_id": "2039807870309707776",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 74.23,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 16.56,
+                "rgb": {
+                  "blue": 44,
+                  "green": 39,
+                  "red": 34
+                }
+              },
+              {
+                "percentage": 3.89,
+                "rgb": {
+                  "blue": 91,
+                  "green": 166,
+                  "red": 120
+                }
+              },
+              {
+                "percentage": 1.64,
+                "rgb": {
+                  "blue": 112,
+                  "green": 175,
+                  "red": 213
+                }
+              },
+              {
+                "percentage": 1.36,
+                "rgb": {
+                  "blue": 46,
+                  "green": 70,
+                  "red": 173
+                }
+              }
+            ]
+          },
+          "original_img_height": 628,
+          "original_img_url": "https://pbs.twimg.com/media/HE7ac1_bMAAqARF.jpg",
+          "original_img_width": 1188
+        },
+        "media_key": "3_2039807870309707776"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE7azk8bMAAKAAIAAAAAAQqMmQAA",
+        "media_id": "2039808260870713344",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 58.66,
+                "rgb": {
+                  "blue": 31,
+                  "green": 99,
+                  "red": 164
+                }
+              },
+              {
+                "percentage": 26.94,
+                "rgb": {
+                  "blue": 156,
+                  "green": 172,
+                  "red": 183
+                }
+              },
+              {
+                "percentage": 4.39,
+                "rgb": {
+                  "blue": 77,
+                  "green": 158,
+                  "red": 215
+                }
+              },
+              {
+                "percentage": 3.56,
+                "rgb": {
+                  "blue": 68,
+                  "green": 82,
+                  "red": 95
+                }
+              },
+              {
+                "percentage": 1.65,
+                "rgb": {
+                  "blue": 216,
+                  "green": 218,
+                  "red": 209
+                }
+              }
+            ]
+          },
+          "original_img_height": 2147,
+          "original_img_url": "https://pbs.twimg.com/media/HE7azk8bMAAaJhe.jpg",
+          "original_img_width": 2972
+        },
+        "media_key": "3_2039808260870713344"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE7b2PUaoAAKAAIAAAAAAQqMmQAA",
+        "media_id": "2039809406116995072",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 32.1,
+                "rgb": {
+                  "blue": 45,
+                  "green": 81,
+                  "red": 100
+                }
+              },
+              {
+                "percentage": 25.72,
+                "rgb": {
+                  "blue": 147,
+                  "green": 181,
+                  "red": 194
+                }
+              },
+              {
+                "percentage": 10.73,
+                "rgb": {
+                  "blue": 50,
+                  "green": 53,
+                  "red": 50
+                }
+              },
+              {
+                "percentage": 10.4,
+                "rgb": {
+                  "blue": 212,
+                  "green": 174,
+                  "red": 142
+                }
+              },
+              {
+                "percentage": 7.06,
+                "rgb": {
+                  "blue": 125,
+                  "green": 177,
+                  "red": 194
+                }
+              }
+            ]
+          },
+          "original_img_height": 2048,
+          "original_img_url": "https://pbs.twimg.com/media/HE7b2PUaoAAYvlf.jpg",
+          "original_img_width": 1536
+        },
+        "media_key": "3_2039809406116995072"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE7rE9KbEAAKAAIAAAAAAQqMmQAA",
+        "media_id": "2039826151615696896",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 97.23,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.94,
+                "rgb": {
+                  "blue": 37,
+                  "green": 37,
+                  "red": 37
+                }
+              },
+              {
+                "percentage": 0.7,
+                "rgb": {
+                  "blue": 165,
+                  "green": 210,
+                  "red": 170
+                }
+              },
+              {
+                "percentage": 0.49,
+                "rgb": {
+                  "blue": 156,
+                  "green": 197,
+                  "red": 236
+                }
+              }
+            ]
+          },
+          "original_img_height": 594,
+          "original_img_url": "https://pbs.twimg.com/media/HE7rE9KbEAAwQ99.png",
+          "original_img_width": 588
+        },
+        "media_key": "3_2039826151615696896"
+      }
+    ]
+  }
+}

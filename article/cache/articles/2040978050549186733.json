@@ -1,0 +1,239 @@
+{
+  "tweet_created_at": "2026-04-06T02:21:01.000000Z",
+  "id": 2040978050549186800,
+  "id_str": "2040978050549186733",
+  "type": "tweet",
+  "conversation_id_str": "2040978050549186733",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/x3WQad4VMv",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 91959566,
+    "id_str": "91959566",
+    "name": "まくるめ",
+    "screen_name": "MAMAAAAU",
+    "location": "だいたい東京",
+    "url": "https://www.amazon.jp/hz/wishlist/ls/1U9QTBN6L3X3?ref_=wl_share",
+    "description": "怪文書家、小説の者。植物が好き。創作ジャンルは怪談・ＳＦ・ファンタジーです。初の拙著「その怪異はまだ読まれていません」がKADOKAWA様より出版となります／ノベルアップ+の第一回小説賞入賞者",
+    "protected": false,
+    "verified": true,
+    "followers_count": 48584,
+    "friends_count": 4046,
+    "listed_count": 823,
+    "favourites_count": 9342,
+    "statuses_count": 113606,
+    "created_at": "2009-11-23T07:38:03.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/91959566/1459145662",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181185661119811584/OsgEJl_m_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 53,
+  "reply_count": 29,
+  "retweet_count": 756,
+  "favorite_count": 2737,
+  "views_count": 224801,
+  "bookmark_count": 592,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040770099968344065",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/x3WQad4VMv"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T02:21:01.000000Z",
+    "id": 2040978050549186800,
+    "id_str": "2040978050549186733",
+    "title": "寿司職人が核兵器を握ったらダメですか？",
+    "preview_text": "寿司による戦闘について話をさせていただこうと思います。\n長らく寿司職人は接近戦を行うファイターとして扱われていました。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ljhs",
+          "text": "寿司による戦闘について話をさせていただこうと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6dl0g",
+          "text": "長らく寿司職人は接近戦を行うファイターとして扱われていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7phk0",
+          "text": "寿司をギューっと握ると最終的に米やマグロを構成する炭素が結晶構造を変化させ、ダイヤモンドになることは料理界では常識といっていいと思います。このダイヤモンドを握り込んだ拳により拳闘のスタイルで戦うのがもっとも伝統的な寿司職人の姿とされてきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9sl0c",
+          "text": "実際、その攻撃力は凄まじく、小僧（まだ寿司界では職人と認められないノービス）でさえ、５０口径ライフル程度の威力を持ったジャブを繰り出すことができます。より上位の職人であれば一般的な戦車は一撃で破壊することができます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6s62k",
+          "text": "破壊力という点で言えば、料理界で寿司職人は随一と言っていいでしょう。しかし、常人の戦いならともかく、料理人同士の戦いとなると、そのリーチの短さはかなりのペナルティと言わざるを得ません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eg848",
+          "text": "たとえば、比較的近接攻撃中心の戦闘スタイルを得意とするラーメン屋などのヌードラーでも、拳銃程度のリーチはあるのが一般的です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "591rl",
+          "text": "ましてやトラップ設置戦法を得意とするパティシエなどの菓子職人、飽和攻撃を浴びせかける中華料理人、コースが進むほどに戦闘能力が増すフレンチなどを相手にした場合、寿司による近接打撃はかなりの不利を背負う「苦手な敵が多い」戦闘スタイルの料理となってしまうと考えられていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5icin",
+          "text": "もちろんダイヤモンド化した寿司を豪速球で投擲するなどの「飛び道具」もありますが、一般的に戦闘料理人はなんらかの飛び道具への対策はしています。つまり弱点を克服できるには至りません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dt5o",
+          "text": "しかしこの「古典寿司戦法」の世界に、革命児が登場します。区別のためにそれを「新寿司」と呼びましょう。彼は寿司によってより実戦的な遠隔攻撃を可能にしました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qbkm",
+          "text": "そのために彼は何をしたでしょうか？　",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9hh49",
+          "text": "簡単です。寿司をダイヤモンド化するよりさらにギューっと握ったのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6s0n5",
+          "text": "寿司を極限まで圧縮した場合どうなるでしょうか？　答えは、寿司を構成する陽子が電子捕獲を起こし、中性子に変化するということです。その方が熱力学的に安定だからです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8gu9h",
+          "text": "これは恒星がその寿命の最期に起こす現象と同じです。その結果中性子星が生まれます。寿司の場合、この「中性子寿司」はそれ自体が核兵器に等しいものとなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "708bc",
+          "text": "寿司職人が握力を解放すると、過剰な中性子を抱えた寿司は即座に不安定な状態となり、爆発を起こすからです。その際、寿司職人の手からは放射性崩壊に伴う膨大なエネルギーが放たれ、目の前の敵を無差別に破壊し尽くします。これが「寿司爆弾」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8f6ji",
+          "text": "このヌーベルキュイジーヌの発明により、寿司職人に対する料理界の警戒レベルは一気に増大しました。中性子寿司を握れる職人はいまだごく僅かですが、それでも料理界のパワーバランスを変えるには充分です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2socg",
+          "text": "料理人たちの中でも核兵器を完全に防御できる者は「三つ星」たちを除けば多くはありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "994n3",
+          "text": "さらに、この「中性子寿司」は恐ろしいことにさらなる理論的発展性を備えています。そう。小型ブラックホールです。小型ブラックホール寿司は、いまだ理論上の寿司でしかありませんが、原理的には可能と考えられています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fmlmj",
+          "text": "これから料理界は寿司職人の手元からいっそう目が離せなくなったと言えるでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "emvb5",
+          "text": "この中性子寿司を握った寿司職人に「三つ星」が与えられたのは言うまでもありません。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "tweet_created_at": "2026-04-07T02:17:43.000000Z",
+  "id": 2041339607447745000,
+  "id_str": "2041339607447745010",
+  "type": "tweet",
+  "conversation_id_str": "2041339607447745010",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/EzHOlwuuCw",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 91959566,
+    "id_str": "91959566",
+    "name": "まくるめ",
+    "screen_name": "MAMAAAAU",
+    "location": "だいたい東京",
+    "url": "https://www.amazon.jp/hz/wishlist/ls/1U9QTBN6L3X3?ref_=wl_share",
+    "description": "怪文書家、小説の者。植物が好き。創作ジャンルは怪談・ＳＦ・ファンタジーです。初の拙著「その怪異はまだ読まれていません」がKADOKAWA様より出版となります／ノベルアップ+の第一回小説賞入賞者",
+    "protected": false,
+    "verified": true,
+    "followers_count": 48582,
+    "friends_count": 4046,
+    "listed_count": 823,
+    "favourites_count": 9342,
+    "statuses_count": 113606,
+    "created_at": "2009-11-23T07:38:03.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/91959566/1459145662",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181185661119811584/OsgEJl_m_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 106,
+  "reply_count": 29,
+  "retweet_count": 1053,
+  "favorite_count": 5644,
+  "views_count": 711859,
+  "bookmark_count": 1684,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041015516819795968",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/EzHOlwuuCw"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T02:17:43.000000Z",
+    "id": 2041339607447745000,
+    "id_str": "2041339607447745010",
+    "title": "満員電車にて我が陰茎が謀反せり",
+    "preview_text": "新社会人たる我、出社時の満員電車に突入せり。\n戦況、劣勢なり。わが目前に布陣したる中年、豊満なる巨体をもって我を押し込むなり。抵抗するも力及ばず、これに屈するほかなし。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fv88e",
+          "text": "新社会人たる我、出社時の満員電車に突入せり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b58ol",
+          "text": "戦況、劣勢なり。わが目前に布陣したる中年、豊満なる巨体をもって我を押し込むなり。抵抗するも力及ばず、これに屈するほかなし。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12kgu",
+          "text": "わが布陣、電車内の中央近くにあり。座席遠く、座る事望むべくもなし。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72uq2",
+          "text": "会社より預かりしノートパソコン、背負い袋の中にあり。我これを守護せんと、抱きかかえるなり。一所、懸命の所存なり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98hoc",
+          "text": "駅員衆、無慈悲なる勢いをもって、我らを押し込むなり。人が人を扱う所作にあらず。わが旧里にあっては、牛馬にすらこれに比せば甚だ優しく当たって候。吾妻人、まこと心の色なし。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ul04",
+          "text": "眼前の中年、毬のごとき腹にて、我をただ押し込まんばかりなり。その鼻息、荒きというほかなく、牛丼の臭気を撒き散らして傲然と立つばかり。この時間、まこと苦痛というほかあらず。我が禄に見合わぬなり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dv22",
+          "text": "突如、我尿意を感じたり。強き尿意なり。まこと強きものなり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4s7r1",
+          "text": "しかし我が膀胱、軟弱にあらず。持ちこたえんとす。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjjud",
+          "text": "されど、わが陰茎、これを不服としてか、謀反の兆しあり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4rea0",
+          "text": "わが陰茎、右翼に布陣せり。陰茎、わずかに増長の気配あり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mped",
+          "text": "断じて、われ欲情したにあらず。劣情を抱くに及ばぬ環境なり。されど、膀胱からの圧にて、前立腺に刺激あり。強き尿意、時にえれくちおんを伴うなり、これ男性の生理なり。女子にはわからぬことなり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3hqo7",
+          "text": "右翼に布陣せし陰茎、にわかに不快感を放ちたり。右すぎるなり。落ち着かぬなり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5mjpl",
+          "text": "正に。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8j22r",
+          "text": "「チンポジの乱」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0b1m",
+          "text": "我、陰茎の位置を中道に直しせしめんと画策す。なれど、これ甚だ危険にて、断念す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lhll",
+          "text": "二時の方向に、若き女性会社員おり。同僚なり。この状況で陰茎の位置を直さば、あらぬ誤解を招きかねぬ余地あり。たかが陰茎の不快感にて、危なき瀬を渡るのは蛮勇なり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2n4k",
+          "text": "ただ上野駅で乗り換えるまで辛抱するだけのことなり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4hif9",
+          "text": "臥薪嘗胆の一念に徹して候。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkoqk",
+          "text": "まこと、日本社会は窮屈なり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqk6l",
+          "text": "学生時代の懐かしき事この上なし。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fp48q",
+          "text": "己が陰茎ひとつ自由にならぬ身の上なり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d79ea",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9am6c",
+          "text": "川原石いづれ海へと至るなり　我がまら未だ円くならざり",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

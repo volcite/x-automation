@@ -1,0 +1,1228 @@
+{
+  "tweet_created_at": "2026-04-06T01:57:05.000000Z",
+  "id": 2040972026425319400,
+  "id_str": "2040972026425319439",
+  "type": "tweet",
+  "conversation_id_str": "2040972026425319439",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/WrUxVVl9nH",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1856762071578284000,
+    "id_str": "1856762071578284032",
+    "name": "Artem Zhutov",
+    "screen_name": "ArtemXTech",
+    "location": "🇨🇦 Canada",
+    "url": "https://www.youtube.com/@artemxtech",
+    "description": "Physics PhD. Been recording videos about Claude Code + Obsidian since it went mainstream last May. \n\nJust exploring what works and sharing it.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 2837,
+    "friends_count": 110,
+    "listed_count": 41,
+    "favourites_count": 66,
+    "statuses_count": 138,
+    "created_at": "2024-11-13T18:12:44.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856762071578284032/1772465479",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1919125345115975680/qIxUarRm_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 11,
+  "reply_count": 21,
+  "retweet_count": 164,
+  "favorite_count": 1562,
+  "views_count": 153570,
+  "bookmark_count": 4434,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040970605558673408",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/WrUxVVl9nH"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T01:57:05.000000Z",
+    "id": 2040972026425319400,
+    "id_str": "2040972026425319439",
+    "title": "I Gave Claude Code 300 Huberman Episodes. It Replaced My Coach.",
+    "preview_text": "90% of people listen to experts and never change a single behavior. They always stay in learn mode.\nYou open a bunch of tabs. You find videos, articles, podcasts. The context is scattered. At some",
+    "cover_url": "https://pbs.twimg.com/media/HFL8bd1bsAAljXg.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31cb8",
+          "text": "90% of people listen to experts and never change a single behavior. They always stay in learn mode.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9692",
+          "text": "You open a bunch of tabs. You find videos, articles, podcasts. The context is scattered. At some point you just kill those tabs. And you kill your intention to act on any of it.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 64,
+                "text": "NotebookLM",
+                "toIndex": 75
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80a66",
+          "text": "I built a system that closes the loop. Feed expert content into @NotebookLM. Connect Claude Code to it. Set a goal. Get a protocol with experiments based on your answers. Wake up earlier, go to the gym, track if it actually works. The best way to learn is by doing something. An experiment is a specific change you try for a few weeks and track if it works.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8dec4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 16,
+              "offset": 11
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "665d4",
+          "text": "Here's the full walkthrough where I set this up from scratch.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dd61",
+          "text": "Turn 300 episodes into a knowledge base",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "212a9",
+          "text": "My goal: improve my focus, have more energy, go to the gym, be fit. The research part is handled by NotebookLM. You load sources and start asking questions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ba6e9",
+          "text": "The challenge is getting those sources in. You can't just go into NotebookLM and tell it to add a YouTube channel. Imagine yourself going to each YouTube video, getting a link, uploading it manually. Such a big pain.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7a0bb",
+          "text": "Claude Code does it. I connected it to my notebook. I created a skill, which you can also download from the description. It listed all 53 of my notebooks. I created a new notebook about Andrew Huberman, filtered by health topics. 400 videos on the channel. Claude helped me pick which ones are health related. Then it uploaded them.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4ca8",
+          "text": "You have all of the access to this knowledge and you don't have to watch the podcast. You can save so much time if you want to learn about a new topic.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b71a1",
+          "text": "This is where everything stops",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "0beda",
+          "text": "You can ask questions in NotebookLM. Where do I start with health? You get a quality answer with citations. You can click through and trace the exact citation back to the video.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42543",
+          "text": "This is already cool. 300 episodes of the world's top neuroscientist, and you can ask any question with cited answers back to the exact episode. But this is where everything stops at the learning stage. You can ask questions, but they are missing the steps where we actually plan to do those experiments. You want to wake up earlier, go to the gym, act on what you learned. You need to schedule this into a calendar. You need to review what is the effect on your health. Are you achieving your goals?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5b998",
+          "text": "These parts are completely missing. You can ask questions, but then so what? How do you act on that? You can't set a reminder from NotebookLM. You can't design an experiment. You can't track whether you followed through.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7b45d",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c7913",
+          "text": "Claude Code bridges the gap",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ccfe2",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70268",
+          "text": "This is where Claude Code comes in. I think of Claude Code as something that can help me actually act on this knowledge. It helps me manage my calendar, schedule my focus blocks, track whether I'm achieving my goals or not.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 74,
+                "text": "hubermanlab",
+                "toIndex": 86
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ef96",
+          "text": "Claude Code queries the notebook with my goal. It gets cited answers from @hubermanlab's research. Based on those, it designs interview questions across several areas: supplements, exercise, sleep optimization. Each question traces back to the source.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f9acb",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 169,
+                "text": "obsdmd",
+                "toIndex": 176
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6a58",
+          "text": "I told it: my goal is to improve my health, I want you to ask questions based on Andrew Huberman's episodes. It ran six queries in parallel, saved the responses into my @obsdmd vault. 7 out of 8 citations were very strong matches. The citations are accurate and grounded.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2a96b",
+          "text": "Then I answered the interview questions. Claude looked up my existing fitness experiments, grabbed my data. It built a health profile: current state, target state, gap assessment. Where is high, medium, or low.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "75bbf",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ea80",
+          "text": "The proposed top 3 highest leverage experiments: sleep regularity (the biggest gap), morning sunlight, and adding zone 2 cardio.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e3620",
+          "text": "From protocol to action",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ef60a",
+          "text": "The experiments land in my Obsidian vault as notes. Each one has a status and a frequency. My morning routine skill reads the Experiments base through Obsidian CLI, filters by status active, and surfaces them in my daily note.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3c320",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "92fcb",
+          "text": "The only way I don't forget about this is because Claude asks me about each one: how is this experiment going? Any observations here? Based on the observations, it schedules the next actions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e242f",
+          "text": "And it works. After a gym day, energy is consistently higher. The mood is also higher. The sleep quality is higher.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56bb1",
+          "text": "Rest day: energy 6.1, mood 6.4, sleep 5.8",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "87092",
+          "text": "Gym day: energy 6.8, mood 7.1, sleep 6.5",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d1417",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 16,
+              "offset": 169
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9b927",
+          "text": "The dashboard becomes a place where you see and control an area of your life. Goals, experiments, action items, research. Everything at a glance. I wrote about how this health dashboard works in a previous post.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "80573",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63de5",
+          "text": "Any expert, any domain",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fec8a",
+          "text": "My vision for NotebookLM: external knowledge across experts, across domains. If you're into product management, there is Lenny's Podcast. I loaded 200 episodes. You can chat with them in the same way.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ec119",
+          "text": "If you want to learn about something else, you can together with Claude search for YouTube channels. It filters the videos which are relevant to your goal. NotebookLM serves as a source of verifiable truth. Claude Code can read any notebook and help you close the loop.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5d11e",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58335",
+          "text": "We move on from learning to actually acting and reviewing our results. The highest leverage right now is absorb any expert knowledge and act on it the same day.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f267a",
+          "text": "That's the best way to learn, by doing something.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 16,
+              "offset": 27
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b05ce",
+          "text": "Full walkthrough (18 min): Watch on YouTube",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 18,
+                "text": "notebooklm-skill-artemzhutov.netlify.app",
+                "toIndex": 58
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 40,
+              "offset": 18
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "29a70",
+          "text": "NotebookLM skill: notebooklm-skill-artemzhutov.netlify.app",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "entityKey": "03008f16-9dc4-4221-9871-15a8d9e7b500",
+              "url": "https://notebooklm-skill-artemzhutov.netlify.app/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "d99a8960-8d35-412d-a4a0-1f10211ce952",
+              "url": "https://substack.com/home/post/p-193134587"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "caption": "Your goal + 300 episodes go into Claude Code. It generates interview questions cited to specific episodes. You answer. You get a personal protocol.",
+              "entityKey": "c564b90b-e889-4e76-89e9-b93725298f05",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040970439543885824"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "entityKey": "13f80fe5-ae76-4e1b-9e28-f6dd420483ac",
+              "url": "https://youtube.com/watch?v=KRpZSvtMiTI"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "caption": "Protocol becomes calendar events, experiments in your morning routine, and a health dashboard to track it all.",
+              "entityKey": "99489340-1069-4748-ae14-6e8ad3314e0c",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040970358472441856"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "caption": "Health profile: current state, Huberman target, gap assessment.",
+              "entityKey": "d7076dc6-19cf-49ce-b373-9236fab884fd",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040970547312447490"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "caption": "NotebookLM stores the domain knowledge of an expert. Claude Code reads it and helps you design experiments, track them in your morning routine, schedule them in your calendar, and keep track of how you feel.",
+              "entityKey": "8194fdd2-257e-40ce-a5d3-13106669ea38",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040970580439007232"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "caption": "Claude reads the Experiments base via Obsidian CLI, filters by active status. Five experiments show up every morning.",
+              "entityKey": "f9f3df8e-85da-40dd-8611-e3984f999d01",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040970492845395968"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "03a3159a-a1e4-4ff4-bde9-80d976711cc5",
+              "url": "https://youtube.com/watch?v=KRpZSvtMiTI"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "Goal to research to experiments to morning routine. The loop that turns expert knowledge into daily action.",
+              "entityKey": "85e08f33-ebd8-4b06-9efc-03d72f3e159c",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040970467071107073"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "You learn something. You never act on it.",
+              "entityKey": "ca0d9e47-f1cf-4508-8d32-a1a49abc165f",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040970412214079488"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "caption": "Rest day: energy 6.1, mood 6.4, sleep 5.8. Gym day: 6.8, 7.1, 6.5.",
+              "entityKey": "0c01ba92-de98-4db8-a4b6-58076f85f9ad",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040970521656070144"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "caption": "NotebookLM holds the research. Claude Code schedules focus blocks, creates experiments, reviews results. One context.",
+              "entityKey": "c64b0eb1-5e2e-45d7-bf1b-b2947895da20",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040970386217766912"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL7zR4WEAAKAAIZxItEPNeQAAAA",
+        "media_id": "2040970439543885824",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 79.39,
+                "rgb": {
+                  "blue": 19,
+                  "green": 19,
+                  "red": 19
+                }
+              },
+              {
+                "percentage": 6.91,
+                "rgb": {
+                  "blue": 109,
+                  "green": 78,
+                  "red": 83
+                }
+              },
+              {
+                "percentage": 3.95,
+                "rgb": {
+                  "blue": 134,
+                  "green": 104,
+                  "red": 73
+                }
+              },
+              {
+                "percentage": 2.81,
+                "rgb": {
+                  "blue": 66,
+                  "green": 92,
+                  "red": 61
+                }
+              },
+              {
+                "percentage": 2.76,
+                "rgb": {
+                  "blue": 52,
+                  "green": 107,
+                  "red": 132
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFL7zR4WEAAyEFJ.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2040970439543885824"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL704bWIAEKAAIZxItEPNeQAAAA",
+        "media_id": "2040970467071107073",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 82.14,
+                "rgb": {
+                  "blue": 19,
+                  "green": 19,
+                  "red": 19
+                }
+              },
+              {
+                "percentage": 8.15,
+                "rgb": {
+                  "blue": 112,
+                  "green": 77,
+                  "red": 49
+                }
+              },
+              {
+                "percentage": 3.12,
+                "rgb": {
+                  "blue": 55,
+                  "green": 86,
+                  "red": 46
+                }
+              },
+              {
+                "percentage": 3.11,
+                "rgb": {
+                  "blue": 38,
+                  "green": 89,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 2.31,
+                "rgb": {
+                  "blue": 111,
+                  "green": 112,
+                  "red": 111
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFL704bWIAEmOCi.jpg",
+          "original_img_width": 1408
+        },
+        "media_key": "3_2040970467071107073"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL7xsEaUAAKAAIZxItEPNeQAAAA",
+        "media_id": "2040970412214079488",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 63.08,
+                "rgb": {
+                  "blue": 19,
+                  "green": 19,
+                  "red": 19
+                }
+              },
+              {
+                "percentage": 16.64,
+                "rgb": {
+                  "blue": 50,
+                  "green": 84,
+                  "red": 43
+                }
+              },
+              {
+                "percentage": 10.79,
+                "rgb": {
+                  "blue": 104,
+                  "green": 70,
+                  "red": 45
+                }
+              },
+              {
+                "percentage": 5.63,
+                "rgb": {
+                  "blue": 143,
+                  "green": 121,
+                  "red": 104
+                }
+              },
+              {
+                "percentage": 2.37,
+                "rgb": {
+                  "blue": 113,
+                  "green": 123,
+                  "red": 254
+                }
+              }
+            ]
+          },
+          "original_img_height": 784,
+          "original_img_url": "https://pbs.twimg.com/media/HFL7xsEaUAA87m1.jpg",
+          "original_img_width": 1372
+        },
+        "media_key": "3_2040970412214079488"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL77ewXAAAKAAIZxItEPNeQAAAA",
+        "media_id": "2040970580439007232",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 64.38,
+                "rgb": {
+                  "blue": 19,
+                  "green": 19,
+                  "red": 19
+                }
+              },
+              {
+                "percentage": 15.14,
+                "rgb": {
+                  "blue": 93,
+                  "green": 41,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 6.41,
+                "rgb": {
+                  "blue": 46,
+                  "green": 74,
+                  "red": 67
+                }
+              },
+              {
+                "percentage": 4.81,
+                "rgb": {
+                  "blue": 27,
+                  "green": 27,
+                  "red": 82
+                }
+              },
+              {
+                "percentage": 2.19,
+                "rgb": {
+                  "blue": 23,
+                  "green": 88,
+                  "red": 118
+                }
+              }
+            ]
+          },
+          "original_img_height": 1224,
+          "original_img_url": "https://pbs.twimg.com/media/HFL77ewXAAAmlOY.jpg",
+          "original_img_width": 2126
+        },
+        "media_key": "3_2040970580439007232"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL7uj3aAAAKAAIZxItEPNeQAAAA",
+        "media_id": "2040970358472441856",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 54.31,
+                "rgb": {
+                  "blue": 19,
+                  "green": 19,
+                  "red": 19
+                }
+              },
+              {
+                "percentage": 19.48,
+                "rgb": {
+                  "blue": 49,
+                  "green": 77,
+                  "red": 43
+                }
+              },
+              {
+                "percentage": 12.04,
+                "rgb": {
+                  "blue": 101,
+                  "green": 53,
+                  "red": 59
+                }
+              },
+              {
+                "percentage": 5.85,
+                "rgb": {
+                  "blue": 25,
+                  "green": 76,
+                  "red": 96
+                }
+              },
+              {
+                "percentage": 1.83,
+                "rgb": {
+                  "blue": 36,
+                  "green": 44,
+                  "red": 35
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFL7uj3aAAAv_m2.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2040970358472441856"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL74DxakAAKAAIZxItEPNeQAAAA",
+        "media_id": "2040970521656070144",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 91.66,
+                "rgb": {
+                  "blue": 32,
+                  "green": 32,
+                  "red": 32
+                }
+              },
+              {
+                "percentage": 3.34,
+                "rgb": {
+                  "blue": 112,
+                  "green": 112,
+                  "red": 112
+                }
+              },
+              {
+                "percentage": 1.97,
+                "rgb": {
+                  "blue": 71,
+                  "green": 90,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 0.87,
+                "rgb": {
+                  "blue": 26,
+                  "green": 29,
+                  "red": 70
+                }
+              },
+              {
+                "percentage": 0.65,
+                "rgb": {
+                  "blue": 70,
+                  "green": 48,
+                  "red": 53
+                }
+              }
+            ]
+          },
+          "original_img_height": 1370,
+          "original_img_url": "https://pbs.twimg.com/media/HFL74DxakAAVGTj.jpg",
+          "original_img_width": 1486
+        },
+        "media_key": "3_2040970521656070144"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL75jWX0AIKAAIZxItEPNeQAAAA",
+        "media_id": "2040970547312447490",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 87.35,
+                "rgb": {
+                  "blue": 62,
+                  "green": 52,
+                  "red": 47
+                }
+              },
+              {
+                "percentage": 11.22,
+                "rgb": {
+                  "blue": 115,
+                  "green": 106,
+                  "red": 103
+                }
+              },
+              {
+                "percentage": 0.79,
+                "rgb": {
+                  "blue": 130,
+                  "green": 148,
+                  "red": 198
+                }
+              },
+              {
+                "percentage": 0.4,
+                "rgb": {
+                  "blue": 55,
+                  "green": 58,
+                  "red": 70
+                }
+              }
+            ]
+          },
+          "original_img_height": 1506,
+          "original_img_url": "https://pbs.twimg.com/media/HFL75jWX0AIozAt.jpg",
+          "original_img_width": 2702
+        },
+        "media_key": "3_2040970547312447490"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL72YcakAAKAAIZxItEPNeQAAAA",
+        "media_id": "2040970492845395968",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 79.84,
+                "rgb": {
+                  "blue": 39,
+                  "green": 37,
+                  "red": 31
+                }
+              },
+              {
+                "percentage": 13.93,
+                "rgb": {
+                  "blue": 145,
+                  "green": 142,
+                  "red": 143
+                }
+              },
+              {
+                "percentage": 2.33,
+                "rgb": {
+                  "blue": 133,
+                  "green": 83,
+                  "red": 95
+                }
+              },
+              {
+                "percentage": 0.98,
+                "rgb": {
+                  "blue": 157,
+                  "green": 183,
+                  "red": 238
+                }
+              },
+              {
+                "percentage": 0.83,
+                "rgb": {
+                  "blue": 45,
+                  "green": 56,
+                  "red": 75
+                }
+              }
+            ]
+          },
+          "original_img_height": 1070,
+          "original_img_url": "https://pbs.twimg.com/media/HFL72YcakAA9OQV.jpg",
+          "original_img_width": 1422
+        },
+        "media_key": "3_2040970492845395968"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFL7wLOaEAAKAAIZxItEPNeQAAAA",
+        "media_id": "2040970386217766912",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 66.55,
+                "rgb": {
+                  "blue": 19,
+                  "green": 19,
+                  "red": 19
+                }
+              },
+              {
+                "percentage": 17.95,
+                "rgb": {
+                  "blue": 100,
+                  "green": 56,
+                  "red": 57
+                }
+              },
+              {
+                "percentage": 4.46,
+                "rgb": {
+                  "blue": 48,
+                  "green": 82,
+                  "red": 43
+                }
+              },
+              {
+                "percentage": 4.24,
+                "rgb": {
+                  "blue": 48,
+                  "green": 103,
+                  "red": 128
+                }
+              },
+              {
+                "percentage": 4.08,
+                "rgb": {
+                  "blue": 131,
+                  "green": 129,
+                  "red": 128
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFL7wLOaEAAqXFw.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2040970386217766912"
+      }
+    ]
+  }
+}

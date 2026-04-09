@@ -1,0 +1,352 @@
+{
+  "tweet_created_at": "2026-04-04T06:32:58.000000Z",
+  "id": 2040316680086167600,
+  "id_str": "2040316680086167591",
+  "type": "tweet",
+  "conversation_id_str": "2040316680086167591",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/aDisu96NpE",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 210792476,
+    "id_str": "210792476",
+    "name": "Jan Dijkgraaf",
+    "screen_name": "jndkgrf",
+    "location": "Eesterga, Friesland",
+    "url": "https://www.buttkicken.nl/blog",
+    "description": "1 hypocrietenvreter - 2 i know - 3 i don't care - 4 niemandsknecht - 5 bemoei je met je eigen tijd - 6 dommemensenmoe - 7 oké doei - https://t.co/R4cjmNpct9",
+    "protected": false,
+    "verified": true,
+    "followers_count": 125889,
+    "friends_count": 4313,
+    "listed_count": 429,
+    "favourites_count": 97372,
+    "statuses_count": 57473,
+    "created_at": "2010-11-01T12:19:23.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/210792476/1693292284",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1469572271908003844/vQjJc3kn_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 15,
+  "reply_count": 51,
+  "retweet_count": 265,
+  "favorite_count": 1005,
+  "views_count": 49950,
+  "bookmark_count": 13,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040316347545006080",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/aDisu96NpE"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T06:32:58.000000Z",
+    "id": 2040316680086167600,
+    "id_str": "2040316680086167591",
+    "title": "Briefje van Jan - aan Nicolás Keenan",
+    "preview_text": "Beste Nicólas,\nJij hebt maar mazzel!\nHet is jouw verloofde.\nAls jij vindt dat Rob Jetten structureel zijn plichten verzaakt, altijd maar ergens is waar hij net niet nodig is en er in een poep en een",
+    "cover_url": "https://pbs.twimg.com/media/HFCpMxWbkAAmtaU.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aoro0",
+          "text": "Beste Nicólas,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6v43e",
+          "text": "Jij hebt maar mazzel!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "am6gq",
+          "text": "Het is jouw verloofde.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4alim",
+          "text": "Als jij vindt dat Rob Jetten structureel zijn plichten verzaakt, altijd maar ergens is waar hij net niet nodig is en er in een poep en een scheet een potje van maakt, kun je ‘m buiten de deur zetten.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12eb0",
+          "text": "De pleister er in één keer aftrekken.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6sgkl",
+          "text": "Of, zoals Harry Mens, dat altijd zegt: “De drol in één keer doorslikken.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "dm5i8",
+          "text": "Byebye prime minister, voor jou tien anderen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3duor",
+          "text": "En of dat dan een man of een vrouw is maakt voor jou niet uit, heb ik me laten vertellen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "i6bk",
+          "text": "Als het maar iemand met een hartslag is en geen robot.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5vv7m",
+          "text": "Dat zijn dan wél twee overeenkomsten met ons, arme Nederlandse burgers.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "39obi",
+          "text": "Wij willen na deze falende robot waarmee jij nog heel soms in het nest ligt ook alleen maar iemand met een hartslag als premier, die dan wel iets kan. Man of vrouw maakt ook ons niet uit.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ej6p",
+          "text": "Maar wij hebben niet jouw mazzel.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8j7fv",
+          "text": "Wij kunnen niet zomaar besluiten ‘m eruit te flikkeren.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cljh",
+          "text": "Wij moeten wachten tot de Tweede Kamer éindelijk tot het helder inzicht is gekomen dat dat jouw verloofde nog minder voor elkaar gaat krijgen dan Dick Schoof.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddn7k",
+          "text": "Of tot VVD-leider Dilan Yesilgöz, die ‘De puinhopen van vijf weken praalpremier’  handenwrijvend gadeslaat, in de peilingen een tijdje op één staat en ons verlost.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 43,
+              "offset": 19
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 19,
+              "style": "Bold"
+            }
+          ],
+          "key": "aht51",
+          "text": "En dit is nou eens iets dat wél de schuld is van Geert Wilders.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "4kdmh",
+          "text": "Saludos!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cgnhm",
+          "text": "JanD",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 76,
+              "offset": 15
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 76,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "135lo",
+          "text": "PS. Cadeautje. Voor als je weer eens tevergeefs op ‘m zit te wachten met de pannen op tafel.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 24,
+                "text": "https://tinyurl.com/briefjeaannicolas",
+                "toIndex": 61
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82mbn",
+          "text": "Delen? Hier is de link: https://tinyurl.com/briefjeaannicolas",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 13,
+              "offset": 111
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 110,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 56,
+              "offset": 111,
+              "style": "Italic"
+            },
+            {
+              "length": 13,
+              "offset": 111,
+              "style": "Bold"
+            }
+          ],
+          "key": "4aq5v",
+          "text": "Het ‘Briefje van Jan’ verschijnt iedere dag en is gratis te lezen. Wil je een kleine donatie doen, dan kan dat via deze link. Veel dank, mede namens mevrouw Dijkgraaf!",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://www.buttkicken.nl/2026/03/05/briefje-van-jan-aan-geert-wilders-30/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://tinyurl.com/ve2dwtjm"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://bunq.me/mevrouwDijkgraaf"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

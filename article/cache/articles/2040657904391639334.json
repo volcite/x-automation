@@ -1,0 +1,724 @@
+{
+  "tweet_created_at": "2026-04-05T05:08:52.000000Z",
+  "id": 2040657904391639300,
+  "id_str": "2040657904391639334",
+  "type": "tweet",
+  "conversation_id_str": "2040657904391639334",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/FceRNbKkqE",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18902274,
+    "id_str": "18902274",
+    "name": "土屋尚史 / Goodpatch",
+    "screen_name": "tsuchinao83",
+    "location": "Tokyo",
+    "url": "http://goodpatch.com",
+    "description": "Founder, CEO of Goodpatch Inc. デザイン会社として初の東証グロース上場企業 : 7351（波来い）, 全方位で採用強化中。丸井グループ CDXO, Muture取締役 @GoodpatchTokyo 過去ブログ\nhttps://t.co/g3MvNSXbaL",
+    "protected": false,
+    "verified": true,
+    "followers_count": 42798,
+    "friends_count": 1902,
+    "listed_count": 660,
+    "favourites_count": 61527,
+    "statuses_count": 64288,
+    "created_at": "2009-01-12T14:48:41.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18902274/1595261142",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/715665333218979842/fLLzpFee_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 180,
+  "reply_count": 8,
+  "retweet_count": 213,
+  "favorite_count": 1396,
+  "views_count": 473226,
+  "bookmark_count": 1192,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040645578053529600",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/FceRNbKkqE"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T05:08:52.000000Z",
+    "id": 2040657904391639300,
+    "id_str": "2040657904391639334",
+    "title": "AI時代という「死滅回遊」をどう生き残るか",
+    "preview_text": "先日、アニメ第3期の配信が終わった呪術廻戦を見返していて、ふと思ったことがあります。\nClaude",
+    "cover_url": "https://pbs.twimg.com/media/HFHezOObQAExyph.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9i3aj",
+          "text": "先日、アニメ第3期の配信が終わった呪術廻戦を見返していて、ふと思ったことがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8u11",
+          "text": "Claude Codeを使えば、コードが書けなくてもアプリが作れる。Codexに指示を出せば、素人でもそれなりのプロダクトが動く。この「誰でもモノが作れるようになった」状況——",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "emt0c",
+          "text": "これ、死滅回遊やないか、、と",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9uq3c",
+          "text": "冗談じゃなく、構造的にかなり一致しているので、今日はその話をします。見ている方でこの業界にいる人は気付いていた人もいるかもしれませんが、呪術廻戦を見ていて死滅回遊が訳わからなくて離脱した人も多いかなと思うので、伝わるように書いてみますね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6c2b5",
+          "text": "まず「死滅回遊」とは何だったのか",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ltt3",
+          "text": "呪術廻戦という漫画に、死滅回遊（デスゲーム）というエピソードがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 71,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "10u6",
+          "text": "ざっくり言うと、千年以上生きてるヤバいやつ（羂索）が、日本中の一般人の脳を強制的に作り変えて「術式」——固有の超能力——に覚醒させ、サバイバルゲームに放り込むという話です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 13,
+              "style": "Bold"
+            }
+          ],
+          "key": "8ttmu",
+          "text": "ポイントは「呪力」ではなく「術式」だということ。呪力自体は誰でも微量に持っています。でも術式は違う。特定の能力を発動できる、いわば「固有スキル」です。羂索は真人の「無為転変」という能力を使って非術師の脳の構造そのものを術師の形に整えることで、この術式を強制的に目覚めさせました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6qia",
+          "text": "昨日までコンビニでバイトしてた人が、ある朝起きたら固有の超能力が使えるようになっている。でもルールも戦い方もわからないまま、歴戦の術師たちと同じフィールドに立たされる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "katc",
+          "text": "かなり理不尽な話なんですが、2026年の今、これとほぼ同じことが起きていませんか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "677uh",
+          "text": "似ているポイント①：一般人への術式の強制付与",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bigrd",
+          "text": "死滅回遊の発端は、羂索が一般人の脳を書き換え、術式に覚醒させたことです。当人が望んだかどうかは関係ない。ある日突然、特定の能力が使える状態になる。しかもその術式が何なのか、どう発動するのか、本人には説明がない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dscef",
+          "text": "AIコーディングエージェントも同じ構造です。Claude CodeやCodexが登場したことで、プログラミングの経験がなくても「プロダクトを作る力」が突然手に入りました。この力はかつてエンジニアだけが持っていたものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "5phh9",
+          "text": "しかも羂索がやったのと同じで、与えられた側に選択権はありません。あなたが使わなくても、隣の人が使う。競合が使う。市場全体が「全員が術式を持っている」前提で動き始める。実質的な強制覚醒です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28rov",
+          "text": "似ているポイント②：覚醒しただけでは勝てない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 34,
+              "style": "Bold"
+            }
+          ],
+          "key": "1ajh1",
+          "text": "死滅回遊の本当に残酷なところは、「術式を与えたこと」じゃありません。覚醒しただけでは全然勝てないことです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7m9ut",
+          "text": "術式を得ても、その発動条件がわからない。射程距離もわからない。そもそも自分の術式が何なのかすらわからない。一方で、羂索と契約して千年前から蘇った歴戦の術師たちが同じゲームにいる。覚醒したての素人と、何百年もの戦闘経験を持つ術師では、同じ「術式持ち」でも天と地ほどの差があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2kog",
+          "text": "AI時代も完全にこれです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fajod",
+          "text": "Claude Codeで「動くもの」は確かに作れます。でも、ユーザー体験の設計、アーキテクチャの判断、そもそも何を作るべきかという問い——これらは、ツールが代わりにやってくれるわけじゃない。「動くプロトタイプ」と「人が使いたいプロダクト」の間には、死滅回遊の結界くらい分厚い壁があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "amuio",
+          "text": "つまり、術式に覚醒することと、術式で戦えることは、まったくの別問題です。ここが一番似ているポイントだと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8733",
+          "text": "似ているポイント③：ゲームマスターは個人の勝ち負けに興味がない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 51,
+              "style": "Bold"
+            }
+          ],
+          "key": "cqa0s",
+          "text": "羂索が死滅回遊を仕掛けた目的は、プレイヤーの勝ち負けを楽しむことじゃありませんでした。彼の真の目的は、天元と人類を同化させ、人類全体を「進化」させることでした。死滅回遊は、そのための壮大な慣らし運転です。泳者たちの殺し合いで呪力を練り上げ、結界を活性化し、同化の条件を整える。個々の参加者の生き死にはプロセスにすぎない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50r0u",
+          "text": "これ、AIプラットフォーマーの構図とそっくりじゃないですか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "87fgd",
+          "text": "AnthropicもOpenAIも、僕たちが個々に何を作るかなんて正直どうでもいいはずです。彼らが本当に見ているのは、人間がAIをどう使って、どう適応して、どこで躓くかという全体の挙動。僕たちがClaude Codeで四苦八苦している一つひとつが、AIの進化を加速させるためのデータポイントになっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 75,
+              "style": "Bold"
+            }
+          ],
+          "key": "46mkd",
+          "text": "「いや、ツールを提供してくれてるんだからいいじゃないか」と思うかもしれません。もちろんそうです。羂索だって、術式自体はちゃんと与えてくれました。ただ、配る側と使う側では、見えている景色がまるで違うということは、自覚しておいたほうがいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5q14k",
+          "text": "似ているポイント④：ルールが途中で変わる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77pjk",
+          "text": "死滅回遊では、プレイヤーが100点を消費してゲームのルールを追加できるという仕組みがありました。実際に日車は「泳者はプレイヤー間でポイントの受け渡しができる」というルールを追加し、ゲームの構造自体を変えています。ゲームの最中にゲームのルール自体が書き変わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8p74m",
+          "text": "AI時代はこれがもっと極端です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 64,
+              "style": "Bold"
+            }
+          ],
+          "key": "7q6fo",
+          "text": "新しいモデルが毎月出る。API仕様が変わる。昨日まで使えた手法が今日は使えない。先月のベストプラクティスが今月の時代遅れになる。羂索が毎週ルールを書き換えてくるような状態が、すでに日常になっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2900i",
+          "text": "じゃあ、何が違うのか",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 24,
+              "style": "Bold"
+            }
+          ],
+          "key": "1gc9m",
+          "text": "ここまで「似ている」話ばかりしてきましたが、実は違う部分にこそ希望があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "6reir",
+          "text": "最大の違いは、死滅回遊はゼロサムだけど、AI時代はそうじゃないということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 66,
+              "style": "Bold"
+            }
+          ],
+          "key": "eb10",
+          "text": "死滅回遊では、得点するには他のプレイヤーを倒すしかない。誰かの勝利は誰かの死を意味する。でもAI時代は、全員が術式を手にしたことで、市場自体が膨張しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 106,
+              "style": "Bold"
+            }
+          ],
+          "key": "cmbmr",
+          "text": "今まで「開発コストが見合わない」と放置されていた小さな課題。ニッチすぎて誰もプロダクトにしなかった不便。それらが突然、個人でも解けるようになった。戦場が増えているんです。だから「既存の強者に狩られる」のではなく、誰も手をつけていない戦場を見つけた者が勝つ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "frh7g",
+          "text": "これは大きな違いです。死滅回遊は「強さ」のゲームですが、AI時代は「目の付けどころ」のゲームです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ed5pa",
+          "text": "もう一つの違い：死ぬわけじゃない（たぶん）",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fl0nh",
+          "text": "死滅回遊では、19日以内に得点しないと術式を剥奪される——つまり死にます。当たり前ですが、Claude Codeでしょぼいアプリを作っても死にはしません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 18,
+              "style": "Bold"
+            },
+            {
+              "length": 7,
+              "offset": 81,
+              "style": "Bold"
+            }
+          ],
+          "key": "1cdv6",
+          "text": "これは冗談で言っているんじゃなくて、失敗コストが限りなくゼロに近いというのは、構造的にものすごく重要な違いです。死滅回遊の世界では慎重さが美徳ですが、AI時代では打席に立つ回数がすべてです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "97p76",
+          "text": "100個作って1個当たればいい。しかも作るコストはほぼゼロ。死滅回遊のプレイヤーが聞いたら泣いて羨ましがる環境です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1v3b8",
+          "text": "この「死滅回遊」を、どう生き残るか",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tqp8",
+          "text": "さて、ここからが本題です。全員に術式が渡されたこの世界で、どうすれば生き残れるのか。呪術廻戦の登場人物たちの振る舞いから、わりと真面目にヒントが引き出せます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bl5dm",
+          "text": "自分の術式を理解する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4l6dl",
+          "text": "死滅回遊で最初にやるべきことは、自分の術式の発動条件と性質を把握することでした。日車寛見は「裁判」という自分の術式の仕組みを素早く理解し、それを最大限に活かして100点を超える得点を叩き出しました。高羽史彦に至っては、自分の術式が「面白いと信じたことを現実にする」という破格のものだと途中まで気づいてすらいなかった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5mvfa",
+          "text": "AI時代でもまったく同じです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 20,
+              "style": "Bold"
+            }
+          ],
+          "key": "el0m9",
+          "text": "「AIで何でも作れる」は嘘です。正確には「AIで何でも\"動くもの\"は作れるが、価値があるものを作るには、自分だけの文脈が要る」。あなたの業界知識、日々感じている不満、特殊なドメイン経験——それが「術式」です。AIはそれを実装に変換する道具にすぎません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c2dc",
+          "text": "まず「自分の術式は何か」を知ること。これが最初の一歩です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3eukc",
+          "text": "戦う場所を選ぶ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 66,
+              "style": "Bold"
+            }
+          ],
+          "key": "5vosp",
+          "text": "先ほど書いた通り、これはゼロサムゲームじゃありません。GAFAがいるレッドオーシャンで正面からぶつかる必要はない。死滅回遊で言えば、強い泳者が密集している結界を避けて、手薄なコロニーで確実に得点する戦略のほうが賢い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qv7s",
+          "text": "あなたの業界、あなたの現場、あなたの半径5メートルにある課題。そこが、巨人たちが手を出さない「空いているコロニー」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fpvdm",
+          "text": "「適応体質」を鍛える",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 14,
+              "style": "Bold"
+            }
+          ],
+          "key": "9vt5u",
+          "text": "ルールが毎週変わる世界では、特定のツールに詳しいこと自体は価値になりません。今日のClaude Codeの使い方を極めても、3ヶ月後にはすべてが変わっている可能性がある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 41,
+              "style": "Bold"
+            }
+          ],
+          "key": "uc18",
+          "text": "死滅回遊で生き残ったキャラクターに共通していたのは、特定の術式が強いことじゃなく、状況が変わっても対応できる地力を持っていたことです。AI時代の「地力」とは、課題を発見する力、それを言語化する力、変化を面白がれるメンタリティ。ツールの習熟度じゃありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4p096",
+          "text": "実験の駒にならない",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fi5rl",
+          "text": "最後に、一番大事なこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 31,
+              "style": "Bold"
+            }
+          ],
+          "key": "54av4",
+          "text": "呪術廻戦で乙骨や日車が偉かったのは、死滅回遊に参加しながらも、羂索の実験の駒にはならなかったことです。ゲームの構造を理解した上で、自分の目的のためにゲームを利用した。日車はルール追加で仲間の脱出経路を作り、乙骨は得点を味方に譲渡して全体の戦略を組み立てた。羂索が想定した「殺し合いで呪力を練り上げる」という筋書きに、彼らは乗らなかった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 57,
+              "style": "Bold"
+            }
+          ],
+          "key": "8oveg",
+          "text": "AI時代も同じだと思います。プラットフォーマーが配ってくれた道具は使う。彼らが作ったエコシステムの中で動く。でも、「何を作り、何を目指すか」だけは、自分で決める。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9gmol",
+          "text": "全員に術式が渡された世界で、それでも「自分のゲーム」をプレイできるかどうか。それが、この時代の死滅回遊を生き残る唯一の方法だと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "doc73",
+          "text": "-----",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77kb",
+          "text": "呪術廻戦は完結しました。でもこっちの死滅回遊は、まだ総則すら出揃っていません。ゲームは続いています。自分の術式は何なのか。皆さんは気づいていますか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55n8q",
+          "text": "このAI時代の死滅回遊で、五条先生のように一度は言ってみたいですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8jl7e",
+          "text": "「大丈夫、僕、最強だから」",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,756 @@
+{
+  "tweet_created_at": "2026-04-07T14:29:25.000000Z",
+  "id": 2041523748042379300,
+  "id_str": "2041523748042379324",
+  "type": "tweet",
+  "conversation_id_str": "2041523748042379324",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/YyrkrAFjFr",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 124176500,
+    "id_str": "124176500",
+    "name": "Fuat Uğur🇹🇷",
+    "screen_name": "FUATUGUR",
+    "location": "İstanbul, Türkiye",
+    "url": null,
+    "description": "TGRT Haber/Journalist-Sıqefenu sıqek'uash.Kitap:Kutsal Tiber'e Yolculuk;Yalnız Ruhlara Elma Şekeri;KÖÇEK/Herkese Kendi Rengindedir Ölüm Instagram:@fuat_ugur1864",
+    "protected": false,
+    "verified": true,
+    "followers_count": 295683,
+    "friends_count": 5167,
+    "listed_count": 619,
+    "favourites_count": 55955,
+    "statuses_count": 137321,
+    "created_at": "2010-03-18T14:16:23.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/124176500/1682108288",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1658347636951339008/IxUMA-5p_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 27,
+  "reply_count": 43,
+  "retweet_count": 1468,
+  "favorite_count": 1499,
+  "views_count": 279591,
+  "bookmark_count": 14,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041519559446835200",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/YyrkrAFjFr"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T14:29:25.000000Z",
+    "id": 2041523748042379300,
+    "id_str": "2041523748042379324",
+    "title": "GÜLBEN ERGEN GERÇEĞİ VE DRAMA KRALİÇESİNİN FATMANUR İLE KIZININ İNTİHARINDAKİ ROLÜ",
+    "preview_text": "BİR MANİPÜLATÖRÜN OLAY BAZINDA PORTRESİ\nDün ifade vermek üzere savcılığa çağrıldı.\nBir anne ve kızın son derece kritik durumunu istismar ederek hassas bir konuda yanıltıcı bilgiyi yaydığı, toplumda",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8eck1",
+          "text": "BİR MANİPÜLATÖRÜN OLAY BAZINDA PORTRESİ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4k5lf",
+          "text": "Dün ifade vermek üzere savcılığa çağrıldı.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "441ou",
+          "text": "Bir anne ve kızın son derece kritik durumunu istismar ederek hassas bir konuda yanıltıcı bilgiyi yaydığı, toplumda devlet birimlerinin görevini yapmıyor algısını oluşturmaya çalışarak kamu düzenini bozduğu gerekçesiyle Aile ve Sosyal Hizmetler Bakanlığı tarafından hakkında suç duyurusunda bulunulmuştu çünkü.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 63,
+              "style": "Bold"
+            }
+          ],
+          "key": "f3jhq",
+          "text": "İfade verdikten sonra bir de açıklama yapmış, mağdure edasıyla “çok kırgınım” demiş.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4c4c4",
+          "text": "OLAYIN GELİŞİMİ VE ERGEN’İN ÇARPITTIĞI GERÇEKLER",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 94,
+              "style": "Bold"
+            },
+            {
+              "length": 35,
+              "offset": 178,
+              "style": "Bold"
+            },
+            {
+              "length": 34,
+              "offset": 280,
+              "style": "Bold"
+            }
+          ],
+          "key": "480v3",
+          "text": "Olay Ayhan Şengüler adlı kişinin kız çocuğunu (H.İ.Ş) taciz ederek istismar ettiği iddiasıyla ANNE Fatmanur Şengüler tarafından şikâyet ediliyor. Dava açılıyor. Olaya en başında Aile ve Sosyal Hizmetler Bakanlığı avukatları takibe alıyor. Ancak mahkeme takipsizlik kararı verince Bakanlık avukatları itiraz ediyor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5m94",
+          "text": "Dava Bakanlığın itirazı üzerine yeniden başlıyor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 6,
+              "style": "Bold"
+            },
+            {
+              "length": 7,
+              "offset": 44,
+              "style": "Bold"
+            }
+          ],
+          "key": "75u98",
+          "text": "Sonra Gülben Ergen bu olaydan kendisine bir “ekmek” çıkarabileceği düşüncesiyle hemen müdahil olmaya başlıyor ve 12 Şubat 2026 tarihinde bir tweet atıyor:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 2,
+              "offset": 273
+            },
+            {
+              "key": 1,
+              "length": 2,
+              "offset": 301
+            },
+            {
+              "key": 2,
+              "length": 2,
+              "offset": 333
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 403,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "4qali",
+          "text": "“7 yaşında bir çocuk, 3 yaşındayken yaşadığı istismar yüzünden, annesine yapılan şiddetlere şahit olduğu için bugün yataktan çıkamıyor! Çocuğu anneden alamazsınız. Anneyi dinledim. Yazamadıklarım var. Evinde güvende değil. Can güvenliği yok. Annenin feryadı adliye önünde: ☑️ Can güvenliği sağlansın. ☑️ Soyadı değişikliği yapılsın. ☑️Güvenli barınma ve çocuğa tedavi desteği verilsin. Lütfen ses olun!”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4eu3t",
+          "text": "Sonra bir tane daha, yine aynı gün:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 290,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "2c5es",
+          "text": "“3 yaşındaki kızını istismara maruz bıraktığına dair rapor hazırlanan Kuran’a Hizmet Vakfı’nın sorumlusu Ayhan Şengüler hakkında defalarca suç duyurusu yapılmasına rağmen neden yargılanmıyor? Anne neden adliye önünde adalet arayışında? Anne kızın can güvenliğinden biz sorumlu değil miyiz?”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "akgf5",
+          "text": "Şaka değil gerçek.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 140,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 26,
+              "offset": 260,
+              "style": "Bold"
+            },
+            {
+              "length": 12,
+              "offset": 304,
+              "style": "Bold"
+            }
+          ],
+          "key": "dlgfs",
+          "text": "Gülben Ergen yukarıdaki tweetinde Baba Ayhan Şengüler’in neden yargılanmadığını sorduğu sırada artık davanın bitmesine 1 duruşma kalmıştır. Olayın başından beri, yani 2022 yılından itibaren Bakanlık müdahil olup itiraz ettiği için dava devam etmektedir çünkü. Ergen’in cehaleti dışında bu durumda geriye tek seçenek kalıyor:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9b6m3",
+          "text": "Yalan söyleyerek manipülasyon yapmak.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 71,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 87,
+              "style": "Bold"
+            },
+            {
+              "length": 93,
+              "offset": 336,
+              "style": "Bold"
+            }
+          ],
+          "key": "dm365",
+          "text": "Bakanlık ve kurum yetkilileri bu arada Anne Fatmanur’a sürekli olarak “AYRI EV” ya da “AYRI SEMT” e taşınma konusunda önerilerde bulunuyorlar. Eşin şiddet uygulaması, tehditte bulunması riskine karşı tedbir ve uzaklaştırma kararı da alınmasına rağmen bu teklifler yapılıyor. Ancak Fatmanur her seferinde bu teklifi reddediyor ve kuruma “Ben eski eşimi yalnızca duruşmada görüyorum. Beni tehdit de etmiyor yanımıza da yanaşmıyor” diye kendi el yazısıyla beyanda bulunuyor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 26,
+              "style": "Bold"
+            },
+            {
+              "length": 16,
+              "offset": 68,
+              "style": "Bold"
+            }
+          ],
+          "key": "7kojq",
+          "text": "Bu arada hasta olduğu için Kurum çocuğu hastaneye yatırmak istiyor. Anne reddediyor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 11,
+              "style": "Bold"
+            },
+            {
+              "length": 98,
+              "offset": 164,
+              "style": "Bold"
+            },
+            {
+              "length": 62,
+              "offset": 269,
+              "style": "Italic"
+            }
+          ],
+          "key": "6blt4",
+          "text": "ÇÜNKÜ anne Fatmanur’un ciddi psikolojik rahatsızlıkları vardır. Bu yılın başına kadar hiçbir problemi olmayan çocuğu anne nedense şırıngayla beslemeye başlamıştır. Çocuğun hayati tehlike arz edecek boyutta beslenememesi yüzünden hastaneye yatırılması önemlidir. Anneye “Seni çocuğundan ayırmıyoruz, hastanede yanında kalabilirsin” deniyor ama yine reddediyor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 49,
+              "offset": 141,
+              "style": "Bold"
+            },
+            {
+              "length": 15,
+              "offset": 256,
+              "style": "Bold"
+            }
+          ],
+          "key": "d1boa",
+          "text": "Gülben Ergen, yukarıda anlattığımız yalanı ortaya çıktıktan sonra hiç utanmıyor ve bu kez kaldığı yerden devam ederek yeni bir atak yapıyor. Fatmanur’a ulaşıp, ona çeşitli çeşitli vaatlerde bulunarak “ikna” ediyor. Sonra da ilişkilerini kullanarak ikisini Koç hastanesine yatırıyor ve 14 Şubat 2026 tarihinde aşağıdaki tweeti fırlatıyor sorumsuzca:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 610,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 33,
+              "offset": 252,
+              "style": "Bold"
+            },
+            {
+              "length": 36,
+              "offset": 502,
+              "style": "Bold"
+            },
+            {
+              "length": 21,
+              "offset": 571,
+              "style": "Bold"
+            }
+          ],
+          "key": "4hujt",
+          "text": "“(…)Anne ve kızı hastaneye yerleşti. Aynı odada sessizce kalıyorlar. Önce Çocuklar ve Kadınlar Derneği'nden başka sadece doktorlar biliyor yerlerini. Çocuk uzun zamandır beslenemiyordu. Az önce serum bağlandı. Terapi süreci yarından itibaren başlıyor. Annesini kızından ayıramazsınız! Sağlıklı resimler çizen, bıcır bıcır videolarını izlediğim kıza tedavisi boyunca dokunamazsınız. Rehabilitasyon süreci 3/5 seansla hafife alınamaz. Yaşadıkları ev güvenli değil. Ev sahibinin mesajlarına kadar okudum. Anne kızı sahiplenen avukatlarımıza ve haberi sosyal medyada duyuran Cumhuriyet gazetesine teşekkür ederim.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2og3f",
+          "text": "Oysa söylediği her şey yalan.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9crnm",
+          "text": "Can güvenliği teklifini anne reddetmiş yazılı beyanıyla.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73osp",
+          "text": "Güvenli barınma ve destek sürekli verilmiş.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 26,
+              "offset": 107,
+              "style": "Bold"
+            },
+            {
+              "length": 23,
+              "offset": 154,
+              "style": "Bold"
+            }
+          ],
+          "key": "brl4q",
+          "text": "Devlet çocuğu annesinden ayırmıyor Gülben Ergen’in yalanındaki gibi. Devletin tıbbi müdahale zorunluluğunu “çocuğu anneden koparmak” şeklinde lanse etmek açık bir dezenformasyon ve Ergen de bunu biliyor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 57,
+              "offset": 38,
+              "style": "Bold"
+            },
+            {
+              "length": 58,
+              "offset": 187,
+              "style": "Bold"
+            }
+          ],
+          "key": "dhsqo",
+          "text": "Tabii ki Gülben Ergen “Gizli” de dese Devlet anne ve kızının hangi hastanede olduğunu buluyor, gerekli girişimlerde bulunuyor. Koç hastanesi Psikiyatri Kliniği şefinin de belirttiği üzere annenin ağır psikolojik rahatsızlıkları olduğu biliniyor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 14,
+              "offset": 91,
+              "style": "Bold"
+            },
+            {
+              "length": 68,
+              "offset": 127,
+              "style": "Bold"
+            }
+          ],
+          "key": "3a2uc",
+          "text": "Gülben Ergen psikolojik rahatsızlıkları olan bir annenin durumunu bahane ederek kendisine medyatik çıkar sağlamaya çalışırken, bu anne ve kızının hayatını tehlikeye attığından habersiz olamazdı. Çünkü yaşam tecrübesi sorumsuzluğunun ortaya çıkarabileceği sonuçları görmesine engel değildi. Bu kötülük değilse neydi?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 86,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2s1m1",
+          "text": "Aile ve Sosyal Hizmetler Bakanlığı’nın eli 2022’den bu yana bu anne kızın üzerindeydi ve tüm girişimleri hem hukuki müdahalelerle hem de tıbbi müdahalelerle bir çocuğun hayatını kurtarmak üzereydi.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 25,
+              "style": "Bold"
+            },
+            {
+              "length": 52,
+              "offset": 85,
+              "style": "Bold"
+            }
+          ],
+          "key": "43eue",
+          "text": "Ama aniden ortaya çıkan sorumsuz medyatik kişilik, işgüzar sivil toplumcu imitasyonu Gülben Ergen ortaya çıkıp durumu berbat edene kadar.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 149,
+              "style": "Bold"
+            },
+            {
+              "length": 24,
+              "offset": 205,
+              "style": "Bold"
+            },
+            {
+              "length": 30,
+              "offset": 338,
+              "style": "Bold"
+            },
+            {
+              "length": 81,
+              "offset": 380,
+              "style": "Bold"
+            },
+            {
+              "length": 16,
+              "offset": 490,
+              "style": "Bold"
+            },
+            {
+              "length": 26,
+              "offset": 507,
+              "style": "Italic"
+            },
+            {
+              "length": 80,
+              "offset": 572,
+              "style": "Italic"
+            }
+          ],
+          "key": "1des",
+          "text": "Gülben Ergen gerekli PR’ını yaptıktan sonra Fatmanur ile kızı H.İ.’ baş başa kalıyor. Fatmanur da kızını alarak hastaneden kaçıyor ve evine gidiyor. Kurum yetkilileri yine Fatmanur’a ulaşıyorlar ve çocuğu \"Acil koruma talebiyle\" hastaneye yatırmak için ikna etmeye çalışıyorlar. Hatta kurum görevlileri Gülben Ergen’in iş birliği yaptığı; Çocuklar ve Kadınlar Derneği'ni arayarak “Gelin birlikte hareket edelim, anneyi ikna edelim, çocuk hastaneye kaldırılsın” diyorlar. Ama dernek başkanı Av. Müjde Tozbey “Biz devlete güvenmiyoruz” diye cevap veriyor. Kurum yetkilileri “Tamam o zaman siz yatırın hastaneye ama tüm sorumluluğu üzerinize almalısınız” deyince vazgeçiyorlar.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1j4a1",
+          "text": "Gülben Ergen ise ortada yok tabii.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ek754",
+          "text": "Fatmanur bu derneğin avukatlarıyla temas halinde olduğu için sürekli mesaj atıyor onlara.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eoph1",
+          "text": "VE SONUÇ:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "db16r",
+          "text": "Psikolojik rahatsızlıkları olan bir annenin ayarlarıyla oynayan Gülben Ergen’in, o derneğin ve Cumhuriyet gazetesinin sebep olduğu trajedi.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "uth1",
+          "text": "Anne Fatmanur, kızını da yanına alarak denize atladı ve İNTİHAR ETTİ.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 48,
+              "style": "Bold"
+            },
+            {
+              "length": 117,
+              "offset": 121,
+              "style": "Bold"
+            }
+          ],
+          "key": "88d3v",
+          "text": "Fatmanur’un aynı gün dernek avukatı, Serenay…’a “HAKKINIZI HELÂL EDİN, ÖLSEK DAHAYA İYİ” diye mesaj attığı ortaya çıktı. Bu açıkça bir intihar bildirimi ve bir avukatın böyle bir durumda yetkililere yasa gereği iletme yükümlülüğü vardır. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehqto",
+          "text": "Bildirmiyor tabii. Bu da işlenecek suçu bildirmeme suçu kapsamına giriyor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3m6j8",
+          "text": "MUTLU MUSUN GÜLBEN?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4omch",
+          "text": "İstediğini elde ettin mi?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3s7e0",
+          "text": "Ününe ün, şanına şan kattın mı?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 61,
+              "offset": 135,
+              "style": "Bold"
+            }
+          ],
+          "key": "dlel9",
+          "text": "Savcılığa giderken Fatmanur ile yüzündeki o sonradan edinilmiş ifadeyle çektirdiğin  “DRAMATİK” fotoğrafı paylaşarak bir de arlanmadan “Fatmanur ve minik kızı için ifade vermekten onur duyacağım” diyerek hâlâ PR yapmayı sürdürüyorsun.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2b628",
+          "text": "Yazıklar olsun sana gerçekten…",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/2611.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/2611.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/2611.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

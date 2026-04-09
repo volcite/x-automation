@@ -1,0 +1,423 @@
+{
+  "tweet_created_at": "2026-04-02T07:57:31.000000Z",
+  "id": 2039613182273339600,
+  "id_str": "2039613182273339647",
+  "type": "tweet",
+  "conversation_id_str": "2039613182273339647",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/5SlENoW3UV",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1639262813246857200,
+    "id_str": "1639262813246857217",
+    "name": "宴",
+    "screen_name": "utage_utauta",
+    "location": "",
+    "url": "https://lit.link/utagedesu",
+    "description": "思考を整理するアカウントISTJ-A/6w5/△612/Ti-LSI(N)/so/sp/RCOEN 日常ｱｶ@syoen_utauta\nPola診断:https://t.co/vos24vbm3J",
+    "protected": false,
+    "verified": true,
+    "followers_count": 13231,
+    "friends_count": 308,
+    "listed_count": 78,
+    "favourites_count": 2029,
+    "statuses_count": 9199,
+    "created_at": "2023-03-24T13:48:14.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639262813246857217/1727072192",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1887897086131359744/IBY0eTUy_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 658,
+  "reply_count": 26,
+  "retweet_count": 1017,
+  "favorite_count": 10820,
+  "views_count": 7310657,
+  "bookmark_count": 6831,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2018…",
+        "expanded_url": "http://x.com/i/article/2018533942870392832",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/5SlENoW3UV"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T07:57:31.000000Z",
+    "id": 2039613182273339600,
+    "id_str": "2039613182273339647",
+    "title": "NF型をISTJが褒める",
+    "preview_text": "【INFJ】\nまず前提として、INFJは「見える人」だと思っている。何が見えるかというと、人の内側。表情でも言葉でもなく、その人が持っている重力みたいなものを感知する。",
+    "cover_url": "https://pbs.twimg.com/media/HE4F6fCa4AAj-Ua.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8j58v",
+          "text": "【INFJ】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1k8mh",
+          "text": "まず前提として、INFJは「見える人」だと思っている。何が見えるかというと、人の内側。表情でも言葉でもなく、その人が持っている重力みたいなものを感知する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "49sf7",
+          "text": "相談したとき、的外れなことを言われた経験がほぼない。それどころか、こちらが言語化できていなかった部分まで返ってくることがある。「なんで知ってるの」じゃなくて「なんで気づいてるの」という感覚。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fk3bf",
+          "text": "Ni-Feの組み合わせで、直感で掴んだものを感情軸で処理するから、出力が「正確かつ温かい」になる。論理で詰めてくるわけじゃないのに、なぜか納得させられる。あれは才能というより、もはや構造の話だと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 29,
+              "style": "Bold"
+            }
+          ],
+          "key": "euek",
+          "text": "そしてINFJは静かに正しい。主張が強いわけじゃない。でも時間が経つと、あの人が言ってたことだったな、という場面が来る。予言めいてるとよく言われるのはそのせいで、本人は別に予言してるつもりはなく、ただ見えているものを言っているだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45e5s",
+          "text": "希少性という話もある。人口比で最も少ないとされているが、それ以上に「この感覚を持った人間」自体が少ない。代替がきかない。INFJがいなくなった環境は、何かが静かに欠ける。騒がしくなるわけじゃないが、深さが失われる感じがする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cushs",
+          "text": "自分を消耗させながら他者を支えていることが多いから、そこだけは心配している。でもその献身は本物で、打算がない。だからこそ信頼される。INFJに信頼されたいなら、まずINFJを信頼するところから始めるべきだと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ej9fc",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbab5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ukmc",
+          "text": "【INFP】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d3a54",
+          "text": "16タイプでダントツの共感性を持っていると思っている。悩んでいるとき、辛いとき、INFPに話して失敗したことがない。人の良いところを見つけるのが本当に上手く、気づいたら自己肯定感が上がっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 29,
+              "style": "Bold"
+            }
+          ],
+          "key": "ua75",
+          "text": "この性質は社会的に必須で、空気清浄機のような役割を果たす。INFPがいなくなった瞬間に崩れる環境は実際にある。いなくなってから有り難さに気づくパターンが多い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ah88",
+          "text": "コミュニケーションの柔軟性が高く、他の人には扱いにくい気難しい人間を自然と受け止められる。そういう人ほど大きな力を持っていることが多くて、INFPはそのポテンシャルを引き出せる数少ない存在になる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qo74",
+          "text": "FiとNeの組み合わせの可能性は本当に無限大だと思っている。世界の常識を壊すのも、誰も見つけられなかった答えを発見するのも、Fiの向く方向次第。内側の価値観が強い軸になっているから、外圧に流されない。流行に乗らなくても、独自の道を作れる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "227ma",
+          "text": "本当の意味での唯一無二になれるタイプ。ファンタジーの主人公に近い雰囲気を持っている人が多いのも、自分の世界観を生きているから。言葉に嘘がなく、発する一言がふとした瞬間に刺さる。本人はさらっと言っているだけなのに、ずっと残る言葉を持っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ha0i",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fospf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1usc0",
+          "text": "【ENFJ】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 36,
+              "style": "Bold"
+            }
+          ],
+          "key": "9j2gd",
+          "text": "気づいたら場の中心にいる。仕切っているわけじゃないのに、自然にそうなる。しかも誰も置いていかれていない。これは才能ではなく、設計能力の話だと思っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1sc86",
+          "text": "FeとNiの組み合わせが人の感情マップをリアルタイムで更新し続けるから、「この人今しんどそう」「あの二人の間に何かある」という察知が早い。それをあからさまにしないまま動けるのがまたすごい。場を守っている自覚すら薄い場合が多い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 112,
+              "style": "Bold"
+            }
+          ],
+          "key": "3f6lh",
+          "text": "引っ張る力がある。でもENFJが本当に優れているのは、引っ張り方にある。前に立って引くだけじゃなく、その人が自分で動けるように設計する。結果として、関わった人間が育つ。教育者や指導者に向いていると言われるのはそういうことで、ポテンシャルを見抜いて育てることが自然にできる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3gie4",
+          "text": "頼られることに慣れすぎていて、自分がしんどいときに言い出せないことがある。それだけは唯一の弱点だと思っているが、裏を返せばそれほど他者への責任感が強いということでもある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5h1d",
+          "text": "ENFJがいる環境は、全体的に質が上がる。個人の能力ではなく、関係性の質が。それが結果として成果につながっていく。あの調整力と観察眼、もっと評価されていい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "afa3g",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cg7no",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fd9o9",
+          "text": "【ENFP】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8u67",
+          "text": "16タイプ随一の人たらし。人に可愛がられ、大切にされる才能を持っている。とにかくモテる。誰に教わったわけでもなく、異性をときめかせる言葉選びや仕草を自然に身につけているのはズルいとしか言いようがない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "daj3o",
+          "text": "後天的に習得したものじゃないから嫌味がない。計算しているように見えないのに結果が出ている。それが本物の人たらしの正体だと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9j566",
+          "text": "楽しいことへの嗅覚が強く、自分に合った環境を引き寄せる力がある。楽しむ人間に努力する人間は勝てない。それを体現するように、ENFPは楽しみながら伸びていく。プレイヤーとしての能力は一級品で、好奇心が向いた分野では頭一つ抜けた活躍をする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dg7rp",
+          "text": "Ne優位の発想は、点と点をつなぐ速度が異常に速い。打ち合わせで脱線した話が結果的に一番いいアイデアだった、という場面を何度も見てきた。本人もなぜつながったかよくわかっていないことがある。それが直感型の本質で、言語化の前に答えが来ている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 55,
+              "style": "Bold"
+            }
+          ],
+          "key": "4fj9b",
+          "text": "一緒にいるだけでエネルギーが上がる。こちらのテンションが自然と上がっていく。あの感覚はENFPにしか出せない。存在自体がエネルギー源になっているタイプで、場に与える影響が大きい。関わった人間の可能性を広げる力を持っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bj2ut",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "loo8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1esn",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ntfv",
+          "text": "NF型の人たちが大好きです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82oov",
+          "text": "ST型の自分目線、現実を論理で捉えるモノクロの世界に彩りを与えてくれるのがNF型の人たち。いつもありがとう。大きな感謝を。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

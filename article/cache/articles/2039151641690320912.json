@@ -1,0 +1,429 @@
+{
+  "tweet_created_at": "2026-04-01T01:23:31.000000Z",
+  "id": 2039151641690321000,
+  "id_str": "2039151641690320912",
+  "type": "tweet",
+  "conversation_id_str": "2039151641690320912",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/Y5hVtpAK4P",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1924754385948835800,
+    "id_str": "1924754385948835840",
+    "name": "分析好きの管理職",
+    "screen_name": "analyze_mbti",
+    "location": "",
+    "url": null,
+    "description": "部下を上手く指導する方法を発信｜MBTIを使い部下の才能を言語化｜元マネージャー｜累計50名以上を育成12年間、離職ゼロのチームを運営｜売上3億→7億の事業チームを統括｜若手の早期戦力化に特化｜ワンランク上の上司へ｜",
+    "protected": false,
+    "verified": true,
+    "followers_count": 8392,
+    "friends_count": 484,
+    "listed_count": 18,
+    "favourites_count": 890,
+    "statuses_count": 2227,
+    "created_at": "2025-05-20T09:09:57.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924754385948835840/1762223572",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1985535684913041408/jgZCOQaz_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 65,
+  "reply_count": 0,
+  "retweet_count": 142,
+  "favorite_count": 1461,
+  "views_count": 157640,
+  "bookmark_count": 711,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039142152459177984",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/Y5hVtpAK4P"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T01:23:31.000000Z",
+    "id": 2039151641690321000,
+    "id_str": "2039151641690320912",
+    "title": "ENFJとENFPが持つ「全員にいい顔をして自分が消える」という苦しみ。君たちに「嫌われる勇気」などいらない",
+    "preview_text": "「気がついたら、他人の愚痴を聞くためだけに自分の休日が消えていた」 \n「誰にでもいい顔をして合わせているうちに、本当の自分が何が好きだったのか分からなくなった」",
+    "cover_url": "https://pbs.twimg.com/media/HEyFeUhawAAh54F.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7mrpo",
+          "text": "",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51iqh",
+          "text": "「気がついたら、他人の愚痴を聞くためだけに自分の休日が消えていた」 ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ddm5",
+          "text": "「誰にでもいい顔をして合わせているうちに、本当の自分が何が好きだったのか分からなくなった」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28aol",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "90esn",
+          "text": "これって息をするように周囲の空気を読み、他人のために動けてしまうENFJ（主人公）やENFP（広報運動家）の皆さんが、不意に抱え込む虚無感ですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "958qj",
+          "text": "そんなあなたたちに対して、世間のアドバイスや自己啓発本は口を揃えてこう言います。 「他人の課題は切り捨てろ」「NOと言う練習をしろ」「嫌われる勇気を持て」と。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "a1rju",
+          "text": "ですがあなたたちに「嫌われる勇気」なんてものは1ミリも必要ありません。他人に冷たくする努力は、あなたたちの才能を殺す毒でしかありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bs77c",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eaq3o",
+          "text": "「冷たくなる」のはあなたたちの脳では不可能である",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8s45g",
+          "text": "人間には本来持って生まれた脳の作りがあります。 NT型（分析家）のように、「この人間関係はコストに見合わないから損切りしよう」とスパスパ切り捨てられるロジカルな機能を持った人もいれば、あなたたちのように「周りの笑顔（調和）」を最大のエネルギー源としているタイプもいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fieed",
+          "text": "あなたたちが無理に「冷たくあしらう」「嫌われる」という行動をとった時、その場では楽になったように見えても、後から「あんな事言って傷つけなかったかな…」「嫌われたかも…」という強烈な罪悪感とストレスに襲われますよね。 あなたたちにとって、他者の期待を裏切ることは「自分が傷つくこと」と完全に同期してしまっているからです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8is0b",
+          "text": "「いい人をやめる」という処方箋は、あなたたちの基本仕様にはどう足掻いても互換性がないんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ebjd2",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgf90",
+          "text": "100%「オープンサーバー」になっている悲劇",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 58,
+              "offset": 44,
+              "style": "Bold"
+            }
+          ],
+          "key": "fa54i",
+          "text": "あなたたちの問題の根本は、優しすぎることでも、八方美人なことでもありません。 ただ単に、あなたの人生というサーバーが、24時間365日、誰でも勝手にログインしていい「100%オープン状態」になっていることです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3nru",
+          "text": "他人がいつでもあなたの敷地に土足で上がり込み、悩みを相談し、機嫌を取ってもらうことができてしまう。 だからこそ、「じゃあ自分だけの意志はどこにあるの？」と、自分という存在がログアウトしたような錯覚に陥ってしまいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 76,
+              "style": "Bold"
+            }
+          ],
+          "key": "e763e",
+          "text": "これを解決するために、「ログイン自体を一律で拒否する（人に冷たくする）」必要はありません。 必要なのは、あなたの人生の容量のたった10%だけでいいので、「絶対に誰もログインさせない不可侵の聖域」を意図的に作ることなんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7hphf",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6864k",
+          "text": "「不可侵の聖域」構築する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 11,
+              "style": "Bold"
+            }
+          ],
+          "key": "1ap2v",
+          "text": "「不可侵の聖域」とは、他人の目や感情、評価が一切介入しない、完全にクローズドな時間や空間のことです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "duol9",
+          "text": "例えばこんな具合です。 ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6dlq3",
+          "text": "・「金曜の夜の1時間はスマホの電源を物理的に切り、誰とも連絡が取れない状態で一人で映画を見る」 ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eg34q",
+          "text": "・「誰にもアカウントを教えないSNSの裏垢で、自分一人だけの偏った趣味を思いっきり叫ぶ」 ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "13sbk",
+          "text": "・「休日に誰にも行き先を告げず、フラッと一人旅に出て、そこで出会った誰とも深く関わらずに帰ってくる」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ffqec",
+          "text": "この領域の中では、「誰かの役に立つこと」や「空気を読むこと」は絶対に禁止してください。 ここでは、あなたがどれほど自己中心的になっても、ワガママを爆発させても、誰かに迷惑をかけることは物理的にありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fov7k",
+          "text": "「この時間だけは、絶対に他人の感情を入れない」という強固な壁を構築してみましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8fku1",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dcroq",
+          "text": "まとめ：9割は他人のために生きていい",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6pd32",
+          "text": "あなたたちは、「100%誰かのために生きよう」とするから燃料が尽きて、自分が消えてしまいます。 ですが、強固な「10%の聖域」さえ確保し、そこで「自分勝手な自分」を出してバッテリーを確実にフル充電できる仕組みを作ってしまえば、どうなるか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8mjmv",
+          "text": "残りの90%の時間は、今まで通り、思う存分他人のために「いい人」をやり続けていいんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "btrc",
+          "text": "誰彼構わず優しくしてしまうのも、全員を救おうとしてしまうのも、欠点ではありません。間違いなく、あなたたちだけが持つ最強の才能であり、圧倒的な魅力です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "augm7",
+          "text": "無理に自分を曲げて「嫌われる勇気」なんてものをインストールする必要はありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fkid",
+          "text": " ただ一つ、強固な扉を持った「自分だけの聖域」を作り、そこを守る鍵だけは絶対に誰にも渡さないようにしましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "153jv",
+          "text": "それさえできれば、あなたはどこまでも優しく、そして決してメンタルが壊れない最強のリーダー（あるいはムードメーカー）になれるはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8m280",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ufs3",
+          "text": "Fin.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

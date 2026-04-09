@@ -1,0 +1,1358 @@
+{
+  "tweet_created_at": "2026-04-07T09:02:25.000000Z",
+  "id": 2041441456108503000,
+  "id_str": "2041441456108503143",
+  "type": "tweet",
+  "conversation_id_str": "2041441456108503143",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/KENuCUfmwP",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1231552537725026300,
+    "id_str": "1231552537725026305",
+    "name": "ちゃれんげる",
+    "screen_name": "challenger0303",
+    "location": "",
+    "url": null,
+    "description": "VRが好き\nPimax JP mod",
+    "protected": false,
+    "verified": true,
+    "followers_count": 633,
+    "friends_count": 803,
+    "listed_count": 4,
+    "favourites_count": 37571,
+    "statuses_count": 20189,
+    "created_at": "2020-02-23T12:13:07.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1231552537725026305/1758162621",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1968502767498231808/jpIpFrAw_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 18,
+  "reply_count": 0,
+  "retweet_count": 184,
+  "favorite_count": 1071,
+  "views_count": 182761,
+  "bookmark_count": 1186,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041355746030624768",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/KENuCUfmwP"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T09:02:25.000000Z",
+    "id": 2041441456108503000,
+    "id_str": "2041441456108503143",
+    "title": "各VRヘッドセット、後付けデバイスの顔トラ比較（パラメーター数、精度、使った感覚）",
+    "preview_text": "今回は、VRChatでフェイストラッキング（upper face＝目周り、lower face＝口周り）を使える各HMD、外付けデバイスを比較していきます。\n比較基準は次の3つです。\n使用可能パラメーター数\n精度\n実際に使った感覚",
+    "cover_url": "https://pbs.twimg.com/media/HFR_xUjaMAA0Q-I.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 64,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "anc81",
+          "text": "今回は、VRChatでフェイストラッキング（upper face＝目周り、lower face＝口周り）を使える各HMD、外付けデバイスを比較していきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31gbn",
+          "text": "比較基準は次の3つです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fvm0u",
+          "text": "使用可能パラメーター数",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "37efr",
+          "text": "精度",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dn2nc",
+          "text": "実際に使った感覚",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 9,
+              "style": "Bold"
+            },
+            {
+              "length": 18,
+              "offset": 65,
+              "style": "Bold"
+            },
+            {
+              "length": 18,
+              "offset": 85,
+              "style": "Bold"
+            }
+          ],
+          "key": "2vfuk",
+          "text": "なお、今回の比較は標準機能だけでなく、そのハードウェアがソフトウェア調整によって引き出せるポテンシャル込みで見ています。\n一方で、公式実装・VRCFTで確認できる要素と、自作ソフトや追加ツールによる拡張要素は分けて扱います。VRCFTの比較ページでも、各機器の差は「表現の広さ（Expressibility）」と「追従品質（Tracking Quality）」の相対評価として整理されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 42,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "188ti",
+          "text": "1. 使用可能パラメーター数ランキング（upper face / アイトラッキング）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9chmr",
+          "text": "1位\nVarjoシリーズ / Pimax Crystalシリーズ / VIVE Pro Eye / PSVR2",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4ut6v",
+          "text": "2位\nMeta Quest Pro / Pico 4 Pro・Enterprise / Samsung Galaxy XR / Paper Tracker",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8eal2",
+          "text": "3位\nVIVE Focus Vision / VIVE XR Elite / Bigscreen Beyond 2e / Nare Motion",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8n5q8",
+          "text": "1位グループの特徴",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 64,
+              "offset": 164,
+              "style": "Bold"
+            }
+          ],
+          "key": "f7q3g",
+          "text": "このグループは、視線情報の密度が高く、VRChatで使ううえで重要な上顔面パラメーターを広く扱えます。\n特に VIVE Pro Eye と PSVR2 は Tobii 系の eye tracking を採用しており、Varjo も独自の高精度 eye tracking を備えています。VRCFT の比較表でも、Varjo は Gaze / Gaze Convergence / Granular Eye Openness / Pupil Dilation に対応し、VIVE Pro Eye も同様に広い要素を持ちます。PSVR2 も Tobii eye tracking を持ち、PC では PSVR2Toolkit 経由で VRCFT に接続できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lt28",
+          "text": "このグループで扱いやすい要素は、主に次の通りです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7uan9",
+          "text": "視線方向",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b4n7s",
+          "text": "左右それぞれの目のトラッキング",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ccjb",
+          "text": "寄り目などの視線交差",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "akdmc",
+          "text": "瞳孔径追跡",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6gli3",
+          "text": "段階的なまぶた追跡",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qop9",
+          "text": "見開き、強くつむる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 57,
+              "style": "Bold"
+            },
+            {
+              "length": 19,
+              "offset": 113,
+              "style": "Bold"
+            }
+          ],
+          "key": "98hst",
+          "text": "さらに、Varjo・Pimax Crystal・VIVE Pro Eye のように、内部映像や周辺データを活かして自作の眉推定ソフトなどを追加しやすい構成では、upper face の表現力をさらに伸ばせます。\nただし、これは標準出力そのものではなく拡張込みの強みです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "casum",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4c16b",
+          "text": "2位グループの特徴",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ernhm",
+          "text": "このグループは各社独自実装が中心ですが、VRChat用途では十分な量の上顔面パラメーターを持っています。\nVRCFT の比較表でも、Quest Pro、Pico 4 Pro/Enterprise、Samsung Galaxy XR は gaze と granular な eye openness を持ち、実用上はかなり強い部類です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "337h9",
+          "text": "主に使えるのは以下です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dflq",
+          "text": "視線方向",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9p3dk",
+          "text": "左右それぞれの目のトラッキング",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgcbf",
+          "text": "段階的なまぶた追跡",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7asmt",
+          "text": "見開き、強くつむる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 33,
+              "style": "Bold"
+            }
+          ],
+          "key": "90s8e",
+          "text": "このグループは、1位グループほどの拡張性や生データ活用は弱い一方、最初からある程度まとまった出力を持ち、特別な改造なしで実用に乗せやすいのが長所です。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f69og",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3m6g",
+          "text": "3位グループの特徴",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 119,
+              "style": "Bold"
+            }
+          ],
+          "key": "7827i",
+          "text": "VIVE系（Pro Eyeではない）や、Beyond 2e を含む一部機種・外付け系は、視線やまぶた開閉は取れても、上位グループほど豊富ではありません。\nVRCFT の比較表では、VIVE Focus 3 系 eye tracker は Upper Face Expressibility 3/10、Tracking Quality 4/10 とされており、上位機種より一段落ちます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2ekjq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "kf7s",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "17k8v",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91j3k",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bha21",
+          "text": "2. 使用可能パラメーター数ランキング（口：マウストラッキング / lower face）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4g6jo",
+          "text": "1位\nProject Babble",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "djvo4",
+          "text": "2位\nVIVE Facial Tracker",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2gg55",
+          "text": "3位\nMeta Quest Pro",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1i7gt",
+          "text": "4位\nVIVE Focus Vision / Focus 3 系フェイストラッカー",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eqpf4",
+          "text": "解説",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 30,
+              "style": "Bold"
+            },
+            {
+              "length": 25,
+              "offset": 55,
+              "style": "Bold"
+            },
+            {
+              "length": 25,
+              "offset": 119,
+              "style": "Bold"
+            },
+            {
+              "length": 21,
+              "offset": 147,
+              "style": "Bold"
+            }
+          ],
+          "key": "fl93j",
+          "text": "lower face では、upper face 以上に\n 「どのくらい細かい口周りの表情を取れるか」\nと\n 「それをどのくらい安定してVRChatで使えるか」\nの差が大きく出ます。VRCFT の比較ページでも、lower face は Lower Face Expressibility と Face Tracking Quality の2つで分けて評価されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94c5u",
+          "text": "1位：Project Babble",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 57,
+              "offset": 29,
+              "style": "Bold"
+            },
+            {
+              "length": 16,
+              "offset": 103,
+              "style": "Bold"
+            },
+            {
+              "length": 52,
+              "offset": 131,
+              "style": "Bold"
+            }
+          ],
+          "key": "agqvi",
+          "text": "Project Babble は、VRCFT の比較表で Lower Face Expressibility 9/10、Face Tracking Quality 8/10 とされていて、この一覧の中では 口トラッキングの表現幅が最も広い グループです。さらに Tongue Expression Support は “All Tongue Expressions” となっており、舌表現まで含めた拡張性も非常に高いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3csqi",
+          "text": "使える要素としては、少なくとも次のような lower face 系の大枠をカバーできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "di1la",
+          "text": "Jaw",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cu17p",
+          "text": "Lip",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3p993",
+          "text": "Mouth",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "954mq",
+          "text": "Cheek",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b01q1",
+          "text": "舌表現全般",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "86gjb",
+          "text": "そのため、使用可能パラメーター数だけで見れば lower face の1位は Babble と言ってよいと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4lg40",
+          "text": "2位：VIVE Facial Tracker",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 79,
+              "offset": 50,
+              "style": "Bold"
+            }
+          ],
+          "key": "4q0gr",
+          "text": "口トラとしてかなり強いですが、Babble ほどの表現幅までは届きません。VRCFT の比較表では、VIVE Facial Tracker は Lower Face Expressibility 7/10・Face Tracking Quality 8/10です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ltti",
+          "text": "共通して扱えるのは、主に次のような lower face 系です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f1865",
+          "text": "Jaw",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1n4j",
+          "text": "Lip",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5vt3t",
+          "text": "Mouth",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bg3u3",
+          "text": "Cheek",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 47,
+              "offset": 13,
+              "style": "Bold"
+            },
+            {
+              "length": 35,
+              "offset": 82,
+              "style": "Bold"
+            }
+          ],
+          "key": "2n0cg",
+          "text": "さらに、舌表現については VIVE Facial Tracker は “Tongue Out & Directions”までとなっています。\nなのでこのグループは、表現幅はかなりあるが、実装や経路によって使い勝手に差が出やすいグループとして見るのが自然です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "baj64",
+          "text": "3位：Meta Quest Pro",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 57,
+              "offset": 25,
+              "style": "Bold"
+            },
+            {
+              "length": 28,
+              "offset": 109,
+              "style": "Bold"
+            }
+          ],
+          "key": "3tou3",
+          "text": "Quest Pro は、VRCFT の比較表だと Lower Face Expressibility 7/10、Face Tracking Quality 4/10 です。つまり、口周りのトラッキング自体は可能ですが、lower face 専用機材ほどの追従品質評価ではない とされています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "2c4tq",
+          "text": "ただし、Quest Pro は 取れる shape の種類そのものはかなり豪華です。Meta Movement の個別互換ページでは、lower face 側として次のような Unified Expressions が並んでいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5sl2",
+          "text": "JawOpen / JawLeft / JawRight / JawForward",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqelc",
+          "text": "MouthClosed",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3t2c5",
+          "text": "LipSuck 系",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7bkq",
+          "text": "LipFunnel 系",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "152fb",
+          "text": "LipPucker 系",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53edt",
+          "text": "MouthUpperUp / MouthLowerDown",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aroo1",
+          "text": "MouthSmile / MouthFrown / MouthStretch / MouthDimple",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "339pl",
+          "text": "MouthPress",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "hl8j",
+          "text": "MouthTightener",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31ge5",
+          "text": "MouthLeft / MouthRight",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "65gkb",
+          "text": "CheekPuff / CheekSuck",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "egrm9",
+          "text": "TongueOut",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 16,
+              "style": "Bold"
+            },
+            {
+              "length": 38,
+              "offset": 57,
+              "style": "Bold"
+            },
+            {
+              "length": 22,
+              "offset": 139,
+              "style": "Bold"
+            }
+          ],
+          "key": "qo7n",
+          "text": "つまり Quest Pro は、口shapeの辞書の豊富さではかなり優秀です。ですが VRCFT の相対評価では、実際の lower-face tracking quality は 4/10 とされているため、今回のように「使用可能パラメーター数」と「精度」を分けて考えるなら、パラメーター名は多いが、口トラ専用品よりは下という整理がしっくりきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "asj8p",
+          "text": "upper face、アイトラ精度ランキング",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 58,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "1rkmu",
+          "text": "1位グループ\n VIVE Pro Eye / Varjo / Pimax Crystal（BrokenEye 前提） / PSVR2",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 58,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "akjsb",
+          "text": "2位グループ\n Samsung Galaxy XR / Pico 4 Pro・Enterprise / Meta Quest Pro",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 60,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "b4hje",
+          "text": "3位グループ\n VIVE Focus Vision / VIVE XR Elite / Bigscreen / EyeTrackVR 系",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 140,
+              "offset": 37,
+              "style": "Bold"
+            },
+            {
+              "length": 83,
+              "offset": 199,
+              "style": "Bold"
+            }
+          ],
+          "key": "d9mek",
+          "text": "この並びの土台になるのは、VRCFT の相対評価です。\nVRCFT では VIVE Pro Eye が Upper Face Tracking Quality 8/10、Varjo が 7/10、Samsung Galaxy XR が 7/10、Meta Quest Pro が 4/10、VIVE Focus 3 Eye Tracker 系が 4/10 とされています。PSVR2 は表の並び上、VIVE Pro Eye と同じく gaze / convergence / granular openness / pupil dilation を持つ上位グループに入っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "744q3",
+          "text": "lower face、口トラ精度ランキング",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 36,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "7mrr8",
+          "text": "1位\n Project Babble / VIVE Facial Tracker",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 58,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "1654u",
+          "text": "2位\nSamsung Galaxy XR / VIVE Focus Vision / Focus 3 系フェイストラッカー",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 38,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "9ede",
+          "text": "3位\n Meta Quest Pro / Pico 4 Pro・Enterprise",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 8,
+              "style": "Bold"
+            },
+            {
+              "length": 87,
+              "offset": 48,
+              "style": "Bold"
+            },
+            {
+              "length": 22,
+              "offset": 197,
+              "style": "Bold"
+            }
+          ],
+          "key": "di55f",
+          "text": "VRCFT の Face Tracking Quality がかなり分かりやすいです。\n表では Project Babble 8/10、VIVE Facial Tracker 8/10、Samsung Galaxy XR 7/10、Meta Quest Pro 4/10 になっています。Quest Pro は個別ページを見ると口shapeの種類自体は多いのですが、VRCFT の相対評価では lower-face の追従品質は 4/10 に置かれています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8qec2",
+          "text": "個人的総合評価！(異論は認める)",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 1,
+              "style": "Bold"
+            },
+            {
+              "length": 77,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "dvr6o",
+          "text": "\n1位\n Pimax Crystal / Super or VIVE PRO EYE + Vive Facial Tracker or project babble",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 45,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "7ha73",
+          "text": "2位\n Varjo + Vive Facial Tracker or project babble",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 27,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "eppul",
+          "text": "3位\n Quest Pro、Samsung Galaxy XR",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 76,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "8seps",
+          "text": "5位\n Pico 4 Pro / EnterpriseVIVE Focus Vision / Focus 3 / VIVE XR Elite（add-on込み）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 44,
+              "offset": 215,
+              "style": "Bold"
+            }
+          ],
+          "key": "er6t4",
+          "text": "6位\nBigscreen Beyond 2e、nare motion\n\n個人的な感想を述べると、信頼できないフェイストラッキングは使っていてストレスになりうると思っています。特に目は不気味に見えやすいので精度のいいものを選ぶのがポイントです。口は正直VRChatのリップシンクが優秀なので、舌を出したり口を自分で開けたい人以外はあまり精度が必要ないと思っています。正直5位以下に落ち込むと自分は使わないかな～となってしまいます\n\nここまで読んでいただきありがとうございます！！！\n質問など受け付けますので是非！！！！！",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "Pimax Crystal Super + Vive Facial Tracker + 眉推定ソフト",
+              "entityKey": "a914410c-86a3-48ec-9133-4ae9974982b4",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2041417567139659776"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "d86ab187-6d2b-4d9b-84e1-93e39a133d1d",
+              "tweetId": "2041092893373497664"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "fcb9769a-c69a-44fe-a12b-5cf786599add",
+              "tweetId": "2037707078626939230"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "26dd77f0-65f4-4134-8b47-9f0e581b4daf",
+              "tweetId": "1965448256680521748"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHFSSdh+aAAAKAAIAAAAAAAAAAAAA",
+        "media_id": "2041417567139659776",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 9,
+            "numerator": 16
+          },
+          "duration_millis": 74000,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 50.86,
+                  "rgb": {
+                    "blue": 28,
+                    "green": 43,
+                    "red": 59
+                  }
+                },
+                {
+                  "percentage": 37.11,
+                  "rgb": {
+                    "blue": 110,
+                    "green": 141,
+                    "red": 174
+                  }
+                },
+                {
+                  "percentage": 4.04,
+                  "rgb": {
+                    "blue": 31,
+                    "green": 53,
+                    "red": 98
+                  }
+                },
+                {
+                  "percentage": 1.81,
+                  "rgb": {
+                    "blue": 151,
+                    "green": 191,
+                    "red": 234
+                  }
+                },
+                {
+                  "percentage": 1.71,
+                  "rgb": {
+                    "blue": 4,
+                    "green": 9,
+                    "red": 17
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1080,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2041417567139659776/img/uRKj6uDD1JFjbnFo.jpg",
+            "original_img_width": 1920
+          },
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2041417567139659776/pl/lOR7ITf1RZgBlNCW.m3u8?tag=21"
+            },
+            {
+              "bit_rate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041417567139659776/vid/avc1/640x360/b8V1wOmjMJpI_jSJ.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041417567139659776/vid/avc1/1280x720/wtzQYtPOq5fiQuKi.mp4?tag=21"
+            },
+            {
+              "bit_rate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041417567139659776/vid/avc1/480x270/EGMNstkB5TtgFUu0.mp4?tag=21"
+            },
+            {
+              "bit_rate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041417567139659776/vid/avc1/1920x1080/hcz1rPXBwt3uk1Yj.mp4?tag=21"
+            }
+          ]
+        },
+        "media_key": "13_2041417567139659776"
+      }
+    ]
+  }
+}

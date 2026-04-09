@@ -1,0 +1,1253 @@
+{
+  "tweet_created_at": "2026-04-03T16:25:49.000000Z",
+  "id": 2040103488714068200,
+  "id_str": "2040103488714068245",
+  "type": "tweet",
+  "conversation_id_str": "2040103488714068245",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/sF6qq5uIXK",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 248951926,
+    "id_str": "248951926",
+    "name": "Ahmad",
+    "screen_name": "TheAhmadOsman",
+    "location": "The Midwest ⇄ Alexandria ⇄ SF",
+    "url": "https://www.theahmadosman.com/",
+    "description": "ai research, systems engineering, infra & hardware · on a mission to build a frontier, infra-first AI Lab in the West · i mod GPUs on r/LocalLLaMA",
+    "protected": false,
+    "verified": true,
+    "followers_count": 52117,
+    "friends_count": 392,
+    "listed_count": 611,
+    "favourites_count": 54503,
+    "statuses_count": 22597,
+    "created_at": "2011-02-08T01:53:15.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/248951926/1751118507",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1831406651829559296/iMbSOxdP_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 19,
+  "reply_count": 34,
+  "retweet_count": 217,
+  "favorite_count": 1495,
+  "views_count": 174027,
+  "bookmark_count": 2161,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040093502202171392",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/sF6qq5uIXK"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T16:25:49.000000Z",
+    "id": 2040103488714068200,
+    "id_str": "2040103488714068245",
+    "title": "GPU Memory Math for LLMs (2026 Edition)",
+    "preview_text": "If you’re running models locally, thinking “model → VRAM” falls apart once you account for how the weights were trained and quantized in the first place.\nThere’s a better way to think about it:\nVRAM",
+    "cover_url": "https://pbs.twimg.com/media/HE_mtS9XkAAaJlc.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ep8u",
+          "text": "If you’re running models locally, thinking “model → VRAM” falls apart once you account for how the weights were trained and quantized in the first place.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "csl0q",
+          "text": "There’s a better way to think about it:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 73,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5hue1",
+          "text": "VRAM (in GB) ≈ Parameters (in billions) x (effective bits per weight ÷ 8)",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bomei",
+          "text": "That’s it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cf90",
+          "text": "This one formula explains everything across:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6qhc7",
+          "text": "FP16 / BF16",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dm65a",
+          "text": "FP8 / INT8",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mgi1",
+          "text": "GPTQ / AWQ / NF4",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eh7v2",
+          "text": "GGUF variants",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "coigp",
+          "text": "basically every format you’ll use",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "47qhf",
+          "text": "The Only Conversion You Actually Need",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4k4gu",
+          "text": "Here’s the core intuition:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fbak",
+          "text": "FP16 / BF16 → 16 bits → ~2 GB per 1B params",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pga3",
+          "text": "FP8 / INT8 → 8 bits → ~1 GB per 1B params",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dc1f6",
+          "text": "4-bit quants → ~4 bits → ~0.5 GB per 1B params",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ibp8",
+          "text": "GGUF formats sit in between depending on the exact scheme:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "am9tq",
+          "text": "Q6_K → ~0.82 GB per 1B",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9sln",
+          "text": "Q5_K → ~0.69 GB per 1B",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "el80e",
+          "text": "Q4_K → ~0.56 GB per 1B",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "al9li",
+          "text": "Q3_K → ~0.43 GB per 1B",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "23bmg",
+          "text": "Q2_K → ~0.33 GB per 1B",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "78hb",
+          "text": "Ultra-aggressive quants go even lower, but at a cost.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "32tlu",
+          "text": "If you remember nothing else, remember this:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ef34n",
+          "text": "FP16 = 2x model size",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aiu0r",
+          "text": "FP8 = 1x model size",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3sufg",
+          "text": "4-bit = 0.5x model size",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ct7q0",
+          "text": "Everything else is just variations on that theme.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9s3f",
+          "text": "Side Note: The VRAM Tax Nobody Talks About",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f778o",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g6ke",
+          "text": "Before you even think about weights, understand this: the model itself is only part of your VRAM bill. The real killer is everything around it. KV cache grows with context length and will quietly eat your memory alive at 32K, 128K, or higher. Activations vary by runtime and optimization level but can spike under certain execution paths. Batching and concurrency multiply memory usage fast, especially in agent-style workloads. Framework overhead adds its own tax depending on whether you’re using Transformers, vLLM, TensorRT-LLM, or llama.cpp. And then there’s CUDA Graphs, which trade extra reserved memory for much better latency and throughput stability. Bottom line: if you only budget for weights, you’re already out of memory.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98d1c",
+          "text": "What This Looks Like in Practice",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "802k9",
+          "text": "Let’s translate that into real model sizes.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1vj07",
+          "text": "A 7B model:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "avs7b",
+          "text": "FP16 → ~14 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fq0d6",
+          "text": "FP8 → ~7 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c54eb",
+          "text": "4-bit → ~3.5–4 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1l2e1",
+          "text": "A 13B model:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7q8t",
+          "text": "FP16 → ~26 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jims",
+          "text": "FP8 → ~13 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6825i",
+          "text": "4-bit → ~6–7 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4po15",
+          "text": "A 70B model:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rb0n",
+          "text": "FP16 → ~140 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "120io",
+          "text": "FP8 → ~70 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1e01f",
+          "text": "4-bit → ~35–40 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "coc8q",
+          "text": "A 405B model:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1v0q",
+          "text": "FP16 → ~810 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aa5nv",
+          "text": "FP8 → ~405 GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7nbls",
+          "text": "4-bit → ~200+ GB",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8phtn",
+          "text": "Now you understand why people either:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "827v3",
+          "text": "quantize aggressively",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dl940",
+          "text": "shard across GPUs (e.g. Tensor Parallelism)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2stcv",
+          "text": "or just give up and say “cloud it is”",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19v5v",
+          "text": "GPU Reality: What Actually Fits",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4l55c",
+          "text": "Here’s the practical translation into GPUs people actually own.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9enah",
+          "text": "8 GB VRAM:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fic5u",
+          "text": "~3B in FP16",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1c2oj",
+          "text": "~6–7B in FP8",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "nnk0",
+          "text": "~12–13B in 4-bit",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flsg5",
+          "text": "12 GB VRAM:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ent8p",
+          "text": "~5B FP16",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vk9",
+          "text": "~10B FP8",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2kt5s",
+          "text": "~18–20B 4-bit",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53ofq",
+          "text": "16 GB VRAM:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "apjo9",
+          "text": "~7B FP16",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dfr6f",
+          "text": "~13B FP8",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8itsp",
+          "text": "~25B 4-bit",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "256ou",
+          "text": "24 GB VRAM:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85hc1",
+          "text": "~10–12B FP16",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dj16p",
+          "text": "~20B FP8",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rrvc",
+          "text": "~35–40B 4-bit",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "deh9b",
+          "text": "48 GB VRAM:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5nsi8",
+          "text": "~20–24B FP16",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bf3ot",
+          "text": "~40B FP8",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "du39s",
+          "text": "~70–80B 4-bit",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "co5i9",
+          "text": "80 GB VRAM:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "421es",
+          "text": "~35–40B FP16",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "456rh",
+          "text": "~70B FP8",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7bmd5",
+          "text": "~140B-class 4-bit",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "41qjg",
+          "text": "This is the “what actually fits” version for model weights.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45itj",
+          "text": "Why Your Model Still Crashes",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "798qe",
+          "text": "As we said earlier, even if the math says it fits, you can still run out of memory.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qbos",
+          "text": "Because weights are only part of the story.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5p6gk",
+          "text": "You also need memory for:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3s935",
+          "text": "KV cache (this explodes with long context)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8j6k1",
+          "text": "activations (depending on runtime)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0bm7",
+          "text": "batching / concurrency",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aemk6",
+          "text": "framework overhead",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26o40",
+          "text": "Rule of thumb:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c3p02",
+          "text": "Add 10–30% extra VRAM for a safe run.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aisu9",
+          "text": "If you’re doing:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ej0r0",
+          "text": "long context (32K, 128K, etc)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5v5r0",
+          "text": "high concurrency",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dkvlu",
+          "text": "agent workflows",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abuea",
+          "text": "…you’ll need even more.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ev1si",
+          "text": "The MoE Trap",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "275gp",
+          "text": "Mixture-of-Experts models confuse people.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bm2sm",
+          "text": "Example:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73l8t",
+          "text": "“8x7B” sounds like 56B",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c979i",
+          "text": "but only a subset of experts run per token",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "20sh3",
+          "text": "So compute cost ≠ memory cost.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3805o",
+          "text": "What matters:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7i5l9",
+          "text": "total parameters → affects memory footprint",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cm3n4",
+          "text": "active parameters → affects speed",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "21jg",
+          "text": "Depending on how the model is loaded:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "o8vi",
+          "text": "you may still need memory for all experts",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c44h3",
+          "text": "or you can shard them across GPUs",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9a69s",
+          "text": "If you treat MoE like dense, you’ll either overestimate or underestimate badly.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8fqh2",
+          "text": "GGUF Is Not Magic",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ecur",
+          "text": "GGUF gets treated like a cheat code.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "apbpd",
+          "text": "It’s not.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bfika",
+          "text": "It’s a container + quantization strategy optimized for:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f9juf",
+          "text": "llama.cpp-style inference",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ek8aj",
+          "text": "CPU + GPU hybrid setups",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "268go",
+          "text": "ultra-efficient memory usage",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3an76",
+          "text": "But:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2lhlc",
+          "text": "Those memory numbers only apply in that runtime.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8916k",
+          "text": "The moment you move into other frameworks:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1s10",
+          "text": "weights may be dequantized",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ae4lb",
+          "text": "memory usage can jump dramatically",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dvked",
+          "text": "So “it fits in 6 GB” is not universal truth. It’s runtime-specific truth.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60kkm",
+          "text": "The Only Mental Model That Matters",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66vjh",
+          "text": "There isn’t a giant compatibility matrix you need to memorize.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2me9",
+          "text": "There’s just this:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ou64",
+          "text": "VRAM ≈ B x (bits ÷ 8)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djfb8",
+          "text": "Then adjust for:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3e1v9",
+          "text": "runtime overhead",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9nrek",
+          "text": "KV cache",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pfa5",
+          "text": "concurrency",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abql9",
+          "text": "That’s it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cvm70",
+          "text": "Once you internalize this, you stop guessing.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91kvr",
+          "text": "You start designing systems.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bnhns",
+          "text": "And more importantly, you stop asking: “Can I run this?”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "blp8q",
+          "text": "You start asking: “How do I want to run this?”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1s5cs",
+          "text": "That’s when things get interesting.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ijc3",
+          "text": "Until next time.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "898564dc-dbae-447c-8aeb-a11c79237d1c",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040103270002114560"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/nHXmWwAAKAAIAAAAADta0dgAA",
+        "media_id": "2040103270002114560",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 24.37,
+                "rgb": {
+                  "blue": 43,
+                  "green": 29,
+                  "red": 16
+                }
+              },
+              {
+                "percentage": 9.26,
+                "rgb": {
+                  "blue": 111,
+                  "green": 52,
+                  "red": 47
+                }
+              },
+              {
+                "percentage": 6.08,
+                "rgb": {
+                  "blue": 88,
+                  "green": 54,
+                  "red": 94
+                }
+              },
+              {
+                "percentage": 4.94,
+                "rgb": {
+                  "blue": 47,
+                  "green": 50,
+                  "red": 87
+                }
+              },
+              {
+                "percentage": 3.95,
+                "rgb": {
+                  "blue": 177,
+                  "green": 80,
+                  "red": 51
+                }
+              }
+            ]
+          },
+          "original_img_height": 487,
+          "original_img_url": "https://pbs.twimg.com/media/HE_nHXmWwAAEshI.jpg",
+          "original_img_width": 866
+        },
+        "media_key": "3_2040103270002114560"
+      }
+    ]
+  }
+}

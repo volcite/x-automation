@@ -1,0 +1,437 @@
+{
+  "tweet_created_at": "2026-04-05T04:30:08.000000Z",
+  "id": 2040648157428671000,
+  "id_str": "2040648157428670971",
+  "type": "tweet",
+  "conversation_id_str": "2040648157428670971",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/BpHiz3q0Jx",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1686901686185721900,
+    "id_str": "1686901686185721857",
+    "name": "Commentary Donald J. Trump Posts From Truth Social",
+    "screen_name": "TrumpDailyPosts",
+    "location": "United States of America",
+    "url": "https://trumpdailyposts.com/",
+    "description": "Reposting Trump’s Truth Social posts (with date/time) on X + news/commentary. Unofficial. Profile Artist: @ElenaRuseva1 Not affiliated with @realdonaldtrump.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 2873385,
+    "friends_count": 23916,
+    "listed_count": 6395,
+    "favourites_count": 43601,
+    "statuses_count": 26002,
+    "created_at": "2023-08-03T00:48:07.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686901686185721857/1717108459",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1757203362381168640/j9704gu__normal.jpg",
+    "can_dm": false,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/WesternJournalX",
+      "badge_url": "https://pbs.twimg.com/profile_images/1389677740685623296/3kkAgmhY_bigger.jpg",
+      "description": "The Western Journal",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    },
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 30,
+  "reply_count": 323,
+  "retweet_count": 237,
+  "favorite_count": 1562,
+  "views_count": 2953779,
+  "bookmark_count": 92,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040644859464134656",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/BpHiz3q0Jx"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T04:30:08.000000Z",
+    "id": 2040648157428671000,
+    "id_str": "2040648157428670971",
+    "title": "🚨Trump Makes Major Late-Night Iran Post",
+    "preview_text": "🚨New Trump Post, Video & Story Below - 4.05.26\n──────────────────────────────\n \n \n \nX Article by Todd Cefaratti @TrumpDailyPosts 4.05.26 \nPresident Trump just shared one",
+    "cover_url": "https://pbs.twimg.com/media/HFHUfQ9XYAA0bPZ.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6cauj",
+          "text": "🚨New Trump Post, Video & Story Below - 4.05.26",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "67lb3",
+          "text": "──────────────────────────────",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "67ia8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2ag47",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ctn0d",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 28,
+                "text": "TrumpDailyPosts",
+                "toIndex": 44
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a54gj",
+          "text": "X Article by Todd Cefaratti @TrumpDailyPosts 4.05.26 ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1b9tc",
+          "text": "President Trump just shared one of the most inspiring updates we’ve heard in a long time, and it should make every American’s chest swell with pride. On Truth Social, he announced: “WE GOT HIM!” Over the past several hours, the United States Military pulled off one of the most daring search and rescue operations in our nation’s history. A highly respected Colonel, an incredible crew member officer, was trapped behind enemy lines in the treacherous mountains of Iran. He was being hunted by Iranian forces that were closing in hour by hour. But he was never truly alone. From the moment he went down, President Trump, the Secretary of Defense, the Chairman of the Joint Chiefs, and our warfighters were monitoring his exact location around the clock and planning his rescue.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2o8tf",
+          "text": "At President Trump’s direct order, the U.S. military launched dozens of aircraft loaded with the most lethal weapons in the world to bring him home. The mission was a complete success. The Colonel sustained some injuries, but he is safe, sound, and will be just fine. This rescue came right after another successful pilot rescue the day before, which the military kept quiet to protect the second operation. Two U.S. pilots rescued separately, deep inside enemy territory, with zero American deaths or even serious wounds. That is nothing short of miraculous.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4rkfn",
+          "text": "President Trump made it crystal clear: “WE WILL NEVER LEAVE AN AMERICAN WARFIGHTER BEHIND!” That promise isn’t just words. It’s a sacred commitment, and under his leadership, our military is proving they can deliver on it even in the most dangerous conditions. This operation shows the overwhelming air dominance and superiority we now hold over Iranian skies. Our pilots, special operators, and support crews executed flawlessly because President Trump rebuilt our military into the strongest, most professional, and most lethal force in the history of the world.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ce44",
+          "text": "Think about what these brave warriors faced. They flew into hostile territory knowing the enemy was actively hunting American personnel. They operated under extreme risk, yet they brought both pilots home safely. That level of skill, courage, and coordination doesn’t happen by accident. It happens when you have a Commander in Chief who prioritizes a strong military, gives clear direction, and backs our troops without hesitation. President Trump has done exactly that. He rebuilt our forces after years of neglect, restocked our munitions, modernized our equipment, and made sure our men and women in uniform have what they need to win.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8d6a",
+          "text": "This rescue is also a powerful message to every service member and their families: if you go down, America is coming to get you. No matter how deep behind enemy lines, no matter how difficult the terrain, we will move heaven and earth to bring you home. That promise matters. It gives our warfighters the confidence to fly dangerous missions knowing their country stands behind them one hundred percent.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60r8u",
+          "text": "The timing makes it even more special. This happened right around Easter, a time when we reflect on sacrifice, redemption, and hope. President Trump ended his message with “GOD BLESS AMERICA, GOD BLESS OUR TROOPS, AND HAPPY EASTER TO ALL!” Those aren’t empty words. They reflect the spirit of a nation that still believes in doing what is right and honoring the men and women who defend us.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9jpup",
+          "text": "While the fake news often focuses on every negative angle or tries to downplay our successes, this story is impossible to ignore. Two daring rescues in enemy territory with zero American casualties is a stunning achievement. It proves that after years of weakness and endless wars with no clear victories, America is back to projecting real strength and competence. Our military isn’t just powerful on paper; it’s effective where it counts.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8k0k2",
+          "text": "Average Americans who support President Trump feel enormous pride in moments like this. We see a president who doesn’t hesitate to use American power when necessary, but who also values every single life in uniform. We see a military that is once again feared and respected around the world. We see leadership that puts our troops first instead of treating them as political props or afterthoughts.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5m6i",
+          "text": "This rescue also sends a strong warning to our enemies. Iran and every other hostile regime now know that if they threaten American lives, we have the capability and the will to respond with overwhelming force and precision. We can reach deep into their territory, conduct complex operations, and leave without losing a single American. That kind of dominance deters future aggression and saves lives in the long run.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bs6r0",
+          "text": "President Trump has always said he would rebuild our military like never before, and he has delivered. These rescues are living proof. They remind us that when America is strong, our people are safer, our allies are more secure, and our enemies think twice before acting.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "alt76",
+          "text": "As we celebrate Easter and reflect on sacrifice and resurrection, let’s also celebrate the courage of our pilots and the skill of the teams that brought them home. Let’s thank God for their safe return and for the leadership that made it possible. President Trump promised to put America and our troops first, and he continues to keep that promise every single day.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fvcnd",
+          "text": "This is what winning looks like. This is what strength looks like. This is America at its best. God bless our troops, God bless President Trump, and God bless the United States of America.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4o0of",
+          "text": "Share your thoughts in the comment section.",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5gmvd",
+          "text": "Sources for X Article:",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 65,
+                "text": "https://truthsocial.com/@realDonaldTrump/posts/116350133044957842",
+                "toIndex": 130
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45jfe",
+          "text": "President Donald J. Trump's Truth Social post (original source): https://truthsocial.com/@realDonaldTrump/posts/116350133044957842",
+          "type": "ordered-list-item"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f6a8.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "5cb4115c-0159-4407-ab3d-6f35ae440346",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040646352036904960"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "Donald J. Trump Truth Social - April 5, 2026, 12:08 AM EST - Full Story & Video Below👇\n",
+              "entityKey": "3764e2e2-b18e-4db8-9700-596c6b8722a8",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040646406730547200"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "tweetId": "2040643187971432565"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFHVC51bQAAKAAIXaRQlYBuAAQAA",
+        "media_id": "2040646352036904960",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.4,
+                "rgb": {
+                  "blue": 247,
+                  "green": 247,
+                  "red": 247
+                }
+              },
+              {
+                "percentage": 0.37,
+                "rgb": {
+                  "blue": 152,
+                  "green": 144,
+                  "red": 145
+                }
+              },
+              {
+                "percentage": 0.11,
+                "rgb": {
+                  "blue": 112,
+                  "green": 121,
+                  "red": 209
+                }
+              }
+            ]
+          },
+          "original_img_height": 840,
+          "original_img_url": "https://pbs.twimg.com/media/HFHVC51bQAAdasB.jpg",
+          "original_img_width": 584
+        },
+        "media_key": "3_2040646352036904960"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFHVGFlaAAAKAAIXaRQlYBuAAQAA",
+        "media_id": "2040646406730547200",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.68,
+                "rgb": {
+                  "blue": 252,
+                  "green": 252,
+                  "red": 252
+                }
+              },
+              {
+                "percentage": 1.32,
+                "rgb": {
+                  "blue": 149,
+                  "green": 140,
+                  "red": 141
+                }
+              }
+            ]
+          },
+          "original_img_height": 173,
+          "original_img_url": "https://pbs.twimg.com/media/HFHVGFlaAAAgweu.jpg",
+          "original_img_width": 578
+        },
+        "media_key": "3_2040646406730547200"
+      }
+    ]
+  }
+}

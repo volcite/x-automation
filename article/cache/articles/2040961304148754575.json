@@ -1,0 +1,1369 @@
+{
+  "tweet_created_at": "2026-04-06T01:14:28.000000Z",
+  "id": 2040961304148754700,
+  "id_str": "2040961304148754575",
+  "type": "tweet",
+  "conversation_id_str": "2040961304148754575",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/ipaMP1kbuL",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1719007562916597800,
+    "id_str": "1719007562916597760",
+    "name": "TRAIN TV【公式】",
+    "screen_name": "traintv_pr",
+    "location": "JR東日本の主要10路線ほかの車内モニターで放映中",
+    "url": "https://ttv.jeki.co.jp/",
+    "description": "電車の中のテレビ局「#TRAINTV」の公式アカウント｜ ここでは最新の番組情報や出演者に関する情報などをお届けしています【見逃し配信・WEB限定コンテンツは公式 HPでご覧ください】",
+    "protected": false,
+    "verified": true,
+    "followers_count": 28899,
+    "friends_count": 126,
+    "listed_count": 37,
+    "favourites_count": 2,
+    "statuses_count": 2646,
+    "created_at": "2023-10-30T15:05:35.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1719007562916597760/1775437216",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2040957722846543872/VPPITkBS_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 11,
+  "reply_count": 0,
+  "retweet_count": 739,
+  "favorite_count": 3026,
+  "views_count": 81002,
+  "bookmark_count": 121,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039660833723301888",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/ipaMP1kbuL"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T01:14:28.000000Z",
+    "id": 2040961304148754700,
+    "id_str": "2040961304148754575",
+    "title": "髙地優吾主演ドラマが放映スタート、舘ひろしもインタビュー番組に登場！",
+    "preview_text": "髙地優吾さん（SixTONES）主演ドラマ『タビノオト ～鎌倉篇～』、風間俊介さん、永島優美さんMCの情報番組『GOODMOVE!』など、新番組の放映がスタート！\n舘ひろしさんが登場する『モノクローム インタビュー",
+    "cover_url": "https://pbs.twimg.com/media/HE5fgVNb0AAjYF7.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qp3v",
+          "text": "髙地優吾さん（SixTONES）主演ドラマ『タビノオト ～鎌倉篇～』、風間俊介さん、永島優美さんMCの情報番組『GOODMOVE!』など、新番組の放映がスタート！\n舘ひろしさんが登場する『モノクローム インタビュー　-Monochrome Interview-』も必見です。\n4月6日〜12日に電車内モニターで放映される番組はこの記事でチェック！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ac41b",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ej1n0",
+          "text": "■『タビノオト ～鎌倉篇～』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a0f0",
+          "text": "第一章 前篇",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f94ei",
+          "text": "※月〜水曜放映",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fger2",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7j2p4",
+          "text": "久志（髙地優吾）は、ふと思い立ち、鎌倉へひとり旅に出ることに。\n小町通りで道に迷っていた和子（山下容莉枝）に声をかけたことから、久志の旅は思いがけない出会いの連続となり――。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "59p32",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "97pb8",
+          "text": "■『タビノオト ～鎌倉篇～』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "emvhc",
+          "text": "第一章 後篇\n\n※木〜日曜放映",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "deffa",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g8ju",
+          "text": "小町通りで出会った和子（山下容莉枝）と食事をともにすることになった久志（髙地優吾）。\n会話の中で、和子は久志の心の迷いに気づく。\nそして語り始める、“人生で大切なこと”とは――。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cv2dt",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4n30t",
+          "text": "■『GOODMOVE!』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 64,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eio3u",
+          "text": "Wellbeing：「人間関係を深める会話術」\nGOOD PHRASE!：「葬送のフリーレン」\nGOODMOVE!Weather",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evclq",
+          "text": "※月〜水曜放映",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 1,
+              "style": "Bold"
+            }
+          ],
+          "key": "6djc4",
+          "text": "\nGo out：「渋谷スカイ」\nGOOD FRUIT!：「ハウスみかん」\nGOODMOVE!Weather\n※木〜日曜放映",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "38lt7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "93lu2",
+          "text": "MC風間俊介さん・永島優美さんによる、移動の瞬間に次の良い一手＝“GOOD MOVE” をお届けする、電車内限定の情報番組。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5v69",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "aj337",
+          "text": "■『モノクローム インタビュー -Monochrome Interview-』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cived",
+          "text": "舘ひろし 編",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7gvjk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "67o5f",
+          "text": "ここだけのエピソードが聞けるモノクロームの世界。今回は舘ひろしさんが登場。カードが導いたエピソードは？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "83c9a",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fdqli",
+          "text": "■『ズカンレーザー』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9hv37",
+          "text": "目でみるえいごのずかん編",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "45bqo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8fkj7",
+          "text": "無類の図鑑好きのカズレーザーさんが、図鑑を読み解く！\n今回読むのは「目でみるえいごのずかん」。\n英語で役立つ38の知識を写真で紹介。単語の微妙なニュアンスの違いなど、カズレーザーと一緒に、「見て」英語の理解を深めましょう！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aulu9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "520l3",
+          "text": "■『今日から定番。Go-Toレシピ』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4rqph",
+          "text": "春キャベツの豚肉巻き",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6505f",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1f85",
+          "text": "今週は野菜の料理家の西岡麻央先生の「春キャベツの豚肉巻き」をご紹介。\n春キャベツならではの甘みと、甘辛なしょうが味がよく合う一品です！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "etqp1",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "984p",
+          "text": "■『Sanrio kawaii train』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "35r1u",
+          "text": "Sanrio kawaii train #14",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "72g04",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5lmih",
+          "text": "サンリオキャラクターズからエール！\n1日に3エピソード放映。以下のキャラクターが登場します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31bil",
+          "text": "ポムポムプリン、まるもふびより、ぼんぼんりぼん、ハミングミント、ザ ボードビルデュオ",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c7u7k",
+          "text": "シナモロール、コロコロクリリン、ニャニィニュニェニョン、ビートキャッツ、ウメ屋雑貨店",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2593",
+          "text": "ポチャッコ、KIRIMIちゃん.、ジュエルペット、いちごの王さま、てのりくま",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ct9oq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7nifv",
+          "text": "■『シェフの顔』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "an3jd",
+          "text": "日本のお酒と馬肉料理 うまえびす 井上学シェフ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3c1rd",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8c7h9",
+          "text": "今週ご紹介するシェフは、日本のお酒と馬肉料理 うまえびす 井上学シェフ。シェフのこだわりや想いをお届けします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bmbv",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6m23p",
+          "text": "■『Qoo10 CHANNEL お買い物と、あそぼう。』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1k5ji",
+          "text": "新生活は、肌から整える！ライブで探す、MY定番ケア！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d953s",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9pfjs",
+          "text": "☆新生活のケアは、ライブショッピングで“MY定番”を見つけたい♡\n☆新生活のスキンケアは、ライブで気軽に試しながら選びたい♡",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d74s8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1h1bd",
+          "text": "「TRAIN TV」は、JR東日本の首都圏主要10路線ほかの車内モニターで放映中です！",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 24,
+                "text": "traintv_pr",
+                "toIndex": 35
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8qg2o",
+          "text": "各番組の詳細は「TRAIN TV公式アカウント(@traintv_pr )のプロフィールにあるリンクからご確認ください。",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cefa2",
+          "text": "TRAIN TV公式サイトでは前週の見逃し配信も視聴可能なので、あわせてお楽しみください。",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "546l8",
+          "text": "※一部放映されない編成・見逃し配信がない番組もございます。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "ecef190f-c2a2-4cc4-9253-dcd0debf3105",
+              "mediaItems": [
+                {
+                  "localMediaId": "17",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039679430067650561"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "4f71d8ae-6686-42d2-b404-ec5164651001",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039676297950248960"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "0da1f6f8-0643-40be-8a21-9a4fa1d9a4d8",
+              "mediaItems": [
+                {
+                  "localMediaId": "19",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039680002250436608"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "cf6df381-bd8a-45c1-a337-8f6c4d329400",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039677042439122944"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "c525776c-8ae5-44d6-a485-a13b039117cf",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041731886343700480"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "1db9ea64-7100-4a45-8407-edda688c0f46",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039671307827400704"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "95ae73a4-a62d-4c2a-819a-f1289f19fc74"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "de105d34-9f6e-4ac2-8042-1b6959ad56e4",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039674385255354368"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "5ff922a9-1c76-4b54-898a-4b31a341d619",
+              "mediaItems": [
+                {
+                  "localMediaId": "15",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039678543731568640"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "7ad036ce-2184-44c3-84f4-c6c004fca9e5",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039675098928672768"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5jdqMacAAKAAIX2yRFUdqQAAAA",
+        "media_id": "2039677042439122944",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 30.97,
+                "rgb": {
+                  "blue": 7,
+                  "green": 24,
+                  "red": 41
+                }
+              },
+              {
+                "percentage": 17.77,
+                "rgb": {
+                  "blue": 219,
+                  "green": 226,
+                  "red": 231
+                }
+              },
+              {
+                "percentage": 14.59,
+                "rgb": {
+                  "blue": 30,
+                  "green": 54,
+                  "red": 86
+                }
+              },
+              {
+                "percentage": 5.71,
+                "rgb": {
+                  "blue": 18,
+                  "green": 17,
+                  "red": 231
+                }
+              },
+              {
+                "percentage": 3.12,
+                "rgb": {
+                  "blue": 50,
+                  "green": 23,
+                  "red": 216
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HE5jdqMacAA2n47.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2039677042439122944"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5k1C8bMAAKAAIX2yRFUdqQAAAA",
+        "media_id": "2039678543731568640",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 57.17,
+                "rgb": {
+                  "blue": 240,
+                  "green": 251,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 9.07,
+                "rgb": {
+                  "blue": 231,
+                  "green": 208,
+                  "red": 180
+                }
+              },
+              {
+                "percentage": 8.51,
+                "rgb": {
+                  "blue": 155,
+                  "green": 243,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 6.69,
+                "rgb": {
+                  "blue": 197,
+                  "green": 185,
+                  "red": 244
+                }
+              },
+              {
+                "percentage": 3.49,
+                "rgb": {
+                  "blue": 223,
+                  "green": 229,
+                  "red": 197
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HE5k1C8bMAAy5hj.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2039678543731568640"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5hC/ab0AAKAAIX2yRFUdqQAAAA",
+        "media_id": "2039674385255354368",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 39.44,
+                "rgb": {
+                  "blue": 44,
+                  "green": 55,
+                  "red": 50
+                }
+              },
+              {
+                "percentage": 36.81,
+                "rgb": {
+                  "blue": 101,
+                  "green": 120,
+                  "red": 126
+                }
+              },
+              {
+                "percentage": 8.75,
+                "rgb": {
+                  "blue": 40,
+                  "green": 29,
+                  "red": 135
+                }
+              },
+              {
+                "percentage": 4.87,
+                "rgb": {
+                  "blue": 46,
+                  "green": 70,
+                  "red": 96
+                }
+              },
+              {
+                "percentage": 4.23,
+                "rgb": {
+                  "blue": 154,
+                  "green": 157,
+                  "red": 139
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HE5hC_ab0AAJZq5.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2039674385255354368"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5loozagAEKAAIX2yRFUdqQAAAA",
+        "media_id": "2039679430067650561",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 69.9,
+                "rgb": {
+                  "blue": 42,
+                  "green": 36,
+                  "red": 32
+                }
+              },
+              {
+                "percentage": 10.63,
+                "rgb": {
+                  "blue": 44,
+                  "green": 74,
+                  "red": 126
+                }
+              },
+              {
+                "percentage": 2.79,
+                "rgb": {
+                  "blue": 122,
+                  "green": 165,
+                  "red": 170
+                }
+              },
+              {
+                "percentage": 2.52,
+                "rgb": {
+                  "blue": 45,
+                  "green": 66,
+                  "red": 76
+                }
+              },
+              {
+                "percentage": 2.38,
+                "rgb": {
+                  "blue": 68,
+                  "green": 43,
+                  "red": 36
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HE5loozagAEvYt_.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2039679430067650561"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5eP3Gb0AAKAAIX2yRFUdqQAAAA",
+        "media_id": "2039671307827400704",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 36.17,
+                "rgb": {
+                  "blue": 66,
+                  "green": 59,
+                  "red": 13
+                }
+              },
+              {
+                "percentage": 35.71,
+                "rgb": {
+                  "blue": 183,
+                  "green": 178,
+                  "red": 154
+                }
+              },
+              {
+                "percentage": 12.33,
+                "rgb": {
+                  "blue": 133,
+                  "green": 132,
+                  "red": 96
+                }
+              },
+              {
+                "percentage": 2.78,
+                "rgb": {
+                  "blue": 149,
+                  "green": 151,
+                  "red": 61
+                }
+              },
+              {
+                "percentage": 1.19,
+                "rgb": {
+                  "blue": 74,
+                  "green": 139,
+                  "red": 130
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HE5eP3Gb0AA_X_K.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2039671307827400704"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5hsiDacAAKAAIX2yRFUdqQAAAA",
+        "media_id": "2039675098928672768",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 47.41,
+                "rgb": {
+                  "blue": 192,
+                  "green": 214,
+                  "red": 225
+                }
+              },
+              {
+                "percentage": 24.71,
+                "rgb": {
+                  "blue": 55,
+                  "green": 98,
+                  "red": 85
+                }
+              },
+              {
+                "percentage": 9.15,
+                "rgb": {
+                  "blue": 66,
+                  "green": 59,
+                  "red": 55
+                }
+              },
+              {
+                "percentage": 6.45,
+                "rgb": {
+                  "blue": 112,
+                  "green": 159,
+                  "red": 207
+                }
+              },
+              {
+                "percentage": 3.2,
+                "rgb": {
+                  "blue": 40,
+                  "green": 116,
+                  "red": 94
+                }
+              }
+            ]
+          },
+          "original_img_height": 720,
+          "original_img_url": "https://pbs.twimg.com/media/HE5hsiDacAAkE__.jpg",
+          "original_img_width": 1280
+        },
+        "media_key": "3_2039675098928672768"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5mJ8Wa8AAKAAIX2yRFUdqQAAAA",
+        "media_id": "2039680002250436608",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 93.19,
+                "rgb": {
+                  "blue": 254,
+                  "green": 221,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 3.82,
+                "rgb": {
+                  "blue": 242,
+                  "green": 137,
+                  "red": 193
+                }
+              },
+              {
+                "percentage": 1.36,
+                "rgb": {
+                  "blue": 182,
+                  "green": 143,
+                  "red": 237
+                }
+              },
+              {
+                "percentage": 0.42,
+                "rgb": {
+                  "blue": 205,
+                  "green": 135,
+                  "red": 227
+                }
+              },
+              {
+                "percentage": 0.38,
+                "rgb": {
+                  "blue": 240,
+                  "green": 101,
+                  "red": 167
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HE5mJ8Wa8AAQ5r4.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2039680002250436608"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5iyUwbwAAKAAIX2yRFUdqQAAAA",
+        "media_id": "2039676297950248960",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 89.13,
+                "rgb": {
+                  "blue": 12,
+                  "green": 12,
+                  "red": 12
+                }
+              },
+              {
+                "percentage": 6.23,
+                "rgb": {
+                  "blue": 115,
+                  "green": 115,
+                  "red": 115
+                }
+              },
+              {
+                "percentage": 5.96,
+                "rgb": {
+                  "blue": 236,
+                  "green": 236,
+                  "red": 236
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HE5iyUwbwAAHXrn.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2039676297950248960"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFWwVUQawAAKAAIX2yRFUdqQAAAA",
+        "media_id": "2041731886343700480",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 55.22,
+                "rgb": {
+                  "blue": 210,
+                  "green": 195,
+                  "red": 199
+                }
+              },
+              {
+                "percentage": 19.04,
+                "rgb": {
+                  "blue": 155,
+                  "green": 189,
+                  "red": 229
+                }
+              },
+              {
+                "percentage": 10.68,
+                "rgb": {
+                  "blue": 137,
+                  "green": 130,
+                  "red": 134
+                }
+              },
+              {
+                "percentage": 6.02,
+                "rgb": {
+                  "blue": 86,
+                  "green": 176,
+                  "red": 185
+                }
+              },
+              {
+                "percentage": 5.86,
+                "rgb": {
+                  "blue": 53,
+                  "green": 90,
+                  "red": 146
+                }
+              }
+            ]
+          },
+          "original_img_height": 608,
+          "original_img_url": "https://pbs.twimg.com/media/HFWwVUQawAA1xIx.jpg",
+          "original_img_width": 1080
+        },
+        "media_key": "3_2041731886343700480"
+      }
+    ]
+  }
+}

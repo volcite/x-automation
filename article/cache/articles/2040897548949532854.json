@@ -1,0 +1,578 @@
+{
+  "tweet_created_at": "2026-04-05T21:01:08.000000Z",
+  "id": 2040897548949533000,
+  "id_str": "2040897548949532854",
+  "type": "tweet",
+  "conversation_id_str": "2040897548949532854",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/6DRvc2sqHB",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 110418064,
+    "id_str": "110418064",
+    "name": "Aki",
+    "screen_name": "mikorino",
+    "location": "",
+    "url": "https://amzn.to/42VXCR7",
+    "description": "「ファン化」と「コミュニティ」の専門家｜言葉と場づくりで、無理なく人が集まる仕組みをつくる｜株式会社DIL｜独学でTOEIC満点、英検1級、英語三冠｜著書『英語で人生が変わる独学術』｜記事も書いてます↓",
+    "protected": false,
+    "verified": true,
+    "followers_count": 64540,
+    "friends_count": 185,
+    "listed_count": 526,
+    "favourites_count": 366437,
+    "statuses_count": 212952,
+    "created_at": "2010-02-01T13:36:29.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/110418064/1659654971",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1812552456796033024/vok7ODh8_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 128,
+  "reply_count": 36,
+  "retweet_count": 192,
+  "favorite_count": 1610,
+  "views_count": 463547,
+  "bookmark_count": 1376,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040759683670249472",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/6DRvc2sqHB"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T21:01:08.000000Z",
+    "id": 2040897548949533000,
+    "id_str": "2040897548949532854",
+    "title": "なぜ身近な人には”塩対応”になるのか？",
+    "preview_text": "なぜ、家族や仲のいい友人など、身近な人には”塩対応”してしまうのか？表面だけみると「甘えや心を許しているから」みたいな言い方になるけど、実はそうじゃない。人は相手との関係が親密になるほど",
+    "cover_url": "https://pbs.twimg.com/media/HFK5L7LakAAj7NX.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6a2d",
+          "text": "なぜ、家族や仲のいい友人など、身近な人には”塩対応”してしまうのか？表面だけみると「甘えや心を許しているから」みたいな言い方になるけど、実はそうじゃない。人は相手との関係が親密になるほど",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "i5dv",
+          "text": "その人を「他人」ではなく「自分の一部」だと錯覚し始める",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5t4d",
+          "text": "らしい。ぎょえぇ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8e49",
+          "text": "「あれどうなった？」「なんでまだやってないの？」「うん」「へえ」だけの気だるい生返事。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjcmg",
+          "text": "家族、恋人、気心の知れた親友。職場の上司や初対面の人には絶対にしないような”雑なコミュニケーション”。これを自分が無意識に投げてしまうこともあれば、逆にぶつけられてカチンとくることもある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ldpt",
+          "text": "外の世界ではお互いに気遣いも完璧な「いい人」なのに、いちばん身近な相手にだけ発動してしまうこの塩対応の理由は、そこにあった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "14a5f",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ckidb",
+          "text": "━━━━━━━━━━ ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9peb1",
+          "text": "相手を「自分の一部」と錯覚する",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "196df",
+          "text": "━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ee9vg",
+          "text": "近くにいる人との間で起きてしまうこの雑なやり取り。よく",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3cr6l",
+          "text": "「気を許して甘えてるだけだよ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96nq8",
+          "text": "「外で気ぃ遣って疲れてるんだからしょーがないよ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2dlld",
+          "text": "なんて美化されるけど、それはほんの一部の短絡的な見方であって。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "34js3",
+          "text": "心理学的に言うと「自己拡大モデル」という、人間のちょっとエグい”脳のバグ”だったりする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mvsa",
+          "text": "関係が近くなればなるほど自分と相手」の境界線が溶けて、脳が相手のことを「独立した他人」ではなく「自分の一部（拡張した自我）」として処理し始める。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jt3a",
+          "text": "どういうことかというと…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvtct",
+          "text": "たとえば喉が渇いたとき、脳は自分の「右手」に向かって「あの…すみませんが、お茶を取っていただけませんか？」なんて丁寧なお願いは絶対にしない。「お茶、取る」という信号をただ無意識に送るだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9u89r",
+          "text": "↑信号であって、明確に言語化されない状態。される必要がない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8qhr2",
+          "text": "で、身近な相手に「お茶」「あれ取って」と、単語だけで雑に要求してしまうのも、これと全く同じ原理。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1adn0",
+          "text": "決して相手を見下しているわけじゃない。ただ、脳が相手のことを「自分の右手」と完全に同じカテゴリーにブチ込んでしまっているだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fpons",
+          "text": "相手を自分の一部だと思っているからこそ、気遣いや遠慮というクッションを挟まずに、土足でどかどか内側に踏み込むような態度を出してしまう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3d8c0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84eeo",
+          "text": "━━━━━━━━━━ ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "chqi9",
+          "text": "投げた”毒”は返ってくる",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ek6m9",
+          "text": "━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7opkg",
+          "text": "「一番大切にすべき人＝一番気を使わなくていい自分自身」だと脳が錯覚している状態。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9j2db",
+          "text": "ロジックとしてはその通りなんだけど、だからといって「バグだから仕方ないよね」と開き直って身近な人に雑な言葉を投げ続けていると、痛い目にあう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "db0mm",
+          "text": "なぜなら",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3oidu",
+          "text": "潜在意識は「他人」と「自分」の区別がつかないから。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cs6fb",
+          "text": "脳の仕組みとして、潜在意識は言葉の「主語」を認識できない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjqni",
+          "text": "だから「（お前は）バカ」「（なんであなたは）ダメなの」と身近な人に毒を吐くとき、自分の脳はそれをすべて自分自身への悪罵としてそのままそっくり受信していることになる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ro84",
+          "text": "↑これは口に出すだけじゃなく、内心で思うことも同じ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "39ia9",
+          "text": "「なんだよあいつふざけんなよいい加減にしろ。マウントばっか取りやがって」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3egp1",
+          "text": "→”自分”は「いい加減にしろと言いたくなるほどマウント取りです」と植え付けてるのと同じ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2hhqg",
+          "text": "完全な「自傷行為」なのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "514tq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7f6r7",
+          "text": "━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dh8rf",
+          "text": "愛や配慮ではなく「自衛」",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8m4ts",
+          "text": "━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9oqhq",
+          "text": "無意識に放たれる雑な言葉は、お互いの脳をゴリゴリと削っていく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4uf1",
+          "text": "だから、もし家族やパートナーから「あれ取って」と雑にぶつけられてカチンときたときは、「私を軽んじてる！」と真正面から受け止める必要はない。「あ、いま相手の中で境界線が溶けちゃってるな」と、俯瞰して受け流してしまえばいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9jliq",
+          "text": "問題は、自分自身が放つ言葉のほう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2k21s",
+          "text": "潜在意識は自分が口に出したすべての言葉も、耳から入った言葉も、心の中で思ったこともすべて「自分に向けられたもの」として、勘違いじゃなく正確に認識する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cs1kl",
+          "text": "言葉には力がある。紙に書くと実現する。のようなことがまことしやかに言われるのは、胡散臭いスピでもおまじないでもなんでもなく、潜在意識の観点から説明がつく話なのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnhhr",
+          "text": "だから身近な人にこそ、ほんの少し言葉の手間をかける。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2ner",
+          "text": "「やってくれてありがとう」「ごめん、これお願いしてもいい？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cu7uh",
+          "text": "この一言は、決して相手への無償の愛や道徳的な配慮なんかじゃない。ぜんぶ、他ならぬ自分自身に愛と誠意を向けているのと同じなのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "et1gm",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddr66",
+          "text": "そう思うと、人を大事にすることは自分を愛することと同義。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f0pjh",
+          "text": "うーん、Win-Winじゃないか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "edso8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8q1n8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cob5i",
+          "text": "日常の違和感や、人間関係の正体について言語化しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "atilo",
+          "text": "「あ、今の自分にあてはまるかも...」と思った方は、ぜひフォローして過去の投稿も覗いてみてください（いいねやRPも励みになります！）。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://x.com/mikorino",
+                "toIndex": 22
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 22,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "mp7v",
+          "text": "https://x.com/mikorino",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://x.com/mikorino"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

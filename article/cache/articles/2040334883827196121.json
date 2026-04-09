@@ -1,0 +1,1195 @@
+{
+  "tweet_created_at": "2026-04-04T07:45:18.000000Z",
+  "id": 2040334883827196200,
+  "id_str": "2040334883827196121",
+  "type": "tweet",
+  "conversation_id_str": "2040334883827196121",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/uRx3CZT6lV",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1374280959785234400,
+    "id_str": "1374280959785234432",
+    "name": "ZUME",
+    "screen_name": "agobeautiful",
+    "location": "酒",
+    "url": "https://zuuuuu.booth.pm/",
+    "description": "改変ℒℴѵℯ",
+    "protected": false,
+    "verified": true,
+    "followers_count": 2877,
+    "friends_count": 2267,
+    "listed_count": 16,
+    "favourites_count": 26107,
+    "statuses_count": 10033,
+    "created_at": "2021-03-23T08:45:00.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374280959785234432/1763162975",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1917160553493258240/0td6KGQP_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 1,
+  "reply_count": 0,
+  "retweet_count": 115,
+  "favorite_count": 1253,
+  "views_count": 105859,
+  "bookmark_count": 1310,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040325942741262336",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/uRx3CZT6lV"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T07:45:18.000000Z",
+    "id": 2040334883827196200,
+    "id_str": "2040334883827196121",
+    "title": "VRChatアバター改変の流れメモ",
+    "preview_text": "最近よく聞かれるので、誰かの改変ライフの一助＆自分の振り返りとして自分の全体の改変手順を残しておきます。\nあくまで自分のやり方なので、正解というわけではありませんが、何か参考になれば嬉しいです。",
+    "cover_url": "https://pbs.twimg.com/media/HFC07qPa8AAX1eG.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g224",
+          "text": "最近よく聞かれるので、誰かの改変ライフの一助＆自分の振り返りとして自分の全体の改変手順を残しておきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8duud",
+          "text": "あくまで自分のやり方なので、正解というわけではありませんが、何か参考になれば嬉しいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ef9ah",
+          "text": "だいたいこういう手順かな～と書いているだけなので、納得いかなかったらあっちゃこっちゃ手を付けたりしてます、あくまで参考でお願いします・・・！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7i4li",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eb4i6",
+          "text": "① 全体像を決める",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "csqsp",
+          "text": "まずは全体のコンセプトを決めます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c0m7h",
+          "text": "普段から改変やイラストの画像を集めておいて、その中から「どんなものを作りたいか」を固めていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8oipv",
+          "text": "イメージは1つでもいいですが、2つくらいの要素を混ぜるとオリジナリティが出やすいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7et8",
+          "text": "難しいときは、1枚のイラストをかなりそのまま参考にすることもあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dh660",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "789cq",
+          "text": "② シルエットを決める",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f426l",
+          "text": "次にシルエットを決めます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4a8t6",
+          "text": "逆三角形なのか、普通の三角形なのか、縦長なのか横に広いのか、まずは全体の形を考えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "2jg62",
+          "text": "自分の場合は、人間のシルエットから大きく崩す要素を1つ足すことが多いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "67oel",
+          "text": "例えば",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6idko",
+          "text": "・大きい角",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5j9vi",
+          "text": "・大きいヘイロー",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ia7",
+          "text": "・大きい耳",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f74g9",
+          "text": "・大きいしっぽ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fe08a",
+          "text": "こういう「シルエットに影響するパーツ」を1つ入れるだけで、一気にそれっぽくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c0obj",
+          "text": "もう何もわからん、とりあえず改変しよう！って始めるときもあります、改変たのしいもんね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esn3a",
+          "text": "そういうときは最後に、だぼっとしたジャケットやコートを着せてシルエットを整えることが多いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c707",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6v853",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "buuu5",
+          "text": "③ 見せたい場所を決める",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cl67s",
+          "text": "次にどこを一番見てほしいかを決めます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eb05i",
+          "text": "・デコルテ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8s45",
+          "text": "・お腹",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eq576",
+          "text": "・目",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6afq",
+          "text": "・角",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9tsb",
+          "text": "など、このアバターのここが好きなんだよな〜というポイントを決めます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "16ejd",
+          "text": "自分の場合は、写真を撮るときにキメになる場所から逆算して改変しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2n2hj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7el8",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "71pbj",
+          "text": "④ 顔を作る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4k4jj",
+          "text": "ここは一番個性が出るところなので、各々が癖をつめ込んでください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e0jrp",
+          "text": "顔でキャラの性格や雰囲気がかなり決まるので、一番時間かける部分ですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6em3i",
+          "text": "自分は、デフォルトでちょっとむっとしている顔を作るのが好きです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9i6su",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b6vrp",
+          "text": "⑤ メインの色を決める",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "860ai",
+          "text": "色は基本的に視線誘導を意識します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjv02",
+          "text": "・見せたい場所 → 明るい色",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0bu4",
+          "text": "・見せなくていい場所 → 暗い色",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fr4eq",
+          "text": "とかにすると整いやすいです",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7in7h",
+          "text": "例えば",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bofun",
+          "text": "・上半身を明るく、下半身を暗く → バストアップが映える",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgaqd",
+          "text": "・肌以外を暗め → 肌が目立つ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bp8j7",
+          "text": "という感じで、見てほしい場所に自然と目が行くように色を配置します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dsns",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b0jn2",
+          "text": "⑥ 差し色を決める",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bokug",
+          "text": "次に差し色を入れます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9aph",
+          "text": "顔を見た後に体のラインも見てほしいので、差し色を上から下まで点在させるようにします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50sfd",
+          "text": "例えば全体が黒と白ベースなら、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8uj58",
+          "text": "・髪飾り",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "994r5",
+          "text": "・目元",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8cts",
+          "text": "・爪",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ev2pn",
+          "text": "・デコルテ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhaim",
+          "text": "・ベルト",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b558e",
+          "text": "・靴",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6qns1",
+          "text": "に差し色を入れていくと、目が差し色を追って全身を見るようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "adsu1",
+          "text": "特に見てほしい場所には差し色を多めに置くと、視線がそこに長くとどまります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5k8en",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5c4jt",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bkt2r",
+          "text": "⑦ ディテールを詰める",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jark",
+          "text": "次にディテールを詰めます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3es84",
+          "text": "・メイクを細かくする",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nmm3",
+          "text": "・ワンポイントアクセを入れる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9962i",
+          "text": "・模様やテクスチャを追加する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bp77a",
+          "text": "このあたりはかなり好みの世界なので、いい感じになるまでやるが正解な気がします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dfu2d",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ecmmn",
+          "text": "⑧ 影・マットキャップ・反射・逆光調整",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evjtb",
+          "text": "ここは全体の統一感を作る工程で、一気に完成度が上がります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31dr2",
+          "text": "影は真っ黒にするより、少し青寄りの黒にすると空気感が出るので好きです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "caidk",
+          "text": "影色の決め方に関しては、僕よりもイラストの影の色に関するものをググった方がわかりやすくいいものが多いので割愛します。\n僕がよくするのは髪の影色を服とかすべてに移植して、そのあと範囲をちょこちょこ変えて整えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4e9it",
+          "text": "色のバランスで全体的にぼけてるな～と思った際に、リムシャドーや輪郭線いじるのもこのあたり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3pvl7",
+          "text": "色が統一されると、全体が一気にまとまります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1i0nk",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1mhuq",
+          "text": "⑨ 表情を作る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fi4pj",
+          "text": "写真では使わないことも多いので優先度は低めですが、デフォルトの顔と表情のギャップがあるとキャラ性が出て良い感じになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bq9rd",
+          "text": "ここも癖を詰め込むんだ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "38ufg",
+          "text": "⑩ バックボーンを考える",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3r9rh",
+          "text": "綺麗に整いすぎてるな、と思ったらアバターの生活考えて要素を付け足します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9qo6",
+          "text": "刺青、怪我、絆創膏、キスマーク、欠損とかはこの辺にあたるのかなぁと思ってます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "9c3dt",
+          "text": "僕は良く「花山薫が入れ墨に刀傷入れのと同じ」と言ったりしてます、わかってくれ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9k0rl",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5mtaa",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bm37l",
+          "text": "最後に",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g7i1",
+          "text": "自分の思想として、改変は正解があるものではないのですが、自分の見た目がいいとVRCライフも自尊心が高く過ごせるのでアバター改変を頑張ることは自分自身のために良いと思っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6mgb",
+          "text": "誰かの生活が豊かになるために、何かの参考になれば幸いです。\n\n\n\n改変ℒℴѵℯ…",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "②で書いてることを手癖で全部やったラプ",
+              "entityKey": "22a10ff0-cae3-49de-9fb3-a34d46f07c64",
+              "mediaItems": [
+                {
+                  "localMediaId": "13",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040331377716109312"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "リーゼントは横顔がきれいに出るから好き",
+              "entityKey": "3b8f97e8-714f-4977-a3a8-dc0aea5bde87",
+              "mediaItems": [
+                {
+                  "localMediaId": "19",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040332171681071105"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "顔周りを長く見てほしいので目元の赤を強めに入れて、長い赤いネクタイを垂らしたりしています。",
+              "entityKey": "c28bc50b-1d5d-4d67-b0b6-29b0200fde9f",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040330785224581120"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "caption": "サイバーパンク改変してる最中によくわかんなくなって、サイバーパンク2077をやりまくった結果、キャラバックボーンで入れ墨入れたらまとまった改変",
+              "entityKey": "1dcf74b1-4f88-4acf-bb69-6009fca3174c",
+              "mediaItems": [
+                {
+                  "localMediaId": "25",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040333285755428864"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFC2k/DaIAAKAAITEm1AbZTwAAAA",
+        "media_id": "2040331377716109312",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 71.46,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 21.38,
+                "rgb": {
+                  "blue": 56,
+                  "green": 55,
+                  "red": 55
+                }
+              },
+              {
+                "percentage": 2.06,
+                "rgb": {
+                  "blue": 222,
+                  "green": 218,
+                  "red": 146
+                }
+              },
+              {
+                "percentage": 0.43,
+                "rgb": {
+                  "blue": 142,
+                  "green": 142,
+                  "red": 95
+                }
+              },
+              {
+                "percentage": 0.26,
+                "rgb": {
+                  "blue": 200,
+                  "green": 168,
+                  "red": 201
+                }
+              }
+            ]
+          },
+          "original_img_height": 3840,
+          "original_img_url": "https://pbs.twimg.com/media/HFC2k_DaIAA5JX-.jpg",
+          "original_img_width": 2160
+        },
+        "media_key": "3_2040331377716109312"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFC3TMzaAAEKAAITEm1AbZTwAAAA",
+        "media_id": "2040332171681071105",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 51.96,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 9.36,
+                "rgb": {
+                  "blue": 86,
+                  "green": 70,
+                  "red": 230
+                }
+              },
+              {
+                "percentage": 8.07,
+                "rgb": {
+                  "blue": 44,
+                  "green": 40,
+                  "red": 46
+                }
+              },
+              {
+                "percentage": 7.84,
+                "rgb": {
+                  "blue": 81,
+                  "green": 50,
+                  "red": 148
+                }
+              },
+              {
+                "percentage": 6.02,
+                "rgb": {
+                  "blue": 223,
+                  "green": 171,
+                  "red": 160
+                }
+              }
+            ]
+          },
+          "original_img_height": 458,
+          "original_img_url": "https://pbs.twimg.com/media/HFC3TMzaAAE1SQ4.jpg",
+          "original_img_width": 458
+        },
+        "media_key": "3_2040332171681071105"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFC2Cf2a4AAKAAITEm1AbZTwAAAA",
+        "media_id": "2040330785224581120",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 75.2,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 16.09,
+                "rgb": {
+                  "blue": 48,
+                  "green": 44,
+                  "red": 43
+                }
+              },
+              {
+                "percentage": 4.3,
+                "rgb": {
+                  "blue": 101,
+                  "green": 94,
+                  "red": 141
+                }
+              },
+              {
+                "percentage": 1.02,
+                "rgb": {
+                  "blue": 178,
+                  "green": 143,
+                  "red": 140
+                }
+              },
+              {
+                "percentage": 0.27,
+                "rgb": {
+                  "blue": 203,
+                  "green": 160,
+                  "red": 144
+                }
+              }
+            ]
+          },
+          "original_img_height": 675,
+          "original_img_url": "https://pbs.twimg.com/media/HFC2Cf2a4AAUB3a.jpg",
+          "original_img_width": 675
+        },
+        "media_key": "3_2040330785224581120"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFC4UDDboAAKAAITEm1AbZTwAAAA",
+        "media_id": "2040333285755428864",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 64.43,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 16.92,
+                "rgb": {
+                  "blue": 46,
+                  "green": 39,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 10.83,
+                "rgb": {
+                  "blue": 130,
+                  "green": 123,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 5.79,
+                "rgb": {
+                  "blue": 124,
+                  "green": 120,
+                  "red": 139
+                }
+              },
+              {
+                "percentage": 0.79,
+                "rgb": {
+                  "blue": 77,
+                  "green": 52,
+                  "red": 46
+                }
+              }
+            ]
+          },
+          "original_img_height": 1920,
+          "original_img_url": "https://pbs.twimg.com/media/HFC4UDDboAAKvae.jpg",
+          "original_img_width": 1080
+        },
+        "media_key": "3_2040333285755428864"
+      }
+    ]
+  }
+}

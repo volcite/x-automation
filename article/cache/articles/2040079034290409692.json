@@ -1,0 +1,325 @@
+{
+  "tweet_created_at": "2026-04-03T14:48:39.000000Z",
+  "id": 2040079034290409700,
+  "id_str": "2040079034290409692",
+  "type": "tweet",
+  "conversation_id_str": "2040079034290409692",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/CCSaYHQJ2O",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1863959670169501700,
+    "id_str": "1863959670169501696",
+    "name": "Kimi.ai",
+    "screen_name": "Kimi_Moonshot",
+    "location": "",
+    "url": "https://www.kimi.com/",
+    "description": "Built by Moonshot AI to empower everyone to be superhuman. ⚡️API: https://t.co/mzWxjgGO1h\n@KimiProduct where we share cool use cases and prompts.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 145158,
+    "friends_count": 133,
+    "listed_count": 1415,
+    "favourites_count": 258,
+    "statuses_count": 307,
+    "created_at": "2024-12-03T14:54:14.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863959670169501696/1733238156",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
+    "can_dm": false,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 14,
+  "reply_count": 26,
+  "retweet_count": 73,
+  "favorite_count": 1087,
+  "views_count": 116113,
+  "bookmark_count": 674,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2006…",
+        "expanded_url": "http://x.com/i/article/2006280855556341760",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/CCSaYHQJ2O"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T14:48:39.000000Z",
+    "id": 2040079034290409700,
+    "id_str": "2040079034290409692",
+    "title": "Kimi \"Interstellar Program\": Build AGI with Us",
+    "preview_text": "Kimi was founded three years ago to push AGI forward. Last year, we released an open-source trillion-parameter agentic model, extending AI capabilities from conversation to action.\n \nToday, we're a",
+    "cover_url": "https://pbs.twimg.com/media/HE_MslaaEAAdQTH.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "826r",
+          "text": "Kimi was founded three years ago to push AGI forward. Last year, we released an open-source trillion-parameter agentic model, extending AI capabilities from conversation to action.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "63gui",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ctgs",
+          "text": "Today, we're a team of 300 exceptional people working closely together to scale toward AGI. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7maan",
+          "text": "We need more builders to join us and accelerate this work.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eutol",
+          "text": "Who We're Looking For:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgnfo",
+          "text": "Researchers, engineers, founders, product developers, if you're among the best in your field, we want you.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fnjom",
+          "text": "Here, there are no limits on compute, scope, or approach. You'll work hands-on with other builders to create our most capable models.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bh3b0",
+          "text": "Scale the Journey with Kimi:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89bul",
+          "text": "Whether you're already with us or about to join, you can earn a full-time offer through the Interstellar Program. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dimnd",
+          "text": "Spend 3–6 months here, show us what you can do, pass the review, and we'll extend a formal offer. Your graduation year doesn't matter, your impact does.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8rtvr",
+          "text": "Your options will be granted at the 2026 valuation when you begin your internship, with vesting starting immediately. When you officially join full-time after graduation, the value of your equity will grow alongside the progress we create.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "39fvo",
+          "text": "Today, we invite you to join Kimi in pushing forward on AGI, and  grow through the journey together.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5gl8v",
+          "text": "How to Apply:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 18,
+              "offset": 6
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7qc9n",
+          "text": "Email talent@moonshot.ai with subject: [Interstellar Program] + Name + Position",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2l9r4",
+          "text": "Ask a Kimi employee for a referral",
+          "type": "unordered-list-item"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "Kimi K2.5",
+              "entityKey": "9deb1157-a826-43eb-8718-ce4b2bcc5b2d",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040074967950467072"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "mailto:talent@moonshot.ai"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/NX+PaoAAKAAIZ3h1xwBuAAAAA",
+        "media_id": "2040074967950467072",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 75.69,
+                "rgb": {
+                  "blue": 1,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 15.54,
+                "rgb": {
+                  "blue": 202,
+                  "green": 202,
+                  "red": 202
+                }
+              },
+              {
+                "percentage": 4.11,
+                "rgb": {
+                  "blue": 242,
+                  "green": 118,
+                  "red": 52
+                }
+              },
+              {
+                "percentage": 2.59,
+                "rgb": {
+                  "blue": 92,
+                  "green": 48,
+                  "red": 26
+                }
+              },
+              {
+                "percentage": 0.16,
+                "rgb": {
+                  "blue": 211,
+                  "green": 164,
+                  "red": 153
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HE_NX-PaoAAOZVK.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2040074967950467072"
+      }
+    ]
+  }
+}

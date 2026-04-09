@@ -1,0 +1,995 @@
+{
+  "tweet_created_at": "2026-04-07T14:12:56.000000Z",
+  "id": 2041519598692950300,
+  "id_str": "2041519598692950270",
+  "type": "tweet",
+  "conversation_id_str": "2041519598692950270",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/guAndx9cux",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1869015114575229000,
+    "id_str": "1869015114575228928",
+    "name": "PhD en Lógica y Libertad",
+    "screen_name": "PhDenLogica",
+    "location": "",
+    "url": "https://controlciudadano.uy/",
+    "description": "Creador de ControlCiudadano\n\n@CtrlCiudadanoUy \n@GastosUy \n@Alerta_UY \n@QueOpinaUY",
+    "protected": false,
+    "verified": true,
+    "followers_count": 10243,
+    "friends_count": 3078,
+    "listed_count": 18,
+    "favourites_count": 10135,
+    "statuses_count": 6809,
+    "created_at": "2024-12-17T13:41:47.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869015114575228928/1771471114",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2041591744790175744/JJl7acS6_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 25,
+  "reply_count": 69,
+  "retweet_count": 297,
+  "favorite_count": 1106,
+  "views_count": 146702,
+  "bookmark_count": 306,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041337703388585985",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/guAndx9cux"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T14:12:56.000000Z",
+    "id": 2041519598692950300,
+    "id_str": "2041519598692950270",
+    "title": "¿Como calcula SUCIVE el valor de los autos?",
+    "preview_text": "A principio de este año, Uruguay vivió uno de esos momentos de irritación colectiva que surgen cuando la burocracia fiscal choca con la realidad del bolsillo. El momento de pagar la Patente de Rodados",
+    "cover_url": "https://pbs.twimg.com/media/HFRJ4cpaIAAvYJf.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6f7pv",
+          "text": "A principio de este año, Uruguay vivió uno de esos momentos de irritación colectiva que surgen cuando la burocracia fiscal choca con la realidad del bolsillo. El momento de pagar la Patente de Rodados llegó, y con ella, la sensación de que los números habían sido sacados de la nada. Como dijo el senador Sebastián Da Silva, SUCIVE \"cobra lo que quiere, y cotiza el dólar a lo que quiere\". La indignación aumentaba mientras que en las redes se empezó a hablar de una inminente \"rebelión de contribuyentes\". Pero, sobre todo, había un vacío preocupante:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 78,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "1apf5",
+          "text": "Nadie, absolutamente nadie, sabía cómo se calculaba el valor de los vehículos.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fjaa",
+          "text": "Para entender de dónde viene el problema, primero hay que entender como funciona. AUTODATA es la empresa de tasación designada por ASCOMA como el organismo técnico independiente que establece los valores de referencia de toda la flota vehicular del país. SUCIVE solo toma ese número y le aplica un 4,5% (o un 5% si es 0 km, un poco menos para los eléctrico). El problema es que AUTODATA opera como una caja negra: solo entrega un valor por modelo de auto, sin mucha más información. Los valores aplicados a los vehículos suelen ser mucho mayores que los valores reales de reventa, y la fórmula matemática que predice como se desvalúa un vehículo con los años es privada.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3anlj",
+          "text": "PatentesUy",
+          "type": "header-two"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 412,
+                "text": "ControlCiudadano.uy",
+                "toIndex": 431
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 391,
+              "style": "Italic"
+            },
+            {
+              "length": 19,
+              "offset": 412,
+              "style": "Italic"
+            }
+          ],
+          "key": "871np",
+          "text": "La historia de cómo logramos abrir esa caja negra empieza con un trabajo bastante menos glamoroso que lo que voy a contar en el resto del artículo. Hace meses, cuando surgió todo este tema, me propuse hacer una recolección de los datos de las patentes, publicando en mi cuenta un enlace a un Google forms para que los usuarios puedan subir sus vehículos. Esta primera iniciativa dio lugar a PatentesUy, parte de ControlCiudadano.uy.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "610md",
+          "text": "Inicialmente, en PatentesUy habíamos recolectado 135 autos en total, incluyendo 89 modelos distintos de 23 marcas, un numero relativamente bajo para poder intentar descifrar el algoritmo de fijación de precios. Era un proyecto que iba creciendo de a poco, y con intenciones de empezar una campaña mas activa para conseguir datos extra, hasta que hace unos días me llega uno de esos DM que cambia todo",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aaqh4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "911hp",
+          "text": "Un seguidor me comentó que desde la página oficial de AUTODATA se puede obtener todos los valores venales de los rodados asignados por ellos",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 348,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "9kjhb",
+          "text": "El valor venal es el precio de venta de un bien (generalmente usado) en el mercado de segunda mano justo antes de un siniestro. En seguros de automóviles, determina la indemnización por pérdida total, basada en marca, modelo y antigüedad, sin considerar kilometraje o estado de conservación. Generalmente, se calcula mediante tablas de depreciación",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b1amg",
+          "text": "El Santo Grial",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5r5ug",
+          "text": "Así, logre conseguir una base de datos completa con 56.960 registros. Cada vehículo con su marca, su modelo exacto, prestaciones, año y su valor según AUTODATA.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "gdlt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 394,
+              "style": "Italic"
+            }
+          ],
+          "key": "7j112",
+          "text": "Con semejante volumen de información, lo primero era entender cómo se estructuraban los datos, y que datos servían para intentar descifrar el algoritmo detrás de la fijación de precios. Para esto me definí algunas reglas arbitrarias. Tomé cada modelo exacto que tuviera al menos tres años de datos consecutivos, de manera de poder tener una recta de devaluación anual. Esto limitó el estudio a 24.295 tipos de autos diferentes, correspondientes a 5.057 modelos distintos, de 18 marcas (considerando un mismo modelo de distinto año como un auto diferente).  Además, limite la depreciación al 1992, siguiendo lo expuesto por SUCIVE.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8gqd",
+          "text": "Así empecé a graficar el cambo del valor con la edad del vehículo. Lo primero que observé, como era de esperar, es que la devaluación no es lineal: un vehículo no pierde mil dólares fijos por año; pierde un porcentaje de su valor. Sin embargo, la tasa de depreciación no era igual para todos los vehículos. Los autos caros sangran más rápido",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "375pj",
+          "text": "Un auto de menos de $10.000 se deprecia a un 4,2% anual. Si cuesta entre $10.000 y $20.000, la tasa sube al 5,0%. Y si es un vehículo de más de $50.000, la tasa ronda el 5,5%. En términos concretos: un auto de $60.000 pierde unos $3.300 de valor de aforo en su primer año, mientras que un auto más viejo, de $8.000 pierde apenas $300.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1m4kh",
+          "text": "Quince fórmulas y la ironía de la elegancia",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rr98",
+          "text": "Con los casi 25k de datos en la mano, arrancó la fase de modelado, volviendo a mis épocas de estudiante. Si la tasa dependía del precio y la edad, había que encontrar la función que conectara ambas variables. Probé más de quince fórmulas distintas. Empecé con formas simples (lineal, logarítmica, raíz cuadrada), pasé por formas compuestas con tres parámetros, llegué a polinomios complejos de cuatro parámetros, e incluso probé modelos por \"rangos\", dividiendo los autos en 3, 10, 25 o 50 rangos de precio, para evaluar cada rango independiente.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fok4c",
+          "text": "Después de ajustar todo muchas veces llegué a la conclusión que trabajé al pedo. Por querer encontrar la fórmula exacta terminé desperdiciando muchas horas, para una mejora minúscula, pero ya que lo hice, lo muestro",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4q2gf",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "478f8",
+          "text": "El modelo más complejo que armé (un polinomio cúbico de 4 parámetros sobre 25 niveles de precio) mostró tener un R2=0.997432, con un error absoluto medio (MAE) de U$S 388, es decir, que en promedio el valor calculado estaba 400 dólares alejado del valor de la base de datos obtenida de AUTODATA. Sin embargo, un modelo mucho mas simple mostraba un R2=0.997314, y un MAE de U$S 419, es decir, prácticamente igual. Además, un modelo logarítmico simple se ajustaba casi que igual que el polinomio cubico.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fla96",
+          "text": "Si bien las 3 formulas muestran una correlación casi perfecta, el error en el cálculo del vehículo disminuye casi un 10% al usar los cálculos más complejos. Esto se refleja a lo largo de todo el espectro de precios:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2fa1k",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9v8m2",
+          "text": "Si graficamos, el valor predicho por cada modelo vs el valor real, vemos que son casi indistinguible. Los tres modelos se superponen casi a la perfección sobre los datos reales.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fvbb3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ffrta",
+          "text": "De la ecuación más simple a la más complicada",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2dhll",
+          "text": "La ecuación más simple que conseguí para calcular el valor venal, es V=V0 x e^(-r*t), donde V es el valor calculado, V0 es el precio del modelo en su versión más nueva disponible en la base de datos, t es la edad total del auto, y r es la tasa media de depreciación (5.37% anual). De forma simple, el valor de un auto usado es lo que salía nuevo, pero restándole un 5.23% por cada año que pasa. Estos valores se aplican en generar para cualquier auto, si bien en realidad, los autos más caros, o de gama más alta se observa un ligero pero mayor depreciación.\n \nLo que le falta a la ecuación, seguramente, sea un “factor por gama” que pueda modificar levemente la ecuación, haciendo que marcas más caras se deprecien más rápido. Este factor tiene dos partes, por un lado, la tasa mínima de depreciación, para un auto de muy bajo costo (que llamé “a”), y un coeficiente de gama, que hace que aumente la depreciación cuanto mas caro es el auto originalmente (que llamé “b”). Así, en este caso, transformamos el r estático de la ecuación más sencilla en r(V0) = a + b * ln(V0) ; ahora no todos los autos se deprecian a un ritmo de 5.37%, sino que dependen de su valor original.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bgeml",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "90rjj",
+          "text": "Con el mismo criterio de seguir profundizando en diferencias más sutiles entre autos, llegamos a la ecuación más completa que conseguí, y que la verdad no mejoró demasiado los resultados, así que no invertí mas tiempo en la misma. En esta, el r se ajusta no solo logarítmicamente, sino con un polinomio de tercer grado, donde el principio es el mismo, pero se le agregan dos términos, con las variables “c” y “d” que permiten no generar una devaluación desmedida en autos muy caros, y permitan “aplanar la curva” llevándolo a un límite máximo teórico de devaluación anual",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7erij",
+          "text": "La transparencia que no nos quisieron dar",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5oi0h",
+          "text": "¿Qué significa tener al alcance de toda esta información?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95b84",
+          "text": "Primero, que la opacidad del sistema es innecesaria. No hay ajustes ocultos complejos ni fórmulas imposibles de descifrar. Hay una lógica clara, consistente y predecible.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 89,
+              "offset": 114,
+              "style": "Italic"
+            }
+          ],
+          "key": "9774i",
+          "text": "Segundo, permite verificar las declaraciones oficiales. El director de SUCIVE, César García, llegó a declarar que \"los valores de mercado bajaron 5% pero el dólar subió 6%, por eso la patente se mantuvo\". Con esta fórmula en la mano, cualquier persona puede tomar su propio vehículo, calcular el valor de aforo proyectado y ver si esa explicación le cuadra o hay otras variables operando en las sombras.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8j3fr",
+          "text": "Y tercero, te devuelve el control. Ahora podés proyectar cuánto vas a pagar de patente en tres o cinco años si comprás un auto hoy. Aplicando la fórmula a un vehículo que hoy sale U$S 25.000, ese vehículo tendrá un valor de $16.703 a los 8 años.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 70,
+                "text": "https://controlciudadano.uy/patentes/",
+                "toIndex": 107
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "q2mo",
+          "text": "Cuarto, y el más importante, toda la base de datos esta disponible en https://controlciudadano.uy/patentes/, en la sección de PatentesUy. Incluye todos los 50k registros que tiene AUTODATA, así que cualquier ciudadano puede ver exactamente cual es el valor venal de un auto en particular",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cf29f",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3vuec",
+          "text": "Como te digo una cosa, te digo la otra",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f7kc0",
+          "text": "Por supuesto, hay que hacer las salvedades necesarias.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89t4s",
+          "text": "Primero, esta es una aproximación basada en los datos públicos que obtuve de este año. Puede ser que la ecuación cambie cada año. No tengo manera de evaluar para atrás.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55pom",
+          "text": "Segundo. el valor que presenta AUTODATA, el valor venal no es lo que te va a dar el concesionario si vendés el auto, es un valor catastral, no de mercado. Los vehículos anteriores a 1992 escapan a esta lógica porque la ley les asigna valores fijos congelados.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bqvt",
+          "text": "Además, el tipo de cambio sigue siendo el gran multiplicador silencioso: si el dólar sube, la patente en pesos sube, sin importar lo que haga el auto. Y acá es algo importante para considerar. AUTODATA le entrega a SUCIVE valores venales en dolares, y SUCIVE es el que fija el tipo de cambio. Para el 2026, se fijó en 41.826 pesos por dólar (como promedio del 2025), si bien al momento de que se presentó el pago de la patente, este rondaba los $38. Esta diferencia en el tipo de cambio es lo que explica en mayor medida el descontento colectivo de la diferencia entre el valor imponible y el valor de mercado",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6k1ge",
+          "text": "A pesar de esto, acá damos un paso adelante, y abrimos la caja negra. La próxima vez que te llegue el valor de la patente, vas a saber exactamente de dónde sale ese número. Y eso, en un sistema que se nutre de la ignorancia del contribuyente, ya es una victoria.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "70a8b91f-4b18-4108-b6b9-a9ae6d3e6e93",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041338076358983680"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "81a06974-f858-4577-9c33-5072d56bdaed",
+              "mediaItems": [
+                {
+                  "localMediaId": "12",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041338109518807040"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "a3563990-9ef9-4fc3-8f28-a0746f8bf30b",
+              "mediaItems": [
+                {
+                  "localMediaId": "14",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041338139214741505"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "5b667d33-b876-4125-a1a9-465b6563c27c",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041337981777420288"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "“Buen día estimado. Por aquí un fiel seguidor, le interesa la lista de precios de autodata por la cual nos fijan las patentes?”",
+              "entityKey": "dac7bf69-d053-4168-a9ab-1d3f80d8de94",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041337935912415232"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "478f2cd0-18ae-4263-ba27-f90f54f4e67d",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041338015126261760"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "8449d562-1c2e-4ed0-9c32-69cdd36b506e",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041338046998790144"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRKFDZbIAAKAAIZ8BNYIBewAAAA",
+        "media_id": "2041337981777420288",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.85,
+                "rgb": {
+                  "blue": 250,
+                  "green": 250,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 1.15,
+                "rgb": {
+                  "blue": 123,
+                  "green": 122,
+                  "red": 121
+                }
+              }
+            ]
+          },
+          "original_img_height": 126,
+          "original_img_url": "https://pbs.twimg.com/media/HFRKFDZbIAAKuin.jpg",
+          "original_img_width": 940
+        },
+        "media_key": "3_2041337981777420288"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRKON5aAAEKAAIZ8BNYIBewAAAA",
+        "media_id": "2041338139214741505",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.96,
+                "rgb": {
+                  "blue": 250,
+                  "green": 250,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 0.32,
+                "rgb": {
+                  "blue": 110,
+                  "green": 110,
+                  "red": 110
+                }
+              },
+              {
+                "percentage": 0.19,
+                "rgb": {
+                  "blue": 247,
+                  "green": 202,
+                  "red": 203
+                }
+              },
+              {
+                "percentage": 0.17,
+                "rgb": {
+                  "blue": 193,
+                  "green": 227,
+                  "red": 251
+                }
+              }
+            ]
+          },
+          "original_img_height": 644,
+          "original_img_url": "https://pbs.twimg.com/media/HFRKON5aAAEzLpU.jpg",
+          "original_img_width": 940
+        },
+        "media_key": "3_2041338139214741505"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRKMfRWAAAKAAIZ8BNYIBewAAAA",
+        "media_id": "2041338109518807040",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.2,
+                "rgb": {
+                  "blue": 237,
+                  "green": 237,
+                  "red": 237
+                }
+              },
+              {
+                "percentage": 0.47,
+                "rgb": {
+                  "blue": 186,
+                  "green": 185,
+                  "red": 240
+                }
+              },
+              {
+                "percentage": 0.19,
+                "rgb": {
+                  "blue": 222,
+                  "green": 195,
+                  "red": 156
+                }
+              },
+              {
+                "percentage": 0.14,
+                "rgb": {
+                  "blue": 140,
+                  "green": 140,
+                  "red": 140
+                }
+              }
+            ]
+          },
+          "original_img_height": 332,
+          "original_img_url": "https://pbs.twimg.com/media/HFRKMfRWAAAuRnb.jpg",
+          "original_img_width": 940
+        },
+        "media_key": "3_2041338109518807040"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRKCYiWsAAKAAIZ8BNYIBewAAAA",
+        "media_id": "2041337935912415232",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 83.51,
+                "rgb": {
+                  "blue": 39,
+                  "green": 35,
+                  "red": 32
+                }
+              },
+              {
+                "percentage": 14.63,
+                "rgb": {
+                  "blue": 112,
+                  "green": 110,
+                  "red": 105
+                }
+              },
+              {
+                "percentage": 0.67,
+                "rgb": {
+                  "blue": 80,
+                  "green": 104,
+                  "red": 110
+                }
+              },
+              {
+                "percentage": 0.27,
+                "rgb": {
+                  "blue": 81,
+                  "green": 84,
+                  "red": 57
+                }
+              },
+              {
+                "percentage": 0.24,
+                "rgb": {
+                  "blue": 98,
+                  "green": 68,
+                  "red": 60
+                }
+              }
+            ]
+          },
+          "original_img_height": 183,
+          "original_img_url": "https://pbs.twimg.com/media/HFRKCYiWsAA3_J9.png",
+          "original_img_width": 799
+        },
+        "media_key": "3_2041337935912415232"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRKI2XaQAAKAAIZ8BNYIBewAAAA",
+        "media_id": "2041338046998790144",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 85.32,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 4.44,
+                "rgb": {
+                  "blue": 196,
+                  "green": 147,
+                  "red": 78
+                }
+              },
+              {
+                "percentage": 4.35,
+                "rgb": {
+                  "blue": 119,
+                  "green": 119,
+                  "red": 119
+                }
+              },
+              {
+                "percentage": 4.19,
+                "rgb": {
+                  "blue": 84,
+                  "green": 82,
+                  "red": 222
+                }
+              },
+              {
+                "percentage": 1.7,
+                "rgb": {
+                  "blue": 165,
+                  "green": 164,
+                  "red": 229
+                }
+              }
+            ]
+          },
+          "original_img_height": 408,
+          "original_img_url": "https://pbs.twimg.com/media/HFRKI2XaQAAxrm0.jpg",
+          "original_img_width": 940
+        },
+        "media_key": "3_2041338046998790144"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRKG/oaEAAKAAIZ8BNYIBewAAAA",
+        "media_id": "2041338015126261760",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.53,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.95,
+                "rgb": {
+                  "blue": 181,
+                  "green": 181,
+                  "red": 240
+                }
+              },
+              {
+                "percentage": 0.39,
+                "rgb": {
+                  "blue": 137,
+                  "green": 137,
+                  "red": 137
+                }
+              }
+            ]
+          },
+          "original_img_height": 700,
+          "original_img_url": "https://pbs.twimg.com/media/HFRKG_oaEAA5k5Z.jpg",
+          "original_img_width": 940
+        },
+        "media_key": "3_2041338015126261760"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRKKjvbQAAKAAIZ8BNYIBewAAAA",
+        "media_id": "2041338076358983680",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.29,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.66,
+                "rgb": {
+                  "blue": 167,
+                  "green": 163,
+                  "red": 197
+                }
+              },
+              {
+                "percentage": 0.46,
+                "rgb": {
+                  "blue": 138,
+                  "green": 138,
+                  "red": 138
+                }
+              },
+              {
+                "percentage": 0.36,
+                "rgb": {
+                  "blue": 55,
+                  "green": 67,
+                  "red": 176
+                }
+              },
+              {
+                "percentage": 0.19,
+                "rgb": {
+                  "blue": 96,
+                  "green": 103,
+                  "red": 166
+                }
+              }
+            ]
+          },
+          "original_img_height": 702,
+          "original_img_url": "https://pbs.twimg.com/media/HFRKKjvbQAAsLYO.jpg",
+          "original_img_width": 940
+        },
+        "media_key": "3_2041338076358983680"
+      }
+    ]
+  }
+}

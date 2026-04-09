@@ -1,0 +1,473 @@
+{
+  "tweet_created_at": "2026-04-05T11:28:37.000000Z",
+  "id": 2040753469653762600,
+  "id_str": "2040753469653762444",
+  "type": "tweet",
+  "conversation_id_str": "2040753469653762444",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/CrTFoqjBKi",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1243757247068393500,
+    "id_str": "1243757247068393472",
+    "name": "ぽぽたん(FXCFDトレーダー)",
+    "screen_name": "popotan91401523",
+    "location": "Note",
+    "url": "http://note.com/popotan91401523",
+    "description": "アサラー子持ちトレーダー。シルバー戦士。銀ショート上窓で逆指値が滑り一瞬で1700万溶かす。一度は＋600万取返すもすぐに-900万失い、ひと月で2,000万溶かす。生涯収支-1600万の崖っぷち。家族に全貌は言えず。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 6886,
+    "friends_count": 282,
+    "listed_count": 44,
+    "favourites_count": 2867,
+    "statuses_count": 518,
+    "created_at": "2020-03-28T04:30:30.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243757247068393472/1767432514",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1482647833954365441/_RBXNvUt_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 243,
+  "reply_count": 44,
+  "retweet_count": 423,
+  "favorite_count": 2140,
+  "views_count": 853998,
+  "bookmark_count": 1204,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040738770371432448",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/CrTFoqjBKi"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T11:28:37.000000Z",
+    "id": 2040753469653762600,
+    "id_str": "2040753469653762444",
+    "title": "30代子持ちの男が狂った話",
+    "preview_text": "今、ネット上では「40代独身は狂う」という説が話題になっている。\n40代まで独身で、守るべき妻や子供がいないと、変わらない日常を浪費するだけの毎日に心が腐っていくのだとか。",
+    "cover_url": "https://pbs.twimg.com/media/HFI2EtDakAAYUhz.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtttr",
+          "text": "今、ネット上では「40代独身は狂う」という説が話題になっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72i4h",
+          "text": "40代まで独身で、守るべき妻や子供がいないと、変わらない日常を浪費するだけの毎日に心が腐っていくのだとか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "lbc2",
+          "text": "確かに、「家族のいない人生の終わり」がより鮮明にイメージできる年齢から、子供を作るという生存本能から逸脱した代償として狂い始めるという説には、一定の信憑性が感じられる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b9lqc",
+          "text": "では、結婚をすれば、子供を持てば、人は狂わないでいられるのか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bk586",
+          "text": "そんなことはない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f9j0n",
+          "text": "私は、30代前半の男だ。1児の父親であり、今年中には2児の父親になる予定でもある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95o07",
+          "text": "私は、狂った。 今までは自分をまともな人間の範疇だと思っていたが、先日、自分が狂人だと理解した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7eku",
+          "text": "順風満帆の裏側に潜む、焦りと窒息",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94p17",
+          "text": "家族仲は非常に良好だ。夫婦でよくコミュニケーションをとり、踏み入った話し合いもできている。たまに喧嘩もするが、翌日には必ず仲直りをする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fk40v",
+          "text": "職場の居心地もいい。上司には評価され、グループの雰囲気も良好だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vo14",
+          "text": "周りから見れば、私は「あがり」のコースを順調に進んでいるように見えるだろう。しかし、心の中は発狂寸前だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "10r0f",
+          "text": "生活の中に「自分の時間」が、驚くほどない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bmbvl",
+          "text": "朝5時半に子供に叩き起こされ、着替え、オムツ替え、離乳食に追われているうちに仕事の時間になる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95d7j",
+          "text": "職場では中堅として責任ある立場を任され、帰宅が20時を超えることも増えた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26r7q",
+          "text": "たまに早く帰れても、子供を風呂に入れて遊んでいれば、すぐに寝る時間だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c74kq",
+          "text": "妻は教師をしており、土日のどちらかは学校へ行く。その間、育児を担うのは当然私だ。イヤイヤ期に突入した子供と向き合い、1分で終わるはずのことに5分以上かかる日々。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9mfmm",
+          "text": "私の自由時間は、仕事帰りにたまに寄るコンビニの車内での15分か、寝る間際。それだけだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "egb8h",
+          "text": "漫画を見たい。映画を見たい。サッカーを観戦したい、ランニングに行きたい、ラーメンを食べたい、友達と遊びたい、ふらっと外に出たい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2akf3",
+          "text": "そんな欲望を押し殺し続けて、2年が経った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94bpr",
+          "text": "「このまま自分を殺し続けて、気づいたら老人になるのか」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cno8n",
+          "text": "家族は大事だ。それでも、どうしようもない焦りが、小さな不満が、心の中でずっとくすぶっていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7tej0",
+          "text": "歪んだ解放、破滅的なトレード",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ck5sv",
+          "text": "私は長年、株やFXをしている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fcp4t",
+          "text": "日常生活での自分が消失していくにつれ、私のトレードは徐々に、しかし確実におかしくなっていった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "615i1",
+          "text": "以前はリスクを抑え、着実に増やすスタイルを貫いていた。昨年末の時点で、生涯収支は株とFX合わせて＋700万円近くだった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6cdfh",
+          "text": "しかし、二人目の妊娠が判明し、今後の人生の在り方への焦りが臨界点を超えた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73ici",
+          "text": "早く金を稼いで、自由を買い戻したかった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ssee",
+          "text": "家族とのんびり過ごせる時間を、金で解決したかった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4cvv",
+          "text": "手持ちの2,000万円を証拠金に、信用取引で2億近いポジションを平気で持つようになった。完全に狂っていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fdaki",
+          "text": "結果、昨年末に一瞬で1,600万円を失った。 失ってはいけない金だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69ok9",
+          "text": "それからも地獄は続いた。1月に500万を取り返した直後、900万を失った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88nqs",
+          "text": "「もう一度、地道にやり直そう」と心に誓い、50万円をコツコツ稼いだあと、一度も触ったことのない原油で暴挙に出た。一瞬で100万を失った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b4jh6",
+          "text": "トレードに使える金は、もうほとんど残っていない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "crr1g",
+          "text": "私は、自分の時間の無さに狂い、トレードで狂い、犯した愚行と愛する家族との板挟みで、完全に壊れてしまった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ndth",
+          "text": "人はどこででも狂う",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5etf6",
+          "text": "私が100％悪い。家族を言い訳にするつもりはない。こんな狂人を持った妻子のほうが可哀そうだろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4rclf",
+          "text": "それでも、独身だったらここまでは狂わなかった、とも思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36ano",
+          "text": "「40代独身は狂う」という言葉は、「30代子持ちなら狂わない」と同義ではないのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "173ku",
+          "text": "家族がいても、仕事があっても、人は狂う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7jsfe",
+          "text": "40代子持ちのエリートがどうしようもない不倫にはまり、すべてを失う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ionm",
+          "text": "大企業の既婚幹部が盗撮で逮捕される。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fouv5",
+          "text": "そんなニュースを笑っていたが、今ならわかる。彼らもきっと、どこかで何かが「狂ってしまった」のだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5leov",
+          "text": "独身だろうが既婚者だろうが、30代だろうが40代だろうが、人は長い人生のどこかで正気でいられなくなる瞬間がある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2rilt",
+          "text": "それでも、後戻りができなくなる前に引き留めてくれる「何か」があれば、普通の世界につなぎとめてもらえるのかもしれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37he8",
+          "text": "皆さんには、その「何か」はありますか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "edcvs",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

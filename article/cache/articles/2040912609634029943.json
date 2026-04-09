@@ -1,0 +1,112 @@
+{
+  "tweet_created_at": "2026-04-05T22:00:59.000000Z",
+  "id": 2040912609634029800,
+  "id_str": "2040912609634029943",
+  "type": "tweet",
+  "conversation_id_str": "2040912609634029943",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/ILDu938rsD",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 152963467,
+    "id_str": "152963467",
+    "name": "乙武洋匡",
+    "screen_name": "h_ototake",
+    "location": "東京都",
+    "url": "https://lit.link/OTOTAKE",
+    "description": "1976年、東京都出身。四肢欠損というパンチの効いた身体で誕生。幼少期より電動車椅子で疾走。スーパーヘビー級の障害にもかかわらず普通教育を受けて育ち、早稲田大学に進学。初の著書『五体不満足』が戦後４位となるベストセラーに。以降、小学校教諭、東京都教育委員、保育園経営、ニュースキャスターなど何足もの草鞋を履いて活動中。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 792730,
+    "friends_count": 1211,
+    "listed_count": 12261,
+    "favourites_count": 9881,
+    "statuses_count": 89142,
+    "created_at": "2010-06-07T09:44:59.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/152963467/1758182836",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1782051804387409920/dFTlcgpX_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 78,
+  "reply_count": 122,
+  "retweet_count": 258,
+  "favorite_count": 3996,
+  "views_count": 1223014,
+  "bookmark_count": 248,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2035…",
+        "expanded_url": "http://x.com/i/article/2035990900707565568",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/ILDu938rsD"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T22:00:59.000000Z",
+    "id": 2040912609634029800,
+    "id_str": "2040912609634029943",
+    "title": "母へ。50歳を迎えました。",
+    "preview_text": "いま、23時31分。あと30分ほどで、50歳を迎えます。せっかくの節目なので何か文章でも書こうかと思ったら、自然とこのタイトルが頭に浮かんできました。何を書こうか、特段決めているわけではないけれど、ひとまず書",
+    "cover_url": "https://pbs.twimg.com/media/HFJ0ag2bkAAdzv_.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 8,
+              "offset": 390
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aulhn",
+          "text": "いま、23時31分。あと30分ほどで、50歳を迎えます。せっかくの節目なので何か文章でも書こうかと思ったら、自然とこのタイトルが頭に浮かんできました。何を書こうか、特段決めているわけではないけれど、ひとまず書き始めてみようと思います。\n\n母へ。\n\n数日前、「友人たちに前祝いしてもらったよ」とケーキを前にした写真をLINEに送ったら、「半世紀生きた。あの子が！」と返事をくれたよね。あなたにとっては何ということはない言い回しだったのかもしれないけど、僕には何だかグッと来る言葉でした。\n\n「あの子が！」\n\nそうだよね。「両手と両足がない状態で生まれてきた」あの子がね。生まれてしばらくは、「一生寝たきりかもしれない」と思われていたあの子がね。半世紀も生きたんだもんね。\n\n最近ね、僕は「乙武良子」という人間を、本当はあまり理解できていないんじゃないかと思うことがあって。このまえ、『ReHacQ』に出たのは見てくれたんだっけ？ 相変わらずひろゆきさんにあれこれ突っ込まれたわけだけど、そこであなたの話にもなって。\n\n『五体不満足』において、あなたはおおらかで、前向きで、ちょっぴり天然で、そういう母親だからこそ僕のような“超個性的な”息子を育てることができたのだ、というストーリーになっていて。本が出版されてからも、僕はメディアでそういう母親像を語ってきた。\n\nでも、本当にそうだったのかなと。いや、もちろんそうした側面もあったとは思うけど、きっとそれだけじゃないよな、それは不安もあれば葛藤もあったよな、と。「この息子は、この先どうなるんだろう」と枕を濡らした夜も、一度や二度じゃなかったんじゃなかろうかと。\n\nひろゆきさんから執拗に聞かれて思ったんだけど、たぶん僕はあなたを一面的にしか見てこなかったというよりは、そうした迷いとか弱さからは意図的に目を逸らしてきたような気がするんだよね。\n\n「僕の存在が母を苦しめていたのかもしれない」という事実は、やっぱり当事者として、息子として少なからず罪悪感を覚えるし、「明るく前向きな母に育てられた障害者」というストーリーを壊したくなかったような気もするんだよね。そこが僕自身の安全基地にもなっていたというか。\n\n『五体不満足』出版直後は、あなたに対しても執筆や講演依頼がひっきりなしに来ていたけど、「私まで表に出たら家族がひっちゃかめっちゃかになる」とすべて断っていたじゃない？ でも、今だったら当時の回顧録とか読んでみたい気もするけどね。直接あなたから話を聞くのは、やっぱり重たいだろうし、むず痒い感じがするから。\n\nあ、０時になりました。あらためて、50歳になりました。\n\n「親を恨んだことは一度たりともない」\n\nこれは、本当です。生んでくれてありがとう。むしろ、「この身体に生んでくれて」ありがとう。\n\nもちろん、不便さや悔しさがないと言ったら嘘になる。でも、他の誰とも違うこの身体を与えられたことで、まあ何とも味わい深い人生を送ることができています。稀有な人生を歩んでいます。\n\nもう一度。\n\n「この身体に生んでくれて、ありがとう」\n\n50歳を迎えても、この人生から決して逃げ出さず、最後までしっかりと生き抜きます。そして、「稀有な人生」を「唯一無二の人生」へと仕上げていきます。\n\nたぶん、僕より長生きするつもりでいるだろうから、これからも引き続き、程よい距離感で見守っていてね。いつもありがとう。\n\nあなたの一人息子より。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://youtu.be/cxsbMe0Tsi0?si=y4t4WDbuSkBYcMq9"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

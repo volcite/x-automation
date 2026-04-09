@@ -1,0 +1,424 @@
+{
+  "tweet_created_at": "2026-04-05T00:17:10.000000Z",
+  "id": 2040584496010162400,
+  "id_str": "2040584496010162435",
+  "type": "tweet",
+  "conversation_id_str": "2040584496010162435",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/SK2G6o7lij",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1941507019409875000,
+    "id_str": "1941507019409874944",
+    "name": "ツンデレおねこ",
+    "screen_name": "oneco_uranai",
+    "location": "2026年4月運勢↓&あなたの取説no+e↓新規鑑定休憩中",
+    "url": "https://note.com/tacomonti",
+    "description": "九星気学×心理法則の『おねこ式占い』でがんばる人の心の毛玉をスルッとほぐす｜迷いを整理しチャンスを逃さない自分へ勝手にアップデート｜占いは信じず、疑わず、自分で確かめて行動するがモットー ｜自分磨き・マインドシフト好き集まれ！ 占いは自己理解するツールだよ→自ら行動し実験するおねこ🐈‍⬛",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4926,
+    "friends_count": 59,
+    "listed_count": 10,
+    "favourites_count": 2208,
+    "statuses_count": 1224,
+    "created_at": "2025-07-05T14:38:53.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941507019409874944/1766362961",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2021450265229225984/xVcMsZqz_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 37,
+  "reply_count": 2,
+  "retweet_count": 178,
+  "favorite_count": 2228,
+  "views_count": 4718012,
+  "bookmark_count": 2743,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040061254577078272",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/SK2G6o7lij"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T00:17:10.000000Z",
+    "id": 2040584496010162400,
+    "id_str": "2040584496010162435",
+    "title": "これやるだけで恋愛運めっちゃ上がる ",
+    "preview_text": "もう声が枯れるほど説明してるんだけど恋愛運って、出会いのテクニックとか駆け引きより先に決まるものがあるんだよね。それが何かっていうと、誰に相談するか。どんな環境に身を置くか。自分をどう扱ってるか。ここ",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4pv15",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8cgme",
+          "text": "もう声が枯れるほど説明してるんだけど恋愛運って、出会いのテクニックとか駆け引きより先に決まるものがあるんだよね。それが何かっていうと、誰に相談するか。どんな環境に身を置くか。自分をどう扱ってるか。ここですしかないw",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6hut3",
+          "text": "恋愛こじらせ気味の人ほど、ここを飛ばして「いい人いない」「出会いがない」「タイミングが悪い」って言いやすい。でも実際は、その前に流れを止めてることがけっこうあるから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8lf4",
+          "text": "占いをしてても思うんだよね。恋愛運が動く人って、いきなり王子様が降ってくるわけじゃない。まずその人自身の雰囲気が変わる。言葉が変わる。相談相手が変わる。自分の扱い方が変わる。そこから恋の流れって動き始める。つまり、恋愛運って恋愛の前に、生活で決まってる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cjqdr",
+          "text": "恋がうまくいってない人に相談すると、恋もこじれやすい",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6050c",
+          "text": "ここ、かなり大事。恋愛相談する相手を変えたら流れが変わったって話、ほんとによくあるんだよね。たとえば、恋がうまくいってない人に相談するとするじゃん。すると返ってくるのって、だいたいその人の痛みが混ざった言葉なんだよね。「男なんてそんなもんだよ」「どうせまた傷つくよ」「期待しないほうがいいって」いや、あなたの過去の話いま混ざってますけど？ってやつw",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cufis",
+          "text": "もちろん悪気はない。ないけど、その言葉を浴びた時点で、自分の恋愛の前提まで曇りやすくなる。逆に、夫婦仲がいい人。カップル仲がいい人。恋を楽しめてる人。そういう人の言葉って、やっぱり雰囲気が違う。変にひねくれてないし、必要以上に怖がらせない。恋愛運って、誰に相談するかでかなり変わる。ここ、ほんとにそうだからね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dchdm",
+          "text": "推し活できない人は、恋のエネルギーも止まりやすい",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d883c",
+          "text": "これも強めに言いたい。推し活って、ただの趣味じゃないんだよね。ときめきを出す練習なんです。誰かを見て「好きー！」って思える。「今日も尊い」ってなる。「会いたい」「応援したい」って気持ちが自然に湧く。これ、恋愛のエネルギーとかなり近い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5gkjk",
+          "text": "だから推しにすらときめけない時って、恋愛運も止まりやすい。そもそも愛を出せてないから、受け取る回路も固まりやすいって感じ。愛って、出してる人のところに返ってきやすい。推し活しろっていうのは、恋愛逃げろって話じゃなくて、まず自分の中の「好き」を動かそうってこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7ih1l",
+          "text": "風呂キャンセル界隈は、恋愛運もキャンセルされやすい",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bk2d8",
+          "text": "これはもう言います。ちゃんと湯に浸かれ。以上wでもほんとに大事なんだよね。お風呂って、身体を洗うだけじゃなくて、気分も切り替える場所だから。恋愛こじらせてる時って、だいたい疲れてる。疲れてると雑になる。雑になるとお風呂も後回しになる。で、余計に重くなる。このループ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2req",
+          "text": "あたし、自分を丁寧に扱い始めて恋愛運が動いた人を何人も見てきたんだけど、その共通点のひとつが、湯船に浸かるだったりする。ちゃんと温まる。ちゃんと緩む。ちゃんと今日を終える。それだけで、変な執着とか、いらんモヤモヤが少し落ちるんだよね。浄化だよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dfuih",
+          "text": "自分を雑に扱うと必ず自分を雑に扱う縁が来る",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ut71",
+          "text": "ここ、今回のど真ん中です。自分を綺麗に扱う人には、綺麗な縁が来やすい。自分を雑に扱う人には、雑な縁が来やすい。怖いけど、かなり本当。適当なごはん。適当な服。適当な言葉。自己否定ばっかり。鏡を見ない。笑わない。どうせ私なんてが口ぐせ。これって結局、「私はこのくらいでいいです」って自分で出してるのと同じなんだよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tvkp",
+          "text": "逆に、ちゃんと寝る。湯船に浸かる。姿勢を正す。鏡に向かって笑う。明るい色を着る。自分に優しい言葉を使う。こういう人は、恋愛以前に空気が変わる。鑑定してても、恋愛運が上がる人の共通点ってここしかないんだ。自分を雑にしなくなる。すると、寄ってくる縁の質まで変わる。マジだから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "96r3e",
+          "text": "どんな環境にいるかで、恋愛運はかなり変わる",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fblqf",
+          "text": "恋愛運って、本人の魅力だけで決まらない。環境の影響、めちゃくちゃ受ける。暗い色ばっかり着る。トキメかない物に囲まれてる。部屋に疲れた空気がある。自己否定する人が近くにいる。不機嫌な会話ばっかり聞いてる。これ、恋愛運が育つ土じゃないんだよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2pvu",
+          "text": "逆に、明るい色を着る。トキメク物を置く。幸せそうな人の話を聞く。笑顔の多い空間にいる。そういう環境って、恋愛の気も動きやすい。花に日当たりが必要みたいに、恋も環境でかなり変わるからね。真っ暗な押し入れで恋愛運だけ育てようとしても、ちょっと無理あるじゃん。豆苗でももう少し条件いいw",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d733t",
+          "text": "姿勢と口角は、恋愛運の基本装備",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ee6o",
+          "text": "姿勢正せ。口角上げろ。これも侮れない。猫背って、見た目以上に「自信ありません」「守りに入ってます」って空気が出やすい。あと、デコ出せwしかも恋愛こじらせてる時ほど、スマホ見ながら縮こまりやすい。そりゃ気も沈む。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6dlcp",
+          "text": "逆に、背筋が少し伸びるだけで呼吸が変わる。呼吸が変わると表情も変わる。鏡に向かって笑えるようになると、恋愛運ってほんとに動きやすい。口角って、最強の色気なんだよね。高い美容液より先に、ちょっと上げとこ。無料だしさw",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dj9h9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fdd53",
+          "text": "恋愛運を上げたいなら、まず自己理解",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qaq5",
+          "text": "で、最後にいちばん大事なこと。恋愛運を上げたいなら、まず自己理解。ここ飛ばして恋愛しようとすると、だいたい同じところでつまずく。なんでその人に惹かれるのか。なんで不安になるのか。なんで追いかけすぎるのか。なんで自分を後回しにするのか。ここがわからないままだと、相手が変わっても恋のクセはそのままなんだよね。あたしが自分取説につなげたいのもそこ。自分の恋愛の癖を知るって、最強の開運です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7shbr",
+          "text": "誰に相談しやすいのか。どんな言葉で揺れやすいのか。どういう相手にハマりやすいのか。何をすると自分が整うのか。そこがわかると、恋愛って一気にラクになる。当たる占いより、まず自分の取説。あたしはマジでそう思ってる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2oh37",
+          "text": "恋愛運は、生活で決まる",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6idmr",
+          "text": "結局、恋愛運って誰と話すか。どんな環境にいるか。自分をどう扱ってるか。ここでほぼ決まる。出会いの数より先に、まず空気。恋のテクニックより先に、まず自己理解。相手探しより先に、自分の扱い方。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddqci",
+          "text": "もし今、恋愛こじらせ気味で「なんで毎回こうなるんだろ」って思ってるなら、まずは自分の恋愛の癖を知るところからです。自分を知ると、恋の流れは変わる。そして、自分を丁寧に扱えるようになると、ちゃんと丁寧な縁が来る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aamd7",
+          "text": "自分の恋愛の癖を知りたい人は、自分取説を見てみてね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "636qb",
+          "text": "この記事が刺さったら、あとで見返せるようにブックマークしておいて。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 3,
+              "offset": 22
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8e5dl",
+          "text": "次の恋は、もっとラクに、もっと自分らしくいこ🐈‍⬛",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://x.com/oneco_uranai/status/2007098570273624423?s=46&t=_rWIsA1h9oW3GCKFyrcf5w",
+                "toIndex": 83
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4a41i",
+          "text": "https://x.com/oneco_uranai/status/2007098570273624423?s=46&t=_rWIsA1h9oW3GCKFyrcf5w",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f408-200d-2b1b.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

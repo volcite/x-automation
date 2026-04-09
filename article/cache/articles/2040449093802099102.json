@@ -1,0 +1,221 @@
+{
+  "tweet_created_at": "2026-04-04T15:19:08.000000Z",
+  "id": 2040449093802099200,
+  "id_str": "2040449093802099102",
+  "type": "tweet",
+  "conversation_id_str": "2040449093802099102",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/EsscOGk2WK",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1309886201944473600,
+    "id_str": "1309886201944473600",
+    "name": "mert",
+    "screen_name": "mert",
+    "location": "",
+    "url": "http://helius.dev",
+    "description": "ceo @helius — Solana RPCs & APIs: http://helius.dev — cyphercapitalist — il faut cultiver notre jardin",
+    "protected": false,
+    "verified": true,
+    "followers_count": 458108,
+    "friends_count": 2457,
+    "listed_count": 4340,
+    "favourites_count": 149312,
+    "statuses_count": 73449,
+    "created_at": "2020-09-26T16:03:08.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309886201944473600/1762438213",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1975912876243095552/YlVLO4Oz_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/Helius",
+      "badge_url": "https://pbs.twimg.com/profile_images/1676292138617675784/BNf4F9-d_bigger.jpg",
+      "description": "Helius",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 97,
+  "reply_count": 218,
+  "retweet_count": 233,
+  "favorite_count": 2153,
+  "views_count": 364296,
+  "bookmark_count": 1254,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040448635930877952",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/EsscOGk2WK"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T15:19:08.000000Z",
+    "id": 2040449093802099200,
+    "id_str": "2040449093802099102",
+    "title": "the next crypto cycle is coming",
+    "preview_text": "I have 100% conviction that crypto will be back\nthere are now two parent categories in crypto:\n- efficient finance\n- alternate finance\nefficient finance is about improving existing systems to be",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rj1s",
+          "text": "I have 100% conviction that crypto will be back",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "204vn",
+          "text": "there are now two parent categories in crypto:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffk2k",
+          "text": "- efficient finance",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b0vl",
+          "text": "- alternate finance",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95ii6",
+          "text": "efficient finance is about improving existing systems to be faster, cheaper, and more composable. tokenization, stables, neobanks, market access.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dlv1r",
+          "text": "alternate finance is about creating net new systems",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7jmo",
+          "text": "new internet currencies, stores of value, digital collectibles, perpification, internet capital formation, futarchy, DAOs, DePIN, etc",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fjeh",
+          "text": "the reason sentiment feels off is that this is the first time where efficient finance has by far the majority of mindshare (ETFs -> DATs -> tokenization -> stables -> regulation)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4vcmv",
+          "text": "and so crypto doesn't feel like some novel counter culture thing anymore where the novel mystery doesn't cause a volatile set of speculations and intrigue",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "al1bl",
+          "text": "for example, it can be argued that each past cycle was due to some mania on a specific alternate finance vertical",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c3sp6",
+          "text": "SoV (bitcoin) -> ICOs (internet capital formation) ->  NFTs (digital collectibles) -> Memes",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eh651",
+          "text": "alternate finance took a hit because i) much of the focus recently has been on efficient finance, but also ii) AI [rightfully] absorbed a lot of the creativity and attention of experimenters",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rm4p",
+          "text": "to claim that crypto wouldn't come back would be to claim that crypto creativity has fundamentally dissipated into the highest entropy state possible (i.e there's no more rearrangement of crypto primitives that can produce further energy)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cluqa",
+          "text": "but given that programmable smart contract platforms have only been scalable for about 2-3 years now, and given that AI has now vastly reduced the cost of experimentation, this would be an infinitely stronger claim to make than to claim that this is just a basic correction, like all other times in crypto's history and that we will be back building the machinery of capitalism stronger than ever",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9qe5",
+          "text": "one obvious catalyst is going to be the resurgence of privacy as institutional overreach and ai surveillance become more apparent, but there will be many others, as crypto remains the best possible platform for builders expressing their creativity without shackles",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "218j",
+          "text": "trillions",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

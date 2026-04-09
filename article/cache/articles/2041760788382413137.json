@@ -1,0 +1,441 @@
+{
+  "tweet_created_at": "2026-04-08T06:11:20.000000Z",
+  "id": 2041760788382413000,
+  "id_str": "2041760788382413137",
+  "type": "tweet",
+  "conversation_id_str": "2041760788382413137",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/joAtLXgiPa",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2034168812283822000,
+    "id_str": "2034168812283822080",
+    "name": "ルナのお家🌙",
+    "screen_name": "Shiririnruna_",
+    "location": "",
+    "url": null,
+    "description": "「こんルナルナー」\n美少女2.5次元△VTuber🌙💜\n【ファンマ→🌙💜】",
+    "protected": false,
+    "verified": true,
+    "followers_count": 863,
+    "friends_count": 24,
+    "listed_count": 3,
+    "favourites_count": 5,
+    "statuses_count": 14,
+    "created_at": "2026-03-18T07:25:06.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2034168812283822080/1773833970",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2034233161916489728/5DEGue_A_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 1,
+  "reply_count": 3,
+  "retweet_count": 15,
+  "favorite_count": 1328,
+  "views_count": 188814,
+  "bookmark_count": 1079,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041760474119929856",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/joAtLXgiPa"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-08T06:11:20.000000Z",
+    "id": 2041760788382413000,
+    "id_str": "2041760788382413137",
+    "title": "タップで丸見え・・・！？",
+    "preview_text": "これはかなり工ッチかも！",
+    "cover_url": "https://pbs.twimg.com/media/HFXMovMa8AIiRhL.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5ouoh",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "edf0o",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a65gb",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ft98",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7pu39",
+          "text": "これはかなり工ッチかも！",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "552314fb-733e-4b6e-84be-d72a3d5e4dc7",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041763022755282944"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "cfd5b100-63b4-4954-9073-c443261118b6",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041763079588081665"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "af48f39e-8737-4bf5-be9b-9f00c8c82297",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041763128095207424"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "78c1ce9d-fd19-4543-9097-ed814adba56f",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041763178250694656"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFXMpsbbQAAKAAIcOtHB3VsAAAAA",
+        "media_id": "2041763022755282944",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 66.27,
+                "rgb": {
+                  "blue": 191,
+                  "green": 82,
+                  "red": 152
+                }
+              },
+              {
+                "percentage": 23.6,
+                "rgb": {
+                  "blue": 92,
+                  "green": 31,
+                  "red": 69
+                }
+              },
+              {
+                "percentage": 3.46,
+                "rgb": {
+                  "blue": 234,
+                  "green": 154,
+                  "red": 236
+                }
+              },
+              {
+                "percentage": 1.72,
+                "rgb": {
+                  "blue": 148,
+                  "green": 64,
+                  "red": 102
+                }
+              },
+              {
+                "percentage": 1.53,
+                "rgb": {
+                  "blue": 36,
+                  "green": 13,
+                  "red": 27
+                }
+              }
+            ]
+          },
+          "original_img_height": 899,
+          "original_img_url": "https://pbs.twimg.com/media/HFXMpsbbQAAz2f9.jpg",
+          "original_img_width": 1816
+        },
+        "media_key": "3_2041763022755282944"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFXMtAJa8AEKAAIcOtHB3VsAAAAA",
+        "media_id": "2041763079588081665",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 50.37,
+                "rgb": {
+                  "blue": 198,
+                  "green": 85,
+                  "red": 160
+                }
+              },
+              {
+                "percentage": 25.92,
+                "rgb": {
+                  "blue": 231,
+                  "green": 141,
+                  "red": 235
+                }
+              },
+              {
+                "percentage": 20.06,
+                "rgb": {
+                  "blue": 100,
+                  "green": 33,
+                  "red": 73
+                }
+              },
+              {
+                "percentage": 2.43,
+                "rgb": {
+                  "blue": 119,
+                  "green": 31,
+                  "red": 75
+                }
+              },
+              {
+                "percentage": 1.15,
+                "rgb": {
+                  "blue": 229,
+                  "green": 116,
+                  "red": 214
+                }
+              }
+            ]
+          },
+          "original_img_height": 899,
+          "original_img_url": "https://pbs.twimg.com/media/HFXMtAJa8AEKOxs.jpg",
+          "original_img_width": 1816
+        },
+        "media_key": "3_2041763079588081665"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFXMv02a8AAKAAIcOtHB3VsAAAAA",
+        "media_id": "2041763128095207424",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 54.79,
+                "rgb": {
+                  "blue": 198,
+                  "green": 82,
+                  "red": 163
+                }
+              },
+              {
+                "percentage": 22.31,
+                "rgb": {
+                  "blue": 213,
+                  "green": 120,
+                  "red": 221
+                }
+              },
+              {
+                "percentage": 15.51,
+                "rgb": {
+                  "blue": 100,
+                  "green": 28,
+                  "red": 78
+                }
+              },
+              {
+                "percentage": 3.68,
+                "rgb": {
+                  "blue": 231,
+                  "green": 113,
+                  "red": 214
+                }
+              },
+              {
+                "percentage": 2.39,
+                "rgb": {
+                  "blue": 110,
+                  "green": 41,
+                  "red": 113
+                }
+              }
+            ]
+          },
+          "original_img_height": 899,
+          "original_img_url": "https://pbs.twimg.com/media/HFXMv02a8AAni73.jpg",
+          "original_img_width": 1816
+        },
+        "media_key": "3_2041763128095207424"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFXMyvsa8AAKAAIcOtHB3VsAAAAA",
+        "media_id": "2041763178250694656",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 61.1,
+                "rgb": {
+                  "blue": 199,
+                  "green": 85,
+                  "red": 185
+                }
+              },
+              {
+                "percentage": 15.3,
+                "rgb": {
+                  "blue": 73,
+                  "green": 25,
+                  "red": 89
+                }
+              },
+              {
+                "percentage": 11.69,
+                "rgb": {
+                  "blue": 113,
+                  "green": 31,
+                  "red": 79
+                }
+              },
+              {
+                "percentage": 4.08,
+                "rgb": {
+                  "blue": 60,
+                  "green": 23,
+                  "red": 95
+                }
+              },
+              {
+                "percentage": 3.29,
+                "rgb": {
+                  "blue": 209,
+                  "green": 79,
+                  "red": 183
+                }
+              }
+            ]
+          },
+          "original_img_height": 899,
+          "original_img_url": "https://pbs.twimg.com/media/HFXMyvsa8AAwAbo.jpg",
+          "original_img_width": 1816
+        },
+        "media_key": "3_2041763178250694656"
+      }
+    ]
+  }
+}

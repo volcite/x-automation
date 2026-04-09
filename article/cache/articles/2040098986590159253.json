@@ -1,0 +1,467 @@
+{
+  "tweet_created_at": "2026-04-03T16:07:56.000000Z",
+  "id": 2040098986590159400,
+  "id_str": "2040098986590159253",
+  "type": "tweet",
+  "conversation_id_str": "2040098986590159253",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/EhsvLHdqk9",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 374699026,
+    "id_str": "374699026",
+    "name": "Agustín Antonetti",
+    "screen_name": "agusantonetti",
+    "location": "Miami, FL",
+    "url": "http://instagram.com/agustinantonetti",
+    "description": "Relaciones Internacionales | Latin America Watch - @FundLibertadRos 🇦🇷 & @FundacionFIL 🇪🇸 | 24",
+    "protected": false,
+    "verified": true,
+    "followers_count": 481127,
+    "friends_count": 974,
+    "listed_count": 1056,
+    "favourites_count": 448234,
+    "statuses_count": 42123,
+    "created_at": "2011-09-16T19:37:17.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/374699026/1767457907",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472953490515410955/nE499_cU_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 16,
+  "reply_count": 26,
+  "retweet_count": 507,
+  "favorite_count": 1207,
+  "views_count": 22161,
+  "bookmark_count": 65,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040092039182757888",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/EhsvLHdqk9"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T16:07:56.000000Z",
+    "id": 2040098986590159400,
+    "id_str": "2040098986590159253",
+    "title": "La mega operación de inteligencia rusa en Argentina. Un peligro para toda América Latina.",
+    "preview_text": "Lo que se descubrió en Argentina esta semana es brutal y tiene que encender las alarmas en el resto de los países de América Latina.\nRusia coordinó una mega red de influencers, periodistas y medios de",
+    "cover_url": "https://pbs.twimg.com/media/HE_eaEnbYAAam5X.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88q3m",
+          "text": "Lo que se descubrió en Argentina esta semana es brutal y tiene que encender las alarmas en el resto de los países de América Latina.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qsin",
+          "text": "Rusia coordinó una mega red de influencers, periodistas y medios de comunicación locales para intentar derrocar al gobierno de Javier Milei. Los documentos filtrados a los que tuvo acceso la organización openDemocracy revelan todo.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 99,
+              "offset": 26,
+              "style": "Bold"
+            }
+          ],
+          "key": "1482f",
+          "text": "El objetivo principal era crear un ambiente de desinformación sobre temas sociales y económicos para producir caos en el país, además de intentar crear un clima hostil hacia Estados Unidos.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dn57r",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 73,
+              "offset": 106,
+              "style": "Bold"
+            }
+          ],
+          "key": "dvq4r",
+          "text": "El líder de \"La Compañía\", así se llamó la falsa empresa encargada de la operación, fue identificado como Lev Konstantinovich Andriashvili, un ciudadano ruso radicado en Argentina, acusado de ser el encargado de recibir el financiamiento y promover vínculos con los colaboradores locales. Esta empresa trabajaba desde Argentina junto al SVR (servicio de inteligencia ruso) y el extinto Grupo Wagner.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 494,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "85n1",
+          "text": "Según los documentos, \"La Compañía\" se dedicó a contratar encuestas, informes sobre el complejo militar-industrial de Argentina y sus recursos petroleros en la Antártida, los partidos políticos y los sindicatos. También efectuó análisis de “riesgos y oportunidades”, perfiles de figuras públicas, “entrevistas a expertos”, “políticos, politólogos y economistas de la oposición”. Trazó, incluso, planes para apoyar a candidatos de la oposición (peronismo) en las elecciones legislativas de 2025.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7blqp",
+          "text": "Solo entre junio y octubre del 2024 se destinaron al menos 283.000 dólares para la operación, pero podría haber sido mucho más. Se pagaron cerca de 250 artículos en más de 20 medios de comunicación. Muchos de estos artículos eran firmados por autores falsos, cuyos rostros eran generados por inteligencia artificial.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6tnvu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8n77b",
+          "text": "El primero, Gabriel di Taranto, se hacía pasar por un graduado de la Universidad Nacional de Avellaneda y aparece en 20 artículos diferentes (C5N, Ámbito y Diario Registrado). Su rostro fue generado con software de Nvidia.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ckjn",
+          "text": "Marcelo Lopreiatto firmó 12 artículos en C5N y Diario Registrado, su rostro fue sacado de un artículo del 2019 de una empresa que regalaba retratos generados por IA.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0ggr",
+          "text": "Juan Carlos López aparece en 9 artículos en Diario Registrado, su cara fue sacada de un banco de imágenes.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94u6p",
+          "text": "Manuel Godsin tampoco existe, su cara corresponde a un ciudadano ruso llamado Mikhail Malyarov y es útilizado como \"perfil virtual\" para propagar desinformación rusa.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58liv",
+          "text": "Los medios presuntamente implicados presentan diferencias en cuanto a audiencias, recursos y líneas editoriales: Infobae, Realpolitik, Ámbito, C5N, Diario Con Vos, El Destape, Big Bang News, Diario Registrado, A24, Dos Bases, La Patriada Web, En Orsai, Sección Ciudad, El Ciudadano Web, Política Argentina, Tiempo Argentino, Grito del Sur, El Cronista, Osorno en Vivo (Chile), Infocielo, Data Clave, Agenda Urbana, Ciudadano Agro, Contraste MDP y En la Mira del Poder.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "86nl6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0i1o",
+          "text": "Otro de los objetivos fue intentar provocar algún conflicto bélico entre Argentina y Chile o, al menos, encender las alarmas y provocar odio entre ambas poblaciones. Para ello inventaron la noticia de argentinos detenidos por la policía chilena con artefactos explosivos y que Milei había enviado grupos de sabotaje para atentar contra el gasoducto trasandino en Chile.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 141,
+              "offset": 246,
+              "style": "Bold"
+            },
+            {
+              "length": 50,
+              "offset": 425,
+              "style": "Bold"
+            }
+          ],
+          "key": "2p6pf",
+          "text": "Muchos de los implicados podrían enfrentarse a una condena por traición a la patria. Actualmente, \"La Compañía\" sigue activa en más de 30 países de África y América Latina. Según una investigación de FOPEA que fue publicada en marzo de este año, Andriashvili e Irina Yakovenko (su esposa) abandonaron Argentina rumbo a San Petersburgo días después de que el gobierno revelara sus nombres, pero regresaron en octubre de 2025. Actualmente ambos siguen viviendo en Buenos Aires.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 20,
+                "text": "openDemocracy",
+                "toIndex": 34
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cepuc",
+          "text": "Mi agradecimiento a @openDemocracy por su trabajo en esta investigación.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "Algunos de los posts que fueron financiados y creados por la operación de inteligencia rusa en Argentina.",
+              "entityKey": "692a5267-7322-4e2d-9a59-3fd764ffc28e",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040094499381411841"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "Algunos de los autores que firmaban las notas: Gabriel di Taranto, Marcelo Lopreiatto, Juan Carlos López y Manuel Godsin. Ninguno era real.",
+              "entityKey": "37071ef2-fedb-4a4e-b3ae-d421dde2afd7",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040094685146890240"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "Los documentos reales filtrados y sus pagos en dólares.",
+              "entityKey": "4eb74caa-78eb-4ff3-b029-7e7fedc1e91d",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040095138429513728"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/fI2fbgAEKAAIAAAAAFlV0EgAA",
+        "media_id": "2040094499381411841",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 63.46,
+                "rgb": {
+                  "blue": 245,
+                  "green": 243,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 22.41,
+                "rgb": {
+                  "blue": 27,
+                  "green": 23,
+                  "red": 38
+                }
+              },
+              {
+                "percentage": 2.94,
+                "rgb": {
+                  "blue": 102,
+                  "green": 122,
+                  "red": 148
+                }
+              },
+              {
+                "percentage": 1.46,
+                "rgb": {
+                  "blue": 25,
+                  "green": 14,
+                  "red": 54
+                }
+              },
+              {
+                "percentage": 0.8,
+                "rgb": {
+                  "blue": 227,
+                  "green": 207,
+                  "red": 163
+                }
+              }
+            ]
+          },
+          "original_img_height": 296,
+          "original_img_url": "https://pbs.twimg.com/media/HE_fI2fbgAEx_x5.jpg",
+          "original_img_width": 800
+        },
+        "media_key": "3_2040094499381411841"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/fTqhXwAAKAAIAAAAAFlV0EgAA",
+        "media_id": "2040094685146890240",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 44.97,
+                "rgb": {
+                  "blue": 237,
+                  "green": 238,
+                  "red": 241
+                }
+              },
+              {
+                "percentage": 19.76,
+                "rgb": {
+                  "blue": 28,
+                  "green": 33,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 15.35,
+                "rgb": {
+                  "blue": 114,
+                  "green": 130,
+                  "red": 180
+                }
+              },
+              {
+                "percentage": 5.86,
+                "rgb": {
+                  "blue": 217,
+                  "green": 196,
+                  "red": 180
+                }
+              },
+              {
+                "percentage": 4.92,
+                "rgb": {
+                  "blue": 84,
+                  "green": 30,
+                  "red": 25
+                }
+              }
+            ]
+          },
+          "original_img_height": 215,
+          "original_img_url": "https://pbs.twimg.com/media/HE_fTqhXwAA4HnJ.jpg",
+          "original_img_width": 800
+        },
+        "media_key": "3_2040094685146890240"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/fuDIXsAAKAAIAAAAAFlV0EgAA",
+        "media_id": "2040095138429513728",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 100,
+                "rgb": {
+                  "blue": 219,
+                  "green": 219,
+                  "red": 219
+                }
+              }
+            ]
+          },
+          "original_img_height": 576,
+          "original_img_url": "https://pbs.twimg.com/media/HE_fuDIXsAABnvX.jpg",
+          "original_img_width": 1011
+        },
+        "media_key": "3_2040095138429513728"
+      }
+    ]
+  }
+}

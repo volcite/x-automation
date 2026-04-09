@@ -1,0 +1,588 @@
+{
+  "tweet_created_at": "2026-04-01T22:52:53.000000Z",
+  "id": 2039476122895978800,
+  "id_str": "2039476122895978628",
+  "type": "tweet",
+  "conversation_id_str": "2039476122895978628",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/ovvqlaDojH",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1755457365057663000,
+    "id_str": "1755457365057662976",
+    "name": "買える化石博物館",
+    "screen_name": "kaseki_jp",
+    "location": "",
+    "url": "https://www.kaseki.jp/",
+    "description": "まるで現代アート。しかもすべて購入可能。\n化石の新しい魅力を提案する「買える化石博物館 TOKYO / FUKUOKA」\n🗼東京店: 2026/5/1 OPEN（4/29プレオープンイベント開催）\n🦖福岡店: 月&金：13-17時、土日祝：12-18時、火水木：休み（祝日の場合は営業）",
+    "protected": false,
+    "verified": true,
+    "followers_count": 3124,
+    "friends_count": 272,
+    "listed_count": 10,
+    "favourites_count": 718,
+    "statuses_count": 370,
+    "created_at": "2024-02-08T05:04:01.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755457365057662976/1730124491",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1912657798955167744/4TdBlRy8_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 44,
+  "reply_count": 4,
+  "retweet_count": 437,
+  "favorite_count": 1797,
+  "views_count": 177791,
+  "bookmark_count": 647,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039472010611609600",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/ovvqlaDojH"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T22:52:53.000000Z",
+    "id": 2039476122895978800,
+    "id_str": "2039476122895978628",
+    "title": "🦖買える化石博物館 TOKYO オープン詳細 2025.5.1オープン🦖",
+    "preview_text": "買える化石博物館 TOKYO\n2026.05.01 GRAND OPEN\nついに東京店がグランドオープンいたします。\n新店舗は新宿区富久町の靖国通り沿いに位置し、売り場面積は100㎡と福岡店の約2倍の規模を誇ります。",
+    "cover_url": "https://pbs.twimg.com/media/HE2tsBubEAA-iRm.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4pnm9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b5mp4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "njmd",
+          "text": "買える化石博物館 TOKYO\n2026.05.01 GRAND OPEN",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aq3ur",
+          "text": "ついに東京店がグランドオープンいたします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2d8ja",
+          "text": "新店舗は新宿区富久町の靖国通り沿いに位置し、売り場面積は100㎡と福岡店の約2倍の規模を誇ります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8plgg",
+          "text": "「現代アート」と「太古のロマン」が交差する、唯一無二の空間。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9am",
+          "text": "地球が何億年もの歳月をかけて創り上げた「自然の造形美」を、ぜひその目でお確かめください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "117ta",
+          "text": "＜グランドオープン概要＞",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "f4rkc",
+          "text": "📅オープン日時\n2026年5月1日（金） 12:00",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1uu9k",
+          "text": "📍所在地\n〒162-0067 東京都新宿区富久町1-6 1階\n買える化石博物館 TOKYO",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a45bd",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "81c0g",
+          "text": "🚃アクセス\n都営新宿線「曙橋駅」徒歩5分\n東京メトロ丸ノ内線「四谷三丁目駅」徒歩9分\n東京メトロ丸ノ内線「新宿御苑前駅」徒歩13分",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6pm28",
+          "text": "🦖販売予定の実物化石（一例）\n・ティラノサウルス（アメリカ）\n・アロサウルス（アメリカ）\n・トロサウルス（アメリカ）\n・カマラサウルス（アメリカ）\n・アンモライト（モササウルスの歯形付き・カナダ）\n・スピノサウルス（モロッコ）\n・モササウルス（モロッコ）\n・テティサウルス（モロッコ）\n・バシロサウルス（モロッコ）\n・ニッポニテス（日本）\n\nその他、世界中仕入れた様々な恐竜、古生物、植物の化石を多数ご用意！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 51,
+              "style": "Bold"
+            }
+          ],
+          "key": "733a1",
+          "text": "✨さらに、東京店限定のオリジナルグッズも。\n今シーズンは、キャップやロンTもラインナップに追加！\n\n\n＜招待者限定 プレオープンイベント開催＞\n\nグランドオープンに先立ち、抽選で60組を特別にご招待いたします。\n混雑を避け、一足先にゆっくりと実物をお楽しみいただけるほか、もちろん当日のお買い物も可能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            },
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 24
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2rvhu",
+          "text": "📅プレオープン日\n2026年4月29日(祝)\n\n🕐時間（3部制）\n13:00 / 15:00 / 17:00",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6c19",
+          "text": "定員\n各回20組（合計120名様）※限定お土産付き",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2eso",
+          "text": "応募方法\n①「買える化石博物館 TOKYO」公式LINEに友だち登録。（期限：4月15日）\n②4月中旬に、公式LINE内にて詳細な申込方法をご案内いたします。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 12,
+                "text": "https://lin.ee/WSsDpo0",
+                "toIndex": 34
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 10
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ftifg",
+          "text": "公式LINEはこちら👀\nhttps://lin.ee/WSsDpo0\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9fdbb",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9tuhj",
+          "text": "\n東京・新宿で、皆さんにお会いできるのを楽しみにしています！\nスタッフ一同、とっておきの化石たちと共にお待ちしております。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f550.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f683.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f440.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f996.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "649e57a6-37c3-4b18-ba35-7c89b3a14792",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039473188099547136"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/2728.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4c5.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "0ef63bc0-9746-4dd8-a37c-b5d7984cdf5d",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039472936508358656"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4cd.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4c5.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "6ccda4ab-4515-4d43-9c3a-c927720c63b5",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039473105194950656"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE2p1IWagAAKAAIYXKMsNprwAAAA",
+        "media_id": "2039472936508358656",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 93.08,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 4.03,
+                "rgb": {
+                  "blue": 201,
+                  "green": 201,
+                  "red": 201
+                }
+              }
+            ]
+          },
+          "original_img_height": 1200,
+          "original_img_url": "https://pbs.twimg.com/media/HE2p1IWagAAu1F4.png",
+          "original_img_width": 951
+        },
+        "media_key": "3_2039472936508358656"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE2p+8wboAAKAAIYXKMsNprwAAAA",
+        "media_id": "2039473105194950656",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 96.94,
+                "rgb": {
+                  "blue": 221,
+                  "green": 228,
+                  "red": 228
+                }
+              },
+              {
+                "percentage": 2.6,
+                "rgb": {
+                  "blue": 117,
+                  "green": 119,
+                  "red": 120
+                }
+              },
+              {
+                "percentage": 0.24,
+                "rgb": {
+                  "blue": 74,
+                  "green": 88,
+                  "red": 171
+                }
+              },
+              {
+                "percentage": 0.16,
+                "rgb": {
+                  "blue": 56,
+                  "green": 56,
+                  "red": 56
+                }
+              }
+            ]
+          },
+          "original_img_height": 638,
+          "original_img_url": "https://pbs.twimg.com/media/HE2p-8wboAAEg3m.jpg",
+          "original_img_width": 1214
+        },
+        "media_key": "3_2039473105194950656"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE2qDxmbYAAKAAIYXKMsNprwAAAA",
+        "media_id": "2039473188099547136",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 72.31,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 20.48,
+                "rgb": {
+                  "blue": 5,
+                  "green": 5,
+                  "red": 5
+                }
+              },
+              {
+                "percentage": 9.95,
+                "rgb": {
+                  "blue": 108,
+                  "green": 108,
+                  "red": 108
+                }
+              }
+            ]
+          },
+          "original_img_height": 360,
+          "original_img_url": "https://pbs.twimg.com/media/HE2qDxmbYAAoWvf.png",
+          "original_img_width": 360
+        },
+        "media_key": "3_2039473188099547136"
+      }
+    ]
+  }
+}

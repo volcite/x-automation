@@ -1,0 +1,711 @@
+{
+  "tweet_created_at": "2026-04-07T03:42:40.000000Z",
+  "id": 2041360986427576300,
+  "id_str": "2041360986427576360",
+  "type": "tweet",
+  "conversation_id_str": "2041360986427576360",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/Nsh8k53lhT",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1414483854606233600,
+    "id_str": "1414483854606233601",
+    "name": "Breastfeed View",
+    "screen_name": "BreastfeedView",
+    "location": "",
+    "url": null,
+    "description": "Images and questions exploring breastfeeding,\nculture, and human connection.\n\nReflections on maternal presence and quiet moments",
+    "protected": false,
+    "verified": true,
+    "followers_count": 32772,
+    "friends_count": 0,
+    "listed_count": 79,
+    "favourites_count": 1856,
+    "statuses_count": 1654,
+    "created_at": "2021-07-12T07:16:58.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414483854606233601/1771745361",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2025472962493906947/jq7amoxH_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 1,
+  "reply_count": 9,
+  "retweet_count": 17,
+  "favorite_count": 1157,
+  "views_count": 987444,
+  "bookmark_count": 1211,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040349646825103360",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/Nsh8k53lhT"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T03:42:40.000000Z",
+    "id": 2041360986427576300,
+    "id_str": "2041360986427576360",
+    "title": "The Line Between Biology and Censorship  ",
+    "preview_text": "A body part can nourish an infant—and still be treated as a regulatory problem.\n\nA recent cultural analysis revisits a familiar inconsistency: in many societies, men’s chests are treated as neutral,",
+    "cover_url": "https://pbs.twimg.com/media/HFDHSKrbcAAO-UB.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7g5kq",
+          "text": "A body part can nourish an infant—and still be treated as a regulatory problem.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2h1gf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "106cc",
+          "text": "A recent cultural analysis revisits a familiar inconsistency: in many societies, men’s chests are treated as neutral, while women’s are subject to layered rules about visibility, modesty, and platform governance. What makes this especially complex is that the same anatomy associated with infant feeding is also filtered through systems designed to manage sexual content.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c88fu",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b0mf1",
+          "text": "The result is not just a cultural debate, but a classification problem.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2uh8i",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4m09j",
+          "text": "What we know",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6n6v8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "au4s4",
+          "text": "Across many digital platforms, policies have historically restricted the display of female nipples while permitting male ones. The stated rationale is often operational: to reduce the spread of explicit content at scale using automated systems.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "i14j",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6eebn",
+          "text": "From a systems perspective, this approach is understandable. Billions of images require moderation, and algorithmic rules tend to favor clear, binary distinctions over contextual nuance. However, these distinctions can blur when applied to breastfeeding, medical education, or artistic expression.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "76k1t",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42fbb",
+          "text": "At the same time, cultural research consistently shows that perceptions of what counts as “sexual” are not fixed. Historical records indicate that different eras—and even different regions within the same era—have assigned varying levels of sensitivity to body parts. In some periods, exposed ankles were controversial; in others, partially exposed breasts were not. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d49pg",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55itv",
+          "text": "This suggests that classification systems are not only technical, but also culturally inherited.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eoj51",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2pfbf",
+          "text": "“Biology explains mechanisms; culture decides meaning.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9jt64",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7miap",
+          "text": "What we don’t know",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "orrf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70qt6",
+          "text": "What remains uncertain is how much these moderation systems shape public perception, rather than simply reflect it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30smk",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4p557",
+          "text": "Do platform rules reinforce the idea that certain body parts are inherently sexual? Or are they merely codifying pre-existing norms at scale?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9u56",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8epei",
+          "text": "There is limited empirical research isolating this effect. While some scholars argue that repeated exposure to censored categories can normalize those boundaries, others note that users often adapt quickly—finding workarounds, reinterpreting rules, or challenging them directly.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2np24",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9012v",
+          "text": "We also lack clarity on long-term behavioral outcomes. Does stricter visual regulation reduce discomfort in public settings, or does it maintain a sense of taboo that spills into offline interactions?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cvusr",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rjms",
+          "text": "“Scientific consensus evolves; social norms evolve more slowly.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1ao5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3lgjm",
+          "text": "Historical perspective",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e90bb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b33in",
+          "text": "Looking backward complicates the assumption that current norms are inevitable.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9nqrt",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4oi4e",
+          "text": "In parts of Europe prior to the modern era, artistic and everyday representations of the body were governed by different conventions. Paintings frequently depicted partial breast exposure without triggering the same moral response seen today.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "90jqf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3s1t",
+          "text": "Even more striking, in the United States, men themselves were once prohibited from appearing bare-chested in public until the early 20th century. The normalization of male toplessness required cultural negotiation, legal change, and time.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bt169",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8a5un",
+          "text": "This history suggests that what feels “natural” in one generation may be reclassified in another.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9nd02",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jsk9",
+          "text": "“Public norms often feel permanent right before they change.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "em402",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vqha",
+          "text": "Social friction",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3rbop",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "858p5",
+          "text": "The tension becomes most visible when biological function intersects with shared space or shared platforms.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9h631",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "600q2",
+          "text": "Breastfeeding, for example, occupies a unique position. It is both a health-related behavior and a visible use of anatomy that may be subject to the same rules applied to sexual content. When moderation systems fail to distinguish between these contexts, the result can be inconsistent enforcement—images removed in one case, allowed in another.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eoalb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ua0s",
+          "text": "Offline, similar ambiguity appears in public settings. A behavior widely recommended by health authorities can still trigger requests for concealment, relocation, or discretion.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fg5ld",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cs5ne",
+          "text": "This is less about contradiction and more about competing frameworks:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "99dsv",
+          "text": "- biological function",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "93jv2",
+          "text": "- cultural interpretation",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58n8v",
+          "text": "- institutional standardization",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7jbh5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jonb",
+          "text": "Each operates with different priorities.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4auge",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56q26",
+          "text": "“Institutions optimize for clarity; human behavior resists clean categories.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "feed",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4om4e",
+          "text": "What we think",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dmea",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "l2o0",
+          "text": "A useful way to understand the issue is not as a single debate, but as overlapping systems trying to solve different problems.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17idl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7v15o",
+          "text": "Public health guidance focuses on outcomes: infant nutrition, maternal well-being, population-level benefits.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbcef",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5l3om",
+          "text": "Cultural norms focus on interpretation: what is appropriate to display, when, and in which contexts.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b9g2h",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "sblr",
+          "text": "Platforms and institutions focus on scalability: rules that can be applied quickly, consistently, and defensibly across millions of cases.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4khjd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3rhni",
+          "text": "Friction arises when these systems intersect without full alignment.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "603ct",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7poh",
+          "text": "“Risk reduction is not risk elimination.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jroj",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "epccv",
+          "text": "Ending",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ivgc",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24t7a",
+          "text": "The ongoing discussion around visibility, censorship, and breastfeeding may say less about any single body part and more about how modern societies manage ambiguity. When one object carries multiple meanings—biological, social, symbolic—no single framework fully contains it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "478kv",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aojj0",
+          "text": "The quieter question is not whether norms will change, but which system—health guidance, cultural expectation, or platform logic—will adapt first.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

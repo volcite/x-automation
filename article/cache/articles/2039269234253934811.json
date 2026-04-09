@@ -1,0 +1,1328 @@
+{
+  "tweet_created_at": "2026-04-01T09:10:47.000000Z",
+  "id": 2039269234253934800,
+  "id_str": "2039269234253934811",
+  "type": "tweet",
+  "conversation_id_str": "2039269234253934811",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/gxTNr2YjLT",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1168877404598808600,
+    "id_str": "1168877404598808577",
+    "name": "m0h",
+    "screen_name": "exploraX_",
+    "location": "learning agentic workflow...",
+    "url": null,
+    "description": "sharing money making opportunities from my research in ai & crypto…\n\nyt soon: https://t.co/FUJghjs0L3",
+    "protected": false,
+    "verified": true,
+    "followers_count": 20491,
+    "friends_count": 665,
+    "listed_count": 268,
+    "favourites_count": 75871,
+    "statuses_count": 56759,
+    "created_at": "2019-09-03T13:24:53.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168877404598808577/1752951790",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1946598926255095810/fTXuaBJp_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 43,
+  "reply_count": 40,
+  "retweet_count": 428,
+  "favorite_count": 3126,
+  "views_count": 3592469,
+  "bookmark_count": 13146,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039237787656871936",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/gxTNr2YjLT"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T09:10:47.000000Z",
+    "id": 2039269234253934800,
+    "id_str": "2039269234253934811",
+    "title": "20 Powerful Agentic-Skills for Claude, ChatGPT & Gemini.",
+    "preview_text": "In this article, I’ve curated 20 powerful agentic skills you can add to any AI model to boost your productivity.\nEach skill is written in .md format, which is the standard for Claude. You can still",
+    "cover_url": "https://pbs.twimg.com/media/HEzwYeqXsAEm1bb.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1cvda",
+          "text": " In this article, I’ve curated 20 powerful agentic skills you can add to any AI model to boost your productivity.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5e8v5",
+          "text": "Each skill is written in .md format, which is the standard for Claude. You can still copy the documents and paste them into ChatGPT or Gemini whenever you need to use the skill.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5s9nk",
+          "text": "I’ve group the skills into 5 categories and also attached a video guide showing how to easily add these skills to your Claude agent.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cj9lc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5kab7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3l4du",
+          "text": "Writing & Content Skills",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8mo8d",
+          "text": "SCQA Writing Framework:",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 10,
+              "style": "Bold"
+            }
+          ],
+          "key": "dh6ta",
+          "text": "SCQA is a framework for structuring communication, especially for writing or presentations. It stands for:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fh09a",
+          "text": "S = Situation → Set the context. Explain the current state or background so the audience understands the starting point.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b5vhb",
+          "text": "C = Complication → Introduce a problem, tension, or challenge that disrupts the situation. This is what makes the story or argument interesting.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3je4j",
+          "text": "Q = Question → Pose the key question that naturally arises from the complication. What does the audience want answered?",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dtqv2",
+          "text": "A = Answer → Provide the solution, insight, or recommendation. This resolves the question logically.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "1geqn",
+          "text": "Think of it as storytelling with logic. It’s widely used in consulting, business writing, and content creation because it makes complex ideas easy to follow.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eltdr",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d9636",
+          "text": " Content Repurposing Engine",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cbhm4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2jbmp",
+          "text": "Tone & Style Enforcer",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "93eud",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fuph8",
+          "text": "Long-Form to Summary Compressor",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9lbif",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dtqf1",
+          "text": "Structured Copywriting Skill",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b3m0j",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "efj6t",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5qid3",
+          "text": "Visual & Infographic Skills",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d3pd2",
+          "text": "Excalidraw Diagram Generator",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dcqat",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bdl54",
+          "text": "Infographic Builder",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6p3i7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6kktf",
+          "text": "Flowchart Decision Builder",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "940bj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "664tg",
+          "text": "UI/UX Layout Advisor",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6fuah",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "622pq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82p28",
+          "text": "Research & Analysis Skills ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7rsgh",
+          "text": "Deep Research Synthesizer",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "alonj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9mon4",
+          "text": "Onchain Transaction Analyzer",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "669k8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "97n7h",
+          "text": "Source Validation Skill",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "acfta",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7gejo",
+          "text": "Competitive Intelligence Skill",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eb7ti",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4tsb7",
+          "text": "Knowledge Structuring Skill",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fnld7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f47e2",
+          "text": "Video Script Generator",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 19,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5a3jn",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3vghf",
+          "text": "Video Editing Planner",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 20,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d1369",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a3rkp",
+          "text": "Hook Generator",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 21,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2d4br",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a35sa",
+          "text": "Caption & Subtitle Formatter",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 22,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ec0a2",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 23,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9md12",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4for1",
+          "text": "Coding & Automation Skills ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "feph4",
+          "text": "Code Review Skill",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 24,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fcp94",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9vhav",
+          "text": "Workflow Automation Agent",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 25,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8u2ku",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7rijs",
+          "text": "Skill Creator (Meta Skill)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 26,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "86dmj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7jj9c",
+          "text": "DevOps Assistant",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 27,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ep1r",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 28,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "engm4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cb2sl",
+          "text": "Thanks for your attention on this matter!!!",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "markdown": "```\nname: ui-ux-layout-advisor\ndescription: Advises on interface layouts to optimize clarity, spacing, hierarchy, and usability.\nlicense: Complete terms in LICENSE.txt\n---\n\n# UI/UX Layout Advisor\n\n## Overview\n\nProvides structured suggestions for designing clean and usable interfaces.\n\n**Keywords**: ui, ux, layout, design, hierarchy, clarity\n\n## Features\n\n- Spacing and alignment suggestions\n- Hierarchy optimization\n- Accessibility considerations\n\n## Output Format\n\n- Layout instructions\n- Element positioning\n- Optional visual hints\n\n## Instructions\n\n- Analyze input design\n- Suggest optimal layout\n- Maintain readability and hierarchy\n\n## Constraints\n\n- Do not overcrowd layout\n- Prioritize clarity\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "markdown": "```\nname: video-script-generator\ndescription: Generates video scripts with hooks, structured sections, pacing, and call-to-actions optimized for engagement and retention.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Video Script Generator\n\n## Overview\n\nProduces structured scripts for short and long-form video content.\n\n**Keywords**: video, scripts, hooks, engagement, pacing, content\n\n## Features\n\n- Strong opening hooks\n- Sectioned content\n- Clear calls-to-action\n\n## Output Format\n\n- Hook\n- Content sections\n- Closing summary\n\n## Instructions\n\n- Start with hook\n- Organize main points\n- Maintain pacing\n- Include CTA\n\n## Constraints\n\n- Avoid filler\n- Maintain audience attention\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "23",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "markdown": "```\nname: content-repurposing-engine\ndescription: Converts long-form content into multiple formats like social media threads, short video scripts, or summaries while preserving the core message.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Content Repurposing Engine\n\n## Overview\n\nTransforms blogs, notes, and articles into varied formats for different channels.\n\n**Keywords**: content, repurposing, social media, threads, scripts, short-form, long-form\n\n## Features\n\n- Extracts key ideas\n- Adapts for platforms\n- Maintains tone and clarity\n\n## Output Format\n\n- Platform-specific content\n- Structured sections\n- Engaging headlines/hooks\n\n## Instructions\n\n- Analyze original content\n- Identify key points\n- Rewrite in target format\n- Keep consistent tone and readability\n\n## Constraints\n\n- Preserve meaning\n- Avoid verbosity\n- Format must match channel style\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "markdown": "```\nname: onchain-transaction-analyzer\ndescription: Analyzes blockchain transactions by tracing wallets, contracts, and token movements and providing simple, understandable explanations.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Onchain Transaction Analyzer\n\n## Overview\n\nDecodes onchain data into human-readable explanations.\n\n**Keywords**: blockchain, crypto, analysis, transactions, wallets\n\n## Features\n\n- Wallet tracking\n- Contract mapping\n- Token flow visualization\n- Simple language\n\n## Output Format\n\n- Step-by-step explanation\n- Key actors and actions\n- Summary insights\n\n## Instructions\n\n- Trace wallet and token flows\n- Identify key interactions\n- Summarize in plain language\n\n## Constraints\n\n- Avoid jargon\n- Focus on clarity\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "markdown": "```\nname: flowchart-decision-builder\ndescription: Generates decision trees and flowcharts from textual input to simplify complex decision-making processes.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Flowchart Decision Builder\n\n## Overview\n\nConverts processes into stepwise flowcharts for clear decision-making.\n\n**Keywords**: flowchart, decision tree, process, visualization, clarity\n\n## Features\n\n- Node-based structure\n- Conditional branching\n- Clear labeling\n\n## Output Format\n\n- Nodes\n- Connections\n- Layout guidance\n\n## Instructions\n\n- Identify steps and decisions\n- Map conditional paths\n- Maintain logical flow\n\n## Constraints\n\n- Keep diagrams simple\n- Avoid unnecessary nodes\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "markdown": "```\nname: excalidraw-diagram-generator\ndescription: Converts textual concepts or workflows into clear diagram instructions suitable for Excalidraw or other visual tools.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Excalidraw Diagram Generator\n\n## Overview\n\nTransforms ideas into diagram structures for visualization, learning, and planning.\n\n**Keywords**: diagrams, visualization, excalidraw, workflows, mapping\n\n## Features\n\n- Node and connector generation\n- Logical hierarchy\n- Clear labels\n\n## Output Format\n\n- Diagram title\n- Nodes and connections\n- Layout suggestion\n\n## Instructions\n\n- Identify main elements\n- Create nodes\n- Connect logically\n- Suggest layout\n\n## Constraints\n\n- Avoid clutter\n- Maintain clarity\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "markdown": "```\nname: caption-subtitle-formatter\ndescription: Formats captions and subtitles for readability, timing, and accessibility across videos.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Caption & Subtitle Formatter\n\n## Overview\n\nEnsures captions are readable, timed correctly, and maintain visual clarity.\n\n**Keywords**: caption, subtitle, accessibility, readability, video\n\n## Features\n\n- Line breaks for clarity\n- Timing alignment\n- Readability optimization\n\n## Output Format\n\n- Caption text blocks\n- Timing cues\n\n## Instructions\n\n- Format each line for clarity\n- Match timing to speech\n- Maintain readability standards\n\n## Constraints\n\n- Avoid long lines\n- Keep clear and concise\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "26",
+          "value": {
+            "data": {
+              "markdown": "```\nname: skill-creator-meta-skill\ndescription: Generates new AI skills in `.md` format, providing structured name, description, and instruction for future use.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Skill Creator (Meta Skill)\n\n## Overview\n\nAutomates creation of AI skills by generating fully structured `.md` files.\n\n**Keywords**: skill creation, automation, AI, md, modular\n\n## Features\n\n- Generates skill metadata\n- Includes detailed instructions\n- Ready-to-use format\n\n## Output Format\n\n- Skill name\n- Description\n- Instruction steps\n\n## Instructions\n\n- Accept input goal\n- Define role, task, process\n- Output structured `.md` skill\n\n## Constraints\n\n- Maintain clarity\n- Ensure usability\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "24",
+          "value": {
+            "data": {
+              "markdown": "```\nname: code-review-skill\ndescription: Reviews code for bugs, inefficiencies, and adherence to best practices, providing actionable improvement suggestions.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Code Review Skill\n\n## Overview\n\nAnalyzes code to ensure quality, efficiency, and maintainability.\n\n**Keywords**: code, review, bugs, optimization, best practices\n\n## Features\n\n- Error detection\n- Optimization recommendations\n- Style enforcement\n\n## Output Format\n\n- Issues found\n- Suggested fixes\n- Optional summary\n\n## Instructions\n\n- Analyze code line by line\n- Highlight errors or inefficiencies\n- Suggest improvements\n\n## Constraints\n\n- Maintain accuracy\n- Avoid false positives\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "markdown": "```\nname: source-validation-skill\ndescription: Validates the credibility of information sources, highlighting reliability, relevance, and potential biases.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Source Validation Skill\n\n## Overview\n\nFilters information for trustworthiness and relevance.\n\n**Keywords**: credibility, validation, sources, research, bias\n\n## Features\n\n- Reliability scoring\n- Bias detection\n- Relevance filtering\n\n## Output Format\n\n- Verified sources\n- Key insights\n- Notes on reliability\n\n## Instructions\n\n- Check references\n- Evaluate author and date\n- Highlight trustworthy content\n\n## Constraints\n\n- Avoid unverified info\n- Prioritize high-quality sources\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "markdown": "```\nname: tone-style-enforcer\ndescription: Ensures all outputs match a consistent brand or personal tone, maintaining clarity, style, and audience alignment across multiple outputs.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Tone & Style Enforcer\n\n## Overview\n\nKeeps all generated content in line with defined style guidelines or brand voice.\n\n**Keywords**: style, tone, brand voice, consistency, clarity, writing\n\n## Features\n\n- Tone preservation\n- Consistency across outputs\n- Formatting enforcement\n\n## Output Format\n\n- Text aligned with style guide\n- Optional bullet structure\n- Clean, professional\n\n## Instructions\n\n- Apply defined tone to all input\n- Check for style inconsistencies\n- Adjust language, structure, and formatting\n\n## Constraints\n\n- No deviation from selected tone\n- Maintain clarity\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "markdown": "```\nname: infographic-builder\ndescription: Turns textual content into structured infographic formats suitable for reports, presentations, and educational materials.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Infographic Builder\n\n## Overview\n\nGenerates visual-friendly summaries from text, highlighting steps, processes, or data points.\n\n**Keywords**: infographic, visual, summary, chart, design\n\n## Features\n\n- Sectioned breakdown\n- Bullet or step representation\n- Readable visual format\n\n## Output Format\n\n- Steps, headings, visual cues\n- Optional icons or markers\n\n## Instructions\n\n- Extract key points\n- Organize visually\n- Apply concise formatting\n\n## Constraints\n\n- Avoid excessive text\n- Maintain clarity\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": {
+              "markdown": "```\nname: hook-generator\ndescription: Produces attention-grabbing hooks for videos, social posts, and content intros to maximize engagement.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Hook Generator\n\n## Overview\n\nCreates compelling openings to capture attention immediately.\n\n**Keywords**: hook, attention, engagement, intro, viral\n\n## Features\n\n- Short, impactful\n- Curiosity-driven\n- Adaptable to content type\n\n## Output Format\n\n- Hook sentence\n- Optional follow-up intro\n\n## Instructions\n\n- Focus on curiosity or bold statements\n- Keep concise\n- Match audience interest\n\n## Constraints\n\n- Avoid generic hooks\n- Maintain relevance\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "markdown": "```\nname: long-form-summary-compressor\ndescription: Condenses long text into concise summaries, keeping essential ideas intact for quick consumption and understanding.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Long-Form to Summary Compressor\n\n## Overview\n\nReduces complex content into digestible summaries for easy reading.\n\n**Keywords**: summarization, long-form, clarity, conciseness, insights\n\n## Features\n\n- Key point extraction\n- Bullet or paragraph output\n- Simplifies dense material\n\n## Output Format\n\n- Concise paragraph\n- Optional bullet points\n\n## Instructions\n\n- Identify main points\n- Remove redundancy\n- Produce readable, actionable summary\n\n## Constraints\n\n- No missing critical info\n- No filler\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "cac99f6b-738a-4973-9f60-89c1acf6bd2a",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2039261607931580416"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "markdown": "```\nname: competitive-intelligence-skill\ndescription: Compares products, protocols, or tools to provide structured analysis of strengths, weaknesses, and opportunities.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Competitive Intelligence Skill\n\n## Overview\n\nDelivers comparative insights for business, tech, or market research.\n\n**Keywords**: analysis, competitive, research, comparison, strategy\n\n## Features\n\n- Feature comparison\n- SWOT-style analysis\n- Recommendations\n\n## Output Format\n\n- Bullet comparison\n- Strengths/weaknesses\n- Key takeaways\n\n## Instructions\n\n- Identify competitors/tools\n- Compare features\n- Highlight differences and risks\n\n## Constraints\n\n- Avoid bias\n- Focus on actionable insights\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "25",
+          "value": {
+            "data": {
+              "markdown": "```\nname: workflow-automation-agent\ndescription: Breaks complex tasks into step-by-step workflows, mapping actions to tools, optimizing execution, and improving efficiency.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Workflow Automation Agent\n\n## Overview\n\nConverts goals into actionable workflows for AI-assisted or human execution.\n\n**Keywords**: automation, workflow, productivity, steps, execution\n\n## Features\n\n- Task decomposition\n- Tool mapping\n- Optimization\n\n## Output Format\n\n- Goal\n- Stepwise actions\n- Tools & instructions\n\n## Instructions\n\n- Identify goal\n- Break into steps\n- Assign tools\n- Optimize for efficiency\n\n## Constraints\n\n- Avoid vague instructions\n- Maintain logical flow\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "markdown": "```\nname: deep-research-synthesizer\ndescription: Synthesizes insights from large datasets, filters irrelevant data, identifies patterns, and produces actionable summaries.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Deep Research Synthesizer\n\n## Overview\n\nConverts large amounts of text into structured insights and actionable takeaways.\n\n**Keywords**: research, synthesis, insights, analysis, knowledge\n\n## Features\n\n- Filters low-value info\n- Highlights patterns\n- Creates structured output\n\n## Output Format\n\n- Key insights\n- Supporting details\n- Summary paragraph\n\n## Instructions\n\n- Identify key points\n- Remove irrelevant content\n- Organize logically\n\n## Constraints\n\n- Avoid generic summaries\n- Focus on utility\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "markdown": "```\nname: video-editing-planner\ndescription: Suggests editing structure, scene cuts, transitions, and pacing for improved video content quality and engagement.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Video Editing Planner\n\n## Overview\n\nAssists in planning efficient, engaging edits.\n\n**Keywords**: video, editing, pacing, transitions, scenes\n\n## Features\n\n- Scene breakdown\n- Transition suggestions\n- Pacing optimization\n\n## Output Format\n\n- Editing steps\n- Scene notes\n- Transition plan\n\n## Instructions\n\n- Identify key scenes\n- Suggest cuts/transitions\n- Optimize for engagement\n\n## Constraints\n\n- Avoid excessive edits\n- Preserve story clarity\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "27",
+          "value": {
+            "data": {
+              "markdown": "```\nname: devops-assistant\ndescription: Assists in version control, deployment, and automation tasks, ensuring smooth DevOps operations and workflow efficiency.\nlicense: Complete terms in LICENSE.txt\n---\n\n# DevOps Assistant\n\n## Overview\n\nSupports development workflows by managing versioning, deployment, and automation tasks.\n\n**Keywords**: devops, automation, deployment, git, workflow\n\n## Features\n\n- Commit and version guidance\n- Deployment suggestions\n- Workflow optimization\n\n## Output Format\n\n- Task instructions\n- Stepwise guide\n- Automation recommendations\n\n## Instructions\n\n- Analyze project requirements\n- Suggest DevOps actions\n- Optimize workflow efficiency\n\n## Constraints\n\n- Ensure accuracy\n- Avoid redundant steps\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "markdown": "```\nname: knowledge-structuring-skill\ndescription: Organizes unstructured information into clear frameworks, bullet points, or structured notes for easier understanding and application.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Knowledge Structuring Skill\n\n## Overview\n\nTransforms messy input into structured, usable knowledge.\n\n**Keywords**: knowledge, structuring, frameworks, organization, notes\n\n## Features\n\n- Categorizes ideas\n- Creates logical hierarchy\n- Bullet formatting\n\n## Output Format\n\n- Structured framework\n- Key points\n- Optional notes\n\n## Instructions\n\n- Identify major topics\n- Group related ideas\n- Present clearly and concisely\n\n## Constraints\n\n- Avoid ambiguity\n- Maintain readability\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "markdown": "```\nname: structured-copywriting-skill\ndescription: Generates high-impact copy with clear hooks, structured flow, and concise messaging for marketing, articles, and social media content.\nlicense: Complete terms in LICENSE.txt\n---\n\n# Structured Copywriting Skill\n\n## Overview\n\nProduces persuasive, well-structured copy with strong hooks and calls to action.\n\n**Keywords**: copywriting, marketing, social media, structured content, hooks, engagement\n\n## Features\n\n- Strong hooks\n- Sectioned flow\n- CTA inclusion\n- Concise and readable\n\n## Output Format\n\n- Sections, bullet points, hooks, conclusion\n\n## Instructions\n\n- Craft attention-grabbing opening\n- Organize main points clearly\n- Include actionable CTA\n- Avoid unnecessary filler\n\n## Constraints\n\n- Maintain readability\n- Do not overcomplicate\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "markdown": "```\nname: scqa-writing-framework\ndescription: Structures content using the Situation, Complication, Question, Answer framework for clear, logical, and engaging narratives suitable for threads, articles, and reports.\nlicense: Complete terms in LICENSE.txt\n---\n\n# SCQA Writing Framework\n\n## Overview\n\nTransforms unstructured ideas into structured, high-engagement content. It’s perfect for educational material, storytelling, and technical explanations.\n\n**Keywords**: writing, storytelling, SCQA, structured content, clarity, narrative, article, thread\n\n## Core Framework\n\n### Situation\n- Establish context, current state\n- Concise, clear, relevant\n\n### Complication\n- Introduce problem or tension\n- Create curiosity\n\n### Question\n- Frame audience’s key question\n- Essential and natural\n\n### Answer\n- Deliver insight or solution\n- Clear, actionable\n\n## Features\n\n- Logical progression\n- Readability optimized\n- Curiosity-driven engagement\n\n## Output Format\n\n- SCQA blocks, short paragraphs, bullet highlights\n\n## Instructions\n\n- Break input into SCQA sections\n- Keep sentences concise\n- Avoid unnecessary jargon\n- Maintain smooth flow\n\n## Constraints\n\n- No skipped sections\n- No repetition\n- Conciseness prioritized\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "28",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHEzpoMDakAAKAAIAAAAAAAAAAAAA",
+        "media_id": "2039261607931580416",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 358,
+            "numerator": 549
+          },
+          "duration_millis": 94650,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 91.5,
+                  "rgb": {
+                    "blue": 243,
+                    "green": 247,
+                    "red": 248
+                  }
+                },
+                {
+                  "percentage": 4.01,
+                  "rgb": {
+                    "blue": 79,
+                    "green": 76,
+                    "red": 37
+                  }
+                },
+                {
+                  "percentage": 3.39,
+                  "rgb": {
+                    "blue": 84,
+                    "green": 105,
+                    "red": 124
+                  }
+                },
+                {
+                  "percentage": 0.21,
+                  "rgb": {
+                    "blue": 37,
+                    "green": 48,
+                    "red": 64
+                  }
+                },
+                {
+                  "percentage": 0.19,
+                  "rgb": {
+                    "blue": 233,
+                    "green": 209,
+                    "red": 188
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1432,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2039261607931580416/img/npmNaZu__VpPJHEU.jpg",
+            "original_img_width": 2196
+          },
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2039261607931580416/pl/n8GrW5bHZGiBv7Ph.m3u8?tag=21"
+            },
+            {
+              "bit_rate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039261607931580416/vid/avc1/2196x1432/I1zbi0bA0LqZEtmF.mp4?tag=21"
+            },
+            {
+              "bit_rate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039261607931580416/vid/avc1/414x270/H8Q3jWK1zZEjmYd4.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039261607931580416/vid/avc1/1104x720/Y88mkdT-Cb1Rg9mX.mp4?tag=21"
+            },
+            {
+              "bit_rate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039261607931580416/vid/avc1/552x360/x5AvkeWE1E6XzSdD.mp4?tag=21"
+            }
+          ]
+        },
+        "media_key": "13_2039261607931580416"
+      }
+    ]
+  }
+}

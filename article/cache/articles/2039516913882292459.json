@@ -1,0 +1,316 @@
+{
+  "tweet_created_at": "2026-04-02T01:34:59.000000Z",
+  "id": 2039516913882292500,
+  "id_str": "2039516913882292459",
+  "type": "tweet",
+  "conversation_id_str": "2039516913882292459",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/S7BQHRePi1",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1975113924862431200,
+    "id_str": "1975113924862431232",
+    "name": "内向哲学",
+    "screen_name": "naikoutetsugaku",
+    "location": "",
+    "url": "https://note.com/yumaevo",
+    "description": "運営者@yumaevo｜「読んだ人の思考,視点,知恵を深化する」「孤独を愛する人に向けた実践と哲学」を両軸に、内向的な人の人生戦略を発信しています。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 58129,
+    "friends_count": 1,
+    "listed_count": 115,
+    "favourites_count": 849,
+    "statuses_count": 1121,
+    "created_at": "2025-10-06T08:20:38.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2018700453920591872/b3CGfxbo_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 102,
+  "reply_count": 7,
+  "retweet_count": 344,
+  "favorite_count": 3037,
+  "views_count": 2878317,
+  "bookmark_count": 2862,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039515996927717376",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/S7BQHRePi1"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T01:34:59.000000Z",
+    "id": 2039516913882292500,
+    "id_str": "2039516913882292459",
+    "title": "内向型が「社会適合者」になろうとすると、心が死んでいく話",
+    "preview_text": "「真面目すぎる内向型」は、なぜかメンタルをやられやすいと思っています。\n「内向型には人間関係の刺激に弱い性質がある。」",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26jj5",
+          "text": "「真面目すぎる内向型」は、なぜかメンタルをやられやすいと思っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ntu5",
+          "text": "「内向型には人間関係の刺激に弱い性質がある。」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "hbtt",
+          "text": "そこまではよく言われる話ですが、問題はその先で、「だから外向的社会にちゃんと適応しなければ」と真面目に思えば思うほど、じわじわと心が削れていくんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3pj86",
+          "text": "この外向型な社会では、内向型がムリに「社会適合者」になろうとするのは、メンタルがすり減る原因になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7p1eq",
+          "text": "心理学の研究で面白いものがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cj9no",
+          "text": "「人見知り」という状態は、内向性そのものから来るのではなく、内向性に「神経症傾向（マイナス面を気にしやすい性質）」と、「協調性の高さ（人に合わせがちな傾向）」が重なったときに初めて生まれる、というのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5cp10",
+          "text": "つまり「内向的であること」と「心がすり減ること」は、実は別の話なんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1kpfj",
+          "text": "「内向型だからメンタルをやられる」わけじゃなくて、内向型のうえに真面目で、ちゃんとしなきゃというある種の過敏さが重なったとき、極めてきつくなる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3u61m",
+          "text": "逆に言えば、内向型でも生きやすい人は生きやすいのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 42,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bbkvc",
+          "text": "内向型がお手本にすべきなのは、「いい意味で不真面目な内向型」だとぼくは思っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ttgn",
+          "text": "たとえばこんな人のイメージです。クラスにひとりはいませんでしたか、教室の隅でいつも本を読んでいるけど、別に暗い感じもしなくて、呼ばれたら普通に笑うし、ぼちぼち周りともうまくやれてる、そんな人。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2omp5",
+          "text": "その人は別に無理してなかったんです。周囲の目をそこまで気にせず、自分のペースで生きていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fcld4",
+          "text": "だからメンタルが崩れててるようには見えなかったんですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "anjs8",
+          "text": "真面目な人に「真面目になるな」というのは酷な話で、それは分かっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qits",
+          "text": "でも、「もう適当でいいか」という、ある種の諦めというか、開き直りは、本当に大切だとぼくは感じています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6neh0",
+          "text": "「きちんと社交しなければ」「みんなに合わせなければ」「孤立と思われてはいけない」という全力の適応を、少し手放す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bv2ej",
+          "text": "のらりくらりと、細々と、ぼちぼちと。それが内向型にとって、一番消耗しない生き方なんじゃないかなと思っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2mu0e",
+          "text": "◆内向型が「良い意味で不真面目」になる方法",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://note.com/yumaevo/n/nff32e0afad24",
+                "toIndex": 40
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 40,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e3dcl",
+          "text": "https://note.com/yumaevo/n/nff32e0afad24",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1vv6d",
+          "text": "◆内向型を圧倒的な強みにする生存戦略",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://note.com/yumaevo/n/n652c8e29534b",
+                "toIndex": 40
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 40,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8f6k6",
+          "text": "https://note.com/yumaevo/n/n652c8e29534b",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://note.com/yumaevo/n/nff32e0afad24"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://note.com/yumaevo/n/n652c8e29534b"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

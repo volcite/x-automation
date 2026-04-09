@@ -1,0 +1,1369 @@
+{
+  "tweet_created_at": "2026-04-06T09:11:44.000000Z",
+  "id": 2041081412863111400,
+  "id_str": "2041081412863111391",
+  "type": "tweet",
+  "conversation_id_str": "2041081412863111391",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/f59ov67MEq",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1974631524,
+    "id_str": "1974631524",
+    "name": "對木 拳 | Ken Tsuiki",
+    "screen_name": "ken_coach12",
+    "location": "コーチング受講のご相談は公式LINEへ→",
+    "url": "https://lin.ee/P0udzeK",
+    "description": "自分の能力を発揮しきれていない人へ｜原因は実力不足じゃない｜視点を変えてあなたの\"ブレーキ\"を外す｜独自の強み発掘し、価値を形にするコーチ｜7年・500名以上支援｜大手広告代理店→LINEヤフー→独立",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4640,
+    "friends_count": 628,
+    "listed_count": 55,
+    "favourites_count": 83829,
+    "statuses_count": 25138,
+    "created_at": "2013-10-20T10:32:08.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974631524/1757313270",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1983035555261878272/TK0Uc8eI_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 72,
+  "reply_count": 6,
+  "retweet_count": 197,
+  "favorite_count": 2089,
+  "views_count": 1105232,
+  "bookmark_count": 2161,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041065342374739968",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/f59ov67MEq"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T09:11:44.000000Z",
+    "id": 2041081412863111400,
+    "id_str": "2041081412863111391",
+    "title": "北川景子さんのINFJの使い方が唸るほどうまい件",
+    "preview_text": "このシリーズでは、自身のタイプを「知っている」から「使えている」に変えるヒントをお届けしています。\n今回は「INFJ」について。",
+    "cover_url": "https://pbs.twimg.com/media/HFNguEabgAAvMYA.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5vlq3",
+          "text": "このシリーズでは、自身のタイプを「知っている」から「使えている」に変えるヒントをお届けしています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "donbm",
+          "text": "今回は「INFJ」について。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7749",
+          "text": "「人口の1%しかいない希少タイプ」「理想主義者」「深い洞察力」。書いてあることは分かる。けど、翌日の行動は何も変わらない。むしろ「自分は人と違う」感覚だけが強化されて、余計に孤立した気さえする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "gmdr",
+          "text": "北川景子さんは、自身のXで「MBTIをやってみました。結果は提唱者と出ました。どういう意味なんでしょう笑」と投稿している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "et2ti",
+          "text": "「どういう意味なんでしょう」",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "721b1",
+          "text": "この一言が、すでにINFJっぽい。意味を確認せずにはいられない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ef386",
+          "text": "結論から言うと、北川さんのINFJの使い方は、うまい。同じタイプなのにここまで差がつくのか、と唸るくらいうまい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "orah",
+          "text": "同じINFJでも、結果が出る人と出ない人がいる。その差は、タイプの「特性」そのものではなく、特性の「活かし方」にある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1pr8r",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3ffmj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvcgc",
+          "text": "INFJの教科書的な強みは大きく3つ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c2g09",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "frkuo",
+          "text": "北川さんは、震災体験から「生きる意味」を問い続け、共演者やファンへの細やかな気配りがあり、女優としての理想を粘り強く追い続けている。「だからINFJの典型例だね」と、ここで終わると普通のMBTI解説。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5di8f",
+          "text": "でも、よく見ると、意味の探し方も、共感の使い方も、理想との向き合い方も、どこか教科書とズレている。そのズレこそが、結果の差を生んでいる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6hpuh",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ecotp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "frgar",
+          "text": "意味探しを「行動の起点」で行う",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 53,
+              "style": "Bold"
+            }
+          ],
+          "key": "gs9h",
+          "text": "INFJの最も強い認知機能はNi（内向的直観）。「意味がないと動けない」性質。多くのINFJは、行動の前に「なぜやるのか」「自分がやる意味は何か」を確認したがる。これ自体はINFJの強み。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1kfr",
+          "text": "北川さんも当然これを持っている。でも、面白いのは、意味を\" 見つけてから動く \"のではなく、意味を\" つくりに行っている \"。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9nv6f",
+          "text": "阪神淡路大震災。当時小学2年生の北川さんは、弟の手を引いてパジャマのまま避難した。震源地に近い地域で、同級生の多くが命を落とした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dloh",
+          "text": "「なぜ自分は助かったのか」「なんとなく残ったことが申し訳ない」。8歳の子どもが抱えるには重すぎる問いを、北川さんはずっと持ち続けた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6crr6",
+          "text": "そんなとき、数学の先生が全校生徒の前でこう話した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 42,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6rkr5",
+          "text": "「置かれた場所で咲きなさい。それができないときは、下へ下へ、深く根を下ろしなさい」。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72ifu",
+          "text": "\n北川さんはこの言葉で「今ここに生かされているからには、目の前の与えられた役割を全うしてやっていこう」と思えたと語っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "57gif",
+          "text": "ここからの時系列が興味深い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g2tg",
+          "text": "震災をきっかけに「人の役に立ちたい」→ 医者を目指す。理系コースに入り、国立大を目指して勉強漬けの日々。でも成績が伸びず挫折。高校時代にスカウトされ、モデル・女優の道へ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3079j",
+          "text": "普通なら「挫折して方向転換した」で終わる話。でもここにINFJの構造が出ている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fo4nu",
+          "text": "北川さんは「人の役に立つ」という意味は手放していない。手放したのは「医者」という手段の方。そして女優になった後も「ルックスで選ばれているだけ」という時期に苦しみながら、「表現者として社会に貢献したい」に意味を更新している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnsdn",
+          "text": "「意味が見つかってから動いた」のではない。 先に一歩踏み出して、そこで意味が更新されている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3m7oq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jn11",
+          "text": "INFJは「意味」に対する執着が強い。だからこそ、一度見つけた意味に固執して動けなくなりがち。でも北川さんは意味の中身を入れ替えながら、「意味を持って生きる」という軸だけ残している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "195ch",
+          "text": "つまり、意味の中身は躊躇なく入れ替える。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "23tif",
+          "text": "\nもし今「ここにいる意味がわからない」と感じているなら、それは意味がないんじゃない。まだ次の一歩を踏み出していないだけかもしれない。意味は、踏み出した先で後から追いついてくることだってある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8cf71",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4s04p",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3vu3c",
+          "text": "完璧主義は「注ぐ先を選び直す」でコントロール",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "470di",
+          "text": "INFJは理想が高い。Ni（内向的直観）で「こうあるべき」が明確に見え、Fe（外向的感情）で他者からの期待も正確に拾う。この二つが合わさると、完璧主義になりやすい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djips",
+          "text": "多くのINFJは、この完璧主義を「もっと良くしなきゃ」「もっとちゃんとしなきゃ」と自分を追い込む。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "puv1",
+          "text": "北川さんも20代の時は、分刻みの自分ルールがあった。「午後9時までに台本を覚えて、11時までに家事も終わらせ、絶対に12時までには深い睡眠に入る」。その通りにいかないと「自分ってダメだな」と落ち込む。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bt0cp",
+          "text": "完璧主義が、自分を縛る檻になっている典型的な状態。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d455g",
+          "text": "でもうまいのは、北川さんがこの完璧主義を「やめた」のではなく、注ぐ先を入れ替えたこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7uprk",
+          "text": "母になると「両方を100%でやろうとすると、結局無理なんだな」と認めた。その上で「家に入ったら仕事の話はしない。100%母でいたい」という決まりを作った。子どもが台本を読む姿を見たことがない、というくらい徹底している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ptll",
+          "text": "完璧主義を「手放した」んじゃない。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2lp6d",
+          "text": "完璧にする対象を「選び直した」。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8pk3",
+          "text": "\nこれ、クライアントにもいた。管理職の方。仕事も育児も家事も趣味の勉強も、全部に100%を注いでいた。でも、「最近、何をやっても手応えがない」と。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96dst",
+          "text": "私が聞いたのは一つだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6i0vf",
+          "text": "「その中で、今100%を注がなくていいものはどれですか？」",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bnd53",
+          "text": "結局、その方は趣味の勉強を一旦60%に落とした。たったそれだけで、翌月には仕事の成果が目に見えて変わっていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pd78",
+          "text": "仕事も家庭も100%。これは完璧主義じゃなくて、ただの自分いじめだと思う。本当の完璧主義は",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4jova",
+          "text": "「何に100%を注ぐか」を選べること。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "44vrc",
+          "text": "それ以外を60%に落とす勇気も、完璧主義。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6qfs9",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1bsqs",
+          "text": "完璧主義に苦しんでいる人に伝えたいのは、「やめなきゃ」じゃなくて、「今、100%を注いでいる対象は本当に正しいか？」という問い。注ぐ先を一つズラすだけで、同じ完璧主義がまったく別の結果を生むかもしれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8k2u",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dl28i",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2g353",
+          "text": "ペルソナを意図的に「着替えている」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4khpf",
+          "text": "会議で、自分の意見じゃない言葉を言っている瞬間がある。求められている答えが先に見えてしまうから、そのまま口にする。場の空気は保たれる。でも帰り道に、なんとも言えない疲れが残る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nvpq",
+          "text": "これ、INFJあるあるだと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eaecm",
+          "text": "INFJはFe（外向的感情）で他者の期待を正確に読み取る。だからこそ「期待される自分」を自動的に演じてしまう。そして気づいたら、演じている自分と本当の自分の区別がつかなくなる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgs0v",
+          "text": "多くのINFJは「ペルソナを脱いで、本当の自分を生きよう」とする。自分探し、素の自分、ありのまま。どれも方向としては正しい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fek7s",
+          "text": "北川さんは凄いのは、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2udn4",
+          "text": "ペルソナを脱ごうとせず、着替えていること。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bcjcg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31pqn",
+          "text": "20代は「ルックスで選ばれている」ことに苦しんでいた。「芝居で求められてるわけじゃない」。自分より美人なんていくらでもいるし、容姿だけでは限界がある。表現者として社会に貢献したいのに、求められるのは「きれいな女優」としてのペルソナだった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jru1",
+          "text": "30代になると別のペルソナ地獄が来た。キャリアが長くなるほど、周囲が勝手に「できる人」として扱う。北川さん自身、「だんだん知らないとは言えない気持ち」になってしまった。「できるよね？」という無言の圧。実力じゃなくキャリアの長さで期待されるあの感じ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bamn7",
+          "text": "ここまではINFJのFe的な苦しみの典型例だと思う。面白いのはここから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "20nvs",
+          "text": "北川さんはインタビューで「私にとって、ずっと変わらないほうが恐怖」と語っている。バリキャリ役や完璧なイメージに縛られていた時期を経て、母親役のオファーが増え、表現の幅が広がった。「驚かれるような役に挑むことこそが醍醐味」と。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2f9b5",
+          "text": "さらに印象的なのが、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g5h5",
+          "text": "「朝起きたら、北川景子やるぞって感じ」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4j9h",
+          "text": "という発言。自分で自覚的にペルソナを着ている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ch68b",
+          "text": "ペルソナは脱げなくなると苦しい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28ivu",
+          "text": "北川さんはペルソナを着ていることを自覚しているからこそ、着替えられる。「きれいな女優」から「実力派」へ、「完璧な女優」から「母親でもある女優」へ。役割が変わるたびに、自分の意思でペルソナを選び直している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jjlp",
+          "text": "「本当の自分を見つけなきゃ」と思っている人は多い。でも北川さんを見ていると、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1dl5",
+          "text": "本当の自分を探すより、",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vo60",
+          "text": "今着ている自分に気づく方が先",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bj40i",
+          "text": "なんじゃないかと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8pmm1",
+          "text": "自覚できれば、着替えられる。着替えられれば、固着しない。INFJの共感力を「他者の期待に応え続ける」ためではなく、「場面に応じた自分を選び取る」ために使う。これがペルソナとの健全な付き合い方だと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4m9hh",
+          "text": "今日一日を振り返って、「演じている感覚」があった場面を一つだけ思い出してみてほしい。その演技は、自分で選んだものだったか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60ejf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bgckj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "98olv",
+          "text": "北川景子さんの「タイプ変換の3ステップ」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2l9ek",
+          "text": "北川さんの3ステップを整理する。INFJだからこそ持っている強みを、教科書とは少し違う方向に使っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6kkhv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enmb0",
+          "text": "ただ、北川さんの場合も正確には「変換」より「ズラし」の方が近い。強みそのものは教科書通りのINFJ。変えているのは、その強みを何に対して使うか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jppa",
+          "text": "照準を一つズラすだけで、 同じ強みがまったく別の結果を生んでいる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85k6",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7brjo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "brp70",
+          "text": "あなたのタイプは「活かせている」側か？",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3la7d",
+          "text": "この3つの問いを自分に投げかけてみてほしい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ageqe",
+          "text": "① 今「意味がわからない」と感じていることは、意味がないのではなく、まだ踏み出していないだけではないか？ ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2c9r",
+          "text": "「意味を見つけてから動こう」と思っている限り、意味は来ない。意味は踏み出した先で追いついてくることもある。もし今の場所に意味を感じられないなら、それは場所が間違っているサインではなく、まだ次の一歩が足りていないサインかもしれない。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6ul4m",
+          "text": "② 完璧にしようとしている対象は、本当に今100%を注ぐべきものか？ ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aviuu",
+          "text": "全部に100%を注いでいないか。それは完璧主義じゃなくて、優先順位の不在。「何を60%にするか」を決めることで、本当に大事なものに100%を注げるようになる。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8i6vm",
+          "text": "③ 今着ているペルソナは、自分で選んだものか？ それとも気づいたら固着していたものか？ ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv8ed",
+          "text": "ペルソナを脱ぐ必要はない。でも「今これを着ている」と自覚しているかどうかで、苦しさはまったく変わる。自覚できれば、着替えられる。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qdb3",
+          "text": "\nこの3つに即答できるなら、あなたはすでにタイプを「活かせている」側にいると思う。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "09935dce-2ed5-4b0c-9ef3-1b4c05600b23"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "bc17857e-cd91-42ed-86a9-ced7ad387051"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "560ee78c-ed97-4508-97dc-db788f0ed371",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041075109885284352"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "52da87aa-32b7-4caf-a1aa-b2ebe71003f9",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041074675233718272"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "7f43a8ed-2636-4fd4-82bb-24cfacda1a8c"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "0397b52f-c749-49b1-8339-689f0775f66e"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "024fe46d-fcfa-4389-833f-9549f9862a2c",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041076278523269120"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "433a766d-d7fb-4f0d-b3f1-29a9440c9404"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "348b100d-1e0c-4a70-ba76-4609281bd13b"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "789de84e-2aad-4524-b294-bdbed38a72ba",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041074937608445952"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "74d73609-8517-46ae-b9a9-24f00987ec71",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041074489740734464"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFNabzEbsAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2041074489740734464",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 90.09,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 7.61,
+                "rgb": {
+                  "blue": 121,
+                  "green": 122,
+                  "red": 120
+                }
+              },
+              {
+                "percentage": 1.51,
+                "rgb": {
+                  "blue": 168,
+                  "green": 201,
+                  "red": 240
+                }
+              },
+              {
+                "percentage": 0.36,
+                "rgb": {
+                  "blue": 74,
+                  "green": 141,
+                  "red": 237
+                }
+              },
+              {
+                "percentage": 0.23,
+                "rgb": {
+                  "blue": 56,
+                  "green": 56,
+                  "red": 56
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFNabzEbsAArUzw.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2041074489740734464"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFNammFaAAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2041074675233718272",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.42,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 7.01,
+                "rgb": {
+                  "blue": 118,
+                  "green": 115,
+                  "red": 111
+                }
+              },
+              {
+                "percentage": 0.39,
+                "rgb": {
+                  "blue": 55,
+                  "green": 134,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.19,
+                "rgb": {
+                  "blue": 127,
+                  "green": 164,
+                  "red": 218
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFNammFaAAAzqI1.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2041074675233718272"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFNcD6zbEAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2041076278523269120",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.8,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 7.09,
+                "rgb": {
+                  "blue": 123,
+                  "green": 124,
+                  "red": 124
+                }
+              },
+              {
+                "percentage": 0.11,
+                "rgb": {
+                  "blue": 57,
+                  "green": 57,
+                  "red": 57
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFNcD6zbEAAUAiy.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2041076278523269120"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFNa13gaoAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2041074937608445952",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 94.06,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 4.69,
+                "rgb": {
+                  "blue": 124,
+                  "green": 121,
+                  "red": 121
+                }
+              },
+              {
+                "percentage": 1.05,
+                "rgb": {
+                  "blue": 60,
+                  "green": 122,
+                  "red": 219
+                }
+              },
+              {
+                "percentage": 0.17,
+                "rgb": {
+                  "blue": 86,
+                  "green": 124,
+                  "red": 184
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFNa13gaoAAieBn.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2041074937608445952"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFNa/5SakAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2041075109885284352",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 94.82,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 3.72,
+                "rgb": {
+                  "blue": 124,
+                  "green": 124,
+                  "red": 124
+                }
+              },
+              {
+                "percentage": 1.32,
+                "rgb": {
+                  "blue": 148,
+                  "green": 195,
+                  "red": 240
+                }
+              },
+              {
+                "percentage": 0.11,
+                "rgb": {
+                  "blue": 90,
+                  "green": 158,
+                  "red": 233
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HFNa_5SakAAT0ty.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2041075109885284352"
+      }
+    ]
+  }
+}

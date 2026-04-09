@@ -1,0 +1,513 @@
+{
+  "tweet_created_at": "2026-04-01T12:20:43.000000Z",
+  "id": 2039317032123121700,
+  "id_str": "2039317032123121783",
+  "type": "tweet",
+  "conversation_id_str": "2039317032123121783",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/0aE8K790kH",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1903052831659024400,
+    "id_str": "1903052831659024384",
+    "name": "Action Model",
+    "screen_name": "ActionModelAI",
+    "location": "",
+    "url": "https://linktr.ee/ActionModel",
+    "description": "The future of AI shouldn't be owned by big tech, it should be owned by all of us. Discord: https://t.co/S4Fj0GcQos",
+    "protected": false,
+    "verified": true,
+    "followers_count": 44986,
+    "friends_count": 24,
+    "listed_count": 34,
+    "favourites_count": 1186,
+    "statuses_count": 802,
+    "created_at": "2025-03-21T11:57:31.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903052831659024384/1764159170",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1993647821992701952/1UJZFUhu_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 877,
+  "reply_count": 576,
+  "retweet_count": 1932,
+  "favorite_count": 2393,
+  "views_count": 23827,
+  "bookmark_count": 30,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039265587780853760",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/0aE8K790kH"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T12:20:43.000000Z",
+    "id": 2039317032123121700,
+    "id_str": "2039317032123121783",
+    "title": "AI agents will dominate 2026, but who actually benefits? ",
+    "preview_text": "AI agents will dominate 2026. \nEveryone can see it coming.\nStartups are racing to build them.\nInvestors are pouring billions into them.\nWorkers will rely on them for everything.\nBut almost no one is",
+    "cover_url": "https://pbs.twimg.com/media/HE0a7P1boAAuvsn.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bogto",
+          "text": "AI agents will dominate 2026. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abine",
+          "text": "Everyone can see it coming.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "keh6",
+          "text": "Startups are racing to build them.\nInvestors are pouring billions into them.\nWorkers will rely on them for everything.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5sle",
+          "text": "But almost no one is asking the only question that matters:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "13qgv",
+          "text": "Who actually benefits?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "286p1",
+          "text": "Because we’ve seen this before.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "81ed1",
+          "text": "The internet created instant information. Google captured it.\nSocial media created community. Meta monetized it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1clf7",
+          "text": "Now AI agents will create productivity at scale…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehr2u",
+          "text": "And the same thing is about to happen again.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80nuk",
+          "text": "Builders will build.\nUsers will use.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "dlrqr",
+          "text": "But the value?  It flows to the few companies that own the models.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85eu1",
+          "text": "Right now, that’s Big Tech.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fglgf",
+          "text": "Not the builders.\nNot the users.\nNot the people training the systems.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8d589",
+          "text": "And here’s the part most people miss:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 52,
+              "style": "Bold"
+            }
+          ],
+          "key": "dj83t",
+          "text": "AI isn’t just trained by engineers.\nIt’s trained by millions of people every day. By you.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bqt2a",
+          "text": "Your work.\nYour decisions.\nYour behavior online.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3p11q",
+          "text": "Every task you complete improves the system.\nEvery interaction adds signal.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "foums",
+          "text": "You are helping build it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mnq5",
+          "text": "But you don’t own any of it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "76d0r",
+          "text": "So what happens next?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bhvm",
+          "text": "AI agents don’t just automate tasks.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8uc51",
+          "text": "They replace entire workflows.\nThey compress experience.\nThey reduce the need for labor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 18,
+              "style": "Italic"
+            }
+          ],
+          "key": "3eh9h",
+          "text": "And as they scale…they concentrate power.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "blfq9",
+          "text": "Not with the people contributing to them, but with the companies that own them.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7s98m",
+          "text": "That’s the real risk. Not AI itself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5ru40",
+          "text": "Centralized AI ownership.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7mqio",
+          "text": "Because if AI becomes the interface to the whole internet…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3cme8",
+          "text": "Whoever owns the models\ncontrols the workflows\ncontrols the productivity\ncontrols the value",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ad6fj",
+          "text": "And ultimately…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eclv4",
+          "text": "controls the future of work.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kk40",
+          "text": "That system is being built right now.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enp5o",
+          "text": "And most people are contributing to it, without realizing they’re giving everything away.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 12,
+              "offset": 12
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 12,
+              "style": "Bold"
+            }
+          ],
+          "key": "didms",
+          "text": "That’s what Action Model aims to change.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2rh6g",
+          "text": "A different model. A community-owned model.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cvfcq",
+          "text": "Where the people who train AI, benefit from it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f9i6o",
+          "text": "Where contribution is rewarded, not extracted.\nWhere ownership is distributed, not concentrated.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "m13s",
+          "text": "Because this next wave isn’t about who builds AI.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7r9u",
+          "text": "It’s about who owns it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "crgqm",
+          "text": "And if we get that wrong…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cun25",
+          "text": "We don’t just lose upside.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9o2bt",
+          "text": "We lose control.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 22,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7ubea",
+          "text": "Download the extension. Start training.\nClaim your stake in the future of AI.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://actionmodel.com"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://train.actionmodel.com/sign-up"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

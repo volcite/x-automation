@@ -1,0 +1,376 @@
+{
+  "tweet_created_at": "2026-04-07T12:32:40.000000Z",
+  "id": 2041494363403161600,
+  "id_str": "2041494363403161655",
+  "type": "tweet",
+  "conversation_id_str": "2041494363403161655",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/1W3zdztNZa",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1686901686185721900,
+    "id_str": "1686901686185721857",
+    "name": "Commentary Donald J. Trump Posts From Truth Social",
+    "screen_name": "TrumpDailyPosts",
+    "location": "United States of America",
+    "url": "https://trumpdailyposts.com/",
+    "description": "Reposting Trump’s Truth Social posts (with date/time) on X + news/commentary. Unofficial. Profile Artist: @ElenaRuseva1 Not affiliated with @realdonaldtrump.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 2873375,
+    "friends_count": 23916,
+    "listed_count": 6395,
+    "favourites_count": 43601,
+    "statuses_count": 26002,
+    "created_at": "2023-08-03T00:48:07.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686901686185721857/1717108459",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1757203362381168640/j9704gu__normal.jpg",
+    "can_dm": false,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/WesternJournalX",
+      "badge_url": "https://pbs.twimg.com/profile_images/1389677740685623296/3kkAgmhY_bigger.jpg",
+      "description": "The Western Journal",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    },
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 62,
+  "reply_count": 693,
+  "retweet_count": 157,
+  "favorite_count": 1282,
+  "views_count": 2325725,
+  "bookmark_count": 220,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041489832686571520",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/1W3zdztNZa"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T12:32:39.000000Z",
+    "id": 2041494363403161600,
+    "id_str": "2041494363403161655",
+    "title": "🚨Trump Posts Cryptic Message on Iran at Deadline",
+    "preview_text": "𝐍𝐄𝐖 𝐓𝐑𝐔𝐌𝐏 𝐏𝐎𝐒𝐓 & 𝐕𝐈𝐃𝐄𝐎 𝐁𝐄𝐋𝐎𝐖 𝟒.𝟎𝟕.𝟐𝟔\n──────────────────────────────\n \n \n𝐗 𝐀𝐫𝐭𝐢𝐜𝐥𝐞 𝐛𝐲 𝐓𝐨𝐝𝐝 𝐂𝐞𝐟𝐚𝐫𝐚𝐭𝐭𝐢",
+    "cover_url": "https://pbs.twimg.com/media/HFTUkSOaIAAu6Nl.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aaarg",
+          "text": "𝐍𝐄𝐖 𝐓𝐑𝐔𝐌𝐏 𝐏𝐎𝐒𝐓 & 𝐕𝐈𝐃𝐄𝐎 𝐁𝐄𝐋𝐎𝐖 𝟒.𝟎𝟕.𝟐𝟔",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58m5",
+          "text": "──────────────────────────────",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cvohc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4uglm",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19lkb",
+          "text": "𝐗 𝐀𝐫𝐭𝐢𝐜𝐥𝐞 𝐛𝐲 𝐓𝐨𝐝𝐝 𝐂𝐞𝐟𝐚𝐫𝐚𝐭𝐭𝐢 @𝐓𝐫𝐮𝐦𝐩𝐃𝐚𝐢𝐥𝐲𝐏𝐨𝐬𝐭𝐬 𝟒.𝟎7.𝟐𝟔 ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a5u5u",
+          "text": "Trump warns a civilization may die tonight, but real hope for Iran remains! President Donald Trump posted a sobering yet hopeful message on Truth Social tonight, warning that a whole civilization in Iran could die and never be brought back again. He said he does not want that to happen, but it probably will unless real change takes place. Trump noted that with complete and total regime change now underway, where different, smarter, and less radicalized minds prevail, something revolutionarily wonderful could still happen. He called it one of the most important moments in the long and complex history of the world, adding that 47 years of extortion, corruption, and death will finally end. He closed with a heartfelt prayer: God bless the great people of Iran.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5t8eg",
+          "text": "This post captures the gravity of the moment as the situation in Iran reaches a critical point. For 47 years, since the 1979 Islamic Revolution, the Iranian people have lived under a brutal theocratic regime that has brought them nothing but suffering. The mullahs have ruled with an iron fist, exporting terror abroad while crushing dissent at home. They have stolen the country’s wealth, executed opponents, suppressed women, and turned a once-proud nation into an international pariah. Trump’s words reflect the sad reality that the current regime may not survive the pressure it now faces, but he also leaves room for hope that something better could rise in its place.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ee6f1",
+          "text": "Regular Americans have watched Iran’s aggression for decades. They remember the hostage crisis, the chants of “Death to America,” the attacks on our troops through proxy militias, the nuclear cheating, and the constant threats to close the Strait of Hormuz. For too long, weak policies from Washington allowed the regime to grow bolder. Trump has taken a different path. He has applied maximum pressure through sanctions, supported strong military action when necessary, and made it clear that Iran will never be allowed to obtain nuclear weapons. His post tonight shows both the seriousness of the situation and his underlying hope that the Iranian people can finally be free from the tyranny that has oppressed them for nearly half a century.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dpkca",
+          "text": "The phrase “a whole civilization will die tonight” is heavy, but it is also accurate. The current Islamic Republic has warped Iranian culture, history, and identity. It has replaced Persian pride with radical ideology, turned neighbors into enemies, and wasted the country’s vast natural resources on terror and nuclear ambitions instead of building a prosperous society. If the regime collapses under the weight of its own failures and the pressure from outside, that version of Iran will indeed die. Trump makes it clear he does not rejoice in the suffering of the Iranian people. He distinguishes between the regime and the great people of Iran who deserve so much better.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5cl8i",
+          "text": "What makes Trump’s message especially powerful is the note of hope he offers. He points to the possibility of “complete and total regime change” where different, smarter, and less radicalized minds take over. This is not about invasion or occupation. It is about supporting the Iranian people so they can reclaim their own country. Trump has said before that he wants to see Iran made great again once the current leadership is gone or transformed. His post tonight keeps that door open. If the regime falls or fundamentally changes course, there is a real chance for a new Iran that respects its people, lives in peace with its neighbors, and becomes a productive member of the international community.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2332k",
+          "text": "Average Americans understand the stakes. A nuclear Iran or a regime that continues to sponsor terror would threaten the entire world. It would endanger Israel, destabilize the Middle East, drive up energy prices, and eventually put American lives at risk. By confronting the threat now, Trump is trying to prevent a much larger and more dangerous conflict later. This preventive approach is wise. History shows that ignoring aggressive dictators rarely ends well. Dealing with them while their power is still limited is far better than waiting until they become unstoppable.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "52jon",
+          "text": "The 47 years of extortion, corruption, and death Trump mentioned tell the real story of the Islamic Republic. Since 1979, the regime has executed tens of thousands of its own citizens, funded terrorist organizations around the globe, and used its oil wealth to spread hatred rather than build a better society. Women have been brutalized for refusing to wear the hijab. Young people have been gunned down for demanding basic freedoms. Minorities have been persecuted. The regime’s leaders have lived in luxury while the people have suffered poverty and repression. Trump’s post acknowledges that long dark chapter and expresses hope that it is finally coming to an end.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1s8el",
+          "text": "This moment is indeed one of the most important in world history. The outcome in Iran will shape the Middle East and global security for decades. If the regime collapses or is forced to make genuine concessions, it could open the door to a new era of stability. If it somehow survives in its current form, the danger will remain. Trump’s leadership has brought us to this crossroads by refusing to accept the status quo. He has rebuilt American military strength, strengthened alliances with Israel and Gulf states, and applied consistent pressure that the regime cannot ignore.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ug90",
+          "text": "The post also shows Trump’s compassion for the Iranian people. He does not celebrate their suffering. He prays for them and hopes for a better future. That distinguishes him from leaders who have treated the Iranian people and the regime as one and the same. Trump has always made it clear that his fight is with the regime, not with the proud and ancient Persian civilization. The Iranian people deserve freedom, prosperity, and the chance to live without fear. Many of them have risked everything to protest the regime in recent years. Their courage deserves our respect and support.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d2f95",
+          "text": "As events unfold tonight and in the coming days, the world will be watching. The pressure on the regime is immense. Its military capabilities have been degraded, its economy is strained, and its people are restless. Trump’s message tonight balances realism with hope. He acknowledges the possibility of painful change but also holds out the prospect of something “revolutionarily wonderful” if better leadership emerges.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddfe4",
+          "text": "For average Americans, this is about more than foreign policy. It is about safety, energy prices, and the kind of world our children will inherit. A weaker, less aggressive Iran means fewer threats to our troops, more stable oil markets, and less money flowing to terrorist groups. It also means a stronger position for our allies, especially Israel, which has faced constant danger from Iranian-backed forces.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fbcq5",
+          "text": "Trump’s post is a reminder that strong leadership requires both courage and wisdom. He has shown courage by confronting the threat directly. He is showing wisdom by leaving room for a positive outcome if the Iranian people seize the moment. This is the kind of balanced, America First approach that has defined his foreign policy.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3vain",
+          "text": "As the situation develops, one thing is certain: the era of unchecked Iranian aggression is coming to an end. Whether it ends through regime collapse, internal reform, or decisive military action, the long night of 47 years of tyranny may finally be lifting. Trump’s words tonight reflect both the seriousness of the moment and the hope for a better tomorrow for the people of Iran and for the world.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "adhaj",
+          "text": "Share your thoughts in the comment section.",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2obcd",
+          "text": "Sources for X Article",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 37,
+                "text": "https://truthsocial.com/@realDonaldTrump/posts/116363336033995961",
+                "toIndex": 102
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4tea8",
+          "text": "Truth Social - Donald J. Trump post: https://truthsocial.com/@realDonaldTrump/posts/116363336033995961",
+          "type": "unordered-list-item"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "𝐃𝐨𝐧𝐚𝐥𝐝 𝐉. 𝐓𝐫𝐮𝐦𝐩 𝐓𝐫𝐮𝐭𝐡 𝐒𝐨𝐜𝐢𝐚𝐥 - 𝐀𝐩𝐫𝐢𝐥 𝟕, 𝟐𝟎𝟐𝟔, 𝟎𝟖:𝟎𝟔 𝐀𝐌 𝐄𝐒𝐓 - 𝐅𝐮𝐥𝐥 𝐒𝐭𝐨𝐫𝐲 @ 𝐕𝐢𝐝𝐞𝐨 𝐁𝐞𝐥𝐨𝐰👇\n\n",
+              "entityKey": "c3a00aec-5510-4c3d-b424-1ff8a988d282",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041491340383674369"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "cb041dd8-4750-4118-a81c-af27540eef76",
+              "tweetId": "2041472018810364267"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFTVjsua4AEKAAIXaRQlYBuAAQAA",
+        "media_id": "2041491340383674369",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.47,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.9,
+                "rgb": {
+                  "blue": 149,
+                  "green": 139,
+                  "red": 140
+                }
+              },
+              {
+                "percentage": 0.16,
+                "rgb": {
+                  "blue": 125,
+                  "green": 137,
+                  "red": 207
+                }
+              },
+              {
+                "percentage": 0.15,
+                "rgb": {
+                  "blue": 163,
+                  "green": 123,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 0.11,
+                "rgb": {
+                  "blue": 67,
+                  "green": 82,
+                  "red": 201
+                }
+              }
+            ]
+          },
+          "original_img_height": 596,
+          "original_img_url": "https://pbs.twimg.com/media/HFTVjsua4AEfi7e.jpg",
+          "original_img_width": 1027
+        },
+        "media_key": "3_2041491340383674369"
+      }
+    ]
+  }
+}

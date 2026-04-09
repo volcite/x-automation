@@ -1,0 +1,562 @@
+{
+  "tweet_created_at": "2026-04-06T06:00:24.000000Z",
+  "id": 2041033261967942000,
+  "id_str": "2041033261967941977",
+  "type": "tweet",
+  "conversation_id_str": "2041033261967941977",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/UhWVdkaFye",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1645718130549989400,
+    "id_str": "1645718130549989379",
+    "name": "レイラ66",
+    "screen_name": "layla_biz",
+    "location": "",
+    "url": null,
+    "description": "人生60年の経験から見える、日常のツッコミと人間関係の本音を発信｜若い世代には｢そういう見方あるんだ｣、同世代には｢それな｣を届けたい",
+    "protected": false,
+    "verified": true,
+    "followers_count": 10161,
+    "friends_count": 314,
+    "listed_count": 70,
+    "favourites_count": 63612,
+    "statuses_count": 54269,
+    "created_at": "2023-04-11T09:19:22.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1645718130549989379/1774410627",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1689069849929293825/jU0fz6GB_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 64,
+  "reply_count": 3,
+  "retweet_count": 167,
+  "favorite_count": 1577,
+  "views_count": 2399010,
+  "bookmark_count": 1363,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040912729138241536",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/UhWVdkaFye"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T06:00:24.000000Z",
+    "id": 2041033261967942000,
+    "id_str": "2041033261967941977",
+    "title": "中尾明慶さんの「価値観は合わなくたっていい」が、恋愛観をひっくり返す",
+    "preview_text": "「価値観が合う人がいい」\n恋愛や結婚の話になると、ほとんど反射みたいにこの言葉が出てくる。\nでも、それって本当だろうか。\n長く続く関係ほど、価値観はきれいに揃っていない。\n揃っていないのに続いている。",
+    "cover_url": "https://pbs.twimg.com/media/HFLHYb_bwAIXIe6.png",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bk0r2",
+          "text": "「価値観が合う人がいい」\n恋愛や結婚の話になると、ほとんど反射みたいにこの言葉が出てくる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dabl1",
+          "text": "でも、それって本当だろうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 50,
+              "style": "Bold"
+            }
+          ],
+          "key": "2h9j5",
+          "text": "長く続く関係ほど、価値観はきれいに揃っていない。\n揃っていないのに続いている。\nいや、正確に言うと、揃っていないことを問題にしないから続いているのかも...",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28t5m",
+          "text": "中尾明慶さんの「価値観は合わなくたっていい」という言葉が刺さるのは、ただ優しいからじゃない。\n恋愛で本当に関係を壊すものが何かを、ちゃんと見抜いているから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6r29i",
+          "text": "人が苦しくなるのは、「違う」ことそのものじゃない。\n違いが見えた瞬間に、どちらかが縮こまり始めること。\n言いたいことを飲み込む。\nやりたいことを引っ込める。\n相手の機嫌を見て、自分を少しずつ小さくしていく。\nそれが積もると、関係は静かに息苦しくなる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgvv2",
+          "text": "好きな服が違う。\nやりたい仕事が違う。\n使いたい時間が違う。\nお金の感覚が違う。\n休み方も、人との距離感も違う。\n一緒に生きていれば、ズレなんていくらでも出る。\nむしろ、全部ぴったり同じなほうが不自然。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4j28t",
+          "text": "私自身、長く人間関係を見てきて思う。\n壊れる関係は、違いがあったから壊れるんじゃない。\nその違いを誰かが“欠点”として扱い始めたときに、空気が変わる。\n最初は「へえ、そうなんだ」で済んでいたことが、「普通こうでしょ」「そこは合わせるべきじゃない？」に変わっていく。\n問題は、そのズレを直すべきものとして扱うのか、それとも相手の輪郭として受け止められるのかだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9srdk",
+          "text": "尊重は、放任とは違う",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "db38d",
+          "text": "「好きなことをやっていいよ」\n「新しい挑戦は全力で支える」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "773rp",
+          "text": "こういう言葉を、無関心や放任だと受け取る人もいる。\nでも本質は逆。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ba8b0",
+          "text": "本当に無関心なら、相手の人生を支えようなんて思わない。\n応援するのは、その人の未来を“その人のもの”として見ているから。\nつまりそれは放任ではなく、尊重。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1kfic",
+          "text": "逆にここがわからない人は、すぐ愛と管理を混同する。\n連絡頻度を決めたがる。\n交友関係に口を出したがる。\n不機嫌でコントロールしたがる。\nしかも決まり文句はだいたい同じ。\n「心配してるだけ」\n「好きだから言ってる」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ed76",
+          "text": "でもそれ、愛というより不安の押しつけだったりする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86el4",
+          "text": "女性が本当に見ているのは、「管理してくれるか」ではない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 29,
+              "style": "Bold"
+            }
+          ],
+          "key": "c41g8",
+          "text": "女性が求めているのは、管理じゃない。\n本当に知りたいのは、この人は自分の人生をそのまま肯定してくれるのかということだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "874b9",
+          "text": "やりたいことがある。\n挑戦したいことがある。\n少し危なっかしくても、自分の足で進みたい。\nそういう衝動を見せたときに、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5e2tq",
+          "text": "「危ないからやめなよ」\n「普通はこうするでしょ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "euv29",
+          "text": "となるのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjbg1",
+          "text": "それとも、\n「いいじゃん、やってみなよ」\n「失敗しても味方でいるよ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2arr",
+          "text": "となるのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 38,
+              "style": "Bold"
+            }
+          ],
+          "key": "639n7",
+          "text": "女性が見ているのは、この差。\n愛されたいのはもちろんある。\nでもそれ以上に、自分らしさを消さずに愛されるかを見ている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dpd63",
+          "text": "言葉は優しいのに、やりたいことに水を差す。\n会いたい人に微妙な顔をする。\n新しい挑戦をすると急に機嫌が悪くなる。\n小さなことでも、それが積み重なると人は自分を引っ込めるようになる。\nそれを「落ち着いた関係」と呼ぶなら、危ない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hojh",
+          "text": "恋で終わる男は「同じであること」を求める",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9d9ng",
+          "text": "恋で終わる男は、「わかり合う」を履き違えやすい。\n価値観が同じこと、気分が同じこと、タイミングが同じことを安心材料にする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kqi8",
+          "text": "でもそれは、相手を愛しているというより、自分にとって扱いやすい状態でいてほしいだけの場合。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dqsp6",
+          "text": "一方で、人生の相棒になれる人は違う。\n違いがあることを前提に、それでも関係をつくろうとする。\n相手の違いを脅威ではなく、その人らしさとして受け止められる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 36,
+              "style": "Bold"
+            }
+          ],
+          "key": "a191e",
+          "text": "長く一緒にいるほど、人は変わる。\nだから最後に残るのは、「一致」ではなく対話。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ng1d",
+          "text": "結婚40年を過ぎた私たちも、性格は見事なくらい正反対。\nそれでも続いてきたのは、夫が私のことを「合わない」と切り捨てるより、どこかおもしろがって見ているところがあるからかもしれない。\n人生の相棒になれる人は、「違い」ごと面白がれる。\nこういう人は強い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eds0p",
+          "text": "長続きする愛に必要なのは、熱量より対話",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b53me",
+          "text": "愛は、「好き」の熱量だけでは長続きしない。\n好きだから一緒にいる。\nそれは大事。\nでも、それだけでは生活を越えられない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 14,
+              "style": "Bold"
+            }
+          ],
+          "key": "64as3",
+          "text": "長く続く関係に必要なのは、\nこの人となら、対話を重ねながら自分らしく人生を歩める\nという感覚。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rvgq",
+          "text": "意見が違っても話せる。\nすれ違っても修復できる。\n相手の自由を怖がらずにいられる。\n自分の自由も、罪悪感なしに持てる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8tmph",
+          "text": "私が年齢を重ねてつくづく思うのは、本当に安心できる相手って、いつも盛り上がれる相手じゃないということ。\n違う意見を言っても空気が凍らない。\n返事が少し遅くても、変な疑い方をされない。\n何かに夢中になっても、「俺のことは？」で話を止めてこない。\nそういう相手のほうが、結局ずっと強い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bj516",
+          "text": "愛の顔をした「支配」に気をつけたい",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dj70q",
+          "text": "厄介なのは、支配がいつも愛っぽい顔で近づいてくることだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ngr6",
+          "text": "「君のためを思って」\n「普通のカップルならそれくらいする」\n「好きだから嫉妬する」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88e9p",
+          "text": "一見やさしく聞こえるけれど、その中に相手の自由を削るものが混ざっていることがある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "800s5",
+          "text": "本当にいい関係は、相手の人生を小さくしない。\n相手が相手のままでいられる余白を残す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17uv7",
+          "text": "価値観が同じじゃないと幸せになれない。\nそう思っている人ほど、“正解の一致”を求めすぎる。\nでも幸せな関係に必要なのは、価値観の完全一致じゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6nn4n",
+          "text": "違いがあっても話せること。\n違いがあっても尊重できること。\n違いがあっても、不安を理由に相手を支配しないこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bqrmf",
+          "text": "愛とは、縛り合うことじゃない。\n自由を認め合いながら、それでも隣にいると決め続けること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d37mg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 46,
+                "text": "layla_biz",
+                "toIndex": 56
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 10,
+              "offset": 46
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "29umi",
+          "text": "こういう“関係の本質”みたいなことを書いている。\n刺さったら、フォローしてのぞいてみてね。\n@layla_biz",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eu61h",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "pucc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68lts",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://x.com/@layla_biz"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "tweetId": "2038858974397915426"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "tweetId": "2039221674546253854"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

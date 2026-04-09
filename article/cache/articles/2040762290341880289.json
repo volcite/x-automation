@@ -1,0 +1,286 @@
+{
+  "tweet_created_at": "2026-04-05T12:03:40.000000Z",
+  "id": 2040762290341880300,
+  "id_str": "2040762290341880289",
+  "type": "tweet",
+  "conversation_id_str": "2040762290341880289",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/23M0NxkHUl",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1519027155467911200,
+    "id_str": "1519027155467911170",
+    "name": "The Inner Circle Trader",
+    "screen_name": "I_Am_The_ICT",
+    "location": "In The Machine",
+    "url": "http://TheInnerCircleTrader.com",
+    "description": "The Ghost In The Machine.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 787373,
+    "friends_count": 0,
+    "listed_count": 4270,
+    "favourites_count": 66492,
+    "statuses_count": 23314,
+    "created_at": "2022-04-26T18:55:09.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1519027155467911170/1664970048",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1608560432897314823/ErsxYIuW_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 3,
+  "reply_count": 54,
+  "retweet_count": 100,
+  "favorite_count": 1178,
+  "views_count": 48142,
+  "bookmark_count": 116,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040757000800264192",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/23M0NxkHUl"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T12:03:40.000000Z",
+    "id": 2040762290341880300,
+    "id_str": "2040762290341880289",
+    "title": "King Of Kings Day",
+    "preview_text": "My King was BORN King!\nThe Bible says my King is a seven-way King.  He's the King of the Jews; that's a racial King.  He's the King of Israel; that's a national King.  He's the King of Righteousness. ",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "33p2p",
+          "text": "My King was BORN King!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e03d9",
+          "text": "The Bible says my King is a seven-way King.  He's the King of the Jews; that's a racial King.  He's the King of Israel; that's a national King.  He's the King of Righteousness.   He's the King of the Ages.  He's the King of Heaven.   He's the King of Glory.   He's the King of Kings, and He's the Lord of Lords.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 51,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "dks7m",
+          "text": "That's my King!   Well, I wonder, do you know Him? ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ruh0",
+          "text": "David said, \"The Heavens declare the glory of God and the firmament shows His handiwork\".  My King is a sovereign King.  No means of measure can define His limitless love.  No far-seeing telescope can bring into visibility the coastline of His shoreless supply.  No barrier can hinder Him from pouring out His blessings.   He's enduringly strong.   He's entirely sincere.   He's eternally steadfast.   He's immortally graceful.   He's imperially powerful.   He's impartially merciful.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "53ml2",
+          "text": "Let me ask you once again, do you know Him?  ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "friro",
+          "text": "He's the greatest phenomenon that ever crossed this world's horizon.   He was the fullness of the Godhead bodily.   He's a sinner's Savior... He's the centerpiece of civilization.   He stands in the solitude of Himself.   He's awesome.   He's unique.   He's unparalleled.   He's unprecedented.   He's the loftiest idea in literature.   He's the highest personality in philosophy.   He's the supreme problem in higher criticism.   He's the fundamental doctrine of true theology.   He's the cardinal necessity of spiritual religion.   He's the miracle of the age.   He's the superlative of everything good that you choose to call Him.   He's the only one qualified to be an all-sufficient Savior!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "92itr",
+          "text": "I wonder if you know Him today.  ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "sigp",
+          "text": "He supplies strength for the weak.   He's available for the tempted and the tried.   He sympathizes and He saves.   He strengthens and sustains.   He guards and He guides.   He heals the sick.    He cleanses lepers.    He forgives sinners.    He discharges debtors.    He delivers captives.    He defends the feeble.    He blesses the young.    He serves the unfortunate.    He regards the aged.    He rewards the diligent.    And He beautifies the meek.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "1sudc",
+          "text": "I wonder if you really know Him!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fej2",
+          "text": "Well, my King is THE King.   He's the key to knowledge.    He's the wellspring to wisdom.    He's the doorway of deliverance.    He's the pathway of peace.    He's the roadway of righteousness.    He's the highway of holiness.    He's the gateway of glory!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "f0272",
+          "text": "Do you know Him?  ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8mr17",
+          "text": "His office is manifold.    His promise is sure.    His light is matchless.    His goodness is limitless.    His mercy is everlasting.    His love never changes.    His Word is enough.    His grace is sufficient.    His reign is righteous.    And His yoke is easy, and his burden is light!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 61,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "9m2tm",
+          "text": "I wish I could describe Him to you, but He's indescribable!  ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f91bj",
+          "text": "He's incomprehensible.    He's invincible.    He's irresistible.  You can't get Him out of your mind.    You can't get Him off of your hand.    You can't outlive Him; and you can't live without Him.    The Pharisees couldn't stand Him, but they found out they couldn't stop Him.    Pilate couldn't find any fault in Him.    The witnesses couldn't get their testimonies to agree.    Herod couldn't kill Him.    Death couldn't handle Him; and the grave couldn't hold Him!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "df922",
+          "text": "Praise be to the King of Kings and Lord of Lords, Jesus Christ is RISEN!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajet0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4c9t2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6htpa",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "boisd",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

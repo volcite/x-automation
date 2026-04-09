@@ -1,0 +1,265 @@
+{
+  "tweet_created_at": "2026-04-03T08:00:40.000000Z",
+  "id": 2039976361192985000,
+  "id_str": "2039976361192984992",
+  "type": "tweet",
+  "conversation_id_str": "2039976361192984992",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/E5ASHwumPF",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1955188540662497300,
+    "id_str": "1955188540662497280",
+    "name": "映画『木挽町のあだ討ち』公式",
+    "screen_name": "kobikicho_movie",
+    "location": "木挽町",
+    "url": "https://kobikicho-movie.jp/",
+    "description": "直木賞・山本周五郎賞W受賞作。 その真実が紐解かれる時、人の情けと驚きが感動を呼ぶ。江戸の町に花開く、心震わす極上エンターテインメントミステリー。2026年2月27日(金)公開 ❆ 出演 #柄本佑 #長尾謙杜 #北村一輝 #渡辺謙 ❆ 原作：#永井紗耶子 ❆ 監督・脚本 #源孝志 主題歌 #椎名林檎",
+    "protected": false,
+    "verified": true,
+    "followers_count": 26228,
+    "friends_count": 10,
+    "listed_count": 59,
+    "favourites_count": 241,
+    "statuses_count": 624,
+    "created_at": "2025-08-12T08:44:19.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955188540662497280/1757368803",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1965173305348161542/8oOontPy_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/Toei_films",
+      "badge_url": "https://pbs.twimg.com/profile_images/875624406495539200/vn_zEs8o_bigger.jpg",
+      "description": "東映映画公式",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    },
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 88,
+  "reply_count": 2,
+  "retweet_count": 624,
+  "favorite_count": 2716,
+  "views_count": 182100,
+  "bookmark_count": 81,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039965762107158528",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/E5ASHwumPF"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T08:00:40.000000Z",
+    "id": 2039976361192985000,
+    "id_str": "2039976361192984992",
+    "title": "全国の劇場で追加上映決定！",
+    "preview_text": "全国の劇場で追加上映が決定しました！【4月3日（金）時点】\n詳しくは下記ご参照ください。\n［東京都］船堀シネパル：4/3(金)～\n［神奈川県］シネコヤ：5/1(金)～\n　　　　　　港南台シネサロン：5/15(金)～",
+    "cover_url": "https://pbs.twimg.com/media/HE9s-QRaYAAkwDY.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qbg8",
+          "text": "全国の劇場で追加上映が決定しました！【4月3日（金）時点】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cb74r",
+          "text": "詳しくは下記ご参照ください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 665,
+              "offset": 39,
+              "style": "Bold"
+            }
+          ],
+          "key": "amj78",
+          "text": "［東京都］船堀シネパル：4/3(金)～\n［神奈川県］シネコヤ：5/1(金)～\n　　　　　　港南台シネサロン：5/15(金)～\n［千葉県］イオンスペースシネマ野田：4/3(金)～\n　　　　　キネマ旬報シアター：5/2(土)～\n［茨城県］笠間ポレポレホール：4/3(金)～\n　　　　　シネマサンライズ：4/17(金)～\n［山梨県］シアターセントラルBe館：4/10(金)～\n［福島県］まちポレいわき：4/3(金)～\n［岩手県］イオンシネマ江釣子：4/20(月)～\n［秋田県］御成座：5/8(金)～\n［山形県］鶴岡まちなかキネマ：4/25(土)～\n［青森県］青森松竹アムゼ：4/10(金)～\n［北海道］シネマアイリス：上映中\n［京都府］アップリンク京都：4/3(金)～\n［兵庫県］ヱビスシネマ。：4/17(金)～\n　　　　　豊岡劇場：4/24(金)～\n　　　　　パルシネマしんこうえん：4/26(日)～\n　　　　　洲本オリオン：5/1(金)～\n［岐阜県］CINEX：5/9(金)～\n［和歌山県］ジストシネマ御坊：4/17(金)～\n　　　　　　ジストシネマ田辺：4/17(金)～\n［広島県］八丁座：4/3(金)～\n　　　　　呉ポポロシアター：5/1(金)～\n［島根県］Shimane Cinema ONOZAWA：5/13(水)～\n［高知県］あかつきシアター：5/1(金)～\n［愛知県］東海市創造の杜交流館：4/17(金)～\n［福岡県］大川シネマホール：4/17(金)～\n［佐賀県］THEATER ENYA：4/10(金)～\n［沖縄県］シネマパレット：4/3(金)～\n　　　　　南の島パニパニシネマ：4/24(金)～",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "46j0",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7usch",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "12lo4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dtvcs",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e08ka",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c6mgc",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "5b3e819c-1fd1-4006-9590-852e29418136",
+              "tweetId": "2039875693555892474"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "aa6e181a-87d8-48b6-886b-468984a14ad2",
+              "tweetId": "2034819424231072004"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "8e507e2e-0e33-4836-ba38-b744e64b0338",
+              "tweetId": "2039636457959432408"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "3f62dde4-b7d0-4a1b-ab5a-941bb1af6a60",
+              "tweetId": "2038894185613586708"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "2148598d-13c4-4441-8e33-7a462291862a",
+              "tweetId": "2039644009526956109"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

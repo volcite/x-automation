@@ -1,0 +1,1182 @@
+{
+  "tweet_created_at": "2026-04-03T15:44:10.000000Z",
+  "id": 2040093005361582000,
+  "id_str": "2040093005361582191",
+  "type": "tweet",
+  "conversation_id_str": "2040093005361582191",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/5RhOTfhKQS",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2033007827825139700,
+    "id_str": "2033007827825139712",
+    "name": "Anti Fraud",
+    "screen_name": "AntiFraudClub",
+    "location": "",
+    "url": "https://www.antifraudclub.com",
+    "description": "Join the Anti Fraud Club!\nInvestigations, exposés, & merch.\nRun by @nickshirleyy & crew\nClick the link and join us!",
+    "protected": false,
+    "verified": true,
+    "followers_count": 38256,
+    "friends_count": 1,
+    "listed_count": 27,
+    "favourites_count": 113,
+    "statuses_count": 104,
+    "created_at": "2026-03-15T02:32:34.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033007827825139712/1773712308",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2033722893826461696/hCc-QRDg_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 7,
+  "reply_count": 18,
+  "retweet_count": 167,
+  "favorite_count": 1859,
+  "views_count": 29371,
+  "bookmark_count": 63,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040090606324637696",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/5RhOTfhKQS"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T15:44:10.000000Z",
+    "id": 2040093005361582000,
+    "id_str": "2040093005361582191",
+    "title": "Nick Shirley Interviews Vice President JD Vance",
+    "preview_text": "Fraud under $1.5 million rarely leads to prosecution in America, according to Vice President JD Vance in an exclusive interview with Nick this week.\nNick spoke with the Vice President to ask a simple",
+    "cover_url": "https://pbs.twimg.com/media/HE_cDBCWEAAHFCe.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5afic",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 29,
+              "offset": 108
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4crie",
+          "text": "Fraud under $1.5 million rarely leads to prosecution in America, according to Vice President JD Vance in an exclusive interview with Nick this week.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 21,
+              "offset": 105
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "etujf",
+          "text": "Nick spoke with the Vice President to ask a simple question. Now that the administration has spun up its anti-fraud task force, what’s actually going to be different? Vance gave two definite answers.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6pru3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 19,
+              "offset": 120
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3dacq",
+          "text": "The federal government is creating cross-agency coordination that hasn’t existed before. For example, until now, if the Treasury Department found a potentially fraudulent payment within an agency such as the Centers for Medicare & Medicaid Services, there was no set process to notify others or to ensure follow-up. The task force now creates a real-time information-sharing system. As Vance put it: “When one person in the government sees fraud happening, they’re actually telling everybody else so that we can get to the root of it and hopefully prosecute it.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 21,
+              "offset": 83
+            },
+            {
+              "key": 6,
+              "length": 46,
+              "offset": 115
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cm0v0",
+          "text": "Vance also highlighted a new DOJ role, which he called the bigger development. The Department of Justice now has a dedicated assistant attorney general for fraud, a role that never existed before. Colin McDonald, just sworn in on April 1, fills this position. We'll cover what that means in the next section.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "46jks",
+          "text": "Vance said the administration plans to ramp up prosecutions “in a matter of months.” He acknowledged that cases take time to build. He also signaled that the infrastructure is now in place to move.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 14,
+              "offset": 4
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cumir",
+          "text": "The full interview is worth watching.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ftn50",
+          "text": "For a deeper look at the task force's structure and purpose, keep reading. We break it down below.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "608lv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e648s",
+          "text": "Task Force on Eliminating Fraud, Explained",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bjmb9",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 49,
+              "offset": 17
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ev41n",
+          "text": "Each year, up to $521 billion is lost to fraud in federal programs, making up as much as 7 percent of all federal spending. Even at the low end, these losses exceed the annual budgets of most federal agencies. Notably, the majority vanishes through the same few programs: Medicaid, SNAP, unemployment insurance, and federally funded childcare programs. This pattern occurs because money is often lost through state-run systems with minimal federal oversight, allowing fraudulent claims to go undetected until it is too late and the perpetrators have disappeared.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 11,
+              "offset": 24
+            },
+            {
+              "key": 12,
+              "length": 29,
+              "offset": 68
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4bi8e",
+          "text": "That is the problem the White House is now trying to solve with the Task Force to Eliminate Fraud, created by executive order on March 16 and chaired by Vice President JD Vance. The group includes roughly half of the president’s Cabinet, drawing on leadership from the DOJ, HHS, Treasury, and more than a dozen other agencies. The idea is a coordinated, whole-of-government approach rather than the traditional setup, where individual agencies investigate fraud in their own programs and rarely talk to one another.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 13,
+              "offset": 24
+            },
+            {
+              "key": 14,
+              "length": 27,
+              "offset": 163
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cm25n",
+          "text": "The task force held its first meeting on March 27. What emerged was arguably more revealing than the executive order itself. After the meeting, Vance shared in an interview with Nick Shirley that the federal government does not currently prosecute fraud under $1.5 million. Under the Biden administration, this has been the practical reality of DOJ policy for years. If the dollar amount isn't high enough, it doesn't get investigated. As a result, anyone stealing less than that has been operating with near-total impunity, but not for long.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 19,
+              "offset": 54
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "brc2e",
+          "text": "Colin McDonald, a career federal prosecutor, received Senate confirmation on March 25 as the first-ever Assistant Attorney General for National Fraud Enforcement, a position created during the Trump administration. This week, Vance officially swore him in to lead the DOJ division, which will directly coordinate with the White House task force. The division plans to take a more centralized, data-driven approach to identifying fraud patterns across state lines. In his remarks after taking the oath, McDonald made it clear the division will reject the old approach, promising to pursue all levels of fraud, no matter how small.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 16,
+              "offset": 146
+            },
+            {
+              "key": 17,
+              "length": 28,
+              "offset": 298
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6kd73",
+          "text": "But the task force is not relying solely on federal prosecutors. The executive order also encourages private citizens to get involved through the False Claims Act, which allows whistleblowers to file lawsuits on behalf of the government and to collect a share of any recoveries. On that front, the Treasury Department's FinCEN just took it a step further, and we will break that down next.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 21,
+              "offset": 27
+            },
+            {
+              "key": 19,
+              "length": 23,
+              "offset": 96
+            },
+            {
+              "key": 20,
+              "length": 36,
+              "offset": 230
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2tkvo",
+          "text": "If you have been following Nick's investigations, you already know why all of this matters. The Minnesota daycare fraud was not exposed by a government agency, but by an independent journalist with a camera knocking on doors. The California hospice and daycare fraud unfolded in the same way. Systems meant to catch this failed at every level, leaving those responsible with little fear of prosecution. Now, this task force is the federal government's attempt to build the infrastructure that should have existed all along. Whether it works depends on execution, but the structure, personnel, and political will are in place as they haven't been before.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 21,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a74b1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dnmf",
+          "text": "Support Anti Fraud Club",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 22,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1niah",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bg3ru",
+          "text": "We couldn’t do this without your support. Investigations, travel, and our team on the ground all exist because of you. We don’t take that for granted.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 23,
+              "length": 47,
+              "offset": 33
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c4g57",
+          "text": "If you want to support our work, explore the Anti Fraud Taxpayer Club collection. Every purchase directly fuels Nick Shirley’s future investigations.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6763",
+          "text": "Thank you.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 24,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a8umt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ent1u",
+          "text": "Office of the Whistleblower is Live",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 25,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "koh",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 26,
+              "length": 58,
+              "offset": 170
+            },
+            {
+              "key": 27,
+              "length": 27,
+              "offset": 246
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "62m2u",
+          "text": "For years, one of the biggest obstacles in fighting government fraud has been that the people closest to it had no real incentive to come forward. That just changed. The Treasury Department's Financial Crimes Enforcement Network has launched the Office of the Whistleblower, now accepting confidential tips on fraud, money laundering, and sanctions violations.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5vpkm",
+          "text": "Unlike most government tip lines, the program offers whistleblowers a unique direct financial incentive. If a tip leads to a successful enforcement action with penalties exceeding $1 million, the person who provided the information can receive 10 to 30 percent of what the government collects. These funds come from the fines imposed on fraudsters, not from taxpayers.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 28,
+              "length": 32,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fn7aa",
+          "text": "Treasury Secretary Scott Bessent put it simply when he announced the program during his trip to Minnesota: \"We did it with the mafia, we have done it with the cartels, and we're doing it with the Somali fraudsters.\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 29,
+              "length": 22,
+              "offset": 18
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "al1al",
+          "text": "Combined with the White House task force, a new DOJ fraud division, and its first-ever leader, now sworn in, the federal government is building something it has never really had before: a coordinated system designed to find fraud before the money disappears and to impose real consequences on the people behind it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 30,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bslpk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5e0e",
+          "text": "The Audit Log",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 31,
+              "length": 31,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2hujg",
+          "text": "Task Force on Eliminating Fraud makes its first takedown in California, arresting two individuals accused of stealing $16 million from taxpayers.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 32,
+              "length": 12,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fgn1i",
+          "text": "Steve Hilton releases the 4th CAL DOGE Fraud Report, showing $22,000 in fraud per individual California taxpayer.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 33,
+              "length": 19,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7qgpb",
+          "text": "Federal prosecutors charge 4 New Yorkers in corruption investigation linked to NYC homeless-shelter operator Bhrags Home Care.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 34,
+              "length": 3,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cf1b1",
+          "text": "FBI raids the home of Los Angeles school superintendent Alberto Carvalho, suspected of “misplacing” $76 million in taxpayer funds.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 35,
+              "length": 31,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ebt3r",
+          "text": "The Department of the Treasury launches its Office of the Whistleblower online portal, offering rewards of up to 30% of levied fines against fraudsters.",
+          "type": "unordered-list-item"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "34",
+          "value": {
+            "data": {
+              "url": "https://abc7.com/post/lausd-superintendent-alberto-carvalho-breaks-silence-fbi-raid/18700782/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/03/establishing-the-task-force-to-eliminate-fraud/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "url": "https://www.youtube.com/watch?v=r8AulCA1aOQ"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "23",
+          "value": {
+            "data": {
+              "url": "https://shirleydefense.com/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://home.treasury.gov/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "url": "https://www.judiciary.senate.gov/press/rep/releases/grassley-supports-colin-mcdonald-to-be-fraud-fighting-assistant-attorney-general"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "url": "https://wh.gov/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "caption": "Vice President JD Vance swears in Colin McDonald on April 1, 2026 (VP on X)",
+              "entityKey": "804d1848-d417-4ec4-9135-4efccbf98e91",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040091847549140993"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "33",
+          "value": {
+            "data": {
+              "url": "https://apnews.com/article/farah-debbie-louis-edouardo-st-fort-bribery-c8037a7eb9f332b8a35e9cd05a59d119"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "caption": "Shop the Anti Fraud Club collection on Shirley Defense",
+              "entityKey": "9683319c-c88f-4ec3-9e04-aacebd379fe8",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040092386454282240"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "26",
+          "value": {
+            "data": {
+              "url": "https://www.fincen.gov/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "url": "https://apnews.com/article/vance-antifraud-task-force-45cc5786a3c84cf2190f3d312fcc3a6d"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "24",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "35",
+          "value": {
+            "data": {
+              "url": "https://www.fincen.gov/whistleblower/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "url": "https://www.justice.gov/civil/false-claims-act"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://www.justice.gov/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "url": "https://www.gao.gov/fraud-improper-payments"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "32",
+          "value": {
+            "data": {
+              "url": "https://x.com/SteveHiltonx/status/2039043010516734082?s=20"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "url": "https://www.judiciary.senate.gov/press/rep/releases/grassley-welcomes-announcement-of-assistant-attorney-general-for-fraud"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://x.com/nickshirleyy/status/2037635190387007577?s=20"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "url": "https://www.fincen.gov/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "25",
+          "value": {
+            "data": {
+              "caption": "Secretary Scott Bessent appears on Squawk Box to discuss Office of the Whistleblower (CNBC)",
+              "entityKey": "b6322b0c-8c15-4c7a-aa0b-dcb7cd523749",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040092621658587136"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "url": "https://www.instagram.com/reel/DWZtVIHS5ke/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "31",
+          "value": {
+            "data": {
+              "url": "https://x.com/AntiFraudClub/status/2039726894308802951?s=20"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "Vice President JD Vance sits down with Nick Shirley",
+              "entityKey": "5033a8ef-3636-443c-8435-6bd59ffcdaf9",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040091288477835264"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "url": "https://www.youtube.com/watch?v=kegwwB4RHgA"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "27",
+          "value": {
+            "data": {
+              "url": "https://www.fincen.gov/whistleblower/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/03/establishing-the-task-force-to-eliminate-fraud/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "url": "https://www.youtube.com/@NickShirley"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "30",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "url": "https://x.com/nickshirleyy/status/2037635190387007577?s=20"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "29",
+          "value": {
+            "data": {
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/03/establishing-the-task-force-to-eliminate-fraud/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "tweetId": "2037635190387007577"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "28",
+          "value": {
+            "data": {
+              "url": "https://home.treasury.gov/about/general-information/officials/scott-bessent"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/cN88XIAAKAAIcNrHZGxsgAAAA",
+        "media_id": "2040091288477835264",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 38.39,
+                "rgb": {
+                  "blue": 115,
+                  "green": 136,
+                  "red": 148
+                }
+              },
+              {
+                "percentage": 31,
+                "rgb": {
+                  "blue": 25,
+                  "green": 30,
+                  "red": 44
+                }
+              },
+              {
+                "percentage": 11.83,
+                "rgb": {
+                  "blue": 38,
+                  "green": 69,
+                  "red": 108
+                }
+              },
+              {
+                "percentage": 7.68,
+                "rgb": {
+                  "blue": 70,
+                  "green": 45,
+                  "red": 29
+                }
+              },
+              {
+                "percentage": 4.91,
+                "rgb": {
+                  "blue": 136,
+                  "green": 125,
+                  "red": 114
+                }
+              }
+            ]
+          },
+          "original_img_height": 716,
+          "original_img_url": "https://pbs.twimg.com/media/HE_cN88XIAAvwWR.jpg",
+          "original_img_width": 1292
+        },
+        "media_key": "3_2040091288477835264"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/cufpWQAEKAAIcNrHZGxsgAAAA",
+        "media_id": "2040091847549140993",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 32.03,
+                "rgb": {
+                  "blue": 36,
+                  "green": 33,
+                  "red": 30
+                }
+              },
+              {
+                "percentage": 23,
+                "rgb": {
+                  "blue": 152,
+                  "green": 174,
+                  "red": 185
+                }
+              },
+              {
+                "percentage": 15.49,
+                "rgb": {
+                  "blue": 37,
+                  "green": 60,
+                  "red": 92
+                }
+              },
+              {
+                "percentage": 9.34,
+                "rgb": {
+                  "blue": 71,
+                  "green": 42,
+                  "red": 25
+                }
+              },
+              {
+                "percentage": 3.66,
+                "rgb": {
+                  "blue": 67,
+                  "green": 118,
+                  "red": 155
+                }
+              }
+            ]
+          },
+          "original_img_height": 716,
+          "original_img_url": "https://pbs.twimg.com/media/HE_cufpWQAEKfPE.jpg",
+          "original_img_width": 1292
+        },
+        "media_key": "3_2040091847549140993"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/dN3OWIAAKAAIcNrHZGxsgAAAA",
+        "media_id": "2040092386454282240",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 78.92,
+                "rgb": {
+                  "blue": 233,
+                  "green": 234,
+                  "red": 238
+                }
+              },
+              {
+                "percentage": 17.19,
+                "rgb": {
+                  "blue": 22,
+                  "green": 22,
+                  "red": 22
+                }
+              }
+            ]
+          },
+          "original_img_height": 716,
+          "original_img_url": "https://pbs.twimg.com/media/HE_dN3OWIAAq0FA.jpg",
+          "original_img_width": 1292
+        },
+        "media_key": "3_2040092386454282240"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/dbjbbAAAKAAIcNrHZGxsgAAAA",
+        "media_id": "2040092621658587136",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 22.58,
+                "rgb": {
+                  "blue": 56,
+                  "green": 38,
+                  "red": 34
+                }
+              },
+              {
+                "percentage": 19.71,
+                "rgb": {
+                  "blue": 88,
+                  "green": 26,
+                  "red": 1
+                }
+              },
+              {
+                "percentage": 18.61,
+                "rgb": {
+                  "blue": 97,
+                  "green": 115,
+                  "red": 136
+                }
+              },
+              {
+                "percentage": 10.52,
+                "rgb": {
+                  "blue": 234,
+                  "green": 215,
+                  "red": 201
+                }
+              },
+              {
+                "percentage": 7.05,
+                "rgb": {
+                  "blue": 47,
+                  "green": 0,
+                  "red": 161
+                }
+              }
+            ]
+          },
+          "original_img_height": 716,
+          "original_img_url": "https://pbs.twimg.com/media/HE_dbjbbAAAHW1z.jpg",
+          "original_img_width": 1292
+        },
+        "media_key": "3_2040092621658587136"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1153 @@
+{
+  "tweet_created_at": "2026-04-03T09:02:44.000000Z",
+  "id": 2039991983490691300,
+  "id_str": "2039991983490691202",
+  "type": "tweet",
+  "conversation_id_str": "2039991983490691202",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/f0Dg2tCr3z",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1974631524,
+    "id_str": "1974631524",
+    "name": "對木 拳 | Ken Tsuiki",
+    "screen_name": "ken_coach12",
+    "location": "コーチング受講のご相談は公式LINEへ→",
+    "url": "https://lin.ee/P0udzeK",
+    "description": "自分の能力を発揮しきれていない人へ｜原因は実力不足じゃない｜視点を変えてあなたの\"ブレーキ\"を外す｜独自の強み発掘し、価値を形にするコーチ｜7年・500名以上支援｜大手広告代理店→LINEヤフー→独立",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4640,
+    "friends_count": 628,
+    "listed_count": 55,
+    "favourites_count": 83830,
+    "statuses_count": 25138,
+    "created_at": "2013-10-20T10:32:08.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974631524/1757313270",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1983035555261878272/TK0Uc8eI_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 114,
+  "reply_count": 10,
+  "retweet_count": 266,
+  "favorite_count": 4045,
+  "views_count": 6037174,
+  "bookmark_count": 4487,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039981865491447808",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/f0Dg2tCr3z"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T09:02:44.000000Z",
+    "id": 2039991983490691300,
+    "id_str": "2039991983490691202",
+    "title": "令和ロマン・高比良くるまさんのENTPの使い方が桁違いな件",
+    "preview_text": "診断結果を見て、「当たってる！」と思ったことがあるだろうか。私はある。でも、その先に困った。次に何をすればいいのか、分からない。\nその答えのヒントを、令和ロマンの高比良くるまから見つけた。",
+    "cover_url": "https://pbs.twimg.com/media/HE-B20OboAEBaCy.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsa9r",
+          "text": "診断結果を見て、「当たってる！」と思ったことがあるだろうか。私はある。でも、その先に困った。次に何をすればいいのか、分からない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9p171",
+          "text": "その答えのヒントを、令和ロマンの高比良くるまから見つけた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7io0f",
+          "text": "私は令和ロマンが好きだ。2023年のM-1、トップバッターで空気を変えたあの4分間。2024年、史上初の連覇。画面の前で思わず拍手をした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9gn4o",
+          "text": "そしてもう一つ、私にはタイプ診断オタクの一面もある。だから、くるまさんがENTP-Aだと知ったとき、「あの戦い方、ENTPの構造で読み解けるんじゃないか？」とファンの熱量とキャリアコーチの職業病が同時に発動した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1d07t",
+          "text": "結論から言うと、くるまさんのENTPの使い方は桁が違う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g21r",
+          "text": "同じENTPでも、結果が出る人と出ない人がいる。その差は、タイプの「特性」そのものではなく、特性の「活かし方」にある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fh9r0",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "be0b3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6qp4r",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpi23",
+          "text": "ENTPの教科書的な強み",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42iqp",
+          "text": "ENTPの代表的な強みは大きく3つ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88aip",
+          "text": "好奇心の拡散力 ",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bji3i",
+          "text": "メタ認知力 ",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4evdd",
+          "text": "即興対応力",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "akckn",
+          "text": "くるまさんにも、一見これが当てはまる。多方面に展開し、M-1の場を俯瞰した戦略を立て、当日の空気でネタを選ぶ。「だからM-1連覇できたんだね」と、ここで終わると普通の解説。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82p7u",
+          "text": "でも、同じENTPなんて世の中に何百万人もいる。 なのに、M-1を連覇したのは令和ロマンだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37ejp",
+          "text": "じゃあ何が違うのか。ここからが本題。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15ms",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cf15k",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71c5q",
+          "text": "好奇心を一点収束に変換している",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4nn2u",
+          "text": "ENTPの好奇心は、放っておくと拡散する。「あれも面白い、これも面白い」で次々に対象が移り、結局どれも浅くなる。これがENTPの典型的な落とし穴で、解説サイトにも「飽きっぽい」と書かれるゆえんだと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ih52",
+          "text": "くるまさんは真逆。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8a78h",
+          "text": "2018年の初舞台から、いつ・どこで・何のネタをやったかを全てiPad miniに記録している。ネタの台本だけじゃない。すぐ組み合わせられる短いボケのパーツまでストックしてある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8o7ar",
+          "text": "著書『漫才過剰考察』ではM-1を2015年から年単位で構造分析し、インタビューでは気温、音響、ガンマイクの動きまで変数として扱っていると語っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dll5o",
+          "text": "加えて、全国各地の劇場に自分から出向いて、地域ごと・客層ごとのウケ方の違いをデータとして蓄積もしている。(狂気的....)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5n1je",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aq8o7",
+          "text": "これ、ENTPの好奇心がなかったらできない。膨大な変数に興味を持てること自体がENTPの強み。でも、普通のENTPはこの好奇心があちこちに散る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "vl6e",
+          "text": "くるまさんが桁違いなのは、この好奇心を「漫才」という一点に収束させていること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5odpp",
+          "text": "好奇心の総量が多いんじゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f797n",
+          "text": " 好奇心の方向 を、自分でコントロールしている。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2l833",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d4pji",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9sqba",
+          "text": "勝てる場所を選ぶに変換してる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "acej4",
+          "text": "ENTPはメタ認知が強い。でも多くの人は「自分を客観視する」止まりになる。分析して、理解して、満足して終わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5sf8f",
+          "text": "くるまさんは違う。自分を知った上で、勝てる場所を選ぶために使っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "25e3g",
+          "text": "くるまさんは霜降り明星の粗品さんを「自分がある人。自分を世界に表現する人」と評し、「僕には世界を表現する自分がない」と言い切っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28c2q",
+          "text": "そして、相方のケムリさんを「義務教育の最高傑作。与えられたものを100%で受け取れる」と語る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5hv5o",
+          "text": "これ、さらっと流すと「謙虚だな」で終わる。でもキャリアコーチの目で見ると、ここにくるまさんの構造が全部出ている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "a7rr3",
+          "text": "自分に\" ないもの \"を正確に把握した上で、",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1r1so",
+          "text": "自分の出力を最大化できる受け手を選んでいる。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9utlv",
+          "text": "実はこれ、コーチングでもよく見る構造。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3igbs",
+          "text": "大手メーカーで企画職の方とのセッション。自己分析は完璧。ストレングスファインダーもやっていて、「自分は戦略性が高くて、分析が得意で、でも実行力が弱い」と淀みなく語ってくれた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5d5le",
+          "text": "これ、話を聞いていくうちに引っかかった。その方の分析力は確かに高い。問題は、その分析力を使いこなせていなかった。せっかくの武器を「自分の弱みを見つけること」にだけ向けて、堂々巡りしていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ah2l2",
+          "text": "私が聞いたのは一つだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95ea8",
+          "text": "「今の環境で、あなたの分析力は\" 武器 \"として扱われていますか？」",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8qbo",
+          "text": "沈黙が長かった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2vkhh",
+          "text": "結局その方は、発想力が求められる企画職から、分析力が輝く評価される部署へ異動した。能力は何も変わらない。でも、自分が活きる場所に移るだけで結果が出る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7er20",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ahob",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a15jt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3q7g2",
+          "text": "即興力はその場しのぎではなく、準備の上の選択",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e83qj",
+          "text": "ENTPは即興対応に強い。でも「準備しなくてもなんとかなる」と解釈した瞬間、即興力は「サボりの言い訳」に変わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "67pf3",
+          "text": "くるまさんの即興力は、次元が違う。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86kb8",
+          "text": "M-1に4本のネタを準備し、当日の空気で2本を選ぶ。ガンマイクの動きまで計算に入れて「カラオケ採点でしゃくりやビブラートで点数を上げるみたいなもの」と語る。「M-1を盛り上げたい」と公言し、大会全体の空気まで視野に入れて動いている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3diu",
+          "text": "2024年のM-1では、ネタの着想がラジオリスナーの投稿から。本番わずか1〜2ヶ月前に仕上げ、トップバッターで850点を叩き出した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "di27f",
+          "text": "「天才の即興」に見える。でも実態は違う。日常的にネタの種を拾い、記録し、ストックし続けている。その蓄積があるからこそ「当日の空気で選ぶ」が可能になっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2jhpt",
+          "text": "くるまさんの即興力は",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56c7k",
+          "text": "「準備しない即興」じゃない。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "701c6",
+          "text": "「準備し尽くした上での即興」。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b89sn",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f35td",
+          "text": "ENTPの即興力を最も高いレベルで使う事例だと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4d9vq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5uk3p",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "en4rh",
+          "text": "タイプを知る→活かすまでに変換してる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "vlc9",
+          "text": "くるまさんの3ステップを整理する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bm4b1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1589",
+          "text": "ENTPだからこそ持っている強みを、変換して使っている。これを「タイプ変換の3ステップ」と呼びたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4l4fo",
+          "text": "この構造はENTPに限った話じゃない。どのタイプにも当てはまる。診断結果はタイプの特性を教えてくれる。でも「その特性をどう変換すればあなたの結果が最大化されるか」は教えてくれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3dvb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8rqcd",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4p0r3",
+          "text": "タイプを活かす側にいるか試す2つの問い",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "et84t",
+          "text": "タイプを問わず、今日から使える自問を2つ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7pl88",
+          "text": "この2つに即答できるなら、あなたはすでにタイプを「活かせている」側にいると思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6dd6n",
+          "text": "① 自分の一番の強みを、あれこれ手を広げて薄めていないか？ ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9mq0t",
+          "text": "② 自己分析の結果を、自分が活きる場所選びまで繋げているか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ohgp",
+          "text": "あなたの強みは、今ちゃんと使えているだろうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50lqv",
+          "text": "もし即答できないなら、それはタイプのせいじゃない。 自分の強みの使い方を、まだちゃんと把握できていないのだろう。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "322d71a6-99d5-4ae5-b296-ece1c79217db"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "05fcd004-57f1-45c2-afeb-d2c892af1197"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "b6039ac2-b710-42d5-9a7f-03de747a75a8",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039989885139107840"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "87dca735-9d51-4bf4-aac2-8d764213351f",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039989566002905088"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "86f20985-7daf-4a6b-9851-b8c6322b1a9b"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "79576bed-1661-48fb-ac7e-79f0ab83bfa6"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "95116ec2-4a9b-4648-b141-45b9f9ede77b"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "3326c432-78d2-4fe3-a629-f6329b18bb61",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039989269272686592"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "624ccabf-5e45-4216-b4f6-0aece4de5d37"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "a6217dea-2450-458a-9f5a-b6a790c67416",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039989769737052160"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "d90bfacb-b813-4d56-9822-6ddcc5ff9c16",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039989412998873088"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9/bpybcAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2039989269272686592",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 91.31,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 7.27,
+                "rgb": {
+                  "blue": 114,
+                  "green": 114,
+                  "red": 115
+                }
+              },
+              {
+                "percentage": 1.14,
+                "rgb": {
+                  "blue": 137,
+                  "green": 150,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 0.22,
+                "rgb": {
+                  "blue": 49,
+                  "green": 49,
+                  "red": 49
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HE9_bpybcAABcim.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2039989269272686592"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9//gEbQAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2039989885139107840",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 88.74,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 8.31,
+                "rgb": {
+                  "blue": 117,
+                  "green": 118,
+                  "red": 118
+                }
+              },
+              {
+                "percentage": 1.8,
+                "rgb": {
+                  "blue": 142,
+                  "green": 161,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 1.14,
+                "rgb": {
+                  "blue": 48,
+                  "green": 48,
+                  "red": 48
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HE9__gEbQAAzY2g.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2039989885139107840"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9/kBNbAAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2039989412998873088",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 91.81,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 7.12,
+                "rgb": {
+                  "blue": 121,
+                  "green": 121,
+                  "red": 121
+                }
+              },
+              {
+                "percentage": 1.03,
+                "rgb": {
+                  "blue": 137,
+                  "green": 155,
+                  "red": 240
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HE9_kBNbAAAHxr0.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2039989412998873088"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9/s7MbQAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2039989566002905088",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 96.02,
+                "rgb": {
+                  "blue": 251,
+                  "green": 252,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 3.51,
+                "rgb": {
+                  "blue": 131,
+                  "green": 131,
+                  "red": 131
+                }
+              },
+              {
+                "percentage": 0.37,
+                "rgb": {
+                  "blue": 183,
+                  "green": 180,
+                  "red": 173
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HE9_s7MbQAAh22u.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2039989566002905088"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9/4yKboAAKAAIAAAAAdbJ8ZAAA",
+        "media_id": "2039989769737052160",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 93.95,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 4.43,
+                "rgb": {
+                  "blue": 130,
+                  "green": 125,
+                  "red": 122
+                }
+              },
+              {
+                "percentage": 1.25,
+                "rgb": {
+                  "blue": 133,
+                  "green": 150,
+                  "red": 246
+                }
+              },
+              {
+                "percentage": 0.25,
+                "rgb": {
+                  "blue": 87,
+                  "green": 110,
+                  "red": 250
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HE9_4yKboAAa319.jpg",
+          "original_img_width": 1376
+        },
+        "media_key": "3_2039989769737052160"
+      }
+    ]
+  }
+}

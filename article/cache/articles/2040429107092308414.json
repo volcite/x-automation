@@ -1,0 +1,500 @@
+{
+  "tweet_created_at": "2026-04-04T13:59:43.000000Z",
+  "id": 2040429107092308500,
+  "id_str": "2040429107092308414",
+  "type": "tweet",
+  "conversation_id_str": "2040429107092308414",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/vns27Zz06o",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3437989101,
+    "id_str": "3437989101",
+    "name": "一億年惑星 （3巻）",
+    "screen_name": "sleepfool",
+    "location": "",
+    "url": "https://www.pixiv.net/users/9574249",
+    "description": "スターシャイニングベイビー",
+    "protected": false,
+    "verified": true,
+    "followers_count": 135445,
+    "friends_count": 513,
+    "listed_count": 1528,
+    "favourites_count": 13284,
+    "statuses_count": 41796,
+    "created_at": "2015-08-24T14:41:27.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3437989101/1682619462",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2004050480142647297/0um885rF_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 31,
+  "reply_count": 1,
+  "retweet_count": 376,
+  "favorite_count": 2037,
+  "views_count": 201959,
+  "bookmark_count": 1213,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040428842234638336",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/vns27Zz06o"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T13:59:43.000000Z",
+    "id": 2040429107092308500,
+    "id_str": "2040429107092308414",
+    "title": "プロットネーム下描きせずいきなりぶっつけ本番、資料一切見ず、しくっても描き直さず、絶対ボツにしない",
+    "preview_text": "1回この方法で漫画描いてみてほしい\nばちくそ楽しいから。\n\nこれ10年前の俺がやってた。\n漫画描くの楽しくて仕方なかった時期。\n当時は資料見るの本当に嫌だったし、下描きするのも死ぬほど嫌だった。",
+    "cover_url": "https://pbs.twimg.com/media/HFEPYkhaYAATQhM.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8idi7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "v5qm",
+          "text": "1回この方法で漫画描いてみてほしい",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "17n06",
+          "text": "ばちくそ楽しいから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fltqj",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fh636",
+          "text": "これ10年前の俺がやってた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fv0tj",
+          "text": "漫画描くの楽しくて仕方なかった時期。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dpjkl",
+          "text": "当時は資料見るの本当に嫌だったし、下描きするのも死ぬほど嫌だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ordk",
+          "text": "資料見るとかダサいと思ってたし（当時は）、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dk15b",
+          "text": "1回描いたものをまたなぞるのかよ！？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2dgpj",
+          "text": "正気か！？って思ってた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bi0ol",
+          "text": "ネームも嫌だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4idul",
+          "text": "誰が読み返すんだよ！？このきたねえネーム！！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "al99g",
+          "text": "だからといって綺麗には描けなかった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30imn",
+          "text": "だったらいきなり本番を描けばいいだろ！！！！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evdai",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "52hmi",
+          "text": "1コマ1コマ考えながら本番描いてた。これがねえ　楽しいんだあ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7f50j",
+          "text": "完成したものがどうなるか全く分からなくて、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55cu5",
+          "text": "ワクワクした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ik2d",
+          "text": "だって描きながら考えてるからね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6a7g0",
+          "text": "世紀のクソ漫画になる可能性が高いけど、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fqvq",
+          "text": "たまーにいい漫画も生まれるからたまらない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5higv",
+          "text": "というかクソ漫画でもいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dqg4u",
+          "text": "神漫画じゃなきゃだめぇ？そんなもん描ける訳ないだろ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ksor",
+          "text": "何より、描いてる間めっちゃ楽しい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1kjj1",
+          "text": "だってボツにしないから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7t8i0",
+          "text": "全部採用するんだからそら楽しいわ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fiujm",
+          "text": "「ここ棒立ちじゃなくてポーズ付けたいな・・・描き直すか。」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "323mp",
+          "text": "描き直しません。めんどくさいから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahrom",
+          "text": "というか、せっかく描いたもんを消すって正気ですか？ホトチンコスープさん。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f9so9",
+          "text": "で、完成したらお蔵入りにしない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4har7",
+          "text": "絶対に公開する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4r0lh",
+          "text": "超くそ電波黒歴史確定漫画でも公開する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2uq04",
+          "text": "自由には責任が伴う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "529q8",
+          "text": "これがねえ　気持ちいいんだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aphte",
+          "text": "俺の全てを見て・・・。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1f4u6",
+          "text": "みんなもクソ漫画を描いて気持ち良くなろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5c9v0",
+          "text": "漫画の面倒くさい部分を全部サボろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bejb",
+          "text": "よく考えたら、下描きとか描きたくないよな。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7hhi9",
+          "text": "ネームも描きたくねえし、乳首しか描きたくないよな。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19nie",
+          "text": "社会不適合者だから漫画描いてんのに、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58eed",
+          "text": "ネームなんか描けるわけないだろ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "btgeo",
+          "text": "あー幸子と結婚したい",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8knd",
+          "text": "うそ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5om3r",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "k87q",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5b6h9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbthc",
+          "text": "美少女になりたい（銀髪の）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9s734",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "6f40165e-8e38-49c3-bdeb-fa1cfa4cadb8"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

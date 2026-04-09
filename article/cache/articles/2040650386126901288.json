@@ -1,0 +1,354 @@
+{
+  "tweet_created_at": "2026-04-05T04:39:00.000000Z",
+  "id": 2040650386126901200,
+  "id_str": "2040650386126901288",
+  "type": "tweet",
+  "conversation_id_str": "2040650386126901288",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/npSTAqXz8k",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1975113924862431200,
+    "id_str": "1975113924862431232",
+    "name": "内向哲学",
+    "screen_name": "naikoutetsugaku",
+    "location": "",
+    "url": "https://note.com/yumaevo",
+    "description": "運営者@yumaevo｜「読んだ人の思考,視点,知恵を深化する」「孤独を愛する人に向けた実践と哲学」を両軸に、内向的な人の人生戦略を発信しています。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 58129,
+    "friends_count": 1,
+    "listed_count": 115,
+    "favourites_count": 849,
+    "statuses_count": 1121,
+    "created_at": "2025-10-06T08:20:38.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2018700453920591872/b3CGfxbo_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 130,
+  "reply_count": 3,
+  "retweet_count": 233,
+  "favorite_count": 2059,
+  "views_count": 5269075,
+  "bookmark_count": 2435,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040645698643955712",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/npSTAqXz8k"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T04:39:00.000000Z",
+    "id": 2040650386126901200,
+    "id_str": "2040650386126901288",
+    "title": "地頭がいい人は「変えられないこと」に1秒も使わない話",
+    "preview_text": "「地頭がいい人」の思考法にはある共通のクセがあります。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "csr4o",
+          "text": "「地頭がいい人」の思考法にはある共通のクセがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6mlic",
+          "text": "それは「変えられないこと」と「変えられること」を整理する精度と速度が凄まじいことです。あるいは、そのような整理をする意識と努力をしていることです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "892cg",
+          "text": "それをようやく言語化できたのは、ストア哲学に出会ってからでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 41,
+              "style": "Bold"
+            }
+          ],
+          "key": "5nc58",
+          "text": "ストア派のエピクテトスは『エンキリディオン』の冒頭で、こんなことを書いています。\n「ものごとには、自分に委ねられているものと、委ねられていないものとがある」と。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51e0u",
+          "text": "これはストア派の根幹思想でもあり、哲人皇帝マルクス・アウレリウスも「自省録」の中で類似のことを言っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e9q4f",
+          "text": "自分の意見や判断、欲求や希望、つまり思考の営みは「自分に委ねられている」ものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19cmn",
+          "text": "一方で、評価・評判・他人の行動/思考といったものは「委ねられていない」ものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "daj9h",
+          "text": "エピクテトスはこの区別を哲学の根幹に据えました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1afbc",
+          "text": "現代風に言えばアドラー心理学の「課題の分離」に近いでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pien",
+          "text": "自分には自分の課題があり「できること」がある。\n一方で、他者の課題に介入したり干渉したりすることは「できないこと」である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12j83",
+          "text": "砕けた言い方をすれば、「自分は変えられるが、他者を変えることはできない」ということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehaks",
+          "text": "自分のやるべきこと、自分の考えるべきことにひたすらフォーカスすること。人事を尽くして天命を待つこと。変えられない物事に介入しようとしないこと。そういったことに一喜一憂しないこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 61,
+              "style": "Bold"
+            }
+          ],
+          "key": "dt2o7",
+          "text": "この発想は「地頭がいい人の発想」だと思っています。現実的な知性のある人は自分に”委ねられていないこと”に頭を使わないです。その代わり、自分に委ねられていることに全集中する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "108gq",
+          "text": "具体的に言うと、「相手がなぜあんなことを言ったのか」「なぜ評価されないのか」「なぜうまくいかないのか」という問いに無限にエネルギーを注ぐのは時間の無駄遣いとまで言っても良いでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bakje",
+          "text": "そういうことにリソースを使い果たすのではなく「自分はこの状況でどう判断するか」「次に何ができるか」「自分がどう変わればいいのか」という問いに切り替えるのが速いし、効率的です。その方が賢い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ak2dv",
+          "text": "ぼく自身、これが染みついていない時期がありました。発信が伸びない時期に「なぜ読者は俺の良さが分からないのか」と”他責”にしていた時期がありました。でも、他人の評価や社会からの反応は完全に「委ねられていない領域」です。いくら考えてもそこからは解決の答えは見いだせません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 18,
+              "style": "Bold"
+            }
+          ],
+          "key": "2vovb",
+          "text": "ストア派哲学やアドラー心理学を学んで「変えられるのは今の自分だけ」ということを理解してからは、発信においても「自身の言いたいことと需要の接面」をどのようにすり合わせていくかということを考えるようになりました。努力しても努力しても発信が伸びないのであれば、自分が立てた仮説自体が間違えている…ということをようやく自覚できるようになりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 109,
+              "style": "Bold"
+            }
+          ],
+          "key": "cba9m",
+          "text": "地頭がいいと感じる人を観察していると「自分にできること」「自分の手の管轄外であること」の腑分けが速く、そして正確なように思います。「それは自分にはコントロールできない」と判断した瞬間に、思考をきれいに手放して次に移る。悩む意味が無いところで悩まない。その「ストア派的潔さ」が、レベルの高い人のひとつの特徴であるように思われます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 51,
+              "style": "Bold"
+            }
+          ],
+          "key": "2impb",
+          "text": "エピクテトスは奴隷として生まれ、足が不自由で、社会的な自由をほとんど持たなかった人物です。そういう人が「自分に委ねられているものを磨け」と書きました。非常に説得力がありますよね。そして。それが今でも読まれ続けているのは、これが時代を超えた思考の本質だからだと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3iksk",
+          "text": "地頭がいい人ほど「委ねられているもの」「委ねられていないもの」を悟る力がある。まずそれを把握しようとする。そのように思えてならないのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "373cv",
+          "text": "【内向哲学の地頭記事】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 37,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2nd3s",
+          "text": "【地頭を鍛える】学校ではなかなか教わらない「構造を見抜く力」を強化する方法",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 24,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cp9gg",
+          "text": "「地頭いい人」になるための具体⇔抽象トレーニング",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dfd6a",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://note.com/yumaevo/n/nf69efe5597ea"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://note.com/yumaevo/n/n7c99e110d752"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

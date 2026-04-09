@@ -1,0 +1,120 @@
+{
+  "tweet_created_at": "2026-04-01T11:35:55.000000Z",
+  "id": 2039305754998461000,
+  "id_str": "2039305754998460896",
+  "type": "tweet",
+  "conversation_id_str": "2039305754998460896",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/9uyRnpKSZ2",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4010545737,
+    "id_str": "4010545737",
+    "name": "Kemi Badenoch",
+    "screen_name": "KemiBadenoch",
+    "location": "",
+    "url": "https://www.kemibadenoch.org.uk/",
+    "description": "Leader of the Conservative Party. MP for North West Essex.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 369615,
+    "friends_count": 315,
+    "listed_count": 1503,
+    "favourites_count": 3766,
+    "statuses_count": 4669,
+    "created_at": "2015-10-21T16:16:28.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4010545737/1773049287",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1988554697809022976/mpeYCm5y_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/Conservatives",
+      "badge_url": "https://pbs.twimg.com/profile_images/1726550468191469568/lsMFt5-G_bigger.jpg",
+      "description": "Conservatives",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    },
+    "verification_info": {
+      "type": "Government"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 120,
+  "reply_count": 209,
+  "retweet_count": 685,
+  "favorite_count": 3317,
+  "views_count": 375997,
+  "bookmark_count": 305,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039300689331929088",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/9uyRnpKSZ2"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T11:35:55.000000Z",
+    "id": 2039305754998461000,
+    "id_str": "2039305754998460896",
+    "title": "My message to all British Jews this Passover",
+    "preview_text": "Why is this year different from all other years?\nBecause in other years we haven’t seen Jews murdered in a synagogue here in the UK. Because in other years we haven’t seen Hatzola ambulances torched",
+    "cover_url": "https://pbs.twimg.com/media/HE0Q_oTaAAAsnZb.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "966t6",
+          "text": "Why is this year different from all other years?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6n0ej",
+          "text": "Because in other years we haven’t seen Jews murdered in a synagogue here in the UK. Because in other years we haven’t seen Hatzola ambulances torched in the middle of Golders Green. And because in no other year have I met so many Jews asking me whether it’s safe for them to stay in the UK.\n\nThis year I can’t write the usual sort of Passover message. I am tired of reading platitudes and warm words, expressions of solidarity which ring hollow when we can all see what is happening around us.\n\nI did not learn about Passover from reading the Haggadah or even in church, but from watching The Ten Commandments over and over again. Even as a young child in Nigeria, growing up in a Christian home, the story of liberation from slavery in ancient Egypt – a journey from oppression to freedom, from exile to homeland – was singularly inspiring.\n\nIt was only as an adult that I learned the deepest message of Passover: that for Jews, gaining freedom is not a one-off historical event, but is something which Jews have to fight for and guard in every generation.\n\nAn acquaintance said recently: “As a black person in the UK, I’ve never experienced the level of racism or intimidation which Jews are facing now. People wouldn’t delve into conspiracy theories about an attack on black people”. This is exactly how I feel.\n\nToo many Jews have lost freedoms in the past year. The freedom to walk the streets of London on a Saturday afternoon. The freedom to go to university wearing a Magen David. The freedom to go to school without security guards, to pray in a building which doesn’t look like a fortress – the freedom to do the sorts of things that all of us should be able to enjoy in a free and democratic country.\n\nThe Haggadah also teaches what I know many Jews regard as an eternal truth: “In every generation they rise up against us to destroy us, but the Holy One, blessed be he, saves us from their hands.”\n\nWe have seen over the past year how the first part of this teaching is undeniably true. As to the second part – well, we shouldn’t be leaving all of this work to the Almighty or even, as some hope, the government.\n\nTo solve a problem requires facing some hard truths. As a Conservative, I have always believed that more government is not the answer to every problem, although it might be part of the solution. But what is government, if not individual politicians and civil servants? As Faith Minister five years ago, what I saw in Whitehall was a significant degree of cultural and religious illiteracy, combined with a reluctance to speak plainly, and a hesitancy to tackle difficult issues for fear of attack, opprobrium, or difficult constituents. Too many politicians are too scared to act without strong leadership. That is the leadership I will provide.\n\nThis is a war of attrition fought not only with violence, but with words, insinuation and sustained hostility. We cannot only confront attacks on worshippers at Heaton Park or on ambulances at Hatzola; we must protest sporting boycotts against Maccabi Tel Aviv and vandalism at Gail’s bakery.\n\nRelentless attacks, bizarre articles published by newspapers like the Guardian, the normalisation of rhetoric that would once have been unthinkable. The aim is clear and determined: to erode the moral legitimacy of Jews, leave you less secure, and at the same time give confidence to those who would see Jews diminished or destroyed.\n\nWe have allowed the poison of antisemitism to spread for too long, because too many politicians have been too weak or too cowardly to even say what they see, let alone confront it. That must end.\n\nI’ve been very consistent about what I am for and what I am against. Back in 2016, as a London Assembly member, I asked Sadiq Khan why antisemitic flags were being flown at the notorious Al-Quds march.\n\nAs Business and Trade Secretary, my department was stormed by hateful mobs protesting my ongoing trade talks with the world’s only Jewish state. They disagreed with my statement in parliament that people in this country use their views on Israel as a cover to display antisemitism at protests on our streets.\n\nYears later, I now lead the Conservative party – and I know where we went wrong. Politics abhors a vacuum and while the party was firmly behind the Jewish community after the October 7 massacre, there was a feebleness when it came to action. Too many were inexperienced and unclear about how to tackle the situation, while others simply did not believe what their eyes were showing them. We placed too much faith in the belief that tolerance, in and of itself, would fix things. That good people would rally round and squeeze out the bad. They did not.\n\nLet me tell you what a Conservative government under my leadership would do. There needs to be a fundamental shift in Britain. We have a radicalisation problem. Currently, we are fighting Labour’s dangerous approach to defining Islamophobia in a way that risks shutting down legitimate discussion about extremism.\n\nWe cannot continue to allow hate preachers to operate with impunity. We will have a zero-tolerance approach to extremism of all kinds including Islamism and the influence of groups like the Muslim Brotherhood in Britain.\n\nWe will revoke visas for those who come here and peddle antisemitic hatred and we will bar those who seek to bring it into our country in the first place.\n\nAnd we will ban the kind of marches we have seen on our streets, where people call to “globalise the intifada”, incite violence against Jews and glorify terrorism. Those who celebrate the massacre of Jews should be removed from public life.\n\nAntisemitism is not just an attack on Jewish people. It is an attack on the kind of country we are. Let’s call it what it is – Jew hatred. Let’s stop using softer words for what is happening. But this will not be enough.\n\nThere are things government can and must do. But it will never be enough on its own. This is no mere political fight.\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ctuao",
+          "text": "It is existential. It’s about whether people can live freely and safely as Jews in this country. And that means it requires courage. What is required is a fundamental shift; tackling the moral and political vacuum that has been filled by a hatred of Jews.\n\nOther minority communities have succeeded through hard-fought struggle and a dogged refusal to accept mistreatment. They made it clear that they would not be ignored, dismissed, or pushed aside.\n\nI am not calling for violence. Quite the opposite. There is a silent majority in this country that supports Jews. I am certain of that. But the problem with the silent majority is that silence is not strength.\n\nJews in Britain have responded to hostility with restraint and dignity. Those are virtues. But sometimes the answer is not quiet endurance but noisy and active defiance. It’s time for change when it comes to Jew hatred.\n\nDo not accept it. Do not normalise it. Stand up for your rights, your identity, and your place in this country in every way you can. Be visible. Be vocal. Use every lawful means at your disposal: your networks, your institutions, your voices. Challenge those who spread hatred. Pursue those who break the law. Know that you have our support, and you are not alone.\n\nYes, there will be pushback. I’m afraid that is the price of standing firm.\nDo not pack up your suitcases and leave. Israel cannot be the only sanctuary for Jews. This is your home.\n\nWhat I can promise you is this: as a party leader, I will do my bit. I will lead from the front, as I always have. I will do my bit to fight against two-tier policing, double standards, sectarian hate, and to make it clear that there is a cost to antisemitism. But Conservatives cannot do this alone. This has to be above politics.\n\nEarlier this month, I gave a speech against separatism and launched a wide-ranging commission on culture and integration. We need one shared identity everyone can buy into – being British. British Jews have shown how it can be done.\n\nPassover reminds us that freedom is never guaranteed. It must be defended, generation after generation. If we fail to confront this now, if we allow the radicalisation, the hatred, the intimidation to continue, then we risk losing the decent and great Britain we grew up with.\n\nThe answer to hatred is confidence and resilience. Success is the best response. We can and will defend these values and we will defeat the scourge of antisemitism.\n\nI wish Jewish people in Britain and around the world a peaceful and meaningful festival.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

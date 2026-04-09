@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-09",
+  "title": "KarpathyのLLM Wikiを実装したら、AIが「昨日の自分」を覚えてくれるようになった",
+  "subtitle": "RAGでもメモアプリでもない。AIが知識を「コンパイル」して育てる第三のアーキテクチャ",
+  "theme": "KarpathyのLLM Wiki手法をClaude Code × n8nで実装して「使うほど賢くなる自分専用AI」を作る方法",
+  "article_content": "## 毎回AIに同じ説明をしていませんか？\n\nClaude CodeやChatGPTを毎日使ってる人なら、たぶんこの感覚わかると思います。\n\n「昨日説明したのに、今日はまた同じこと聞いてくる」\n\nAIは賢いんですよ。めちゃくちゃ賢い。\n\nでも、昨日のやりとりを今日は覚えていない。\n\nだからNotionやObsidianにメモを貯める。でもAIがそれを参照してくれるわけじゃない。\n\nRAG（検索拡張生成）ってやつを導入すればいいらしい。でも正直、個人で使うにはベクトルDB立てて、チャンク分割して...って大げさすぎる。\n\n僕もずっとこの問題にモヤモヤしてました。\n\nで、4月3日。\n\nAI研究者のAndrej Karpathyが、この問題をきれいに解決するコンセプトを公開したんです。\n\n\n## Karpathyが提唱した「LLM Wiki」とは何か\n\n4月3日、KarpathyがXとGitHub Gistで公開したのが「LLM Knowledge Base」——通称LLM Wikiです。\n\nKarpathy自身がこう書いています。\n\n> 「最近のトークン消費の大部分は、コードの操作ではなく、知識の操作に使われている」\n\nこれ、すごく本質的な話だなと。\n\nAIを「コードを書かせる道具」としてだけ使っている人が多いけど、**知識を整理・蓄積・更新する道具**として使ったほうが、長期的にはずっと価値がある。\n\nで、LLM Wikiの構造はシンプルです。**3つの層**と**3つのオペレーション**でできています。\n\n**3層構造：**\n\n- **Raw Sources**（生データ）：記事、論文、メモなど。AIが読むけど書き換えない、不変のソース\n- **Wiki**（ウィキ）：AIが生成・更新するMarkdownファイル群。サマリー、概念ページ、比較ページなどで構成される\n- **Schema**（スキーマ）：Wikiの設計図。ディレクトリ構造やページの規約、ワークフローを定義するファイル（Claude Codeなら`CLAUDE.md`がこれにあたる）\n\n**3つのオペレーション：**\n\n- **Ingest**（取り込み）：新しいソースを読み込んで、関連するWikiページを一気に更新する。1つのソースを取り込むと、だいたい10〜15のWikiページが同時に更新される\n- **Query**（質問）：Wikiを検索して回答を合成する。価値のある質問結果は、そのまま新しいWikiページとして保存される\n- **Lint**（検査）：定期的にWiki全体をヘルスチェックする。矛盾、古い情報、孤立ページ、欠けている相互参照を検出する\n\nここで大事なのは、RAGとの決定的な違いです。\n\nRAGは**毎回ゼロから検索**するんですよね。質問が来るたびに、生データをベクトル検索して、関連チャンクを引っ張ってきて、それを元に回答する。\n\nLLM Wikiは違います。**取り込み時に一度だけ処理して、永続的なMarkdownファイルとして保持し続ける**。\n\nつまり、知識が「使い捨て」じゃなくて「蓄積」される。\n\nKarpathyはこのアプローチを、1945年にVannevar Bushが提唱した「Memex」というビジョンと結びつけています。個人のための知識ストアで、文書間に連想的なトレイルを張り巡らせる...というアイデアなんですが、Bushが解決できなかったのが「誰がメンテナンスするのか」という問題。\n\nKarpathyの答えはシンプルです。\n\n**「LLMがやる。メンテナンスコストはほぼゼロだ」**\n\n\n## なぜこれが「RAGの次」と言われているのか\n\nKarpathyがGistを公開した直後、[VentureBeatが「RAGをバイパスするアーキテクチャ」として報道](https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an)しました。\n\nRAGには3つの限界があるんです。\n\n**1. 毎回ゼロからの検索コスト**\n質問のたびにベクトル検索→チャンク取得→回答生成。同じ知識を何度も「再発見」している状態。\n\n**2. チャンク分割の精度問題**\n長い文章を機械的に分割するから、文脈が切れる。本当に必要な情報が別のチャンクに分散してしまうことがある。\n\n**3. 知識の構造化ができない**\nRAGは「検索して貼り付ける」だけで、知識同士の関係性を理解したり、矛盾を検出したりはできない。\n\nLLM Wikiはこの3つを全部解決します。\n\n取り込み時に一度だけ処理するから検索コストが激減する。Markdownで構造化するからチャンク分割の問題がない。そしてLintオペレーションで矛盾や古い情報を自動検出する。\n\n公開後すぐに複数のOSSリポジトリが派生していて、[lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki)はNext.js + FastAPI + Supabaseで構築されたWebアプリとして公開されています。\n\nスケーラビリティについても、Karpathyは言及していて、**100記事・約40万語規模でもindex.mdとサマリーでLLMがナビゲート可能**とのこと。個人の知識管理なら、これで十分すぎるくらいです。\n\nさらに大規模になった場合は、qmd（BM25+ベクトル検索）で対応できるとも書いています。\n\n正直、「個人がRAGを組む」というのは、ほとんどの場合オーバーエンジニアリングだったんですよね。\n\nLLM Wikiのほうが、退屈なメンテナンス作業をLLMに任せて、人間はキュレーションと質問に集中できる。この分担のほうが自然です。\n\n\n## 僕がClaude Code × n8nで実装した具体的な手順\n\nここからは、僕が実際にやった実装の話です。\n\n### Step 1: CLAUDE.mdにスキーマ定義を書く\n\nLLM Wikiの「設計図」にあたるのが、Claude Codeの`CLAUDE.md`です。\n\nここにWikiのディレクトリ構造、ページの形式、ワークフローを定義します。\n\n具体的には、自分の専門領域（AI自動化・n8n・BtoBマーケ）の知識をどう分類するか、各ページにどんなフロントマター（メタ情報）をつけるか、IngestとLintの手順をどう書くか...みたいなことを全部ここに書いておく。\n\nこれがあるから、Claude Codeはセッションが変わっても**一貫したルールでWikiを更新し続けられる**んです。\n\nBoris Cherny（Claude Code開発者）も[「間違いのたびにCLAUDE.mdに追記する」living document運用を推奨](https://mindwiredai.com/2026/03/25/claude-code-creator-workflow-claudemd/)しています。彼の言葉を借りると、「Claudeは自分自身のためにルールを書くのが驚くほど上手い」とのこと。\n\n### Step 2: raw/フォルダに知見・体験・参考記事をMarkdownで整備\n\n自分の過去の知見、体験談、参考にした記事をMarkdownファイルとして整理します。\n\n僕の場合、もともとナレッジストック（`knowledge_stock.json`）として自分の思想や哲学を構造化して溜めていたので、これをraw/フォルダに展開しました。\n\nObsidian Web Clipperを使えば、Webで見つけた良記事をワンクリックでMarkdownとして保存できるので、ソースの収集もかなり楽です。\n\n### Step 3: Claude CodeのスキルとしてIngest/Query/Lintコマンドを実装\n\n[MindStudioの解説記事](https://www.mindstudio.ai/blog/andrej-karpathy-llm-wiki-knowledge-base-claude-code)を参考に、Claude CodeのSkillsとして3つのオペレーションを実装しました。\n\n`/wiki-ingest` でソースを取り込み、`/wiki-query` で質問、`/wiki-lint` で整合性チェック。\n\nポイントは、各ノートに**サマリー行とタグを必ずつける**こと。[MindStudioによると](https://www.mindstudio.ai/blog/andrej-karpathy-llm-wiki-knowledge-base-claude-code)、これがあるとClaude Codeが全ファイルを読まなくても関連ページを特定できるようになるんです。\n\nあと、1つのファイルは1,000語程度に収める。10,000語の巨大ファイルより、焦点を絞った小さなファイルのほうが、Claudeが正確に参照できます。\n\n### Step 4: n8nのCronトリガーで定期的にLintを自動実行\n\nここが僕の差別化ポイントです。\n\nKarpathyのGistには「定期的にLintを実行する」と書いてあるけど、手動でやるのは面倒じゃないですか。\n\nだからn8nのCronトリガーで、毎週自動的にLintを走らせる仕組みにしました。矛盾検出、孤立ページの発見、古い情報の特定が全部自動化されます。\n\nn8nからClaude Codeを呼び出して、結果をSlackに通知する。これだけで「自動メンテナンスされるナレッジベース」の完成です。\n\n### Step 5: 日常の作業でWikiが自然に育つ運用フロー\n\n最後に大事なのが「運用に乗せる」こと。\n\n僕の場合、毎日のX投稿パイプライン（朝8時・夕19時の自動投稿）でリサーチした情報が、そのままWikiに蓄積されるようにしています。\n\nリサーチャーが集めたトレンド情報 → Wikiにingest → 次回のプランナーがWikiを参照 → より深い企画が出る\n\nこのループが回り始めると、**使えば使うほどWikiが充実して、AIの出力品質が上がっていく**。まさに複利です。\n\n最初は10〜20件のソースから始めるのがコツ。いきなり100件入れても整理が追いつかないので、小さく始めて有効性を検証してから拡張していくのがおすすめです。\n\n\n## 使ってみて変わったこと\n\n正直に言うと、最初は「RAGの簡易版でしょ？」くらいに思っていました。\n\nでも、実際に2週間ほど運用してみて、感覚が全然違ったんです。\n\nまず、**AIへの説明回数が激減しました**。\n\n以前は新しいセッションを開くたびに「僕はn8nガチ勢で、Claude Codeでこういう自動化をやっていて...」みたいな前提を毎回伝えていた。でも今はWikiに全部書いてあるから、Claude Codeが勝手に参照してくれる。\n\n次に、**過去のリサーチ結果が自動的に次の企画に反映される**ようになりました。\n\n先週調べたトレンド情報がWikiに蓄積されていて、今週の記事企画でそれが自然に活用される。「あ、これ前にも調べたな」っていう二度手間がなくなった。\n\nそして一番大きかったのが、**「知見が複利で効いてくる」感覚**です。\n\nこれ、ナレッジが蓄積されるほど、AIの出力が自分好みに最適化されていくんですよね。ノウハウ（機能）を変えたんじゃなくて、**コンセプト（使い方の切り口）を変えただけ**で結果が変わった。\n\n差別化って、新しい機能を追いかけることじゃないんです。同じツールでも、使い方の「切り口」を変えるだけで全く別の価値が生まれる。\n\n\n## 「知識が複利で効く」仕組みを持つことの意味\n\nAIツールって、毎月のように新しいものが出てきますよね。\n\n追いかけるだけで疲れる。\n\nでも、ツールを追いかけるのと「自分の知識基盤を育てる」のは、全然違うゲームなんです。\n\nKarpathyのLLM Wikiというコンセプト。Claude Codeという実行環境。n8nという自動化基盤。\n\nどれも既存のものです。真新しい発明は1つもない。\n\nでも、この3つを掛け合わせると「使うほど賢くなる自分専用AI」という、今までなかった仕組みができる。**既存の要素の掛け合わせで「目新しいもの」を作る**——これがコンセプトメイキングの本質だなと、改めて感じています。\n\nClaude Code × n8nの組み合わせなら、ベクトルDBもPythonスクリプトも要らない。Markdownファイルとgitだけで、自分だけのナレッジベースが育っていく。\n\n非エンジニアでも始められます。\n\nあなたのAIは、昨日のあなたを覚えていますか？\n\nもし覚えていないなら、そろそろ「知識が複利で効く仕組み」を作る時期かもしれないです。\n\nこの仕組みに興味がある方はフォローしておくと、続きの実装TipsをX投稿で共有していきます。\n\n\n---\n\n**参考情報：**\n- [Karpathy's LLM Wiki (GitHub Gist)](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)\n- [VentureBeat: RAGをバイパスするアーキテクチャ](https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an)\n- [MindStudio: Claude CodeでLLM Wikiを実装する方法](https://www.mindstudio.ai/blog/andrej-karpathy-llm-wiki-knowledge-base-claude-code)\n- [Boris Cherny's CLAUDE.md Living Document](https://mindwiredai.com/2026/03/25/claude-code-creator-workflow-claudemd/)\n- [lucasastorian/llmwiki (OSS実装)](https://github.com/lucasastorian/llmwiki)\n- [Antigravity: KarpathyのLLM Wikiとアイデアファイル](https://antigravity.codes/ja/blog/karpathy-llm-wiki-idea-file)",
+  "char_count": 4850,
+  "word_count": 4850,
+  "sections": [
+    {
+      "heading": "毎回AIに同じ説明をしていませんか？",
+      "word_count": 400
+    },
+    {
+      "heading": "Karpathyが提唱した「LLM Wiki」とは何か",
+      "word_count": 750
+    },
+    {
+      "heading": "なぜこれが「RAGの次」と言われているのか",
+      "word_count": 500
+    },
+    {
+      "heading": "僕がClaude Code × n8nで実装した具体的な手順",
+      "word_count": 950
+    },
+    {
+      "heading": "使ってみて変わったこと",
+      "word_count": 450
+    },
+    {
+      "heading": "「知識が複利で効く」仕組みを持つことの意味",
+      "word_count": 350
+    }
+  ],
+  "structure_type": "ステップ形式 + 体験談",
+  "hook_used": "「昨日説明したのに、今日はまた同じこと聞いてくる」という日常的なAIストレスへの共感",
+  "cta_text": "この仕組みに興味がある方はフォローしておくと、続きの実装TipsをX投稿で共有していきます",
+  "knowledge_used_ids": ["k_20260326_007", "k_20260326_008"],
+  "source_urls": [
+    "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "https://x.com/karpathy/status/2039805659525644595",
+    "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an",
+    "https://www.mindstudio.ai/blog/andrej-karpathy-llm-wiki-knowledge-base-claude-code",
+    "https://antigravity.codes/ja/blog/karpathy-llm-wiki-idea-file",
+    "https://github.com/lucasastorian/llmwiki",
+    "https://mindwiredai.com/2026/03/25/claude-code-creator-workflow-claudemd/"
+  ],
+  "meta_description": "Karpathyが公開したLLM WikiをClaude Code×n8nで実装。RAGより簡単に「使うほど賢くなる自分専用AI」を作る5ステップを解説"
+}

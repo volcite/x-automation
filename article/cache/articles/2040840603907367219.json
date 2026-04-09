@@ -1,0 +1,173 @@
+{
+  "tweet_created_at": "2026-04-05T17:14:51.000000Z",
+  "id": 2040840603907367200,
+  "id_str": "2040840603907367219",
+  "type": "tweet",
+  "conversation_id_str": "2040840603907367219",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/jraEHGAJf9",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1233144565101736000,
+    "id_str": "1233144565101735948",
+    "name": "The Titan",
+    "screen_name": "Titan___96",
+    "location": "Africa",
+    "url": null,
+    "description": "Movies | Moments | Memes",
+    "protected": false,
+    "verified": true,
+    "followers_count": 19642,
+    "friends_count": 7388,
+    "listed_count": 17,
+    "favourites_count": 18357,
+    "statuses_count": 50904,
+    "created_at": "2020-02-27T21:39:46.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1233144565101735948/1746605148",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2032767698350780416/KKu8-Zdg_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 68,
+  "reply_count": 138,
+  "retweet_count": 112,
+  "favorite_count": 3939,
+  "views_count": 24883422,
+  "bookmark_count": 1636,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040839995750072320",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/jraEHGAJf9"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T17:14:51.000000Z",
+    "id": 2040840603907367200,
+    "id_str": "2040840603907367219",
+    "title": "Some Day.",
+    "preview_text": "END",
+    "cover_url": "https://pbs.twimg.com/media/HFKFO-HbAAAxYZQ.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3r8kd",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6lf6o",
+          "text": "END",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "9ec153ea-d534-48dc-9fe9-e3e53e7a7167",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040840342623383552"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFKFepFacAAKAAIRHQJyz5ewDAAA",
+        "media_id": "2040840342623383552",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 84.5,
+                "rgb": {
+                  "blue": 166,
+                  "green": 161,
+                  "red": 153
+                }
+              },
+              {
+                "percentage": 13.95,
+                "rgb": {
+                  "blue": 97,
+                  "green": 103,
+                  "red": 112
+                }
+              },
+              {
+                "percentage": 1.13,
+                "rgb": {
+                  "blue": 171,
+                  "green": 160,
+                  "red": 148
+                }
+              }
+            ]
+          },
+          "original_img_height": 1040,
+          "original_img_url": "https://pbs.twimg.com/media/HFKFepFacAAWmVm.jpg",
+          "original_img_width": 992
+        },
+        "media_key": "3_2040840342623383552"
+      }
+    ]
+  }
+}

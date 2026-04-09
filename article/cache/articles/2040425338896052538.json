@@ -1,0 +1,455 @@
+{
+  "tweet_created_at": "2026-04-04T13:44:44.000000Z",
+  "id": 2040425338896052500,
+  "id_str": "2040425338896052538",
+  "type": "tweet",
+  "conversation_id_str": "2040425338896052538",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/v4VgRMBmQW",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 758085889180389400,
+    "id_str": "758085889180389376",
+    "name": "やうゆ",
+    "screen_name": "yauyuism",
+    "location": "静岡県→山梨県→三軒茶屋・恵比寿に出没",
+    "url": "https://note.com/yauyuism",
+    "description": "恋愛と婚活について、毎日1000文字のコラムを男目線で書かないといられない人/三茶・恵比寿のカラオケバーが好き/遭遇したらテキーラ飲も",
+    "protected": false,
+    "verified": true,
+    "followers_count": 31834,
+    "friends_count": 211,
+    "listed_count": 170,
+    "favourites_count": 91767,
+    "statuses_count": 17105,
+    "created_at": "2016-07-26T23:45:35.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/758085889180389376/1753655330",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1914244904668352512/Omy-qEJb_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 159,
+  "reply_count": 27,
+  "retweet_count": 115,
+  "favorite_count": 1150,
+  "views_count": 1872279,
+  "bookmark_count": 696,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040276388725305344",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/v4VgRMBmQW"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T13:44:44.000000Z",
+    "id": 2040425338896052500,
+    "id_str": "2040425338896052538",
+    "title": "マッチングアプリで一番損しているのは、たぶん女性だ",
+    "preview_text": "マッチングアプリで一番損しているのは、たぶん女性だ。",
+    "cover_url": "https://pbs.twimg.com/media/HFEL0DAa4AAoKuS.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2e74",
+          "text": "マッチングアプリで一番損しているのは、たぶん女性だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flk36",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b200d",
+          "text": "こう言うと「は？女性は無料だし、いいねも大量に来るし、選び放題じゃん」と思う男性が多いと思う。表面だけ見ればその通りだ。男性は月額3,000〜5,000円払って、100人にいいねを送って、返ってくるのは数人。女性は無料で、放っておいてもいいねが100件来る。男性が不利で女性が有利。そう見える。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "avc32",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7dc2e",
+          "text": "でも一歩深く見ると、景色が変わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cblqi",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "hdbv",
+          "text": "まず男性の地獄は「何も起きない」ことだ。いいねを送っても返ってこない。マッチしない。会えない。0に何をかけても0。これはしんどい。でも「何も起きていない」から、傷は浅い。期待する前に終わっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dss91",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "to1i",
+          "text": "女性の地獄は「何か起きるのに、何も残らない」ことだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70es9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "as5bt",
+          "text": "いいねが来る。マッチする。メッセージが始まる。デートする。楽しい夜を過ごす。関係を重ねることもある。「この人かもしれない」と思う。期待する。でも翌週から連絡が減る。既読がつかなくなる。何も残っていない。時間を使って、感情を使って、関係を重ねて、手元に残ったのは「また同じだった」という虚しさだけだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5klt",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5a66d",
+          "text": "なぜこうなるか。アプリの構造が、この結果を最初から設計しているからだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84lrr",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhhdr",
+          "text": "Pairsは公式に「過去にいいねした相手のデータを学習して、あなたとマッチしやすい人を表示する」とインタビューで明言している。タップルも協調フィルタリングという技術で「あなたと似た人が好んだ相手」をおすすめに出す。Tinderも同じだ。つまり全てのアプリが「あなたの好みに合った異性」をおすすめ欄に並べている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jm4c",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "16f2",
+          "text": "一見、便利な機能に見える。でもこれが上昇婚を加速させる装置になっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b347j",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cqtdh",
+          "text": "年収600万の男性に一度いいねを送ると、アプリは「この人は年収600万以上の男性が好き」と学習する。次におすすめ欄に並ぶのは、また年収600万以上の男性だ。いいねを送る。また学習する。またハイスペが表示される。Amazonが「あなたへのおすすめ」で似た商品を並べるのと同じ構造だ。アプリを使えば使うほど、おすすめ欄が「理想の異性」で埋まっていく。理想のハードルが上がり続ける。現実の出会いとの乖離がどんどん広がる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ngha",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "141jd",
+          "text": "アプリには上昇婚志向の女性が大量に流れ込む。そしてアプリのアルゴリズムがその志向を強化する。年収600万以上、身長170以上、大卒以上。この条件を満たす男性は30代男性の上位数%しかいない。数%に女性の大多数が集中する。いいねが殺到する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dll45",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7d4jn",
+          "text": "ここで構造的に最悪なことが起きる。上位数%の男性は「自分が選べる側にいる」ことを完全に理解している。5人同時に会って、一番居心地がいい相手だけ残す。あるいは誰も残さない。本命を作らず、寄ってきた女性を生かさず殺さず、都合のいい関係だけキープする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4g7m2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "breae",
+          "text": "選べる立場の人間が、わざわざ一人に絞る動機がない。選択肢が多すぎる人間は、選ばないほうが得だと学習する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "egrqd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "equg6",
+          "text": "つまりこういう構造だ。女性は上昇婚で上位数%の男性に集中する。集中された男性は選び放題になる。選び放題の人間は本気にならない。本気にならない相手に、女性が時間と感情を注ぎ込む。注ぎ込んだ先に何も残らない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3u4gp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7hn9g",
+          "text": "一方、上位数%に入れなかった大多数の男性は、いいねを送っても返ってこない。プロフィールすら見てもらえない。年収500万、身長168cm、地方の中小企業勤務。何も悪くない。普通に誠実で、普通に優しい。でもフィルターの段階で弾かれている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffon0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6d2ca",
+          "text": "つまりアプリの中では、「本気で向き合ってくれる普通の男性」と「本気で向き合ってほしい女性」が出会えない設計になっている。女性が求める男性は本気にならず、本気になれる男性は女性に見えていない。このミスマッチがアプリの構造的なバグだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mcn7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agdn4",
+          "text": "男性は「見てもらえない」で疲弊する。女性は「大事にされない」で疲弊する。しかも女性のほうがイベントが発生しているぶん、期待値が上がり、裏切られたときの落差が大きい。「0」の男性より、「もしかしたら」を繰り返した女性のほうが、ダメージは深い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bcr6m",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "25qsk",
+          "text": "そして一番残酷なのは、女性が「出会いはあるのになぜうまくいかないんだろう」と自分を責め始めることだ。男性は「俺には出会いがない」と言える。原因が外にある。でも女性は出会いが「発生している」から、うまくいかない原因が自分にあるように見えてしまう。実際は構造の問題なのに、自分の問題だと思い込む。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2matg",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9133k",
+          "text": "アプリが悪いとは言わない。ただ、この構造の中にいる限り、全員が疲弊し続ける。条件で人を選ぶ場所では、条件で自分も選ばれる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8p3uk",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cdf8s",
+          "text": "この構造から抜けるには、条件の外で人と出会うしかない。スペックシートを通さない場所で、「この人と話していて楽しいかどうか」が先に来る出会い方。効率は悪い。でもそこでは「上位数%」も「フィルター」も存在しない。人間として向き合える。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "g0gu",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d2vlg",
+          "text": "※Xでは書ききれない話をnoteに書いてます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c4c45",
+          "text": "最新：\"人間関係リセット症候群\"月11,000回──全部消したい衝動に、ついに名前がついた",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://note.com/yauyuism",
+                "toIndex": 25
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6k9rn",
+          "text": "https://note.com/yauyuism",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 4,
+                "text": "yauyuism",
+                "toIndex": 13
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b077o",
+          "text": "X → @yauyuism",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

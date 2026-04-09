@@ -1,0 +1,261 @@
+{
+  "tweet_created_at": "2026-04-01T12:07:25.000000Z",
+  "id": 2039313683801670000,
+  "id_str": "2039313683801669986",
+  "type": "tweet",
+  "conversation_id_str": "2039313683801669986",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/B7ar9g81nz",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2024565021171470300,
+    "id_str": "2024565021171470336",
+    "name": "Fauno",
+    "screen_name": "FabrizioFauno",
+    "location": "",
+    "url": null,
+    "description": "Periodismo intelectual | I AM NOT FABRIZIO FAUNA | PARODY Account. NOT IMPERSONATING ANYONE • Contacto DM 📨",
+    "protected": false,
+    "verified": true,
+    "followers_count": 54284,
+    "friends_count": 347,
+    "listed_count": 21,
+    "favourites_count": 4570,
+    "statuses_count": 2873,
+    "created_at": "2026-02-19T19:21:38.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024565021171470336/1773510900",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2024789443064774656/nU-IZoGR_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/ryne_ai",
+      "badge_url": "https://pbs.twimg.com/profile_images/1993593238029320192/qYNE7WX6_bigger.jpg",
+      "description": "Ryne",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 3,
+  "reply_count": 31,
+  "retweet_count": 106,
+  "favorite_count": 1930,
+  "views_count": 66190,
+  "bookmark_count": 199,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039312554254598144",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/B7ar9g81nz"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T12:07:25.000000Z",
+    "id": 2039313683801670000,
+    "id_str": "2039313683801669986",
+    "title": "La caída de Fabrizio Fauna: del caos viral a la suspensión definitiva en X",
+    "preview_text": "La historia de Fabrizio Fauna es uno de los ejemplos más claros de cómo funciona, y también cómo se rompe, el crecimiento en X.\nDurante años, esta cuenta fue una de las más virales dentro de la",
+    "cover_url": "https://pbs.twimg.com/media/HE0YgIPX0AExdoh.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dhai",
+          "text": "La historia de Fabrizio Fauna es uno de los ejemplos más claros de cómo funciona, y también cómo se rompe, el crecimiento en X.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4v7bb",
+          "text": "Durante años, esta cuenta fue una de las más virales dentro de la comunidad futbolera. Su contenido no pasaba desapercibido: generaba millones de impresiones, miles de interacciones y, sobre todo, una constante división entre quienes lo veían como humor y quienes lo consideraban una de las cuentas más tóxicas de la plataforma.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "57i51",
+          "text": "Fabrizio Fauna nació como una parodia directa del periodista Fabrizio Romano. Imitaba su estilo, su formato de anuncios de fichajes y su famoso “Here we go”, pero lo llevaba a un extremo completamente distinto. Sus publicaciones se basaban en rumores inventados, titulares exagerados y un tipo de humor provocador que buscaba generar reacción inmediata.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2vs56",
+          "text": "Ese enfoque funcionó. Y funcionó muy bien.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84oko",
+          "text": "La cuenta creció rápidamente porque entendía algo fundamental: en X, la atención no se gana siendo preciso, sino siendo emocional. Cada publicación estaba diseñada para provocar, ya fuera risa, enfado o incredulidad. Esa capacidad de generar reacción constante convirtió a Fauna en un fenómeno viral.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fa7ig",
+          "text": "Sin embargo, a medida que crecía, también lo hacía la polémica.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4pts7",
+          "text": "Con el tiempo, su contenido empezó a cruzar líneas que muchos usuarios consideraban problemáticas. Las críticas se centraban en el uso de humor ofensivo, ataques repetidos a figuras públicas y publicaciones que, para una parte de la audiencia, dejaban de ser sátira para convertirse en algo más agresivo.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9t62s",
+          "text": "La situación se volvió aún más tensa por su relación indirecta con Fabrizio Romano. Aunque no existía un enfrentamiento público constante, el uso del nombre, el formato y la identidad del periodista generó fricción dentro de la comunidad. La parodia dejó de percibirse únicamente como humor y empezó a verse, en ciertos casos, como una distorsión de una figura real con gran influencia.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "379f1",
+          "text": "Todo esto fue acumulándose con el tiempo.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2okcs",
+          "text": "Fabrizio Fauna no cayó por una sola publicación ni por un momento concreto. Su caída fue el resultado de una presión constante, tanto por parte de usuarios como por el tipo de contenido que mantenía de forma reiterada.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "at4em",
+          "text": "Finalmente, en febrero de 2026, la cuenta fue suspendida de forma permanente en X.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56mla",
+          "text": "El impacto fue inmediato. La conversación explotó dentro de la plataforma y la comunidad se dividió por completo. Para algunos, la suspensión era necesaria y lógica después de años de polémicas. Para otros, representaba un caso de censura dentro de un espacio que precisamente se caracteriza por la libertad de expresión.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1kjp0",
+          "text": "Pero la historia no terminó ahí.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4j6ie",
+          "text": "Tras la caída, surgieron intentos de continuar el proyecto bajo otros nombres, que también fueron eliminados en poco tiempo. Al mismo tiempo, comenzaron a circular supuestos datos personales del creador, lo que añadió una capa aún más compleja y polémica al caso.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5omm6",
+          "text": "Lo que había empezado como una cuenta de parodia se convirtió en un fenómeno que trascendió el contenido y pasó a formar parte del debate sobre los límites del humor, la responsabilidad en redes sociales y el papel de las plataformas en la moderación.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5dc8u",
+          "text": "La caída de Fabrizio Fauna deja una conclusión clara.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vq2u",
+          "text": "El tipo de contenido que más rápido crece en X suele ser el que más intensamente provoca a la audiencia. Pero esa misma intensidad es la que, con el tiempo, acerca a los creadores a los límites de la plataforma.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fac1c",
+          "text": "Fabrizio Fauna entendió perfectamente cómo captar la atención. Lo que su historia demuestra es que mantener ese nivel de provocación sin consecuencias es mucho más difícil.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91d01",
+          "text": "Su desaparición dejó un vacío inmediato, pero también una lección evidente para cualquiera que intente replicar su modelo.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6fgim",
+          "text": "Crecer rápido es posible.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2er8",
+          "text": "Sostenerlo sin romper las reglas es otra historia completamente distinta.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

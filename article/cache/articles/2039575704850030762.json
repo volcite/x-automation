@@ -1,0 +1,111 @@
+{
+  "tweet_created_at": "2026-04-02T05:28:36.000000Z",
+  "id": 2039575704850030800,
+  "id_str": "2039575704850030762",
+  "type": "tweet",
+  "conversation_id_str": "2039575704850030762",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/tbOjoItel8",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2381826866,
+    "id_str": "2381826866",
+    "name": "木石岳 / Gaku Kiishi / Asahi (macaroom)",
+    "screen_name": "asahisism8",
+    "location": "Japan",
+    "url": "http://macaroom.net/",
+    "description": "Songwriter / macaroom.  macaroomというエレクトロニカ集団。まかちく(macaroomと知久寿焼)。 映画サントラ。著書『やさしい現代音楽の作曲法』『歌詞のサウンドテクスチャー』",
+    "protected": false,
+    "verified": true,
+    "followers_count": 15106,
+    "friends_count": 11144,
+    "listed_count": 80,
+    "favourites_count": 2064,
+    "statuses_count": 8991,
+    "created_at": "2014-03-10T09:03:15.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2381826866/1637624373",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1800142009426223104/MIa7kwTV_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 46,
+  "reply_count": 6,
+  "retweet_count": 233,
+  "favorite_count": 1490,
+  "views_count": 238964,
+  "bookmark_count": 856,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039535174317424640",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/tbOjoItel8"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T05:28:36.000000Z",
+    "id": 2039575704850030800,
+    "id_str": "2039575704850030762",
+    "title": "秋元康の歌詞を真面目に批評できる日はいつになるだろうか",
+    "preview_text": "保守的な言語リズム（常にモーラ言語的、等時性）、歌詞音響の軽視（音象徴よりも語の意味）、無意味な助動詞や助詞の多用（よ、だよ、だね）、意味的流動性の低さ（説明的。「複雑な恋模様」を「ギンガムチェック」",
+    "cover_url": "https://pbs.twimg.com/media/HE3jPI4a8AAfekm.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3dvg7",
+          "text": "保守的な言語リズム（常にモーラ言語的、等時性）、歌詞音響の軽視（音象徴よりも語の意味）、無意味な助動詞や助詞の多用（よ、だよ、だね）、意味的流動性の低さ（説明的。「複雑な恋模様」を「ギンガムチェック」にたとえるなど、凡庸で誰でも説明可能なメタファー）、競争の象徴（一番、勝敗、努力）、いにしえの女性像のリヴァイバル（もちろん「グリー」問題を筆頭に）、構造的に無理のあるねじれ主体（「大人たちに支配されるな」「制服を着たマネキン」などと大人から歌わされる子どもたち）、歌い手に個性を見出させない（大勢のユニゾン）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2uoks",
+          "text": "などが特徴の、秋元康およびAKB系列によるたくさんの歌詞たち。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6dqj3",
+          "text": "少なく見積もって10年間はJPOPがこのような保守的な歌詞を半ば無理やりどっぷりと被曝し続けてきたことを、そろそろ再検討すべきだと思ったりする。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

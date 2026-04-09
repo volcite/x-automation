@@ -1,0 +1,433 @@
+{
+  "tweet_created_at": "2026-04-07T02:52:22.000000Z",
+  "id": 2041348327162143000,
+  "id_str": "2041348327162142859",
+  "type": "tweet",
+  "conversation_id_str": "2041348327162142859",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/i7RkslGYuF",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1058447870418960400,
+    "id_str": "1058447870418960384",
+    "name": "Aishah Sofey",
+    "screen_name": "aishahsofey",
+    "location": "United States",
+    "url": "http://aishahsofey.com",
+    "description": "I just wanna play Minecraft",
+    "protected": false,
+    "verified": true,
+    "followers_count": 1743405,
+    "friends_count": 240,
+    "listed_count": 1713,
+    "favourites_count": 16281,
+    "statuses_count": 2299,
+    "created_at": "2018-11-02T19:56:52.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058447870418960384/1764709269",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1552822263237550081/AIDBQ9ZE_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 1,
+  "reply_count": 109,
+  "retweet_count": 17,
+  "favorite_count": 1060,
+  "views_count": 446732,
+  "bookmark_count": 317,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041348111260364800",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/i7RkslGYuF"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T02:52:22.000000Z",
+    "id": 2041348327162143000,
+    "id_str": "2041348327162142859",
+    "title": "hi there👀",
+    "preview_text": ".",
+    "cover_url": "https://pbs.twimg.com/media/HFRTTupXgAAn3EJ.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "frsqs",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4shj1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6hjdm",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3s20f",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5fpc",
+          "text": ".",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "b84962dd-ebdd-4fbe-bd21-bb4f37367f4f",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041348206718517248"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "17b1a334-4eb4-4881-9801-806841482cb0",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041348230273961984"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "43c591c2-1ce2-4dd2-a7f1-6bed2a0f1602",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041348253262737409"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "ab05d887-3968-4fd0-b6da-c27e8645354f",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041348277656862720"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRTYORWgAAKAAIOsFy68ZdAAAAA",
+        "media_id": "2041348206718517248",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 66.27,
+                "rgb": {
+                  "blue": 188,
+                  "green": 187,
+                  "red": 183
+                }
+              },
+              {
+                "percentage": 14.26,
+                "rgb": {
+                  "blue": 21,
+                  "green": 22,
+                  "red": 27
+                }
+              },
+              {
+                "percentage": 9.34,
+                "rgb": {
+                  "blue": 50,
+                  "green": 88,
+                  "red": 136
+                }
+              },
+              {
+                "percentage": 3.3,
+                "rgb": {
+                  "blue": 104,
+                  "green": 154,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 1.25,
+                "rgb": {
+                  "blue": 88,
+                  "green": 101,
+                  "red": 135
+                }
+              }
+            ]
+          },
+          "original_img_height": 170,
+          "original_img_url": "https://pbs.twimg.com/media/HFRTYORWgAAb8dV.png",
+          "original_img_width": 548
+        },
+        "media_key": "3_2041348206718517248"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRTZmBaEAAKAAIOsFy68ZdAAAAA",
+        "media_id": "2041348230273961984",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 67.42,
+                "rgb": {
+                  "blue": 177,
+                  "green": 174,
+                  "red": 183
+                }
+              },
+              {
+                "percentage": 15.64,
+                "rgb": {
+                  "blue": 15,
+                  "green": 20,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 11.04,
+                "rgb": {
+                  "blue": 88,
+                  "green": 112,
+                  "red": 160
+                }
+              },
+              {
+                "percentage": 0.63,
+                "rgb": {
+                  "blue": 15,
+                  "green": 15,
+                  "red": 20
+                }
+              },
+              {
+                "percentage": 0.51,
+                "rgb": {
+                  "blue": 20,
+                  "green": 51,
+                  "red": 90
+                }
+              }
+            ]
+          },
+          "original_img_height": 170,
+          "original_img_url": "https://pbs.twimg.com/media/HFRTZmBaEAALdBc.png",
+          "original_img_width": 548
+        },
+        "media_key": "3_2041348230273961984"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRTa7qW8AEKAAIOsFy68ZdAAAAA",
+        "media_id": "2041348253262737409",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 84.32,
+                "rgb": {
+                  "blue": 158,
+                  "green": 156,
+                  "red": 162
+                }
+              },
+              {
+                "percentage": 9.82,
+                "rgb": {
+                  "blue": 75,
+                  "green": 90,
+                  "red": 112
+                }
+              },
+              {
+                "percentage": 3.14,
+                "rgb": {
+                  "blue": 111,
+                  "green": 128,
+                  "red": 146
+                }
+              },
+              {
+                "percentage": 1.41,
+                "rgb": {
+                  "blue": 6,
+                  "green": 10,
+                  "red": 30
+                }
+              },
+              {
+                "percentage": 1.33,
+                "rgb": {
+                  "blue": 110,
+                  "green": 108,
+                  "red": 118
+                }
+              }
+            ]
+          },
+          "original_img_height": 170,
+          "original_img_url": "https://pbs.twimg.com/media/HFRTa7qW8AEg0OM.png",
+          "original_img_width": 548
+        },
+        "media_key": "3_2041348253262737409"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFRTcWiXwAAKAAIOsFy68ZdAAAAA",
+        "media_id": "2041348277656862720",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 80.14,
+                "rgb": {
+                  "blue": 55,
+                  "green": 78,
+                  "red": 111
+                }
+              },
+              {
+                "percentage": 14.37,
+                "rgb": {
+                  "blue": 116,
+                  "green": 123,
+                  "red": 138
+                }
+              },
+              {
+                "percentage": 7.95,
+                "rgb": {
+                  "blue": 13,
+                  "green": 24,
+                  "red": 54
+                }
+              },
+              {
+                "percentage": 0.16,
+                "rgb": {
+                  "blue": 18,
+                  "green": 35,
+                  "red": 80
+                }
+              }
+            ]
+          },
+          "original_img_height": 170,
+          "original_img_url": "https://pbs.twimg.com/media/HFRTcWiXwAAeymh.png",
+          "original_img_width": 548
+        },
+        "media_key": "3_2041348277656862720"
+      }
+    ]
+  }
+}

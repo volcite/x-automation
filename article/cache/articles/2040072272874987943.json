@@ -1,0 +1,367 @@
+{
+  "tweet_created_at": "2026-04-03T14:21:47.000000Z",
+  "id": 2040072272874988000,
+  "id_str": "2040072272874987943",
+  "type": "tweet",
+  "conversation_id_str": "2040072272874987943",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/wk8yxz02Nc",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 161355169,
+    "id_str": "161355169",
+    "name": "MHP",
+    "screen_name": "MHP_Bilgi",
+    "location": "Türkiye",
+    "url": "http://www.mhp.org.tr",
+    "description": "Milliyetçi Hareket Partisi (MHP) Resmî Twitter Hesabıdır.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 2737691,
+    "friends_count": 1,
+    "listed_count": 1338,
+    "favourites_count": 6653,
+    "statuses_count": 41330,
+    "created_at": "2010-06-30T16:52:14.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/161355169/1622364182",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1663517379861544961/GYSnotOl_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 30,
+  "reply_count": 106,
+  "retweet_count": 1403,
+  "favorite_count": 2228,
+  "views_count": 49448,
+  "bookmark_count": 13,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040069473034469376",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/wk8yxz02Nc"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T14:21:47.000000Z",
+    "id": 2040072272874988000,
+    "id_str": "2040072272874987943",
+    "title": "Genel Başkanımız Devlet Bahçeli’nin, Başbuğ'umuzun vefat yıl dönümü münasebetiyle yayınladığı mesaj",
+    "preview_text": "Partimizin Kurucu Genel Başkanı Başbuğumuz Alparslan Türkeş Bey’i ebediyete irtihalinin 29’uncu yıl dönümünde rahmet ve saygıyla anıyorum.\n25 Kasım 1917’de Lefkoşa’da başlayan 80 yıllık kutlu bir",
+    "cover_url": "https://pbs.twimg.com/media/HE_KkD7aUAACU_U.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f247b",
+          "text": "Partimizin Kurucu Genel Başkanı Başbuğumuz Alparslan Türkeş Bey’i ebediyete irtihalinin 29’uncu yıl dönümünde rahmet ve saygıyla anıyorum.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bmdmr",
+          "text": "25 Kasım 1917’de Lefkoşa’da başlayan 80 yıllık kutlu bir ömür, 4 Nisan 1997’de Ankara’da son bulmuştur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8b303",
+          "text": "Alparslan Türkeş, Türk milliyetçiliği fikrini kurumsallaştırarak geniş kitlelere ulaştıran, onu bir siyasî proje hâline getirip yurdun dört köşesine hatta sınırların ötesine yayan büyük bir fikir, dava ve devlet adamıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "q9pu",
+          "text": "Açtığı ülkücü çığır, millî heyecan ve arzuları bir şuurda toplamıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g8dt",
+          "text": "Türkiye Cumhuriyetini ve Türk milletini korumak, güçlendirmek ve dünyada lâyık olduğu mertebeye ulaştırmak için millî bir görüş etrafında birleşilmesi gerektiğini savunan Türkeş, Türk milletinin tüm sorunlarından kurtuluşunun topyekûn bir kalkınma ile mümkün olabileceğini söylemiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24tjv",
+          "text": "Merhum Türkeş Bey, Türk devlet ve siyaset hayatına derin izler bırakmış bir mücadele insanıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b0prq",
+          "text": "Fırtınalı yıllarda, zorlu şartlarda, sıkıntılı dönemlerde ilke ve ülkülerine cesaretle sahip çıkmış, duruşundan ve fikri tutarlılığından taviz vermemiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bod6",
+          "text": "Hiçbir menfaat vaadine aldanmamış, yolundan dönmemiş, satanlardan, korkanlardan, terk edenlerden olmamıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cgcjm",
+          "text": "Fani hayatını ülkesine, milletine ve ülkülerine adamıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fpvmv",
+          "text": "Türk milliyetçiliğinin çile ve mücadeleyle geçen tarihine yakından şahit olmuş, müdahil olmuş, varlığı ile bu mücadeleye farklı bir anlam kazandırmıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cf84s",
+          "text": "Türkeş, Türklük ülküsü ile Türk milliyetçiliği davasının günümüze uzanan şerefli geçmişindeki en önemli şahsiyetlerinden birisidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7nens",
+          "text": "O, tarihten ilhamını alarak gözlerini geleceğin ufkuna dikmişti.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmemi",
+          "text": "“Emanet olunan davayı kucakladım. Hiç arkama bakmadan, tereddütsüz, hiçbir şeye aldırmadan yürüyorum.” sözleri ile büyük Türk milletinin elden ele taşınan mukaddes emanetini, nesilden nesile aktarma kararlılığını göstermiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a614k",
+          "text": "Türk milliyetçiliğini, Türk milletini sevmek ve onu yükseltmek ülküsü olarak ifade ederek ömrünü bu gayeye hizmetle geçirmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8llct",
+          "text": "Tutarlı hayat çizgisiyle, tavizsiz duruşuyla davamızın onuruna leke düşürmemiş; tehdit ve tehlikeler karşısında zaaf göstermemiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fo5e1",
+          "text": "Büyük bir mücadele, engin bir gönül ve ülkü insanı olan Türkeş Bey, hayatını mukaddes davasına adamış, ruhunu Türk-İslâm ülküsünün başarısına vakfetmiş, sağduyunun gür sesi ve demokrasinin yılmaz bir neferi olmuştur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71sp3",
+          "text": "Haksızlık karşısında susmamış, geleceğin büyük Türkiye’sini planlamış ve bunu bıkmadan usanmadan anlatmıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bn7n5",
+          "text": "Ne mutlu ki Milliyetçi Hareket Partisi, ülkemizin her sorununa cevap verebilecek fikir, vizyon ve kadroları yetiştiren bir siyaset mektebi ve ekolü haline gelmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "59uv2",
+          "text": "Fikriyatımız ve siyasi mücadelemiz aziz milletimizde ve mazlum gönüllerde karşılık bulmuştur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1o1qp",
+          "text": "Merhum Türkeş Bey’in yaktığı meşale sönmeyecek, yaptığı zamanlar üstü çağrısı asla silinmeyecektir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bmmbf",
+          "text": "Şanla, şerefle 57 yılı geride bırakan Milliyetçi Hareket Partisi, bugün dünden daha güçlü, daha gelişmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjr2a",
+          "text": "Partimizin kurulduğu 1969’dan itibaren elde ettiğimiz birikim ve tecrübeler Türk ve Türkiye Yüzyılının inşa ve ihya müjdesi haline gelmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "38mbj",
+          "text": "Merhum Türkeş, “Türk milletinin büyük ve şanlı mazisine lâyık bir istikbâl meydana getirme davası” olarak ifade ettiği Türk Milliyetçiliği davasını, “Türklük gurur ve şuuru ile İslâm ahlâk ve faziletini” bir potada eriten bir manevî temele dayandırmıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1i8ee",
+          "text": "Türkeş, Milliyetçi Hareket’in temel felsefesini “insan sevgisi” olarak belirlemiş; “gerçek milliyetçiliğin, milleti meydana getiren her insanı hiçbir ayrım yapmaksızın aynı derecede sevmek” olduğunu savunarak millî birlik ve beraberliğimizin temelini kuvvetlendirmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6cevv",
+          "text": "Türk milletinin en büyük gücünün, tarih boyunca gösterdiği birlik ve dayanışma olduğunu vurgulayarak Peygamber Efendimizin “birlikte rahmet ayrılıkta azap vardır” sözünü sıkça tekrar etmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3j24m",
+          "text": "Ona göre “Türk milletinin kutlu güç kaynaklarından biri birlik, beraberlik ve iç barış ülküsüdür.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80t2n",
+          "text": "Onun “iç barış ülküsü” tabiri Türkiye’deki her türlü fitne, tefrika ve ayrılık hareketine karşı çağları aşan bir panzehir hüviyetindedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dqa3d",
+          "text": "Bugün büyük bir toplumsal kabule mazhar olan Terörsüz Türkiye vizyonu, “iç barış ülküsü” nün gerçeğe dönüşmesidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enttc",
+          "text": "Türkeş’i gerçek manada anmak, hatırasını yâd etmek; O’nu doğru anlamaktan, ülküsünü ve fikirlerini bütünüyle korumaktan, eserlerine ve emanetine yüksek bir şuurla sahip çıkmaktan geçer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "22fp8",
+          "text": "Merhum Türkeş Bey’in iki kutlu emaneti olan Milliyetçi Hareket Partisi ve Ülkü Ocakları emin ve ehil ellerde bugün milletimizin istikbal ve istiklal güvencesidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5f2e",
+          "text": "Milliyetçi ülkücü hareket, aynı ilkelerle yolunda yürümeye devam edecektir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "27cb2",
+          "text": "Başbuğumuzun vizyonu doğrultusunda Milliyetçi Hareket Partisi ve Cumhur İttifakı olarak milli özlem ve hedeflerimize kararlı adımlarla ulaşmak, Türk ve Türkiye Yüzyılında lider ülke ve süper güç Türkiye’yi inşa etmek gayretindeyiz.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4i83r",
+          "text": "Bizim gücümüz Türk milleti, yegâne sığınak ve manevi mükâfatımız Rabbimizin himaye ve ihsanıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4slpb",
+          "text": "Ruhu şad, kabri nur, mekânı cennet olsun.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbkgq",
+          "text": "Tüm dava büyüklerimizle birlikte Cenab-ı Hak ondan razı olsun.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

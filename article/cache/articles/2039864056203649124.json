@@ -1,0 +1,220 @@
+{
+  "tweet_created_at": "2026-04-03T00:34:24.000000Z",
+  "id": 2039864056203649000,
+  "id_str": "2039864056203649124",
+  "type": "tweet",
+  "conversation_id_str": "2039864056203649124",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/jDK5TFlIik",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 612511277,
+    "id_str": "612511277",
+    "name": "秘密結社＋M",
+    "screen_name": "freakscafe",
+    "location": "日本　名古屋",
+    "url": "https://note.mu/mnb196748",
+    "description": "脱力の魔術師",
+    "protected": false,
+    "verified": true,
+    "followers_count": 27056,
+    "friends_count": 1872,
+    "listed_count": 277,
+    "favourites_count": 129715,
+    "statuses_count": 163427,
+    "created_at": "2012-06-19T12:23:15.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/612511277/1589281415",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2001239679933538305/SVMh4Jos_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 101,
+  "reply_count": 1,
+  "retweet_count": 164,
+  "favorite_count": 1711,
+  "views_count": 2533205,
+  "bookmark_count": 1332,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039863818273316864",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/jDK5TFlIik"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T00:34:24.000000Z",
+    "id": 2039864056203649000,
+    "id_str": "2039864056203649124",
+    "title": "別れた後、友達になれる？",
+    "preview_text": "所有・自意識・執着から考える、関係の「その後」",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8igas",
+          "text": "所有・自意識・執着から考える、関係の「その後」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6kth",
+          "text": "恋人と別れたあと、友達に戻れる人と、どうしても戻れない人がいる。この違いは、単なる性格差ではない。もっと本質的には、その恋愛がどんな構造を持っていたかによって変わる。\n別れた後の関係は、別れ方だけで決まるのではなく、恋愛の最中に相手をどう位置づけていたかによって、つきあっているときからもう既に決まっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3il00",
+          "text": "この問題を考えるには、いくつかの軸がある。中心になるのは、関係が「所有」だったのか、それとも「相互作用」だったのか、という違いである。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aemdc",
+          "text": "関係が「所有」だったか、「相互作用」だったか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aof42",
+          "text": "まず、友達に戻れる関係では、相手が「所有物」や「役割」として扱われていない。関係の中心にあるのは、支配や依存、承認の奪い合いではなく、相互理解や共有経験である。\nこの場合、恋人関係はあくまで二人の関係の一形態にすぎない。恋人でなくなっても、人としての接点まで消えるわけではない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d06ik",
+          "text": "反対に、友達に戻れない関係では、相手が「自己価値の証明装置」になっていることが多い。\n愛されることが自分の価値の証明になり、相手を支配できることが自分の優位の確認になる。そうなると、別れは単なる失恋ではなく、自己否定に近い出来事になる。関係が終わると同時に、自分を支えていた足場まで崩れてしまうからだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6g6lm",
+          "text": "自意識が柔らかい関係と、自意識に縛られた関係",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 54,
+              "offset": 23,
+              "style": "Bold"
+            }
+          ],
+          "key": "dnos9",
+          "text": "この違いは、自意識の強度ともつながっている。\n一緒にいるときに役割や演技が少ない関係では、恋人でいることが終わっても、人としてのつながりは残りやすくなる。自分をよく見せることや、評価を維持することが関係の中心ではなかったからだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 88,
+              "style": "Bold"
+            }
+          ],
+          "key": "4jcdp",
+          "text": "逆に、どう見られるか、どう評価されるか、どう優位に立つかが常に作動していた関係では、別れた瞬間に関係そのものが崩壊しやすい。\nそこにはもともと、フラットな相互作用の土台がない。友達に戻るというのは、関係の形式を変えることだが、その形式変換を支える基盤が最初から存在しないのである。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5uk3",
+          "text": "「友情成分」があったかどうか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "452cu",
+          "text": "友達に戻れる関係は、もともと友情成分が強い。一方で、戻れない関係は、性、承認、依存によって成り立っていた可能性が高い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kr5e",
+          "text": "もちろん、恋愛に性や承認が含まれること自体は不自然ではない。問題は、それが関係の全部になっていたかどうかだ。\n共有された経験、相手への敬意、会話の持続性、人としての関心―そうしたものがあった関係では、恋愛が終わっても、関係を別の形で持ち直せる余地がある。\nだが、恋愛関係が「欲望の交換」や「自分を保つための装置」だけだった場合、恋人でなくなった瞬間に、関係の言語そのものが失われる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 25,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a0ne4",
+          "text": "→続きはnote記事「別れた後、友だちになれる？」",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://note.com/mnb196748/n/nd588466e98f4"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

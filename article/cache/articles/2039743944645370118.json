@@ -1,0 +1,240 @@
+{
+  "tweet_created_at": "2026-04-02T16:37:07.000000Z",
+  "id": 2039743944645370000,
+  "id_str": "2039743944645370118",
+  "type": "tweet",
+  "conversation_id_str": "2039743944645370118",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/RKmh1Ligce",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4009148182,
+    "id_str": "4009148182",
+    "name": "Clash Royale",
+    "screen_name": "ClashRoyale",
+    "location": "The Arena",
+    "url": "http://supr.cl/RoyaleBio",
+    "description": "A real-time, head-to-head battle game set in the Clash Universe.\nAll for the Crown! 👑",
+    "protected": false,
+    "verified": true,
+    "followers_count": 1888016,
+    "friends_count": 205,
+    "listed_count": 1036,
+    "favourites_count": 9777,
+    "statuses_count": 9532,
+    "created_at": "2015-10-21T11:30:46.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4009148182/1775465692",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1844320382875996165/0y_Dp4h8_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/supercell",
+      "badge_url": "https://pbs.twimg.com/profile_images/1825721153756999680/BOt2sX9L_bigger.jpg",
+      "description": "Supercell",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    },
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 19,
+  "reply_count": 166,
+  "retweet_count": 52,
+  "favorite_count": 1526,
+  "views_count": 234750,
+  "bookmark_count": 111,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039708075645386752",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/RKmh1Ligce"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T16:37:07.000000Z",
+    "id": 2039743944645370000,
+    "id_str": "2039743944645370118",
+    "title": "C.H.A.O.S ends soon. What’s next?",
+    "preview_text": "It’s been really fun seeing how you’ve played it, from wild combos to unexpected decks, and even the community teaming up to discover all three Secret Badges. You fully embraced the C.H.A.O.S!\nFun",
+    "cover_url": "https://pbs.twimg.com/media/HE5_2LFXsAAeSI7.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42uj0",
+          "text": "It’s been really fun seeing how you’ve played it, from wild combos to unexpected decks, and even the community teaming up to discover all three Secret Badges. You fully embraced the C.H.A.O.S!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3kiic",
+          "text": "Fun fact: 41% unlocked 1 badge, 7% unlocked 2, and only 2.4% managed to unlock all 3 Secret Badges.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eorah",
+          "text": "At the same time, we’ve seen your feedback that certain strategies are taking over, and that C.H.A.O.S doesn't feel as wild as it did at the start.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 49,
+              "offset": 98,
+              "style": "Bold"
+            }
+          ],
+          "key": "3uc79",
+          "text": "As planned, we’ll be taking C.H.A.O.S Mode out of rotation while we work on some of these things. For now, you can expect to see it return in July!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9v4q0",
+          "text": "Behind the scenes, we’re already making improvements to the mode to keep things fresh. Here are some of the things we’re exploring:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eqs5a",
+          "text": "Updated card pool - some cards removed, new cards added!",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eifoh",
+          "text": "Balancing and replacing some existing modifiers",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ersk",
+          "text": "New formats, including Triple Draft",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahtaa",
+          "text": "Interface and Deck Builder improvements",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "nd57",
+          "text": "A new secret badge to discover",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eqrl1",
+          "text": "And more!",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8nt7n",
+          "text": "We’ll share more details closer to the re-release, but the goal is simple: bring C.H.A.O.S Mode back with more variety and more ways to play.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgpt5",
+          "text": "In the meantime, we’d still love to hear your feedback on what you enjoyed most, what you’d like to see next, and last but not least...",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7us8i",
+          "text": "What do you think C.H.A.O.S stands for?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "tp04",
+          "text": "The Clash Royale Team",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

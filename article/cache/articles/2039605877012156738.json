@@ -1,0 +1,183 @@
+{
+  "tweet_created_at": "2026-04-02T07:28:29.000000Z",
+  "id": 2039605877012156700,
+  "id_str": "2039605877012156738",
+  "type": "tweet",
+  "conversation_id_str": "2039605877012156738",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/GfPNVwutZz",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1640120449110790100,
+    "id_str": "1640120449110790144",
+    "name": "思考遊戯",
+    "screen_name": "think_hacking",
+    "location": "学校では教わらない考え方→",
+    "url": "https://note.com/think_hacking/membership",
+    "description": "勉強で勝てなかった人のための思考術｜学校では教わらない処世術や立ち回りを言語化しています｜考えの積み上げ方｜勝ち筋の見つけ方｜自分の頭で生きていくための視点を発信しています",
+    "protected": false,
+    "verified": true,
+    "followers_count": 32663,
+    "friends_count": 79,
+    "listed_count": 129,
+    "favourites_count": 16834,
+    "statuses_count": 8799,
+    "created_at": "2023-03-26T22:36:09.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640120449110790144/1758418453",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1969575656616050693/B2fXqx4__normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 944,
+  "reply_count": 25,
+  "retweet_count": 4403,
+  "favorite_count": 25665,
+  "views_count": 15321549,
+  "bookmark_count": 14365,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2038…",
+        "expanded_url": "http://x.com/i/article/2038611580183834624",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/GfPNVwutZz"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T07:28:29.000000Z",
+    "id": 2039605877012156700,
+    "id_str": "2039605877012156738",
+    "title": "本や映画を忘れてしまうのは、ちゃんと届いていた証拠",
+    "preview_text": "いい本に出会ったり、いい映画を観たりしても数日経てば忘れますよね。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5tuaf",
+          "text": "いい本に出会ったり、いい映画を観たりしても数日経てば忘れますよね。\nあれだけ心が動いたのに細かい内容を思い出せない。登場人物の名前も曖昧になるし、どの場面で泣きそうになったのかもうまく言えなくなってくる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "br2cl",
+          "text": "とてももったいないことだと思っていました。せっかく時間を費やしたのに残っていないなら、ちゃんと受け取れていなかったんじゃないかと、少し損した気分にもなってました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "599em",
+          "text": "最近は忘れること自体はそんなに悪くないのかもしれないと思っています。\nというのも、いいものって別に暗記するためにあるわけじゃないからです。\n\n本や映画の価値って、内容を何個説明できるかで決まるものではなくて、そのあと自分の何かが少し変わっているかどうかにある気がしています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4eqk7",
+          "text": "昔読んだ本の内容はほとんど覚えていなくても、それがきっかけで人への見方だけ少し変わっていたりする。観た映画の筋は曖昧なのに、夕方の光の感じとか、言葉にしにくい寂しさだけが妙に残っていたりする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ckhc",
+          "text": "あれは記憶として保存されているというより、自分の中に少し混ざっている状態なんだと思います。きれいに取り出せなくてもなくなったわけではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3g6lq",
+          "text": "人って本当に大事なものほど、そのままの形では持っていられないのかもしれません。強く心が動いたものは記録として残るというより、感覚のほうに溶けていきます。あとから説明しようとすると上手く言えないのに、たしかに前の自分とは何かが違っている。よく考えるとそっちのほうが自然です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9oudk",
+          "text": "前は、忘れることを取りこぼしみたいに思っていました。でも今は、忘れても残るもののほうが、本物なんじゃないかと思っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cqoel",
+          "text": "細部を言えなくなっても、選ぶ言葉が少し変わったり、前より誰かにやさしくなれたり、なんとなく立ち止まる場面が増えたりするなら、それはもう届いてる証拠です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1kvra",
+          "text": "作品の中身を持ち帰れなくても、作品に触れた自分が少し持ち帰られているならそれでいいと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55hip",
+          "text": "いいものは全部を覚えていなくてもいい。ちゃんと記憶に残せなかったとしても、自分の中に少し混ざって、その後のものの見方や感じ方を変えてくれるならそれで十分なんだと思います。人は覚えているものでできているというより、忘れたあとに残ったものでできているのかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 28,
+                "text": "https://note.com/think_hacking/n/nb84dc2a9083b?sub_rt=share_sb",
+                "toIndex": 90
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2erm3",
+          "text": "関連記事はこちら\nいいものに出会って何も残らなかった話\nhttps://note.com/think_hacking/n/nb84dc2a9083b?sub_rt=share_sb",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

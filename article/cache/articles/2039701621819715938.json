@@ -1,0 +1,590 @@
+{
+  "tweet_created_at": "2026-04-02T13:48:57.000000Z",
+  "id": 2039701621819715800,
+  "id_str": "2039701621819715938",
+  "type": "tweet",
+  "conversation_id_str": "2039701621819715938",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/4WFF2xeO7J",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1900592801005604900,
+    "id_str": "1900592801005604864",
+    "name": "絵を描く人",
+    "screen_name": "Mo1HNumjeU45057",
+    "location": "ちぬのうらわ",
+    "url": "https://fuji25-2501.fanbox.cc/",
+    "description": "絵描きです。外でスケッチすることが好きです。\n神戸からの往復交通費を負担してくれればどこでもお絵描きする『レンタルお絵描きしかしない人』というサービスをしています。\n 著書→https://t.co/Bn20zGfqvL 中の人（@fuji25_2501) amazonアソシエイト参加中",
+    "protected": false,
+    "verified": true,
+    "followers_count": 144316,
+    "friends_count": 159,
+    "listed_count": 897,
+    "favourites_count": 5490,
+    "statuses_count": 3595,
+    "created_at": "2025-03-14T17:00:19.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900592801005604864/1756138546",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1900599675851542528/495sJ7Cs_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 5,
+  "reply_count": 1,
+  "retweet_count": 73,
+  "favorite_count": 1030,
+  "views_count": 101575,
+  "bookmark_count": 564,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039697480531742720",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/4WFF2xeO7J"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T13:48:57.000000Z",
+    "id": 2039701621819715800,
+    "id_str": "2039701621819715938",
+    "title": "4月は外で絵を描こう！#PleinAirprilのススメ",
+    "preview_text": "「外で絵を描く？恥ずかしくて無理！無理！」\n\n「人に見られながら描くの緊張する」\nこんな風に思ったことはありませんか？",
+    "cover_url": "https://pbs.twimg.com/media/HE524Aza4AAiRce.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8shvo",
+          "text": "「外で絵を描く？恥ずかしくて無理！無理！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b2pl9",
+          "text": "\n「人に見られながら描くの緊張する」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 44,
+              "style": "Bold"
+            }
+          ],
+          "key": "58ab2",
+          "text": "こんな風に思ったことはありませんか？\n\n部屋の中で、自分のペースで描くことに慣れていると「野外で絵を描く」というのはハードルが高く感じるのではないでしょうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5km58",
+          "text": "でも、野外で実物を見ながらのスケッチには大きなメリットがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3gfjn",
+          "text": "・写真では平面になってしまう遠近感を、正確に捉えられる\n・自然の光の微妙な変化や影の動きを観察できる\n・スマホやモニターでは再現できない繊細な色の変化を実感できる\n・風で動く葉っぱ、通りがかる人々などさまざまなアイデアを盛り込める\n・「見ること」に集中するため、普段気づかない細部に気づくようになる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "637sc",
+          "text": "など、絵が上手くなりたい！と思ってる人にとって、外でのスケッチは必ずや自分自身を成長させるきっかけになるはず！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "she",
+          "text": "ですが、冒頭のように大きなハードルを感じている人が多いのもまた事実ではないでしょうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "44hks",
+          "text": "私も最初の頃はそうだったんですが、写真や資料ではなく外で絵を描く習慣を身につけてから、絵を描くということに対しての視野が大きく広がりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6cr9",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "63s0a",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajpfp",
+          "text": "",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ftbn",
+          "text": "",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bnv65",
+          "text": "だからこそ！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80vi2",
+          "text": "絵が上手くなりたい人にこそチャレンジしてほしい企画があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 13,
+              "offset": 3
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "ck035",
+          "text": "それは#PleinAirprilチャレンジ。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "PleinAirprilwww.warriorpainters.com",
+                "toIndex": 35
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 35,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7sr1o",
+          "text": "PleinAirprilwww.warriorpainters.com",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgvmc",
+          "text": "※英語のサイトです。\n\nこれは2017年に始まった世界的なアートチャレンジで4月の1ヶ月間、毎日1枚の絵を描いて投稿するというシンプルなイベントです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 10,
+              "style": "Bold"
+            },
+            {
+              "length": 7,
+              "offset": 33,
+              "style": "Bold"
+            }
+          ],
+          "key": "dr5ug",
+          "text": "野外制作を意味する\"Plein air painting\"と４月の\"April\"をもじったイベント名ですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 51,
+              "offset": 59,
+              "style": "Bold"
+            }
+          ],
+          "key": "cdscj",
+          "text": "いきなり野外で描くと言ってもめちゃくちゃハードル高く感じると思います。\n\nですが、街角のちょっといいなと思った風景や、「自分の部屋の窓から見ることのできる景色を５分程度で描いたスケッチでも大丈夫！絵を描く習慣を作ろう！」というのがこのイベントの趣旨です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "169qt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aj4sp",
+          "text": "私は今年は台湾旅行で撮った写真をもとにPleinairpril をポストしていくつもりです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5g0pl",
+          "text": "こんなこと言っといて実はまだ完走したことがないので今年こそは、、、！",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "308a6d14-be24-465c-8349-a42d27e491c0",
+              "mediaItems": [
+                {
+                  "localMediaId": "15",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039700940966748160"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "台湾旅行の最中も！",
+              "entityKey": "53acba77-7363-435c-9f97-fd3bbcca73ae",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039700226056105985"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "暇さえあれば外で描いてる",
+              "entityKey": "307881b0-fd0b-46a8-93c8-01aaaf1b0f3c",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039700535176224768"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "9e2f2d20-7eda-4508-a3ee-495ef8a3d5f6",
+              "url": "https://x.com/search?q=%23Pleinairpril&src=typeahead_click"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "89bc8fb7-0567-4f85-9f30-719402f3da25",
+              "url": "https://www.warriorpainters.com/pleinairpril"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE541HdaYAAKAAIaYEMVLpqQAAAA",
+        "media_id": "2039700535176224768",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 48.73,
+                "rgb": {
+                  "blue": 131,
+                  "green": 179,
+                  "red": 216
+                }
+              },
+              {
+                "percentage": 21.31,
+                "rgb": {
+                  "blue": 23,
+                  "green": 27,
+                  "red": 27
+                }
+              },
+              {
+                "percentage": 11.63,
+                "rgb": {
+                  "blue": 54,
+                  "green": 91,
+                  "red": 111
+                }
+              },
+              {
+                "percentage": 4.58,
+                "rgb": {
+                  "blue": 171,
+                  "green": 184,
+                  "red": 193
+                }
+              },
+              {
+                "percentage": 1.5,
+                "rgb": {
+                  "blue": 58,
+                  "green": 46,
+                  "red": 46
+                }
+              }
+            ]
+          },
+          "original_img_height": 1119,
+          "original_img_url": "https://pbs.twimg.com/media/HE541HdaYAAoDpv.jpg",
+          "original_img_width": 1544
+        },
+        "media_key": "3_2039700535176224768"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE54jH5bsAEKAAIaYEMVLpqQAAAA",
+        "media_id": "2039700226056105985",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 73.28,
+                "rgb": {
+                  "blue": 24,
+                  "green": 29,
+                  "red": 30
+                }
+              },
+              {
+                "percentage": 11.29,
+                "rgb": {
+                  "blue": 108,
+                  "green": 156,
+                  "red": 189
+                }
+              },
+              {
+                "percentage": 5.42,
+                "rgb": {
+                  "blue": 94,
+                  "green": 111,
+                  "red": 123
+                }
+              },
+              {
+                "percentage": 3.97,
+                "rgb": {
+                  "blue": 50,
+                  "green": 37,
+                  "red": 24
+                }
+              },
+              {
+                "percentage": 2.1,
+                "rgb": {
+                  "blue": 167,
+                  "green": 133,
+                  "red": 99
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HE54jH5bsAE1-1e.jpg",
+          "original_img_width": 2048
+        },
+        "media_key": "3_2039700226056105985"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE55MvJaYAAKAAIaYEMVLpqQAAAA",
+        "media_id": "2039700940966748160",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 35.39,
+                "rgb": {
+                  "blue": 216,
+                  "green": 219,
+                  "red": 216
+                }
+              },
+              {
+                "percentage": 13.85,
+                "rgb": {
+                  "blue": 46,
+                  "green": 68,
+                  "red": 61
+                }
+              },
+              {
+                "percentage": 11.26,
+                "rgb": {
+                  "blue": 99,
+                  "green": 79,
+                  "red": 76
+                }
+              },
+              {
+                "percentage": 10.1,
+                "rgb": {
+                  "blue": 187,
+                  "green": 160,
+                  "red": 134
+                }
+              },
+              {
+                "percentage": 6.69,
+                "rgb": {
+                  "blue": 69,
+                  "green": 113,
+                  "red": 106
+                }
+              }
+            ]
+          },
+          "original_img_height": 1820,
+          "original_img_url": "https://pbs.twimg.com/media/HE55MvJaYAAmPax.png",
+          "original_img_width": 1198
+        },
+        "media_key": "3_2039700940966748160"
+      }
+    ]
+  }
+}

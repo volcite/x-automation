@@ -1,0 +1,595 @@
+{
+  "tweet_created_at": "2026-04-02T06:26:11.000000Z",
+  "id": 2039590198963757300,
+  "id_str": "2039590198963757325",
+  "type": "tweet",
+  "conversation_id_str": "2039590198963757325",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/HUhEleq2GD",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1515307799672410000,
+    "id_str": "1515307799672410115",
+    "name": "SoSoValue",
+    "screen_name": "SoSoValueCrypto",
+    "location": "",
+    "url": "https://sosovalue.com/",
+    "description": "Enable crypto investment for the globle masses. Cut the noise, find true value. Join SoDEX Whitelist - https://t.co/UPUBrsjBkS 🌲 https://t.co/nMPvA5BOzG",
+    "protected": false,
+    "verified": true,
+    "followers_count": 1005077,
+    "friends_count": 20,
+    "listed_count": 490,
+    "favourites_count": 3196,
+    "statuses_count": 4602,
+    "created_at": "2022-04-16T12:35:21.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515307799672410115/1756432612",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741634561090719744/DGHR3DIw_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 10065,
+  "reply_count": 9792,
+  "retweet_count": 2997,
+  "favorite_count": 12219,
+  "views_count": 104477,
+  "bookmark_count": 341,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039589705147392000",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/HUhEleq2GD"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T06:26:11.000000Z",
+    "id": 2039590198963757300,
+    "id_str": "2039590198963757325",
+    "title": "SoSoValue Community Call #1 — AMA Recap",
+    "preview_text": "April 1, 2026\nSpace: https://x.com/i/spaces/1pKkOyMOEVMKj\nThis was the first time SoSoValue's full founding team appeared together in a live community session. Founders Levi, May, Jivva, and Jessie were joined by",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "f0075",
+          "text": "April 1, 2026",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 7,
+                "text": "https://x.com/i/spaces/1pKkOyMOEVMKj",
+                "toIndex": 43
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7mpb",
+          "text": "Space: https://x.com/i/spaces/1pKkOyMOEVMKj",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fdolk",
+          "text": "This was the first time SoSoValue's full founding team appeared together in a live community session. Founders Levi, May, Jivva, and Jessie were joined by four industry guests: Emily (founder of BuyReal, Head of Spot Listing at Bybit), Vladimir (Head of Research and Accelerator at Cointelegraph), Suji (founder of Mask Network), and Jessica (CEO of MetaEra). Below is a full summary of what was covered.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "frgpu",
+          "text": "The Team",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72isn",
+          "text": "SoSoValue currently has 38 members with backgrounds across traditional finance, technology, and Web3. Levi and May spent nearly 20 years at top investment banks and private equity firms. Jivva is a Web3 veteran and former founder of one of the most influential NFT communities in the space. Jessie brings growth experience from leading global internet companies. The technology and product team was recruited from some of the world's most well-known internet companies.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9hgj",
+          "text": "The common thread across the team is a shared belief: AI and blockchain will fundamentally reshape global financial markets. Everyone deserves access to global finance through a platform that is permissionless, high-performance, diverse, and transparent — one that enables informed investment decisions and long-term wealth growth.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c0fig",
+          "text": "Why \"SoSoValue\"?",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ppd5",
+          "text": "Levi explained the two layers behind the name.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ip6l",
+          "text": "The first is a market observation: many  crypto assets are, in reality, just so-so in actual value. They get chased because of narratives and noise, not fundamentals, and investors end up getting burned. The platform's mission is to filter out that noise, surface real information and insight, and help people make decisions based on reality rather than hype.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ullu",
+          "text": "The second is an internal discipline: the name keeps the team humble. The more ambitious the goal, the greater the risk of complacency. If the team stops improving,  SoSoValue itself risks becoming just another mediocre project — so-so in a different sense.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4igj2",
+          "text": "The Product Ecosystem",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "euhfg",
+          "text": "Over two and a half years, SoSoValue has built a holistic  on-chain financial ecosystem covering the investor's full journey: research and information → index  investment → active trading.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7hmq6",
+          "text": "The SoSoValue Terminal provides professional-grade news, data, and analytical tools, free for all users. It now serves millions of  investors globally.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8cllq",
+          "text": "SSI (SoSoValue Index) is the world's largest on-chain index protocol with more than approximately half a million  users .",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "54g0d",
+          "text": "SoDEX is a high-performance on-chain orderbook built on ValueChain, the team's own Layer-1, launched in February. SoDEX and Hyperliquid are currently the only two platforms in the industry with a fully on-chain orderbook. Technical specs: 100,000 TPS, 100ms latency. Growth:  140,000 users by the two-month mark, currently with over 100 trading pairs covering both crypto assets and RWA (real-world assets).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4hajd",
+          "text": "ValueChain is the self-built Layer-1 that underpins everything. Multi-chain, multi-asset architecture, high performance, highly interoperable and transparent. .",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fm0cf",
+          "text": "Guest Perspectives",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e3ln",
+          "text": "Emily: AI Agents Are Native DeFi Users",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "11cdb",
+          "text": "Emily noted that DEX  trading volume is closing the gap on CEX systematically this cycle, and more importantly,  AI agents are natural on-chain users. The on-chain environment is their default operating layer, not a destination that requires guided entry.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5tr9t",
+          "text": "Her take on what this means for DEXs: building native interfaces for AI agents — not just human users — is a key competitive dimension going forward.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjelf",
+          "text": "Vladimir: This Is the Time to Raise the Bar",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dft",
+          "text": "Vladimir reads the current market as a bear market, but his focus was on what the industry should do with this period rather than cycle timing. He sees three areas that need improvement: development quality, security standards, and building the infrastructure that lets institutions enter the space properly.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4n4l",
+          "text": "On AI and DeFi integration: the technical path is clear, but the key variable is trust. Once systems can be reliably verified, adoption will be exponential. He also flagged the long-standing UX problem — why do users need to write down 12 seed words, why can't they use a normal password — noting that AI could finally be the practical solution to this for non-technical users.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2lbrq",
+          "text": "Suji: Sovereignty Is What Crypto Cannot Be Replaced For",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4eoso",
+          "text": "Suji  began accumulating Bitcoin in 2013 and 2014, then left AI research to work full-time in crypto in 2015. His reasoning at the time: AI's long-term development carried risks of enabling power concentration, and crypto's model of sovereignty was the only counterweight large enough to matter.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abmj2",
+          "text": "His core argument: crypto's irreplaceable value is sovereignty. AI agents need identity,  finance and  governance, and they will trade with each other, collaborate, and eventually form their own governaning structures alongside humans. The only infrastructure that can provide sovereignty at that scale is crypto.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhjvr",
+          "text": "On DeFi's current state: he estimates it is 80–90% complete. The foundations are in place — stablecoins, public chains, Ethereum. But buying RWA on-chain is still painful. There  are still real gaps, and projects like SoDEX exist to close them.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5c4t4",
+          "text": "Jessica: Accelerate AI Agent Integration and RWA Expansion",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "761l",
+          "text": "Jessica first encountered SoSoValue by identifying it as  one of the earliest platforms to offer live ETF inflow and outflow data. She described SoSoValue's product trajectory as a three-layer stack: data layer, asset layer, now the trading layer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9cffc",
+          "text": "Her specific suggestions for the roadmap: accelerate AI agent skill integration so agents can pull signals directly from SoSoValue's data endpoints and push users back to the platform in real time; connect with AI agent payment protocols; expand RWA tokenized assets — stocks, gold, energy — for on-chain leveraged trading. Her assessment is that the data terminal is the scarcest asset in the stack, and connecting it to AI agents creates a strong user re-engagement loop.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5l775",
+          "text": "Key Updates",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "392n4",
+          "text": "Referral Rebate is now live on SoDEX. Levi acknowledged the delay in allowing users to claim the referral rebate.  To thank the community's patience and understanding, the Foundation is adding a 100% loyalty rewards  on top of the original rebate amount (calculated based on balances as of March 28, 2026, 00:00 UTC), effectively doubling what users can claim.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 316,
+                "text": "https://docs.google.com/forms/d/e/1FAIpQLSeOmlCCEySrHXGxFCNhQbQeDA-UY4SajKwt2V6z3KK3k_Pasg/viewform",
+                "toIndex": 415
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e94vs",
+          "text": "Testnet Airdrop appeal deadline is April 10th. Levi revealed that a glitch during a testnet upgrade caused some user data to go missing, and the team takes full responsibility. Affected users will receive their airdrop in mid-April. Users who have not yet submitted an appeal must do so by April 10th. Appeals form: https://docs.google.com/forms/d/e/1FAIpQLSeOmlCCEySrHXGxFCNhQbQeDA-UY4SajKwt2V6z3KK3k_Pasg/viewform",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 47,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ak192",
+          "text": "API expected to open to all users in mid-April. Currently still in Closed Alpha for selected applicants in order to stress test API stability. SoDEX already has a Maker Rebate Program for traders contributing more than 0.5% of total maker liquidity — the qualifying threshold is significantly lower than on comparable platforms.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4vocf",
+          "text": "SoPoints and Airdrop mechanics. Levi explained that behavior-driven dynamic mechanisms — similar to Hyperliquid's approach — are used to manage the SoPoints and EXP systems. The goal is to effectively counter sybil attacks and bot farming while protecting genuine users. Specific campaign updates will be announced as they roll out.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6od1v",
+          "text": "Deposit and withdrawal experience. Levi shared update that delays have been significantly reduced in recent weeks. ValueChain currently supports more tokens and chains than comparable platforms. Further improvements are ongoing.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4huoe",
+          "text": "What's Coming",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7kosv",
+          "text": "AI-native agent features for investment analysis and on-chain execution  are in development. Levi expects a prototype may be ready to show the community soon.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9fhk9",
+          "text": "SSI on ValueChain — the index protocol will be natively deployed on the team's own L1.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fmoq3",
+          "text": "Portfolio Margin — the industry's first on-chain orderbook allowing spot assets to be used as margin for perps trading .",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d1g1b",
+          "text": "ValueChain Hackathon — open API access covering real-time market data, news, and agentic trading endpoints.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7j7qp",
+          "text": "2026 SoSoScholar Tournament — the fourth edition of the global research scholarship program is coming.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4bo8o",
+          "text": "Long-Term Vision",
+          "type": "header-two"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 210,
+                "text": "https://x.com/i/spaces/1pKkOyMOEVMKj?s=20",
+                "toIndex": 251
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agdm1",
+          "text": "Levi restated the team's ten-year objective: as AI and blockchain reshape the world, SoSoValue should become the \"ark\"  where the community doesn't just survive the transition but thrives through it together.\n\nhttps://x.com/i/spaces/1pKkOyMOEVMKj?s=20",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 9,
+                "text": "SoSoValueCrypto",
+                "toIndex": 25
+              },
+              {
+                "fromIndex": 28,
+                "text": "SoDEXDiscord",
+                "toIndex": 41
+              }
+            ],
+            "urls": [
+              {
+                "fromIndex": 44,
+                "text": "discord.gg/sodex",
+                "toIndex": 60
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 1,
+              "offset": 60,
+              "style": "Italic"
+            }
+          ],
+          "key": "ahcat",
+          "text": "Twitter: @SoSoValueCrypto | @SoDEXDiscord: [discord.gg/sodex]",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

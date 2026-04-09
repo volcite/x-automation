@@ -1,0 +1,794 @@
+{
+  "tweet_created_at": "2026-04-04T01:48:23.000000Z",
+  "id": 2040245063616528600,
+  "id_str": "2040245063616528758",
+  "type": "tweet",
+  "conversation_id_str": "2040245063616528758",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/wQTCHZ13sY",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4174180574,
+    "id_str": "4174180574",
+    "name": "TVer",
+    "screen_name": "TVer_official",
+    "location": "いつでもどこでも完全無料でご視聴できます。",
+    "url": "http://tver.jp/",
+    "description": "国内最大級の無料動画配信サービス #TVer の公式アカウントです。\n\n全番組の配信新着情報▶️@TVer_info",
+    "protected": false,
+    "verified": true,
+    "followers_count": 258214,
+    "friends_count": 9,
+    "listed_count": 922,
+    "favourites_count": 5,
+    "statuses_count": 190263,
+    "created_at": "2015-11-09T01:40:34.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4174180574/1772017207",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2026613165371568129/iINSC9W2_normal.png",
+    "can_dm": false,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 9,
+  "reply_count": 1,
+  "retweet_count": 394,
+  "favorite_count": 1657,
+  "views_count": 40870,
+  "bookmark_count": 72,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039964916132847618",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/wQTCHZ13sY"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T01:48:23.000000Z",
+    "id": 2040245063616528600,
+    "id_str": "2040245063616528758",
+    "title": "宮舘涼太、“舘様らしさ”で会見を掌握「食らいましたね、宮舘の間を」『ターミネーターと恋しちゃったら』 ",
+    "preview_text": "4月4日にスタートするドラマ『#ターミネーターと恋しちゃったら』（テレビ朝日系、毎週土曜23:00～）の制作発表会見が行われ、主演の",
+    "cover_url": "https://pbs.twimg.com/media/HE9pl9Ca8AAjEbl.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": {
+            "hashtags": [
+              {
+                "fromIndex": 15,
+                "text": "ターミネーターと恋しちゃったら",
+                "toIndex": 31
+              },
+              {
+                "fromIndex": 67,
+                "text": "宮舘涼太",
+                "toIndex": 72
+              },
+              {
+                "fromIndex": 73,
+                "text": "SnowMan",
+                "toIndex": 81
+              },
+              {
+                "fromIndex": 87,
+                "text": "臼田あさ美",
+                "toIndex": 93
+              },
+              {
+                "fromIndex": 94,
+                "text": "松倉海斗",
+                "toIndex": 99
+              },
+              {
+                "fromIndex": 100,
+                "text": "TravisJapan",
+                "toIndex": 112
+              },
+              {
+                "fromIndex": 114,
+                "text": "石田ひかり",
+                "toIndex": 120
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qanp",
+          "text": "4月4日にスタートするドラマ『#ターミネーターと恋しちゃったら』（テレビ朝日系、毎週土曜23:00～）の制作発表会見が行われ、主演の #宮舘涼太（#SnowMan）をはじめ、#臼田あさ美、#松倉海斗（#TravisJapan）、#石田ひかり が登壇した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjhpe",
+          "text": "400年後からやってきた時沢エータ（宮舘）に組み込まれているプログラムは、何者かに狙われているヒロイン・神尾くるみ（臼田）を護ること。一筋縄ではいかない2人の想いはどう重なり合い、恋に発展していくのか。笑って、ときめいて、泣ける前代未聞のSFラブコメディ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 31,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dnj0v",
+          "text": "【動画】『ターミネーターと恋しちゃったら』をTVerでチェック",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vg9t",
+          "text": "本作で連続ドラマ初主演の宮舘は「すごくありがたく感じております。皆さまに早く見ていただいて、心を奪いたい。そんな思いでいっぱいです」と丁重に挨拶。臼田は、宮舘の座長ぶりについて「私を含め、キャスト陣もスタッフのみなさんもクスクス笑うようなことをいつも仕掛けてくれた」と語り、「本当に楽しい現場でしたし、『人たらしだな』と思いました」と印象を明かした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2kudn",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "i8o6",
+          "text": "年齢も芸歴も宮舘の“後輩”にあたる松倉だが、今回演じるのはエータの“先輩”にあたる役どころ。松倉は「Snow Man兄さんにはジュニアの頃からお世話になっていて。役としてタメ口を使わなければいけないので、ドッキドキしてました」と本音をこぼし、「でも、『そんなに気を使わなくていいよ』『もっと来てくれていいよ』と合間合間で言ってくださったので、スッとタメ口を出せました」と笑顔で振り返った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "114j6",
+          "text": "石田はエータとくるみが暮らすアパートの大家役。「宮舘さんが現場の空気を盛り上げてくださって、とってもいい雰囲気だなと思いながらやっていました」と話し、「“アンドレ”というフレンチブルドックをいつも抱いているんですが、その子が本当にかわいくて。でも、ものすごく重いんです。本当に重くて、筋肉痛になる」と笑わせた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "96c5",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "hashtags": [
+              {
+                "fromIndex": 16,
+                "text": "深澤辰哉",
+                "toIndex": 21
+              },
+              {
+                "fromIndex": 22,
+                "text": "岩本照",
+                "toIndex": 26
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e3pla",
+          "text": "撮影現場にはSnow Manの #深澤辰哉、#岩本照 がサプライズで訪れ、何も知らなかったという宮舘は「現場の様子を見て、差し入れも届けてくれて。僕は心がほっこりしました」とメンバー愛に感激。臼田は「本当においしいものをたくさんいただいて、私のおなかもほっこりしました」と笑みを浮かべた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "qohf",
+          "text": "さらに宮舘は「ふっか（深澤）から置き手紙がありまして。『間（ま）をいっぱい取ってね』って書いてありました。なので、ドラマの中で間をいっぱい取っている様子が見られるんじゃないかな」と予告。MCから「間を取ってると感じました？」と聞かれた松倉が「感じました」としみじみ頷くと、宮舘は「合わせなくて大丈夫だよ？（笑）、でも、感じてもらえたならうれしい」と目を細めた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fto0d",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "et3ck",
+          "text": "会見では“エータポーズ”の拡散を求めて、観客にレクチャーする一幕も。MCからの「このポーズは宮舘さん発案？」との問いに、宮舘はたっぷりと時間を使って「……今、そうなりました」と回答。「これが間ですね」と感心するMCに、「食らいましたね、宮舘の間を」とほほえんだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8614",
+          "text": "主題歌はSnow Manの「SAVE YOUR HEART」。この日は冒頭部分だけが流れ、宮舘は「（続きは）第1話の中で、必ず聴けることをお約束します」とアピール。「私ももっと聴きたい。まだ聴いていない」と嘆く臼田だったが、宮舘から「第1話で、必ず聴けることをお約束します」と制され、「分かりました。一緒に待ちましょう、みなさん」と冗談交じりに肩を落とした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "78m73",
+          "text": "一方、一緒にダンス動画を撮ったという松倉は「エネルギッシュでクールでかっこいい」と称賛。宮舘は楽曲の振り付けについて「このドラマのモチーフであるハートマークだったり、エータポーズも入っていたりする……のかな？」と匂わせた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aam8f",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82j40",
+          "text": "そんな中、記者から臼田に対して「宮舘さんが笑わせてくれたとのことですが、具体的には？」との質問が。臼田は「本当に毎日たくさんのネタを提供してくださる」と前置きした上で、「監督さんが『この台詞を粒立てて言ってくれますか？』と演出したら、『はい、粒舘です』と言っていて（笑）。本番直前だったので、私がツボっちゃった」とエピソードを紹介。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5eapt",
+          "text": "笑いがこらえきれずにNGになったそうで、宮舘は「ご迷惑をかけている」と恐縮しながらも、「粒舘にツボ舘だった」とニヤリ。臼田が「そっかぁ、ツボ舘ですね」と悔しそうな表情をすると、宮舘は「こんな感じです」と笑ってみせた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ca06r",
+          "text": "最後に宮舘は「僕自身、脚本を読んで心が温かくなりました」と語り、「『ターミネーターと恋しちゃったら』の温かい気持ちが輪となり、みんなの手と手をつなぐ作品になったら」と期待を込め、締めくくった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7akeh",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "229g9",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abcor",
+          "text": "『ターミネーターと恋しちゃったら』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5mavl",
+          "text": "テレビ朝日系、毎週土曜23:00～",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 6,
+                "text": "https://tver.jp/series/srd1o6cdlb",
+                "toIndex": 39
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2aoeh",
+          "text": "配信ページ：https://tver.jp/series/srd1o6cdlb",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "hashtags": [
+              {
+                "fromIndex": 0,
+                "text": "タミ恋",
+                "toIndex": 4
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 4,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5ue4d",
+          "text": "#タミ恋",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 0,
+                "text": "oshidoraEX",
+                "toIndex": 11
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ck1",
+          "text": "@oshidoraEX ",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "caption": "臼田あさ美",
+              "entityKey": "f021d602-a9e8-4aed-9472-f0f05cbf5681",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039967264712404992"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "48105b0e-d425-4585-bd7d-f47e0d7a8b44",
+              "mediaItems": [
+                {
+                  "localMediaId": "13",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039967982189957121"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "6eb736ac-818a-4a09-8b83-654a4272960c",
+              "url": "https://x.com/search?q=%23%E3%82%BF%E3%83%9F%E6%81%8B&src=hashtag_click"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "宮舘涼太（Snow Man）",
+              "entityKey": "1386aa6d-d988-41fc-b0be-f0d5263ecd30",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039966735349284864"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "610f3966-644c-4d4d-829e-256b0e512c85",
+              "url": "https://tver.jp/series/srd1o6cdlb"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "0cf5bcaf-db8b-4102-b798-62e22e51879a",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039966948751208448"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "caption": "松倉海斗（Travis Japan）",
+              "entityKey": "7bca7b44-177c-4791-af00-afdcb4281e96",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039967163021438976"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9sElOaUAEKAAIAAAAA+Mzw3gAA",
+        "media_id": "2039967982189957121",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 59.7,
+                "rgb": {
+                  "blue": 230,
+                  "green": 229,
+                  "red": 238
+                }
+              },
+              {
+                "percentage": 10.13,
+                "rgb": {
+                  "blue": 100,
+                  "green": 59,
+                  "red": 32
+                }
+              },
+              {
+                "percentage": 4.41,
+                "rgb": {
+                  "blue": 124,
+                  "green": 149,
+                  "red": 191
+                }
+              },
+              {
+                "percentage": 2.95,
+                "rgb": {
+                  "blue": 59,
+                  "green": 47,
+                  "red": 58
+                }
+              },
+              {
+                "percentage": 1.84,
+                "rgb": {
+                  "blue": 180,
+                  "green": 40,
+                  "red": 255
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HE9sElOaUAEDS8J.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2039967982189957121"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9rU5lasAAKAAIAAAAA+Mzw3gAA",
+        "media_id": "2039967163021438976",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 72.09,
+                "rgb": {
+                  "blue": 255,
+                  "green": 249,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 11.11,
+                "rgb": {
+                  "blue": 123,
+                  "green": 151,
+                  "red": 182
+                }
+              },
+              {
+                "percentage": 7.82,
+                "rgb": {
+                  "blue": 163,
+                  "green": 168,
+                  "red": 99
+                }
+              },
+              {
+                "percentage": 2.97,
+                "rgb": {
+                  "blue": 73,
+                  "green": 91,
+                  "red": 110
+                }
+              },
+              {
+                "percentage": 0.52,
+                "rgb": {
+                  "blue": 179,
+                  "green": 242,
+                  "red": 217
+                }
+              }
+            ]
+          },
+          "original_img_height": 1125,
+          "original_img_url": "https://pbs.twimg.com/media/HE9rU5lasAAutGe.jpg",
+          "original_img_width": 2000
+        },
+        "media_key": "3_2039967163021438976"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9ra0absAAKAAIAAAAA+Mzw3gAA",
+        "media_id": "2039967264712404992",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 78.09,
+                "rgb": {
+                  "blue": 252,
+                  "green": 234,
+                  "red": 231
+                }
+              },
+              {
+                "percentage": 11.2,
+                "rgb": {
+                  "blue": 51,
+                  "green": 49,
+                  "red": 49
+                }
+              },
+              {
+                "percentage": 4.1,
+                "rgb": {
+                  "blue": 136,
+                  "green": 154,
+                  "red": 188
+                }
+              },
+              {
+                "percentage": 1.26,
+                "rgb": {
+                  "blue": 242,
+                  "green": 182,
+                  "red": 152
+                }
+              },
+              {
+                "percentage": 0.72,
+                "rgb": {
+                  "blue": 74,
+                  "green": 86,
+                  "red": 117
+                }
+              }
+            ]
+          },
+          "original_img_height": 1125,
+          "original_img_url": "https://pbs.twimg.com/media/HE9ra0absAA1ci4.jpg",
+          "original_img_width": 2000
+        },
+        "media_key": "3_2039967264712404992"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9q8AYbgAAKAAIAAAAA+Mzw3gAA",
+        "media_id": "2039966735349284864",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 79.8,
+                "rgb": {
+                  "blue": 252,
+                  "green": 235,
+                  "red": 231
+                }
+              },
+              {
+                "percentage": 7.58,
+                "rgb": {
+                  "blue": 54,
+                  "green": 50,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 5.41,
+                "rgb": {
+                  "blue": 132,
+                  "green": 85,
+                  "red": 64
+                }
+              },
+              {
+                "percentage": 4.35,
+                "rgb": {
+                  "blue": 154,
+                  "green": 177,
+                  "red": 206
+                }
+              },
+              {
+                "percentage": 1.91,
+                "rgb": {
+                  "blue": 115,
+                  "green": 119,
+                  "red": 147
+                }
+              }
+            ]
+          },
+          "original_img_height": 1125,
+          "original_img_url": "https://pbs.twimg.com/media/HE9q8AYbgAAoWNS.jpg",
+          "original_img_width": 2000
+        },
+        "media_key": "3_2039966735349284864"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9rIbXacAAKAAIAAAAA+Mzw3gAA",
+        "media_id": "2039966948751208448",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 80.58,
+                "rgb": {
+                  "blue": 255,
+                  "green": 250,
+                  "red": 239
+                }
+              },
+              {
+                "percentage": 10.41,
+                "rgb": {
+                  "blue": 142,
+                  "green": 165,
+                  "red": 200
+                }
+              },
+              {
+                "percentage": 6.43,
+                "rgb": {
+                  "blue": 57,
+                  "green": 55,
+                  "red": 60
+                }
+              },
+              {
+                "percentage": 0.5,
+                "rgb": {
+                  "blue": 177,
+                  "green": 169,
+                  "red": 216
+                }
+              },
+              {
+                "percentage": 0.34,
+                "rgb": {
+                  "blue": 183,
+                  "green": 226,
+                  "red": 220
+                }
+              }
+            ]
+          },
+          "original_img_height": 1125,
+          "original_img_url": "https://pbs.twimg.com/media/HE9rIbXacAALEb1.jpg",
+          "original_img_width": 2000
+        },
+        "media_key": "3_2039966948751208448"
+      }
+    ]
+  }
+}

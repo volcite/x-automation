@@ -1,0 +1,992 @@
+{
+  "tweet_created_at": "2026-04-06T03:01:46.000000Z",
+  "id": 2040988306154901800,
+  "id_str": "2040988306154901742",
+  "type": "tweet",
+  "conversation_id_str": "2040988306154901742",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/N7iLb0x28b",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1373665408193036300,
+    "id_str": "1373665408193036293",
+    "name": "CyrilXBT",
+    "screen_name": "cyrilXBT",
+    "location": "",
+    "url": "https://linktr.ee/cyrilxbt",
+    "description": "AI • Crypto | Sharing what I see before everyone else does. Turn on notifs",
+    "protected": false,
+    "verified": true,
+    "followers_count": 151241,
+    "friends_count": 380,
+    "listed_count": 2968,
+    "favourites_count": 33678,
+    "statuses_count": 38515,
+    "created_at": "2021-03-21T15:58:58.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1373665408193036293/1775621295",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2035229727414534145/aWap3Jbq_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 11,
+  "reply_count": 22,
+  "retweet_count": 151,
+  "favorite_count": 1260,
+  "views_count": 134762,
+  "bookmark_count": 2835,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040926548417556480",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/N7iLb0x28b"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T03:01:46.000000Z",
+    "id": 2040988306154901800,
+    "id_str": "2040988306154901742",
+    "title": "How I Turned Obsidian Into a Second Brain That Runs on Claude (Full Setup Guide)",
+    "preview_text": "MOST PEOPLE USE OBSIDIAN TO TAKE NOTES.\nA small group figured out how to turn it into a second brain that thinks alongside them using Claude.\nThe difference between those two groups is not technical",
+    "cover_url": "https://pbs.twimg.com/media/HFLZ_2vaYAEJIEn.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6pke4",
+          "text": "MOST PEOPLE USE OBSIDIAN TO TAKE NOTES.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "150cg",
+          "text": "A small group figured out how to turn it into a second brain that thinks alongside them using Claude.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ae60f",
+          "text": "The difference between those two groups is not technical skill.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4olk",
+          "text": "It is systems thinking.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9f09t",
+          "text": "This is the complete setup guide.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4g01l",
+          "text": "Bookmark this before you keep reading.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6oon3",
+          "text": "WHAT A SECOND BRAIN ACTUALLY MEANS",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "doh64",
+          "text": "The term gets thrown around a lot but most people who use it mean something vague like a better note taking system.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8nt0j",
+          "text": "That is not what I am talking about.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjk90",
+          "text": "A true second brain does three things that a note taking app cannot.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "adcbr",
+          "text": "It captures everything without friction so nothing important gets lost.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1v4g8",
+          "text": "It connects information across different areas of your life and work so patterns emerge that you would never find manually.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "uhjn",
+          "text": "And it actively helps you think rather than just storing what you already thought.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cb73u",
+          "text": "Obsidian handles the first two exceptionally well out of the box.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "79ob1",
+          "text": "Claude handles the third.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hkom",
+          "text": "Together they create something that genuinely feels like a system that extends your cognitive capacity rather than just organizing your files.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7mcn7",
+          "text": "Here is exactly how to build it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2hu6v",
+          "text": "STEP 1: SET UP OBSIDIAN THE RIGHT WAY",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bajb2",
+          "text": "Before you connect Claude to anything you need an Obsidian vault that is structured to be useful.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bfa5a",
+          "text": "Most people set up Obsidian wrong. They create hundreds of folders and spend more time organizing notes than actually using them.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ejreh",
+          "text": "The structure that actually works is simple.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f52mq",
+          "text": "CREATE FOUR CORE FOLDERS.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ppgn",
+          "text": "Inbox is where everything goes when it first comes in. Articles you want to read. Ideas that came to you in the shower. Voice memo transcripts. Quotes from books. Everything lands in inbox first with no friction.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18lti",
+          "text": "Notes is where processed and permanent notes live. These are notes you have thought through and connected to other ideas.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3e1ve",
+          "text": "Projects is where active work lives. Each project gets its own note that links to all the relevant permanent notes, resources, and tasks related to that project.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnrag",
+          "text": "Archive is where completed projects and old notes go when they are no longer active but you want to keep them.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "epjn4",
+          "text": "That is it. Four folders. Everything has a home. Nothing gets lost in an elaborate hierarchy that takes longer to maintain than it saves.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cn79f",
+          "text": "INSTALL THREE ESSENTIAL PLUGINS.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9sdnp",
+          "text": "Dataview lets you query your vault like a database. You can ask questions like show me every note I tagged as an idea from the last 30 days and it returns them instantly.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "65ed8",
+          "text": "Templater lets you create note templates with automatic date stamps, tags, and structure so every note starts in the right format.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ieg2",
+          "text": "Canvas gives you a visual workspace where you can lay out notes spatially and see connections between ideas. This is particularly powerful when you are working through a complex problem.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9h77q",
+          "text": "STEP 2: BUILD YOUR DAILY CAPTURE HABIT",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3eb2r",
+          "text": "The most important part of a second brain is not the tools.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4lof",
+          "text": "It is the discipline of capturing everything.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30kg9",
+          "text": "Most of the best ideas that have ever come to you were lost because you did not write them down fast enough.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ll93",
+          "text": "The Obsidian mobile app solves this. Install it on your phone and connect it to the same vault via iCloud or Obsidian Sync.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1b4a1",
+          "text": "Now when an idea hits you while you are walking you open the app and drop it into your inbox note in ten seconds.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9emft",
+          "text": "When you read something worth remembering you copy the key insight into your inbox.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbo45",
+          "text": "When you finish a conversation that generated useful information you make a quick note.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "38g73",
+          "text": "The inbox becomes a continuous stream of raw material that you then process once a day or once a week into permanent notes.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bf8a",
+          "text": "THE DAILY NOTE TEMPLATE.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bqbj",
+          "text": "Create a daily note template in Templater that automatically generates when you open Obsidian each morning.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f66g2",
+          "text": "Your daily note should have sections for:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c4esg",
+          "text": "What you want to accomplish today.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0ha0",
+          "text": "What you captured yesterday that needs processing.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eha4n",
+          "text": "What you are currently thinking about in your most important projects.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6hsk",
+          "text": "Any insights or observations from the day.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ah7f",
+          "text": "This daily note becomes the connective tissue of your vault. It links out to your projects. It captures new ideas. It creates a searchable daily log of how your thinking evolved over time.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2e3oi",
+          "text": "STEP 3: CONNECT CLAUDE TO YOUR OBSIDIAN VAULT",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahpnf",
+          "text": "This is where the second brain becomes genuinely powerful.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7lpom",
+          "text": "There are two ways to connect Claude to Obsidian depending on how technical you want to get.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "11fet",
+          "text": "THE SIMPLE METHOD: COPY AND PASTE WITH INTENT.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5r2dm",
+          "text": "This sounds too simple but it is where most people should start.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bqej9",
+          "text": "When you sit down to think through a complex problem or write something difficult open the relevant notes from your vault and paste the most relevant context directly into a Claude conversation.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5osmd",
+          "text": "Give Claude the background. Give it the notes you have accumulated on the topic. Give it your current thinking.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtlp7",
+          "text": "Then ask it to help you think through the problem, identify gaps in your reasoning, make connections you might have missed, or push back on assumptions you are making.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2gb5c",
+          "text": "Claude with full context from your Obsidian vault is dramatically more useful than Claude without it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dldoq",
+          "text": "THE ADVANCED METHOD: CLAUDE CODE WITH VAULT ACCESS.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abbdb",
+          "text": "If you use Claude Code you can give it direct access to your Obsidian vault folder on your computer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ufrg",
+          "text": "This means you can ask Claude to read specific notes, update notes with new information, create new notes based on conversations, and search across your entire vault for connections between ideas.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enb8s",
+          "text": "The CLAUDE.md file becomes critical here.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dko33",
+          "text": "Create a CLAUDE.md file in the root of your vault that explains your vault structure, your note taking conventions, your active projects, and what you want Claude to help you with.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "166qq",
+          "text": "This is the context file that tells Claude how your second brain is organized so it can navigate and contribute to it intelligently.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17s4s",
+          "text": "Here is the exact template for your CLAUDE.md file:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1g3dt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rkuc",
+          "text": "STEP 4: THE DAILY CLAUDE WORKFLOWS THAT CHANGE EVERYTHING",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "clt9p",
+          "text": "Once your vault is set up and connected to Claude here are the specific workflows that create the most value.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2v9eh",
+          "text": "THE MORNING BRIEFING.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djhmd",
+          "text": "Every morning paste your daily note template into Claude along with any notes you captured the previous day.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55ae9",
+          "text": "Run this prompt:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 296,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "b0vqs",
+          "text": "Review my daily captures from yesterday and this morning. Identify the three most important ideas worth developing further. Check if any of these connect to notes I already have in my vault on [PASTE RELEVANT TOPICS]. Suggest what I should prioritize working on today based on my active projects.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "979p6",
+          "text": "THE IDEA DEVELOPMENT WORKFLOW.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dn60",
+          "text": "When you have a rough idea in your inbox that you want to develop into a permanent note paste it into Claude along with any related notes from your vault.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "109ei",
+          "text": "Run this prompt:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 299,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "8uhq4",
+          "text": "Here is a rough idea I captured: [PASTE IDEA]. Here are the related notes I already have: [PASTE RELEVANT NOTES]. Help me develop this into a fully formed permanent note. What is the core insight? What are the implications? What questions does it raise? What would make this idea stronger or weaker?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8akch",
+          "text": "THE CONNECTION FINDER.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9b9lg",
+          "text": "One of the most valuable things a second brain can do is surface non-obvious connections between ideas that live in different parts of your vault.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9f0d9",
+          "text": "Once a week paste a selection of notes from different areas of your vault into Claude and run this prompt:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 266,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "eefjg",
+          "text": "Here are notes from different areas of my work: [PASTE NOTES]. What non-obvious connections do you see between these ideas? Are there patterns across them I might have missed? Are there any contradictions between my thinking in different areas that I should resolve?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3dpnt",
+          "text": "THE WRITING ACCELERATOR.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eomql",
+          "text": "When you need to write anything substantial whether it is a long article, a report, or a deep analysis start by gathering all the relevant notes from your vault on the topic.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8kbgr",
+          "text": "Paste them into Claude and run this prompt:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 349,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "2b2sn",
+          "text": "Here are all the notes I have accumulated on [TOPIC]: [PASTE NOTES]. I need to write a [FORMAT] of approximately [LENGTH] aimed at [AUDIENCE]. First help me identify the most important ideas from these notes. Then help me structure them into a logical outline. Then help me identify what is missing that would make this piece significantly stronger.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eokfi",
+          "text": "This workflow turns hours of writing prep into twenty minutes.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0frn",
+          "text": "STEP 5: THE OBSIDIAN GRAPH AS YOUR THINKING MAP",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rje",
+          "text": "Obsidian's graph view shows you a visual map of how all your notes connect to each other through internal links.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8kqhl",
+          "text": "Most people open it once, think it looks cool, and never use it practically.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eogp9",
+          "text": "Here is how to actually use it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "518nb",
+          "text": "When you are starting a new project open the graph view filtered to the relevant tags and topics. The visual map shows you immediately which ideas are well developed with many connections and which ones are isolated with no connections.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85u13",
+          "text": "Isolated notes are either ideas you have not developed enough or ideas that do not actually connect to your broader thinking.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6kcs",
+          "text": "Connected clusters are where your most developed thinking lives.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3454q",
+          "text": "After you have run a Claude session developing and connecting ideas go back to the graph view and see how the connections have changed. The graph becomes a visual representation of how your thinking is evolving over time.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "13nv9",
+          "text": "WHAT THIS SYSTEM ACTUALLY DOES TO YOUR OUTPUT",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3j16m",
+          "text": "The Obsidian and Claude second brain system does not just help you organize information.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58rl8",
+          "text": "It changes the quality of your thinking.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5k8lr",
+          "text": "When every idea you capture is available to connect with every other idea you have ever captured the creative surface area of your mind expands significantly.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "m01b",
+          "text": "When Claude can see your accumulated thinking on any topic and push back on it, extend it, and connect it to other areas your reasoning gets sharper faster than it would through solo thinking alone.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a90td",
+          "text": "When your daily note creates a searchable log of how your thinking has evolved you can look back six months and see patterns in your own intellectual development that you would never notice in real time.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cstmd",
+          "text": "THE MOST IMPORTANT THING.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7du20",
+          "text": "The system only works if you actually use it every day.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0v08",
+          "text": "Not perfectly. Not comprehensively.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "76nhu",
+          "text": "Just consistently.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70qtr",
+          "text": "Ten minutes of capturing and processing every morning compounds into something extraordinary over months.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dvriv",
+          "text": "The people who build this system and use it consistently will find themselves thinking more clearly, writing more easily, and making connections faster than they ever did before.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "anf5m",
+          "text": "The people who set it up and then abandon it will just have a more organized folder structure than they did before.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bj8oj",
+          "text": "Build the habit first. Then optimize the system around the habit.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 7,
+                "text": "cyrilXBT",
+                "toIndex": 16
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esid3",
+          "text": "Follow @cyrilXBT for more on Claude, AI tools, productivity systems, and crypto markets. Every day.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "markdown": "```\n# My Obsidian Vault - Context for Claude\n\n## Vault Structure\n- /Inbox - Unprocessed captures\n- /Notes - Permanent processed notes\n- /Projects - Active project workspaces\n- /Archive - Completed work\n\n## Current Active Projects\n[List your 3-5 most active projects here]\n\n## My Note Taking Conventions\n- I use [[double brackets]] for internal links\n- I tag notes with #topic for easy filtering\n- Daily notes are in format YYYY-MM-DD\n\n## How I Want Claude to Help\n- Connect ideas across different notes I might have missed\n- Push back on my reasoning when something does not hold up\n- Help me develop rough inbox captures into permanent notes\n- Surface relevant notes when I am working on a specific problem\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,2005 @@
+{
+  "tweet_created_at": "2026-04-05T10:04:13.000000Z",
+  "id": 2040732229035585500,
+  "id_str": "2040732229035585615",
+  "type": "tweet",
+  "conversation_id_str": "2040732229035585615",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/e2jwnF1Aak",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1967267126655570000,
+    "id_str": "1967267126655569920",
+    "name": "老张来了",
+    "screen_name": "laozhang2579",
+    "location": "California ",
+    "url": null,
+    "description": "AI实用教程、AI工具评测、AI最新资讯分享和行业思考叨叨叨",
+    "protected": false,
+    "verified": true,
+    "followers_count": 3353,
+    "friends_count": 314,
+    "listed_count": 20,
+    "favourites_count": 1282,
+    "statuses_count": 2824,
+    "created_at": "2025-09-14T16:40:44.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967267126655569920/1768748418",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2018954681754738688/8pChffQh_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 24,
+  "reply_count": 34,
+  "retweet_count": 346,
+  "favorite_count": 1321,
+  "views_count": 351427,
+  "bookmark_count": 3171,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040727573035102208",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/e2jwnF1Aak"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T10:04:12.000000Z",
+    "id": 2040732229035585500,
+    "id_str": "2040732229035585615",
+    "title": "Karpathy 最新分享：用 LLM 搭建个人知识库，告别 RAG 的低效循环",
+    "preview_text": "你以为把文档扔给 AI 让它检索就叫知识管理？Karpathy 说，那叫每次从零开始。\n几个小时前，Karpathy 在 GitHub 上发了一篇 Gist，提出了一个完全不同的思路：不是让 AI 被动检索，而是让 AI 主动帮你建一个",
+    "cover_url": "https://pbs.twimg.com/media/HFIjBzwakAAfq0e.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 36,
+              "style": "Bold"
+            }
+          ],
+          "key": "7l4u1",
+          "text": "你以为把文档扔给 AI 让它检索就叫知识管理？Karpathy 说，那叫每次从零开始。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pshv",
+          "text": "几个小时前，Karpathy 在 GitHub 上发了一篇 Gist，提出了一个完全不同的思路：不是让 AI 被动检索，而是让 AI 主动帮你建一个 Wiki，持续更新、自动交叉引用、知识越积越厚",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1th1r",
+          "text": "你只用负责读和想，AI 负责整理和维护",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 39
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c2s6l",
+          "text": "今天老张就按照Karpathy这套方法，手把手教你在 Obsidian 里落地👇",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5kpub",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9ggn",
+          "text": "一、Karpathy 核心洞察为什么 RAG 不够用？",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ds3dl",
+          "text": "大多数人用 AI 处理文档的方式是 RAG，例如通过NotebookLM、ChatGPT 文件上传一堆文件，问问题的时候 AI 临时检索相关片段，拼出一个答案，基本都是这个模式。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "8laa1",
+          "text": "Karpathy 指出了这种方式的根本问题是没有积累。\n每次提问，AI 都在从头搜寻知识。\n问一个需要综合五篇文档的问题？AI 要每次现场找碎片、现场拼，什么都没沉淀下来。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 10,
+              "style": "Bold"
+            }
+          ],
+          "key": "1t873",
+          "text": "他提出的替代方案叫 LLM Wiki，让 AI 增量地构建和维护一个持久化的 Wiki，其实就是互相链接的 Markdown 文件。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86jn8",
+          "text": "二、Karpathy的实战操作",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aadk",
+          "text": "2.1  用Chrome浏览器插件Obsidian Web Clipper 做素材采集",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1nv1u",
+          "text": "1、在浏览器安装 Obsidian Web Clipper 扩展",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "30b8l",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4ps31",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "192qg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "canf4",
+          "text": "2、打开任意网页文章，点击扩展图标--Add to Obsidian",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8pn48",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "196om",
+          "text": "3、保存后文章自动转为 Markdown 出现在 Obsidian 里",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ft2dj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5tbm6",
+          "text": "2.2 一个快捷键，让图片本地化，告别外链失效",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "93d90",
+          "text": "剪藏下来的文章，图片通常还是外链，过几个月链接一挂，文章就残了。更关键的是，AI 读不了挂掉的图片链接。\nKarpathy 的方案是两步配置，一劳永逸：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c022k",
+          "text": "第一步：统一附件存储路径",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37o7f",
+          "text": "打开 设置 → 文件与链接 → 找到附件存储路径 → 设为当前文件夹下指定的子文件夹，子文件夹名称设为attachments\n不推荐Karpathy的固定到一个目录 raw/assets/ 因为多了之后附件混在了一起不好管理。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4b34r",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ai7rr",
+          "text": "第二步：绑定下载快捷键\n设置 → 快捷键 → 搜索 \"下载\" →  绑定快捷键Ctrl+Shift+D",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e6rgk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6qd7j",
+          "text": "以后每次剪藏完一篇文章，按一下 Ctrl+Shift+D，所有图片自动下载到本地。AI 就能直接读取和引用这些图片了",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qfa2",
+          "text": "这里Karpathy分享了一个小细节：LLM 目前没法一次性读取带内嵌图片的 Markdown。变通做法是先让 AI 读文本内容，再让它单独查看文章引用的图片，不够优雅，但管用。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ni08",
+          "text": "2.3 用图谱视图一眼看清知识库的全貌",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 11,
+              "style": "Bold"
+            }
+          ],
+          "key": "2rd00",
+          "text": "Obsidian 的 Graph View是这套方法使你的所有 Wiki 页面以节点形式展示，页面之间的 双链 关系自动连线。打开方式：左侧边栏点击图谱图标或者用快捷键 Ctrl+G",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aftr2",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9ile",
+          "text": "Karpathy把图谱视图结合AI用在两个场景：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "6k5qp",
+          "text": "1、Lint 健康检查时 一眼看出哪些页面是孤岛没有任何链接指向它，说明交叉引用缺失，需要让 AI 补上",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "e2h5l",
+          "text": "2、发现知识盲区  如果某个概念被很多页面提到但自己没有独立页面，它在图谱里会显示为一个灰色的幽灵节点，提醒你应该让 AI 为它创建专页",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 37
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7qb09",
+          "text": "2.4 用Dataview让 Wiki 自己生成报表（实用价值老张保留意见😂）",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6kr16",
+          "text": "Dataview 是 Obsidian 的社区插件，它能对页面的 YAML frontmatter 做数据库式查询，自动生成动态表格和列表。\n我觉得这个价值不大，只有多到一定程度或者想用元数据查询方式习惯的可以考虑，老张是直接用索引文件或者配合Claude 的文件检索 ,需要了无非在Prompt写的细一点\n安装路径：设置 → 第三方插件→社区插件市场 → 搜索 \"Dataview\" → 安装并启用",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3lb4a",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3gccf",
+          "text": "配合 LLM Wiki 的用法是：让 AI 在每个 Wiki 页面的 frontmatter 里写上结构化元数据，比如：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c72pa",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "amk0l",
+          "text": "然后你在任意页面写一段 Dataview 查询：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "104kt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqn3t",
+          "text": "就会自动生成一个按日期倒序排列的来源列表，Wiki 页面越多，这个报表越有价值。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 39
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fr9do",
+          "text": "2.5 用 Marp 把Wiki 里的内容直接变成幻灯片（实用价值老张保留意见😂）",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "76ah",
+          "text": "Marp 是一个基于 Markdown 的幻灯片格式，在 Obsidian 里装上 Marp Slides 插件就能直接预览和导出。\n安装路径：设置 → 社区插件 → 搜索 \"Marp Slides\" → 安装并启用。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2drp1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2s0l4",
+          "text": "用法：在 Markdown 文件开头加上 marp: true，用 --- 分隔每页幻灯片，写完直接在 Obsidian 里预览，也可以导出为 PDF / HTML / PPTX。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aclfu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94g2g",
+          "text": "配合 LLM Wiki 的场景，让 AI 从 Wiki 的某个主题页面直接生成 Marp 格式的幻灯片草稿，你微调后就能用。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cdkbk",
+          "text": "2.6  知识库用Git做版本管理",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qf1o",
+          "text": "操作步骤：设置 → 第三方插件 → 社区插件市场 → 搜索 \"git\" → 安装并启用",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "929ir",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fmues",
+          "text": "如果你的 Vault 还不是一个 Git 仓库，需要初始化一次：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "778ii",
+          "text": "1、打开终端（Windows 用 PowerShell，Mac 用 Terminal），cd 到你的 Vault 目录 执行 git init 初始化仓库",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e16ph",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 4,
+                "text": "github.com",
+                "toIndex": 14
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c44h3",
+          "text": "2、打开github.com 创建一个private仓库",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 19,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5vrir",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "fnaid",
+          "text": "3、如果要同步到 GitHub，在 GitHub 上创建一个私有仓库（重要，知识库是私人数据），然后",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 20,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6bs2r",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 21,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4ri1d",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1v96d",
+          "text": "安装完 Obsidian Git 插件后，打开它将Auto commit-and-sync interval设为10 分钟，插件会自动 commit + push，你完全不用管",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 22,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cnmuo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 54,
+              "style": "Bold"
+            }
+          ],
+          "key": "65rh9",
+          "text": "配好之后日常使用你不需要做任何事情。每隔几分钟插件自动 commit 和 push，相当于你的知识库有了一个实时备份+完整历史。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "cec47",
+          "text": "Git 对这套 LLM Wiki 方法来说是必选项，AI 批量改文件的能力越强，你越需要版本管理来兜底。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a428g",
+          "text": "7. 搜索利器：qmd 让 AI 精准定位知识",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 73,
+                "text": "github.com/tobi/qmd",
+                "toIndex": 92
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 69,
+              "style": "Bold"
+            }
+          ],
+          "key": "320m9",
+          "text": "Wiki 规模小的时候，一个 index.md 目录文件就够 AI 导航了。但页面多了之后，需要真正的搜索能力。\nKarpathy 推荐 qmd（github.com/tobi/qmd），一个完全本地运行的 Markdown 搜索引擎\n对于咱们大多数人，Wiki 到几百个页面之前 index.md 完全够用。等你觉得 AI 找东西变慢了，再接入 qmd 也不迟。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 23,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "apotb",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29brf",
+          "text": "三、为什么这套方法有效？",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 35,
+              "style": "Bold"
+            }
+          ],
+          "key": "4ftsh",
+          "text": "Karpathy 的原话很到位 维护知识库最痛苦的不是阅读和思考，而是记录。更新交叉引用、保持摘要最新、标注新旧矛盾、维护几十个页面的一致性。人类放弃 Wiki 是因为维护成本的增长速度超过了价值的增长速度。\n但是AI 不会厌倦，不会忘记更新交叉引用，一次操作可以碰十五个文件。维护成本趋近于零，知识库就能真正活下去。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3mjor",
+          "text": "思想精髓： 你把精力放在 选素材、定方向、问好问题、思考意义，AI 负责其他一切。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8m1gc",
+          "text": "其实老张觉得 Obsidian Web Clipper + 图片本地化附件热键 + Git + Claude 就够了，完全可以打造和Karpathy一样的RAG知识库，与Claude集成看这篇",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 24,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aq7hf",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 20,
+                "text": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+                "toIndex": 85
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 25,
+              "length": 65,
+              "offset": 20
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4sb0o",
+          "text": "Karpathy的llm-wiki链接：https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8q21p",
+          "text": "以上就是老张经过自己实操分享的内容，如果你喜欢，欢迎点赞 、关注 + 转发！",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "markdown": "```markdown\ntype: source\ntitle: \"文章标题\"\ndate: 2026-04-05\ntags: [AI, knowledge-base]\nsource_count: 3\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "970396ad-81c7-46f1-baac-99d03efc12a4",
+              "mediaItems": [
+                {
+                  "localMediaId": "13",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040729565958717440"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "entityKey": "0241f6a7-dfbf-4c68-94fe-a8b2ec6d31af",
+              "mediaItems": [
+                {
+                  "localMediaId": "27",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040730688274722816"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "23",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "942c4ab0-afe2-4367-bc9d-9eb7654e8ffb",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040728639436967936"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "entityKey": "c90cfd2a-8b0a-4eea-8515-85cce8095288",
+              "mediaItems": [
+                {
+                  "localMediaId": "19",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040730288708624384"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "entityKey": "bcf0506c-2c13-4d0a-9349-4006bbd5e0ca",
+              "mediaItems": [
+                {
+                  "localMediaId": "17",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040729998676676608"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "2143946c-3ecb-4006-8a43-5ade364ddbad",
+              "mediaItems": [
+                {
+                  "localMediaId": "15",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040729662066978816"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "entityKey": "aedc711d-30cc-411c-adf2-41248518e3a0",
+              "mediaItems": [
+                {
+                  "localMediaId": "31",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040731041779052544"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nTABLE title, date, tags\nFROM \"wiki/sources\"\nSORT date DESC\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "24",
+          "value": {
+            "data": {
+              "tweetId": "2037106215747280968"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "entityKey": "30fc5857-e62a-4b89-a036-2ca53db491cf",
+              "mediaItems": [
+                {
+                  "localMediaId": "21",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040730377074200576"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "eb4ace78-5652-465c-9aeb-01b3a45c415f",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040728910485508096"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f602.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": {
+              "entityKey": "7020e486-3f54-45db-b2a2-46395162ca10",
+              "mediaItems": [
+                {
+                  "localMediaId": "29",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040730959423954944"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "a7df8cd7-c931-4280-8a50-48faf90b0ab5",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040729281870102528"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "entityKey": "c1a6042f-0a56-40cc-bc1f-e46a56bdd1c0",
+              "mediaItems": [
+                {
+                  "localMediaId": "23",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040730491918426112"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "25",
+          "value": {
+            "data": {
+              "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f602.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f447.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "markdown": "```bash\ngit branch -M main\ngit remote add origin https://github.com/你的用户名/knowledge-bases.git\ngit add .\ngit commit -m \"init: 初始化知识库\"\ngit push -u origin main\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "1e6f2f3f-9159-497c-9cac-f8b61e674592",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040728497954652161"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "entityKey": "0049cdd4-54f9-4430-8ccb-073c19349897",
+              "mediaItems": [
+                {
+                  "localMediaId": "25",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040730596100747265"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "4b55f5a9-c343-4105-9dd9-02b3a796980e",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040729487789490177"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "84c16e34-c76b-421a-8cfd-f81b2e9ad4be",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040728575108956161"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIf06pbwAEKAAIbTSMHVpvQAAAA",
+        "media_id": "2040728575108956161",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.28,
+                "rgb": {
+                  "blue": 250,
+                  "green": 250,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 0.37,
+                "rgb": {
+                  "blue": 248,
+                  "green": 144,
+                  "red": 173
+                }
+              },
+              {
+                "percentage": 0.22,
+                "rgb": {
+                  "blue": 248,
+                  "green": 213,
+                  "red": 223
+                }
+              },
+              {
+                "percentage": 0.11,
+                "rgb": {
+                  "blue": 184,
+                  "green": 188,
+                  "red": 252
+                }
+              }
+            ]
+          },
+          "original_img_height": 934,
+          "original_img_url": "https://pbs.twimg.com/media/HFIf06pbwAEdvEg.png",
+          "original_img_width": 1899
+        },
+        "media_key": "3_2040728575108956161"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIg0L4a8AAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040729662066978816",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 97.4,
+                "rgb": {
+                  "blue": 32,
+                  "green": 32,
+                  "red": 32
+                }
+              },
+              {
+                "percentage": 1.44,
+                "rgb": {
+                  "blue": 59,
+                  "green": 79,
+                  "red": 86
+                }
+              },
+              {
+                "percentage": 0.47,
+                "rgb": {
+                  "blue": 95,
+                  "green": 69,
+                  "red": 55
+                }
+              },
+              {
+                "percentage": 0.44,
+                "rgb": {
+                  "blue": 60,
+                  "green": 43,
+                  "red": 61
+                }
+              },
+              {
+                "percentage": 0.11,
+                "rgb": {
+                  "blue": 57,
+                  "green": 94,
+                  "red": 121
+                }
+              }
+            ]
+          },
+          "original_img_height": 1047,
+          "original_img_url": "https://pbs.twimg.com/media/HFIg0L4a8AAGgU_.jpg",
+          "original_img_width": 1405
+        },
+        "media_key": "3_2040729662066978816"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIgul2bQAAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040729565958717440",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.35,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.59,
+                "rgb": {
+                  "blue": 173,
+                  "green": 177,
+                  "red": 252
+                }
+              }
+            ]
+          },
+          "original_img_height": 678,
+          "original_img_url": "https://pbs.twimg.com/media/HFIgul2bQAAZjCZ.jpg",
+          "original_img_width": 1094
+        },
+        "media_key": "3_2040729565958717440"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIhdzfbUAAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040730377074200576",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 55.7,
+                "rgb": {
+                  "blue": 32,
+                  "green": 32,
+                  "red": 31
+                }
+              },
+              {
+                "percentage": 40.56,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 1.58,
+                "rgb": {
+                  "blue": 78,
+                  "green": 77,
+                  "red": 24
+                }
+              },
+              {
+                "percentage": 1.44,
+                "rgb": {
+                  "blue": 119,
+                  "green": 115,
+                  "red": 77
+                }
+              },
+              {
+                "percentage": 0.26,
+                "rgb": {
+                  "blue": 49,
+                  "green": 51,
+                  "red": 65
+                }
+              }
+            ]
+          },
+          "original_img_height": 463,
+          "original_img_url": "https://pbs.twimg.com/media/HFIhdzfbUAAgJya.png",
+          "original_img_width": 800
+        },
+        "media_key": "3_2040730377074200576"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIhHx2bUAAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040729998676676608",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.02,
+                "rgb": {
+                  "blue": 32,
+                  "green": 30,
+                  "red": 28
+                }
+              },
+              {
+                "percentage": 0.51,
+                "rgb": {
+                  "blue": 112,
+                  "green": 110,
+                  "red": 109
+                }
+              },
+              {
+                "percentage": 0.48,
+                "rgb": {
+                  "blue": 72,
+                  "green": 76,
+                  "red": 76
+                }
+              }
+            ]
+          },
+          "original_img_height": 406,
+          "original_img_url": "https://pbs.twimg.com/media/HFIhHx2bUAAZKVZ.png",
+          "original_img_width": 676
+        },
+        "media_key": "3_2040729998676676608"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIhqjbbMAEKAAIbTSMHVpvQAAAA",
+        "media_id": "2040730596100747265",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.66,
+                "rgb": {
+                  "blue": 12,
+                  "green": 12,
+                  "red": 12
+                }
+              },
+              {
+                "percentage": 0.2,
+                "rgb": {
+                  "blue": 47,
+                  "green": 53,
+                  "red": 144
+                }
+              }
+            ]
+          },
+          "original_img_height": 492,
+          "original_img_url": "https://pbs.twimg.com/media/HFIhqjbbMAEmCfp.png",
+          "original_img_width": 989
+        },
+        "media_key": "3_2040730596100747265"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIh/s6bYAAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040730959423954944",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.98,
+                "rgb": {
+                  "blue": 12,
+                  "green": 12,
+                  "red": 12
+                }
+              },
+              {
+                "percentage": 0.4,
+                "rgb": {
+                  "blue": 49,
+                  "green": 68,
+                  "red": 70
+                }
+              },
+              {
+                "percentage": 0.32,
+                "rgb": {
+                  "blue": 92,
+                  "green": 92,
+                  "red": 92
+                }
+              },
+              {
+                "percentage": 0.3,
+                "rgb": {
+                  "blue": 79,
+                  "green": 56,
+                  "red": 26
+                }
+              }
+            ]
+          },
+          "original_img_height": 222,
+          "original_img_url": "https://pbs.twimg.com/media/HFIh_s6bYAAJteM.png",
+          "original_img_width": 993
+        },
+        "media_key": "3_2040730959423954944"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIhv6zacAAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040730688274722816",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.17,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.45,
+                "rgb": {
+                  "blue": 219,
+                  "green": 230,
+                  "red": 216
+                }
+              },
+              {
+                "percentage": 0.24,
+                "rgb": {
+                  "blue": 104,
+                  "green": 162,
+                  "red": 81
+                }
+              },
+              {
+                "percentage": 0.13,
+                "rgb": {
+                  "blue": 179,
+                  "green": 194,
+                  "red": 219
+                }
+              }
+            ]
+          },
+          "original_img_height": 870,
+          "original_img_url": "https://pbs.twimg.com/media/HFIhv6zacAAIKgd.jpg",
+          "original_img_width": 1884
+        },
+        "media_key": "3_2040730688274722816"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIgqCpbgAEKAAIbTSMHVpvQAAAA",
+        "media_id": "2040729487789490177",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.18,
+                "rgb": {
+                  "blue": 250,
+                  "green": 250,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 0.62,
+                "rgb": {
+                  "blue": 223,
+                  "green": 149,
+                  "red": 92
+                }
+              }
+            ]
+          },
+          "original_img_height": 915,
+          "original_img_url": "https://pbs.twimg.com/media/HFIgqCpbgAEOV93.png",
+          "original_img_width": 1098
+        },
+        "media_key": "3_2040729487789490177"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIhYqTboAAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040730288708624384",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 84,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 7.81,
+                "rgb": {
+                  "blue": 29,
+                  "green": 29,
+                  "red": 29
+                }
+              },
+              {
+                "percentage": 4.56,
+                "rgb": {
+                  "blue": 247,
+                  "green": 115,
+                  "red": 152
+                }
+              },
+              {
+                "percentage": 0.63,
+                "rgb": {
+                  "blue": 250,
+                  "green": 165,
+                  "red": 189
+                }
+              },
+              {
+                "percentage": 0.3,
+                "rgb": {
+                  "blue": 233,
+                  "green": 234,
+                  "red": 227
+                }
+              }
+            ]
+          },
+          "original_img_height": 680,
+          "original_img_url": "https://pbs.twimg.com/media/HFIhYqTboAAu1rq.jpg",
+          "original_img_width": 921
+        },
+        "media_key": "3_2040730288708624384"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIhkfUbIAAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040730491918426112",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 91.24,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 6.35,
+                "rgb": {
+                  "blue": 247,
+                  "green": 117,
+                  "red": 153
+                }
+              },
+              {
+                "percentage": 1.4,
+                "rgb": {
+                  "blue": 251,
+                  "green": 202,
+                  "red": 217
+                }
+              },
+              {
+                "percentage": 0.32,
+                "rgb": {
+                  "blue": 181,
+                  "green": 184,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 0.14,
+                "rgb": {
+                  "blue": 151,
+                  "green": 212,
+                  "red": 227
+                }
+              }
+            ]
+          },
+          "original_img_height": 673,
+          "original_img_url": "https://pbs.twimg.com/media/HFIhkfUbIAAGuLW.png",
+          "original_img_width": 914
+        },
+        "media_key": "3_2040730491918426112"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIiEftacAAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040731041779052544",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.98,
+                "rgb": {
+                  "blue": 251,
+                  "green": 251,
+                  "red": 251
+                }
+              }
+            ]
+          },
+          "original_img_height": 682,
+          "original_img_url": "https://pbs.twimg.com/media/HFIiEftacAAdhBo.png",
+          "original_img_width": 919
+        },
+        "media_key": "3_2040731041779052544"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIgeDibAAAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040729281870102528",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.8,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HFIgeDibAAAVCaY.png",
+          "original_img_width": 1582
+        },
+        "media_key": "3_2040729281870102528"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIgIcBb0AAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040728910485508096",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 95,
+                "rgb": {
+                  "blue": 253,
+                  "green": 253,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 4.36,
+                "rgb": {
+                  "blue": 49,
+                  "green": 44,
+                  "red": 41
+                }
+              },
+              {
+                "percentage": 0.48,
+                "rgb": {
+                  "blue": 230,
+                  "green": 143,
+                  "red": 179
+                }
+              }
+            ]
+          },
+          "original_img_height": 1029,
+          "original_img_url": "https://pbs.twimg.com/media/HFIgIcBb0AADVvi.jpg",
+          "original_img_width": 1905
+        },
+        "media_key": "3_2040728910485508096"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIfwbOagAEKAAIbTSMHVpvQAAAA",
+        "media_id": "2040728497954652161",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 97.16,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 1.85,
+                "rgb": {
+                  "blue": 123,
+                  "green": 120,
+                  "red": 117
+                }
+              },
+              {
+                "percentage": 0.36,
+                "rgb": {
+                  "blue": 246,
+                  "green": 138,
+                  "red": 169
+                }
+              },
+              {
+                "percentage": 0.16,
+                "rgb": {
+                  "blue": 243,
+                  "green": 165,
+                  "red": 188
+                }
+              },
+              {
+                "percentage": 0.16,
+                "rgb": {
+                  "blue": 189,
+                  "green": 221,
+                  "red": 227
+                }
+              }
+            ]
+          },
+          "original_img_height": 1022,
+          "original_img_url": "https://pbs.twimg.com/media/HFIfwbOagAEMQvo.jpg",
+          "original_img_width": 1896
+        },
+        "media_key": "3_2040728497954652161"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIf4qSbUAAKAAIbTSMHVpvQAAAA",
+        "media_id": "2040728639436967936",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 97.38,
+                "rgb": {
+                  "blue": 250,
+                  "green": 250,
+                  "red": 251
+                }
+              },
+              {
+                "percentage": 1.08,
+                "rgb": {
+                  "blue": 210,
+                  "green": 104,
+                  "red": 26
+                }
+              },
+              {
+                "percentage": 1.06,
+                "rgb": {
+                  "blue": 230,
+                  "green": 182,
+                  "red": 147
+                }
+              },
+              {
+                "percentage": 0.2,
+                "rgb": {
+                  "blue": 246,
+                  "green": 130,
+                  "red": 162
+                }
+              },
+              {
+                "percentage": 0.15,
+                "rgb": {
+                  "blue": 182,
+                  "green": 187,
+                  "red": 254
+                }
+              }
+            ]
+          },
+          "original_img_height": 1028,
+          "original_img_url": "https://pbs.twimg.com/media/HFIf4qSbUAA0emo.png",
+          "original_img_width": 1906
+        },
+        "media_key": "3_2040728639436967936"
+      }
+    ]
+  }
+}

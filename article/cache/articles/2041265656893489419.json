@@ -1,0 +1,1673 @@
+{
+  "tweet_created_at": "2026-04-06T21:23:52.000000Z",
+  "id": 2041265656893489400,
+  "id_str": "2041265656893489419",
+  "type": "tweet",
+  "conversation_id_str": "2041265656893489419",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/459sdqMHRr",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1643695629665722400,
+    "id_str": "1643695629665722379",
+    "name": "God of Prompt",
+    "screen_name": "godofprompt",
+    "location": "👉 Subscribe to my newsletter",
+    "url": "https://godofprompt.beehiiv.com/",
+    "description": "🔑 Sharing AI Prompts, Tips & Tricks. The Biggest Collection of AI Prompts & Guides for ChatGPT, Gemini, Grok, Claude, & Midjourney AI → https://t.co/vwZZ2VSNil",
+    "protected": false,
+    "verified": true,
+    "followers_count": 257413,
+    "friends_count": 1169,
+    "listed_count": 2631,
+    "favourites_count": 74614,
+    "statuses_count": 26210,
+    "created_at": "2023-04-05T19:22:39.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643695629665722379/1731940054",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1854278127226163200/HZVn7wS4_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 15,
+  "reply_count": 32,
+  "retweet_count": 204,
+  "favorite_count": 1551,
+  "views_count": 411774,
+  "bookmark_count": 5654,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040356870162980865",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/459sdqMHRr"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T21:23:52.000000Z",
+    "id": 2041265656893489400,
+    "id_str": "2041265656893489419",
+    "title": "🔑 karpathy's second brain: how to build it",
+    "preview_text": "100K people bookmarked @karpathy's post:\n \nThen he dropped a full GitHub Gist. 5,000+ stars. 1,400+ forks. Two days.\nMost people will bookmark that too. Then do nothing.\nNot because it's hard. Because",
+    "cover_url": "https://pbs.twimg.com/media/HFQISUuW4AAfPXJ.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 23,
+                "text": "karpathy",
+                "toIndex": 32
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 4,
+              "offset": 35
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7ic",
+          "text": "100K people bookmarked @karpathy's post:",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ajt2i",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpas2",
+          "text": "Then he dropped a full GitHub Gist. 5,000+ stars. 1,400+ forks. Two days.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9f0tn",
+          "text": "Most people will bookmark that too. Then do nothing.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ni4j",
+          "text": "Not because it's hard. Because nobody gave them the exact prompts.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3umrh",
+          "text": "I'm going to fix that. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsbsa",
+          "text": "I'll walk you through the full system, hand you copy-paste prompts for every step, and tell you where this breaks so you don't waste a weekend on something that falls apart at scale.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2uibv",
+          "text": "---",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "11vte",
+          "text": "\"The human's job is to curate sources, direct the analysis, ask good questions, and think about what it all means. The LLM's job is everything else.\" — Andrej Karpathy",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6e8mo",
+          "text": "---",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dj6nc",
+          "text": "The Concept (60-Second Version)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5po2",
+          "text": "You have knowledge scattered everywhere. Articles saved in 4 apps. Bookmarks from 2023 you'll never revisit. Notes from meetings that live in a folder you forgot existed.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dupph",
+          "text": "Right now, when you ask AI a question about your stuff, it starts from zero every time. Upload docs, ask a question, get an answer. Next session? It's forgotten everything. That's how ChatGPT file uploads, NotebookLM, and most RAG systems work. Zero accumulation.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ofln",
+          "text": "Karpathy's idea flips this.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fort4",
+          "text": "Instead of the AI searching your raw files every time, the AI reads your sources once and compiles a structured wiki. Summaries, cross-references, connections between ideas, contradictions flagged. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ei3hn",
+          "text": "All maintained by the AI. All in simple markdown files.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fotg8",
+          "text": "Next time you ask a question, the AI doesn't dig through raw documents. It reads the wiki it already built. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "739tv",
+          "text": "The connections are already there. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7miq",
+          "text": "The synthesis already reflects everything you've read.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "en1cj",
+          "text": "Every new source you add makes the wiki richer. Every question you ask can get filed back in. Knowledge compounds instead of resetting.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a764u",
+          "text": "His result: ~100 articles, ~400,000 words on a single research topic. He didn't write a word of it. The AI wrote, linked, categorized, and maintained all of it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "khjt",
+          "text": "No database. No embeddings. No vector store. Just folders and text files.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qsic",
+          "text": "Why Should You Care?",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3h373",
+          "text": "Three use cases that matter right now:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "76vkq",
+          "text": "If you're a creator or marketer, this is a content research engine. Dump competitor breakdowns, trending articles, audience insights into raw/. The wiki surfaces patterns and angles you'd never find manually.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ghd0",
+          "text": "If you're a founder or consultant, this is your second brain for client work, market research, or competitive analysis. Every report you generate feeds back into the system. By month 3, your AI knows your domain better than most hires.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5u618",
+          "text": "If you're a student or researcher, this is what Karpathy actually built it for. Deep research across dozens of papers, with the AI tracking how ideas connect, where authors disagree, and what gaps remain. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dgpk",
+          "text": "*This can also be used for a lot of business R&D workflows.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4jd13",
+          "text": "Before We Build: What You Need",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7qflo",
+          "text": "→ Any AI coding tool that reads local files (Claude Code, Cursor, Codex, or similar)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1e1bs",
+          "text": "→ A text editor (Obsidian recommended, but VS Code, Notepad, anything works)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e6dni",
+          "text": "→ 10+ source documents on a topic you care about",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dashf",
+          "text": "→ 30 minutes for initial setup, then 10 minutes per source after that",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkr0q",
+          "text": "That's it. No special software. No accounts to create. No plugins to install.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpphc",
+          "text": "---",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d7ems",
+          "text": "The rest of this article is the build. 7 steps. Every step has the exact prompt you'll paste into your AI. Follow them in order.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "83oid",
+          "text": "---",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4n192",
+          "text": "Step 1: Create the Folder Structure (2 Minutes)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ulc",
+          "text": "Create this anywhere on your machine:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1dm98",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jnpc",
+          "text": "Three folders, one file. If you're spending more than 2 minutes here, you're overthinking it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8mat",
+          "text": "Step 2: Write Your Schema File (The Step Everyone Skips. Don't.)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80ls2",
+          "text": "The schema is the difference between a generic chatbot and a disciplined wiki maintainer. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kmhn",
+          "text": "It tells your AI what the knowledge base is about, how to organize it, and what to do when you add sources, ask questions, or run maintenance.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dt9u3",
+          "text": "Every other guide gives you a 10-line template. Here's the full production schema, based on Karpathy's gist, engineered for real use:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "chkjs",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fj8d2",
+          "text": "Copy this. Customize the focus areas. Drop it in your project root as CLAUDE.md.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8mat1",
+          "text": "Step 3: Fill Your Raw Folder (10 Minutes of Dumping, Zero Organizing)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "81am2",
+          "text": "Open raw/ and dump everything in:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3d6v",
+          "text": "→ Copy-paste articles into .md or .txt files",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "13p81",
+          "text": "→ Export notes from whatever app you're using now",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18d8",
+          "text": "→ Save screenshots and diagrams to raw/assets/",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3i4e9",
+          "text": "→ Paste in research papers, PDFs, competitor breakdowns",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgidg",
+          "text": "→ Dump bookmarks you've been hoarding for months",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjobu",
+          "text": "Don't organize it. Don't rename anything. Don't clean it up. That's the AI's job.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bu1qp",
+          "text": "Pro tip from Karpathy: The Obsidian Web Clipper browser extension converts any web article to markdown in one click. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmkkl",
+          "text": "Set a hotkey (Settings → Hotkeys → \"Download attachments\") to pull all images locally so the AI can reference them. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9v25",
+          "text": "If you don't use Obsidian, copy-paste from your browser works fine.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "av4pi",
+          "text": "The goal is volume. Not perfection.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36ud9",
+          "text": "Step 4: Run Your First Ingest",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ispp",
+          "text": "Open your AI agent. Point it at your project folder. Paste this:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "87mkk",
+          "text": "INGEST PROMPT:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "47q6r",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b901s",
+          "text": "Start with one source at a time. Karpathy does the same. Read the summaries. Check the updates. Guide the AI on what to emphasize. This produces dramatically better results than batch-processing everything at once.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8qglc",
+          "text": "After 5-10 sources, your wiki/ folder will have an index, a log, and 15-30 interconnected pages.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "312vb",
+          "text": "That's when things click.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "341pr",
+          "text": "Step 5: Start Querying Your Knowledge Base",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jgk3",
+          "text": "Once you have 10+ wiki pages, the system becomes genuinely useful. Paste this:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djd84",
+          "text": "QUERY PROMPT:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ftrf3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8j8b",
+          "text": "Questions that extract the most value:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5te36",
+          "text": "→ \"What are the three biggest gaps in this knowledge base?\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ma8q",
+          "text": "→ \"Which sources disagree with each other, and on what?\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1co65",
+          "text": "→ \"What should I research next based on what's here?\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vmua",
+          "text": "→ \"Write a 500-word briefing on [topic] using only wiki content\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "clsf",
+          "text": "→ \"What connections exist between [concept A] and [concept B]?\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evcjl",
+          "text": "The critical loop: good answers should be filed back into the wiki. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17hre",
+          "text": "A comparison, an analysis, a connection you discovered. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fo5rl",
+          "text": "These compound in the knowledge base just like ingested sources do.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f84t6",
+          "text": "Every question makes the next answer better.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "clfas",
+          "text": "Step 6: Run Monthly Health Checks",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "amvc7",
+          "text": "This is the step nobody does. It's the step that prevents the whole system from slowly rotting. Paste this:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3pnus",
+          "text": "LINT PROMPT:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1ttuu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjg34",
+          "text": "Why this matters: when the AI writes something slightly wrong and you save it back, the next answer builds on the wrong thing. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fbf2t",
+          "text": "Two months later, you have five pages reinforcing the same error. Health checks catch this before it snowballs.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7qflt",
+          "text": "One check per month. Ten minutes of your time. Non-negotiable if you want the system to stay trustworthy.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "34am",
+          "text": "Step 7: Let It Compound",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1bsmi",
+          "text": "This is where the system earns its keep.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fdflg",
+          "text": "After 4-6 weeks of consistent use, you're not just searching notes. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "thht",
+          "text": "You're querying a structured knowledge system that understands connections between your sources better than you do.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6b2q",
+          "text": "Three ways to accelerate the compounding:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85a81",
+          "text": "File exploration outputs back: When the AI generates a comparison or analysis you find valuable, save it into wiki/ or outputs/. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f7n1u",
+          "text": "Karpathy says his own explorations and queries \"always add up\" in the knowledge base.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7oraa",
+          "text": "Add visual outputs: Have the AI render answers as markdown tables, charts, or slide decks (Marp format). ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "41mft",
+          "text": "These become reusable assets, not throwaway chat messages.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7n27h",
+          "text": "Version control everything: Your wiki is just markdown files. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rbnt",
+          "text": "Initialize a git repo. You get full history, branching, and the ability to undo anything the AI messes up.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bdrmq",
+          "text": "---",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bq9s6",
+          "text": "Okay. That's the build. Now here's the part nobody else will tell you.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6dh7k",
+          "text": "---",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fc46b",
+          "text": "Where This System Breaks (The Honest Version)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "331ll",
+          "text": "This is a nascent pattern, not a finished product. Karpathy himself called it \"a hacky collection of scripts\" and said there's room for a real product. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ci0o",
+          "text": "Here's what you need to know before trusting your knowledge to it:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c8ndc",
+          "text": "Context Window Ceiling.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evd8",
+          "text": "Karpathy's wiki works at ~100 articles and ~400K words. But even 128K-token context windows only hold ~96K words. The AI reads selectively through the index, which means it can miss things. Research shows LLMs suffer from \"lost in the middle\" effects where information in the center of long inputs gets deprioritized. Your query results will have blind spots. Accept this.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1anu8",
+          "text": "Error Compounding.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b80mc",
+          "text": "The AI writes a wiki page with a subtle mistake. You query against it. The mistake enters your answer. You file that answer back. Now two pages reinforce the same error. Monthly linting helps, but the AI doing the linting has the same blind spots as the AI that made the error. This is the single biggest risk. One commenter on Karpathy's gist nailed it: \"When outputs get filed back, errors compound too.\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "uvvk",
+          "text": "Hallucination Doesn't Disappear.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cir75",
+          "text": "The wiki approach reduces hallucination because the AI grounds answers in your sources. But it doesn't eliminate it. The AI can still synthesize connections that don't exist in the source material. And because the wiki looks authoritative (clean markdown, cross-references, citations), you're more likely to trust incorrect information. Don't.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6534k",
+          "text": "Cost Isn't Zero.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2u92",
+          "text": "Every ingest, every query, every lint check costs tokens. A single source that touches 10-15 pages can run $2-5 in API calls with frontier models. 50 sources is $100-250 just for ingestion. Cheaper than a research assistant. Not free.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dgrab",
+          "text": "It Doesn't Scale to Enterprise.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bb63",
+          "text": "Karpathy says the index-file approach works without RAG at ~100 articles. At 10,000+ sources, this pattern breaks. The index grows too large. Consistency across thousands of pages becomes impossible. You'll need the infrastructure this system was designed to avoid. Know the ceiling.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c5i6b",
+          "text": "Single-Model Blind Spots.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bcc5n",
+          "text": "Your entire wiki is one model's interpretation of your sources. That model has biases and tendencies. For high-stakes decisions, one gist commenter suggested running queries through 4+ models independently, then comparing agreement. More robust. Also 4x the cost.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dat2m",
+          "text": "What To Do About It",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0oa9",
+          "text": "→ Error compounding: Monthly lint checks. Cross-check critical claims manually. Never trust the wiki blindly on high-stakes decisions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88ci9",
+          "text": "→ Context limits: Keep each wiki focused on one domain. Multiple domains? Multiple knowledge bases.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2rmf5",
+          "text": "→ Cost: Use frontier models for ingest and complex queries. Cheaper models for simple updates.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kear",
+          "text": "→ Hallucination: The schema above requires source citations on every claim. If a page makes a claim without [Source: filename], linting will flag it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aggb9",
+          "text": "→ Scale: Accept this is a personal tool, not enterprise infrastructure. If you outgrow it, that's a good problem.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "td61",
+          "text": "Why It Still Matters",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a601l",
+          "text": "Despite all the above, this is the most practical personal knowledge system available right now.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dhav3",
+          "text": "The reason is dead simple: humans abandon wikis because maintenance grows faster than value. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4e30c",
+          "text": "You start organizing, it feels great for two weeks, then the upkeep kills motivation and you never touch it again.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "btact",
+          "text": "LLMs don't get bored. They don't forget to update a cross-reference. They can touch 15 files in one pass without complaining.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bme0r",
+          "text": "Lex Fridman confirmed he runs a similar setup. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8pfs1",
+          "text": "He generates interactive HTML visualizations and creates \"mini-knowledge-bases\" he loads into voice mode for 7-10 mile runs. ",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 19,
+                "text": "DAIR.AI",
+                "toIndex": 26
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "avatd",
+          "text": "Elvis Saravia from DAIR.AI has been building LLM knowledge bases for AI research curation. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c7tlt",
+          "text": "Multiple open-source implementations hit GitHub within 48 hours of Karpathy's gist.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fkv93",
+          "text": "This isn't an experiment anymore. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enn98",
+          "text": "It's becoming standard practice for anyone doing serious research.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "capef",
+          "text": "Your Complete Prompt Library (Copy Everything)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ceon",
+          "text": "Every prompt from this article, collected in one place:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvfgb",
+          "text": "SCHEMA: Copy the full CLAUDE.md template from Step 2.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2dnh4",
+          "text": "INGEST (one source):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3csv8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2maur",
+          "text": "INGEST (batch, less supervised):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bijo4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8rtul",
+          "text": "QUERY:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "16h7e",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94sdl",
+          "text": "LINT:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1dtu0",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jl7m",
+          "text": "EXPLORE:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "alg5q",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahnev",
+          "text": "BRIEF:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "et3oo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abial",
+          "text": "Go Build It",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0d9l",
+          "text": "The difference between bookmarking Karpathy's gist and benefiting from it is one afternoon.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3f92p",
+          "text": "Pick your topic. Create the folders. Copy the schema. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88d8k",
+          "text": "Drop in what you already have. Run your first ingest.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bu0co",
+          "text": "Then do it again tomorrow with another source. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3hrel",
+          "text": "And next week with five more.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4a5tl",
+          "text": "The wiki gets smarter every time. That's the whole point.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qpir",
+          "text": "Three folders. One schema. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "193ri",
+          "text": "An AI that does the grunt work you'd never do yourself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aqv7n",
+          "text": "Stop collecting bookmarks. Start compiling knowledge.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fijuk",
+          "text": "---",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 36
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "85n00",
+          "text": "Unlock all my prompts + automations 👇",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://godofprompt.ai/complete-ai-bundle",
+                "toIndex": 41
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8kb6",
+          "text": "https://godofprompt.ai/complete-ai-bundle",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "entityKey": "2e0ab8e7-d743-4aab-a393-6370329c75c4",
+              "markdown": "```\n\"Based on everything in wiki/, write a 500-word executive briefing on [TOPIC]. Cite sources. Structure it as: current state, key tensions, open questions, recommended next steps.\"\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "a98da8c6-137d-45a0-99d1-ac332e911f3e",
+              "markdown": "```\n\"Read CLAUDE.md. Process all unprocessed files in raw/ sequentially. For each: create summary, update index, update relevant pages, log the ingest. Proceed automatically.\"\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "2e7c5eef-69c6-4df3-8388-f3d31f8b5492",
+              "markdown": "```\n\"Read the schema in CLAUDE.md. Then process [FILENAME] from raw/. Read it fully, discuss key takeaways with me, then: create a summary page in wiki/, update wiki/index.md, update all relevant concept and entity pages, add backlinks, flag any contradictions, and append to wiki/log.md.\"\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "entityKey": "be0fa451-2f56-4d7a-97f2-31bf0c7d5d6c",
+              "markdown": "```\n\"Read wiki/index.md and identify the 5 most interesting unexplored connections between existing topics. For each, explain what insight it might reveal and what source would help confirm it.\"\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "87a38d64-39be-4684-999e-46e6b6a791c6",
+              "markdown": "```\n\"Read wiki/index.md. Answer: [QUESTION]. Cite wiki pages. If this answer is worth preserving, offer to file it as a new wiki page.\"\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f447.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "12930889-dee0-4dca-b48f-e5772262fc52",
+              "markdown": "```\n\"Read wiki/index.md. Based on what's in the knowledge base, answer: [YOUR QUESTION]. Cite which wiki pages informed your answer. If this reveals new connections worth preserving, create a new page in wiki/ and update the index.\"\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "4f810010-3f66-40db-876c-bce356bc41e4",
+              "markdown": "```\n\"Run a full health check on wiki/ per the lint workflow in CLAUDE.md. Output to wiki/lint-report-[date].md with 🔴/🟡/🔵 severity. Suggest 3 articles to fill gaps.\"\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "a87e1238-7769-4913-8d75-4039980c1221",
+              "markdown": "```\n\"Run a full health check on wiki/ per the lint workflow in CLAUDE.md. Output to wiki/lint-report-[date].md with severity levels (🔴 errors, 🟡 warnings, 🔵 info). Suggest 3 articles to fill the biggest knowledge gaps.\"\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "c454e8e7-dc9b-458c-8fb9-f84396090152",
+              "tweetId": "2039805659525644595"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "b97955b6-6832-4534-bea4-9b17e7bb0878",
+              "url": "https://x.com/karpathy/status/2039805659525644595"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "6073f30f-a921-41e2-b29c-efea51a30bfb",
+              "markdown": "```\nmy-knowledge-base/\n├── raw/           # Your source material. AI reads but never modifies.\n│   └── assets/    # Images, screenshots, diagrams\n├── wiki/          # AI-maintained wiki. You read. AI writes.\n├── outputs/       # Reports, analyses, answers from queries\n└── CLAUDE.md      # The schema file that makes this whole thing work\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "ff83d3de-1423-41b5-b581-29f89840c186",
+              "markdown": "```\n\"Read the schema in CLAUDE.md. Process [FILENAME] from raw/. Read it fully, discuss key takeaways with me, then: create summary page, update index, update all relevant pages, add backlinks, flag contradictions, log the ingest.\"\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "aab781b1-829a-4c47-9b62-0c143d742f12",
+              "markdown": "```\n# Knowledge Base Schema\n\n## Identity\nThis is a personal knowledge base about [YOUR TOPIC].\nMaintained by an LLM agent. The human curates sources and asks questions. The LLM does everything else.\n\n## Architecture\n- raw/ contains immutable source documents. NEVER modify files in raw/.\n- wiki/ contains the compiled wiki. The LLM owns this directory entirely.\n- outputs/ contains generated reports, analyses, and query answers.\n\n## Wiki Conventions\n- Every topic gets its own .md file in wiki/\n- Every wiki file starts with YAML frontmatter:\n  ---\n  title: [Topic Name]\n  created: [Date]\n  last_updated: [Date]\n  source_count: [Number of raw sources that informed this page]\n  status: [draft | reviewed | needs_update]\n  ---\n- After frontmatter, a one-paragraph summary\n- Use [[topic-name]] for internal links between wiki pages\n- Every factual claim cites its source: [Source: filename.md]\n- When new info contradicts existing content, flag explicitly:\n  > CONTRADICTION: [old claim] vs [new claim] from [source]\n\n## Index and Log\n- wiki/index.md lists every page with a one-line description, by category\n- wiki/log.md is append-only chronological record\n- Log entry format: ## [YYYY-MM-DD] action | Description\n  (Actions: ingest, query, lint, update)\n\n## Ingest Workflow\nWhen processing a new source:\n1. Read the full source document\n2. Discuss key takeaways with user\n3. Create or update a summary page in wiki/\n4. Update wiki/index.md\n5. Update ALL relevant entity and concept pages across the wiki\n6. Add backlinks from existing pages to new content\n7. Flag any contradictions with existing wiki content\n8. Append entry to wiki/log.md\n9. A single source should touch 10-15 wiki pages\n\n## Query Workflow\nWhen answering a question:\n1. Read wiki/index.md first to find relevant pages\n2. Read all relevant wiki pages\n3. Synthesize answer with [Source: page-name] citations\n4. If answer reveals new insights, offer to file it back into wiki/\n5. Save valuable answers to outputs/\n\n## Lint Workflow (Monthly)\nCheck for:\n- Contradictions between pages\n- Stale claims superseded by newer sources\n- Orphan pages with no inbound links\n- Concepts mentioned but never explained\n- Missing cross-references\n- Claims without source attribution\nOutput: wiki/lint-report-[date].md with severity levels\n\n## Focus Areas\n[List 3-5 topics this knowledge base covers]\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

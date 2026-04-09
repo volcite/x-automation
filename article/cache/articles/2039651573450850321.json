@@ -1,0 +1,6799 @@
+{
+  "tweet_created_at": "2026-04-02T10:30:04.000000Z",
+  "id": 2039651573450850300,
+  "id_str": "2039651573450850321",
+  "type": "tweet",
+  "conversation_id_str": "2039651573450850321",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/dMq7SXkdk3",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 45085622,
+    "id_str": "45085622",
+    "name": "オモコロ",
+    "screen_name": "omocoro",
+    "location": "東京",
+    "url": "https://omocoro.jp",
+    "description": "平日お昼12時にレポート記事やマンガを公開するお笑いWebメディア「オモコロ」です。小さい頃、目が疲れると「遠くの緑を見なさい」と言われたことのあるライターが多数所属しています。オモコロチャンネル（YouTube）→https://t.co/Iqi00S1LtP",
+    "protected": false,
+    "verified": true,
+    "followers_count": 305431,
+    "friends_count": 13547,
+    "listed_count": 2383,
+    "favourites_count": 0,
+    "statuses_count": 61761,
+    "created_at": "2009-06-06T06:53:55.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/45085622/1558679943",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131811784946376704/z6q3hJWM_normal.png",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 107,
+  "reply_count": 1,
+  "retweet_count": 408,
+  "favorite_count": 1755,
+  "views_count": 254725,
+  "bookmark_count": 828,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2038…",
+        "expanded_url": "http://x.com/i/article/2038444598037790720",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/dMq7SXkdk3"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T10:30:04.000000Z",
+    "id": 2039651573450850300,
+    "id_str": "2039651573450850321",
+    "title": "【黒歴史】ニコニコ動画が青春だった人のあるある100選【鳥肌注意】",
+    "preview_text": "ニコニコ動画。\n2006年に開始された動画共有サービスです。コメントが動画上に流れてくるという斬新なシステムが独自の文化を形成し、若年層を中心に爆発的な人気を形成してきました。",
+    "cover_url": "https://pbs.twimg.com/media/HEoJlGMaUAA2Xa1.png",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1ebeh",
+          "text": "ニコニコ動画。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7or3b",
+          "text": "2006年に開始された動画共有サービスです。コメントが動画上に流れてくるという斬新なシステムが独自の文化を形成し、若年層を中心に爆発的な人気を形成してきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4cpct",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "78a9k",
+          "text": "現在20～30代前半のインターネットユーザーにも、多感な時期をニコニコ動画と共に過ごした人が少なくないはず。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "dcd5u",
+          "text": "ということは、ニコニコの記憶とともに青春の「思い出」が眠っているのではないでしょうか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv1tp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 46,
+              "style": "Bold"
+            }
+          ],
+          "key": "5a7rr",
+          "text": "そこで、Twitterにて「青春をニコニコと一緒に過ごした人の思い出」を募集したところ、合計2400件以上ものエピソードが全国から送られてきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 14,
+              "style": "Bold"
+            }
+          ],
+          "key": "c81p",
+          "text": "エピソードはいずれも濃密で、読んでいるだけで頭を抱えてベッドで足をバタバタしたくなるような地獄ばかり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aksff",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 55,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "drekm",
+          "text": "さて、今回はそんなニコニコとともにあった青春の記憶を黒歴史も美談もひっくるめて合計100個の「あるある」にまとめてご紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4co5m",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "45gtt",
+          "text": "それでは「※鳥肌注意※」でご覧ください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "422vs",
+          "text": "ちなみに合計25000文字ほどあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2n9t",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cr8kh",
+          "text": "くるぞ………",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8p4q5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1h1ok",
+          "text": "1. 昼の放送でニコニコ関連の曲を流す",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4fmt2",
+          "text": "●ボカロの曲を給食時間に流してもらい、ザワつくクラスメイトを見ながらニヤニヤしていました",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 58,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2c1nc",
+          "text": "●他のクラスは東方神起やAKB48など流行りの曲を流している中、ボカロ曲「裏表ラバーズ」を流してドヤ顔していました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 68,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bgjm2",
+          "text": "●中学生のとき、給食の時間東方の同人ボーカルアレンジ曲が流れることがありました。知らない子に対してドヤ顔で解説してました。忘れたいです。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bk7r7",
+          "text": "「給食の時間の放送で流した」という過去を持つ人が非常に多くいました。わざわざCDやMDに焼いてまで持っていく情熱はいったいどこからやってきたのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "v35r",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 101,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "arqn4",
+          "text": "●小学生高学年だったころ、給食の時間に教室の隅にあるCDラジカセで｢自動マリオによる創聖のアクエリオン｣や｢ランランルーの音MAD｣を流していました。今思えば原曲を流すのが恥ずかしかったんだと思います。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88ar2",
+          "text": "今思えばそっちのほうが恥ずかしい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8tek2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 60,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d9f5i",
+          "text": "●小学校の校内放送でU.N.オーエンは彼女なのか？を流したら2学年下の女の子が興奮しながら放送室まで来てすごい感謝された",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fkagv",
+          "text": "いい話ですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f64kt",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 161,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "13io5",
+          "text": "●学生時代、周囲に関係を秘密にして交際していた彼氏が、お昼休みにボカロがかかった瞬間、全クラスメイトの前で曲に合わせて熱唱して突然ワンマンソロライブをかました事をたまに思い出します。\nなんだか自分の事のように恥ずかしい思いを抱いた記憶があります。あんな人間と付き合っていたのか、とあまり蒸し返したくない黒歴史の思い出です。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b59i6",
+          "text": "うっ……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpfng",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51dnl",
+          "text": "2. ネットスラングをひけらかしてしまう",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ctahd",
+          "text": "●痛い中2だったのでネットスラングを会話に混ぜ込むのがかっこいいと思ってた時期がありました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 92,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3554g",
+          "text": "●ネットスラングを日常生活で多用して、ネットに明るい人ですアピをしていました。クラスの陽キャにからかわれて恥ずかしくなって使わなくなりましたが、今思えばあの陽キャに感謝しかないですね。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 54,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d5hc1",
+          "text": "●ニコニコのスラングしか喋らない友だちとニコニコのスラングだけで会話してました。思い出しては悲しくなります。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjanp",
+          "text": "ニコニコ関係の特殊な用語、使うだけで秘密の合言葉を言っている気分になれるんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "erd62",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cbcbc",
+          "text": "●友達に「w」とはなにかと聞かれた際に「インターネットの用語だよ、知らないだろうけど」と得意げに答えていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbm37",
+          "text": "ア～～～～。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5c4e",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvpob",
+          "text": "3. アングラ空間に詳しいという謎の優越感",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 65,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "gi1j",
+          "text": "●クラスではYouTubeが主流でニコ動を見てるのは俺と友達の2人くらいだったので、アンダーグラウンドに生きる俺カッケーと思ってた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3lr8",
+          "text": "初期はいろんな意味で無法地帯だったこともあって、漂うアングラ感に陶酔している人も多くいました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vepk",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 163,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4jk05",
+          "text": "●遊戯王MAD動画にどハマりして、「学校の連中はこんな面白いの知らないだろうな」という愚かな優越感を覚え、学校でよく「ずっと俺のターン！」と叫んでいました。\n当時は今以上にオタクに対して冷たい視線があったのでキモがられていましたが、それがより深みに嵌る契機になりました。今でも郷愁を思い出すように遊戯王MADをたまに見てます。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "btptf",
+          "text": "学校で「ずっと俺のターン！」と叫んでキモがられるのはオタクとかあまり関係ない気がする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60ei2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "endna",
+          "text": "4. ローカルブームの火付け役になる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 112,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c07aj",
+          "text": "●鉛筆の芯を削り出して鎖を作ってみた動画に影響を受け、学校の休み時間に真似してカッターで鉛筆の芯を削っていたら、｢私にもやらせて｣と友達数人が集まり、しばらくの間ローテを組んで私の鉛筆の芯を無心で削って鎖を作るのが流行った。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "48gt6",
+          "text": "●小学校の頃ドナルドMADが好きすぎて、クラス内外でらんらんるーを流行らせました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efsc7",
+          "text": "ニコニコから持ち込んだカルチャーを教室という狭い世界内で流行らせたという報告が多数。特に小学校における「らんらんるー」「ヴェルタースオリジナル」「ハゲの歌（これはFLASHだろ）」の認知度はかなり高かった様子。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aq8uj",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 110,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e1b82",
+          "text": "●小学校でドナルド・マクドナルドのMADが流行った。みんなあくまで教室でローカルに流行っているものだと思っていたらしく、「これはインターネットで全国的に流行っているコンテンツだ」という旨を伝えたら、嘘つき呼ばわりされた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fjng",
+          "text": "インターネットというテクノロジーがあってなお閉じられた空間はなくならない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fnnl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f139l",
+          "text": "5. 布教者になろうとして失敗する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 97,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f735v",
+          "text": "●女子高生の頃、手紙交換が流行っていたのですが、その時渡す菱形に折った手紙の裏に、好きなボーカロイド曲の歌詞の引用を書くことで控えめに布教しつつ、オタクを炙り出す、、、というのをやっていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 58,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fn3nr",
+          "text": "●東方のにわかオタクであり周りの友人に布教しようと躍起になっていた結果、友人との距離の取り方がわからなくなり孤立した",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3vcvi",
+          "text": "誰もがザビエルにはなれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbkus",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "13tk7",
+          "text": "6. 黒板にスラングを書く",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 51,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "avk25",
+          "text": "●東方projectに傾倒していて黒板に「( ﾟ∀ﾟ)o彡°えーりん！えーりん！ 」の落書きをしていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1n9kl",
+          "text": "●ボーカロイドの「惡ノ娘」シリーズにどハマりし昼休み黒板に自分の妄想したシリーズの続編「黒ノ娘」の歌詞を書き綴っていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 66,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eovic",
+          "text": "●小学校高学年の時、黒板の日直の欄に『魔理沙』や『妖夢』など好きな東方キャラの名前を勝手に書いて、オタク男子のウケを取っていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "801eo",
+          "text": "教室の黒板は小さなインターネット。そこに（本人的には）さりげなく自我を出す人がたくさんいました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2o937",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 151,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3cghl",
+          "text": "●中学一年最初のクラスの前での自己紹介で( ´•ω•` )の顔文字をデカデカと書いた紙を黒板に貼り、しょぼんというキャラクターについてオタク語りをした後「インターネットが好きです。2chやニコ動をよく見る人はぜひ話しかけて友達になってください」と言い誰にも話しかけられず中学時代友達ができませんでした。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3li1e",
+          "text": "( ´•ω•` )",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19jfa",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 138,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "248no",
+          "text": "●イジられ待ちでコメントで覚えた┌(┌^o^)┐の顔文字を黒板の中央に描いておいたら、先生に冷静に「消しなさい」と言われ、静まりかえった教室の前に出て消したことがある。下手に怒られるより恥ずかしかった。\nあとで友人に「いや〜らくがき消し忘れちゃったw」と無意味な言い訳をした。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "tfb0",
+          "text": "┌(┌^o^)┐",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aigsa",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vve5",
+          "text": "7. 学校で踊る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2in04",
+          "text": "●学校の廊下でウッーウッーウマウマをオタク仲間と踊り狂った",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 103,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cteae",
+          "text": "●体育館の2階にほとんど人が通らない通路があり、そこで友人とハレ晴レユカイやボカロ曲の踊ってみたを練習していました。\n特に披露する場もないのに。時々走り込みをする陸上部がそこを通り、気まずい思いをしました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "edg3d",
+          "text": "思春期のリビドーを踊りで発散していたのかどうかはわかりませんが、一部の中学生はなぜか急に人に見えるところで踊ります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2hoi",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 77,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6c7lo",
+          "text": "●中学校のダンスの授業でハチさんの「マトリョシカ」を踊って完璧に浮いた経験があります。まだ「米津玄師」ではなかった時代です…今なら周りの視線も違うのかな…",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bdq23",
+          "text": "今や園児がパプリカを踊っている時代。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bc9qi",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 98,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7r70m",
+          "text": "●中学生の頃、部活中(美術部)にハレ晴レユカイを踊ってたら顧問に見られ、美術準備室でアカペラ・サシでハレ晴レユカイを踊る羽目になった。顧問は「一生懸命踊れば案外見れるものねぇ」と謎の感想をくれた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "caapb",
+          "text": "やめてくれ、胸が痛い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "quke",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efl16",
+          "text": "8. バスの中で歌う",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "15avu",
+          "text": "●林間学習のキャンプ地へ向かうバスの中で「人柱アリス」をマイクで熱唱した。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6r8ob",
+          "text": "●修学旅行のバス内カラオケで「エアーマンが倒せない」を歌った。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9pg0u",
+          "text": "●小学校の遠足で、みんなで一日中『男女』を歌ってた。 帰りのバスでは、ニコ動を見てないやつもみんな歌うようになってた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fsvpm",
+          "text": "修学旅行やらのバス内で順番に歌わされる文化ありましたよね。なんであんなことさせるんだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esq68",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9om60",
+          "text": "9. リコーダーで真似する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cgbe4",
+          "text": "●あの削除動画で流れるリコーダーのやつをとりあえず真似する。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ejlt7",
+          "text": "●学校の休み時間にリコーダーでボーカロイドの曲を吹く。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8c6bh",
+          "text": "●音楽の授業中、リコーダーでにーっこにっこどーがを吹いてクラスで人気者になりました",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5hjo3",
+          "text": "オタクは急に踊るし、歌うし、笛があれば吹く。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d4euf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ebh2i",
+          "text": "10. パソコンの授業でニコニコを見る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 54,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eegmg",
+          "text": "●パソコンの授業で自由時間に周りの生徒が青鬼をしていたので、隣で青鬼の倍速実況プレイを見て、注目を得ていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 63,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a94lv",
+          "text": "●パソコンの授業の自由時間(自由に調べ物をしてもいい時間)で、これみよがしにニコニコ動画を開いていた 特に腐女子は全員やってた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "scmn",
+          "text": "パソコンの授業は「おれこんなの知ってる」をひけらかせる最高のステージ。パソコン室の独特の匂い懐かしいな。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "54g0l",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ar3d",
+          "text": "11. クラスの友だちと合唱する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "68u43",
+          "text": "●中学時代、ヘタリアの音MADを覚えるほど聴き込み、学校でオタク仲間と合唱していました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f7oc0",
+          "text": "●教室の後ろの方でボーカロイドの楽曲を友人と大合唱していた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fuuiv",
+          "text": "●組曲「ニコニコ動画」を誰かが歌い出すと、その場のオタク達が次々に合流し、最終的には最後まで合唱になる。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ckrcf",
+          "text": "教室の後ろの方で開催される、オタクのウィー・アー・ザ・ワールド。この報告めちゃくちゃたくさんありました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4gfdm",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4iind",
+          "text": "●中学の給食の時間ボカロが流れる度に男子たちの合唱が始まり女子たちからは冷たい視線を貰ってた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7kba5",
+          "text": "こんなふうに白い目で見られることもあれば、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "s8sk",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "abija",
+          "text": "●高校の頃、クラス全員がオタクだったので皆んなでニコニコ動画組曲やニコニコ動画流星群を合唱していました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3uhc6",
+          "text": "幸運なパターンも。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arg4u",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "am3la",
+          "text": "12. オープンニコ厨にマウントをとる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 79,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "125g5",
+          "text": "●給食中に流れる校内放送でボカロ曲が流れるとはしゃぐオタクをオープンにしている生徒を横目に、表向きには知らないふりをしながらも心の中で流れる曲を楽しんでいた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7c9pg",
+          "text": "オタク＝陰　というのは一面的。実際は、その趣味をオープンにする「陽のオタク」と、そんな様子を見て「へっ」と思っている「陰のオタク」が存在します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9a3a",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 210,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9127r",
+          "text": "●クラスでは所謂\"オープンなニコ厨\"たちがドナルドやテニミュの音MADをそれなりの声量で歌ったりしていて、彼らのことを心から見下していた。\n「本当に恥ずかしいからやめてほしいよね……」と白い目を向けながら、隅っこで静かに共有できるタイプの友達とだけ、面白い動画の情報を交換し合っていた。\n動画コメに対しても「この中に混ざりたくない、同じだと思われたくない」という意識が強かったため、一度もコメントを書き込んだことはない。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fohjk",
+          "text": "お前、カッコいいぜ……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9plkp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "20ulc",
+          "text": "13. 文化祭の出し物で輝こうとする",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "76fm6",
+          "text": "●文化祭のステージで「やらないか」を踊ろうとする。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 89,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9m0sd",
+          "text": "●文化祭でニコニコ動画関連の曲ばかり演奏した。編曲の出来る有志たちが楽譜を作り、当日は全員コスプレして参加、楽曲に関連のある小物(ネギなど)を各々持ち寄って演奏中振り回していた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c0qe0",
+          "text": "●サザエさんの全自動卵割り機回を文化祭で演劇として上演してしまいました",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5oqje",
+          "text": "オタクに無礼講を与えるとろくな事にならない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7gfop",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "anmm4",
+          "text": "●文化祭でニコ厨のクラスメイトとハレ晴レユカイを踊る",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8k97d",
+          "text": "文化祭でハレ晴レユカイを踊ったという報告多数。なんだかんだでいい思い出になった人も多いみたいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "o6n7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2n5qi",
+          "text": "●文化祭で流して欲しい曲のリクエストに「思い出は億千万」と書いたら、郷ひろみの「2億4千万の瞳」が流れた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71uh2",
+          "text": "いい話。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ome7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "funba",
+          "text": "14. 合唱曲でボカロを推す",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 87,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4fop4",
+          "text": "●ワールドイズマインを中学の合唱祭で歌う曲として提案した。提案は黒板記載式で、英語＝カッコイイと思っていたので、「W.I.M（world is mine）」とドヤ顔で書いた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 47,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1nlgk",
+          "text": "●卒業式の合唱のときに、突然みんなに楽譜配ってピアノ乗っ取って人柱アリス歌わせようって話してた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9p12f",
+          "text": "カルチャーへの目覚めをニコニコで経験すると、世の中の良いもののすべてがニコニコにあると思ってしまいがち。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cf1lp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42up1",
+          "text": "15. 卒業シーズンは「桜ノ雨」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "796a5",
+          "text": "●卒業式で「桜ノ雨」を歌うための署名運動をしたが、美術部と科学部の数人分しか集まらなかった。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ah0s8",
+          "text": "●当時の教師に卒業式には桜ノ雨を歌いたいと打診する。革新的な事をする自分……！と思っていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bh8rp",
+          "text": "●学年の大半がニコ動を見ていたため中学3年最後の学年合唱曲が桜ノ雨になった",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehvqg",
+          "text": "オタクは「オタクじゃない人に『いいじゃん』と言ってもらう」という体験が大好きなので、歌詞が普遍的な「桜ノ雨」を推す勢いは凄まじいものがありました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qol5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 55,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "23gft",
+          "text": "●校歌を新しくしようってなった時に名曲桜ノ雨の歌詞からめちゃめちゃ引用したにも関わらず普通に全無視されました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7hihf",
+          "text": "普通に盗作だろ！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6oeb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cs2gf",
+          "text": "●桜ノ雨を卒業式で歌ってめざましテレビに出た",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "34fd",
+          "text": "めざましテレビに！？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ali1j",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ccaug",
+          "text": "16. ノートに歌詞を書く",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8t9bb",
+          "text": "●好きなボカロ曲の歌詞を授業中に全部書き出して歌詞ノートみたいにして遊んでいた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fopv9",
+          "text": "これはもう、ニコニコ登場以前から伝統の思春期しぐさではないでしょうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "83bks",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8n6lg",
+          "text": "●ボカロ曲の歌詞をノートに書き出し、クラスの黒板に貼り付けたことがある。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2pnti",
+          "text": "●授業中ノートに動画プレイヤー描く",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4isfc",
+          "text": "なんでそんなことするんだろうな。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "99ing",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5smsv",
+          "text": "17. ボカロにあこがれて機械音声で歌う",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 60,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c8raj",
+          "text": "●卒業式で歌う「旅立ちの日に」を初音ミクが歌った音源で覚え、合唱の練習中も初音ミクの真似をして機械的な発音で歌っていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "82tks",
+          "text": "●普段の生活でも機械音声を真似て話したり、歌ったりしていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eij84",
+          "text": "こういう青春もある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qr3o",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5k57",
+          "text": "18. 机に歌詞を書く",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 67,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "79thl",
+          "text": "●机に「魔理沙は大変なものを盗んでいきました」等IOSYS作品の歌詞を落書きしては、何も知らないクラスメイトに見せびらかしていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 80,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "crc8v",
+          "text": "●中1の時、ニコニコ動画組曲やニコニコ動画流星群などの好きな部分の歌詞をを机に書いてクラスメイトから「それ何？」と聞かれるのを全力待機していた(聞かれなかった)",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9e0pv",
+          "text": "●フォントまで真似た「マトリョシカ」の文字を机に彫ってた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48g4l",
+          "text": "ドワンゴは「マトリョシカ」が彫られた机を買い取って文化財として保存しておいたほうがいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "81vb7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cgteo",
+          "text": "19. 卒業文集に残る爪痕",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8kb1q",
+          "text": "●中学校の卒業文集に「一生ニコ厨」と書いた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 51,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7ik7v",
+          "text": "●卒業文集の中に、自分のイメージをみんなに書いてもらう欄があったのですが、ニコニコ動画と書かれました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cje82",
+          "text": "あと10年経てば自分で笑えるようになる日がたぶん来るから……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cf78h",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a1h6l",
+          "text": "20. 朝読書で張り切る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f6nm0",
+          "text": "●中学の朝読書の時間にアイマスのSSを印刷してファイリングしたものを読んでいた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ke89",
+          "text": "これは真の男にしかできない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2b8i3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8nhfo",
+          "text": "●国語の授業中にボカロ曲を題材にした小説を読み、『これも国語』と言い張る",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9cgtv",
+          "text": "休み時間に読め。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5vnk3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nh0u",
+          "text": "21. 歌詞を考察",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 71,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dmt3i",
+          "text": "●友達と交換ノートで初音ミクの人柱アリスや鎖の少女など重めの曲の自己解釈や歌詞の考察をひたすらに綴っていました。そのノートは後に燃やしました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ruap",
+          "text": "焼かなくてもいいのに。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "alpvm",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 77,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "59glc",
+          "text": "●中学生の頃、教室の机に暗い系のボカロ曲の考察を書いたまま消さずに帰り、次の日見たら新たな考察が書き足されていました。誰が書いたのかは未だに分かりません。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agl1p",
+          "text": "ロマンチック・オタク。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94ger",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4neo1",
+          "text": "22. カゲプロに影響を受ける",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 97,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2psq1",
+          "text": "●カゲプロ全盛期で、動画が投稿されるたびに友達と裏の意味を考察したりして盛り上がっていました。 学校では「メカクシ団」を結成していて、団員ナンバーやその番号のキャラ名で呼び合ったりしていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 67,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "27g73",
+          "text": "●カゲプロにハマった集団がGREEの自分のアカウント(2012~13年の中学生は全盛期で友達はほぼ同じ中学)でなりきりアカウントを作る",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "32a2t",
+          "text": "自然の敵P（じん）の楽曲から派生した『カゲロウプロジェクト』シリーズが一世を風靡。思わず真似してしまった人が多数いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgf95",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "mnnv",
+          "text": "●カゲプロの見過ぎでよくフードを被って生活していた(かっこいいと思ってた)",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c7kmb",
+          "text": "「フードをかぶるのはかっこいい」という価値観、なぜか幅広い世代の思春期に支持されている気がしますね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9hdbj",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 75,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7muq7",
+          "text": "●カゲプロが流行り、オタク友達がカラオケで「カゲロウデイズ」や「チルドレンレコード」などを歌う中、「人造エネミー」を歌うことで格の違いを見せつけていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8kobm",
+          "text": "格差、小さっ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3iq00",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8rhve",
+          "text": "23. 『ニコニコ動画流星群』などを暗記する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d6c4a",
+          "text": "ニコニコで流行した曲をメドレー方式でつなげた「ニコニコ動画流星群」や「ニコニコ動画組曲」は、ニコニコユーザーの帰属意識の受け皿として甚大な支持を受けていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 62,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "oqu1",
+          "text": "●ニコニコ動画組曲、裏組曲、流星群、七色のニコニコ動画の替え歌(特にテイルズ)を聴き覚えソラで歌えることがステータスだった。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 76,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "63ks1",
+          "text": "●小6のころ、組曲ニコニコ動画やニコニコ動画流星群の歌詞(正確には｢原曲で再現してみた｣のもの)を全部ノートに書き写して覚え、下校中に友達と歌っていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4sqm",
+          "text": "ノートに書き写しては暗唱していた人が多数。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bv30v",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 87,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "66i73",
+          "text": "●部活終わりの同級生があまりいない帰り道に友達とニコニコ流星群を歩きながらフルで歌って帰っていました。歌い手ごとにアレンジが違ったので、それぞれ好きな合いの手を入れてました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 56,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "j49a",
+          "text": "●下校中に友達と2人で自転車を漕ぎながら、一緒にニコニコ動画流星群のお互いがわかるところを交代で歌っていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 64,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "76jol",
+          "text": "●クラスの友達と、組曲や流星群の歌いあいっこをしていた。(同じ曲が使われてるから混ざって難しいねと笑いあったのはいい思い出です)",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85bfc",
+          "text": "青春じゃん……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5nm00",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mho6",
+          "text": "24. 登下校中に頭の中でニコニコ動画流星群を流す",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 72,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dnqki",
+          "text": "●自転車通学だったのですが、学校から家までの距離がちょうどニコニコ動画流星群を歌い切るくらいの長さだったので毎日一人で熱唱しながら帰ってました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmo4e",
+          "text": "同じエピソードを書いてる人が沢山いました。すごく長い曲なので、ボーッとしながら移動する小中学生には脳内再生にちょうど良かったんですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c315t",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8cnq",
+          "text": "25. 感情移入しすぎて泣く",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9fikv",
+          "text": "●好きなボカロPの曲を聴きながら深夜に布団で3DSを抱きしめながら号泣した。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 61,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "es6ar",
+          "text": "●東日本大震災後、眠れず毎晩ニコニコ動画を見て気を紛らわす生活が続く中、ふと聴きに行った初代「Smiling」で号泣した。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 91,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4afmd",
+          "text": "●好きだった投稿者が大炎上して済し崩しに引退した時ショックで号泣して朝から目を腫らして学校に行った。授業の後、その投稿主の動画をよく見ていた同じ部活の友人と手を取り合ってまた泣いた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "br64j",
+          "text": "「手を取り合って泣く」って実際にあるんですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "767a7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ncb8",
+          "text": "26. クイズを作る",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 62,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8bllf",
+          "text": "●オタク友達と「ニコニコ動画常識クイズ」を出しあっていた(例:Q.ニコニコ動画御三家とは何か A.ボカロ アイマス 東方 )",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4t6i5",
+          "text": "オタクはクイズが大好き。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brhoc",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 93,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8d4mh",
+          "text": "●はじめの頃はまだコメント数も少なかったので、友達とお気に入りの動画を紹介し合い、「この動画にわたしがつけたコメントはど〜れだ？！」というクソつまんねえクイズを出し合ったりなどしていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eir1k",
+          "text": "しょうもなさすぎて可愛い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7kog",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "atbvn",
+          "text": "27. 涼宮ハルヒ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 64,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9p854",
+          "text": "●正直ハルヒのアニメはしっかり見たことがないが、ニコニコで流行っていたので未だにOPEDからキャラソンまで歌える、なんなら踊れる",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fg5hl",
+          "text": "ハルヒダンスを踊る突発オフ会などもありました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4id0k",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fahnr",
+          "text": "●誰もいない体育館のステージでハルヒのGod knows...のモノマネをしてた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6stlg",
+          "text": "「マジ」だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ci5vk",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4tk73",
+          "text": "28. Youtubeを見ている人への謎の上から目線",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8b86k",
+          "text": "●YouTubeを使い始めた人に対してまだそれかぁ的なマウントを取るために使ってました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 64,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8gu4g",
+          "text": "●ニコ厨と名乗り、youtubeのことは「ようつべ」と嘲笑うように呼んでいた。(※あ〜その動画ようつべにはうpされてないよw等)",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ak571",
+          "text": "会員登録しないと見られなかったこともあり、You Tubeに対する優越感を抱く人も多々いたようです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fbdq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ejs6g",
+          "text": "29. ニコニコで年を越す",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "femdl",
+          "text": "●大晦日に紅白やガキ使そっちのけで「ニコニコ動画流星群」にコメントしていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b3u00",
+          "text": "●大晦日、紅白も他のテレビも見る気なかったがニコ動のカウントダウンだけはかじりついて待ってた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c74t6",
+          "text": "PCの時計を正確にするために、正確な時間が表示されるサイトを使ったりしていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1o1ie",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3mkt2",
+          "text": "30. 学業に支障をきたす",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a94fq",
+          "text": "●中三でウマウマ動画を作りまくり高校受験に失敗した。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7qk64",
+          "text": "●受験勉強をサボってマウスで手書きMADを作っていたら受験に落ちました(動画は完成しました)",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2cem",
+          "text": "動画は完成してよかったね……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jjsn",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7rcdd",
+          "text": "31. 投稿しているのがクラスの人にバレる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 74,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dakev",
+          "text": "●同級生の男の子が歌ってみた動画を投稿していて更に生放送もやっていました。全く違う名前で生放送に行きファンを装いその子の反応を見て楽しんでいました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4o80f",
+          "text": "読んでるだけで背筋がヒヤッとしますね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ldr8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 102,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8g5uc",
+          "text": "●中学時代、クラスの根暗男子が歌ってみたを投稿していたのですが、それを嗅ぎ付けた陽キャ男子達が動画に「おっす〇〇(苗字)！元気にしてる？」等のコメントを残していき最終的にクラスの裏掲示板と化していました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5at3m",
+          "text": "胃が痛くなってきた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qusc",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4of28",
+          "text": "32. 動画を投稿するも再生数が伸びずにくじける",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 68,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ebkq6",
+          "text": "●Windowsのペイントでマウスで描いた絵を使って歌ってみた動画を作成し投稿（オリキャラが白雪姫を助ける）。再生数8くらいで動画を削除",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6cl3m",
+          "text": "「ミリオン」や「殿堂入り」は、遠い夢……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "745jv",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 154,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8j1md",
+          "text": "●中1とかの時幼馴染とノリで実況動画を投稿したけど再生数が100くらいしか行かなくて、伸びねぇ〜！って二人で笑ってたけど、その後お互い住む場所も変わって忙しくなって会えなくなって、なんとなくお互い連絡を取らなくなってからも、たまに自分たちで投稿したクソみたいな実況動画を再生して当時の幼馴染に会いに行ってます",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18ds3",
+          "text": "再生数の少ない動画にも、それぞれこういう物語が隠れている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8651i",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4bsd",
+          "text": "33. 早口な曲にハマる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dcke4",
+          "text": "『初音ミクの消失』を筆頭とする、人間には不可能な早口ソング。なぜか思春期のハートを射抜きました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 95,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9k0ct",
+          "text": "●当時VOCALOIDにハマっており、にこさうんどでMP3をダウンロードしてCDに焼いていた。親が車に乗せてくれる時、｢初音ミクの消失｣をかけて、早口の歌詞をドヤ顔で歌った。親は真顔だった。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 93,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "29a82",
+          "text": "●初音ミクが早口で歌っている曲があるのですが、それを噛まずに歌えるという\"特技\"を学級会で披露したところ、卒業文集で「将来大物歌手になってそうな人ランキング」1位を頂いたことがあります。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9c8o1",
+          "text": "なんとも言えない後味の残る思い出。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eulo3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arjsl",
+          "text": "34. 学校から帰ってきたらランキングを見る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8cpom",
+          "text": "●学校から帰ってきたらとりあえずニコニコ動画でボカロのランキングをチェックする。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 128,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "v720",
+          "text": "●中学生の頃、家に帰ってパソコンを開いたらまずボカロのランキングを毎日欠かさず見ていた。新しい曲が上がってたら真っ先に聴いて、気に入ったらWALKMANにmp3で落として、翌日友達とイヤホンを半分こして聴いていた。曲の感想を言い合ってる時が一番楽しかった。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e4odu",
+          "text": "「VOCALOIDランキング」を欠かさずチェックしていた人多数。その代わり、J-popの流行にはとんと疎くなってしまった人も多数（でもそれはそれで格好良いと思っている）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fg36b",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7q1v8",
+          "text": "35. カラオケで歌える曲が極端に偏る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 56,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ej11i",
+          "text": "●クラス会のカラオケで東方アレンジ楽曲「魔理沙は大変なものを盗んでいきました」を熱唱し、ガチのドン引きをされた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e51go",
+          "text": "●大人になってからいく合コンや飲み会でカラオケにいったとき、学生のときに流行ったバンドとかの曲が歌えない",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6e6u2",
+          "text": "おっくせんまんを歌え！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2l584",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1ce",
+          "text": "36. カラオケで歌い手が作った替え歌バージョンを歌う",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7bmai",
+          "text": "●替え歌動画にハマっていた時、カラオケでお構いなしにその替え歌の方で歌を披露して友達に苦笑いされた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91ekc",
+          "text": "「ニコニコのノリ」×「特定の歌い手の内輪ノリ」が起こす化学反応。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6lhf8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bahak",
+          "text": "●カラオケで友人がバラライカを入れ、ヤラナイカに替え歌して歌っていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3tj1q",
+          "text": "同じことをやってる人がめちゃくちゃいました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "331bq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3f5rf",
+          "text": "37. カラオケはJOYSOUND",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 82,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "778sd",
+          "text": "●マトリョシカがJOYSOUNDに入ったその日に友人とカラオケに駆け込んだ。当時はカラオケに入っているボカロ曲が少なく、○日にこれが入る！と物凄く盛り上がっていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "421g2",
+          "text": "今でこそかなりの曲が歌えますが、当時はJOY以外『みっくみくにしてあげる』とかしか入ってませんでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c916p",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e672c",
+          "text": "38. 見すぎて親がブチ切れる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "de97t",
+          "text": "●ニコ動の見すぎで親に3DSを逆開閉され壊された。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 87,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1dd48",
+          "text": "●初めてテニミュの空耳を見たときに爆笑してしまい、二階に電子機器を持って上がるのを親に禁止されているにも関わらず二階でスマホをみているのがバレてぶち怒られたことがありました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dg52d",
+          "text": "こんなに不健全そうなコンテンツもなかなかないので、親が怒るのもむべなるかな……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "er5e5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "83fci",
+          "text": "39. 歌い手・踊り手・ゲーム実況者に恋してしまう",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9cs15",
+          "text": "●上履きに好きな歌い手と自分の相合傘を書き込む。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 77,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5ddmm",
+          "text": "●鹿児島に住んでいる生主にガチ恋をしていて、当時住んでいた神奈川から鹿児島までの直線距離を地図帳で確認しては赤い線を引き、ハートマークまでつけていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 115,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c3h5u",
+          "text": "●ゲーム実況者にガチ恋し、主観で嫌なコメントのユーザーをブロックし続けていたら大体のコメントがなくなりました。深夜の生放送が好きだったんですが、当時中学生だったので舐められないようにOLのキャラを演じていたら歳が30を超えました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1111k",
+          "text": "タレントや二次元と違い、彼らは絶妙に身近なオトナに見えました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "90o29",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "905ic",
+          "text": "40. エロに目覚める",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eo8t2",
+          "text": "性的な暗喩が含まれるボカロ曲など、ニコニコはオトナの世界への入り口でもありました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 139,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fd78k",
+          "text": "●ニコ動でボカロを漁っていた私に友人が裏表ラバーズ(初音ミク)の歌詞の意味を教えてくれた。当時中学生でエロに関しては無知だったので「そんなハレンチな...！」と歌詞の内容に強い衝撃を受けた。\n次の日に他のヲタク友達に「裏表ラバーズの歌詞の意味知ってる？」とマウントを取っていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4mfnb",
+          "text": "歌詞の考察、だいたい妊娠とかに行き着きがち。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "er245",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 67,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bu5pf",
+          "text": "●当時小学生だった弟に教えたところ、初音ミクのエッチなイラストばかり描くようになってしまい、とんでもない事をしてしまったと思いました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6s3tc",
+          "text": "お前さんのせいで弟の人生がめちゃくちゃだよ！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9d139",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88h8a",
+          "text": "41. ニコニコ内で見られる最大限のエッチ動画を探す",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7nv3s",
+          "text": "●ずっとエッチなゲームのPVを見てました（未成年のため買えなかったので）",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 80,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "14vot",
+          "text": "●グラビア系のちょっとエッチな動画が投稿されてた際に「続きを見るにはわっふるわっふるとコメントしてください」と表示されわっふるわっふると馬鹿正直にコメントした。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 58,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9li24",
+          "text": "●小中学生の頃は血眼になって性器や乳房の見れるエロ動画を探したが最終的に動物の交尾動画などに行き着き時間を浪費した。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fi3hh",
+          "text": "見ようと思えばもっと本格的にエッチなサイトを見ることもできるが、それはなんか怖いのでニコニコの中で探す人が多々いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9s92d",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8essu",
+          "text": "42. 履歴を見られて恥をかく",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 91,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3bsgm",
+          "text": "●アカウントが姉と共用でしたが、ネットリテラシーが皆無だったので履歴を全て見られていたことに気付かず、中学生の欲望のままに動画を見漁っていました。今思い返すと消えてなくなりたいです。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7g3h",
+          "text": "これは現在進行系でYou Tube履歴においてやらかしている小中学生がいるはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jg62",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 80,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ea662",
+          "text": "●当時小3で、家族用パソコンで「おっぱい」と動画検索したら、それが打ち込むときに出る検索履歴からどうにも消せなくて、めちゃくちゃ焦って自分からお母さんに暴露した",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7t6p6",
+          "text": "もうこんな悲劇が繰り返される世界になってはいけない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7u41t",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e57vm",
+          "text": "43. 釣り動画に騙される",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9f3j4",
+          "text": "●釣り動画にキレてひたすら「バカバカバカバカバカバカバカバカ」コメしてた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fel6f",
+          "text": "釣り動画を作ったやつも本望だろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bldob",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aj2l7",
+          "text": "44. 最初、なにか怖いサイトだと思って怯える",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ck2k1",
+          "text": "●youtubeと違って会員登録が必要だったため、なんだか怖いサイトだなあと思っていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8n0o0",
+          "text": "会員登録がいるし、なんかアウトローっぽい感じがするし……ということで、アングラ的なものとしてこわごわ触っていた人も多いようです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "445q8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 65,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "15h7m",
+          "text": "●メールアドレスが無いとアカウントが作れなかったので父のメールアドレスを勝手に使ってしまおうかかなり葛藤してバレるのが怖くてやめた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgcor",
+          "text": "やめたのかよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69iik",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e82c9",
+          "text": "45. アカウントがないので外部サイトから観る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4u0o2",
+          "text": "●中高生だったころの僕はニコニコのアカウントを持っておらず、nicozon（アカウントなしでも視聴ができる外部サイト）を利用していました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "asm3a",
+          "text": "そもそも「メールアドレス持ってない」という子どもも多かったので、よそのサイト経由で見てる外様ニコ厨もけっこういました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2udg",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "238if",
+          "text": "46. Youtubeに転載されたコメント付き動画を観る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 238,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6a88m",
+          "text": "●当時は親がネットに不慣れで、ニコニコ動画の会員になると高い通信料を取られると思っていたらしく、ニコニコ動画を見ることはできませんでした(家族共用のノートパソコンだったので) 。\nしかし、YouTubeなら安全だろう、ということでOKをもらい、YouTubeに転載されたコメント付きの動画を片っ端から見ていました(そのためかニコニコ動画本家でコメントしたい、という妙な憧れがありました) 。\n転載されたチャージマン研【コメント付き】を毎日3話ずつを見て夏休みを潰していました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eq76e",
+          "text": "メールアドレス登録→よくわからない原理でお金を取られる　という図式が染み付いている人はいまでも結構いますね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eg4md",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 54,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a1je3",
+          "text": "●親にニコニコ動画の登録を許されずYoutubeで転載動画を見ているヲタクにマウントをとったりしていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddf4l",
+          "text": "それを下に見る者もいる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnhso",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82cok",
+          "text": "47. 登録するために初めてメールアドレスを取得",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4mij",
+          "text": "●ニコニコ動画の会員登録をするために人生で初めてメールアドレスを作りました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fk1eh",
+          "text": "絶対にニコニコを見たい……！ という思いからメールアドレスの作り方を調べた人も多々。こういう情熱がネットリテラシーを少しずつ形作っていた頃が、ありましたね……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f217m",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2c0hj",
+          "text": "48. 家族共用のパソコンで見る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2aq7t",
+          "text": "＠画像23枚目",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "48hn0",
+          "text": "●自分のパソコンは無く、リビングの家族共用のものしかなかったので、深夜に親が寝静まったのを確認してこっそり動画を見ていた。(でもバレてた)",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 54,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "drv5n",
+          "text": "●家族のいるリビングでスリープにしていたパソコンから大音量の｢ニーコニコ動画♪｣の気まずさは忘れられません。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28b9g",
+          "text": "親のパソコンを使わせてもらって見るニコニコのスリル。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33b9h",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 58,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dbtuj",
+          "text": "●マジLOVE1000%の公式動画を700万再生達成させるためにリビングの家族兼用のPCでエンドレスループさせていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85der",
+          "text": "やめなさい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "54klj",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1gljn",
+          "text": "49. 「大人」との交流にドキドキする",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 251,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6ac22",
+          "text": "●視聴者が十数名の小さなコミュニティの中で年上のお兄さんお姉さんは年齢性別職業関係なくお話しできることがとても楽しかったです。特に仲良くなった人とは放送外でスカイプで通話したりしました。\nよく覚えているのは、ガンダムのセリフ集を順番に真剣に読むという謎の遊びでした。大爆笑しながら通話してました。\n今思うと成人した大人の方がこんな中学生のガキを相手に一緒に会話して本当に楽しかったのかと疑問に思いますが、もし本当に一緒に楽しめていたのならば、年齢性別職業に縛られない最高の空間だったのだなと思いました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4soeq",
+          "text": "ネット越しに「大人」と交流していると、対等な会話をしているというだけで誇らしい気持ちになれた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "81dvr",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2p0vi",
+          "text": "50. ニコニコ広場で知らない人と会話",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "12hgk",
+          "text": "●毎晩ニコニコ広場で知らない人たちとチャットして遊んでた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2b5tp",
+          "text": "不特定多数とチャットできるよくわからないサービスでしたが、よくわからないがゆえに色々な使い方をされていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 98,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2oa1d",
+          "text": "●小学4年生当時、ニコニコ広場で暇を持て余していた男性に(兄がプレミアム会員登録していたため使えた)濃いピンクの文字で構ってあげたところ女神扱いされしばらく広場で女神と召使いごっこをしていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "gvd",
+          "text": "よくわからなすぎるな。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9eu18",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "884hg",
+          "text": "51. 時報タイムに一瞬のコミュニケーション",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5u2go",
+          "text": "ニコニコ動画には、「ニコ割」という動画再生中にいきなり時報などが割り込まれる謎のシステムがありました（今もあります）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2ein",
+          "text": "時報中にコメントを書き込むこともできたので、その一瞬に会話らしきことをする文化がありました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "apeds",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9ca4d",
+          "text": "●時報で 「ぬるぽ」「ガッ」のやりとりをしていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53qr2",
+          "text": "当時でもまあまあ古かった気がする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ql9s",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cjids",
+          "text": "●好きなゲーム実況者の動画のURLを時報の時に連投してた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b15tu",
+          "text": "書ける場所があれば推しを知らしめたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15vua",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fd2qg",
+          "text": "●時報UZEEEEって打ちたくて夜更かししてた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6j3a",
+          "text": "「時報をウザがる」というのがひとつのミームだったんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9nn0e",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f338i",
+          "text": "52. オフ会に足を運ぶ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ka1v",
+          "text": "ネットで知り合った人と直接会う「オフ会」は、歌ってみた・踊ってみたコミュニティを中心に各所で行われていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 119,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 32,
+              "offset": 120,
+              "style": "Bold"
+            }
+          ],
+          "key": "2idtp",
+          "text": "●もうすぐ20歳になりますが、不登校だったので小学5年生くらいからニコニコ漬けでした。（中略）最初はニコ生ばかり観ていたので小学生でオフ会参加とかもしたり、中学生になってから実況者ファンオフや街会議にも参加しました。そこそこの黒歴史です。\n正直あの頃が人生で一番楽しかった事には変わりないと思っています。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aco5v",
+          "text": "学校以外のコミュニティを知るきっかけになった人も。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e50bj",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 159,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1tda",
+          "text": "●苦い思い出としては、そのニコ生で知り合った男性と踊ってみた動画をあげようと言う話になった事です。\n集まってみると全く知らない人たちも一緒で、すでに出来上がった輪の中に馴染むことができずせっかく覚えたダンスも踊ることなくなぜか盆踊りを踊って終わった事がありました。今思うとめっちゃ危険だし恥ずかしかったので黒歴史です。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cob9d",
+          "text": "なぜだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6k7mr",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33kva",
+          "text": "53. 両声類にあこがれる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8o1j",
+          "text": "「両\"声\"類」とは、男性ボイスと女声ボイスの両方を出せる人のこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9e3o2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 112,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5f5vr",
+          "text": "●両声類の歌い手に憧れ、音楽の合唱の時間に頑張って練習した低い声でこっそり男性パートを歌っていた。\nなお普通に「なんか女子側から変な声がする〜w」とバレ、教師から真面目でない生徒と判断された結果音楽の成績は2に下げられてた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bajoo",
+          "text": "なぜかこういうのを実戦に投入して大怪我する思春期が後をたちません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2rlr",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6743q",
+          "text": "54. 女だとバレないように偽装する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f7hpv",
+          "text": "●「ゲーム実況は男が見るもの」というなぞの空気があり、男の振りをしてコメントしていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 98,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "el08m",
+          "text": "●「オタクの」「それなりに成熟した」「男性」しか存在を許されない（ような雰囲気のあった）ニコニコ動画は、当時女子小学生～中学生だった私にとっては、短いコメントを投稿するだけでも緊張する場所でした。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9jt9a",
+          "text": "一部2ch掲示板やニコニコ周辺には「女アピールうぜえ」という感覚があり、「名無し＝男言葉を使う」暗黙の了解がありました。今はそうでもないのかな……？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9o8t4",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2csuk",
+          "text": "55. 再生数を応援するためにリロードしまくる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "46d88",
+          "text": "●ファンになった動画の1万再生目とかを狙って再読み込みしまくった。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "lpjn",
+          "text": "超人気動画は、再生数100万、200万が見えてくるとファンで団結してリロードしまくり、大台突破を確認して祝っていました。善意のDOS攻撃みたいな文化です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4nvs0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3dqjv",
+          "text": "56. ミリオン目指して一致団結",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 152,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "58i3a",
+          "text": "●初音ミクの「メルト」がまさに200万再生になるという瞬間に視聴者全員が動画内で祭をやり、あまりにもコメントが書き込まれすぎて生放送でもないのにリロードのたびに流れるコメントが一新されてライブ感がすごかった思い出があります。\n再生するたびに職人による弾幕のレイアウトが変わり、まるで花火大会のようでした。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vp0u",
+          "text": "青春モノのドラマが扱わない側面の「青春」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8m6h8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 408,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "adnsf",
+          "text": "●僕が小学3年生の2008年辺りの時に、ニコニコを姉から教えてもらい楽しんでいて、その時は変なコメントとかに「↑のやつROMってろ」みたいなコメントとかが怖くて、コメントは1〜2年していなかったのですが、エルシャダイMADの「アゲハ装備で大丈夫か？」という動画がもう少しで109(イーノック)万再生に到達しそうになっている時に遭遇して、リアルタイムで「俺は二窓で見てる」、「いけー」、「そんなで勢いで大丈夫か？」みたいなコメントと再生回数がどんどん増えていくさまを見て、今同じ動画をただ再生回数を増やすためだけに見まくっている人が、画面の奥にいっぱいいて団結してることに熱くなり、そこで初めて僕も動画冒頭の空耳の「ネギには酢がいいなー」とコメントを書き込み、みんながしてるコメントに黄色の枠で囲まれた自分のコメントが混じっているのを、109万再生まで何度も見たことをたまに思い出して、何とも言えない気持ちになります。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9evk",
+          "text": "ほんとに誰とも共有できないインターネット美談で最高！！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "16rhd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7rq7v",
+          "text": "57. 怖い映像もコメント付きなら見れる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 88,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ecv8u",
+          "text": "●高校で初めてニコニコの文化に触れ、ゲーム実況なるものを見る際、自身がホラーが苦手なこともあり、青鬼のオープニングで目を手で隠しながら音量を小さくして恐る恐る試聴していました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6pfs5",
+          "text": "青鬼って永遠に人気があってすごい。いまはYou Tubeキッズが見ています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "avm7g",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a29jf",
+          "text": "58. 目立ちたくて巨大文字で投稿してしまう",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "h0hv",
+          "text": "●動画や生放送問わず画面下部に巨大サイズで色コメント",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "o7mj",
+          "text": "とにかくコメントに反応してほしくて",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1ima0",
+          "text": "す　ご　く　…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4m85m",
+          "text": "大　き　い",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "52oso",
+          "text": "文字で書き込んで顰蹙を買った人、多々。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6uu4i",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3btkm",
+          "text": "59. コメントで叩かれて落ち込む",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9to93",
+          "text": "●MADにセリフの字幕コメントをつけて「字幕職人さすが」などとチヤホヤされたかったのですが、セリフを間違え過ぎて叩かれて酷くヘコみました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "606pb",
+          "text": "殺伐とした空気に「挙動を間違えたら終わる……」という緊張感を抱いていたあの頃。今思うとなんであんなに殺伐としていたかは謎。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkkt0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 61,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ekf63",
+          "text": "●けいおん！の「翼をください」の動画に「こんないい曲だったんだね」とコメントしたら「原曲もいい曲だろjk」と猛烈に叩かれた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d4nmq",
+          "text": "かわいそ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26hok",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9kc9q",
+          "text": "60. コメント職人への憧れ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fnpgq",
+          "text": "コメント職人とは、記号を駆使して画面上にアスキーアートや装飾などを表示する人のこと。画面を占領する割に少しズレるだけで終わりなので、これが上手な人が「職人」と言われていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dhte7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dj39k",
+          "text": "●コメント職人に憧れ、「コメント練習用」という真っ白な画面だけの動画でよく練習をしていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 2,
+              "offset": 12
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 47,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "efmr7",
+          "text": "●コメント職人に憧れて、◼️をピラミッドのように積み重ねた意味のないコメントをしてドヤっていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbuhr",
+          "text": "職人を目指して練習する若人。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6evr8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4ib34",
+          "text": "●弾幕職人に憧れて作ろうと努めたがコメントで弾幕下手くそって言われてショックで学校休んだ",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ecjj0",
+          "text": "挫折する若人。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtl1m",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68vie",
+          "text": "61. 弾幕コメントを自演する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "rlga",
+          "text": "●太○の達人のプレイ動画を投稿したが再生が伸びず、検索結果で上位に表示させるために自演コメントを大量に書き込んでいた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 18,
+              "offset": 18,
+              "style": "Bold"
+            },
+            {
+              "length": 22,
+              "offset": 38,
+              "style": "Bold"
+            },
+            {
+              "length": 19,
+              "offset": 62,
+              "style": "Bold"
+            },
+            {
+              "length": 14,
+              "offset": 83,
+              "style": "Bold"
+            }
+          ],
+          "key": "a4kb2",
+          "text": "●下赤字bigで「〇〇は俺の嫁」\n 更に下赤字bigで「↓いーや俺の嫁」\n 更に下赤字bigで「↓ちょw喧嘩すんなしw」\n 更に下赤字bigで「↓俺がガンダムだ」\n ってずっと自演コメントしてた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6obve",
+          "text": "このあと「ID」というものの存在に気づくまでがワンセットのようです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "59pce",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mrhm",
+          "text": "62. 荒らし行為に真剣に憤る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f68v5",
+          "text": "匿名ネットといえば「荒らし」がつきものですが、多感な時期に初めて「悪意ある人間」の存在を知って憤りを覚えた記憶がある人も。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "aojq7",
+          "text": "●友達と荒らしコメントがどうやって減るのか真剣に話し合っていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "efvdh",
+          "text": "●荒らしコメントに対して長文で反論コメントを打っていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dpsae",
+          "text": "このあと「反応するなks」とコメントされるまでがワンセットのようです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ne6l",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 79,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e6tdd",
+          "text": "●関係ないコメントに対して「ここに関係ないコメントするなよ」「荒らしうざい」とコメントする人に対して「荒らし無視しよう」「動画見ようよ」などとコメントしていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "23vi8",
+          "text": "黙ってNG機能を使うようになるまで無限に続く。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fk18b",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "65hju",
+          "text": "63. 荒らし行為にハマる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3t0f0",
+          "text": "多感な時期に初めて「匿名」の力を知って、調子に乗った記憶がある人も。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8rmkd",
+          "text": "●嫌いな歌い手の動画を色付きの文字で荒らしていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 100,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "epjbq",
+          "text": "●とにかく荒らしが好きで何度か運営からコメント停止を食らったが次第に「荒らした後に『荒らしてごめん』という旨のコメを残すとコメ停止を逃れられる」というライフハックを覚えてしまい毎日荒らしまくっていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9olr",
+          "text": "今思うとまさに「黒歴史」。未だに十字架を背負うように当時を振り返る人多数でした。家庭環境の問題からくるストレスを発散していたという人もいました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ckia",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1odna",
+          "text": "●恋していた先生の彼女がニコ生配信者だったから、アンチコメをたくさん書き込んだ。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ducd8",
+          "text": "彼女はいい迷惑",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fn31h",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3bmjj",
+          "text": "64. コメントで失敗して動画ごと黒歴史になる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 287,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e1t5l",
+          "text": "●これは誰にも言ったことがありません。小学校高学年か、中学校の頃くらいにニコニコ動画で「どうぶつの森 実況 ○○(実況者名)」で検索したのですが、その文字を打っていたのが検索窓じゃなくてニコニコ動画のコメント欄で、それを投稿してしまったんです。\n\nそれは全然どうぶつの森なんか関係ない動画でした。それに気づき焦ったわたしはとっさにコメント欄に「←その実況面白かったよなｗｗ」みたいな自演をしてしまったんです。\n\nそんなあからさまな自演をしてしまったわたしはそっとブラウザバックし、もうその動画を見ることはありませんでした。怖くて開けませんでした。もう見ることはないでしょう。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ih7r",
+          "text": "「今頃あの動画のコメント欄でなんて言われているんだろう……」と思うと、二度とその動画を見られない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "959os",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3stof",
+          "text": "65. 恥をかいたショックでニコニコが見られなくなる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 92,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ecjt1",
+          "text": "●中2の夏あたりにこの動画を見ていると政府にマークされるらしいとコメントするつもりが幕府にマークされると間違えてコメントしてしまい、インターネットでメチャクチャ笑い物にされて卒業した。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c6g4d",
+          "text": "ごめんなさい、面白いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qiqp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8m90",
+          "text": "66. 低年齢をアピールしてしまう",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 146,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 159,
+              "offset": 148,
+              "style": "Bold"
+            }
+          ],
+          "key": "a8lsr",
+          "text": "●思春期かと言われると微妙ではありますが、小学3年生のときにUTAUというボーカロイドに似たフリーソフトで作った歌をニコニコ動画に投稿していました。きっかけは自分より一つ下の小さい女の子の踊ってみたがめちゃくちゃ伸びているのを見かけて、（小学生という年齢は武器になるな…）と確信したことです。\n （中略）「小学3年生がUTAUで曲を作ってみたw」みたいなタイトルで投稿した覚えがあります。再生数が爆伸びして「小学生が曲作るとかSUGEEEEE」的なコメントが来ることを期待してワクワクしていたのですが、実際は40回程度の再生数と「は？」「小学生がダウンロードできるわけないだろ」「意味不」というコメントのみでした。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b4cu5",
+          "text": "「大人の空間で小学生が！」という状況に憧れてしまう感覚よ……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4h339",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 75,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "advol",
+          "text": "●小6女子です！コメなんかもしました。あれ私の場合はロリに需要があると思っていて、書き込めばロリコンが興奮してくれるかなとか思ってたので書いてました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "523bu",
+          "text": "嫌な需要と供給。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "danqs",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9b0je",
+          "text": "67. キッズ勢への強い風当たり",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7088q",
+          "text": "●「小学生は見んなよ」「荒らしの小学生氏ね」など小学生に対する風当たりが強かったことが印象に残っている。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96c5q",
+          "text": "なんで疎まれていたのかはこれまでの流れでなんとなくおわかりかと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddjli",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g2k0",
+          "text": "68. PSPは音楽再生プレイヤー",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 57,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4v6fr",
+          "text": "●ニコニコ組曲とか流星群に類する動画をダウンロードしてPSPで聴いていた。習い事の帰り道の時間にちょうど良かった。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ekm1m",
+          "text": "●PSPにニコニコの音MADを落として公共の場所で見ていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "366c2",
+          "text": "●PSPでみくみくにしてあげるを大音量で再生しながら自転車を漕いでいた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5jphr",
+          "text": "●東方Projectのアレンジ楽曲をPSPに入れて公園で仲間と聴く",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5lut",
+          "text": "もちろん動画は携帯動画変換君で入れます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3sbd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jugj",
+          "text": "69. 3DS勢への強い風当たり",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c31g8",
+          "text": "ニンテンドー3DSでアプリ「ニコニコ」が2014年に配信されました。その結果、普段はニコニコを見なかったであろう低年齢層がニコニコに流入、衰退を招いた……とまことしやかに語られるほど、一部では3DS勢への風当たりが強くなっていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 127,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9mfvs",
+          "text": "●小学生の時3DSでニコニコ動画を見ていました。ボカロのオフボーカル動画に無限にいる同年代の｢(年齢)才(性別)、いっきまーす！｣コメントが赤字に叩かれている様子を見つつ小学生多すぎwwwとコメントしていました(自分だけはそいつらと違うと思っていたので)",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1hf6",
+          "text": "「アングラを見たい小学生」vs「アングラ空間を子どもに壊されたくない古参」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aubmu",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "25ga6",
+          "text": "70. うごくメモ帳",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "16d62",
+          "text": "「うごくメモ帳」……通称「うごメモ」は手軽にパラパラマンガのようなアニメを制作できるDS/3DS向けソフト。マリオやムスカ、棒人間などが活躍する名作がいくつもあり、ニコニコとDSの架け橋になっていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 66,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ag2jd",
+          "text": "●「うごメモはてな」に投稿されていたボカロ・東方関連の曲を使用した動画を見てからニコニコ動画を見て、「元ネタこれだったんだ」と気づく",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98oc8",
+          "text": "「うごメモはてな」と「うごメモシアター」は2013年にサービス終了しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2dk0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ev74",
+          "text": "71. 見るのはニコニコだけど投稿はこえ部",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ed0f8",
+          "text": "「こえ部」は2016年に閉鎖した音声投稿サービス。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 70,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d6p93",
+          "text": "●中学時代ニコニコ動画の歌い手に憧れてリバーブを過剰にかけた歌ってみた音源を作成したが、叩かれるのが怖くて勇気が出ず、結局こえ部に投稿した。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "498qv",
+          "text": "サツバツとしたニコニコよりも同好の士が集まっていたので、歌い手などはこちらでも活動していました。こえ部で読み上げするための脚本みたいなのもたくさんありましたね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33dk1",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2gqc5",
+          "text": "72. アカウントIDで古参・新参を判断する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 56,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fdbj0",
+          "text": "●自称オタクやアニメ好きに会うと、ニコニコ動画のアカウントIDを聞いて古参・にわかを判別してマウントを取っていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8knf",
+          "text": "IDのナンバーが若いほど「早いうちに登録していた」ということになり、胸を張れました。「（β）時代から」といえば、それはもう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eucnk",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2laa7",
+          "text": "73. ライブイベントに参加する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 164,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1p0vv",
+          "text": "●歌い手（ピコ）のライブにどうしても行きたくてチケットを取ったものの、いざ会場前についてみたら、みんな全然オタクじゃない格好だし人が死ぬほどいるしでめちゃくちゃこわくなって、結局チケットを握りしめたまま公演の間ずっと外で時間を潰した。\n家帰ったあと、親に「ライブ楽しかったけど人混みで酔ったから寝るわ〜」とか言って布団で泣いた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91uuf",
+          "text": "読んだら、こっちまで悲しくなってしまいました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "figup",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6s8r2",
+          "text": "74. 空耳動画にハマる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 66,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "amsh3",
+          "text": "●空耳系(テニスの王子様など)の動画にハマり、授業中に先生が動画内に出てくる単語を何か言うたびにオタク同士顔を合わせニヤついていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 61,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "70sd1",
+          "text": "●学校のオタク友達とともにテニミュの空耳動画にハマり何かと内輪で「下克上だぜ〜」と歌ったり「アナル零式！」と叫んだりした。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3iik0",
+          "text": "テニミュの他にも「バーレーンの実況」「キーボードクラッシャー」「コードギアスのオープニング」などいろいろありました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1n62t",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fuekk",
+          "text": "75. 好きな作品が空耳されて憤慨する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ca175",
+          "text": "●テニミュが好きで空耳が大嫌いだったので、毎日泣きながら空耳コメに噛みつくコメを投下しまくっていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2lvro",
+          "text": "●好きな洋楽のＰＶに空耳の歌詞を流すやつに本気で憤慨していた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8335s",
+          "text": "好きなものが茶化されている気がして泣きながら憤慨する人も。今思うと住民税のこととかで悩むより健康な人生かもしれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "21dr4",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "76cn8",
+          "text": "76. 作業用BGM",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 70,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5r5ee",
+          "text": "●バーっぽいジャズが流れる作業用BGM動画を流しながら受験勉強していた。行ったこともないのに「マスター、ブルームーンを」とか書き込んでいた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c91u",
+          "text": "「豆を変えたね」とか書き込む中学生。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "etsq9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cu22t",
+          "text": "77. ミームの発信源になってしまう",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 609,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "46obr",
+          "text": "●私には熊の物真似がめちゃくちゃに上手な友達がいます。その友達とキャンプに行った時、なんとなくカメラを回していたら「熊が出た！」みたいな、クソみたいな動画を撮ることになりました。\n\n熊の物真似をした友達が追いかけてくる、というただの内輪の茶番動画に過ぎないのですが、いざ撮影する時に私が転んでしまい、振り向くとゼロ距離に熊の物真似をした友達がおり、私が大笑いしながら逃げると追いかけてきた友達が木の根に躓き、川に顔面から飛び込むスーパーオモロ映像が誕生。\nしかし再生すると、音がミョワミョワミョワ、みたいな変な音にすり替わっていて、さらにカメラも色彩がバグって全編サーモグラフィーみたいになってしまい、散々でした。\n\nしかし私は、奇を衒ったタイトルでニコニコにアップしてしまいます。\nある日突然再生数が増え、気づいたら20万再生を迎えていました。なんのこっちゃと思ってみると、タグに「検索してはいけない動画」と書かれていたのです。\n\n何故？と思いましたが、内容を改めて見ると、いきなりカメラが横になり、ゼロ距離で牙を剥いた人間が鬼の形相で襲いかかり、逃げ出した果てに赤色の謎の液体に飛び込み、変な音が終始鳴り続ける、ヤバさを取り揃えた只のマイクラがそこにはありました。\n私自身気味が悪くなってその動画は消したのですが、今でもそのタイトルを検索するとニコニコの転載動画が出てきます。wikiによると危険度は6だそうです。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "64slj",
+          "text": "笑い話っぽいけど現象そのものは怪奇なことが起こってませんか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8dsa",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9ldm",
+          "text": "78. ニコニコきっかけの友だちができる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 62,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 58,
+              "offset": 64,
+              "style": "Bold"
+            }
+          ],
+          "key": "blbv7",
+          "text": "●新しく友達が出来るとまずオススメの動画を5個くらい教え合うことで「どれくらい趣味が合うか」のジャブを打つ文化がありました。\n URLをコピペして共有するという発想がなぜかなく、面白い動画を見つけるとタイトルやタグを紙に書いて共有していました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c21k3",
+          "text": "そのジャブを打つ感じ、めちゃくちゃわかります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1dcr3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 229,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "17uk1",
+          "text": "●中3の夏休み、同じ塾に通っている友達の家で「ゆめにっき」のプレイ動画か「空耳テニス」(テニスの王子様のミュージカル動画)を観ながらアイスを食べて、それから塾に行くのが恒例の遊びになってました。\n「ゆめにっき」のプレイ動画には主人公キャラになりきったようなセリフ調のコメントがついていて、その中でも「汚い…空ね…」というコメントを気に入っており、体育の時間や下校時になるべくカッコいい表情で「汚い…空ね…」呟くというブームが2人だけの間でしばらく続きました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bo4b2",
+          "text": "あまりの「狭い友情」に胸がギュッとなった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ogtq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "r8np",
+          "text": "79. ニコニコきっかけの恋人ができる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 131,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 105,
+              "offset": 132,
+              "style": "Bold"
+            }
+          ],
+          "key": "afio8",
+          "text": "●当時中学3年生、今まで同じクラスだけど話すことはない男子とニコニコ動画を知っていることをきっかけに仲良くなりました。陽キャグループに所属していた彼の中で、ニコ厨の女子は新鮮だったようで、のちに告白をされて付き合うことになりました。それが人生で初めての彼氏です。\nその彼と授業中こっそりと、PSPに保存しているお気に入りの動画を見るというのが当時の楽しみでした。窓際の前後の席で、彼が机の下にPSPを隠し持って体をずらし、わたしが覗き込むような形で2人で画面を見ていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jdo",
+          "text": "良すぎる……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "719j9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "880sv",
+          "text": "80. あこがれのプレミアム会員",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1h614",
+          "text": "ニコニコの有料会員「プレミアム」は、学生にとってはなかなか手の届きにくい憧れの立場。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 51,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7k9nh",
+          "text": "●受験の時期に人気の生放送を見るためにプレミアム登録をしたく、親と交渉して盛大にキレられたことがある。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8vb7",
+          "text": "このような報告が相次いでいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53mbm",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 75,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7jnmq",
+          "text": "●中1の頃、親のクレジットカードでプレミアム会員になり、まだ無名のゲーム実況者のニコニコ大百科ページを作って動画内で感謝されることに喜びを感じていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2dt96",
+          "text": "初めての社会貢献かもしれないですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "edgar",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ec6qk",
+          "text": "81. 携帯版アプリで連打する謎の仕組み",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 77,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "84u0i",
+          "text": "●ガラケー時代、ニコニコ動画がFLASHでしか見られなくて、キーを連打し続けないと動画を再生しないといけなかったので親指の感覚が無くなるまで連打していた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9i2s2",
+          "text": "auユーザーが経験した謎のこの仕様。「今でも思い出すと腹が立つ」と、痺れる親指の感触を思い出す人もいました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c4tla",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b43d",
+          "text": "82. 本編を観たことはないが知っている",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d6fe3",
+          "text": "●ランキングに上がったMADを繰り返し見ているせいで本編見てないのに歌詞を覚えてしまうアニソンがある",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ocuj",
+          "text": "「本編は見てないがMADのネタにされる珍シーンだけは知ってる」という、ファンとの間に波風を立てる状況も。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6tlkb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45hdg",
+          "text": "83. プレイしたことはないけど知っている",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eojni",
+          "text": "●マインクラフトをプレイしたことはないのに道具の作り方は全部知っていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "14qso",
+          "text": "今でも話題にのぼる「エアプ勢」が本格的に登場したのはニコニコの隆盛と同時だったかもしれません。ぜんぜん世代じゃないメガドライブのゲームに詳しい中学生とかがいっぱいいた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fl6dh",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1gtph",
+          "text": "84. 生放送中に親が来る",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9eq03",
+          "text": "いわゆる「親フラ」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 64,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2alj8",
+          "text": "●宿題やる放送とかをリビングでして、当然のごとく親フラ本名バレをしました。弱小生主だったので記録は残っていないでしょう。恐らく。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ggpk",
+          "text": "「親フラは死よりも怖かった」という声も。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahimp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 64,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fald7",
+          "text": "●親フラハプニングを起こせば有名になれると思っていたので、自分で母親の声真似をして「〇〇！ゲームやめなさい！」と言っていました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7tihg",
+          "text": "たくましい奴だな。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "489rl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2angi",
+          "text": "85. 東方との出会い",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48a18",
+          "text": "「東方Project」は、今なお人気のあるシューティングゲームから派生した一大ジャンルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 95,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e2jfi",
+          "text": "●小学校高学年から中学にかけて、友達と東方projectのクリアファイルを集めて「こんなに可愛いイラストのクリアファイル使ってんだぜ」って陽キャに(あくまで心の中で)マウントをとってました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 67,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4p9pg",
+          "text": "●東方系シューティングゲームの敵キャラの動き方がかっこいいと思って真似していた（それ気持ち悪いよ、と学校の友達に指摘されてからやめた）",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1l863",
+          "text": "敵キャラの動きの真似をするやつはあんまりいないと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b4e4g",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6hnmt",
+          "text": "86. アイマスとの出会い",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "20msq",
+          "text": "「THE IDOLM@STER」もまた、ニコニコに投稿された動画をきっかけに爆発的な人気を巻き起こしました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "egurc",
+          "text": "●アイドルマスターのMADを1日20個くらい見ていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fqf0",
+          "text": "リアルな多さ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5d9bi",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dc1o5",
+          "text": "●「オタクはアイマスか東方か初音ミクに帰結する」みたいな持論をふりかざしていた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3bnc2",
+          "text": "果たしてこの仮説は正しかったのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63q0h",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4h5bf",
+          "text": "87. テニスのミュージカル動画から本格的にハマる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 165,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 96,
+              "offset": 166,
+              "style": "Bold"
+            }
+          ],
+          "key": "c13s0",
+          "text": "●はじめはみな「空耳の面白さ」で観ていた動画でしたが、いつの間にか友人たちは本気で舞台俳優さんのファンになり、ミュージカルを観に行くまでになっていきました。\n私はそちらにはあまり興味がなかったので、だんだんテニミュに求めるものが「おもしろ」と「かっこよさ」で私と友人達との間に溝ができていってしまったのが少し寂しかったですね。\n \n卒業してからはほとんど会うこともなくなってしまいましたが、今でも舞台を観にあちこち行っているようです。私は一人カラオケで、たまに「大石の照り鳥」を歌いながら、高校時代を思い出したりしています。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjo5c",
+          "text": "「空耳が面白い派」との間に埋まることのない溝を感じた、そんなささやかな別離の思い出。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8llgb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3b6k",
+          "text": "88. 「ニコニコしようぜ！」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66t7l",
+          "text": "流れがサツバツとしてきたときに誰かが言う「ニコニコしようぜ！」はニコニコの良心を体現しているかのようでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 337,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ii03",
+          "text": "●2007年ごろだったと思いますが、家庭教師ヒットマンREBORNの雲雀恭弥という役を演じていた声優さんが好きで、その方が歌っている別作品のマイナーな子供向けのアニメの主題歌がニコ動にまるまる上がっていたので、それを聞いていたときのことです。\n\n途中で「雲雀の声のほうが全然いい」というコメントが流れてきました。当時中1だった私は否定的な意見は全て受け付けない感じでやっていたので、「いや全然最高だろ」と反論のコメントをしました。\n次の日にその動画を見ると否定的なコメントと私のコメントが流れたすぐ後に「ニコニコしようぜ！」というコメントが流れ、なんだか自分がすごく恥ずかしくなりました。今思うと、マジでニコニコしようぜ！って言われたことあるな…と不思議な気持ちになります。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "837ej",
+          "text": "道徳の教科書に載せよう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "84ip3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1hge2",
+          "text": "89. 「耳が孕む」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69imc",
+          "text": "いわゆるイケボへの歓声コメントで頻発したワード。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 83,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 76,
+              "offset": 85,
+              "style": "Bold"
+            },
+            {
+              "length": 28,
+              "offset": 163,
+              "style": "Bold"
+            }
+          ],
+          "key": "57ssr",
+          "text": "●よく覚えているコメントは男性歌い手に対しての「耳が孕む」です。\n自分がコメントしていたわけではないですが、男性歌い手大半の動画に着いていたコメントだったと思います。\n\nわたしは屈折した中高生だったので\n 「孕むコメキショwww」「ボカロ原曲が一番だろ歌い手は滅びろ」「歌い手ってハイエナじゃん？」とかコメントしてました。\n 今は投稿者さんにはマジで申し訳ないな……と思っています。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3k545",
+          "text": "今考えると思春期に入ったくらいに「孕む」みたいなワードを言えてしまう感じへのあこがれもあったのかもしれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "64vso",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "doubn",
+          "text": "90. 「0秒コメントやめろ」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "am9io",
+          "text": "当時「ニコニコは動画開始時点でコメントすると重くなる」という風説が流れていました。事実ではないらしい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4i8b",
+          "text": "●0秒コメしないでください！に反抗して0秒時点から弾幕張ってた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45bl2",
+          "text": "だからってそんなことをするな。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qm",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar73f",
+          "text": "91. 「他の歌い手の名前出すな」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9u0e",
+          "text": "歌い手界隈はそれぞれ違うファン層を抱え、さらに原曲がVOCALOIDだったりすると文化圏が違うことも。その動画に関係していない人の名前を出すのはマナー違反として忌避されていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 104,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bc7ch",
+          "text": "●「〇〇（実況者や歌い手、生主）から来ました〜」コメントと「←名前出すな」という自治コメ。現在YouTubeでもたびたびそういったコメント合戦が繰り広げられているので、歴史は繰り返しているんだな〜と思います。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6j50a",
+          "text": "「原曲より良い」と書くと100％荒れます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "asf5g",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cfbe5",
+          "text": "92. 「8888888888」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86h68",
+          "text": "「パチパチパチ」という拍手を示すコメント。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 79,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6bub2",
+          "text": "●父親と一緒に、夜中にニコ生を見ていた思い出があります。｢うぽつ｣｢888888｣等のお約束のコメントも父から教わりました。未だにこのコメ打つ時思い出します。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4rt25",
+          "text": "少年漫画の主人公の幼少期みたいだな。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7dp71",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "576lu",
+          "text": "93. 「うぽつ」「わこつ」「はばでぃ」…謎の言葉に戸惑う",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8gov",
+          "text": "「うぽつ」→Upおつかれ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "el49m",
+          "text": "「わこつ」→生放送の枠取りおつかれ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ce69t",
+          "text": "「はばでぃ」→Have a nice day.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 61,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ba4u5",
+          "text": "●休みの日、暇だったので｢歌ってみた｣でタグ検索かけて投稿日時が新しい順にして片っ端から｢うぽつ｣コメを打ってたことがある",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar4d1",
+          "text": "ここに病院を建てよう",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "u70g",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "90i4",
+          "text": "94. 妙な勘違いをしてしまう",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6qmes",
+          "text": "●「うぽつ」がエッチな言葉だと思っており、動画の冒頭部分だけ飛ばしていた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dk12o",
+          "text": "なんでそう思ったのか謎。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g48c",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 194,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1v9p9",
+          "text": "●小5の時にお絵描き掲示板でVOCALOIDの存在を知り、初めて聞いた歌がニコニコに投稿されていた鏡音レンの鳥の詩のカバーだった。\nボカロというコンテンツの得体の知れなさから、自室のPCで自分にもギリギリ聞こえるくらいの音量で恐る恐る聞き、すぐ怖くなってブラウザバックしたような気がする。\n何をそんなに恐れていたのか今ではさっぱり分からない。もしかしたらエッチなものだと思っていたのかも。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bolt5",
+          "text": "なんとなくわかるような気がする感覚です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4b1v0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4tnmj",
+          "text": "95. 不登校の友",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 81,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7qd3i",
+          "text": "●中学3年間ほぼ不登校で同じく不登校のニコ生主(リア友ではない)と仲良くなり、その人の放送に出たり毎日Skypeで長時間の通話(余裕で7時間とか)をしたりしてた。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7tta7",
+          "text": "学校に気を許せる相手がいなかったときの心の支えだったという人も。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1hfl6",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "aaues",
+          "text": "●忍道戒の実況動画にハマりすぎて寝不足からの不登校になりました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "q45n",
+          "text": "きっかけにもなる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28ia5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bn4p4",
+          "text": "96. ニコニコ時代から知ってるクリエイターへの謎の親目線",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "163ra",
+          "text": "元ニコニコ動画投稿者の有名人（米津玄師・ヒャダイン・ヒトリエ…etc.）のアマチュア時代からファンだったという人は複雑な感情を抱えているようです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 82,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cp790",
+          "text": "●ヒャダインがまだ名もなきニコ動活動始めの頃、色々なゲームの音楽に歌詞を載せて歌っていたのを何度も何度も聞いていた。天才だと思っていたらすごく有名になってしまった。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 78,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "49j2f",
+          "text": "●ハチこと米津玄師氏の動画を黎明期に見ていたために勝手に今鼻が高くなっています。CDを買いにいったときに「背が高かった！」と学校で言ったら英雄になりました。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fh9so",
+          "text": "「背が高かった！」って、なんか昭和のエピソードっぽくていいなあ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g8ms",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c6t4g",
+          "text": "97. 創作に目覚める",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "n3sr",
+          "text": "「自分でもできるかもしれない」という初期衝動に火がついた人も多数！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 62,
+              "offset": 12,
+              "style": "Bold"
+            },
+            {
+              "length": 53,
+              "offset": 75,
+              "style": "Bold"
+            },
+            {
+              "length": 50,
+              "offset": 129,
+              "style": "Bold"
+            },
+            {
+              "length": 16,
+              "offset": 181,
+              "style": "Bold"
+            }
+          ],
+          "key": "81sc9",
+          "text": "●γ世代の人間です。\n 高校生の時、好きなマンガの手書きMADを作って投稿していました。（タイトルは検索避けのためにスラッシュやドットを入れたり…）\n高校生の放課後なんて、みんなでどこかに行って遊んだりすればよかったのに、すぐに帰って動画制作の日々でした。\nアップした動画は荒れて消してしまったものもありますが、未だにもったいなくて残しているものもあります。\n あの頃の気力や熱がすごいな～と。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "62ike",
+          "text": "黒歴史という人もいますがその頃の熱意は完全に本物。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jrjn",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 58,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "708ik",
+          "text": "●/が沢山入っている腐女子の動画を見て腐女子になり、全文ひらがなの創作小説を掲示板に投稿して掲示板の人に優しくされた",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "160n9",
+          "text": "かわいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45ir5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "da5jh",
+          "text": "98. そのときの趣味が仕事になった",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f7jbh",
+          "text": "●そんなこんなで今、株式会社ドワンゴに勤めています。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3o1dr",
+          "text": "偉い！！！ 星井美希にガチ恋していたそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5qgr5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2rmm",
+          "text": "99. 今でも現役で楽しんでいる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7ovr1",
+          "text": "●今でも週一でニコニコ動画にアクセスしてしまいます 自分が怖いです",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 79,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5gfd9",
+          "text": "●思春期にハマった趣味は一生のものになるとよく耳にしますが、僕も例に漏れることはなく、今でもニコ動のいち投稿者、いち視聴者としてニコニコ動画を楽しんでいます。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 65,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bkf4d",
+          "text": "●視聴者と一体となり動画を作り上げていく感覚が新鮮だった。今でも一緒にコメントが流れないと物足りない。みんなの遊び場って感じが好き",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3i1l",
+          "text": "案外、過去と今は地続き。私もいまだにマリオがすごい速さでステージクリアする動画とか観てます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aciv1",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7u56",
+          "text": "100. これからもがんばってほしい",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "51vku",
+          "text": "●ずっと歩んできたニコニコが最近廃れてきて悲しいけどもこれからも頑張ってほしいですね。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 258,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4clvc",
+          "text": "●僕は未だにニコニコ動画が好きです。なくても良いけど、あった方が良いから続いてほしいです。だから、昔から観ている人が「ニコニコはオワコン」「運営はクソ」と言っているのを見ると悲しいです。\nそれはニコニコ特有の自己否定的な様式美であるかのようにも思えるので僕が「わかってない」だけかもしれません。でも、素直に寂しいなと思います。\n思春期から観ていて、段々とニコニコがゆるくゆるく死へと向かっているような感じがして、最近上記のようなことを思います。また以前のようにアングラ文化へと戻るくらいで止まってほしいなと思います。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "au382",
+          "text": "いろいろな黒歴史とともにあり、内容も決してクリーンとは言い難く、他の動画サイトに押されているニコニコ動画。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4g69r",
+          "text": "ですが「あの体験は唯一無二だった」という気持ちをニコニコに抱いている人々がたくさんいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fd3ug",
+          "text": "それではこれからも…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7n23",
+          "text": "Have a nice",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5j537",
+          "text": "niconico.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/25fc.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,1288 @@
+{
+  "tweet_created_at": "2026-04-06T09:01:27.000000Z",
+  "id": 2041078822209303000,
+  "id_str": "2041078822209302985",
+  "type": "tweet",
+  "conversation_id_str": "2041078822209302985",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/YXygCiZoBr",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1224538644247203800,
+    "id_str": "1224538644247203844",
+    "name": "Khairallah AL-Awady",
+    "screen_name": "eng_khairallah1",
+    "location": "onchain",
+    "url": "https://khairallah.xyz/",
+    "description": "angel investor | founder @Web3Arabs | vibe coding | ai & onchain research",
+    "protected": false,
+    "verified": true,
+    "followers_count": 21630,
+    "friends_count": 2056,
+    "listed_count": 597,
+    "favourites_count": 223902,
+    "statuses_count": 99269,
+    "created_at": "2020-02-04T03:42:32.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1224538644247203844/1691590897",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1888357542004162560/5D-YlH5e_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 5,
+  "reply_count": 52,
+  "retweet_count": 194,
+  "favorite_count": 1164,
+  "views_count": 230829,
+  "bookmark_count": 3081,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040155632385290240",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/YXygCiZoBr"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T09:01:27.000000Z",
+    "id": 2041078822209303000,
+    "id_str": "2041078822209302985",
+    "title": "How to Master AI Agents from Zero to Production  — The Complete Guide.",
+    "preview_text": "You have heard about AI agents.\nSave this :)\nYou have seen the demos. You have watched the threads go viral. You have seen people build systems that research, analyze, write, code, and operate",
+    "cover_url": "https://pbs.twimg.com/media/HFLAfeUaEAAc1ud.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5sulf",
+          "text": "You have heard about AI agents.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "57ejb",
+          "text": "Save this :)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbgsv",
+          "text": "You have seen the demos. You have watched the threads go viral. You have seen people build systems that research, analyze, write, code, and operate autonomously.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9uh9t",
+          "text": "And you want in.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e4u37",
+          "text": "Not as someone who watches from the sidelines. Not as someone who understands the theory but cannot build. As someone who can sit down, design an agent system, build it, deploy it, and have it running in production solving real problems.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 110,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cu658",
+          "text": "This is the complete course. From zero to production-grade AI agents. Everything you need. Nothing you do not.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bc16k",
+          "text": "It is designed to be followed, not just read. Each section builds on the previous one. Skip nothing. Build everything.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 2,
+              "offset": 9
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3nhie",
+          "text": "Let's go ⬇️",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 49,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2p7i2",
+          "text": "Module 1: What Agents Are (And What They Are Not)",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6reuv",
+          "text": "An AI agent is not a smarter chatbot.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "973vm",
+          "text": "A chatbot is reactive. You ask, it answers. One pass, one response, conversation over.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "38r1m",
+          "text": "An agent is autonomous. You give it a goal. It makes a plan. It uses tools to execute each step. It evaluates the results. It adjusts its approach. It keeps working until the goal is achieved or it determines the goal cannot be achieved.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ececu",
+          "text": "The fundamental difference is the loop.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbqib",
+          "text": "A chatbot's lifecycle: input → output. An agent's lifecycle: goal → plan → act → observe → think → act → observe → think → ... → result.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3al3s",
+          "text": "This loop — the agentic loop — is the foundation of everything in this course.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e3j14",
+          "text": "The loop works through the API like this. You send a request to Claude with a goal and a set of tools. Claude responds with either a final answer or a tool call. If it is a tool call, your code executes the tool and sends the result back. Claude processes the result and decides: call another tool, or finish. This repeats until Claude returns stop_reason: \"end_turn\".",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 54,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "39n7s",
+          "text": "The three mistakes that kill agents before they start:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8e87p",
+          "text": "Mistake one: checking for completion by parsing Claude's text. People look for phrases like \"I'm done\" or \"here's my final answer\" in the response. This is unreliable because natural language is ambiguous. The API gives you stop_reason: \"end_turn\" as a structured signal. Always use it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fcak",
+          "text": "Mistake two: setting arbitrary turn limits as the primary stopping mechanism. \"Stop after 10 loops\" either cuts off useful work or runs unnecessary iterations. Use turn limits as a safety net, not the primary mechanism.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5uj9m",
+          "text": "Mistake three: dumping everything into one prompt. Agents need focused instructions. An agent trying to research, analyze, write, format, and deploy in one step will do all of them poorly. Chain the steps. One task per turn.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 63,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c0cme",
+          "text": "Module 2: Tool Design (The Most Important Skill You Will Learn)",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ebqus",
+          "text": "An agent without tools is just a chatbot with extra steps.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6s9o",
+          "text": "Tools are what give agents the ability to interact with the real world. Search the web, query databases, read files, send emails, call APIs, process documents, execute code.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 137,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "23hfa",
+          "text": "But here is the insight that most people miss: the quality of your tools determines the quality of your agent more than any other factor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6a6cj",
+          "text": "A poorly designed tool confuses the agent. A well-designed tool makes the agent reliable.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6p6em",
+          "text": "Every tool has four components:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "64gv",
+          "text": "Name. Clear, descriptive, unambiguous. search_product_database not helper_function_2. Claude reads the name first to decide if a tool is relevant.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e1rmq",
+          "text": "Description. This is the most critical part. The description tells Claude WHEN to use the tool and WHEN NOT to use it. Vague descriptions lead to random tool selection. Precise descriptions lead to reliable behavior.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bf7of",
+          "text": "Bad description: \"Useful for getting data.\" Good description: \"Query the product database by product name, SKU, or category. Returns pricing, availability, and specifications. Use when the user asks about product details, stock levels, or pricing. Do NOT use for order status or shipping — use check_order_status for those queries.\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1sopi",
+          "text": "Parameters. A strict JSON schema that defines what inputs the tool requires. Mark required fields as required. Add descriptions for each parameter. Do not make everything optional.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9om82",
+          "text": "Return format. Always return a structured response with a status field (success, error, no_results) and the data. Never return None or empty responses — Claude will hallucinate to fill the gap.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2g487",
+          "text": "Start with three tools maximum. Each additional tool is a decision Claude has to make. More tools means more chances for wrong decisions. Build three tools, get them working perfectly, then add more.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9ohg6",
+          "text": "Module 3: Building Your First Agent (Step by Step)",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60fhn",
+          "text": "Time to build. This is a complete, working agent.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "imo5",
+          "text": "The goal: Build a research agent that can search for information, perform calculations, and save findings to files.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "533t2",
+          "text": "The architecture:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69p3o",
+          "text": "A system prompt that defines the agent's role and behavior. Three tools: web search, calculator, note saver. The agentic loop that processes tool calls and feeds results back. Error handling for when tools fail. Logging to track what the agent does.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4lekf",
+          "text": "The system prompt:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "85vrt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7u3m9",
+          "text": "This prompt gives the agent a clear methodology. It knows the sequence of operations. It knows when to use each tool. It knows how to handle uncertainty.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c3lb8",
+          "text": "Building the agentic loop:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "al0t8",
+          "text": "The loop follows this pattern:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2qsqp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7u1gg",
+          "text": "This is the complete architecture. Everything else is implementation detail around this core pattern.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ac064",
+          "text": "Error handling:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fs96",
+          "text": "Every tool call should be wrapped in try/except. When a tool fails, return a structured error message that tells Claude what went wrong and suggests an alternative approach:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fttj0",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bd9dg",
+          "text": "Claude can then decide whether to retry, try a different approach, or acknowledge the limitation and move on. Without structured error messages, Claude either hallucinate a result or loops infinitely.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8dfpv",
+          "text": "Module 4: Multi-Agent Systems",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eul9u",
+          "text": "When a single agent needs to do too many things, performance degrades. The solution is to split the work across multiple specialized agents coordinated by a central orchestrator.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3e8jc",
+          "text": "The architecture is hub-and-spoke:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fs5gp",
+          "text": "A coordinator agent sits at the center. It receives the overall goal, decomposes it into subtasks, and delegates each subtask to a specialist agent.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24g5j",
+          "text": "Specialist agents are focused. A research agent only researches. A writing agent only writes. An analysis agent only analyzes. Each has a small, focused tool set optimized for its specialty.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "96qri",
+          "text": "All communication flows through the coordinator. Specialists never talk to each other directly. The coordinator passes information between them.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "957vc",
+          "text": "The critical rule that everyone violates:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 72,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2lh2q",
+          "text": "Specialist agents do NOT inherit the coordinator's conversation history. Each specialist starts with a blank context. Everything it needs to know must be explicitly included in its prompt.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "nkq3",
+          "text": "The coordinator knows everything. It has been building context across the entire conversation. When it spawns a specialist, most builders assume the specialist also knows everything. It does not. It knows nothing except what you put in its prompt.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2ubpa",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a001j",
+          "text": "The explicit version is longer. It is also the only version that works.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2hf71",
+          "text": "Another common failure: The coordinator decomposes a topic too narrowly. If asked to research \"the impact of AI on industries\" and the coordinator only creates specialists for software and healthcare, it misses finance, education, manufacturing, media, and a dozen other industries.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4r91t",
+          "text": "Fix this by instructing the coordinator to enumerate the full scope before decomposing, and to validate coverage after decomposition.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4f316",
+          "text": "Module 5: Production Deployment",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3pve0",
+          "text": "The gap between \"my agent works in a demo\" and \"my agent works in production\" is enormous. Here is what you need to bridge it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6v51r",
+          "text": "Authentication and authorization. If your agent accesses any external service, it needs proper authentication. API keys, OAuth tokens, and session management. Never hardcode credentials. Use environment variables.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "51o7d",
+          "text": "Rate limiting. Both for external APIs your agent calls and for the Claude API itself. Build in delays between requests. Implement exponential backoff for retries. Track your token usage.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fl7sa",
+          "text": "Logging. Log every message sent to Claude, every tool call, every tool result, every error, token usage per turn, total time per run, and the final output. Use structured JSON logging so you can query your logs programmatically.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ccedh",
+          "text": "Without logs, production debugging is impossible. When someone says \"the agent did something weird,\" your logs are the only way to reconstruct what happened.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2mkjo",
+          "text": "Monitoring and alerting. Set up alerts for: agent runs exceeding expected duration, error rates above threshold, token usage spikes, and tool failures. If your agent breaks at 2 AM, you want to know before your users do.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "br4vm",
+          "text": "Graceful degradation. What happens when the search API is down? When the database is unreachable? When Claude's API returns an error? Each failure scenario needs a specific handler. The agent should never silently fail. It should either retry, fall back to an alternative, or clearly communicate the issue.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4t8oj",
+          "text": "Cost management. AI agents can get expensive. Each turn consumes tokens. Each tool call adds processing time. A runaway agent can burn through your API budget in hours.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9hjc7",
+          "text": "Implement token budgets per agent run. Track cost per task. Set hard limits that terminate the agent if costs exceed expectations. Review your cost data weekly and optimize the most expensive workflows.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6sjua",
+          "text": "Module 6: Testing and Evaluation",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brpjs",
+          "text": "You cannot improve what you cannot measure.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cs8qj",
+          "text": "Build a test suite. For each agent, create 20+ test cases that cover normal usage, edge cases, error conditions, and adversarial inputs.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "nt4j",
+          "text": "For each test case, define:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8beqh",
+          "text": "The input (the goal or request)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cflpd",
+          "text": "The expected behavior (which tools should be used, in what order)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4n2ai",
+          "text": "The expected output (what the final answer should contain)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3eqb7",
+          "text": "Failure criteria (what would constitute a wrong answer)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5so",
+          "text": "Run your test suite after every change to the agent. Automate this. An agent that passes all tests today and breaks after a prompt change tomorrow needs to be caught immediately, not after users report problems.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "697oe",
+          "text": "Evaluate tool selection. Track which tools the agent selects for different types of queries. If the agent consistently picks the wrong tool, the tool description needs refinement. This is the most common source of agent quality issues and the easiest to fix.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f1e95",
+          "text": "Measure end-to-end quality. For research agents, have a human expert evaluate the accuracy and completeness of the agent's reports. For automation agents, compare the agent's output against what a human would produce. Score consistently and track improvement over time.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6bula",
+          "text": "Module 7: Where to Go From Here",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6emfi",
+          "text": "You now understand:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6vljl",
+          "text": "The agentic loop and how it works mechanically",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8t8v2",
+          "text": "Tool design and why descriptions matter more than code",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qu39",
+          "text": "Multi-agent orchestration and the context isolation rule",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8g1j",
+          "text": "Production deployment requirements",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cu12m",
+          "text": "Testing and evaluation frameworks",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c9glb",
+          "text": "Your next steps:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "beo9k",
+          "text": "This week: Build a single-agent system with three tools. Get it working end-to-end. Test it with 20 different inputs. Fix everything that breaks.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bfiif",
+          "text": "This month: Add MCP (Model Context Protocol) support to your agent. MCP standardizes how agents connect to external tools. Learn to use existing MCP servers and build a simple custom one.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "10loh",
+          "text": "This quarter: Build a multi-agent system. A coordinator with two to three specialists. Deploy it in a production environment with proper logging, monitoring, and error handling. Use it for real work.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ffuie",
+          "text": "This year: Build an agent that generates revenue. Either as a service you sell to businesses, a product users subscribe to, or an internal tool that saves your company measurable time and money.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1l9ug",
+          "text": "The agent economy is just beginning. The infrastructure is maturing rapidly. The demand from businesses is accelerating faster than the supply of builders.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 115,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "11bck",
+          "text": "The people who master agent architecture now will have skills that are in extraordinary demand for the next decade.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5dhfd",
+          "text": "You have the complete course. Every concept, every pattern, every pitfall.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8a9hv",
+          "text": "The only step left is building.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 48,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bph35",
+          "text": "Start today. Not tomorrow. Not next week. Today.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 34,
+                "text": "eng_khairallah1",
+                "toIndex": 50
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 93,
+              "offset": 50,
+              "style": "Italic"
+            },
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 93,
+              "offset": 50,
+              "style": "Bold"
+            }
+          ],
+          "key": "647e",
+          "text": "If this course was useful, follow @eng_khairallah1. I publish deep technical guides on agents, AI systems, and building with Claude every week.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 2,
+              "offset": 41
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fpgdc",
+          "text": "hope this was useful for you, Khairallah ❤️",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "5fdc7d52-4fbf-4b67-955f-06cf4812e202",
+              "markdown": "```python\n# Wrong — assumes the specialist knows context\nspecialist_prompt = \"Now analyze the data we discussed.\"\n\n# Right — passes all required context explicitly\nspecialist_prompt = f\"\"\"\nYou are a data analysis specialist. Analyze the following dataset:\n\n{json.dumps(dataset)}\n\nFocus on:\n1. Trends over the past 6 months\n2. Outliers more than 2 standard deviations from the mean\n3. Correlations between variables A and B\n\nPrior findings from research phase:\n{research_summary}\n\nReturn your analysis as a structured JSON object with keys:\ntrends, outliers, correlations, summary\n\"\"\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/2764.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "5a6973c6-3c36-48b5-928a-7fcfb31f552b",
+              "markdown": "```markdown\nYou are a thorough research agent. When given a research question:\n\n1. Break the question into sub-questions that need to be answered\n2. Search for information on each sub-question\n3. Cross-reference findings across multiple sources\n4. Perform any calculations needed to support your analysis\n5. Save key findings to a file for reference\n6. Provide a comprehensive answer with supporting evidence\n\nRules:\n- Always search for information rather than relying on memory for current data\n- If a search returns insufficient results, try a different query\n- Save important findings before moving to the next sub-question\n- If you cannot find reliable information on a point, say so explicitly\n- Cite your sources where possible\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/2b07.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "afbdb806-4189-4c37-84d4-6201fd377d0a",
+              "markdown": "```markdown\n1. Send goal + tools to Claude\n2. Receive response\n3. If stop_reason == \"end_turn\": return final answer\n4. If stop_reason == \"tool_use\": \n   a. Extract each tool call from the response\n   b. Execute each tool\n   c. Collect results\n   d. Append assistant response + tool results to message history\n   e. Send updated history back to Claude\n   f. Go to step 2\n5. Safety check: if turns > 20, force stop\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "0ea3143c-c4a2-4fdf-bf5a-558257f2430a",
+              "markdown": "```json\n{\n    \"status\": \"error\",\n    \"type\": \"timeout\",\n    \"message\": \"Search timed out after 10 seconds.\",\n    \"suggestion\": \"Try a simpler or more specific query.\"\n}\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

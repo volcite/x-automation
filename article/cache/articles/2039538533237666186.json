@@ -1,0 +1,309 @@
+{
+  "tweet_created_at": "2026-04-02T03:00:53.000000Z",
+  "id": 2039538533237666300,
+  "id_str": "2039538533237666186",
+  "type": "tweet",
+  "conversation_id_str": "2039538533237666186",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/vubf1NvyyU",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1542490417,
+    "id_str": "1542490417",
+    "name": "トミタ栞　6月26日横浜",
+    "screen_name": "tomita4ori",
+    "location": "",
+    "url": "https://tomitashiori.bitfan.id/",
+    "description": "〖 6月26日ワンマンライブ＠横浜 〗 岐阜県飛騨高山出身/実家ラーメン屋🍜 /📺tvk「saku saku」5代目MC",
+    "protected": false,
+    "verified": true,
+    "followers_count": 74316,
+    "friends_count": 762,
+    "listed_count": 493,
+    "favourites_count": 32,
+    "statuses_count": 26020,
+    "created_at": "2013-06-24T04:24:44.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542490417/1556464635",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2039538443089518592/fVxrm-ii_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 31,
+  "reply_count": 76,
+  "retweet_count": 255,
+  "favorite_count": 1780,
+  "views_count": 518370,
+  "bookmark_count": 125,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039489576566480896",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/vubf1NvyyU"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T03:00:53.000000Z",
+    "id": 2039538533237666300,
+    "id_str": "2039538533237666186",
+    "title": "【ご報告】事務所を卒業します！そして第二章スタートします！",
+    "preview_text": "この度トミタ栞は2026年3月31日をもって、14年間所属しておりましたソニー・ミュージックアーティスツを卒業しました！\nここからはトミタ栞",
+    "cover_url": "https://pbs.twimg.com/media/HE3FJ71bwAA13Qf.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cud4o",
+          "text": "この度トミタ栞は2026年3月31日をもって、14年間所属しておりましたソニー・ミュージックアーティスツを卒業しました！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dhma",
+          "text": "ここからはトミタ栞 第二章として、個人事務所「せんたく日和」を立ち上げ、歩みを止めるどころか、突き進んで行きますのでこれからもよろしくお願いします！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "157c8",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fki5d",
+          "text": "【トミタ栞の原点とSMAという大切な場所】",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6u97s",
+          "text": "14年前の4月2日、高校を卒業したばかりの私が最初に降り立ったのは\n「屋根の上」という不思議で温かい場所でした。\n\nあの日、土器として？始まった私の活動は、\n想像もしていなかったほどカラフルになり、刺激的な毎日の連続でした。\n\nそんな素晴らしい日々に出会わせてくださったSMAにはとても感謝しております。\n\n振り返ると、うまくいったことばかりではなく、立ち止まったり、悩んだり、自分の進む道に迷った時間もたくさんありました。\n\nそんな時も親身になって、そばで応援し続けてくださった事務所は、私にとって大きな支えでした。\n\nまだまだ未熟な私の門出を笑顔で送り出してくださった事務所には、\n感謝しかありません。\n\n本当にありがとうございました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "603vl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6hq9t",
+          "text": "【そして大切なファンのみなさまへ】",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bnr4a",
+          "text": "トミタ栞の活動は、音楽だけにとどまらず、舞台、ドラマ、テレビ、ラジオ、雑誌やSNSなど、さまざまな場所へと広がっていきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "133ql",
+          "text": "いろんな世界に飛び込んでいく私をいつも優しく受け入れ、\n一緒に楽しみながら応援してくれるファンの皆さんの存在は、\nこれからも変わらず私の宝物です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6br6a",
+          "text": "大事に抱き抱えたまま次のステップに向かっていくので、\n「おめでとう！」のコメントで送り出してください！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2q1s",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "crctj",
+          "text": "【トミタ栞 第二章へ】",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mm8h",
+          "text": "これからも歌手という枠にとどまらず、\nもっとマルチに、もっとクリエイティブに！\n\n「トミタ栞、次は何をやるんだろう？」と皆さんにニヤリとしてもらえるような、面白そうなことには全部首を突っ込んでいくつもりです（笑）。\n\n関係者のみなさん、お仕事のお誘いお待ちしております！\n\n\nこれまでの時間で得た経験や出会いは、私にとってかけがえのない財産です。\n\nそのすべてに感謝しながら、これからは一人の表現者として自分の人生を自分で選択し、\n責任を持って歩んでいきたいと思っています。\n\nこれからも感謝の気持ちを忘れず、歌い、表現し、挑戦を重ねていきます。\n\n\nぜひ一緒に楽しんでいただけたら嬉しいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "63v60",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c6v99",
+          "text": "2026年4月2日　トミタ栞",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2rurj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fpe9g",
+          "text": "新ホームページはプロフィールのリンクから\n\nTOMITA SHIORI   せんたく日和",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "a8f980b7-280b-4a93-be78-10dd635860c4",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039490801110278144"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE26E/La4AAKAAIAAAAAW/CJMQAA",
+        "media_id": "2039490801110278144",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 48.48,
+                "rgb": {
+                  "blue": 196,
+                  "green": 188,
+                  "red": 190
+                }
+              },
+              {
+                "percentage": 18.33,
+                "rgb": {
+                  "blue": 33,
+                  "green": 45,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 8.96,
+                "rgb": {
+                  "blue": 221,
+                  "green": 181,
+                  "red": 169
+                }
+              },
+              {
+                "percentage": 3.13,
+                "rgb": {
+                  "blue": 145,
+                  "green": 174,
+                  "red": 177
+                }
+              },
+              {
+                "percentage": 2.95,
+                "rgb": {
+                  "blue": 55,
+                  "green": 57,
+                  "red": 76
+                }
+              }
+            ]
+          },
+          "original_img_height": 4096,
+          "original_img_url": "https://pbs.twimg.com/media/HE26E_La4AAo90e.jpg",
+          "original_img_width": 2731
+        },
+        "media_key": "3_2039490801110278144"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1450 @@
+{
+  "tweet_created_at": "2026-04-02T19:27:02.000000Z",
+  "id": 2039786704731542000,
+  "id_str": "2039786704731541903",
+  "type": "tweet",
+  "conversation_id_str": "2039786704731541903",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/72MBLeCASo",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14763,
+    "id_str": "14763",
+    "name": "Ryan Carson",
+    "screen_name": "ryancarson",
+    "location": "Connecticut, USA",
+    "url": "https://ryancarson.com",
+    "description": "Dad, Dev, CEO, 4x Founder.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 179648,
+    "friends_count": 15447,
+    "listed_count": 4618,
+    "favourites_count": 94916,
+    "statuses_count": 60146,
+    "created_at": "2006-11-22T11:35:48.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14763/1771129720",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2016785876261679104/LJFhaQ17_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 32,
+  "reply_count": 77,
+  "retweet_count": 172,
+  "favorite_count": 1915,
+  "views_count": 1145241,
+  "bookmark_count": 8348,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039778505282461696",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/72MBLeCASo"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T19:27:02.000000Z",
+    "id": 2039786704731542000,
+    "id_str": "2039786704731541903",
+    "title": "How to turn your OpenClaw into the world's best assistant",
+    "preview_text": "I turned my @openclaw into the most effective assistant and chief of staff I’ve ever worked with.\n\nI’ve hired executive assistants in previous companies, and I’m honestly blown away by how well this",
+    "cover_url": "https://pbs.twimg.com/media/HE7HDeYbkAAiv84.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 12,
+                "text": "openclaw",
+                "toIndex": 21
+              }
+            ],
+            "urls": [
+              {
+                "fromIndex": 245,
+                "text": "http://github.com/snarktank/clawchief",
+                "toIndex": 282
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9to83",
+          "text": "I turned my @openclaw into the most effective assistant and chief of staff I’ve ever worked with.\n\nI’ve hired executive assistants in previous companies, and I’m honestly blown away by how well this works.\n\nIf you want the shortcut, start here:\nhttp://github.com/snarktank/clawchief",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9v3qi",
+          "text": "What it can do",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dr9g7",
+          "text": "Schedule meetings for me",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4mtcl",
+          "text": "Parse booking links and book workable times",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3js18",
+          "text": "Check my inbox every 15 minutes and surface only what matters",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "405mn",
+          "text": "Proactively follow up on emails that didn’t get a reply",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vf3p",
+          "text": "Watch my calendar, flag conflicts, and warn me about upcoming events",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3lgse",
+          "text": "Run my day from one canonical markdown task list",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ehtn",
+          "text": "Prep my task list before I wake up",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjb39",
+          "text": "Keep tasks clean by avoiding duplicate entries",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7mifa",
+          "text": "Update my outreach tracker / CRM based on email activity",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73sfv",
+          "text": "Research suppliers or partners and reach out to them",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "78i4s",
+          "text": "Send me short, high-signal updates only when action is needed",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a438k",
+          "text": "Work from durable context in files, memory, Gmail, Calendar, and Sheets",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8h97i",
+          "text": "Adapt to my business, my preferences, and my operating style",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ts3v",
+          "text": "Credit",
+          "type": "header-two"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 96,
+                "text": "pedroh96",
+                "toIndex": 105
+              },
+              {
+                "fromIndex": 164,
+                "text": "ashleevance",
+                "toIndex": 176
+              }
+            ],
+            "urls": [
+              {
+                "fromIndex": 180,
+                "text": "youtube.com/watch?v=9ZbbxSgrjhw&t=3847s",
+                "toIndex": 219
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 39,
+              "offset": 180
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 27,
+              "style": "Italic"
+            },
+            {
+              "length": 13,
+              "offset": 41,
+              "style": "Italic"
+            },
+            {
+              "length": 18,
+              "offset": 60,
+              "style": "Italic"
+            }
+          ],
+          "key": "cd9v1",
+          "text": "A lot of the ideas for the priority map, auto-resolver, and ingestion pipeline were inspired by @pedroh96 OpenClaw setup, which he talked about on Core Memory with @ashleevance at youtube.com/watch?v=9ZbbxSgrjhw&t=3847s",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddv19",
+          "text": "Repo Structure",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "92ke8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2a6mu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tish",
+          "text": "Step 1: Start with a working OpenClaw install",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jgka",
+          "text": "Before you do anything with clawchief, make sure OpenClaw itself is already installed and working.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 13,
+              "style": "Bold"
+            },
+            {
+              "length": 28,
+              "offset": 53,
+              "style": "Bold"
+            }
+          ],
+          "key": "e0vrj",
+          "text": "clawchief is not a replacement for OpenClaw.\nIt’s an operating layer on top of it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3d0ad",
+          "text": "Step 2: Get GOG working first",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4deb",
+          "text": "This setup expects gog to work for:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhgvo",
+          "text": "Gmail message search",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7refv",
+          "text": "Calendar list and event reads",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bdlg",
+          "text": "Google Sheets metadata reads",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "700ou",
+          "text": "Google Docs reads (if you want meeting-notes ingestion)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "25i8a",
+          "text": "If those are broken, your assistant won’t be able to do real executive-assistant work reliably.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96rkl",
+          "text": "Step 3: Install the skills",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ae294",
+          "text": "Copy these skill directories into ~/.openclaw/skills/",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cds0b",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgt4i",
+          "text": "These are the behavioral building blocks.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbidf",
+          "text": "They teach OpenClaw how to:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f1f8h",
+          "text": "act like an executive assistant",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvqm4",
+          "text": "manage a real task list",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "r18k",
+          "text": "prepare the day proactively",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "61oj8",
+          "text": "handle operational business-development workflows",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bj4e4",
+          "text": "Step 4: Install the workspace files",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lv83",
+          "text": "Copy these into ~/.openclaw/workspace/",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "880qe",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dfa80",
+          "text": "Why HEARTBEAT.md matters",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4lf4i",
+          "text": "This file tells the assistant how to be proactive.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "am2mh",
+          "text": "It tells the assistant to:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55fpe",
+          "text": "read the priority map",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "at14v",
+          "text": "read the auto-resolver",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jo29",
+          "text": "read the meeting-notes policy + ledger",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7degk",
+          "text": "read the live task file",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgjeg",
+          "text": "run the right workflow",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2tk55",
+          "text": "only message me when something actually matters",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 54,
+              "style": "Bold"
+            }
+          ],
+          "key": "6fgt3",
+          "text": "That’s how you stop your assistant from being passive without turning it into a noisy mess.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cs4s4",
+          "text": "Why TOOLS.md matters",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 21,
+              "style": "Bold"
+            }
+          ],
+          "key": "c5gr2",
+          "text": "This is where I keep environment-specific notes.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3g6ip",
+          "text": "For example:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dife",
+          "text": "preferred email accounts",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5mqfh",
+          "text": "tracker / Google Sheets notes",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1n1me",
+          "text": "local environment quirks",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4cij6",
+          "text": "target-market notes",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djnhr",
+          "text": "tactical operating rules I don’t want buried in prompts",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qqsi",
+          "text": "Why clawchief/tasks.md matters",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ai51j",
+          "text": "This is one of the most important files in the whole system.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "1unr",
+          "text": "I keep one canonical markdown task list.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eebam",
+          "text": "That means when the assistant checks what matters today, it’s looking at one live source of truth instead of guessing from stale conversation history.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "edso1",
+          "text": "Step 5: Create your private context files",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ebckf",
+          "text": "Customize these heavily:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2echt",
+          "text": "AGENTS.md",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d7fk6",
+          "text": "SOUL.md",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8gnvp",
+          "text": "USER.md",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b66p3",
+          "text": "IDENTITY.md",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1fbp",
+          "text": "MEMORY.md",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50fj0",
+          "text": "memory/",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 31,
+              "style": "Bold"
+            }
+          ],
+          "key": "dvfmm",
+          "text": "This is where OpenClaw becomes your assistant instead of mine.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1eaof",
+          "text": "These files define:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dc2mp",
+          "text": "who the human is",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vckp",
+          "text": "who the assistant is",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "clmdd",
+          "text": "tone and boundaries",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "419sv",
+          "text": "personal and business preferences",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55hjb",
+          "text": "long-term memory",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cli89",
+          "text": "continuity across sessions",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51sc2",
+          "text": "If you skip this step, you’ll have a decent template.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6dd2i",
+          "text": "If you do it well, you’ll have something that feels personal, grounded, and increasingly excellent.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1efl1",
+          "text": "Step 6: Replace every placeholder",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mt7m",
+          "text": "The repo includes placeholders for the obvious things:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "25u6o",
+          "text": "owner name",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0jsf",
+          "text": "assistant name",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5auhh",
+          "text": "assistant email",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qdk3",
+          "text": "primary work email",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7lae2",
+          "text": "personal email",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aooj8",
+          "text": "business name",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33uij",
+          "text": "business URL",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1pars",
+          "text": "timezone",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "22bnq",
+          "text": "primary update channel",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aosd3",
+          "text": "primary update target",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7tel9",
+          "text": "Google Sheet ID",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "129i2",
+          "text": "target market",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3seo4",
+          "text": "target geography",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mpu5",
+          "text": "Then customize these files for your real world:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6l12",
+          "text": "workspace/TOOLS.md",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8137j",
+          "text": "clawchief/priority-map.md",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ijvf",
+          "text": "clawchief/tasks.md",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "carqe",
+          "text": "skills/business-development/resources/partners.md",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djkq3",
+          "text": "cron/jobs.template.json",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8sq4",
+          "text": "Step 7: Set up cron jobs",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7sikn",
+          "text": "This is where the assistant starts to feel alive.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c4vc6",
+          "text": "The repo includes a cron template.\nThe recommended starting jobs are:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ai0d",
+          "text": "executive assistant sweep",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3in6l",
+          "text": "daily task prep",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ad1c3",
+          "text": "daily business-development sourcing",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0mek",
+          "text": "You can add optional jobs later, like backups or self-update.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ef210",
+          "text": "The important point is this:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a29jd",
+          "text": "The assistant becomes dramatically more useful when it wakes itself up to do recurring work.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aj4k8",
+          "text": "That’s what shifts it from reactive to proactive.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "et0su",
+          "text": "Step 8: Validate the install",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e0sql",
+          "text": "Use the checklist in the repo and make sure the whole system works end to end.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c3p37",
+          "text": "A real install means the assistant can:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eda94",
+          "text": "read the source-of-truth files correctly",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91ule",
+          "text": "route proactive updates to the right place",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c5b1",
+          "text": "use Gmail message-level search",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3j49",
+          "text": "check all relevant calendars before booking",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bpt8",
+          "text": "treat the tracker / sheet as the live outreach source of truth",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71np1",
+          "text": "promote due-today items into ## Today",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4h575",
+          "text": "archive prior-day completions",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "n6kq",
+          "text": "ingest meeting notes into real tasks and follow-ups",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eievd",
+          "text": "If those behaviors are not working, you’re not done.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9s1ni",
+          "text": "My advice if you want this to be amazing",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f7f2i",
+          "text": "Use clawchief as the starting point, not the finish line.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6r16r",
+          "text": "The best version of this setup will reflect your actual world:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ruqf",
+          "text": "your inboxes",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2i39",
+          "text": "your calendars",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fl3p",
+          "text": "your preferred channels",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fbj86",
+          "text": "your task habits",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6gcan",
+          "text": "your business workflows",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2q699",
+          "text": "your memory model",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ebt9",
+          "text": "your tolerance for interruptions",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fehp",
+          "text": "The more you customize it, the more valuable it becomes.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eq8a9",
+          "text": "Generic assistants are generic because they are under-configured.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fe6cb",
+          "text": "Great assistants are opinionated, specific, and deeply shaped around one person’s operating reality.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8i8dg",
+          "text": "Final thought",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhfkn",
+          "text": "I didn’t get the world’s best assistant by asking OpenClaw better questions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3prdk",
+          "text": "I got it by giving OpenClaw a better operating system.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ulh9",
+          "text": "That’s what clawchief is.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enae2",
+          "text": "If you want the shortcut, start here:",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "http://github.com/snarktank/clawchief",
+                "toIndex": 37
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 37,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3rkho",
+          "text": "http://github.com/snarktank/clawchief",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ced9t",
+          "text": "If you want to do it properly, use the repo, customize it aggressively, and make your assistant responsible for real recurring work.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cnb5",
+          "text": "That’s when things get interesting.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "markdown": "```bash\nclawchief/\n/HEARTBEAT.md\n/TOOLS.md\n/memory/meeting-notes-state.json\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "http://github.com/snarktank/clawchief"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "markdown": "```bash\nclawchief/\n├── README.md\n├── clawchief/\n│ ├── priority-map.md\n│ ├── auto-resolver.md\n│ ├── meeting-notes.md\n│ ├── tasks.md\n│ └── tasks-completed.md\n├── skills/\n│ ├── business-development/\n│ │   └── SKILL.md\n│ ├── daily-task-manager/\n│ │   └── SKILL.md\n│ ├── daily-task-prep/\n│ │   └── SKILL.md\n│ └── executive-assistant/\n│ └── SKILL.md\n├── workspace/\n│ ├── HEARTBEAT.md\n│ ├── TOOLS.md\n│ ├── memory/\n│ │   └── meeting-notes-state.json\n│ └── tasks/\n└── cron/\n    └── jobs.template.json\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://www.youtube.com/watch?v=9ZbbxSgrjhw&t=3847s"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "markdown": "```bash\n/executive-assistant\n/business-development\n/daily-task-manager\n/daily-task-prep\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

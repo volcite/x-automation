@@ -1,0 +1,2006 @@
+{
+  "tweet_created_at": "2026-04-03T09:08:21.000000Z",
+  "id": 2039993395981275100,
+  "id_str": "2039993395981275163",
+  "type": "tweet",
+  "conversation_id_str": "2039993395981275163",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/TyGBnjYC9v",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1480830108017766400,
+    "id_str": "1480830108017766412",
+    "name": "ずん●Overwatchコーチ（現在無料コーチング中）",
+    "screen_name": "OWzundamon",
+    "location": "KANEZAKA",
+    "url": "https://www.youtube.com/@overwatch9753",
+    "description": "99Divine ストリーマー部門所属\n@99divine_\n初心者～プロまでコーチング中。\nスキルタウンにてOWコーチング販売数、評価数、総合1位の実績有。\nTwitchで隔日21時からコーチング配信中。\nオーバーウォッチのコーチングといえば「ずん」と認識して貰えるようがんばっていますので、応援おねがいします。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4781,
+    "friends_count": 1214,
+    "listed_count": 36,
+    "favourites_count": 3695,
+    "statuses_count": 5126,
+    "created_at": "2022-01-11T09:13:18.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1480830108017766412/1769851762",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2004125465779621890/pfd5ynk__normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 11,
+  "reply_count": 3,
+  "retweet_count": 123,
+  "favorite_count": 2141,
+  "views_count": 225634,
+  "bookmark_count": 1699,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039986961142960128",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/TyGBnjYC9v"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T09:08:21.000000Z",
+    "id": 2039993395981275100,
+    "id_str": "2039993395981275163",
+    "title": "レティクルを変えるとAIMの意識が変わる～読むだけでAIMが強くなる～",
+    "preview_text": "FPSで勝つにはAIM力が高い程、勝率が上がります。\nしかし、AIM力を鍛える前に「レティクルはあなたに合っていますか？」\n今回はレティクルを変えるとAIM時の意識が変わる話をしようと思います。",
+    "cover_url": "https://pbs.twimg.com/media/HE99aXoa4AAvSUw.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 41,
+              "style": "Bold"
+            }
+          ],
+          "key": "3gpp0",
+          "text": "FPSで勝つにはAIM力が高い程、勝率が上がります。\nしかし、AIM力を鍛える前に「レティクルはあなたに合っていますか？」\n今回はレティクルを変えるとAIM時の意識が変わる話をしようと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4d67f",
+          "text": "質問です。あなたは普段どんなレティクルを使っていますか？\nサークルでしょうか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "62b12",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hrak",
+          "text": "それともドットでしょうか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7eu42",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "esthf",
+          "text": "もしくはTa1yoレティクルでしょうか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eao70",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 62,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8l5rt",
+          "text": "オーバーウォッチでは「キャラクター別にレティクルを設定できます」\n使うキャラによって「向いているレティクルがある」からです。\n自分にとって使いやすいレティクルを使うのが一番ですが、根拠や理論を知っておくと「何か当たらないな」という日にレティクルの力でAIMの修正ができるかもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 47,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4pkr0",
+          "text": "オーバーウォッチのレティクルは基本的に「デカくて派手」か「ドット」のどちらかをオススメします。\n参考までに私の使っている「デカくて派手」なレティクルのうちの一つを紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "el0bm",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 26,
+              "offset": 29,
+              "style": "Bold"
+            }
+          ],
+          "key": "f2vc6",
+          "text": "なぜ「デカくて派手」なレティクルの方が良いか説明します。\n「視認性の向上」と「エイムの安定」を目的としています。\nオーバーウォッチはスキルやULTなどのエフェクトが非常に激しいゲームなため、小さなレティクルだと何が起きているか分からなくなったり、レティクルを見失ったりすることがあります。\nデカくて派手なクロスヘアにすることで、乱戦の中でも常に画面の中央（自分がどこを狙っているか）を認識しやすくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3brj3",
+          "text": "トラッキング（追いエイム）のしやすさ\n敵の動きが速いオーバーウォッチでは、大きなレティクルは敵を枠内に入れ続けるガイド的な役割を果たします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2f4hv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 15,
+              "offset": 14,
+              "style": "Bold"
+            },
+            {
+              "length": 55,
+              "offset": 95,
+              "style": "Bold"
+            }
+          ],
+          "key": "71q0m",
+          "text": "「敵に弾を当てる」のではなく「敵をレティクルに入れ続ける」とAIM意識が変わるので、攻撃が敵に当たりやすくなります。\nまた、「デカくて派手」なのでレティクルを見失うということがありません。\nこのレティクルはヘッドショット判定のないキャラやショットガン持ちのキャラ、キリコで青札が多い人にオススメです。\nもしくは追いAIMが重要なキャラや、追いAIMの調子が悪い日に使ってみるといいでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bt6f1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ngkb",
+          "text": "Ta1yoレティクルは十字の空いている部分を敵の頭に収めると良い感じに撃てます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 30,
+              "offset": 22,
+              "style": "Bold"
+            },
+            {
+              "length": 24,
+              "offset": 135,
+              "style": "Bold"
+            },
+            {
+              "length": 63,
+              "offset": 265,
+              "style": "Bold"
+            }
+          ],
+          "key": "a0mg1",
+          "text": "次にレティクルはドットが良い説明をします。\n「視界の広さ」と「瞬発力と精密な射撃」を目的にしています。\n大きな十字線や円形の設定だと、遠くにいる小さな敵や、敵の頭部（ヘッドショット判定）がレティクル自体で隠れてしまうことがあります。ドットは画面上の占有面積が小さいので、敵の動きや細かな姿勢の変化を常に視認し続けられるのが利点です。\nまた、即着系（ヒットスキャン系）の攻撃の場合はドットと敵が重なった瞬間に撃てば確実に当たります。\n反射神経が良ければ敵が高速移動していても、ドットが重なった瞬間にクリックすれば攻撃があたります。\nこのレティクルはヒットスキャン系、レレレなどの敵の移動をしっかり見たい人、画面がスッキリしている方が落ち着く人にオススメです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a48pi",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4rcms",
+          "text": "実はここでみなさんに驚きの報告があります。\nこの記事をここまで読んだだけで、既にAIM力が上がっています。\n「なにを言ってるんだ、このずんだ脳は？」と思う方が大半でしょう",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 63,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "clfi1",
+          "text": "あなたの意識はすでに「敵を攻撃する」ではなく「敵をレティクルに入れる」「敵とレティクルが重なった瞬間にクリックする」といった一歩踏み込んだ「意識の違い」が生まれています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "avrrn",
+          "text": "\n意識が変われば脳の使い方も変わりますので、実際に練習場やクイックで試してみて下さい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahi4u",
+          "text": "他に私が使っているレティクルANSが使っていたレティクルと目的を紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "amo8p",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bdj3c",
+          "text": "ライン型のレティクルです。こちらはプロジェクトタイル系のキャラを使う時にオススメです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9kbmp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 49,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 50,
+              "offset": 101,
+              "style": "Bold"
+            }
+          ],
+          "key": "cl543",
+          "text": "例えば敵が左に逃げようとしている時にライン部分にAIMを重ねればちょうどヘッドショットになります。\nヒットスキャンを使う時でも「何かヘッドショットラインがズレるな」という時の修正に使うこともあります。\nこのレティクルはメイやキリコなどのプロジェクトタイル系でヘッドショットが大事なキャラにオススメです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "863ks",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ukfb",
+          "text": "少し設定を変えるとゲンジの３Way手裏剣（右クリック）が両端と真ん中に飛んでいくレティクルにできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fqsus",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5o7u",
+          "text": "次にザリアの紹介です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dn1ba",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "egsua",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "669n7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 82,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d3c3t",
+          "text": "「武器の射程を表示をON」にすると、敵にビームが当たる位置と距離になるとレティクルに「（」記号が半円で現れます。\nこの瞬間に左クリックを押せば必ず攻撃が当たります。\nなので、相反色のうすいマゼンダの色にして、中央ギャップを35にしてます。\n中央ギャップ35はレーザーの当たる太さです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9aigd",
+          "text": "次はANS選手のレティクルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "50ne7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2ifr1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "d7cg1",
+          "text": "何年前か忘れたけど、ANS選手が使っていたレティクル。\n「わざと見づらいレティクルにして、めちゃくちゃ集中しないといけない」といった負荷をかけるレティクルです。\n練習場のBOTは体が白いからいいけど、試合中にやったら確実にレティクルを見失うと思います。\nしかし、これで脅威の命中率を出していのだからすごいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 75,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3kci2",
+          "text": "結局は「自分に合ったレティクル」を使うのが一番です。\nしかし、レティクルの基礎知識を知った上で「自分に合ったレティクル」を使うだけで意識は変わります。\n試行錯誤して自分にあったレティクルを探すのも楽しいです。\n色を変えるだけでも気分転換になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "evtrk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2br9",
+          "text": "思いきって敵や味方の色をカスタマイズしてみるのも良いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7ca9e",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9m3le",
+          "text": "敵のアウトラインを黄色にして視認性を上げてみました。\nこの変更だけでも命中率が変わってくると思います",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 49,
+              "style": "Bold"
+            }
+          ],
+          "key": "411tu",
+          "text": "以上、レティクルのお話でした。\nレティクルだけでAIM力が変わるので、ぜひ実践してみて下さい。\n\n最後に、「俺はこの変態レティクルでやってるぜ！」など面白いレティクルがあったら紹介してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "93i4d",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "hashtags": [
+              {
+                "fromIndex": 0,
+                "text": "オーバーウォッチ",
+                "toIndex": 9
+              },
+              {
+                "fromIndex": 10,
+                "text": "Overwatch",
+                "toIndex": 20
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 9,
+              "offset": 0
+            },
+            {
+              "key": 19,
+              "length": 10,
+              "offset": 10
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4hvpc",
+          "text": "#オーバーウォッチ #Overwatch",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "caption": "何もない所を狙うとこんな感じ",
+              "entityKey": "e4047b06-18dc-4fbc-be63-05d6923b4fcc",
+              "mediaItems": [
+                {
+                  "localMediaId": "24",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039990583171932160"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "caption": "敵が左に逃げると仮定",
+              "entityKey": "6372b0a0-0458-46e7-9427-8ae0dd27580e",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039989534193299456"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "entityKey": "e3d93fd2-d432-476a-97be-06d236f015a8",
+              "url": "https://x.com/hashtag/Overwatch?src=hashtag_click"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "caption": "敵を枠内に入れる",
+              "entityKey": "31d8b035-36a3-425a-a87d-4754af6bea0f",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039988185963626496"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "caption": "すごく…見づらいです…。",
+              "entityKey": "a2b21cbc-d3fa-465c-8d04-380982839434",
+              "mediaItems": [
+                {
+                  "localMediaId": "30",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039990921312481280"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "caption": "なんじゃこりゃ？",
+              "entityKey": "c91404b7-b9ec-4e27-8032-9ae6a5307a2f",
+              "mediaItems": [
+                {
+                  "localMediaId": "22",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039990489903161344"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "caption": "ゲンジにオススメのレティクル",
+              "entityKey": "f864bb4f-d336-40e8-8967-f9ce7d47de93",
+              "mediaItems": [
+                {
+                  "localMediaId": "16",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039990117650284544"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "caption": "なんか出てきた",
+              "entityKey": "e061d1ef-3085-4361-bbaf-e4da9f5b4a05",
+              "mediaItems": [
+                {
+                  "localMediaId": "26",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039990694824312832"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "caption": "アクセシビリティ→色覚→UIカラーをカスタマイズ",
+              "entityKey": "a8aea5e3-8a27-46bd-a13b-cebcea331266",
+              "mediaItems": [
+                {
+                  "localMediaId": "32",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039991092020748288"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "caption": "意外とヘッドショットしやすい",
+              "entityKey": "83df2b65-562b-46e5-8e5d-acdbadf2f015",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039988373323132928"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "caption": "ドットタイプはご自由にどうぞ",
+              "entityKey": "6c620928-b651-470c-8682-d3b1643e9e43",
+              "mediaItems": [
+                {
+                  "localMediaId": "18",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039990289549656064"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "caption": "ドットはレティクルが小さいので目立つ色にするのがオススメ",
+              "entityKey": "0584b310-baa6-4b91-aff7-690777348cb0",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039988712608849921"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "ドット",
+              "entityKey": "6434790c-ef1e-411e-8a1b-bd40d1659365",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039987466908864512"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "caption": "敵や味方のアウトラインの色を変えることができます。",
+              "entityKey": "34ddd71d-43d5-40f6-9230-5ac7675f30d0",
+              "mediaItems": [
+                {
+                  "localMediaId": "34",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039991168851996672"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "caption": "昔ANS選手が使ってたレティクル",
+              "entityKey": "94039097-d5bc-438a-bfd9-ee02dc81aed5",
+              "mediaItems": [
+                {
+                  "localMediaId": "28",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039990837552238592"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "サークル",
+              "entityKey": "82bc58ee-99fa-4e77-8373-7b07ac29aabe",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039987308523646976"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "実は理にかなっているTa1yoレティクル",
+              "entityKey": "562ea090-f1de-491f-9656-9443ca7f5079",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039987711822741504"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "entityKey": "31d95fc9-843c-4c6f-b2ca-5fc4917caebd",
+              "url": "https://x.com/hashtag/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81?src=hashtag_click"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "caption": "ライン",
+              "entityKey": "8572ed48-b32a-412c-8a45-044edca8b250",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039989437111963648"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "caption": "サークルデカ派手レティクル",
+              "entityKey": "ff9e1ed8-9fdb-4661-841e-f97f30cc9bcc",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039987795058655232"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9+ngHaMAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039988373323132928",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 67.85,
+                "rgb": {
+                  "blue": 247,
+                  "green": 215,
+                  "red": 209
+                }
+              },
+              {
+                "percentage": 14.95,
+                "rgb": {
+                  "blue": 97,
+                  "green": 74,
+                  "red": 75
+                }
+              },
+              {
+                "percentage": 11.76,
+                "rgb": {
+                  "blue": 157,
+                  "green": 119,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 2.99,
+                "rgb": {
+                  "blue": 168,
+                  "green": 133,
+                  "red": 127
+                }
+              },
+              {
+                "percentage": 1.3,
+                "rgb": {
+                  "blue": 183,
+                  "green": 194,
+                  "red": 222
+                }
+              }
+            ]
+          },
+          "original_img_height": 311,
+          "original_img_url": "https://pbs.twimg.com/media/HE9-ngHaMAAXPFf.png",
+          "original_img_width": 355
+        },
+        "media_key": "3_2039988373323132928"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9/rEsbMAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039989534193299456",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 58.34,
+                "rgb": {
+                  "blue": 248,
+                  "green": 217,
+                  "red": 211
+                }
+              },
+              {
+                "percentage": 36.13,
+                "rgb": {
+                  "blue": 153,
+                  "green": 119,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 3.35,
+                "rgb": {
+                  "blue": 175,
+                  "green": 190,
+                  "red": 218
+                }
+              },
+              {
+                "percentage": 0.77,
+                "rgb": {
+                  "blue": 147,
+                  "green": 137,
+                  "red": 218
+                }
+              },
+              {
+                "percentage": 0.69,
+                "rgb": {
+                  "blue": 152,
+                  "green": 200,
+                  "red": 248
+                }
+              }
+            ]
+          },
+          "original_img_height": 344,
+          "original_img_url": "https://pbs.twimg.com/media/HE9_rEsbMAAA1sZ.png",
+          "original_img_width": 445
+        },
+        "media_key": "3_2039989534193299456"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9+A/1bQAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039987711822741504",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 74.67,
+                "rgb": {
+                  "blue": 91,
+                  "green": 71,
+                  "red": 63
+                }
+              },
+              {
+                "percentage": 19.83,
+                "rgb": {
+                  "blue": 233,
+                  "green": 227,
+                  "red": 227
+                }
+              },
+              {
+                "percentage": 2.45,
+                "rgb": {
+                  "blue": 136,
+                  "green": 86,
+                  "red": 24
+                }
+              },
+              {
+                "percentage": 1.4,
+                "rgb": {
+                  "blue": 157,
+                  "green": 147,
+                  "red": 66
+                }
+              },
+              {
+                "percentage": 0.25,
+                "rgb": {
+                  "blue": 85,
+                  "green": 61,
+                  "red": 62
+                }
+              }
+            ]
+          },
+          "original_img_height": 618,
+          "original_img_url": "https://pbs.twimg.com/media/HE9-A_1bQAAQgMi.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2039987711822741504"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+Ais/aYAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039990489903161344",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 77.15,
+                "rgb": {
+                  "blue": 89,
+                  "green": 69,
+                  "red": 61
+                }
+              },
+              {
+                "percentage": 20.31,
+                "rgb": {
+                  "blue": 233,
+                  "green": 229,
+                  "red": 228
+                }
+              },
+              {
+                "percentage": 0.95,
+                "rgb": {
+                  "blue": 175,
+                  "green": 168,
+                  "red": 65
+                }
+              },
+              {
+                "percentage": 0.13,
+                "rgb": {
+                  "blue": 181,
+                  "green": 76,
+                  "red": 164
+                }
+              }
+            ]
+          },
+          "original_img_height": 695,
+          "original_img_url": "https://pbs.twimg.com/media/HE-Ais_aYAAB3Ut.jpg",
+          "original_img_width": 1202
+        },
+        "media_key": "3_2039990489903161344"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+A70HaMAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039990921312481280",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 55.44,
+                "rgb": {
+                  "blue": 131,
+                  "green": 93,
+                  "red": 91
+                }
+              },
+              {
+                "percentage": 32.71,
+                "rgb": {
+                  "blue": 121,
+                  "green": 118,
+                  "red": 134
+                }
+              },
+              {
+                "percentage": 2.95,
+                "rgb": {
+                  "blue": 90,
+                  "green": 71,
+                  "red": 148
+                }
+              },
+              {
+                "percentage": 2.2,
+                "rgb": {
+                  "blue": 83,
+                  "green": 42,
+                  "red": 41
+                }
+              },
+              {
+                "percentage": 1.47,
+                "rgb": {
+                  "blue": 60,
+                  "green": 59,
+                  "red": 180
+                }
+              }
+            ]
+          },
+          "original_img_height": 295,
+          "original_img_url": "https://pbs.twimg.com/media/HE-A70HaMAAEF7k.png",
+          "original_img_width": 267
+        },
+        "media_key": "3_2039990921312481280"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+A28FaUAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039990837552238592",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 73.57,
+                "rgb": {
+                  "blue": 89,
+                  "green": 70,
+                  "red": 63
+                }
+              },
+              {
+                "percentage": 22.49,
+                "rgb": {
+                  "blue": 234,
+                  "green": 230,
+                  "red": 229
+                }
+              },
+              {
+                "percentage": 2.82,
+                "rgb": {
+                  "blue": 136,
+                  "green": 85,
+                  "red": 22
+                }
+              },
+              {
+                "percentage": 0.28,
+                "rgb": {
+                  "blue": 176,
+                  "green": 170,
+                  "red": 71
+                }
+              }
+            ]
+          },
+          "original_img_height": 545,
+          "original_img_url": "https://pbs.twimg.com/media/HE-A28FaUAALx9u.jpg",
+          "original_img_width": 1203
+        },
+        "media_key": "3_2039990837552238592"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+ANCPaQAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039990117650284544",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 39.17,
+                "rgb": {
+                  "blue": 102,
+                  "green": 70,
+                  "red": 68
+                }
+              },
+              {
+                "percentage": 33.89,
+                "rgb": {
+                  "blue": 201,
+                  "green": 172,
+                  "red": 176
+                }
+              },
+              {
+                "percentage": 8.73,
+                "rgb": {
+                  "blue": 228,
+                  "green": 173,
+                  "red": 168
+                }
+              },
+              {
+                "percentage": 5.74,
+                "rgb": {
+                  "blue": 144,
+                  "green": 84,
+                  "red": 75
+                }
+              },
+              {
+                "percentage": 1.95,
+                "rgb": {
+                  "blue": 93,
+                  "green": 88,
+                  "red": 99
+                }
+              }
+            ]
+          },
+          "original_img_height": 993,
+          "original_img_url": "https://pbs.twimg.com/media/HE-ANCPaQAAHN31.jpg",
+          "original_img_width": 1765
+        },
+        "media_key": "3_2039990117650284544"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+AuoYbAAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039990694824312832",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 64.12,
+                "rgb": {
+                  "blue": 130,
+                  "green": 94,
+                  "red": 92
+                }
+              },
+              {
+                "percentage": 22.94,
+                "rgb": {
+                  "blue": 124,
+                  "green": 123,
+                  "red": 142
+                }
+              },
+              {
+                "percentage": 2.54,
+                "rgb": {
+                  "blue": 199,
+                  "green": 156,
+                  "red": 145
+                }
+              },
+              {
+                "percentage": 1.73,
+                "rgb": {
+                  "blue": 133,
+                  "green": 61,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 1.62,
+                "rgb": {
+                  "blue": 71,
+                  "green": 51,
+                  "red": 50
+                }
+              }
+            ]
+          },
+          "original_img_height": 302,
+          "original_img_url": "https://pbs.twimg.com/media/HE-AuoYbAAAYG59.png",
+          "original_img_width": 338
+        },
+        "media_key": "3_2039990694824312832"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9+7QDbYAEKAAIUjPcjMRowDAAA",
+        "media_id": "2039988712608849921",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 80.81,
+                "rgb": {
+                  "blue": 245,
+                  "green": 213,
+                  "red": 206
+                }
+              },
+              {
+                "percentage": 10.67,
+                "rgb": {
+                  "blue": 159,
+                  "green": 124,
+                  "red": 119
+                }
+              },
+              {
+                "percentage": 7.11,
+                "rgb": {
+                  "blue": 89,
+                  "green": 70,
+                  "red": 73
+                }
+              },
+              {
+                "percentage": 1.31,
+                "rgb": {
+                  "blue": 194,
+                  "green": 215,
+                  "red": 239
+                }
+              },
+              {
+                "percentage": 1.03,
+                "rgb": {
+                  "blue": 146,
+                  "green": 132,
+                  "red": 214
+                }
+              }
+            ]
+          },
+          "original_img_height": 247,
+          "original_img_url": "https://pbs.twimg.com/media/HE9-7QDbYAE0Xrm.png",
+          "original_img_width": 271
+        },
+        "media_key": "3_2039988712608849921"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE99yvdaEAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039987466908864512",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 73.86,
+                "rgb": {
+                  "blue": 95,
+                  "green": 75,
+                  "red": 68
+                }
+              },
+              {
+                "percentage": 24.49,
+                "rgb": {
+                  "blue": 232,
+                  "green": 228,
+                  "red": 227
+                }
+              },
+              {
+                "percentage": 1.58,
+                "rgb": {
+                  "blue": 166,
+                  "green": 156,
+                  "red": 70
+                }
+              }
+            ]
+          },
+          "original_img_height": 405,
+          "original_img_url": "https://pbs.twimg.com/media/HE99yvdaEAADCNg.jpg",
+          "original_img_width": 1205
+        },
+        "media_key": "3_2039987466908864512"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9/lbCbkAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039989437111963648",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 79.36,
+                "rgb": {
+                  "blue": 91,
+                  "green": 71,
+                  "red": 63
+                }
+              },
+              {
+                "percentage": 18.75,
+                "rgb": {
+                  "blue": 235,
+                  "green": 230,
+                  "red": 229
+                }
+              },
+              {
+                "percentage": 1.44,
+                "rgb": {
+                  "blue": 170,
+                  "green": 161,
+                  "red": 67
+                }
+              },
+              {
+                "percentage": 0.19,
+                "rgb": {
+                  "blue": 80,
+                  "green": 62,
+                  "red": 71
+                }
+              }
+            ]
+          },
+          "original_img_height": 622,
+          "original_img_url": "https://pbs.twimg.com/media/HE9_lbCbkAA2hzx.jpg",
+          "original_img_width": 1202
+        },
+        "media_key": "3_2039989437111963648"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9+cmJbAAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039988185963626496",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 63.01,
+                "rgb": {
+                  "blue": 140,
+                  "green": 112,
+                  "red": 116
+                }
+              },
+              {
+                "percentage": 16.72,
+                "rgb": {
+                  "blue": 199,
+                  "green": 170,
+                  "red": 177
+                }
+              },
+              {
+                "percentage": 6.87,
+                "rgb": {
+                  "blue": 149,
+                  "green": 145,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 6.05,
+                "rgb": {
+                  "blue": 250,
+                  "green": 177,
+                  "red": 164
+                }
+              },
+              {
+                "percentage": 2.26,
+                "rgb": {
+                  "blue": 170,
+                  "green": 126,
+                  "red": 119
+                }
+              }
+            ]
+          },
+          "original_img_height": 492,
+          "original_img_url": "https://pbs.twimg.com/media/HE9-cmJbAAA_3yv.png",
+          "original_img_width": 507
+        },
+        "media_key": "3_2039988185963626496"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+AoIca4AAKAAIUjPcjMRowDAAA",
+        "media_id": "2039990583171932160",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 64.69,
+                "rgb": {
+                  "blue": 135,
+                  "green": 96,
+                  "red": 96
+                }
+              },
+              {
+                "percentage": 23.99,
+                "rgb": {
+                  "blue": 123,
+                  "green": 122,
+                  "red": 141
+                }
+              },
+              {
+                "percentage": 3.4,
+                "rgb": {
+                  "blue": 206,
+                  "green": 154,
+                  "red": 147
+                }
+              },
+              {
+                "percentage": 2.82,
+                "rgb": {
+                  "blue": 95,
+                  "green": 75,
+                  "red": 152
+                }
+              },
+              {
+                "percentage": 1.49,
+                "rgb": {
+                  "blue": 71,
+                  "green": 47,
+                  "red": 47
+                }
+              }
+            ]
+          },
+          "original_img_height": 283,
+          "original_img_url": "https://pbs.twimg.com/media/HE-AoIca4AAXVfm.png",
+          "original_img_width": 549
+        },
+        "media_key": "3_2039990583171932160"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+BKORbcAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039991168851996672",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 38.16,
+                "rgb": {
+                  "blue": 113,
+                  "green": 78,
+                  "red": 77
+                }
+              },
+              {
+                "percentage": 25.78,
+                "rgb": {
+                  "blue": 171,
+                  "green": 120,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 18.89,
+                "rgb": {
+                  "blue": 123,
+                  "green": 137,
+                  "red": 151
+                }
+              },
+              {
+                "percentage": 7.79,
+                "rgb": {
+                  "blue": 116,
+                  "green": 108,
+                  "red": 122
+                }
+              },
+              {
+                "percentage": 1.2,
+                "rgb": {
+                  "blue": 67,
+                  "green": 161,
+                  "red": 172
+                }
+              }
+            ]
+          },
+          "original_img_height": 322,
+          "original_img_url": "https://pbs.twimg.com/media/HE-BKORbcAAbGUM.png",
+          "original_img_width": 332
+        },
+        "media_key": "3_2039991168851996672"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+AXCnagAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039990289549656064",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 76.94,
+                "rgb": {
+                  "blue": 91,
+                  "green": 71,
+                  "red": 64
+                }
+              },
+              {
+                "percentage": 19.83,
+                "rgb": {
+                  "blue": 231,
+                  "green": 229,
+                  "red": 229
+                }
+              },
+              {
+                "percentage": 2.2,
+                "rgb": {
+                  "blue": 152,
+                  "green": 141,
+                  "red": 67
+                }
+              },
+              {
+                "percentage": 0.17,
+                "rgb": {
+                  "blue": 80,
+                  "green": 63,
+                  "red": 76
+                }
+              },
+              {
+                "percentage": 0.12,
+                "rgb": {
+                  "blue": 59,
+                  "green": 46,
+                  "red": 120
+                }
+              }
+            ]
+          },
+          "original_img_height": 619,
+          "original_img_url": "https://pbs.twimg.com/media/HE-AXCnagAAfQOg.jpg",
+          "original_img_width": 1202
+        },
+        "media_key": "3_2039990289549656064"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+BFwDboAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039991092020748288",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 39.84,
+                "rgb": {
+                  "blue": 198,
+                  "green": 162,
+                  "red": 154
+                }
+              },
+              {
+                "percentage": 31.49,
+                "rgb": {
+                  "blue": 66,
+                  "green": 46,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 3.18,
+                "rgb": {
+                  "blue": 0,
+                  "green": 218,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 3.16,
+                "rgb": {
+                  "blue": 0,
+                  "green": 121,
+                  "red": 211
+                }
+              },
+              {
+                "percentage": 3.16,
+                "rgb": {
+                  "blue": 81,
+                  "green": 47,
+                  "red": 238
+                }
+              }
+            ]
+          },
+          "original_img_height": 508,
+          "original_img_url": "https://pbs.twimg.com/media/HE-BFwDboAAF1aU.jpg",
+          "original_img_width": 1544
+        },
+        "media_key": "3_2039991092020748288"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9+F16agAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039987795058655232",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 70.76,
+                "rgb": {
+                  "blue": 93,
+                  "green": 74,
+                  "red": 66
+                }
+              },
+              {
+                "percentage": 22.94,
+                "rgb": {
+                  "blue": 232,
+                  "green": 226,
+                  "red": 225
+                }
+              },
+              {
+                "percentage": 2.96,
+                "rgb": {
+                  "blue": 150,
+                  "green": 95,
+                  "red": 32
+                }
+              },
+              {
+                "percentage": 2.37,
+                "rgb": {
+                  "blue": 171,
+                  "green": 164,
+                  "red": 68
+                }
+              },
+              {
+                "percentage": 0.48,
+                "rgb": {
+                  "blue": 68,
+                  "green": 56,
+                  "red": 76
+                }
+              }
+            ]
+          },
+          "original_img_height": 548,
+          "original_img_url": "https://pbs.twimg.com/media/HE9-F16agAALeRm.jpg",
+          "original_img_width": 1202
+        },
+        "media_key": "3_2039987795058655232"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE99phbbcAAKAAIUjPcjMRowDAAA",
+        "media_id": "2039987308523646976",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 76.62,
+                "rgb": {
+                  "blue": 92,
+                  "green": 73,
+                  "red": 65
+                }
+              },
+              {
+                "percentage": 21.62,
+                "rgb": {
+                  "blue": 233,
+                  "green": 230,
+                  "red": 229
+                }
+              },
+              {
+                "percentage": 1.71,
+                "rgb": {
+                  "blue": 155,
+                  "green": 143,
+                  "red": 67
+                }
+              }
+            ]
+          },
+          "original_img_height": 550,
+          "original_img_url": "https://pbs.twimg.com/media/HE99phbbcAAQJtT.jpg",
+          "original_img_width": 1205
+        },
+        "media_key": "3_2039987308523646976"
+      }
+    ]
+  }
+}

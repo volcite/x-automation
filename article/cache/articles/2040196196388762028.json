@@ -1,0 +1,1519 @@
+{
+  "tweet_created_at": "2026-04-03T22:34:12.000000Z",
+  "id": 2040196196388762000,
+  "id_str": "2040196196388762028",
+  "type": "tweet",
+  "conversation_id_str": "2040196196388762028",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/hOLM7GMKpn",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3282859598,
+    "id_str": "3282859598",
+    "name": "Creators",
+    "screen_name": "XCreators",
+    "location": "",
+    "url": "https://x.com/i/jf/creators/studio",
+    "description": "X is for creators.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 10904236,
+    "friends_count": 40,
+    "listed_count": 3719,
+    "favourites_count": 8383,
+    "statuses_count": 8807,
+    "created_at": "2015-07-18T00:54:11.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3282859598/1690180322",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1683364393323577345/uUWH_TiG_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/X",
+      "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+      "description": "X",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    },
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 93,
+  "reply_count": 282,
+  "retweet_count": 845,
+  "favorite_count": 2407,
+  "views_count": 804217,
+  "bookmark_count": 1935,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040141071628328960",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/hOLM7GMKpn"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T22:34:12.000000Z",
+    "id": 2040196196388762000,
+    "id_str": "2040196196388762028",
+    "title": "The ultimate guide to Grok Imagine images",
+    "preview_text": "You have an idea for an image. Maybe it's a product shot, a meme, a thumbnail, or something you can't quite describe yet but can see in your head. Grok Imagine lets you go from that idea to a finished",
+    "cover_url": "https://pbs.twimg.com/media/HFAJi9OaYAEZHto.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "297b2",
+          "text": "You have an idea for an image. Maybe it's a product shot, a meme, a thumbnail, or something you can't quite describe yet but can see in your head. Grok Imagine lets you go from that idea to a finished visual in seconds.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7kigj",
+          "text": "This guide will show you how to get the most out of it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e09ce",
+          "text": "Where to find it",
+          "type": "header-two"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 78,
+                "text": "grok.com",
+                "toIndex": 86
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 4,
+              "offset": 271
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 271,
+              "style": "Bold"
+            }
+          ],
+          "key": "aapmc",
+          "text": "Grok Imagine is available in the Grok app (iOS and Android) and on the web at grok.com. Sign in, tap the Imagine tab at the top, and you are in. The interface gives you a prompt input box and the option to generate images or video. This guide is all about images.  Click here for a dedicated guide on videos.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3f0th",
+          "text": "Two ways to generate - in two modes",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a6335",
+          "text": "Start from text (Text-to-Image)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2smkt",
+          "text": "Describe what you want and Grok builds it. No upload needed, no base image, just words. This is the fastest path when you are working from a concept rather than an existing visual.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6k486",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3efjr",
+          "text": "Start from reference images",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "47psg",
+          "text": "Upload up to 7 images and use them to anchor your generation. Grok uses both your text prompt as well as your references to match a specific aesthetic, color palette, or visual identity. This is how you get consistency when you are building a series of images that need to feel like they belong together. For even more precision, you can tag your input images, just type “@” and select a specific reference image.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bg85j",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5hcnl",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ce9id",
+          "text": "Pick your aspect ratio",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qht8",
+          "text": "Grok supports five: 16:9, 9:16, 3:2, 2:3, and 1:1. Pick the one that matches where the image is going. Vertical for stories and mobile-first feeds. Wide for timeline posts and headers. Square when you want something clean and neutral. Decide this before you generate so you are not cropping after the fact.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f1f3q",
+          "text": "Fast Mode vs. Quality Mode",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "br91d",
+          "text": "We have two modes for image generation with Grok Imagine:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dq9au",
+          "text": "Speed Mode: Our fastest model. Choose speed mode for first drafts, or quick and easy generations without high levels of visual complexity.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f1b6r",
+          "text": "Quality Mode: Choose this mode for higher quality outputs: Quality mode was made for more visual intelligence, better text rendering, enhanced realism and new levels of creative control across genres and styles. This is perfect for images requiring more precision.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "91jb6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "620n1",
+          "text": "Tip: You can also refine fast generations by selecting ‘Think Harder’ underneath your outputs if you want to start with a rough draft first and then increase fidelity.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bbqqn",
+          "text": "The anatomy of a good prompt",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8guc",
+          "text": "Most weak outputs trace back to a weak prompt. Not because the idea was bad, but because the prompt did not give Grok enough to work with.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "qdba",
+          "text": "Here is what separates a prompt that produces something generic from one that produces something you actually want to use.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d5u74",
+          "text": "1. Be specific about your subject",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aroit",
+          "text": "\"A woman standing outside\" gives Grok almost nothing. \"A woman in a long wool coat standing on a rain-wet sidewalk outside a bookstore\" gives it a scene. The more concrete your subject description, the less the model has to guess.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 54,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5i5ha",
+          "text": "2. Set the mood with references, not single adjectives",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "810ml",
+          "text": "\"Dark and moody\" could mean a hundred different things. \"Film noir lighting, deep shadows, desaturated except for a single red accent\" means one thing. Even better, reference something Grok can pattern-match against: \"Blade Runner color palette,\" \"Wes Anderson symmetry,\" \"70s Kodachrome tones.\" These act as shorthand for dozens of decisions about color, contrast, and texture.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9q85n",
+          "text": "3. Name your light source",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3f3ie",
+          "text": "Lighting changes everything about an image. \"Golden hour backlight\" and \"overhead fluorescent\" and \"single hard spotlight from camera left\" all describe light, but they produce completely different results. If you skip lighting in your prompt, you are handing one of the most important creative levers over to chance.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "frds3",
+          "text": "4. Describe the composition",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3je19",
+          "text": "Tell Grok where the camera is. \"Overhead flat lay,\" \"close-up at eye level,\" \"wide shot from across the street,\" \"low angle looking up.\" Composition is the difference between an image that feels intentional and one that feels like a random snapshot.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "crtp3",
+          "text": "5. Add finishing details",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5liq",
+          "text": "This is where you dial in the feel. Depth of field, film grain, lens type, color grading, texture. These are not decorative extras. They are what make an image feel like it belongs to a specific visual world. \"Shallow depth of field, soft film grain, muted earth tones\" turns a decent image into one with a point of view.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "n47r",
+          "text": "Putting it together",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37h18",
+          "text": "Here is a prompt that uses all five layers:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehklo",
+          "text": "\"A street vendor arranging dried flowers at a wooden cart on a cobblestone alley in Lisbon, late afternoon, warm golden light raking across the scene from the right, medium shot at eye level, slight lens flare, faded vintage color grade, shallow depth of field\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35ken",
+          "text": "Compare that to: \"a flower seller in a European city\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c0l5",
+          "text": "Both describe the same basic idea. One gives Grok a creative brief. The other gives it a coin flip.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6emqm",
+          "text": "Let Grok write the prompt for you",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "49t7",
+          "text": "If you know what you want but are not sure how to phrase it, open a regular Grok chat and describe your idea in plain language. Ask Grok to turn it into an Imagine prompt. It knows what Imagine responds well to and will structure the details for you. Copy the result into the Imagine interface and generate.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dvcb5",
+          "text": "Pro tip: Set up a Grok Project for this. Give it your brand's visual style, your preferred tones and textures, or any recurring creative direction. Then every time you need a prompt, Grok already has your context and can write one that fits without you repeating yourself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 49,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "82ms",
+          "text": "What to do when the output is close but not right",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d2qjm",
+          "text": "This happens a lot, and it is actually a good sign. It means your prompt is in the right neighborhood.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9uoq1",
+          "text": "Run it again first. Grok produces a different result every time, even with the exact same prompt. Before you change a word, generate a few more times. The version you want might be one or two runs away.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ai6ge",
+          "text": "For Fast Generations, Try “Think Harder”. If you like the overall direction of the image but are unsatisfied with details, the Quality mode might take you where you aim to go.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1tatg",
+          "text": "Image Editing",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48ka8",
+          "text": "If multiple runs are consistently missing in the same way, that is when you edit. Adjust the specific thing that is off. Too dark? Change the lighting instruction. Wrong framing? Change the composition. Resist the urge to rewrite the whole prompt when only one element needs to move.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4oi1r",
+          "text": "You can also edit your own photos to enhance them, change the style, or use individual elements as references for new images.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7de2",
+          "text": "Here are a few ideas to try:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3rvut",
+          "text": "[1] Make your smartphone shots look like professional photographs",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bnom3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9fd5",
+          "text": "[2] Remove, add, or modify objects from your images.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9llp2",
+          "text": "Didn’t like this person behind your girlfriend on the nice selfie you took last weekend? Just remove them. Try changing your hair color, outfit or make a cute little dog appear.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "agun7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6c5j",
+          "text": "[3] Change the style of your photos.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1j8h",
+          "text": "We have a lot of templates to do just that but you can also come up with your own ideas. Turn yourself into a Chibi character or transform your camera roll into a comic.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c1khm",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3tets",
+          "text": "Prompts worth trying",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4v4fh",
+          "text": "Editorial portrait: \"close-up portrait, strong directional light from a window on the left, deep shadows on the right side of the face, natural skin texture, shallow depth of field, desaturated tones, Vanity Fair cover energy\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4r1p4",
+          "text": "Product flat lay: \"overhead shot of a skincare routine arranged on a white marble surface, soft even lighting, no harsh shadows, minimal props, clean negative space around the edges, commercial product photography\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e428g",
+          "text": "Meme material: \"a golden retriever in a suit sitting at the head of a conference table, other dogs in business attire looking at a whiteboard full of charts, corporate office with fluorescent lighting, shot like a scene from The Office\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "pr8u",
+          "text": "Album art: \"abstract landscape, layered mountain ridges fading into fog, deep indigo and burnt orange gradient sky, no text, wide format, painterly brushstroke texture, contemplative and cinematic\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5bj84",
+          "text": "Thumbnail with text space: \"dramatic low-angle shot of a figure silhouetted against a stormy sky, strong contrast, open space in the upper third for text overlay, cinematic color grade, bold composition\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "chjm2",
+          "text": "World building: \"the interior of an abandoned space station, overgrown with bioluminescent plants, shafts of blue-green light filtering through cracked hull panels, wide shot, sci-fi concept art style, high detail\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e3nni",
+          "text": "A poster for your backyard sale: ​​",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f1r3p",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9k1dm",
+          "text": "Building a workflow around Imagine",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bq2m9",
+          "text": "Grok Imagine is most useful when it becomes part of how you create, not just something you try once.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9aqs",
+          "text": "A few ways to integrate it:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kum4",
+          "text": "When something is trending and you need a visual fast, Imagine gets you from idea to post in under a minute. That speed matters when timing is everything.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80tkt",
+          "text": "When you need volume, generate a batch of variations on the same concept quickly. Test which visual direction has the most energy before you commit to anything.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9mqcj",
+          "text": "When you need consistency, save the prompts behind your best outputs. Reuse them with small modifications to maintain a visual identity across posts without everything looking identical.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "806fa",
+          "text": "When you are planning content, use Grok chat to storyboard ideas and generate prompts, then move to Imagine to produce the visuals. This turns Imagine into the production layer of a larger creative process.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rkfk",
+          "text": "When you need images that become video, start here. Generate and refine your image in Imagine until the composition, lighting, and subject are exactly right, then animate it into video directly from your saved image. A strong starting frame makes everything that follows better.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b05h4",
+          "text": "Organizing your library",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ci4s1",
+          "text": "Your saved images will pile up fast. Use Grok Imagine's tagging feature to stay organized. Go to the Saved tab, create tags for your projects or content themes, and apply them to your saved images. You can filter by tag anytime to pull up exactly what you need.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "as3jp",
+          "text": "Start generating",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29nrh",
+          "text": "The best way to learn what Imagine can do is to use it a lot. Generate, look at what works, save the prompts that produced your best results, and keep pushing from there.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 33,
+                "text": "grok.com",
+                "toIndex": 41
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 8,
+              "offset": 33
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ae6t0",
+          "text": "Download the Grok app or head to grok.com to start.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aisia",
+          "text": " ",
+          "type": "atomic"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "caption": "Prompt: Create a vintage-style graphic poster for a community garage sale with a textured, slightly worn print look. The background should be a deep warm brown with subtle grain and paper texture, resembling screen print or risograph ink on paper. At the top center, display large hand-drawn bubble letters reading: GARAGE SALE The letters should be thick, rounded, slightly irregular, outlined in bright sky blue with a darker inner contour line to create a layered, wavy retro effect. The typography should feel playful and imperfect, like hand-printed ink. On the left side beneath the title, include green uppercase text: 742 ORCHARD BEND AVE LARKSPUR HEIGHTS, CALDORA On the right side, aligned symmetrically, include green uppercase text: THIS SATURDAY 25 APR. 2026 10AM - 3PM In the center, place a bold abstract yellow graphic resembling a stylized organic shape or creature with smooth, blobby arms and branching forms. It should look hand-painted with slightly imperfect edges and solid flat color. Below the graphic, include three horizontal rows of evenly spaced uppercase category labels, separated by thin blue divider lines. All bottom category text must be white: SHIRTS SHORTS TROUSERS JACKETS ACCESSORIES FOOTWEAR BOOKS ART & DESIGN CAR STUFF CAMPING TOOLS BED & HOME COUCH COFFEE TABLE LAMPS DESKS OFFICE BITS DRESSERS RUGS All text should be a clean, slightly condensed sans-serif with a subtle hand-printed feel. Use a limited color palette: * deep brown background * bright sky blue accents * vivid green top text * white bottom text * bold yellow central graphic Apply subtle ink bleed, slight misregistration, and small imperfections to simulate analog printing. Keep lighting flat and graphic (poster style), not realistic 3D. The final result should look like a professionally designed retro garage sale poster with tactile print texture and clear, legible text.",
+              "entityKey": "0cdef853-a6b9-4e08-8272-2144489fb790",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040142126340861953"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "d9e8167c-06ee-4744-814f-def1895f570b",
+              "tweetId": "2040150187373670570"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "7ae31dd2-4f89-4964-b75b-47e89ac7d3fb",
+              "url": "http://grok.com/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "caption": "Prompt: Make this look like a professional photo.",
+              "entityKey": "f8a3ba67-96d2-49ee-a107-7c2298d33dcb",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040181376788443136"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "62215564-b59f-4d3b-a601-5fd3702ff5a4",
+              "tweetId": "2040068944946774151"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "caption": "Prompt: Remove the clouds to make the sky clear.",
+              "entityKey": "8a29c651-393a-414c-981b-0de8f8d831ce",
+              "mediaItems": [
+                {
+                  "localMediaId": "12",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040193268588396544"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "Prompt: iPhone from above shot of a croissant, torn into two pieces, subtly messy , placed on a cream white plate with a dark green line, natural lighting, low-quality photo style, subtly overexposed and too bright, grainy. parts of a newspaper and espresso cup visible.",
+              "entityKey": "b426d7d4-d493-41d6-ba06-421e00c78d2e",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040141544574128128"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "61a5f560-4fef-4dbb-a9f2-02a2ca5e633c",
+              "url": "https://x.com/XCreators/status/2037642851732066580?"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "Prompt: Transform the input photo into a luminous plein-air impressionist oil painting with clearly visible brushwork, broken color, and richly painterly surface texture. The image should feel built from many distinct brush gestures: short dabs, comma strokes, scumbled passages, dragged dry-brush marks, layered strokes, and small patches of contrasting color that optically blend at a distance.   Preserve the original composition, but reinterpret every form as oil paint on canvas. Replace photographic detail with painterly construction: skies made of layered strokes of blue, lavender, pink, and cream; water built from horizontal broken marks and shimmering reflections; foliage formed from dense clusters of green, yellow, teal, lilac, and ochre dabs; fields and grasses described with lively vertical and diagonal strokes; distant buildings and trees simplified into vibrating masses of color rather than precise outlines.   Use a high-chroma but natural impressionist palette inspired by late-19th-century outdoor painting: cerulean, cobalt, ultramarine, turquoise, mint green, sage, spring green, butter yellow, lemon, ochre, peach, coral, shell pink, lilac, mauve, violet, soft cream, and warm white. Shadows should be painted in cool violets, blue-greens, mauves, and indigo, not gray or black. Light should feel atmospheric and radiant, but expressed through color relationships and paint handling, not lens blur.   Texture should be prominent across the whole image: visible canvas grain, layered oil paint, dry-brush drag, broken edges, impasto accents, and energetic brush rhythms. Edges may be softened, but not smeared; forms should dissolve through stroke variation and color vibration.",
+              "entityKey": "d7da3509-35c9-4c92-afd0-e75098353dad",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040141690850455552"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "caption": "Prompt: Turn us into Chibis. ",
+              "entityKey": "007bdd5a-5ede-476b-8532-a72f9c881c5d",
+              "mediaItems": [
+                {
+                  "localMediaId": "14",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040194435980402689"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "caption": "Prompt: Transform the input painting into a photorealistic museum gallery installation photo. The painting from the input image should appear as a large vertically framed artwork hanging on the wall of an elegant modern museum, presented in the same visual style and atmosphere as the reference image. The result should look like a real exhibition photograph taken inside a curved white-walled gallery. Show three very large framed paintings hanging side by side on the wall, each in an ornate but restrained gold frame, with the input painting used as the artwork displayed in the frames. The central goal is that the input artwork feels like it is physically installed in a prestigious museum setting. Composition and environment: * spacious museum interior with soft curved white walls * three oversized vertical paintings evenly spaced across the wall * polished light wood or neutral museum floor * subtle black barrier rails in front of the paintings * ceiling-mounted gallery spotlights above * soft warm indoor museum lighting * perspective similar to a candid exhibition photo, taken from several meters away at eye level * slight angle across the gallery wall, not perfectly straight-on Artwork presentation: * the input painting should be visible as the painting hanging on the wall * ideally it appears as the featured work in the installation, replacing the original water-lily paintings * preserve the original colors, composition, and painterly details of the input artwork * present it as a monumental museum-scale canvas * each painting should feel physically framed, mounted, and naturally lit * canvas should have subtle real-world texture under gallery lighting Human figure: * include one museum visitor standing in front of the paintings for scale * the person should be seen in side profile or three-quarter profile * dark clothing, understated silhouette * looking at one of the paintings * figure should remain secondary, used mainly to convey scale and realism Photographic style: * realistic museum documentary photo * soft but slightly dim gallery ambiance * mild grain or low-resolution realism is acceptable * natural perspective and believable architectural lines * quiet, contemplative, institutional atmosphere * no surrealism, no excessive sharpness, no glossy CGI look Important: * this is an image edit using the input painting * do not repaint or restyle the painting itself * do not change the artwork into water lilies or another subject * the input image should simply be shown hanging in this museum-gallery scene * keep the feeling of a real exhibition photo Negative prompt: floating painting, distorted frame, modern living room, colorful visitors, empty wall, contemporary digital screen, surreal museum, warped architecture, glossy CGI render, over-sharpened product photo, wrong artwork, extra decorations, text labels dominating image, crowded gallery.",
+              "entityKey": "4d64e397-3726-4a82-8a4a-782b1f3fc84f",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040141793279479808"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFAKDwabMAAKAAIAAAAAw6x2TgAA",
+        "media_id": "2040141690850455552",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 31.66,
+                "rgb": {
+                  "blue": 147,
+                  "green": 161,
+                  "red": 174
+                }
+              },
+              {
+                "percentage": 29.28,
+                "rgb": {
+                  "blue": 130,
+                  "green": 87,
+                  "red": 74
+                }
+              },
+              {
+                "percentage": 14.95,
+                "rgb": {
+                  "blue": 121,
+                  "green": 108,
+                  "red": 89
+                }
+              },
+              {
+                "percentage": 8.84,
+                "rgb": {
+                  "blue": 70,
+                  "green": 90,
+                  "red": 115
+                }
+              },
+              {
+                "percentage": 5.95,
+                "rgb": {
+                  "blue": 166,
+                  "green": 132,
+                  "red": 143
+                }
+              }
+            ]
+          },
+          "original_img_height": 816,
+          "original_img_url": "https://pbs.twimg.com/media/HFAKDwabMAA-fj_.jpg",
+          "original_img_width": 1264
+        },
+        "media_key": "3_2040141690850455552"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFAKJt/aEAAKAAIAAAAAw6x2TgAA",
+        "media_id": "2040141793279479808",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 58.4,
+                "rgb": {
+                  "blue": 107,
+                  "green": 130,
+                  "red": 150
+                }
+              },
+              {
+                "percentage": 17.6,
+                "rgb": {
+                  "blue": 47,
+                  "green": 75,
+                  "red": 106
+                }
+              },
+              {
+                "percentage": 8.56,
+                "rgb": {
+                  "blue": 70,
+                  "green": 52,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 6.81,
+                "rgb": {
+                  "blue": 90,
+                  "green": 131,
+                  "red": 173
+                }
+              },
+              {
+                "percentage": 2.03,
+                "rgb": {
+                  "blue": 111,
+                  "green": 72,
+                  "red": 40
+                }
+              }
+            ]
+          },
+          "original_img_height": 816,
+          "original_img_url": "https://pbs.twimg.com/media/HFAKJt_aEAAl4qC.jpg",
+          "original_img_width": 1264
+        },
+        "media_key": "3_2040141793279479808"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFA49+dawAAKAAIAAAAAw6x2TgAA",
+        "media_id": "2040193268588396544",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 33.07,
+                "rgb": {
+                  "blue": 210,
+                  "green": 151,
+                  "red": 79
+                }
+              },
+              {
+                "percentage": 17.98,
+                "rgb": {
+                  "blue": 216,
+                  "green": 200,
+                  "red": 176
+                }
+              },
+              {
+                "percentage": 12.96,
+                "rgb": {
+                  "blue": 36,
+                  "green": 39,
+                  "red": 44
+                }
+              },
+              {
+                "percentage": 10.84,
+                "rgb": {
+                  "blue": 209,
+                  "green": 127,
+                  "red": 3
+                }
+              },
+              {
+                "percentage": 9.74,
+                "rgb": {
+                  "blue": 32,
+                  "green": 83,
+                  "red": 84
+                }
+              }
+            ]
+          },
+          "original_img_height": 1110,
+          "original_img_url": "https://pbs.twimg.com/media/HFA49-dawAAJtoX.jpg",
+          "original_img_width": 1480
+        },
+        "media_key": "3_2040193268588396544"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFAuJyDXsAAKAAIAAAAAw6x2TgAA",
+        "media_id": "2040181376788443136",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 38.37,
+                "rgb": {
+                  "blue": 37,
+                  "green": 46,
+                  "red": 53
+                }
+              },
+              {
+                "percentage": 15.83,
+                "rgb": {
+                  "blue": 247,
+                  "green": 199,
+                  "red": 147
+                }
+              },
+              {
+                "percentage": 11.33,
+                "rgb": {
+                  "blue": 36,
+                  "green": 67,
+                  "red": 88
+                }
+              },
+              {
+                "percentage": 10.27,
+                "rgb": {
+                  "blue": 130,
+                  "green": 157,
+                  "red": 192
+                }
+              },
+              {
+                "percentage": 6.99,
+                "rgb": {
+                  "blue": 89,
+                  "green": 77,
+                  "red": 67
+                }
+              }
+            ]
+          },
+          "original_img_height": 1255,
+          "original_img_url": "https://pbs.twimg.com/media/HFAuJyDXsAAyQ0_.jpg",
+          "original_img_width": 1876
+        },
+        "media_key": "3_2040181376788443136"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFAKdGvbcAEKAAIAAAAAw6x2TgAA",
+        "media_id": "2040142126340861953",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 60.83,
+                "rgb": {
+                  "blue": 26,
+                  "green": 64,
+                  "red": 107
+                }
+              },
+              {
+                "percentage": 9.75,
+                "rgb": {
+                  "blue": 19,
+                  "green": 203,
+                  "red": 247
+                }
+              },
+              {
+                "percentage": 9.22,
+                "rgb": {
+                  "blue": 204,
+                  "green": 158,
+                  "red": 89
+                }
+              },
+              {
+                "percentage": 6.2,
+                "rgb": {
+                  "blue": 159,
+                  "green": 174,
+                  "red": 190
+                }
+              },
+              {
+                "percentage": 2.62,
+                "rgb": {
+                  "blue": 78,
+                  "green": 161,
+                  "red": 51
+                }
+              }
+            ]
+          },
+          "original_img_height": 720,
+          "original_img_url": "https://pbs.twimg.com/media/HFAKdGvbcAEfFZu.jpg",
+          "original_img_width": 1280
+        },
+        "media_key": "3_2040142126340861953"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFA6B7VXIAEKAAIAAAAAw6x2TgAA",
+        "media_id": "2040194435980402689",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 28.05,
+                "rgb": {
+                  "blue": 238,
+                  "green": 221,
+                  "red": 201
+                }
+              },
+              {
+                "percentage": 14.23,
+                "rgb": {
+                  "blue": 43,
+                  "green": 49,
+                  "red": 59
+                }
+              },
+              {
+                "percentage": 11.26,
+                "rgb": {
+                  "blue": 167,
+                  "green": 192,
+                  "red": 218
+                }
+              },
+              {
+                "percentage": 10.57,
+                "rgb": {
+                  "blue": 241,
+                  "green": 199,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 10.08,
+                "rgb": {
+                  "blue": 89,
+                  "green": 191,
+                  "red": 152
+                }
+              }
+            ]
+          },
+          "original_img_height": 832,
+          "original_img_url": "https://pbs.twimg.com/media/HFA6B7VXIAEDNqV.jpg",
+          "original_img_width": 2497
+        },
+        "media_key": "3_2040194435980402689"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFAJ7PfbkAAKAAIAAAAAw6x2TgAA",
+        "media_id": "2040141544574128128",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 47.46,
+                "rgb": {
+                  "blue": 183,
+                  "green": 203,
+                  "red": 207
+                }
+              },
+              {
+                "percentage": 19.78,
+                "rgb": {
+                  "blue": 99,
+                  "green": 119,
+                  "red": 126
+                }
+              },
+              {
+                "percentage": 15.14,
+                "rgb": {
+                  "blue": 110,
+                  "green": 156,
+                  "red": 183
+                }
+              },
+              {
+                "percentage": 12.1,
+                "rgb": {
+                  "blue": 47,
+                  "green": 74,
+                  "red": 100
+                }
+              },
+              {
+                "percentage": 4.96,
+                "rgb": {
+                  "blue": 51,
+                  "green": 113,
+                  "red": 187
+                }
+              }
+            ]
+          },
+          "original_img_height": 720,
+          "original_img_url": "https://pbs.twimg.com/media/HFAJ7PfbkAAFD4L.jpg",
+          "original_img_width": 1280
+        },
+        "media_key": "3_2040141544574128128"
+      }
+    ]
+  }
+}

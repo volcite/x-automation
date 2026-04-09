@@ -1,0 +1,449 @@
+{
+  "tweet_created_at": "2026-04-05T12:58:30.000000Z",
+  "id": 2040776090118169000,
+  "id_str": "2040776090118169046",
+  "type": "tweet",
+  "conversation_id_str": "2040776090118169046",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/dVLY0tlZv6",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1735156993068040200,
+    "id_str": "1735156993068040192",
+    "name": "Hiyoko🐣",
+    "screen_name": "ai_hyk",
+    "location": "👆️見てね🫧👉",
+    "url": "https://beacons.ai/ai_hiyo_",
+    "description": "INFP | Surrealist Muse of Aesthetics | 日本語用アカウント | リプ・引ポでGrokの画像編集ご自由にどうぞ |",
+    "protected": false,
+    "verified": true,
+    "followers_count": 127164,
+    "friends_count": 54,
+    "listed_count": 339,
+    "favourites_count": 3736,
+    "statuses_count": 1745,
+    "created_at": "2023-12-14T04:37:35.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735156993068040192/1707571146",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2031410660849102849/s1mpGRJp_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 5,
+  "reply_count": 177,
+  "retweet_count": 102,
+  "favorite_count": 7706,
+  "views_count": 8046194,
+  "bookmark_count": 8480,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040775152670228481",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/dVLY0tlZv6"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T12:58:30.000000Z",
+    "id": 2040776090118169000,
+    "id_str": "2040776090118169046",
+    "title": "タップして桜みて🌸",
+    "preview_text": "今年は咲くの早かった！",
+    "cover_url": "https://pbs.twimg.com/media/HFJKP2XaMAEBTpI.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "150pa",
+          "text": "今年は咲くの早かった！\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b8bl7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ente3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f693l",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3hffv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bfo7l",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "c1d5a21a-27a5-44c6-8b79-29d2a7ac3b40",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040775684495433728"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "8edb42d3-fa03-493f-83fd-284beeba12bb",
+              "mediaItems": [
+                {
+                  "localMediaId": "12",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040775711309635585"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "943cbfe4-37d6-4e21-a909-7d575e69a28f",
+              "mediaItems": [
+                {
+                  "localMediaId": "14",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040775742351671297"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "52940b3c-9381-4131-9c09-3332d72f392e",
+              "mediaItems": [
+                {
+                  "localMediaId": "16",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040775824773980161"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFJKrCya4AAKAAIYFIQXiVsAAAAA",
+        "media_id": "2040775684495433728",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 48.2,
+                "rgb": {
+                  "blue": 168,
+                  "green": 151,
+                  "red": 161
+                }
+              },
+              {
+                "percentage": 37.33,
+                "rgb": {
+                  "blue": 32,
+                  "green": 34,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 4.42,
+                "rgb": {
+                  "blue": 93,
+                  "green": 130,
+                  "red": 134
+                }
+              },
+              {
+                "percentage": 2.04,
+                "rgb": {
+                  "blue": 191,
+                  "green": 156,
+                  "red": 154
+                }
+              },
+              {
+                "percentage": 0.37,
+                "rgb": {
+                  "blue": 39,
+                  "green": 48,
+                  "red": 68
+                }
+              }
+            ]
+          },
+          "original_img_height": 287,
+          "original_img_url": "https://pbs.twimg.com/media/HFJKrCya4AAF8fv.jpg",
+          "original_img_width": 1568
+        },
+        "media_key": "3_2040775684495433728"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFJKsmrbIAEKAAIYFIQXiVsAAAAA",
+        "media_id": "2040775711309635585",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 38.38,
+                "rgb": {
+                  "blue": 166,
+                  "green": 156,
+                  "red": 176
+                }
+              },
+              {
+                "percentage": 35.93,
+                "rgb": {
+                  "blue": 35,
+                  "green": 35,
+                  "red": 44
+                }
+              },
+              {
+                "percentage": 3.99,
+                "rgb": {
+                  "blue": 61,
+                  "green": 63,
+                  "red": 112
+                }
+              },
+              {
+                "percentage": 3.46,
+                "rgb": {
+                  "blue": 189,
+                  "green": 156,
+                  "red": 160
+                }
+              },
+              {
+                "percentage": 2.54,
+                "rgb": {
+                  "blue": 80,
+                  "green": 92,
+                  "red": 111
+                }
+              }
+            ]
+          },
+          "original_img_height": 950,
+          "original_img_url": "https://pbs.twimg.com/media/HFJKsmrbIAEkfZ3.jpg",
+          "original_img_width": 1568
+        },
+        "media_key": "3_2040775711309635585"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFJKuaUbAAEKAAIYFIQXiVsAAAAA",
+        "media_id": "2040775742351671297",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 47.6,
+                "rgb": {
+                  "blue": 171,
+                  "green": 159,
+                  "red": 178
+                }
+              },
+              {
+                "percentage": 29.89,
+                "rgb": {
+                  "blue": 107,
+                  "green": 99,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 7.78,
+                "rgb": {
+                  "blue": 193,
+                  "green": 158,
+                  "red": 159
+                }
+              },
+              {
+                "percentage": 4.57,
+                "rgb": {
+                  "blue": 49,
+                  "green": 44,
+                  "red": 175
+                }
+              },
+              {
+                "percentage": 4.25,
+                "rgb": {
+                  "blue": 94,
+                  "green": 102,
+                  "red": 179
+                }
+              }
+            ]
+          },
+          "original_img_height": 330,
+          "original_img_url": "https://pbs.twimg.com/media/HFJKuaUbAAEfxLA.jpg",
+          "original_img_width": 1568
+        },
+        "media_key": "3_2040775742351671297"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFJKzNXboAEKAAIYFIQXiVsAAAAA",
+        "media_id": "2040775824773980161",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 37.79,
+                "rgb": {
+                  "blue": 24,
+                  "green": 18,
+                  "red": 139
+                }
+              },
+              {
+                "percentage": 28.83,
+                "rgb": {
+                  "blue": 91,
+                  "green": 76,
+                  "red": 85
+                }
+              },
+              {
+                "percentage": 17.36,
+                "rgb": {
+                  "blue": 168,
+                  "green": 147,
+                  "red": 160
+                }
+              },
+              {
+                "percentage": 5.37,
+                "rgb": {
+                  "blue": 166,
+                  "green": 165,
+                  "red": 187
+                }
+              },
+              {
+                "percentage": 3.76,
+                "rgb": {
+                  "blue": 53,
+                  "green": 45,
+                  "red": 110
+                }
+              }
+            ]
+          },
+          "original_img_height": 667,
+          "original_img_url": "https://pbs.twimg.com/media/HFJKzNXboAE6x4-.jpg",
+          "original_img_width": 1568
+        },
+        "media_key": "3_2040775824773980161"
+      }
+    ]
+  }
+}

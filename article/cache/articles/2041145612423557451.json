@@ -1,0 +1,1837 @@
+{
+  "tweet_created_at": "2026-04-06T13:26:51.000000Z",
+  "id": 2041145612423557400,
+  "id_str": "2041145612423557451",
+  "type": "tweet",
+  "conversation_id_str": "2041145612423557451",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/e2LZViZRlk",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 885086674828578800,
+    "id_str": "885086674828578816",
+    "name": "Mr Panda",
+    "screen_name": "PandaTalk8",
+    "location": "",
+    "url": "https://xlearnity.ai",
+    "description": "程序员 | AI 创业者 | 个人IP教练 | 商业技术观察 | 公众号：PandaTalk8",
+    "protected": false,
+    "verified": true,
+    "followers_count": 72019,
+    "friends_count": 7353,
+    "listed_count": 522,
+    "favourites_count": 70088,
+    "statuses_count": 25007,
+    "created_at": "2017-07-12T10:41:22.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/885086674828578816/1760969154",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1738715996737933312/QHUuRDK1_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 27,
+  "reply_count": 41,
+  "retweet_count": 349,
+  "favorite_count": 1134,
+  "views_count": 390276,
+  "bookmark_count": 2029,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041141302583341056",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/e2LZViZRlk"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T13:26:51.000000Z",
+    "id": 2041145612423557400,
+    "id_str": "2041145612423557451",
+    "title": "十分钟入门 CLAUDE CODE ",
+    "preview_text": "十分钟入门 CLAUDE CODE\n你不需要会写代码，不需要懂命令行，甚至不需要知道什么是 Terminal。你只需要 10 分钟，就能用上目前地球上最强的 AI 工具之一。\n先讲一个真实的故事",
+    "cover_url": "https://pbs.twimg.com/media/HFObFOYbEAAh_MW.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4q92v",
+          "text": "十分钟入门 CLAUDE CODE",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "afmn6",
+          "text": "你不需要会写代码，不需要懂命令行，甚至不需要知道什么是 Terminal。你只需要 10 分钟，就能用上目前地球上最强的 AI 工具之一。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26nf9",
+          "text": "先讲一个真实的故事",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g37j",
+          "text": "我老婆，技术很菜，命令行也不太会用。2023年我推荐她用 ChatGPT，她很震惊，还用ChatGPT 帮她搞定了推荐信。  ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3hok4",
+          "text": "我教了她很多年的CLI，她就是学不会，不是会学不会，实际上是没有使用的习惯，今年初我帮她安装了 Claude Code，教了她 10 分钟基本操作，她再次被震惊。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2tpl7",
+          "text": "像我老婆这样的人用户实在太多了， 所以我觉得很有必要把这么好用的工具教给你们。  ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eat4p",
+          "text": "AI 不再是程序员的专属玩具了。 它正在变成像 Word、Excel 一样的生产力工具——区别在于，它的能力上限比 Word 和 Excel 高出几个数量级。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4n228",
+          "text": "CLAUDE CODE 是什么？一句话解释",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 48,
+              "style": "Bold"
+            }
+          ],
+          "key": "p8j1",
+          "text": "Claude Code 是 Anthropic 公司（Claude AI 的制造商）推出的一个 AI 工作台。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "br5tv",
+          "text": "你可以把它理解为一个住在你电脑里的超级助手：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "5madl",
+          "text": "它能读写你电脑上的文件——帮你整理文档、批量改名、分析数据",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "7q2j8",
+          "text": "它能上网搜索——帮你做调研、找资料、追踪热点",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "65ar9",
+          "text": "它能安装各种技能包——做 PPT、生成图片、写推文、创建视频、分析 Excel",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "ca9od",
+          "text": "它拥有百万级记忆力——一次对话里可以处理相当于一本书的信息量",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 37,
+              "style": "Bold"
+            }
+          ],
+          "key": "3uj7h",
+          "text": "跟 ChatGPT 的网页对话框比，Claude Code 最大的区别是：它不只是跟你聊天，它能直接帮你干活。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9g4gp",
+          "text": "ChatGPT 像一个坐在屏幕里的顾问——你问它，它答你，但活还是你自己干。Claude Code 像一个坐在你旁边的全能助手——你说一句，它直接帮你把事情做了，结果文件就在你的电脑上。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d2vfb",
+          "text": "在开始之前，你需要什么？",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fir5",
+          "text": "硬件： 一台能上网的电脑（Mac、Windows、Linux 都行）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "77bh9",
+          "text": "软件： 不需要提前装任何东西，下面会一步步教你",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 93,
+                "text": "claude.ai",
+                "toIndex": 102
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 9,
+              "offset": 93
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d25iq",
+          "text": "费用： Claude Code 需要订阅 Claude Pro（每月 $20）或 Claude Max（每月 $100）。Pro 计划足够日常使用。如果你还没有 Claude 账号，去 claude.ai 注册一个。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dvljq",
+          "text": "技术基础： 零。真的是零。你只要会打字就行。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7kncu",
+          "text": "第一步：安装 CLAUDE CODE（3 分钟）",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "em6co",
+          "text": "方法一：桌面应用（最简单，推荐新手）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2krau",
+          "text": "Claude Code 现在有桌面应用了，安装跟装微信一样简单：",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 3,
+                "text": "claude.ai/code",
+                "toIndex": 17
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 14,
+              "offset": 3
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8ktcc",
+          "text": "打开 claude.ai/code",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnkot",
+          "text": "下载对应你系统的安装包（Mac 或 Windows）",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ft0d5",
+          "text": "双击安装，打开应用",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tb5t",
+          "text": "用你的 Claude 账号登录",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1avm5",
+          "text": "搞定。没有命令行，没有配置，开箱即用。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f5tuh",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cj19q",
+          "text": "方法二：命令行安装（适合想多了解一点的人）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5gm8v",
+          "text": "如果你想用命令行版本（功能完全一样，只是界面不同），需要先装一个叫 Node.js 的东西。别怕，跟着做就行：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "707vl",
+          "text": "第一步：安装 Node.js",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 2,
+                "text": "nodejs.org",
+                "toIndex": 12
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 10,
+              "offset": 2
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "so62",
+          "text": "去 nodejs.org 下载\"LTS\"版本（左边那个绿色按钮），双击安装，一路点\"下一步\"就行。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6bcup",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5b7l8",
+          "text": "第二步：安装 Claude Code",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "71g4t",
+          "text": "Mac 用户：打开\"终端\"（在启动台搜索\"终端\"或\"Terminal\"）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f3adu",
+          "text": "Windows 用户：打开\"命令提示符\"或\"PowerShell\"（按 Win 键搜索即可）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7qq5l",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ordj",
+          "text": "输入这一行命令，然后按回车：",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 15,
+                "text": "anthropic",
+                "toIndex": 25
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "csfbi",
+          "text": "npm install -g @anthropic-ai/claude-code",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ad708",
+          "text": "等它跑完（通常不到一分钟），再输入：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3btbe",
+          "text": "claude",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31a7q",
+          "text": "第一次运行会让你登录 Claude 账号，按提示操作就行。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nnir",
+          "text": "看到欢迎界面？恭喜，你已经装好了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1ehbm",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "csqnv",
+          "text": "方法三：网页版（零安装）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "62t30",
+          "text": "如果你连安装都不想搞，可以直接在浏览器里用：",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 3,
+                "text": "claude.ai/code",
+                "toIndex": 17
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 14,
+              "offset": 3
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9dbea",
+          "text": "打开 claude.ai/code",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1rkgk",
+          "text": "选择 \"Web\" 版本",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1uv8d",
+          "text": "直接开始用",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3dtcs",
+          "text": "网页版功能会少一些（比如不能直接操作你电脑上的文件），但用来体验和学习完全足够。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5avcq",
+          "text": "第二步：你的第一次对话（2 分钟）",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cdvp1",
+          "text": "打开 Claude Code 后，你会看到一个输入框。就像跟朋友发消息一样，直接打字就行。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7na5",
+          "text": "试试这个：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fj1dr",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1g9l6",
+          "text": "按回车，等几秒钟。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ajal",
+          "text": "你会看到 Claude Code 直接帮你写好了一篇自我介绍——而且它不是那种一眼就能看出是 AI 写的八股文，而是会根据你给的信息来定制内容。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7drgs",
+          "text": "恭喜，你已经在用 Claude Code 了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3k8gf",
+          "text": "再试一个：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4nmkp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d3sdd",
+          "text": "这次 Claude Code 不但帮你做了分析，还把结果保存成了一个文件。你可以在你的电脑上直接打开它。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 51,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "erj86",
+          "text": "这就是 Claude Code 和普通 AI 聊天工具的核心区别——它能直接操作文件，帮你把成果落地。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5rhse",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1o6k",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2njn0",
+          "text": "第三步：解锁更多玩法（5 分钟）",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vg85",
+          "text": "学会了基本对话，来看看 Claude Code 真正厉害的地方。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "akebf",
+          "text": "玩法一：让它帮你处理文件",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjsd5",
+          "text": "把你需要处理的文件放在一个文件夹里，然后告诉 Claude Code：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "92j0",
+          "text": "读一下桌面上\"客户反馈\"文件夹里的所有文件，\n帮我把负面反馈提取出来，按问题类型分类，\n统计每类问题的出现频率，生成一份分析报告。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "160ih",
+          "text": "它会自动读取文件、分析内容、生成报告。你以前需要一个下午干的活，现在 5 分钟。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cr8ac",
+          "text": "玩法二：用技能包扩展能力",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3csrd",
+          "text": "Claude Code 有一个\"技能（Skills）\"系统，你可以把它理解为给助手装上新技能。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1vu83",
+          "text": "几个最实用的技能：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dmbch",
+          "text": "你想做什么对应的技能怎么用做 PPT/pptx\"帮我做一个 10 页的产品介绍 PPT\"做 PDF 报告/pdf\"把这篇分析报告导出为 PDF\"生成图片/gemini-image\"帮我画一张科技感的封面图\"写推文/tweet-writer\"把这篇文章改写成 3 条推文\"分析表格数据/data-analysis\"分析这个 Excel 里的销售数据\"做 Word 文档/docx\"帮我做一份合同模板\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2780i",
+          "text": "使用方式很简单：直接在对话里输入斜杠命令，或者直接描述你要做什么。比如你说\"帮我做一个 PPT\"，Claude Code 会自动调用相关的技能。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d2asb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c0d44",
+          "text": "玩法三：联网搜索和研究",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffkhd",
+          "text": "帮我搜索一下 2026 年跨境电商的最新政策变化，\n重点关注关税调整和平台规则变动，\n整理成一份 briefing 文档。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "effnb",
+          "text": "Claude Code 可以帮你上网搜索、整理信息、生成文档，一条龙。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "46h90",
+          "text": "玩法四：一次说多件事",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2b7f3",
+          "text": "Claude Code 最爽的用法之一是\"一句话多个任务\"：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6p1ef",
+          "text": "帮我做三件事：\n1. 把上周写的产品方案翻译成英文\n2. 基于这个方案生成一份 10 页的投资人 PPT\n3. 再写一条 200 字以内的产品推文",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8c0t5",
+          "text": "一个指令，三个产出。以前这三件事你可能要在三个不同的工具里分别做。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "attim",
+          "text": "五个让你事半功倍的技巧",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2mcbr",
+          "text": "1. 给它足够的上下文",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ef2ta",
+          "text": "差的指令：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fon7h",
+          "text": "\"帮我写一篇文章\"",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "edh2e",
+          "text": "好的指令：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1dr02",
+          "text": "\"帮我写一篇 2000 字的公众号文章，主题是中小卖家如何在亚马逊上打造差异化。读者是做了 1-3 年跨境电商的人。语气要务实、接地气，多用具体案例。\"",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45bqo",
+          "text": "你告诉它的信息越多，产出越精准。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6db2q",
+          "text": "2. 让它参考你的风格",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2036d",
+          "text": "如果你之前写过文章或文档，可以让 Claude Code 先读一下：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ruet",
+          "text": "先读一下\"我的文章\"文件夹里的几篇文章，学习我的写作风格，\n然后用同样的风格帮我写一篇新文章。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5guc",
+          "text": "它会模仿你的用词习惯、句式结构、论证方式。写出来的东西，别人读了会觉得就是你写的。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkmot",
+          "text": "3. 用 /clear 保持清醒",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9jg65",
+          "text": "做完一件事后，输入 /clear 清空对话记录。这就像给你的助手刷新一下大脑，让它集中注意力在下一件事上。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agkts",
+          "text": "不清空的话，之前对话的内容会一直占着它的\"记忆空间\"，可能会干扰后面的任务。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7poir",
+          "text": "4. 不满意就直接说",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "32oc6",
+          "text": "Claude Code 不是一次性工具。如果产出不满意，直接告诉它哪里不好：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2r41b",
+          "text": "这篇文章开头太平了，帮我改成一个反直觉的观点开头。\n第三段的案例换一个更贴近中国市场的。\n结尾太鸡汤了，改成一个行动清单。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "vrdq",
+          "text": "它会基于你的反馈迭代修改，越改越接近你想要的。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dc0d8",
+          "text": "5. 善用 Esc Esc 回退",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ruha",
+          "text": "如果 Claude Code 做了你不想要的改动，连按两下 Esc 键可以撤销。就像 Word 里的 Ctrl+Z，随时可以反悔。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "lbgq",
+          "text": "常见问题",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9b0i5",
+          "text": "Q：我完全不懂技术，真的能用吗？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ce8k",
+          "text": "真的能。Claude Code 的交互方式就是\"说人话\"。你怎么跟同事交代任务，就怎么跟它说。它听得懂中文，听得懂模糊的描述，甚至听得懂你说\"就是那种感觉\"。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "99lss",
+          "text": "Q：Claude Code 跟 ChatGPT 有什么区别？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4kct",
+          "text": "最大的区别：ChatGPT 只能在对话框里给你文字回复，你得自己复制粘贴。Claude Code 能直接在你的电脑上创建文件、修改文件、执行操作。它的工作成果直接出现在你的电脑上，即拿即用。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2aouj",
+          "text": "另外，Claude Code 用的是 Anthropic 最强的 Opus 模型，思考深度和准确度在目前所有 AI 产品中属于第一梯队。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6l6f0",
+          "text": "Q：一个月 $20 值不值？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1p1jb",
+          "text": "算一笔账：如果 Claude Code 每天帮你省 1 小时的重复劳动，一个月就是 30 小时。你的时间值多少钱？$20 大约 145 元人民币，连一个小时的人工成本都不到。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8vrkq",
+          "text": "Q：会不会把我电脑上的文件搞乱？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7m35",
+          "text": "Claude Code 在执行文件操作前会征求你的同意。你可以选择每次确认，也可以设置信任的操作范围。而且它的每一步操作都可以撤销。就算不小心改错了，Esc Esc 两下就回来了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "drg4p",
+          "text": "Q：我的数据安全吗？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mv6j",
+          "text": "Anthropic 不会用你的对话数据来训练模型。你本地的文件内容在对话过程中会被发送到 Claude 的服务器进行处理，但不会被存储或用于其他用途。如果你处理的是高度敏感的数据，建议阅读 Anthropic 的隐私政策了解详情。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ef6it",
+          "text": "为什么你应该现在就开始用 AI？",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "59oog",
+          "text": "很多人觉得 AI 工具是程序员和极客的玩具，自己不懂技术，用不上。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d70km",
+          "text": "这是 2024 年的想法了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 11,
+              "style": "Bold"
+            }
+          ],
+          "key": "e7uks",
+          "text": "2026 年的现实是：AI 的使用门槛已经低到接近零了。 你不需要学编程，不需要懂算法，不需要知道\"大语言模型\"是什么意思。你只需要会描述你的需求——而这件事，你每天都在做。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 70,
+              "style": "Bold"
+            }
+          ],
+          "key": "f0q3n",
+          "text": "每次你跟同事说\"帮我做个表格\"，每次你跟设计师说\"这个颜色再亮一点\"，每次你给助理发微信说\"帮我查一下去年的销售数据\"——你都在做同样的事：用自然语言描述需求。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "df1be",
+          "text": "Claude Code 的革命性在于，它让你用同样的方式，获得了一个全能的数字助手。这个助手不会请假，不会漏看消息，不会抱怨加班，而且能力还在持续进化。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1itfs",
+          "text": "最好的学习方式就是直接用起来。 不要等到\"有空了再学\"，不要等到\"搞清楚原理再用\"。先装上，先试几个简单的任务，让它帮你做一件你今天本来要花半小时干的事。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8con",
+          "text": "当你第一次体验到\"我说一句话，5 秒钟后结果就出来了\"的感觉，你就再也回不去了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40ddo",
+          "text": "下一步",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eh9d6",
+          "text": "如果你觉得这篇文章有用，以下是我推荐的进阶路径：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c2lj4",
+          "text": "今天：装好 Claude Code，完成你的第一次对话",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "atenq",
+          "text": "这周：尝试让它帮你处理一个真实的工作任务——写一篇文章、分析一份数据、做一个 PPT",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9ecsl",
+          "text": "下周：探索 Skills 技能包，找到 2-3 个最适合你工作场景的技能",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2rth8",
+          "text": "一个月后：建立你自己的工作流——固定的 Prompt 模板、常用的指令集",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aqo4a",
+          "text": "从\"会用\"到\"用好\"，中间差的就是几周的实践。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dgt79",
+          "text": "而你要做的第一步，就是现在就开始。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "djkc4",
+          "text": "这篇文章在 Claude Code 里完成，从构思到定稿，35 分钟。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "481b891b-3ed3-400c-b699-d235f9071591",
+              "markdown": "```\n帮我写一篇 500 字的自我介绍，我叫张三，做跨境电商 5 年了，擅长选品和供应链管理。\n风格要专业但不要太正式。\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "4e96a26c-5c8d-41fd-a36c-b07b57e156b2",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041144013722636288"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "20403a6a-37b7-4650-8ae3-d6758081640e",
+              "markdown": "```\n帮我列一个表格，对比亚马逊、Shopify 和 TikTok Shop 三个平台，\n从入驻门槛、费用结构、适合品类、流量特点四个维度来分析。\n结果保存为一个 Markdown 文件。\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "44e91507-2eeb-4ff2-80b4-5b199c0373a8",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041144067795636224"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "b4387619-6038-40e3-9dea-be3b7aa7ef0b",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041144603446009856"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "6d934c06-82c3-4356-a553-edf49d03672f",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041144145331544064"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "d576f2e7-c5ff-4f50-ac9b-f6ec534858d3",
+              "url": "https://claude.ai/code"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "b9db8086-e1db-477c-b037-137c1285692e",
+              "url": "https://claude.ai/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "6d56adda-b2c1-42f9-8161-83df7a4140f1",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041143755533893632"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "696c3cd4-0191-47e3-b248-b372f260031e",
+              "url": "https://claude.ai/code"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "9b7ad4eb-f365-435c-bffd-1097987256e2",
+              "url": "https://nodejs.org/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOZbmQawAAKAAIMSHWkMJbQAAAA",
+        "media_id": "2041143755533893632",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.7,
+                "rgb": {
+                  "blue": 36,
+                  "green": 38,
+                  "red": 38
+                }
+              },
+              {
+                "percentage": 0.1,
+                "rgb": {
+                  "blue": 141,
+                  "green": 147,
+                  "red": 149
+                }
+              }
+            ]
+          },
+          "original_img_height": 1600,
+          "original_img_url": "https://pbs.twimg.com/media/HFOZbmQawAADPlY.jpg",
+          "original_img_width": 2400
+        },
+        "media_key": "3_2041143755533893632"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOZySXa4AAKAAIMSHWkMJbQAAAA",
+        "media_id": "2041144145331544064",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 75.78,
+                "rgb": {
+                  "blue": 38,
+                  "green": 32,
+                  "red": 54
+                }
+              },
+              {
+                "percentage": 9.62,
+                "rgb": {
+                  "blue": 9,
+                  "green": 97,
+                  "red": 229
+                }
+              },
+              {
+                "percentage": 7.24,
+                "rgb": {
+                  "blue": 40,
+                  "green": 11,
+                  "red": 78
+                }
+              },
+              {
+                "percentage": 2.2,
+                "rgb": {
+                  "blue": 27,
+                  "green": 33,
+                  "red": 133
+                }
+              },
+              {
+                "percentage": 1.51,
+                "rgb": {
+                  "blue": 25,
+                  "green": 151,
+                  "red": 249
+                }
+              }
+            ]
+          },
+          "original_img_height": 1716,
+          "original_img_url": "https://pbs.twimg.com/media/HFOZySXa4AAVakU.jpg",
+          "original_img_width": 2176
+        },
+        "media_key": "3_2041144145331544064"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOaM8+a4AAKAAIMSHWkMJbQAAAA",
+        "media_id": "2041144603446009856",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.41,
+                "rgb": {
+                  "blue": 39,
+                  "green": 36,
+                  "red": 57
+                }
+              },
+              {
+                "percentage": 7.19,
+                "rgb": {
+                  "blue": 123,
+                  "green": 123,
+                  "red": 135
+                }
+              },
+              {
+                "percentage": 0.23,
+                "rgb": {
+                  "blue": 39,
+                  "green": 29,
+                  "red": 30
+                }
+              }
+            ]
+          },
+          "original_img_height": 1484,
+          "original_img_url": "https://pbs.twimg.com/media/HFOaM8-a4AAJEOc.jpg",
+          "original_img_width": 1900
+        },
+        "media_key": "3_2041144603446009856"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOZqoFaUAAKAAIMSHWkMJbQAAAA",
+        "media_id": "2041144013722636288",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 94.17,
+                "rgb": {
+                  "blue": 29,
+                  "green": 19,
+                  "red": 14
+                }
+              },
+              {
+                "percentage": 3.4,
+                "rgb": {
+                  "blue": 117,
+                  "green": 112,
+                  "red": 108
+                }
+              },
+              {
+                "percentage": 1.53,
+                "rgb": {
+                  "blue": 42,
+                  "green": 33,
+                  "red": 72
+                }
+              },
+              {
+                "percentage": 0.44,
+                "rgb": {
+                  "blue": 51,
+                  "green": 46,
+                  "red": 108
+                }
+              },
+              {
+                "percentage": 0.23,
+                "rgb": {
+                  "blue": 52,
+                  "green": 74,
+                  "red": 53
+                }
+              }
+            ]
+          },
+          "original_img_height": 1048,
+          "original_img_url": "https://pbs.twimg.com/media/HFOZqoFaUAAKvKN.jpg",
+          "original_img_width": 2808
+        },
+        "media_key": "3_2041144013722636288"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOZtxha0AAKAAIMSHWkMJbQAAAA",
+        "media_id": "2041144067795636224",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 42.78,
+                "rgb": {
+                  "blue": 66,
+                  "green": 27,
+                  "red": 35
+                }
+              },
+              {
+                "percentage": 26.16,
+                "rgb": {
+                  "blue": 64,
+                  "green": 52,
+                  "red": 23
+                }
+              },
+              {
+                "percentage": 9.83,
+                "rgb": {
+                  "blue": 143,
+                  "green": 14,
+                  "red": 46
+                }
+              },
+              {
+                "percentage": 4.27,
+                "rgb": {
+                  "blue": 149,
+                  "green": 56,
+                  "red": 13
+                }
+              },
+              {
+                "percentage": 3.4,
+                "rgb": {
+                  "blue": 98,
+                  "green": 64,
+                  "red": 13
+                }
+              }
+            ]
+          },
+          "original_img_height": 1170,
+          "original_img_url": "https://pbs.twimg.com/media/HFOZtxha0AANYhY.jpg",
+          "original_img_width": 1770
+        },
+        "media_key": "3_2041144067795636224"
+      }
+    ]
+  }
+}

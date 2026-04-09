@@ -1,0 +1,2253 @@
+{
+  "tweet_created_at": "2026-04-03T09:26:47.000000Z",
+  "id": 2039998035066049000,
+  "id_str": "2039998035066048916",
+  "type": "tweet",
+  "conversation_id_str": "2039998035066048916",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/JUb83NcNLL",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 907233935268053000,
+    "id_str": "907233935268052992",
+    "name": "獅冬ろう┆Rou Shitou",
+    "screen_name": "Aza_x_x",
+    "location": "ご連絡先→",
+    "url": "https://roushitou.wixsite.com/mysite",
+    "description": "Illustraítor & Video creator┆絵×映像屋┊#RouvreArt",
+    "protected": false,
+    "verified": true,
+    "followers_count": 79020,
+    "friends_count": 232,
+    "listed_count": 552,
+    "favourites_count": 5837,
+    "statuses_count": 3121,
+    "created_at": "2017-09-11T13:26:40.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/907233935268052992/1651137268",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1587096388566818820/H7JcaeTC_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 29,
+  "reply_count": 4,
+  "retweet_count": 242,
+  "favorite_count": 1758,
+  "views_count": 401785,
+  "bookmark_count": 1992,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2034…",
+        "expanded_url": "http://x.com/i/article/2034555214653517824",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/JUb83NcNLL"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T09:26:47.000000Z",
+    "id": 2039998035066049000,
+    "id_str": "2039998035066048916",
+    "title": "残酷なインプレッションの話 ",
+    "preview_text": "いつだか、Xの仕様が変わった。みんな知っていると思う。これが絵師にとって、かなりまずいものだった。",
+    "cover_url": "https://pbs.twimg.com/media/HE0ed9gbcAAOdRk.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bfuhc",
+          "text": "\nいつだか、Xの仕様が変わった。みんな知っていると思う。これが絵師にとって、かなりまずいものだった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 21,
+              "style": "Bold"
+            }
+          ],
+          "key": "ekmf0",
+          "text": "今のこのSNSにいるほとんどのユーザーは、おすすめタブしか見ていない。世間でバズった「味の濃い」コンテンツに全員が釘付けになっているのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fg2nl",
+          "text": "家族でごはんを食べているのに、全員スマホ見てるあの感じ。\nわたし達の小さなコミュニティでの交流が、じわじわ失われていっている。\n \nいま、多くの人間のインプレッションが、\n全体的に著しく下がっている。\n\n今回はこんな感じの、少しナイーブな話題だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2kso0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3tjng",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "851sh",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "216ni",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4hc9a",
+          "text": "\n（※これは少しだけ、クリエイターの裏側の生々しい話になります。\n\nふだんわたしの作品を純粋に楽しんでくれている、クリエイターではない人たちや、インプレッションに悩んだことがない人は読み飛ばしていただけると嬉しいです。いつも見てくれてありがとう！\n\nでは、よろしくお願いします）\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c38qm",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "do3mg",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dmth2",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "97lfn",
+          "text": "\n\n\n絵師に対してつくフォロワーは様々だ。\n\nその絵柄だったり、画力だったり、テーマだったり、そもそもその人の人格に惹かれていたり。同じ数字として表示されていても、中身はそれぞれ一人の人間なのだから、当然傾向というものは生まれる。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 127,
+                "text": "RouShitou",
+                "toIndex": 137
+              }
+            ],
+            "urls": [
+              {
+                "fromIndex": 103,
+                "text": "https://www.youtube.com/@RouShitou",
+                "toIndex": 137
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 34,
+              "offset": 103
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8ffnp",
+          "text": "たとえば、わたしのフォロワーさんの大半は、イラストやMVのお仕事をしていく上で見つけてくれたアーティスト様のファンの皆さまや、ごくたまにわたしが載せる絵をぐうぜん気に入ってくれた人たちだ。\n \nMV集———https://www.youtube.com/@RouShitou",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2isqs",
+          "text": "つまり、おそらくは『わたし』そのもののファンではない。あくまで評価されているのは『作品』のみで、そこに『わたし』という作家の連続性はない。もし他の人のアカウントで同じ絵が載せられても、同じだけの評価が下されるはずだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 31,
+              "style": "Bold"
+            },
+            {
+              "length": 13,
+              "offset": 64,
+              "style": "Bold"
+            },
+            {
+              "length": 60,
+              "offset": 148,
+              "style": "Bold"
+            }
+          ],
+          "key": "6jl34",
+          "text": "作品が評価されているというのは、とても嬉しいことだ。\nただし、こういう質の絵師は、今のXでは不利になりつつある。\n\nそれは、Xのアルゴリズムが変化したせいだ。\nまず。アルゴリズムとは。 \n\nこれは、Xが「この投稿をどの順番で、誰に見せるか」を決めるための仕組みのこと。今のXで生き残りやすいのは、投稿のたびに瞬時に反応・拡散してくれる固定ファンを持つアカウント、もしくは世間の話題性と一致したトピックを扱うアカウントだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "diadl",
+          "text": "初動の数時間でスコアが決まるし、リポストが最大の武器になる。つまり、フォロワーが50,000人いても反応が薄いアカウントより、500人でも濃いやりとりがあるアカウントの方がリーチで勝てるというわけである。  （「ハッシュタグをたくさんつけると伸びる」「投稿時間さえ合わせれば伸びる」系は、効果があったとしても誤差レベル。本質は質と速度である。）\n\nどれだけ良い絵を描いても描かなくても、『作家』ではなく『作品』だけで勝負してきた絵師は、今のアルゴリズムの土俵では、最初から重りをつけて走っているようなものなのだ。見られる人が、さらに見られるように。見られない人は、誰にも見られないまま。格差が広まったといってもいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 23,
+              "style": "Bold"
+            }
+          ],
+          "key": "ffpe8",
+          "text": "だからいま、インプレッションで悩んでいる人は、『絵の評価』と『いいね数』は、数年前よりも明確に乖離しているってことを理解していい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5tkl8",
+          "text": "つまり、気にしなくていい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4rfjd",
+          "text": "\n\n\n\n\n\n\n\n\n\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 144,
+              "style": "Bold"
+            },
+            {
+              "length": 18,
+              "offset": 166,
+              "style": "Bold"
+            }
+          ],
+          "key": "als74",
+          "text": "———と、言っても、気にしてしまうのが人間の性。\n \n \nこの記事を書いたのは、私の知る絵描きさんが、「どうしても伸びない」「もっと見てほしい」「つらい」という言葉を、よくこぼすようになったからだ。\n今の状況では、仕方がないことだと思う。\n\nわたしの考えとしては、数字にとらわれるよりも、「作品そのものに真摯に向き合うこと」そして「今見てくれている人により感謝すること」こそ、最も優先するべきだと思っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2s6co",
+          "text": "けれども、わたし自身も、こうして冷静な視点で諭す自分もありつつ、心の底では絵が伸びなければ『いい絵じゃなかったのかな？』と悩んでしまうクチだ。立場的にも心情的にもよく理解している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1dp5h",
+          "text": "そこで、自分を含めた悩みがちの人たちのために、ちょっとした工夫みたいなものをここに書き起こしておきたい。当然、「これをやれば伸びる！」という魔法の話ではない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "6o75s",
+          "text": "あくまで、気持ちの持ち方と、少しの行動の工夫の話だ。\n\n\n\n\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cfhae",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f38j4",
+          "text": "\nまずは、いったん絵の魅力や実力は隅においてもらって。\n運用方法を工夫するという観点から考えてみよう。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5tqh4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "4va29",
+          "text": "そのイチ。「見られる場所」を増やしてみる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40q82",
+          "text": "\nXのアルゴリズムが変わったなら、X一本に賭けるリスクも変わった。\nPixivやInstagram、Bluesky、Tiktok、YouTubeなど、絵を「作品」として静かに見てもらいやすい場所を、新たに開拓しておく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d3fbi",
+          "text": "全部を全力でやる必要はない。ただ、「玄関口を一個増やしておく」感覚で、投稿の同時ポストをするだけでもいい。\n\n場所によって空気感はまったく違う。片方がグンっと伸びても、片方がまっっったく伸びないなんてことはザラにある———その逆も然り。それを経験してみると、『絵の評価』と『いいね数』はさほど相関関係がない（無関係と言うわけではないが）ってことがよりリアルに、自分自身で実感できると思う。\nこれは、メンタルの保険を増やすって意味でもちょうどいい。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1r8uq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9eltg",
+          "text": "\nそのニ。「会話が生まれる投稿」を混ぜてみる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 4,
+              "style": "Bold"
+            },
+            {
+              "length": 4,
+              "offset": 50,
+              "style": "Bold"
+            }
+          ],
+          "key": "drd8v",
+          "text": "Xは今、「一方的に絵を見せる場所」より「会話が生まれる場所」を優遇している。これは、新しく実装された記事機能が伸びやすくなっていることから明白だ。\n\n（前回の記事）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4itqu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "enau8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "daesg",
+          "text": "そして、引用ポスト。\n\nある着想を得て引用した絵が、普段は3000〜インプレッションのものが、17万インプレッションに跳ね上がった事例がある。速度感が求められるけれども、こうして会話のコンボを繰り出すようなスタイルで運用をしてみるっていうのも一つの手だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1f5bd",
+          "text": "（ただし、引用元には絶対に迷惑をかけないようにすること。\n伸びたいから、と特に興味のないポストにも反応するのは控えよう）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71c17",
+          "text": "これは一過性の評価を得ているだけなので、固定のファンにつながる糸にはなりにくい。自分のスタイルに合っているかきちんと確かめてから、挑戦すること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7pelv",
+          "text": "人の共感を得られるネタは、画力に関係なくみてもらえる。 \nこれは紛れもない事実なので、理解しておくといいと思う。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dthol",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "6kim1",
+          "text": "\nそして最後に、リプライ。  \n\nリプライは１いいねよりもうんとスコアが高い。だから、該当の投稿からスグに複数のリプライがつくと、インプレッションは自然と跳ね上がり、見てもらえる可能性が格段に上がる。  今のXは交流を意識している。だからこそ、ひと目見た時に返答を返したくなるような絵の内容や、言葉がついたポストは伸びやすい。\n\nたとえば、\n\n「わたしはAなんだけど、あなたはどう？」\n「これ、仕上げるならどっちがいい？」\n「リメイクしてみた。成長したかな」 ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f9q33",
+          "text": "質問を問いかけるもの。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 56,
+              "style": "Bold"
+            }
+          ],
+          "key": "3hoa6",
+          "text": "「こういう子、好きな人いないかな」\n「絵を描いていると、ずっとこんな感じ」\n「わかってくれる人と繋がりたい」\n\nまたは、共感を引き出すもの。\n\n「この子にひとこと言ってあげてください」\n「セリフをつけるとしたら？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eddg",
+          "text": "ボケ誘発系。ノリがいい人が連鎖的に反応してくれるかも。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvj5",
+          "text": "こんな種類のアプローチを使うと、もしかしたら見られ方が変わるかもしれない。もちろん、これらの手段は他の人に判断を委ねるものだし、そもそもその絵に魅力が一定程度ないと使えない手法だ。連発しすぎると、フォロワーのみんなに反応を強制させるような雰囲気になってしまうので、適度に混ぜるくらいにしておくこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 19,
+              "style": "Bold"
+            }
+          ],
+          "key": "b949",
+          "text": "それに、絵師が最も嬉しいリプライは、「あなたの絵が好き！」という直球のものだ。ただそう思って送ってくれた言葉は、何より尊い。それは、人生を変えることだってある。そこは忘れたくない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddv8s",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1cbla",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 23,
+              "style": "Bold"
+            }
+          ],
+          "key": "ca0je",
+          "text": "\nそしてつまり、逆説的に整理すると——これは、もし好きな絵師がいるなら、リポストやリプライを送ることが、システム上でも力になるってことでもある。\n\nだからみんなも、今まで心の中で「好きだな」と思いながら通り過ぎていた絵があれば、一言添えてみてほしい！わたし自身も最近、そうするようにしている。送られた側も送った側も嬉しいし、布教にもなるとわかっているからだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "86tr2",
+          "text": "ただし、反応が欲しいがために、心のこもらない言葉を交わすだけの関係になってしまってはだめだ。空虚に褒め合うだけの義務感のあるやりとり（相互リポストや、絵師コミュニティなど）は、お互いにじわじわと疲弊させる。大切なのは、本当に好きだと思った絵にだけ、声をかけることだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6n0kn",
+          "text": "こうして巡り巡って、誰かの絵が、もっと多くの人の目に届くといいなと思っている。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4tu9k",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhar7",
+          "text": "\n続いて、メンタルとどう向き合うか、という観点から考えてみる。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7i7vc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brer6",
+          "text": "\nそのサン。マジで、気にしないことにする。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d6fl1",
+          "text": "気にしてしまうのが人間の性、とは言った。\n\nいいねがもらえないとショックを受ける理由は、自分が期待していた反応と実際に受けた評価に、差が生まれているからだ。ならば、期待値を下げるのが一つの手だ。人からもらう反応を期待したって、自分一人では他人のことをコントロールしきれない。だから人を見るよりも自分のマインドを変えよう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dt49d",
+          "text": "そう思って、最近は自分のために、\nちょっとした実験をしていた。\n\n\n\n\n\n\n\n実験といっても、フラスコ片手に爆発させたわけじゃない。\nわたしは3月の間に、こんならくがきを8枚あげた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "37ps6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9eup2",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d6n6g",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ciehi",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "446b",
+          "text": "どうだろう。\nこれは、一日一絵の特訓だ。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4vagk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c5ja",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 71,
+              "style": "Bold"
+            }
+          ],
+          "key": "590km",
+          "text": "一枚にかけた時間はだいたい普段のお仕事の絵の十分の１。これは筆の速度を早くするためにしたものだけど、実験の意味合いもあった。\n\nこれの狙いは、自分と周囲のハードルを両方下げることだ。\n肩の力を抜いて、自分のために描いている。一枚にかける労力を投稿数を増やして、反応に対する不安感を薄めている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajjmb",
+          "text": "我々が純粋なころ抱いていた『絵を描くのが楽しい』と言う初心に帰るための実験だった。当然、目にみえる数字は普段と比較して少ない。\nけれども、わたしはこの絵についた1のいいねを喜んでいる。\n\nこれは評価に取り憑かれて詰まってしまった中級者くらいの人におすすめだ。適量を守りながら、取り入れてみてほしい。\n\n\n\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ca6qb",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7fjbm",
+          "text": "そのヨン。中毒症状の改善を目指す。\n",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d78lo",
+          "text": "悩んでしまう原因は、我々が『SNS中毒』になっているからだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ojcj",
+          "text": "投稿した瞬間からスマホを手放せなくなって、通知のたびに一喜一憂して、気づけば他の人の数字と自分の数字を見比べている。そういう状態、心当たりはないかな。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91f2h",
+          "text": "勝ったものが正義だと言うように、見られたものが正義だと、多くの人間が思っている。まったく同じ絵が並んでいても、10いいねのものと100万いいねのものが並んでいたら、なぜか後者が『いいもの』だと思えるようにできている。SNSは、そうなるように設計されているからだ。それはわたしたちの意志が弱いんじゃなくて、そういう仕組みの上に乗っかっているということ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fuaub",
+          "text": "だから対策も、意志の力じゃないほうがいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a5si",
+          "text": "『投稿したあと、次の作品が書き上がるまで反応を見ない』はどうだろう。投稿したら、アプリを閉じて、通知をオフにする。次の絵を開き、仕上げる。次にアプリを反応を見て落ち込んでも、あなたの手元には次の作品がある。\nそれを投稿して、また次のものに手を伸ばせばいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6sf98",
+          "text": "サンとヨンは、伸ばすために努力するって話じゃない。反応を逐一気にする自分を、自分で慰めてみるってことだ。\n\nおそらくこういうものは、反応に飢えて悩んでいる人の多くからしたら、本当に求めているものではない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "6vrdd",
+          "text": "けれども、根本的なメンタルを改善し、思考プロセスを変えるのは、とってもいいひとつのインプレッションへの対抗手段だと思う。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "166sg",
+          "text": "以上が、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qfr2",
+          "text": "『今のXの仕様に従って、運用方法を変えて、あがいてみる』\n『インプレッションから離れて、自分のメンタルを整えてみる』",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brutc",
+          "text": "この二つの観点から、獅冬なりにちょっと考えてみたものだ。\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 19,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9urc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "939v0",
+          "text": "\n\n最後に、言い忘れていた五つ目の工夫について言及する。\n \nわたしはしれっと9枚の絵をこの記事に載せている。\n過去実績のリンクを貼り、宣伝までしている。\n\n実は、この記事自体もひとつの実験である。これが正直いちばん小賢しい、わたしが思いついた『見てもらう』ための技の一つだ。\n\n名付けて、さりげない広告付き記事作戦———正直あまり、好きではない。\n\n\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fiouo",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 20,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9sieu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 137,
+              "style": "Bold"
+            }
+          ],
+          "key": "83uh0",
+          "text": "\n上記に羅列した工夫は、今これを読んでいるあなたに当てはまるものとは限らない、ということだけは念頭においてほしい。これは本当に難しいトピックで、『こうやったらいい』と教鞭を取っている人間も、偶然その人がその方法が合っていて、偶然タイミングが良かったってだけだ。\n \nただし、何もしない場合と、あれやこれや手法を凝らして工夫する場合のヒットする確率は、絶対に違う。だから、自分に合いそうなスタイルを考えて、試してみるのは悪くないってことが言いたかった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "566vo",
+          "text": "人それぞれ環境も作品のスタイルも違うし、なりたいものだって違う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1lbhu",
+          "text": "おそらく私が考えつかない方法や、独自のスタイルでうまく現在のインプレッションに対して、整理をつけている人たちもいるんだろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5eua3",
+          "text": "わたしは、素敵な作品を作る人たちが、環境によって筆を折っていく瞬間を見たくはない。これを読んでいるあなたも、今この記事を読んで悩んでいる人たちに向けて、もし紹介できるものがあれば教えてあげてくれたら嬉しい。\nたぶん、誰かの助けになると思うから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8rfp1",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 21,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "befqk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bdg04",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "qunm",
+          "text": "このネットの世界は流れが速い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bapar",
+          "text": "いま、最前線を駆けている人たちだって、何かが原因で作品を見られなくなってしまう危険と常に隣り合わせで生きている。クリエイターに本物の安定はない。常に一番前を疾走する体力と運を持ち合わせていない我々は、それとどうやって向き合っていけばいいのだろう？\n\nそういうことを、常に考えていたりする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5tf46",
+          "text": "わたしがまだ背の高い林の中をグルングルンと彷徨っているあいだに、この記事が、あなたの今日の食卓のちょっとしたおかずになったら嬉しい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7r1lj",
+          "text": "今日もわたしの絵を見てくれて、ありがとう。\n\n\n\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 22,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "44pap",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2nmr1",
+          "text": "本日の雑記はここまで。\nネットプリントは4/30までだよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 23,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "83qrk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4tm4i",
+          "text": "それでは、また。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "entityKey": "a9345c4d-c8e8-4291-8980-2481070a11b6"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "157a23bd-23d7-45d4-a832-f309d84ace0e",
+              "tweetId": "2037847202203320698"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "entityKey": "65f530e5-a16a-40ba-99be-6731b5364a73"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "23",
+          "value": {
+            "data": {
+              "caption": "次はもっと描き込まれた絵の、登録を目指したい———。",
+              "entityKey": "4e036da7-58dd-4e14-86da-57385a9bd3fd",
+              "mediaItems": [
+                {
+                  "localMediaId": "15",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039295727298605056"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "680dec4f-7f90-4641-b5a5-752bdcd5f73e"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "caption": "💚",
+              "entityKey": "8394cab4-e7a3-482d-b23e-0071e38770b3",
+              "mediaItems": [
+                {
+                  "localMediaId": "24",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2038641661807636481"
+                },
+                {
+                  "localMediaId": "25",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2038641661832818688"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "entityKey": "590b43ad-4cf6-4b97-825b-f78d7b24bc35"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "94f7699d-e33c-4acf-98ca-5ea5125f87d2"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "entityKey": "c5b2f635-7902-42f3-bda2-d87de64bfe64"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "caption": "💜",
+              "entityKey": "c08f4b41-8e89-4801-8551-6cd85eb9c69d",
+              "mediaItems": [
+                {
+                  "localMediaId": "16",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2038641373361156096"
+                },
+                {
+                  "localMediaId": "17",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2038641373377966080"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "caption": "💛",
+              "entityKey": "c2882756-6342-4a8b-aec3-dd75ad53e009",
+              "mediaItems": [
+                {
+                  "localMediaId": "30",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2038641841562853376"
+                },
+                {
+                  "localMediaId": "31",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2038641842129113088"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "4599dc16-a93a-4e95-9a98-7903ab0f017c"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "1a72fa9c-02ac-4d23-9696-2d3c5d8ef81b"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": {
+              "entityKey": "e0300ae5-6944-4d60-ac0d-c8766298abba"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "7718f2e9-649f-400d-8f7e-dfee89f95524"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "237b2d86-0520-40f8-8d1a-28578a1d7502",
+              "mediaItems": [
+                {
+                  "localMediaId": "17",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039310503621844992"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "caption": "あとは、ネットプリントやりたい！と言う思いつきでもある。楽しい。",
+              "entityKey": "45a3f2c8-a84b-486c-847e-4c5abefa81d0",
+              "mediaItems": [
+                {
+                  "localMediaId": "30",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039326798883004416"
+                },
+                {
+                  "localMediaId": "31",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039326798916571136"
+                },
+                {
+                  "localMediaId": "32",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039326798937477120"
+                },
+                {
+                  "localMediaId": "33",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039326799021375488"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "caption": "🩵",
+              "entityKey": "370fe5b8-0163-47e2-b661-6104ccf5acee",
+              "mediaItems": [
+                {
+                  "localMediaId": "20",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2038641519998238720"
+                },
+                {
+                  "localMediaId": "21",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2038641520031801344"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "a3cd8d86-2acd-4592-91e5-168861bf39fb"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "entityKey": "798306f1-0187-4c62-9838-2b318aa9bc6a"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "da211298-c9e5-4a09-95ac-0e964c1ece5e"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "entityKey": "56a24f61-605f-442e-a743-22b1ac0937f7"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "710e0d46-5cd8-416e-8640-197d8a55392e",
+              "tweetId": "2032397075149951072"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "cd906c7d-79e8-4499-a818-5d4247e7b24d",
+              "url": "https://www.youtube.com/@RouShitou"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEq19CaaIAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2038641841562853376",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 38.26,
+                "rgb": {
+                  "blue": 246,
+                  "green": 243,
+                  "red": 243
+                }
+              },
+              {
+                "percentage": 22.61,
+                "rgb": {
+                  "blue": 129,
+                  "green": 127,
+                  "red": 141
+                }
+              },
+              {
+                "percentage": 13.92,
+                "rgb": {
+                  "blue": 69,
+                  "green": 67,
+                  "red": 66
+                }
+              },
+              {
+                "percentage": 11.03,
+                "rgb": {
+                  "blue": 0,
+                  "green": 188,
+                  "red": 237
+                }
+              },
+              {
+                "percentage": 8.03,
+                "rgb": {
+                  "blue": 1,
+                  "green": 112,
+                  "red": 143
+                }
+              }
+            ]
+          },
+          "original_img_height": 2456,
+          "original_img_url": "https://pbs.twimg.com/media/HEq19CaaIAAKoVY.jpg",
+          "original_img_width": 1736
+        },
+        "media_key": "3_2038641841562853376"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0WGSsaYAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2039310503621844992",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 52.4,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 17.05,
+                "rgb": {
+                  "blue": 120,
+                  "green": 16,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 9.16,
+                "rgb": {
+                  "blue": 178,
+                  "green": 23,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 8.51,
+                "rgb": {
+                  "blue": 254,
+                  "green": 242,
+                  "red": 243
+                }
+              },
+              {
+                "percentage": 7.89,
+                "rgb": {
+                  "blue": 76,
+                  "green": 9,
+                  "red": 0
+                }
+              }
+            ]
+          },
+          "original_img_height": 286,
+          "original_img_url": "https://pbs.twimg.com/media/HE0WGSsaYAAG4-u.jpg",
+          "original_img_width": 1280
+        },
+        "media_key": "3_2039310503621844992"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0k6zeaUAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2039326798937477120",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 61.83,
+                "rgb": {
+                  "blue": 250,
+                  "green": 250,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 11.87,
+                "rgb": {
+                  "blue": 57,
+                  "green": 35,
+                  "red": 29
+                }
+              },
+              {
+                "percentage": 9.99,
+                "rgb": {
+                  "blue": 219,
+                  "green": 149,
+                  "red": 118
+                }
+              },
+              {
+                "percentage": 2.69,
+                "rgb": {
+                  "blue": 232,
+                  "green": 232,
+                  "red": 160
+                }
+              },
+              {
+                "percentage": 1.98,
+                "rgb": {
+                  "blue": 194,
+                  "green": 106,
+                  "red": 77
+                }
+              }
+            ]
+          },
+          "original_img_height": 1800,
+          "original_img_url": "https://pbs.twimg.com/media/HE0k6zeaUAAi0fg.jpg",
+          "original_img_width": 1800
+        },
+        "media_key": "3_2039326798937477120"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEq1qUfbgAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2038641519998238720",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 33.7,
+                "rgb": {
+                  "blue": 241,
+                  "green": 239,
+                  "red": 251
+                }
+              },
+              {
+                "percentage": 25.19,
+                "rgb": {
+                  "blue": 56,
+                  "green": 30,
+                  "red": 21
+                }
+              },
+              {
+                "percentage": 19.74,
+                "rgb": {
+                  "blue": 224,
+                  "green": 153,
+                  "red": 108
+                }
+              },
+              {
+                "percentage": 4.53,
+                "rgb": {
+                  "blue": 206,
+                  "green": 115,
+                  "red": 76
+                }
+              },
+              {
+                "percentage": 3.04,
+                "rgb": {
+                  "blue": 252,
+                  "green": 222,
+                  "red": 162
+                }
+              }
+            ]
+          },
+          "original_img_height": 4093,
+          "original_img_url": "https://pbs.twimg.com/media/HEq1qUfbgAAOtmp.jpg",
+          "original_img_width": 2894
+        },
+        "media_key": "3_2038641519998238720"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0k6zyagAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2039326799021375488",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 71.08,
+                "rgb": {
+                  "blue": 249,
+                  "green": 249,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 11.91,
+                "rgb": {
+                  "blue": 81,
+                  "green": 63,
+                  "red": 34
+                }
+              },
+              {
+                "percentage": 4.37,
+                "rgb": {
+                  "blue": 192,
+                  "green": 137,
+                  "red": 93
+                }
+              },
+              {
+                "percentage": 2.62,
+                "rgb": {
+                  "blue": 231,
+                  "green": 230,
+                  "red": 163
+                }
+              },
+              {
+                "percentage": 0.69,
+                "rgb": {
+                  "blue": 214,
+                  "green": 230,
+                  "red": 107
+                }
+              }
+            ]
+          },
+          "original_img_height": 1800,
+          "original_img_url": "https://pbs.twimg.com/media/HE0k6zyagAAqtxQ.jpg",
+          "original_img_width": 1800
+        },
+        "media_key": "3_2039326799021375488"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0k6zRbIAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2039326798883004416",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 72.64,
+                "rgb": {
+                  "blue": 249,
+                  "green": 249,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 7.52,
+                "rgb": {
+                  "blue": 48,
+                  "green": 48,
+                  "red": 48
+                }
+              },
+              {
+                "percentage": 7.17,
+                "rgb": {
+                  "blue": 194,
+                  "green": 137,
+                  "red": 139
+                }
+              },
+              {
+                "percentage": 2.37,
+                "rgb": {
+                  "blue": 231,
+                  "green": 231,
+                  "red": 162
+                }
+              },
+              {
+                "percentage": 2.23,
+                "rgb": {
+                  "blue": 192,
+                  "green": 148,
+                  "red": 183
+                }
+              }
+            ]
+          },
+          "original_img_height": 1800,
+          "original_img_url": "https://pbs.twimg.com/media/HE0k6zRbIAAllAt.jpg",
+          "original_img_width": 1800
+        },
+        "media_key": "3_2039326798883004416"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEq1ykxbMAEKAAIMlyR1F9UAAAAA",
+        "media_id": "2038641661807636481",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 50.49,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 35.28,
+                "rgb": {
+                  "blue": 115,
+                  "green": 118,
+                  "red": 99
+                }
+              },
+              {
+                "percentage": 5.62,
+                "rgb": {
+                  "blue": 48,
+                  "green": 50,
+                  "red": 36
+                }
+              },
+              {
+                "percentage": 3.7,
+                "rgb": {
+                  "blue": 144,
+                  "green": 173,
+                  "red": 139
+                }
+              },
+              {
+                "percentage": 2.2,
+                "rgb": {
+                  "blue": 87,
+                  "green": 111,
+                  "red": 77
+                }
+              }
+            ]
+          },
+          "original_img_height": 2456,
+          "original_img_url": "https://pbs.twimg.com/media/HEq1ykxbMAEW-kX.jpg",
+          "original_img_width": 1736
+        },
+        "media_key": "3_2038641661807636481"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEq1hyObMAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2038641373361156096",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 55.78,
+                "rgb": {
+                  "blue": 236,
+                  "green": 222,
+                  "red": 233
+                }
+              },
+              {
+                "percentage": 19.06,
+                "rgb": {
+                  "blue": 204,
+                  "green": 141,
+                  "red": 146
+                }
+              },
+              {
+                "percentage": 14.87,
+                "rgb": {
+                  "blue": 48,
+                  "green": 47,
+                  "red": 47
+                }
+              },
+              {
+                "percentage": 2.98,
+                "rgb": {
+                  "blue": 151,
+                  "green": 85,
+                  "red": 84
+                }
+              },
+              {
+                "percentage": 2.39,
+                "rgb": {
+                  "blue": 192,
+                  "green": 141,
+                  "red": 189
+                }
+              }
+            ]
+          },
+          "original_img_height": 4093,
+          "original_img_url": "https://pbs.twimg.com/media/HEq1hyObMAAeYnv.jpg",
+          "original_img_width": 2894
+        },
+        "media_key": "3_2038641373361156096"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEq1hySbsAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2038641373377966080",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 47.97,
+                "rgb": {
+                  "blue": 251,
+                  "green": 232,
+                  "red": 236
+                }
+              },
+              {
+                "percentage": 27.31,
+                "rgb": {
+                  "blue": 45,
+                  "green": 44,
+                  "red": 44
+                }
+              },
+              {
+                "percentage": 17.93,
+                "rgb": {
+                  "blue": 185,
+                  "green": 135,
+                  "red": 151
+                }
+              },
+              {
+                "percentage": 2.82,
+                "rgb": {
+                  "blue": 201,
+                  "green": 112,
+                  "red": 106
+                }
+              },
+              {
+                "percentage": 2.64,
+                "rgb": {
+                  "blue": 102,
+                  "green": 52,
+                  "red": 48
+                }
+              }
+            ]
+          },
+          "original_img_height": 4093,
+          "original_img_url": "https://pbs.twimg.com/media/HEq1hySbsAAHicP.jpg",
+          "original_img_width": 2894
+        },
+        "media_key": "3_2038641373377966080"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0k6zZbUAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2039326798916571136",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 68.03,
+                "rgb": {
+                  "blue": 250,
+                  "green": 249,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 13.17,
+                "rgb": {
+                  "blue": 45,
+                  "green": 45,
+                  "red": 45
+                }
+              },
+              {
+                "percentage": 8.57,
+                "rgb": {
+                  "blue": 190,
+                  "green": 139,
+                  "red": 150
+                }
+              },
+              {
+                "percentage": 2.37,
+                "rgb": {
+                  "blue": 231,
+                  "green": 231,
+                  "red": 162
+                }
+              },
+              {
+                "percentage": 1.39,
+                "rgb": {
+                  "blue": 103,
+                  "green": 58,
+                  "red": 57
+                }
+              }
+            ]
+          },
+          "original_img_height": 1800,
+          "original_img_url": "https://pbs.twimg.com/media/HE0k6zZbUAAr2Zw.jpg",
+          "original_img_width": 1800
+        },
+        "media_key": "3_2039326798916571136"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEq19EhakAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2038641842129113088",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 42.8,
+                "rgb": {
+                  "blue": 234,
+                  "green": 225,
+                  "red": 227
+                }
+              },
+              {
+                "percentage": 16.39,
+                "rgb": {
+                  "blue": 142,
+                  "green": 120,
+                  "red": 123
+                }
+              },
+              {
+                "percentage": 12.73,
+                "rgb": {
+                  "blue": 25,
+                  "green": 126,
+                  "red": 137
+                }
+              },
+              {
+                "percentage": 9.36,
+                "rgb": {
+                  "blue": 62,
+                  "green": 47,
+                  "red": 49
+                }
+              },
+              {
+                "percentage": 3.26,
+                "rgb": {
+                  "blue": 13,
+                  "green": 205,
+                  "red": 241
+                }
+              }
+            ]
+          },
+          "original_img_height": 2456,
+          "original_img_url": "https://pbs.twimg.com/media/HEq19EhakAAG2pt.jpg",
+          "original_img_width": 1736
+        },
+        "media_key": "3_2038641842129113088"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEq1qUnboAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2038641520031801344",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 48.4,
+                "rgb": {
+                  "blue": 239,
+                  "green": 214,
+                  "red": 223
+                }
+              },
+              {
+                "percentage": 21.69,
+                "rgb": {
+                  "blue": 85,
+                  "green": 62,
+                  "red": 9
+                }
+              },
+              {
+                "percentage": 12.22,
+                "rgb": {
+                  "blue": 204,
+                  "green": 144,
+                  "red": 87
+                }
+              },
+              {
+                "percentage": 3.25,
+                "rgb": {
+                  "blue": 239,
+                  "green": 213,
+                  "red": 153
+                }
+              },
+              {
+                "percentage": 3.09,
+                "rgb": {
+                  "blue": 198,
+                  "green": 196,
+                  "red": 239
+                }
+              }
+            ]
+          },
+          "original_img_height": 4093,
+          "original_img_url": "https://pbs.twimg.com/media/HEq1qUnboAARUEb.jpg",
+          "original_img_width": 2894
+        },
+        "media_key": "3_2038641520031801344"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0IqMma8AAKAAIMlyR1F9UAAAAA",
+        "media_id": "2039295727298605056",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 44.95,
+                "rgb": {
+                  "blue": 5,
+                  "green": 3,
+                  "red": 4
+                }
+              },
+              {
+                "percentage": 24.41,
+                "rgb": {
+                  "blue": 232,
+                  "green": 215,
+                  "red": 220
+                }
+              },
+              {
+                "percentage": 8.65,
+                "rgb": {
+                  "blue": 204,
+                  "green": 142,
+                  "red": 97
+                }
+              },
+              {
+                "percentage": 3.49,
+                "rgb": {
+                  "blue": 118,
+                  "green": 65,
+                  "red": 48
+                }
+              },
+              {
+                "percentage": 2.64,
+                "rgb": {
+                  "blue": 229,
+                  "green": 69,
+                  "red": 56
+                }
+              }
+            ]
+          },
+          "original_img_height": 2894,
+          "original_img_url": "https://pbs.twimg.com/media/HE0IqMma8AAe4T4.jpg",
+          "original_img_width": 2894
+        },
+        "media_key": "3_2039295727298605056"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEq1yk3bcAAKAAIMlyR1F9UAAAAA",
+        "media_id": "2038641661832818688",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 43.78,
+                "rgb": {
+                  "blue": 60,
+                  "green": 55,
+                  "red": 53
+                }
+              },
+              {
+                "percentage": 29.77,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 18.22,
+                "rgb": {
+                  "blue": 112,
+                  "green": 127,
+                  "red": 102
+                }
+              },
+              {
+                "percentage": 1.33,
+                "rgb": {
+                  "blue": 129,
+                  "green": 180,
+                  "red": 117
+                }
+              },
+              {
+                "percentage": 0.73,
+                "rgb": {
+                  "blue": 170,
+                  "green": 200,
+                  "red": 163
+                }
+              }
+            ]
+          },
+          "original_img_height": 2456,
+          "original_img_url": "https://pbs.twimg.com/media/HEq1yk3bcAA7NMs.jpg",
+          "original_img_width": 1736
+        },
+        "media_key": "3_2038641661832818688"
+      }
+    ]
+  }
+}

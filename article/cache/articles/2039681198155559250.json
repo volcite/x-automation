@@ -1,0 +1,1188 @@
+{
+  "tweet_created_at": "2026-04-02T12:27:47.000000Z",
+  "id": 2039681198155559200,
+  "id_str": "2039681198155559250",
+  "type": "tweet",
+  "conversation_id_str": "2039681198155559250",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/BgQYAmgPkv",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 430795409,
+    "id_str": "430795409",
+    "name": "白(ワラキア)",
+    "screen_name": "highspeedwara",
+    "location": "大阪　アテナ勢hatapinn@gmail.com",
+    "url": null,
+    "description": "スト6記事提供しますフォローコメリポスト等お願いします\n仕事適当でフリーになりました何かしら格ゲー貢献したい\n\nI’m Wallachia, Your SF6 info source 🔥 Follow for tips & updates\nGot laid off Now playing Freelance Mode",
+    "protected": false,
+    "verified": true,
+    "followers_count": 20765,
+    "friends_count": 5404,
+    "listed_count": 223,
+    "favourites_count": 6488,
+    "statuses_count": 11279,
+    "created_at": "2011-12-07T15:40:08.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/430795409/1742805168",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1933532058984566784/J_oxszOD_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 5,
+  "reply_count": 3,
+  "retweet_count": 94,
+  "favorite_count": 1203,
+  "views_count": 124100,
+  "bookmark_count": 1161,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039637996950134784",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/BgQYAmgPkv"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T12:27:47.000000Z",
+    "id": 2039681198155559200,
+    "id_str": "2039681198155559250",
+    "title": "上手い人はなぜ被弾しないのか？｜レシャーさんの立ち回り解説",
+    "preview_text": "今回はレシャーさんの対戦から、立ち回りを学んでいきこうと思います。\n個人的にレシャーさんは、\n「低リスクでリターンを取る・事故らない」\nという点で最高クラスに丁寧なプレイをするプレイヤーだと思っており、",
+    "cover_url": "https://pbs.twimg.com/media/HE5mwFcaAAAPZl2.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5rg5l",
+          "text": "今回はレシャーさんの対戦から、立ち回りを学んでいきこうと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 13,
+              "style": "Bold"
+            }
+          ],
+          "key": "dgcpi",
+          "text": "個人的にレシャーさんは、\n「低リスクでリターンを取る・事故らない」\nという点で最高クラスに丁寧なプレイをするプレイヤーだと思っており、\n地上戦の教科書として基礎的に学べることが非常に多いと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3etqa",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "595n4",
+          "text": "① 歩きガードで近寄ってから差す",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89as2",
+          "text": "基本的に技を振る前に、歩きガードで距離を詰めてから\n「微歩き打撃」で差しを狙っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 8
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "abc79",
+          "text": "昨日の記事で詳細👇",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d89ku",
+          "text": "置きに負けない差しの通し方｜歩きガードで近寄る",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://x.com/highspeedwara/status/2039251243626033544",
+                "toIndex": 54
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5cojc",
+          "text": "https://x.com/highspeedwara/status/2039251243626033544",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 18,
+              "style": "Bold"
+            }
+          ],
+          "key": "cntvk",
+          "text": "あらかじめ距離を詰めておくことで、\n相手の“踏み込みを見てからの置きや下がるなどの対応”を封じることができ、有効です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fl4dn",
+          "text": "さらに歩きガード中に差し返せそうな空振りが見えた場合は、\n小Kや中足でしっかり差し返しも狙っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1gkre",
+          "text": "② 相手の出方を見る「小P置き」（0:04〜）",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arbqc",
+          "text": "少し歩いてから振る小Pには、いくつかの効果があると考えられます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d871e",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 19,
+              "offset": 42,
+              "style": "Bold"
+            }
+          ],
+          "key": "74tqi",
+          "text": "■サガットの歩きを読んでの小P置き\n相手が素直に前に歩き、打撃で差しに来るなら、\n 微歩き小Pでカウンター→小Kなどに繋ぐ動き。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 18,
+              "style": "Bold"
+            }
+          ],
+          "key": "ejfr1",
+          "text": "屈中P置きでも対応は可能ですが、\n 空振り時の全体硬直24Fが重く、差し返しを受けやすいのが弱点。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 31,
+              "style": "Bold"
+            },
+            {
+              "length": 17,
+              "offset": 44,
+              "style": "Bold"
+            }
+          ],
+          "key": "dks13",
+          "text": "一方で小Pは、\n「11F歩き→小P」とした場合、全体24Fでも技自体は13Fのため、\n 空振りを見てからの差し返しが不可能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 17,
+              "style": "Bold"
+            }
+          ],
+          "key": "9o7bn",
+          "text": "ただし、サガット側が歩きを見て\n 17F以内に屈中Pを押せた場合は差し返しが成立する可能性あり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qk9t",
+          "text": "しかし、歩きは常に11Fではないため、\n例えば8F程度だと屈中Pが空振りし、逆に差し返されるリスクもあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 20,
+              "style": "Bold"
+            },
+            {
+              "length": 18,
+              "offset": 48,
+              "style": "Bold"
+            }
+          ],
+          "key": "1i3k8",
+          "text": "※とはいえ屈中Pが弱いわけではなく、\n ヒット確認→ラッシュで高リターンが取れる強みあり。\n→ リスクとリターンでの使い分けが重要。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 24,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "b46kq",
+          "text": "■小Pの空振りで相手の「動いた確認」を釣る\n前述の通り、小Pは空振りを見てから差し返すことができません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vknv",
+          "text": "そのため相手が、屈中Pなどの中〜大攻撃の空振りを狙い、\n「動いたのを見てからボタンを押す」ことで差し返しを狙っている場合、\nあえて小Pを空振りさせることで、その反応を引き出すことができます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aie9n",
+          "text": "つまり、小Pの空振りを見せることで、\n相手が「動きを見てボタンを押すタイプかどうか」を探ることができます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 35,
+              "style": "Bold"
+            }
+          ],
+          "key": "5luac",
+          "text": "そして、相手が屈中Pなどを振って空振りしている様子が見えれば、\nそこに中足などで差し返しを狙うことが可能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 41,
+              "offset": 13,
+              "style": "Bold"
+            }
+          ],
+          "key": "1e1se",
+          "text": "■まとめ\n微歩き小Pは、\n・相手の歩きを読んで置く技\n・空振りを見せて相手の行動（反応）を釣り、傾向を見る技",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjvuj",
+          "text": "他にもあるかもですが、役割を持つ優秀な行動だと考えられます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vulm",
+          "text": "③ 歩き小Kで相手より先に技を当てる(0:10～)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 47,
+              "offset": 72,
+              "style": "Bold"
+            }
+          ],
+          "key": "f4rlg",
+          "text": "少し前の場面で、サガットとテリーがお互いに屈中Pを振り、テリー側が打ち勝っています。\nまた、その後の歩き小Kも先出しで勝っていますが、これは\n その距離で相手より早く当たる技を適切に選択できているため、若干競り勝ちやすくなっている例です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 57,
+              "style": "Bold"
+            }
+          ],
+          "key": "4mqg2",
+          "text": "テリーの屈中Pは発生6F、小Kは5F、サガットの屈中Pは7Fです。\nそのため、お互いの技が届く間合いであれば、\n テリー側の方がわずかに早く当たり、カウンターを取りやすくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 25,
+              "style": "Bold"
+            }
+          ],
+          "key": "2oqso",
+          "text": "また、このような「技がぶつかり合う状況」では、\n 状況確認の観点でも小技を選択する重要性があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 20,
+              "style": "Bold"
+            }
+          ],
+          "key": "11et8",
+          "text": "発生の早い技を潰された場合、相手側は\n 「何を潰したか」の確認が難しくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 23,
+              "style": "Bold"
+            }
+          ],
+          "key": "fbg14",
+          "text": "これは、発生の遅い技を潰した場合と比べて、\n 確認に使える時間が短くなるためです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 73,
+              "style": "Bold"
+            }
+          ],
+          "key": "bgna1",
+          "text": "例えば、サガットの屈中P→ラッシュのキャンセル確認猶予は約15Fとされていますが、\nテリーの歩き小Kを出始めで潰した場合、\n小Kは発生5Fのため、1～4F目を潰したのを見て確認する形になり、\n最大で約18F程度の確認猶予になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "dqukr",
+          "text": "一方で、テリーが中足（発生8F）を選択していた場合、\n 1～7F目を潰したのを確認することになるため、\n最大で約21F程度の確認猶予になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 20,
+              "style": "Bold"
+            }
+          ],
+          "key": "f6c2a",
+          "text": "つまり、技のぶつかり合いにおいては、\n 発生の早い技を選択することで、相手側の状況確認を難しくさせることができます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "emsjf",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 67,
+              "style": "Bold"
+            }
+          ],
+          "key": "7bv52",
+          "text": "ただし、これも一概に小技が優れているというわけではありません。\n中〜大攻撃はリターンが高く、キャンセル確認猶予も長めに取れるため、\n それぞれに明確なメリット・デメリットがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "347lo",
+          "text": "状況に応じて、リスクとリターンを考えた使い分けが重要になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "6agnd",
+          "text": "④ 打ち返しの読み合い(0:13～)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bieic",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c6q7",
+          "text": "屈中Pガード後、テリー側は**-1F**。\n→ サガット側は屈小Pで打ち返すが安定択。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "8k8h9",
+          "text": "そこに対して、\n 最速中足で打ち返しを狙います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2tno3",
+          "text": "サガット側はカウンター時のリターンを取るため、\n屈小P→小Kや屈中Pを入れ込みがち。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "4g9g9",
+          "text": "→ ここに相打ち or ターン奪取が発生。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ufji",
+          "text": "ただサガット側は、\n屈小P→弱ネクサスで暴れ潰しも可能。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "c9sin",
+          "text": "ただしこれは、\n キャンセルを見てからジャスパで返せる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "51ajk",
+          "text": "→ 結論\n サガットの屈小P先端気味ガード後は\n「中足などで打ち返し or 見てからジャスパ」で読み合いを作れる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "elbn3",
+          "text": "⑤ 打撃ヒット後の生ラッシュ(0:15～)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "gun0",
+          "text": "サガットの屈中Pヒット後（+4F）、\n有利状況を活かして生ラッシュで攻め継続。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 23,
+              "style": "Bold"
+            }
+          ],
+          "key": "9v3gb",
+          "text": "この状況ではテリー側はボタンを押しにくく、\n 暴れ潰しを受けやすい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 13,
+              "style": "Bold"
+            }
+          ],
+          "key": "a075m",
+          "text": "しかしレシャーさんは、\n ラッシュを見て屈小Pでしっかり止めています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "8h9bs",
+          "text": "→ “有利だから来る”を読んで対処しているのがポイント。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3tjrn",
+          "text": "■まとめ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "nfum",
+          "text": "レシャーさんの立ち回りは、\n ・リスクを抑えつつ\n・相手の行動を引き出し\n・状況ごとに最適な技を選ぶ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "27kb7",
+          "text": "という、非常に再現性の高いプレイ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2k9qp",
+          "text": "「派手さより安定」ですが、\nその積み重ねが結果に直結する理想的な地上戦と個人的には思います。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "4072a3af-cf1e-47e1-b277-a044d922331f",
+              "mediaItems": [
+                {
+                  "localMediaId": "15",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2039679851490344961"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f447.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "a056fba7-fdd7-422e-b96a-26b8d1618158",
+              "mediaItems": [
+                {
+                  "localMediaId": "18",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2039682775532589056"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "1e6526d0-523d-4d51-990a-3d72b7d7b39c",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2039679536888238080"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "1aefed0a-8283-4cf7-ae6a-82dcce40a7e2",
+              "mediaItems": [
+                {
+                  "localMediaId": "13",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2039679703460855808"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHE5orXoaUAAKAAIAAAAAAAAAAAAA",
+        "media_id": "2039682775532589056",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 240,
+            "numerator": 427
+          },
+          "duration_millis": 73440,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 52.02,
+                  "rgb": {
+                    "blue": 163,
+                    "green": 161,
+                    "red": 177
+                  }
+                },
+                {
+                  "percentage": 16.95,
+                  "rgb": {
+                    "blue": 109,
+                    "green": 109,
+                    "red": 117
+                  }
+                },
+                {
+                  "percentage": 9.55,
+                  "rgb": {
+                    "blue": 137,
+                    "green": 133,
+                    "red": 208
+                  }
+                },
+                {
+                  "percentage": 8.72,
+                  "rgb": {
+                    "blue": 208,
+                    "green": 157,
+                    "red": 158
+                  }
+                },
+                {
+                  "percentage": 1.9,
+                  "rgb": {
+                    "blue": 39,
+                    "green": 26,
+                    "red": 45
+                  }
+                }
+              ]
+            },
+            "original_img_height": 480,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2039682775532589056/img/UMqnE0BioGwcTj05.jpg",
+            "original_img_width": 854
+          },
+          "variants": [
+            {
+              "bit_rate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039682775532589056/vid/avc1/480x270/Z9OLOUH70RfjXcta.mp4?tag=21"
+            },
+            {
+              "bit_rate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039682775532589056/vid/avc1/640x360/PPn6syUXnJMFBzmT.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039682775532589056/vid/avc1/854x480/SsaRn0ecHUTKUMie.mp4?tag=21"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2039682775532589056/pl/SMK4RUE3OpNzWWFv.m3u8?tag=21"
+            }
+          ]
+        },
+        "media_key": "13_2039682775532589056"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHE5lu2vbUAAKAAIAAAAAAAAAAAAA",
+        "media_id": "2039679536888238080",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 240,
+            "numerator": 427
+          },
+          "duration_millis": 6720,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 69.54,
+                  "rgb": {
+                    "blue": 160,
+                    "green": 162,
+                    "red": 172
+                  }
+                },
+                {
+                  "percentage": 10.82,
+                  "rgb": {
+                    "blue": 61,
+                    "green": 60,
+                    "red": 63
+                  }
+                },
+                {
+                  "percentage": 1.48,
+                  "rgb": {
+                    "blue": 145,
+                    "green": 124,
+                    "red": 193
+                  }
+                },
+                {
+                  "percentage": 1.18,
+                  "rgb": {
+                    "blue": 100,
+                    "green": 72,
+                    "red": 50
+                  }
+                },
+                {
+                  "percentage": 0.53,
+                  "rgb": {
+                    "blue": 86,
+                    "green": 202,
+                    "red": 190
+                  }
+                }
+              ]
+            },
+            "original_img_height": 480,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2039679536888238080/img/IjUaDcAHoicCtijP.jpg",
+            "original_img_width": 854
+          },
+          "variants": [
+            {
+              "bit_rate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039679536888238080/vid/avc1/480x270/3vnePA1U5nXVN-sA.mp4?tag=21"
+            },
+            {
+              "bit_rate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039679536888238080/vid/avc1/640x360/ZMahShxxoFhOW9wp.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039679536888238080/vid/avc1/854x480/_Oor2Xkr0olX1zUl.mp4?tag=21"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2039679536888238080/pl/gyD909ctw_oWaLbh.m3u8?tag=21"
+            }
+          ]
+        },
+        "media_key": "13_2039679536888238080"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHE5l4jRbwAAKAAIAAAAAAAAAAAAA",
+        "media_id": "2039679703460855808",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 9,
+            "numerator": 16
+          },
+          "duration_millis": 16874,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 69.52,
+                  "rgb": {
+                    "blue": 158,
+                    "green": 159,
+                    "red": 169
+                  }
+                },
+                {
+                  "percentage": 9.81,
+                  "rgb": {
+                    "blue": 63,
+                    "green": 57,
+                    "red": 62
+                  }
+                },
+                {
+                  "percentage": 2.28,
+                  "rgb": {
+                    "blue": 191,
+                    "green": 143,
+                    "red": 132
+                  }
+                },
+                {
+                  "percentage": 1.67,
+                  "rgb": {
+                    "blue": 149,
+                    "green": 125,
+                    "red": 185
+                  }
+                },
+                {
+                  "percentage": 0.61,
+                  "rgb": {
+                    "blue": 111,
+                    "green": 41,
+                    "red": 192
+                  }
+                }
+              ]
+            },
+            "original_img_height": 720,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2039679703460855808/img/WQthir-jJlOAFMA9.jpg",
+            "original_img_width": 1280
+          },
+          "variants": [
+            {
+              "bit_rate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039679703460855808/vid/avc1/480x270/seXD0WfOk_jAPNeB.mp4?tag=21"
+            },
+            {
+              "bit_rate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039679703460855808/vid/avc1/640x360/ZJTn9Ab8zbS2A8Wh.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039679703460855808/vid/avc1/1280x720/Zd9DrIhXZRBXF7zl.mp4?tag=21"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2039679703460855808/pl/uKzJT3TH2L7ifakZ.m3u8?tag=21&v=cfc"
+            }
+          ]
+        },
+        "media_key": "13_2039679703460855808"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHE5mBKuagAEKAAIAAAAAAAAAAAAA",
+        "media_id": "2039679851490344961",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 9,
+            "numerator": 16
+          },
+          "duration_millis": 11989,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 65.89,
+                  "rgb": {
+                    "blue": 155,
+                    "green": 158,
+                    "red": 168
+                  }
+                },
+                {
+                  "percentage": 11.9,
+                  "rgb": {
+                    "blue": 64,
+                    "green": 60,
+                    "red": 66
+                  }
+                },
+                {
+                  "percentage": 1.99,
+                  "rgb": {
+                    "blue": 176,
+                    "green": 144,
+                    "red": 128
+                  }
+                },
+                {
+                  "percentage": 1.94,
+                  "rgb": {
+                    "blue": 144,
+                    "green": 124,
+                    "red": 182
+                  }
+                },
+                {
+                  "percentage": 0.93,
+                  "rgb": {
+                    "blue": 68,
+                    "green": 46,
+                    "red": 85
+                  }
+                }
+              ]
+            },
+            "original_img_height": 720,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2039679851490344961/img/eR14x_TV2NbRs3_S.jpg",
+            "original_img_width": 1280
+          },
+          "variants": [
+            {
+              "bit_rate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039679851490344961/vid/avc1/480x270/z8MY4Dd9Fxr7CTDK.mp4?tag=21"
+            },
+            {
+              "bit_rate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039679851490344961/vid/avc1/640x360/uE1reqPtw-HqhmjR.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2039679851490344961/vid/avc1/1280x720/YasVTKqO3qZ17EHE.mp4?tag=21"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2039679851490344961/pl/GPnmRatfjNv9PCGc.m3u8?tag=21&v=cfc"
+            }
+          ]
+        },
+        "media_key": "13_2039679851490344961"
+      }
+    ]
+  }
+}

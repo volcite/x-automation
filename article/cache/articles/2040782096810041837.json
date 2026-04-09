@@ -1,0 +1,1029 @@
+{
+  "tweet_created_at": "2026-04-05T13:22:22.000000Z",
+  "id": 2040782096810041900,
+  "id_str": "2040782096810041837",
+  "type": "tweet",
+  "conversation_id_str": "2040782096810041837",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/a19o4LLoAc",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1993702422800437200,
+    "id_str": "1993702422800437248",
+    "name": "子ども支援のこころ",
+    "screen_name": "omatsu_kokoro_",
+    "location": "",
+    "url": null,
+    "description": "子育てや支援にまつわる言葉を置いていきます / 愛着について / 児童養護施設で親代わり/エピソードは実際のやり取りを基にした架空事例です",
+    "protected": false,
+    "verified": true,
+    "followers_count": 3452,
+    "friends_count": 1877,
+    "listed_count": 7,
+    "favourites_count": 797,
+    "statuses_count": 442,
+    "created_at": "2025-11-26T15:24:42.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993702422800437248/1772369460",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2027715194609356801/Mtj85lws_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 33,
+  "reply_count": 0,
+  "retweet_count": 118,
+  "favorite_count": 1325,
+  "views_count": 992027,
+  "bookmark_count": 746,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2023…",
+        "expanded_url": "http://x.com/i/article/2023746642483310598",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/a19o4LLoAc"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-02-17T13:15:02.000000Z",
+    "id": 2040782096810041900,
+    "id_str": "2040782096810041837",
+    "title": "児童養護施設で働きたいあなたへ。",
+    "preview_text": "みなさんは、児童養護施設を知っていますか？\n住んでいる子どもと話したことがありますか？\n施設で働いたことがありますか？\n私は気になったので、児童養護施設で子どもたちと生活してみました。",
+    "cover_url": "https://pbs.twimg.com/media/HBXMC0KbcAAfK4U.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2loc1",
+          "text": "みなさんは、児童養護施設を知っていますか？\n住んでいる子どもと話したことがありますか？\n施設で働いたことがありますか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ppam",
+          "text": "私は気になったので、児童養護施設で子どもたちと生活してみました。\nそこで目にしたものをここに残しました。少しでも気になったあなたには、ぜひ読んでみていただきたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            },
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 1
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4rfs7",
+          "text": "🏠🌲",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "774bv",
+          "text": "◯なぜ児童養護施設で働くことにしたか",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "foklg",
+          "text": "私は現在、臨床心理士と公認心理師という資格を持ち、いくつかの福祉施設で勤務しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ekm6",
+          "text": "児童養護施設を知ったのは、臨床心理学の大学院時代です。先輩からアルバイト先として紹介してもらったのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ma9h",
+          "text": "大学院で心理学を学び、アルバイトとして児童養護に携わりながら、私は卒業後どんな仕事をしようか悩んでいました。\n\n「良いカウンセラーになるなら精神病の症状や治療を経験しておかないと」\n「心理検査は必要な技能だから、検査を経験できる職場にしようか」\n\nこんな感じで悩んでいたのです。\n心理臨床家としては、これがオーソドックスな職場の決め方でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2gmh",
+          "text": "就職先を考え始めてまもなく、ありがたいことに教授から『うちの系列の精神科病院で勤務しないかい』とお誘いをいただきました。\nそれと同時期に、地元の児童養護施設に見学に行くことになりました。当時アルバイトとして、児童養護施設で子どもたちと真正面から向き合う中で、子どもたちから辛酸をなめさせられながらも、彼らの可愛らしさと一生懸命さにいつも心揺さぶられていたからです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3i4ta",
+          "text": "私が見学した地元の施設は、小舎制という仕組みの施設でした。小舎制とは、6人程度の少人数の子どもたちで１つのホームを作る施設の仕組みのことです。\n他には中舍制、大舎制というのがあり、中舍は15人程度、大舎は20人以上をひとまとめに養育します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 47,
+              "style": "Bold"
+            }
+          ],
+          "key": "ubu1",
+          "text": "施設に見学に行くと、その施設の主幹(学校で言うと教頭先生の立ち位置)が案内してくれました。\n\n『見に来てくれてありがとう。うちはね、\"人の子も自分の子どもだと思って育てよう\"という理念があるんだよ。』\n\nその言葉通りの施設でした。その施設の特徴的だったのは、各ホームに必ず1人住み込みの職員を配置していた点です。住み込みとは、子どもたちのホームに居室を持ち、ともに寝泊まりをする勤務のことです。\nワークライフバランスを眼中に入れ忘れたかのような勤務体系です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 167,
+              "offset": 11,
+              "style": "Bold"
+            }
+          ],
+          "key": "bsgb8",
+          "text": "主幹は続けました。\n\n『子どもたちは、いつも本当に信頼できる大人を探しているんだ。僕たちは子どもたちに人を信じる経験を積んでほしいと思っている。でもそれは、並大抵な関わりじゃ経験させてあげられない。だって彼らは、ここに来るまでに何度も大人から裏切られてきたのだからね。だから、ともに生活をして、きみたちのことを毎日見守っているということを伝えているんだ。』",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 227,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "db12c",
+          "text": "『職員は大変そうに思うでしょ？はは。本当に大変だ。逃げ場がないから中途半端に関われないし、子どもたちは色々な方法で気持ちを揺さぶってくるからね。でもね。子どもたちのくったくの無い笑顔を見た時、心から頼ってくれるようになった時、すやすやと眠る幸せそうな顔を見た時。疲れなんて気づいたらなくなってるんだよ。一生懸命関わった人にしか見れない子どもの顔があるんだよ。』\n\n『ともに生活することでしか見れない景色、たどり着けない関係性というのは、絶対にあるんだ。』",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "34jok",
+          "text": "庭で遊ぶ子どもたちを見守りながら、目に優しいしわを浮かべて味わうように話す主幹の瞳には、深い愛情と強い決意が宿っていました。\n私は深く深く、そして深く胸を打たれました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9a198",
+          "text": "『なんて、かっこいいんだ。』\n『私もこんな大人になりたい。』",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jeuv",
+          "text": "もう答えは決まっていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "di2vc",
+          "text": "気づけば私は精神科病院の誘いを断り、その児童養護施設の採用面接に向かっていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9jcs",
+          "text": "私は正しいと言われる道筋よりも、かっこいいと思える道を選ぶことにしたのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4u5ph",
+          "text": "◯児童養護施設とは",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "asccf",
+          "text": "私は無事に採用していただき、\"施設での勤務×子どもとの生活\"が始まりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71a8",
+          "text": "そもそも児童養護施設とはどういう所なのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6b747",
+          "text": "児童養護施設とは、なんらかの理由で親と暮らせない子どもたちを預かる場所です。\n身寄りがいなくて施設に来る子もいれば、虐待から保護された子もいます。\n理由は子どもによってさまざまです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6m04",
+          "text": "彼らは他の子たちよりも早く親元から離れる訳ですから、たくましいですよね。でも、それは諦めが込められたたくましさに感じる時もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 86,
+              "offset": 36,
+              "style": "Bold"
+            }
+          ],
+          "key": "7q8gc",
+          "text": "ある日、小学5年生の男の子が2人きりの時に教えてくれたことがあります。\n『俺な、友達に施設で住んでると思われたくない。なんかな、俺らは周りとは違う感じがする。壁がある感じがする。かわいそうとか思われるのが1番嫌。本当は普通の家で、暮らしたい。』",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5dfcm",
+          "text": "ぽつぽつと話すその言葉の奥には、悔しさとやるせなさが滲んでいました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "freco",
+          "text": "彼らは、『かわいそう』という言葉を最も嫌います。過去は、捉え方次第で前向きなものに変わることがあります。でも、かわいそうと言われると過去のすべてがネガティブなものになってしまう。それに、かわいそうという言葉はどこか相手を見下すような感触があります。弱いものとして扱うような感じを受けます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9j7a6",
+          "text": "また、実際に子どもたちと過ごしてみて、彼らにかわいそうという言葉は似合わないと気づきました。他の子と同じように笑顔が素敵で、個性があり、施設で豊かに過ごしているからです。\n私は彼らの過去を考える時に『かわいそう』とは思わなくなり、代わりに『大変だったね』という労いの気持ちが生まれるようになりました。似ているようで、暖かさがまるで違います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66gar",
+          "text": "児童養護施設で生活する子どもたちは、大変な過去を乗り越えてきた繊細でたくましい子どもたちです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dnvef",
+          "text": "◯1日の流れ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3l0hb",
+          "text": "そうこうして、私はいざ児童養護施設で子どもと生活することになりました。ですが、施設の生活には初め中々慣れませんでした。\n1週間経ち、さらに1ヶ月、2ヶ月と経っていくうちに、だんだんと生活が体に馴染んでいきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7l5j8",
+          "text": "施設では、子どもたちに生活習慣を身につけてもらうために、時間には厳しく対応していました。生活習慣が整うだけで心は安定するものです。これは大きな学びでした。\n施設ではこんな1日を過ごします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "42qlj",
+          "text": "【子どもたちの1日】\n\n6:30起床\n「はい起きて〜！おはよ〜！」と時に大声で叩き起こします。戦です。朝は得意不得意が大きく分かれますね。起きない子はフライパンを叩いても水をかけても起きないでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "btsoe",
+          "text": "7:00朝食\n職員が朝5時半に起きて朝食作りを始めます。私は住み込みだったので、これをほぼ毎日していました。おかげで朝が強い。朝食はみんなでワイワイと楽しく食べます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f1a4r",
+          "text": "7:30学校準備\n朝食後、子どもたちはハミガキなどの身支度を済まし、いそいそと学校の準備を始めます。この時間は、小学生がテレビを観たり漫画に夢中にならないよう全力で阻止し、まず準備を終わらせます。この戦に負けると、子どもは遅刻したり欠席したりするので、私はいつも心を鬼にします。\n中高生で準備が進まない子は、怠惰ではなく学校に行きたくない明確な理由があるかもしれないので、仏モードに切り替え丁寧に話を聴きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fegjl",
+          "text": "8:00登校\n施設の小学生は揃って登校します。この登校も覚悟が要ります。なぜなら、子どもたちを野放しにするとすぐに乱闘を始めるからです。職員がリーダーシップを持って統率し、戦を治めます。もちろん、楽しい会話もたくさんできます。私はよく『もし今ドラえもんに会ったらどんな秘密道具をお願いする？』なんて質問をしてみんなでワイワイ意見を出し合っていました。ああ、最高な朝ですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3frb3",
+          "text": "(子どもが登校している間に、職員は書類作成を済ましたり、情報共有を行ったり、休憩を取ったりします。)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fmj2m",
+          "text": "16:00下校・帰院\n小学生までは、職員が学校まで子どもを迎えに行きます。保護されている子どもたちですので、虐待を加えた親が急に来て子どもと関わろうとする可能性なども考慮すると、毎回迎えにいく必要があるのです。\n中高生は各自で帰ってきます。クラブがある子は19時ごろ帰ってきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4m2nq",
+          "text": "〜宿題・余暇〜\n今日の戦、3戦目です。宿題という難敵を華麗に倒す子もいれば、いつも必ず苦戦を強いられる子もいます。問題が解けずイライラして宿題を破り捨てる子もいました。そうならないよう、子どもを励ましつつ見守ります。宿題が終われば、子どもたちは一目散に外へ駆け出し遊び回ります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2v9md",
+          "text": "18:00夕食\n調理員と指導員が毎日協力して作る、手作りのご飯です。メニューは日によってさまざま。焼き魚、グラタン、カレー、カツ丼、鍋、など。焼肉の日もあれば、ピザの日もあります。非常にボリューミーです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1j07d",
+          "text": "〜入浴・余暇〜\n私はこの時間が大好きです。子どもと大人がもっともリラックスして過ごす時間です。私はよく子どもたちとSwitchでマリカーやスマブラを楽しみました。手加減はしないタイプです。映画を観たり、トランプをしたりする日もあります。この時間で、できるだけ家族のような安心感を育みたいと思っていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "afd3o",
+          "text": "21:00小学生就寝\n就寝の前は、なぜか子どもは素直になります。ベッドは安心する場所です。安心していれば、反抗もなくなるのですね。ここで、今日1日の楽しかったことや嫌だったことを聴いてあげようと努力します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3ldac",
+          "text": "22:00中高生就寝\n中高生は22:00に就寝です。\n21:00-22:00は小学生がいないため、ホームが落ち着いた空気になります。この時間は中高生とゆっくり関われる時間帯です。普段小さい子に目が行きがちですので、この1時間を、いかに丁寧に大きい子たちに心を配れるかが大切です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ieqr",
+          "text": "こんな感じで、1日が終わります。\n子どもと丁寧に関わるのが理想ですが、家事や書類作成、電話対応などがあり中々ゆっくり子どもと関われないのが実際です。そういう日は、寂しい思いをさせて申し訳ないなと反省します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eb7li",
+          "text": "(休日は起床が8:30になり、日中は特に何もなく過ごします。)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "esdri",
+          "text": "◯年間の流れ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "db9n7",
+          "text": "子どもたちは1年を通して様々な顔を見せてくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5uot6",
+          "text": "4月\n新しいホームが発表され、学校もクラスが変わり、みんなそわそわしています。この期間はみんな様子を見合っている感じがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5kk7t",
+          "text": "5月〜6月\n生活に慣れてきて素を出し始めます。やんちゃなことをする子、部屋から出てこなくなる子など、さまざまです。ここで子どもの行動をそのまま承認してしまうと、その行動が1年間続いてしまいます。なので問題行動には丁寧に対応し、施設の生活に合わせてもらうしかありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1tro",
+          "text": "7月〜8月\n施設は乱戦状態です。なぜなら、夏休みという大戦が始まるからです。子どもたちは施設に缶詰状態になり、ストレスが溜まるとトラブルを起こすようになります。\n大事にならないように気を配りつつ、たとえ防戦一方だとしても、何とか9月まで凌いでいきます。ただ、夏休みにはキャンプや登山、夏祭りなどのイベントもあるので、楽しい思い出もたくさんできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1t7l3",
+          "text": "9月\nここまでたどり着けば、子どもたちも新年度の生活に慣れ、落ち着いていきます。職員も、夏休みという荒波を乗り切った自信がつき、たいていのトラブルであれば対応できるようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4dsdt",
+          "text": "10月〜12月\n大抵の子は学校生活で充実し、施設ではおとなしく過ごすようになります。職員もゆっくりと子どもとの時間を楽しむことができます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "21fr7",
+          "text": "1月(正月)\n家族との繋がりがある子は家に帰りますが、家族の問題が解決できていない子や、ひどい虐待を受けた子、身寄りがいない子は施設に残って年を越します。家で正月を過ごす子どものことを、施設に残る子は必ず羨ましいと感じています。\n彼らにとって、やっぱり施設は家とは感じられないのです。生まれ育った家に帰りたいという気持ちはみんな、口に出さずとも抱えています。だから、施設ではいつも以上に楽しい行事を用意して、残った子どもたちを楽しませようと奮闘します。私も数年間、正月は実家に帰らず施設で子どもたちと過ごしました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "623vh",
+          "text": "2月〜3月\nホームがすっかりまとまり、子どもたちだけで問題を解決できるようにもなっていきます。子どもたちの頼もしい姿を見れることが多いですね。また、1年の振り返りの会を施設が設け、みんなでスライドショーを見て思い出を振り返ります。\nそして、高校を卒業した子は、3月で卒院することになります。彼らを送る会を設け、1人ずつに手紙を渡します。彼らも、これからの抱負を全体の場でスピーチします。感謝と、名残惜しさで胸が詰まる、涙なしでは終われない会です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5n45s",
+          "text": "これが、施設の1年間です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3bjm0",
+          "text": "◯子どもは大人を試す",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fv7tb",
+          "text": "私は、そんな施設での生活を始めは順調に過ごしていました。大学院で学んだ傾聴や受容的な遊び方で子どもと楽しく何日かを過ごすことができたのです。ですが、それは私の勘違いであったことを後に気付かされることになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 38,
+              "style": "Bold"
+            },
+            {
+              "length": 6,
+              "offset": 87,
+              "style": "Bold"
+            }
+          ],
+          "key": "9f0c9",
+          "text": "私の子どもへの関わり方はというと、もっぱら受容的なものでした。\nある小学生が『一緒に遊んで！』というたびに私は作業の手を止めて遊びに付き合っていました。\nまた、ある中学生が『話きいてよ』というたびに長い時間を費やして話を聴いていました。\nそうして子どもと打ち解けていったのですが、子どもたちの要求は気づけばエスカレートしていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 61,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 163,
+              "style": "Bold"
+            },
+            {
+              "length": 21,
+              "offset": 211,
+              "style": "Bold"
+            }
+          ],
+          "key": "e3tjm",
+          "text": "ある時、『一緒に遊ぼ！』と誘われたので遊びに付き合ったのですが、急に用事ができたため「ごめん、行かなきゃ」と伝えると\n\n『うそつき！もっと遊んでよ！』\n\nとその子から言われました。私は申し訳なく思ったため、「じゃあもうちょっとだけね」と言ってその日は10分ほど延長して遊んでから、用事に取り掛かりました。\nすると、次から毎回『あと10分遊んで！』という要求が出されるようになりました。\n「今日はできないの」と断っても、\n『この前は遊んでくれたやん！また裏切るん！』\nとすごい剣幕で迫ってくるのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1nso7",
+          "text": "『話をきいてよ』と声をかけてくれた中学生も似たような様子で、だんだんと要求がエスカレートしていきました。もっと長い時間聞いてほしいという要求や、話を聞けない日は不機嫌になるなどの姿が見られるようになったのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4gv8b",
+          "text": "当時の私からすると、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bb7a6",
+          "text": "なんで一生懸命子どもと関わってるのに、子どもとの関係は悪くなっていくんだー！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3u8ej",
+          "text": "子どもってどんだけ気難しいんだよー！\n訳わかんねー！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dudjs",
+          "text": "という感じです。\n子どもたちの不可解さに腹が立ち、私の未熟さに落ち込む日々が続きました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 34,
+              "style": "Bold"
+            }
+          ],
+          "key": "6c83g",
+          "text": "実は、私はいくつかの落とし穴を踏んでしまっていたのでした。子どもの\"試し行動\"という高度な罠にまんまとはまってしまっていたのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 19,
+              "style": "Bold"
+            }
+          ],
+          "key": "92dra",
+          "text": "試し行動とは、子どもが大人に対して\n「こいつは信用できるのか」\n「言うことを聞くに値するほど尊敬できるのか」\nという風に、大人を値踏みするような行動のことです。ちなみに、子どもは悪気なく無意識にこれを行っています。大人でも自然としていることがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fud7i",
+          "text": "私の場合は、子どもの『うそつき！もっと遊んでよ！』という言葉などが試し行動の１つでした。これは何を試していたかというと、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 1,
+              "style": "Bold"
+            },
+            {
+              "length": 41,
+              "offset": 56,
+              "style": "Bold"
+            }
+          ],
+          "key": "60q77",
+          "text": "『この大人は、自分(その子)の言葉で操れるような程度の人間なのか』ということです。\nもう少し説明を加えると、\n『一度言ったことを子どものお願いで取り下げるような、コントロールしやすい大人なのか』という点を見られていたのだと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7hnif",
+          "text": "まんまと術中にはまり、私は自分の言葉を簡単に取り下げてしまったわけです。\nこれによって、その子は私をコントロールしやすい存在と思い、要求をエスカレートさせていったのでした。\n(だからといって毎回必ず断らなければいけないということではなく、その子が何を試しているのかを表情や態度から見極めることが大切ということです。)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "79tjh",
+          "text": "それからというもの、私はすべての子どものすべての試し行動に見事にはまり、ホームは大崩壊へと向かうのでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24hv4",
+          "text": "いやあ、、。\n当時の子どもたちや、チームの職員の方々には多大な迷惑をかけてしまいました。情けない限りです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12f2b",
+          "text": "ただ、その試し行動を生き残った先には、子どもからの確かな信頼が待っています。\n\n試し行動の先にしか信頼はないとも言えます。\n誰もが通る道です。試されてなんぼです。\nそこから逃げずに、しっかりと向き合ってみてください。後からきっと、いい経験だったと思えますから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3rpc2",
+          "text": "私はホームが大崩壊した後、どれだけ嫌われてでも言ったことや決めたことを守り、ルールを子どもに守らせようとまさに死ぬ気で奮闘しました。\n結果的に、最後まで逃げなかった私を子どもたちは信頼してくれ、今ではお互いが深く信頼し合う関係性を築けています。\nこの関係性があると、子どもたちとの時間も対等に楽しむことができ、悩みを素直に打ち明けてくれ、家族との問題も私を通して改善していこうと努力してくれるようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b47vo",
+          "text": "私は、ともに生活した彼らを本当の家族だと思っています。血は繋がっていないけれど、これからもずっと気にかけ、連絡を取り、支え続けようと思っています。(彼らはそうは思っていないかもしれないけれど、、)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d5bme",
+          "text": "◯児童養護施設で働く意味",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 65,
+              "style": "Bold"
+            }
+          ],
+          "key": "7sdoo",
+          "text": "私は施設でなんとかこれまで働いてこれました。それは、大変さの中に子どもたちの無邪気な笑顔や心打ち解ける瞬間に出会えたからです。\n\n児童養護施設で働く1番の理由は、子どもとの出会いにあると思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 66,
+              "offset": 65,
+              "style": "Bold"
+            }
+          ],
+          "key": "89po2",
+          "text": "そして、彼らとの出会いを通じて、どうすれば相手を理解し、良い関係を築いていくことができるのかということを学ぶことができました。\n\n児童養護施設での勤務は、人の心を深く理解したり、良い関係を築くためのヒントや経験の宝庫でした。この学びも、施設で働くことの意味です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9ep5",
+          "text": "それらを得るまでには、たくさんの苦労があるでしょう。子どもとも、そう簡単に打ち解けることはできないかもしれません。\n私のように苦労する可能性もあります。\nでも、とにかく1年間はやりきるつもりでいれば、きっと最初とは全く違う景色を見ることができると思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 85,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7d0k7",
+          "text": "もしあなたが児童養護施設の近くで生活をしているなら。\nそこではたくさんの子どもたちと職員が日々ぶつかり合いながらも豊かに一生懸命暮らしているんだと知っておいてもらいたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 73,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fua6n",
+          "text": "もしあなたに児童養護施設出身の友人がいるのなら。\n彼、彼女は、決してかわいそうではなく、むしろたくましく生きてきた誇るべき人だと知ってもらいたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 79,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bksce",
+          "text": "もしあなたが児童養護施設で働くことに興味を持っているのなら。\n大変かもしれないけれど、そこには素晴らしい出会いと人間的成長があることを知っておいてもらいたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qsia",
+          "text": "私は、児童養護施設で子どもと暮らせて良かったと、心の底から思っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7kj32",
+          "text": "ここまで読んで下さり、ありがとうございました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qprq",
+          "text": "私が携わった児童養護施設という場所がさらに認知され、子どもたちが必要な支援を受け、さらに良い場所になっていくことを願って、この文章を終わりたいと思います。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f3e0.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f332.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

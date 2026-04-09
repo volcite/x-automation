@@ -1,0 +1,393 @@
+{
+  "tweet_created_at": "2026-04-05T12:11:17.000000Z",
+  "id": 2040764207063515400,
+  "id_str": "2040764207063515462",
+  "type": "tweet",
+  "conversation_id_str": "2040764207063515462",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/RCnvjd7QOH",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1880123418135363600,
+    "id_str": "1880123418135363584",
+    "name": "木乃実たると💛",
+    "screen_name": "kinomi_taruto",
+    "location": "",
+    "url": "https://lit.link/tarutoASMR",
+    "description": "新人2.5次元Vtuberのひきこもりゲーマー🥧💛\n木乃実たると公式アカウントです！\n下のリンクからもっと私のこと知ってほしいな！",
+    "protected": false,
+    "verified": true,
+    "followers_count": 63452,
+    "friends_count": 151,
+    "listed_count": 157,
+    "favourites_count": 4668,
+    "statuses_count": 1671,
+    "created_at": "2025-01-17T05:22:16.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880123418135363584/1765780765",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2000455942614507520/uGhdx5XQ_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 2,
+  "reply_count": 21,
+  "retweet_count": 65,
+  "favorite_count": 3828,
+  "views_count": 524179,
+  "bookmark_count": 3238,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040764033100632064",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/RCnvjd7QOH"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T12:11:17.000000Z",
+    "id": 2040764207063515400,
+    "id_str": "2040764207063515462",
+    "title": "タップでギャルのｴｯなとこ見る？",
+    "preview_text": "みんなせーふく好きだよね\n \n \n \n \n騙されたと思った？ほんとだよ💛",
+    "cover_url": "https://pbs.twimg.com/media/HFJEDcOboAEwTup.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fiv4t",
+          "text": "みんなせーふく好きだよね",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "duoek",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bpfiu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fmu36",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a045j",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 14
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f8eh6",
+          "text": "騙されたと思った？ほんとだよ💛",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f49b.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "4e6b4188-73b9-4825-b395-1d3f1803169b",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040768883590873088"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "068e2be8-8278-4f59-b0cf-a566896f60e8",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040768811226533888"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "3a764455-a8c4-417f-91b6-004544e885e5",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040768930063769600"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "0fd8d377-3ba0-4916-a0b1-b25aed727895",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040768975639130112"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFJEa93akAAKAAIaF4pJl9oAAAAA",
+        "media_id": "2040768811226533888",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 88.83,
+                "rgb": {
+                  "blue": 160,
+                  "green": 145,
+                  "red": 166
+                }
+              },
+              {
+                "percentage": 11.16,
+                "rgb": {
+                  "blue": 85,
+                  "green": 66,
+                  "red": 77
+                }
+              }
+            ]
+          },
+          "original_img_height": 3024,
+          "original_img_url": "https://pbs.twimg.com/media/HFJEa93akAAC3Qq.jpg",
+          "original_img_width": 4032
+        },
+        "media_key": "3_2040768811226533888"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFJEfLcawAAKAAIaF4pJl9oAAAAA",
+        "media_id": "2040768883590873088",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 87.3,
+                "rgb": {
+                  "blue": 148,
+                  "green": 139,
+                  "red": 157
+                }
+              },
+              {
+                "percentage": 12.4,
+                "rgb": {
+                  "blue": 71,
+                  "green": 61,
+                  "red": 72
+                }
+              },
+              {
+                "percentage": 0.29,
+                "rgb": {
+                  "blue": 194,
+                  "green": 184,
+                  "red": 193
+                }
+              }
+            ]
+          },
+          "original_img_height": 3024,
+          "original_img_url": "https://pbs.twimg.com/media/HFJEfLcawAAKwBi.jpg",
+          "original_img_width": 4032
+        },
+        "media_key": "3_2040768883590873088"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFJEh4ka4AAKAAIaF4pJl9oAAAAA",
+        "media_id": "2040768930063769600",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 91.41,
+                "rgb": {
+                  "blue": 151,
+                  "green": 147,
+                  "red": 166
+                }
+              },
+              {
+                "percentage": 8.54,
+                "rgb": {
+                  "blue": 94,
+                  "green": 82,
+                  "red": 84
+                }
+              }
+            ]
+          },
+          "original_img_height": 3024,
+          "original_img_url": "https://pbs.twimg.com/media/HFJEh4ka4AApsAM.jpg",
+          "original_img_width": 4032
+        },
+        "media_key": "3_2040768930063769600"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFJEkiWbsAAKAAIaF4pJl9oAAAAA",
+        "media_id": "2040768975639130112",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 82.46,
+                "rgb": {
+                  "blue": 146,
+                  "green": 140,
+                  "red": 165
+                }
+              },
+              {
+                "percentage": 15.84,
+                "rgb": {
+                  "blue": 84,
+                  "green": 76,
+                  "red": 83
+                }
+              },
+              {
+                "percentage": 1.37,
+                "rgb": {
+                  "blue": 79,
+                  "green": 93,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 0.22,
+                "rgb": {
+                  "blue": 204,
+                  "green": 195,
+                  "red": 197
+                }
+              }
+            ]
+          },
+          "original_img_height": 3024,
+          "original_img_url": "https://pbs.twimg.com/media/HFJEkiWbsAA3uq6.jpg",
+          "original_img_width": 4032
+        },
+        "media_key": "3_2040768975639130112"
+      }
+    ]
+  }
+}

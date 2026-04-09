@@ -1,0 +1,1683 @@
+{
+  "tweet_created_at": "2026-04-03T03:18:54.000000Z",
+  "id": 2039905455280165000,
+  "id_str": "2039905455280165184",
+  "type": "tweet",
+  "conversation_id_str": "2039905455280165184",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/CUPNSbEPkL",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1190166675556978700,
+    "id_str": "1190166675556978688",
+    "name": "池田晴紀｜営業×AI×事業作り",
+    "screen_name": "ikeda_haruki_",
+    "location": "",
+    "url": null,
+    "description": "非エンジニアのAI実践知を発信｜6回事業ピボット｜日本最速でAIエージェント事業立ち上げ｜タクシーエレベーターCM,PIVOT出演｜1年で3,200件お問い合わせ｜新規事業や事業グロース20以上経験｜東京都庁AI研修講師｜Algomatic創業参画←リブコンサル←東大｜趣味🏀⚽️🃏🀄️🏕️",
+    "protected": false,
+    "verified": true,
+    "followers_count": 2600,
+    "friends_count": 49,
+    "listed_count": 17,
+    "favourites_count": 7037,
+    "statuses_count": 1505,
+    "created_at": "2019-11-01T07:20:30.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1190166675556978688/1737013545",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1670801902076940290/vKqo59Ga_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 28,
+  "reply_count": 1,
+  "retweet_count": 70,
+  "favorite_count": 1157,
+  "views_count": 429401,
+  "bookmark_count": 2929,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039841838493048832",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/CUPNSbEPkL"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T03:18:54.000000Z",
+    "id": 2039905455280165000,
+    "id_str": "2039905455280165184",
+    "title": "Claude Codeにスライドを作らせるな。20回失敗して行き着いた成功手順を全部書く",
+    "preview_text": "Claude Codeが作るスライド、きれいなのに使えません。\n20回作らせて、ようやく原因がわかりました。\n問題はAIの性能ではなかったです。自分の「渡し方」でした。",
+    "cover_url": "https://pbs.twimg.com/media/HE8r8B1a0AA59qE.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7emed",
+          "text": "Claude Codeが作るスライド、きれいなのに使えません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evjrm",
+          "text": "20回作らせて、ようやく原因がわかりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8bop",
+          "text": "問題はAIの性能ではなかったです。自分の「渡し方」でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "46d89",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rddr",
+          "text": "テンプレを渡したのに、使えないスライドが出てきた",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7i6s2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eod6u",
+          "text": "「AIでスライド作れる！」と話題になっています。自分も試しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ekpm0",
+          "text": "テンプレは用意しました。社内の営業スライドテンプレをコピーして、見た目は整えました。それをClaude Codeに渡して「ある企業との商談用にスライドを作成して」と指示しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "52h23",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "30j8",
+          "text": "テンプレを渡したのに、ストーリーが通りません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2fpd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "894jt",
+          "text": "見た目は整っています。でも各ページを順に読んでも、何が言いたいかわからない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 1,
+              "style": "Bold"
+            }
+          ],
+          "key": "5sjc2",
+          "text": "\n「で、何が言いたいの？」・・・。\n前職のコンサル時代に何度も聞いた言葉を、AIのアウトプットに対して自分が言うことになるとは思いませんでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arhnn",
+          "text": "■AIのアウトプット例",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2akco",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2oarv",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7jrnt",
+          "text": "プロンプトを詳しくしたら、余計にカオスになりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8kdij",
+          "text": "「課題→提案→効果の順で」「1ページ1メッセージで」と詳細に指示しました。AIは律儀に全部入れようとして、1枚に情報を詰め込みすぎました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtlhk",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "913cg",
+          "text": "結局修正に2時間。これなら自分で作ったほうが早いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a26b",
+          "text": "バージョン（version）をv3、v10、v12と改善を重ねましたが、根本的に変わりませんでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33gri",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhncl",
+          "text": "足りなかったのは「見た目」じゃなく「中身の設計」でした",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73poi",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rm5r",
+          "text": "v12あたりで、ふと気づきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "fja44",
+          "text": "営業スライドには「見た目テンプレ」と「設計テンプレ」の2つがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "18idp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1hhhk",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2ckmc",
+          "text": "見た目テンプレ：色、フォント、配置、ロゴの位置。見栄えを揃えるものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "11skh",
+          "text": "設計テンプレ：各ページで何を主張するか。どんな順番で読ませるか。読んだ人に何を判断してもらうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aaskm",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fj3ff",
+          "text": "自分は「見た目テンプレ」だけ渡して、「設計テンプレ」をAIに丸投げしていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 29,
+              "style": "Bold"
+            },
+            {
+              "length": 6,
+              "offset": 44,
+              "style": "Bold"
+            }
+          ],
+          "key": "d6skk",
+          "text": "自分も含め多くの人が「テンプレを渡した」と思っているのは、見た目テンプレだけのようです。設計テンプレが抜けている。だからAIがきれいだけど使えないスライドを出します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "778f1",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2pg9e",
+          "text": "これは、自分がコンサル1年目のときも同じでした。上司にテンプレだけ渡されて「提案書作って」と言われても、何を書けばいいかわからなかった。「各ページで何を言いたいか」を教えてもらって初めて動けました。AIも同じでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "niib",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ck46f",
+          "text": "やったこと：「設計テンプレ」を自分で書いてからAIに渡した",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "el9o4",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8c0tg",
+          "text": "Claude Codeへの渡し方を根本から変えました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1b701",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 4,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "e0pk",
+          "text": "変更前： 「ある企業との商談用にスライドを\"作って\"」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 4,
+              "offset": 36,
+              "style": "Bold"
+            }
+          ],
+          "key": "81na8",
+          "text": "変更後： 各ページの主張を自分で全部書いてから、「この構成で、データを\"埋めて\"」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1knr4",
+          "text": "「作って」と「埋めて」。この1語の違いでAIの出力が激変しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5f1sp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e0mom",
+          "text": "具体的にやったのは3ステップです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5mk7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6nm0s",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "u5l0",
+          "text": "ステップ1：ゴールを1行で書く",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cdsao",
+          "text": "「この資料で、誰に、何を判断してもらいたいか」を書きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2gvka",
+          "text": "> ある企業の意思決定者に、Phase1の実施を合意してもらう",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9oqsa",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "epso0",
+          "text": "ステップ2：各ページの主張だけ先に並べる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42j75",
+          "text": "中身はまだ書きません。主張（=タイトル）だけ並べて、上から順に読んでストーリーが通るか確認します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4i51h",
+          "text": "> P1：御社の課題は〇〇である",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ks1b",
+          "text": "> P2：その課題の原因は△△にある",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2196v",
+          "text": "> P3：解決策として□□を提案する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1s3aa",
+          "text": "> P4：Phase1のスコープと体制",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "961uh",
+          "text": "> P5：スケジュールとお見積り",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50gte",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "52nft",
+          "text": "通らなければ順番や中身を入れ替えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cgptf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3u5if",
+          "text": "ステップ3：各ページに「だから何？」を書き足す",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fkpj",
+          "text": "データを載せるだけじゃなく、「だからどうすべきか」の結論を1行足します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bfl6p",
+          "text": "> NG：市場規模は3000億円",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "7j6qq",
+          "text": "> OK：市場規模3000億円。今参入しないと2年後には競合に取られる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26up9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5glp5",
+          "text": "この「だから何？」はAIには書けません。ここが人間の仕事です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88kor",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9s1p6",
+          "text": "実際にClaude Codeに渡した指示文",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tqk",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31fr0",
+          "text": "ステップ1〜3を書いた上で、Claude Codeにはこう渡しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bnbt3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9hva",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "51t2k",
+          "text": "ポイントは「タイトルとメッセージの方向性は変えないで」の一言です。これがないとAIが勝手に構成を変えてしまいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8i2np",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eilv3",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "11u30",
+          "text": "個別提案資料の作成、10時間→30分になった",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "gq5m",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "kd5p",
+          "text": "出てきたスライドは、手修正5分で商談に持っていけるレベルでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2bokj",
+          "text": "個別提案資料の作成にかかる時間：10時間→30分に短縮。 9割の時間が消えました。（スライド見た目テンプレ設計に1日かかりましたが、それは初回だけです。2回目以降はかなりテンプレのを使い回せます。）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 26,
+              "style": "Bold"
+            }
+          ],
+          "key": "8g6p6",
+          "text": "v3→v20。変わったのはAIの性能じゃありません。渡し方でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3cvmg",
+          "text": "実際に大手金融系企業との商談で使いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1lt95",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 37,
+              "style": "Bold"
+            }
+          ],
+          "key": "deqni",
+          "text": "「スライド自動作成」だと思っていましたが、やっていることは全然違いました。「何を言いたいか」は自分で決めて、「埋める作業」だけをAIにやらせる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ivam",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "63mh9",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fvs3",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95jjm",
+          "text": "AIは「頭の中のノウハウを言葉にすること」を強制してくれた",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "64els",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jcd9",
+          "text": "正直に言うと、この「設計テンプレ」を作るのに1日かかりました。AIで短縮した時間より長いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ln2h",
+          "text": "でもこの「型」は、一度作れば組織の武器になります。自分以外のメンバーも、同じ品質のスライドを作れるようになります。実際にCS定例用のフォーマットにも横展開しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6kaba",
+          "text": "振り返ると、SFA自動記入AIのときも、323商談分析AIのときも、上手くいっていたときは「何をどう処理するか」の型を先に決めていました。スライドで初めて「見た目テンプレ」だけ渡して、初めて失敗しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 52,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f49at",
+          "text": "AIに「作って」と丸投げすると品質が低い。自分のノウハウを型にして渡すと、AIは最高の増幅器になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkovk",
+          "text": "6年コンサルをやってきて「知っているつもり」でした。でもAIに渡そうとして、自分の理解がまだ浅かったと初めて気づきました。AIがなければ一生気づかなかったと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3k3dk",
+          "text": "採用面接の評価シートも、マーケの記事構成も、おそらく同じ原理が当てはまります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4s8j",
+          "text": "自分が行き着いた結論はシンプルでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0mg0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ddj3n",
+          "text": "作らせるな、埋めさせろ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1j3kr",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51s4d",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d6k32",
+          "text": "まとめ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5pvm",
+          "text": "AIにスライドを「作って」と頼むと、きれいだけど使えないものが出ます",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rjk3",
+          "text": "テンプレには「見た目テンプレ」と「設計テンプレ」の2種類があります。ほとんどの人は見た目だけ渡しています",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8kc1l",
+          "text": "「各ページで何を言うか」「だから何？」を自分で書いてからAIに渡すと、手修正5分で商談に出せるスライドが出ます",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8it92",
+          "text": "AIの真価は作業の時短だけじゃなく、自分のノウハウを言葉にすることを強制してくれることです",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mcli",
+          "text": "ちなみに、AIはあまりに頭が良く、設計すらもAIがやってくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ds1ss",
+          "text": "それでも人間がメッセージを考えることで実際に顧客に話す時に自信も持てます。顧客のことを考える時間まで、AIに預けてしまわない方が良いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "14avd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "iei9",
+          "text": "前回記事「先輩の営業ナレッジ、Claude Codeで全部言語化した手順」はこちら：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "52cng",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bmogl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "en7rh",
+          "text": "前々回記事「商談メモのSFA自動記入、AIで月25時間→0分にした仕組みと実際の出力を全部見せます」はこちら：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1iml6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cp6hi",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 16,
+                "text": "ikeda_haruki_",
+                "toIndex": 30
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5bkl",
+          "text": "営業×AIの実践知を発信中 → @ikeda_haruki_",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33kcb",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "ae348485-c1fe-41fb-9f20-8098f63812dd",
+              "tweetId": "2039474419048108429"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "811196ce-8f06-4445-bdb4-1871e35d2cb1",
+              "markdown": "```markdown\n■ ゴール\nある企業の意思決定者に、Phase1の実施を合意してもらう\n\n■ Step1：設計テンプレの壁打ち\n以下が各ページの主張です。ストーリーとして通るか、\n抜け漏れや順番の違和感がないかフィードバックしてください。\n\nP1：御社の課題は〇〇である → 今期中に着手しないと△△のリスクがある\nP2：原因は△△にある → 現状の運用では□□が解消できない\nP3：解決策として□□を提案する → Phase1で■■を実現し、効果を検証する\nP4：Phase1のスコープと体制\nP5：スケジュールとお見積り\n\n■ Step2：ボディ要素の設計\nフィードバックを反映した構成をもとに、各ページに入れるべき\n要素（データ、グラフ、比較表など）を提案してください。\n参照データは以下です。\n・商談議事録：[Notionリンク]\n・顧客情報：[HubSpotリンク]\n\n■ Step3：テンプレートに挿入\nStep1-2で合意した構成・要素をもとに、\n添付テンプレートのプレースホルダにデータを挿入してください。\n・[添付ファイル]\n\n※ タイトルと「だから何」は変えないでください。\n※ 各Stepごとに確認を取ってから次に進んでください。\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "d9552b14-ce37-42f7-b2b3-513396a0e451",
+              "tweetId": "2038390448012788162"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "51afb724-4646-4a41-a8c4-411ad653a5ec",
+              "mediaItems": [
+                {
+                  "localMediaId": "19",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039901796219686912"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "caption": "中身はサンプルです",
+              "entityKey": "f0221a1e-a47b-46e9-a7be-e539912a527a",
+              "mediaItems": [
+                {
+                  "localMediaId": "13",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039885105377038336"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "5b65cc3b-da54-42ff-8706-3e917bb0e71e",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039877993687068672"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "中身はサンプルです",
+              "entityKey": "7f1065c0-5876-4747-a5a7-fc02bc682c48",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039875114838462464"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "53dd4576-84a1-423d-8005-2a43d0d0e405",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039878323216789504"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "16239759-b386-4cf8-bd8a-13f5d8d0d28f",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039885023181205504"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "ea802bfe-0ea1-4370-9bb0-2ff192124cac",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039878422479228928"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE8v4DRbEAAKAAIQhFJJIBTQAAAA",
+        "media_id": "2039901796219686912",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.48,
+                "rgb": {
+                  "blue": 255,
+                  "green": 250,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 0.75,
+                "rgb": {
+                  "blue": 167,
+                  "green": 154,
+                  "red": 142
+                }
+              },
+              {
+                "percentage": 0.31,
+                "rgb": {
+                  "blue": 172,
+                  "green": 211,
+                  "red": 237
+                }
+              },
+              {
+                "percentage": 0.29,
+                "rgb": {
+                  "blue": 105,
+                  "green": 128,
+                  "red": 210
+                }
+              }
+            ]
+          },
+          "original_img_height": 1114,
+          "original_img_url": "https://pbs.twimg.com/media/HE8v4DRbEAA3jmm.jpg",
+          "original_img_width": 2120
+        },
+        "media_key": "3_2039901796219686912"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE8gnu1a8AAKAAIQhFJJIBTQAAAA",
+        "media_id": "2039885023181205504",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.33,
+                "rgb": {
+                  "blue": 255,
+                  "green": 250,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 0.98,
+                "rgb": {
+                  "blue": 166,
+                  "green": 155,
+                  "red": 132
+                }
+              },
+              {
+                "percentage": 0.63,
+                "rgb": {
+                  "blue": 171,
+                  "green": 210,
+                  "red": 247
+                }
+              }
+            ]
+          },
+          "original_img_height": 630,
+          "original_img_url": "https://pbs.twimg.com/media/HE8gnu1a8AAWsc7.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2039885023181205504"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE8aOj7asAAKAAIQhFJJIBTQAAAA",
+        "media_id": "2039877993687068672",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 97.36,
+                "rgb": {
+                  "blue": 255,
+                  "green": 250,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 1.5,
+                "rgb": {
+                  "blue": 220,
+                  "green": 201,
+                  "red": 182
+                }
+              },
+              {
+                "percentage": 0.89,
+                "rgb": {
+                  "blue": 167,
+                  "green": 212,
+                  "red": 243
+                }
+              },
+              {
+                "percentage": 0.2,
+                "rgb": {
+                  "blue": 131,
+                  "green": 114,
+                  "red": 92
+                }
+              }
+            ]
+          },
+          "original_img_height": 630,
+          "original_img_url": "https://pbs.twimg.com/media/HE8aOj7asAACV-L.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2039877993687068672"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE8ahvhbMAAKAAIQhFJJIBTQAAAA",
+        "media_id": "2039878323216789504",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.19,
+                "rgb": {
+                  "blue": 255,
+                  "green": 250,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 1.22,
+                "rgb": {
+                  "blue": 171,
+                  "green": 159,
+                  "red": 143
+                }
+              },
+              {
+                "percentage": 0.45,
+                "rgb": {
+                  "blue": 152,
+                  "green": 204,
+                  "red": 241
+                }
+              }
+            ]
+          },
+          "original_img_height": 630,
+          "original_img_url": "https://pbs.twimg.com/media/HE8ahvhbMAAIDfD.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2039878323216789504"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE8Xm/YbEAAKAAIQhFJJIBTQAAAA",
+        "media_id": "2039875114838462464",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 79.99,
+                "rgb": {
+                  "blue": 254,
+                  "green": 250,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 19.25,
+                "rgb": {
+                  "blue": 81,
+                  "green": 58,
+                  "red": 14
+                }
+              }
+            ]
+          },
+          "original_img_height": 540,
+          "original_img_url": "https://pbs.twimg.com/media/HE8Xm_YbEAA_o_K.jpg",
+          "original_img_width": 960
+        },
+        "media_key": "3_2039875114838462464"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE8anhTb0AAKAAIQhFJJIBTQAAAA",
+        "media_id": "2039878422479228928",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.17,
+                "rgb": {
+                  "blue": 254,
+                  "green": 250,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 1.25,
+                "rgb": {
+                  "blue": 165,
+                  "green": 151,
+                  "red": 135
+                }
+              },
+              {
+                "percentage": 0.29,
+                "rgb": {
+                  "blue": 90,
+                  "green": 70,
+                  "red": 43
+                }
+              },
+              {
+                "percentage": 0.17,
+                "rgb": {
+                  "blue": 156,
+                  "green": 204,
+                  "red": 246
+                }
+              },
+              {
+                "percentage": 0.12,
+                "rgb": {
+                  "blue": 138,
+                  "green": 141,
+                  "red": 143
+                }
+              }
+            ]
+          },
+          "original_img_height": 630,
+          "original_img_url": "https://pbs.twimg.com/media/HE8anhTb0AAsvA-.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2039878422479228928"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE8gshCb0AAKAAIQhFJJIBTQAAAA",
+        "media_id": "2039885105377038336",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 89.86,
+                "rgb": {
+                  "blue": 255,
+                  "green": 250,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 8.45,
+                "rgb": {
+                  "blue": 100,
+                  "green": 79,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 1.27,
+                "rgb": {
+                  "blue": 197,
+                  "green": 223,
+                  "red": 246
+                }
+              }
+            ]
+          },
+          "original_img_height": 630,
+          "original_img_url": "https://pbs.twimg.com/media/HE8gshCb0AAAAgF.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2039885105377038336"
+      }
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "tweet_created_at": "2026-04-02T10:27:37.000000Z",
+  "id": 2039650956753936400,
+  "id_str": "2039650956753936502",
+  "type": "tweet",
+  "conversation_id_str": "2039650956753936502",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/54S2kKNM1M",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 70834319,
+    "id_str": "70834319",
+    "name": "ystk",
+    "screen_name": "lawkus",
+    "location": "千葉県",
+    "url": null,
+    "description": "弁護士。仕事の話はほぼしません。DM開放してますがDMでの法律相談はお受けできません。\n日々の行動を投稿する場合、日時や場所は故意に改変していることがあります。\n質問箱→ https://t.co/nagqwbvng7",
+    "protected": false,
+    "verified": true,
+    "followers_count": 40261,
+    "friends_count": 1663,
+    "listed_count": 1113,
+    "favourites_count": 14267,
+    "statuses_count": 203753,
+    "created_at": "2009-09-02T00:36:13.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/415977429329403905/9VuwO5ty_normal.png",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 128,
+  "reply_count": 27,
+  "retweet_count": 462,
+  "favorite_count": 1294,
+  "views_count": 1165541,
+  "bookmark_count": 292,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039612898771869696",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/54S2kKNM1M"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T10:27:37.000000Z",
+    "id": 2039650956753936400,
+    "id_str": "2039650956753936502",
+    "title": "【弁護士による解説】話題のカップ麺給湯が犯罪にあたらない理由",
+    "preview_text": "1. はじめに\nタイからの旅行者が、日本のセブン-イレブンで、カップ麺を精算前に開封し、お湯を入れてからレジに持って行って店員から注意を受けた動画が拡散され、物議を醸した。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8k5qk",
+          "text": "1. はじめに",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dabq",
+          "text": "タイからの旅行者が、日本のセブン-イレブンで、カップ麺を精算前に開封し、お湯を入れてからレジに持って行って店員から注意を受けた動画が拡散され、物議を醸した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 40,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "egoum",
+          "text": "話題の旅行者本人は、日本では先に精算する必要があることを認識し、翌日からは改めたそうだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2kqav",
+          "text": "この手のマナーは国ごとに異なるから、行った先のマナーに合わせておくのが賢明だろう。ただ、外国のマナーを事前に知り尽くすことなど不可能だから、海外旅行中に意図せずマナー違反をしてしまうことは誰しもありがちだろう。旅先で現地の人から寛容に接してもらった経験を持つ日本人も多いと思う。なるべく寛容でありたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cnh9v",
+          "text": "2. 窃盗罪について",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 69,
+              "offset": 55
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "lgpu",
+          "text": "さて、本件について、｢マナーの問題ではない！窃盗罪だ！｣といった非難をする人も多く見られた。数年前に起こった、迷惑系YouTuberのへずまりゅうが精算前の魚の切り身を1パック全部食べてしまうという行為を配信して窃盗罪に問われ、有罪判決を受けた事件を引き合いに出す人も散見された。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9pcs2",
+          "text": "しかし、今回のカップ麺の事例では、へずまりゅうの事例とは異なり、窃盗罪は成立しない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31fap",
+          "text": "その理由を一言で示すと、｢カップ麺の占有が移転していないから｣である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8udm9",
+          "text": "窃盗罪の条文は下記のとおり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cfr8s",
+          "text": "（窃盗）",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9987n",
+          "text": "第二百三十五条　他人の財物を窃取した者は、窃盗の罪とし、十年以下の拘禁刑又は五十万円以下の罰金に処する。",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cdmno",
+          "text": "窃盗罪とは、｢他人の財物｣を｢窃取｣することによって成立する罪だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1f8fr",
+          "text": "まず、カップ麺が｢財物｣にあたることには疑問がない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "ehjp0",
+          "text": "問題は｢窃取｣だ。窃盗罪にいう｢窃取｣とは、他人が占有する財物を、占有者の意思に反して自己又は第三者の占有に移転させる行為をいう（山口厚『刑法各論』第3版）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "5091k",
+          "text": "刑法にいう財物の｢占有｣とは、財物に対する事実上の支配をいう。現実に手に持っていたり身に着けていたりする必要まであるわけではなく、例えばコンビニの棚に陳列された商品には、店舗管理者の占有が及んでいるとされる。カップ麺事案のカップ麺の占有も、セブン-イレブンの店舗管理者（例えば店長）が占有していたことになる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 4,
+              "style": "Bold"
+            },
+            {
+              "length": 15,
+              "offset": 47,
+              "style": "Bold"
+            }
+          ],
+          "key": "9fvrl",
+          "text": "しかし、問題は、タイ人旅行者がカップ麺を開封することによって、カップ麺の占有を移転させたかだ。結論としては、移転させていない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dpho2",
+          "text": "判例上、商品が未だ店内にあっても占有移転を認めた事例は多々ある。例えば、スーパーマーケットで、買い物かごに商品を入れた被告人がレジを通らずにレジの外側に出た場合に占有を認めた裁判例がある。この裁判例では、レジの外側に出ることによって精算済みの客と見分けが付かなくなり、最終的に商品を取得する蓋然性が飛躍的に増大することが理由とされた。また、犯人がまだレジの中、売り場にいても、商品を手持ちのバッグ等の中に隠した場合には、その時点で占有移転ありとされる。これらの判断は、法律家でなくても常識的に頷けるところだろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5u7f",
+          "text": "この線で行くと、へずまりゅうは商品を全て食べてしまった、つまり自分の体内に移動させてしまったのだからバッグどころの騒ぎではない。どう考えても占有を移転させている。だからへずま事件については、占有移転は争点にもならなかったようだ。弁護人は、｢不法領得の意思｣という別の要件を満たしていないとして無罪を主張したが、裁判所には受け入れられず、結局有罪になった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4curd",
+          "text": "この点、カップ麺事例の現場はコンビニである。スーパーと違ってレジの内外は明確に区分されておらず、全体が売り場だ。その売り場の中で、旅行者は、おそらく堂々と商品を手に持って歩き、カウンターに置いてあるポットを堂々と使ってお湯を入れたのであろう。悪いことをするつもりは微塵もないのだから当然である。そうすると、占有移転を認めるべき事情がどこにもない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12guq",
+          "text": "①店に入る→②カップ麺を手に取る→③お湯を入れる→④レジで精算する→⑤店を出る、という旅行者の計画に沿って考えてみると、カップ麺の占有は、④の精算を終えた時点で初めて旅行者に移転することになる。ところが、その時点の占有移転には、店の同意があることが明らかだ（精算済みなので）。つまり、そもそも旅行者は、同意を得て占有を取得するつもりしかなかったのであり、カップ麺を｢窃取｣しようとしていない。刑法の専門用語で言うと、｢窃取｣という実行行為に着手していないし、窃盗の故意もなかったということになる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 67,
+              "style": "Bold"
+            }
+          ],
+          "key": "bgs40",
+          "text": "一般論として、被害者の意思に反した占有移転という結果が発生しなくても、故意をもって実行行為に着手すれば窃盗未遂罪が成立し得る。しかし、本件では窃盗未遂罪になる余地もないということだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 6,
+              "style": "Bold"
+            }
+          ],
+          "key": "aaor5",
+          "text": "このように、本件で窃盗罪は成立しない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8haj7",
+          "text": "3. 器物損壊罪について",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6235k",
+          "text": "窃盗罪とは別に、器物損壊罪も一応検討しておきたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96qmi",
+          "text": "判例･通説上、器物損壊罪の｢損壊｣とは、物の本来の効用を失わせる行為を指すとされている（山口厚『刑法各論』第3版）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "638hj",
+          "text": "この点、仮に旅行者が、｢いたずらで、カップ麺の蓋を開けてその場を立ち去った｣という事例であれば、器物損壊罪が成立することは明らかだ。カップ麺は蓋を開けてしまえば売り物にならなくなる、すなわち本来の効用を失うことは明らかであり、これは｢損壊｣にあたるからだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 62,
+              "style": "Bold"
+            }
+          ],
+          "key": "7l8ju",
+          "text": "しかし、本件では、旅行者はまさに買うつもりで蓋を開けている。これによってカップ麺が効用を失うとはいえないだろう。したがって、器物損壊罪も成立しないと考えられる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqaam",
+          "text": "4.  最後に",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3dpg7",
+          "text": "以上、話題の旅行者の行為が犯罪にあたるか否かについて検討し、犯罪にはあたらないと結論付けた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d7f57",
+          "text": "しかし、形式的に犯罪にあたるかということは、実はあまり本質的な問題ではないと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aim48",
+          "text": "例えば、アメリカでは、スーパー等で、スナック菓子等の商品を精算前に開けて食べ始め、食べかけの袋をレジに持って行って精算する行為が普通に行われているそうだ。これは有名な話なので、知っている人も多いと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qgkt",
+          "text": "これはタイ人旅行者の精算前給湯と異なり、窃盗罪にあたる可能性がある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5o81",
+          "text": "しかし、仮にアメリカ人の旅行者が、日本のお店で、やってはダメだと知らずにお菓子を少し食べてからレジに持ってきたとして、店員は警察に通報すべきだろうか。警察は旅行者を逮捕すべきだろうか。｢日本では精算前に食べてはダメだから今後しないように｣と注意して済ませるのが、人情のあるまともな大人の対応ではないか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8u3i",
+          "text": "今後の日本も、そのような対応のできる、余裕のある社会であってほしいと思う。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://www.thaich.net/news/20260331ve.htm"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://digital.asahi.com/articles/ASP8W4HSVP8WOBJB003.html"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

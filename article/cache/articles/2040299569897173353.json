@@ -1,0 +1,199 @@
+{
+  "tweet_created_at": "2026-04-04T05:24:59.000000Z",
+  "id": 2040299569897173200,
+  "id_str": "2040299569897173353",
+  "type": "tweet",
+  "conversation_id_str": "2040299569897173353",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/zPjuGmHGqV",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1748200587693625300,
+    "id_str": "1748200587693625344",
+    "name": "タルレミ・エラ",
+    "screen_name": "Tallemi_Ella",
+    "location": "",
+    "url": "https://www.youtube.com/@Tallemi_Ella",
+    "description": "永恒的超级猫猫 @_ellavt_ ✉ tallemiella@gmail.com(マネージャー対応) link→https://t.co/1Jv6pCDG0N お仕立て魔法♡@koyubita",
+    "protected": false,
+    "verified": true,
+    "followers_count": 70369,
+    "friends_count": 467,
+    "listed_count": 150,
+    "favourites_count": 16438,
+    "statuses_count": 4724,
+    "created_at": "2024-01-19T04:41:30.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748200587693625344/1749539957",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1984255395918143488/IpD5PWWF_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 54,
+  "reply_count": 67,
+  "retweet_count": 845,
+  "favorite_count": 6976,
+  "views_count": 2085392,
+  "bookmark_count": 902,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040229997491953664",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/zPjuGmHGqV"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T05:24:59.000000Z",
+    "id": 2040299569897173200,
+    "id_str": "2040299569897173353",
+    "title": "拝啓 株式会社kiiiへ",
+    "preview_text": "こんにちは。あなた方が野にほっぽり出したタレントは今や登録者数15万人になりました。あなた方が社内で黒歴史として腫物のように扱っているviiins事業は、私にとって、私を応援する人全員に忘れてほしくない歴史で",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgpb7",
+          "text": "こんにちは。あなた方が野にほっぽり出したタレントは今や登録者数15万人になりました。あなた方が社内で黒歴史として腫物のように扱っているviiins事業は、私にとって、私を応援する人全員に忘れてほしくない歴史であり思い出になりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3ae",
+          "text": "私はあなた方の目に入るたび少しだけでも頭が痛くなる存在に、なれていますでしょうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7gnni",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fquip",
+          "text": "2023年の7月、あの通話で御社のviiins事業外部顧問様にこれからよろしくお願いしますと言ったことは後悔していません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ef4i",
+          "text": "もう消えてしまったviiinsの公式Xを眺めに行くことがあります。アカウントは存在しませんが、確かに2年前の1月末、まだ解散になるとは知らず目を輝かせた私のデビュー告知ツイートがあったのを覚えています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ikda",
+          "text": "私が2か月でこの数字までもっていけていたら、viiinsはまだあったのでしょうか。あの後も事務所には入りましたが、学べることも喜びもあれど、どうしようもなく手間もお金もかかり、焦りの連続だったあの日々を超える何かは得られませんでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fcqca",
+          "text": "私が何とかここを大きくして、雇ってよかったと思ってもらえるように、あの日この子を選んでよかったと思ってもらえるように、将来をどうしていいかわからなった高卒に道をくれたあなた方に数字と夢で最大限の恩返しをしたくて活動を始めました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1gcgr",
+          "text": "解散がどうしようもないことはわかっていました。ビジネスですから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffd2f",
+          "text": "だからこそ、あなたたちが社内でviiinsを黒歴史として扱っていることにどうにも腹が立って仕方なかったのです。私の恩返しを受け取らず、全てあげるから許してと話を終わらせて、蓋をして戸棚の奥にしまい込むことが、本当に無責任に思えて、本当に憎くて仕方がありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7pdg2",
+          "text": "だからこれからも一生、何年も何十年もその先も、私はあなた達にとっての一生の悪夢であり一生の後悔であり一生の自慢の娘であり続けます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45mas",
+          "text": "今、欲しかった数字もお金も居場所も手に入れた私にとって残る目標は、あなた達にviiinsが確かにそこにあって、あれは失敗であれど後悔ではなかったと認めさせることです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6qb35",
+          "text": "私がいつかこの活動を辞めるとき、きっとあなた達に挨拶しに行くと思います。その時のお茶菓子はマカロンで、クッションはviiinsのクッションを用意しておいてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7rtjd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ootj",
+          "text": "貴方の愛娘　タルレミ・エラより愛をこめて",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

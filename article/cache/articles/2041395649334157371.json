@@ -1,0 +1,649 @@
+{
+  "tweet_created_at": "2026-04-07T06:00:24.000000Z",
+  "id": 2041395649334157300,
+  "id_str": "2041395649334157371",
+  "type": "tweet",
+  "conversation_id_str": "2041395649334157371",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/RfEEeofr0u",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1645718130549989400,
+    "id_str": "1645718130549989379",
+    "name": "レイラ66",
+    "screen_name": "layla_biz",
+    "location": "",
+    "url": null,
+    "description": "人生60年の経験から見える、日常のツッコミと人間関係の本音を発信｜若い世代には｢そういう見方あるんだ｣、同世代には｢それな｣を届けたい",
+    "protected": false,
+    "verified": true,
+    "followers_count": 10161,
+    "friends_count": 314,
+    "listed_count": 70,
+    "favourites_count": 63612,
+    "statuses_count": 54269,
+    "created_at": "2023-04-11T09:19:22.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1645718130549989379/1774410627",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1689069849929293825/jU0fz6GB_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 100,
+  "reply_count": 5,
+  "retweet_count": 259,
+  "favorite_count": 2017,
+  "views_count": 5114233,
+  "bookmark_count": 1484,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041258807092027392",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/RfEEeofr0u"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T06:00:24.000000Z",
+    "id": 2041395649334157300,
+    "id_str": "2041395649334157371",
+    "title": "北川景子さん＆DAIGOさんの話、もう「仲良し夫婦ですね」で終わる話じゃない",
+    "preview_text": "北川景子さんとDAIGOさんの家事育児の話を見て、\n「ああ、もう時代が変わったんだな」と思った。\nこれは芸能人夫婦の微笑ましい話ではなく、今の家庭の現実がそのまま出ている話だ。",
+    "cover_url": "https://pbs.twimg.com/media/HFRfo0EbYAAStk2.png",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "52hva",
+          "text": "北川景子さんとDAIGOさんの家事育児の話を見て、\n「ああ、もう時代が変わったんだな」と思った。\nこれは芸能人夫婦の微笑ましい話ではなく、今の家庭の現実がそのまま出ている話だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8k3i2",
+          "text": "北川さんは、夫婦で仕事の予定を調整しながら、そのときできるほうが家のことをやる、と話していた。\n結婚当初は「家事は自分で全部やりたい」「手出さないでほしい」という気持ちもあったけれど、出産後に帯状疱疹が出て、考えを改めたという。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4em9k",
+          "text": "これ、ただの「素敵な夫婦エピソード」じゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "emapc",
+          "text": "むしろ刺さるのはそこじゃない。\n全部ちゃんとやりたい人ほど、どこかで限界が来るという、あまりにも現実的な話だからだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "870g2",
+          "text": "仕事もしたい。\n子どものことも妥協したくない。\n家のことも回したい。\nでも、それ全部を一人でやろうとしたら、そりゃ身体が止まる。\n気合いの問題じゃない。構造的に無理なのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ks8k",
+          "text": "「ちゃんとやりたい」がいちばん危ない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5ct5",
+          "text": "家事育児の話になると、つい\n「夫が手伝ってくれてえらい」\n「奥さんも仕事と両立してすごい」\nみたいな、拍手で終わらせがちだけど、そこじゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 10,
+              "style": "Bold"
+            }
+          ],
+          "key": "21d6r",
+          "text": "危ないのはむしろ、\nちゃんとやりたい人ほど、全部抱え込みやすいこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tjeg",
+          "text": "ちゃんとしたい。\n迷惑をかけたくない。\n自分で回したい。\n中途半端にしたくない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b37bb",
+          "text": "このへん、全部一見美徳っぽい。\nでも実際には、その“ちゃんと”が、その人をいちばん追い込む。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 82,
+              "style": "Bold"
+            }
+          ],
+          "key": "2cig3",
+          "text": "北川さんの「子どものことは妥協したくない、仕事も諦めたくないってなったら無理だった」という話は、まさにそこを突いている気がする。\n理想が高いからダメなんじゃない。\n理想を一人で成立させようとすると詰む。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8b1u7",
+          "text": "今はもう「手伝う」じゃなく「共同運営」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "946ou",
+          "text": "しかも、これって芸能人夫婦だけの話じゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fn36v",
+          "text": "うちの息子夫婦を見ていてもそうだ。\n今どきは、小さな授業参観でさえ仕事を休んで両親そろって見に行く。\n昔なら「お父さんも来てくれたんだ、熱心ね」で終わっていたような場面が、今はわりと普通になってきた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7149n",
+          "text": "ここ、地味だけど大きい変化だと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 34,
+              "style": "Bold"
+            }
+          ],
+          "key": "5ku1c",
+          "text": "以前の父親って、家庭に“参加する人”だった。\nでも今は違う。\n家庭を一緒に回す人になりつつある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15io6",
+          "text": "この差はかなり大きい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7nqs4",
+          "text": "参加って、あくまで本体は別にあって、たまに入る感じがする。\nでも共同運営は違う。\n最初から当事者。\n最初から責任者の一人。\n授業参観に行くのも、保育園のお迎えに行くのも、妻を助けるための特別サービスじゃなく、生活を回すための通常業務になる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5e7p1",
+          "text": "つまり、父親が家庭に入ることは、もう“好感度アップ行動”ではない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5a997",
+          "text": "なのに、まだ古い見方は残っている",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjl4d",
+          "text": "ただ、この変化に時代の感覚が追いついていない場面もある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aecro",
+          "text": "父親が子どもの行事や家族の都合で仕事を調整すると、どこかでまだ\n「奥さんに合わせてるんですかね」\n「尻に敷かれてるんですかね」\nみたいな見方が顔を出すことがある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "99mkt",
+          "text": "いや、なんでそうなるの、である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 51,
+              "style": "Bold"
+            },
+            {
+              "length": 13,
+              "offset": 67,
+              "style": "Bold"
+            }
+          ],
+          "key": "3lg41",
+          "text": "家族の予定に合わせて動くことが、なぜ“主導権を失っている男”みたいな話になるのか。\nそこにはたぶん、\n家庭のことは本来女性が回すもの\n男は仕事を優先するのが自然\nという、かなり古い前提がまだ残っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58mlv",
+          "text": "でも今の現実は、そこからどんどんズレている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 72,
+              "style": "Bold"
+            }
+          ],
+          "key": "61o8f",
+          "text": "共働きが増え、子どもの予定は細かく、家事も育児も“誰か一人の善意”だけでは回らない。\nそうなると必要なのは、男らしさでも女らしさでもなく、単純に段取り力と当事者意識。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8p08t",
+          "text": "ロマンでも理想論でもない。\n生活だからである。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9cr60",
+          "text": "理想の夫婦は「完璧」じゃなく「交渉できる夫婦」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "545j6",
+          "text": "昔の“理想の夫婦”って、たぶんもっと静かだった。\n夫が外で働いて、妻が家を守って、役割は固定。\n多少しんどくても、そこは飲み込む。\nそんな前提があった気がする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "chkut",
+          "text": "でも今は違う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 11,
+              "style": "Bold"
+            },
+            {
+              "length": 14,
+              "offset": 22,
+              "style": "Bold"
+            },
+            {
+              "length": 16,
+              "offset": 37,
+              "style": "Bold"
+            }
+          ],
+          "key": "da9u6",
+          "text": "今の理想って、たぶん\n役割を固定しないこと\n無理なときに無理と言えること\nその都度、分担を交渉し直せること\nこっちに寄っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cf8kq",
+          "text": "きっちり半分ずつできる夫婦がすごい、ではない。\nそんなの、子どもの年齢や仕事の忙しさや体調でいくらでも崩れる。\n現実はもっとデコボコだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 25,
+              "style": "Bold"
+            }
+          ],
+          "key": "i3pl",
+          "text": "だから本当に必要なのは、平等に見えることではなく、破綻しないこと。\n片方が気力で持ちこたえているだけの家庭は、見た目が整っていても長くはもたない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4q5lq",
+          "text": "北川景子さんとDAIGOさんの話が支持されるのは、完璧だからじゃない。\n完璧を目指して壊れるより、協力して持続させるほうが大事だと、多くの人がもう肌で知っているからだと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "622qv",
+          "text": "「いい夫婦」の定義が変わった",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6fvk6",
+          "text": "たぶん、もう“いい夫婦”の意味そのものが変わってきている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91lor",
+          "text": "仲がいいとか、ラブラブとか、もちろんそれも悪くない。\nでも今の生活者が見ているのはそこだけじゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "t2sj",
+          "text": "ちゃんと話し合えるか。\n相手の負荷に気づけるか。\n仕事も家族も、片方だけに寄せすぎずに調整できるか。\nどちらか一方の我慢を前提にしないか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tare",
+          "text": "こっちのほうが、よほど切実だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5k9ee",
+          "text": "家事も育児も、昔みたいに「気づいたほうがやる」では済まない。\n気づくだけじゃ足りないし、善意だけでも足りない。\n予定を見て、負荷を見て、役割を入れ替えて、生活を維持する。\nもはや家庭は、愛だけでなく運営でもある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5hi7t",
+          "text": "なんだか身も蓋もないけど、本当にそうだと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "avo2c",
+          "text": "二人三脚は、きれいごとじゃなく生存戦略",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80eit",
+          "text": "北川景子さんの“二人三脚”という言葉は、すごくきれいに聞こえる。\nでも中身は、もっと切実なはずだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "62vf4",
+          "text": "一人で全部背負ったら無理。\nだから二人でやる。\nただそれだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2k74u",
+          "text": "でも、この「ただそれだけ」が、昔は当たり前じゃなかった。\n父親が授業参観に来ることも、家事をすることも、育児の段取りを握ることも、どこか“協力的で素敵”と評価される対象だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cdg9b",
+          "text": "今は違う。\nそこにいるのがあたりまえ。\nやるのがあたりまえ。\n調整するのがあたりまえ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ei1q7",
+          "text": "もちろん現実には、まだまだ偏りはある。\nでも少なくとも、「母親が全部抱えて当然」という空気だけは、少しずつ壊れ始めている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjpni",
+          "text": "それはかなり大きなことだと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fulkg",
+          "text": "家事も育児も、誰かの献身で回す時代から、夫婦で現実的に回す時代へ。\n北川景子さんとDAIGOさんの話は、その変化をよく映している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 35,
+              "style": "Bold"
+            }
+          ],
+          "key": "39cpi",
+          "text": "そしてたぶん多くの人が本当に見ているのは、芸能人の仲の良さじゃない。\n自分たちの暮らしも、もうそういう時代に入っているということの確認なのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ein3b",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 56,
+                "text": "layla_biz",
+                "toIndex": 66
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 10,
+              "offset": 56
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6clts",
+          "text": "家事も育児も、もう“誰かが背負う話”ではなくなってきている。\nこういう話をこれからも書くので、フォローしてね。\n@layla_biz",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3p88u",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "je3q",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://x.com/@layla_biz"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "tweetId": "2041033261967941977"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

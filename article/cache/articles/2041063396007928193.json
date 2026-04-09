@@ -1,0 +1,1294 @@
+{
+  "tweet_created_at": "2026-04-06T08:00:09.000000Z",
+  "id": 2041063396007928300,
+  "id_str": "2041063396007928193",
+  "type": "tweet",
+  "conversation_id_str": "2041063396007928193",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/8q38dNYEyX",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 4174180574,
+    "id_str": "4174180574",
+    "name": "TVer",
+    "screen_name": "TVer_official",
+    "location": "いつでもどこでも完全無料でご視聴できます。",
+    "url": "http://tver.jp/",
+    "description": "国内最大級の無料動画配信サービス #TVer の公式アカウントです。\n\n全番組の配信新着情報▶️@TVer_info",
+    "protected": false,
+    "verified": true,
+    "followers_count": 258294,
+    "friends_count": 9,
+    "listed_count": 922,
+    "favourites_count": 5,
+    "statuses_count": 190263,
+    "created_at": "2015-11-09T01:40:34.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4174180574/1772017207",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2026613165371568129/iINSC9W2_normal.png",
+    "can_dm": false,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 10,
+  "reply_count": 1,
+  "retweet_count": 553,
+  "favorite_count": 2462,
+  "views_count": 58406,
+  "bookmark_count": 131,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041004521951006720",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/8q38dNYEyX"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T08:00:09.000000Z",
+    "id": 2041063396007928300,
+    "id_str": "2041063396007928193",
+    "title": "宮舘涼太＆松倉海斗がアップデートするなら？｢英語かなと思ったけど…｣『タミ恋』インタビュー ",
+    "preview_text": "#宮舘涼太（#SnowMan）が連続ドラマ初主演を務め、#松倉海斗（#TravisJapan）と共演するドラマ『#ターミネーターと恋しちゃったら』（テレビ朝日系、毎週土曜23:00～）が、4月4日（土）からスタート。",
+    "cover_url": "https://pbs.twimg.com/media/HFMgcrta4AAEh2S.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": {
+            "hashtags": [
+              {
+                "fromIndex": 0,
+                "text": "宮舘涼太",
+                "toIndex": 5
+              },
+              {
+                "fromIndex": 6,
+                "text": "SnowMan",
+                "toIndex": 14
+              },
+              {
+                "fromIndex": 28,
+                "text": "松倉海斗",
+                "toIndex": 33
+              },
+              {
+                "fromIndex": 34,
+                "text": "TravisJapan",
+                "toIndex": 46
+              },
+              {
+                "fromIndex": 56,
+                "text": "ターミネーターと恋しちゃったら",
+                "toIndex": 72
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4f36c",
+          "text": "#宮舘涼太（#SnowMan）が連続ドラマ初主演を務め、#松倉海斗（#TravisJapan）と共演するドラマ『#ターミネーターと恋しちゃったら』（テレビ朝日系、毎週土曜23:00～）が、4月4日（土）からスタート。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "hashtags": [
+              {
+                "fromIndex": 50,
+                "text": "臼田あさ美",
+                "toIndex": 56
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42qvk",
+          "text": "400年後の未来からやって来たイケメンアンドロイド・時沢エータ（宮舘）と少女漫画編集者・神尾くるみ（#臼田あさ美）が織りなす、前代未聞のSFラブコメディ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fivl4",
+          "text": "事務所の先輩・後輩であり、本作で初共演を果たす宮舘と松倉が、撮影秘話とお互いの印象を語った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4l7di",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 31,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bq5st",
+          "text": "【動画】『ターミネーターと恋しちゃったら』をTVerでチェック",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bh63p",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4eq12",
+          "text": "――ドラマでは初共演とのことですが、これまでにどんな交流がありましたか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv24n",
+          "text": "宮舘：ジュニア時代に同じ舞台にも立たせていただきましたし、ジュニアだけでのライブも一緒にやったりして。個人的には松倉が入ってきたときも知っているので、そこからですかね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "em7pj",
+          "text": "松倉：Snow Man兄さんとTravis Japanでの共演はありましたけど、宮舘くんとがっつり共演することはなかったので、すごく新鮮でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8t774",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "941g6",
+          "text": "――宮舘さんは、松倉さんが事務所に入ってきたときの印象を覚えていますか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9mom5",
+          "text": "宮舘：小柄で、ダンスが踊れる印象がすごくありました。えっ、目黒（蓮）と……？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3orjn",
+          "text": "松倉：めめ（目黒）と同期です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e10pq",
+          "text": "宮舘：だよね。ジュニアマンションで、自分の名前のタオルを持っていたときの記憶がすごくあって。ライブ中、カメラに向かって一人ずつ名前を言って、入れ替わっていく様子をよく覚えていますね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0gnb",
+          "text": "松倉：『SUMMARY』ですね！　宮舘くんは大先輩ですし、僕がジュニアの頃にはジュニアの教育係的な感じで。Snow Man兄さんの背中を見てまねして踊っていましたし、とにかくアクロバットがすごいなという印象がありました。いい意味で、Snow Man兄さんがいると気が引き締まる。だけど裏では優しい。そんな存在でしたね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7lr6",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e4ovg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3pf1o",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 58,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3mdph",
+          "text": "――Snow ManとTravis Japanは、事務所の中でも特にダンスがフィーチャーされているグループですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fupf",
+          "text": "宮舘：とにかくTravisは、練習時間をすごく設けるグループなんだろうなっていう印象がありますね。もちろん踊りが揃っていますし、自分たちが置かれている環境に満足せず、海外にも活動の幅を広げていく。そのガムシャラ感に熱意を感じますし、それをデビュー後の今もなお続けているというのは、相当な鍛錬が必要だなと思っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3251c",
+          "text": "松倉：Snow Manさんは……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4m67g",
+          "text": "宮舘：さっきは“兄さん”だったけど？（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95bpb",
+          "text": "松倉：いや、そうですよね（笑）。じゃあ、Snow Man兄さんで！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7behi",
+          "text": "宮舘：あ、そっちでいくんだ（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ouvr",
+          "text": "松倉：（笑）。Snow Man兄さんは、一糸乱れぬ9人のパフォーマンスにドンッと迫力を感じますし、練習量も半端ないんだろうなと思いますね。各々のお仕事もあるので、その合間を縫いながらパフォーマンスをしているところが、めちゃくちゃすごいなと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jvt2",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "84o1p",
+          "text": "――劇中のエータは徐々に人間らしさを獲得していきますが、お互いに人間力を感じる部分を教えてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "79tbo",
+          "text": "宮舘：松倉は、現場でもみんなから愛されているなと感じました。たとえばTJ（ポーズ）をやると、「ナイスTJ！」と返してくれる。そうしたら、こっちは「サンキュー」と言わなきゃいけないんですけど（笑）、そういうやりとりをスタッフさんとも行っていて。自ら話しかけに行くというか、空気を作りに行っている感じはすごくしました。そこに、場を明るくする人間力を感じましたね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6nq52",
+          "text": "松倉：ありがとうございます。宮舘くんは、すごくスタイリッシュで、ロイヤルで、スマートで。それから華麗で、優美で……というイメージがあったんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ak7t5",
+          "text": "宮舘：5個も出てきたねぇ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dekcm",
+          "text": "松倉：そうですね。実際、現場でもスタッフさんとの会話が温かくて、本当にイメージ通りだなと思いました。宮舘くんの優しさや紳士さがあるから、このチームが出来上がったのかなって。すごく居心地のいい環境でしたし、それを作ってくださる人間力を尊敬しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mupa",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fnjkk",
+          "text": "――何か人間臭さを感じるようなことはありましたか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8e0pd",
+          "text": "宮舘：撮影中、一生懸命なところは人間らしいというか、この事務所らしいというか。縦のつながりなんだろうなと思いました。僕は今回、同じ事務所の後輩と共演させてもらうのが初めてだったのですが、シンパシーを感じましたね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv3ug",
+          "text": "松倉：僕は、普段宮舘くんがどういう食事をするのかが分からなかったんです。でも、現場ではお弁当とかも出るので、「宮舘くん、これ選ぶんだ」みたいな。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3vkg7",
+          "text": "宮舘：そんなとこ見てたの？（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1eq9",
+          "text": "松倉：見てますよ、もちろん！　楽屋でも「何選びました？」とか話したじゃないですか。「僕、照り焼きにした」と聞いて、「あ、これ食べるんですね、宮舘くん」って。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e4i2n",
+          "text": "宮舘：ウソでしょ!?（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8l9bv",
+          "text": "松倉：だから、そこが人間らしいところです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bo9fc",
+          "text": "宮舘：いや、それはただの食事だろ（笑）。でも、「フォークとナイフなんでしょ？」みたいなことは、よく言われます。実際にはお箸ですけど、松倉からもそう見られていたんですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jl58",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1mrm4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "357cp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d16ee",
+          "text": "――松倉さんは編集部員・副島昂樹役ですが、おふたりの共演シーンで印象的なことはありましたか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35gao",
+          "text": "宮舘：エータにとって副島さんは重要な人物で、いろいろなことを学習させてもらうんです。でも、最終日に副島さんの台詞をきっかけに芝居が始まるシーンがあったんですけど、いくらたっても副島さんの声が聞こえなくて。あれは一体何を考えてたの？（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eam4p",
+          "text": "松倉：やばいですよね、本当に（苦笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66b60",
+          "text": "宮舘：でも、カットがかかった瞬間に笑いに変わるんですよ。それはやっぱり松倉の持つ人間力だなと感じましたね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8qr36",
+          "text": "松倉：しかもそのとき、僕は映ってないんですよね。宮舘くんがワンショットで抜かれていたのに、まったく関係のない僕で一回カットがかかるっていう（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1rpqb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7s2a6",
+          "text": "――実際、そのとき何を考えていたんですか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fb8vs",
+          "text": "宮舘：まぁ、何も考えてないでしょうね（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjfo4",
+          "text": "松倉：違います、違います（笑）。ちょっと先の台詞とかを整理していたら、「よーいスタート！」と始まってしまって……。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "955ra",
+          "text": "宮舘：結構難しい長台詞をしゃべっているので、組み立てたり、練習したりする時間も必要なんですよね。そういう人物だからこそ、「そうなっちゃったのかな」とは思っていましたけど……思った通りでした（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15sp7",
+          "text": "松倉：（笑）。僕は副島としてエータにいろいろなことを教える役なんですけど、ウインクができなくて。ウインクをしなきゃいけないシーンがあったので、宮舘くんに「ちょっとウインク見てもらっていいですか？」とお願いしたんです。そうしたら、「できてるよ」と言ってくださったんですけど、宮舘くんのウインクを見たらめちゃくちゃきれいで。僕が宮舘くんから学習しました。「ロイヤルだなー」と思って。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42nis",
+          "text": "宮舘：やめてください（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3gcuq",
+          "text": "松倉：でも、それがあったおかげで、きれいにウインクが決まったかなと。それまで、本当にできなかったんですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "695eb",
+          "text": "宮舘：これから人生の中で、ウインクって結構大事なものになってくると思うので、今回作品でご一緒できてよかったですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ab5tg",
+          "text": "松倉：大事ですかね？（笑）。でも、ありがとうございます。これをきっかけに、ウインクめっちゃ修行します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jcer",
+          "text": "宮舘：ひとつのことを頑張る力がすごくある。真面目なんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5l7eh",
+          "text": "松倉：頑張ります！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2bpin",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "77aig",
+          "text": "――（笑）。お互いに、役にハマっているなと感じる部分はありましたか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cqqcb",
+          "text": "宮舘：僕は普通に「あ、松倉だな」と思いました。しゃべり口調とか、リズム感とか、日常で松倉がしゃべっているくらい自然に聞こえて。だから、相当考えているんだろうなと思いましたね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqqie",
+          "text": "松倉：エータを演じるのって、すごく難しいと思うんですよ。感情が出せないというか、徐々にグラデーションになっていくんですけど、そこで“時沢エータ”になっていることがまず一つすごいなと思いました。それから、このドラマはキュンキュンもするけど、クスッと笑えるコミカルなシーンも多くて。その表情とかもすごく考えているだろうし、現場でも「この方がいいかな」と監督さんと話している姿を見て、尊敬でしたね……いや、なんか最後が薄かったですね。ごめんなさい（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2715g",
+          "text": "宮舘：いやいやいや（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "14qno",
+          "text": "松倉：でも、ターミネーターってそもそも分からないじゃないですか。CGもあるので、想像力が大切だなと思うし、それをどうコミカルに仕上げるのか。そこをめちゃくちゃ考えていて、すごいなと思いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhcge",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3f8rt",
+          "text": "――やはり、アンドロイド感を出すのは難しいものですか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2rvtb",
+          "text": "宮舘：難しいです。でも、想像でしかないし、原作がないからこそ、自分で考えたものが時沢エータになるんじゃないかな、とも思っていました。松倉が言ってくれたように、CGもすごくこだわって作ってくださっていて。現場で映像を見せていただくんですけど、自分にいざ当てはめるとどうなるのかは分からない状況で撮らなければいけないので、本当にスタッフさんとの信頼関係で成り立つ現場でしたね。「自分はこう思っています」と伝えて、相手の意見も聞いて、「じゃあ、こうやって落とし込もうか」と。その会議が行われることもたくさんあったので、僕だけじゃなく、全員で作った時沢エータになったのかなと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fik7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 60,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2jkei",
+          "text": "――最後に。エータはアンドロイドですが、もしおふたりがご自分をアップデートできるとしたら、どんな機能を搭載したいですか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48f6o",
+          "text": "宮舘：僕は一つに絞って、英語です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1i0h8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "727of",
+          "text": "――すごくリアルですね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fq5e",
+          "text": "宮舘：まずはリアルかなと。英語をしゃべりたいし、相手が何を言っているのか聞き取りたい。そして、それを瞬時に記憶できる暗記能力……だから、欲しいのは暗記能力でした（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5rg7",
+          "text": "松倉：英語かなと思ったけど、たどり着いた先は暗記能力（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "44vqu",
+          "text": "宮舘：でも今の世の中、やっぱり英語は大事かなと思いますよね。しゃべれたらカッコいいですし。どうです？　カッコいいですよね？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evsnu",
+          "text": "松倉：カッコいいです。コミュニケーションも取りやすくなって、いろいろと広がりますよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ba8g0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f5c84",
+          "text": "――松倉さんは、どんな機能が欲しいですか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7a05",
+          "text": "松倉：僕は、脳みそ整理能力が欲しいです。それこそお芝居のことだったり、いろいろと考えることがあると、自分で整理できずに「おぉぉ」となってしまうので。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98j7",
+          "text": "宮舘：パンクしちゃう？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ijbk",
+          "text": "松倉：パンクするまでの容量というか、覚えられるものって人それぞれ限られているじゃないですか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d81l0",
+          "text": "宮舘：顔ちっちゃいもんね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "65t44",
+          "text": "松倉：え、脳みそですか!?（笑）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qi51",
+          "text": "宮舘：そう、キャパが。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86fhu",
+          "text": "松倉：だからかぁ（笑）。でも、そのキャパシティを自分で整えられる能力が付いたらいいなと思いますよね。その能力が欲しいです！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5i5l3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eeo",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8lcif",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "195aa",
+          "text": "『ターミネーターと恋しちゃったら』",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "al7li",
+          "text": "テレビ朝日系、毎週土曜23:00～",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ehn5",
+          "text": "配信ページ：",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "https://tver.app/tamikoi",
+                "toIndex": 24
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 24,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3gq12",
+          "text": "https://tver.app/tamikoi",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "hashtags": [
+              {
+                "fromIndex": 0,
+                "text": "タミ恋",
+                "toIndex": 4
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 4,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "edrfc",
+          "text": "#タミ恋",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 0,
+                "text": "oshidoraEX",
+                "toIndex": 11
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 11,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "93t1d",
+          "text": "@oshidoraEX",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://tver.app/tamikoi"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "b8038533-1da5-4a64-9b6f-a5d559a35a8b",
+              "url": "https://x.com/search?q=%23%E3%82%BF%E3%83%9F%E6%81%8B&src=hashtag_click"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "7d327d91-9e4f-4425-b840-3bee4b0a008d",
+              "url": "https://x.com/@oshidoraEX"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "宮舘涼太（Snow Man）",
+              "entityKey": "6fac8151-99fd-49b6-b818-6ab79c27489d",
+              "mediaItems": [
+                {
+                  "localMediaId": "16",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041012119689400320"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://tver.jp/series/srd1o6cdlb?utm_campaign=official_kiji2026&utm_medium=referral&utm_source=t.co"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "松倉海斗（Travis Japan）",
+              "entityKey": "6c9a7456-3a11-4469-a2d1-faba5ec239fb",
+              "mediaItems": [
+                {
+                  "localMediaId": "18",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041012312279269376"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "d310359e-a8ee-4374-8407-cb0c0da85ddc",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041005872537866241"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFMhtYhakAAKAAIAAAAA+Mzw3gAA",
+        "media_id": "2041012119689400320",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 50.42,
+                "rgb": {
+                  "blue": 100,
+                  "green": 147,
+                  "red": 169
+                }
+              },
+              {
+                "percentage": 18.16,
+                "rgb": {
+                  "blue": 202,
+                  "green": 209,
+                  "red": 208
+                }
+              },
+              {
+                "percentage": 7.81,
+                "rgb": {
+                  "blue": 82,
+                  "green": 47,
+                  "red": 16
+                }
+              },
+              {
+                "percentage": 6.89,
+                "rgb": {
+                  "blue": 12,
+                  "green": 18,
+                  "red": 22
+                }
+              },
+              {
+                "percentage": 3.65,
+                "rgb": {
+                  "blue": 229,
+                  "green": 212,
+                  "red": 197
+                }
+              }
+            ]
+          },
+          "original_img_height": 1125,
+          "original_img_url": "https://pbs.twimg.com/media/HFMhtYhakAA_Jsq.jpg",
+          "original_img_width": 2000
+        },
+        "media_key": "3_2041012119689400320"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFMh4l+awAAKAAIAAAAA+Mzw3gAA",
+        "media_id": "2041012312279269376",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 65.23,
+                "rgb": {
+                  "blue": 253,
+                  "green": 250,
+                  "red": 236
+                }
+              },
+              {
+                "percentage": 12,
+                "rgb": {
+                  "blue": 79,
+                  "green": 100,
+                  "red": 2
+                }
+              },
+              {
+                "percentage": 7.12,
+                "rgb": {
+                  "blue": 49,
+                  "green": 34,
+                  "red": 8
+                }
+              },
+              {
+                "percentage": 5.14,
+                "rgb": {
+                  "blue": 112,
+                  "green": 146,
+                  "red": 186
+                }
+              },
+              {
+                "percentage": 4.17,
+                "rgb": {
+                  "blue": 46,
+                  "green": 80,
+                  "red": 104
+                }
+              }
+            ]
+          },
+          "original_img_height": 1125,
+          "original_img_url": "https://pbs.twimg.com/media/HFMh4l-awAAuw8y.jpg",
+          "original_img_width": 2000
+        },
+        "media_key": "3_2041012312279269376"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFMcBwEbEAEKAAIAAAAA+Mzw3gAA",
+        "media_id": "2041005872537866241",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 59.7,
+                "rgb": {
+                  "blue": 230,
+                  "green": 229,
+                  "red": 238
+                }
+              },
+              {
+                "percentage": 10.13,
+                "rgb": {
+                  "blue": 100,
+                  "green": 59,
+                  "red": 32
+                }
+              },
+              {
+                "percentage": 4.41,
+                "rgb": {
+                  "blue": 124,
+                  "green": 149,
+                  "red": 191
+                }
+              },
+              {
+                "percentage": 2.95,
+                "rgb": {
+                  "blue": 59,
+                  "green": 47,
+                  "red": 58
+                }
+              },
+              {
+                "percentage": 1.84,
+                "rgb": {
+                  "blue": 180,
+                  "green": 40,
+                  "red": 255
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HFMcBwEbEAEA35H.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2041005872537866241"
+      }
+    ]
+  }
+}

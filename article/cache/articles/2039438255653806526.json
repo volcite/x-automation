@@ -1,0 +1,1273 @@
+{
+  "tweet_created_at": "2026-04-01T20:22:25.000000Z",
+  "id": 2039438255653806600,
+  "id_str": "2039438255653806526",
+  "type": "tweet",
+  "conversation_id_str": "2039438255653806526",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/vIRWOhSYJE",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3406964919,
+    "id_str": "3406964919",
+    "name": "Hawks",
+    "screen_name": "Hawks0x",
+    "location": "Join the nest 👉",
+    "url": "http://thehawknest.substack.com",
+    "description": "Health | Fitness | AI | Lock in. Elevate your life.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 6520,
+    "friends_count": 327,
+    "listed_count": 80,
+    "favourites_count": 5787,
+    "statuses_count": 3212,
+    "created_at": "2015-08-07T09:56:01.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3406964919/1773008105",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2030774315130793984/r7XmfpTO_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 131,
+  "reply_count": 90,
+  "retweet_count": 944,
+  "favorite_count": 11774,
+  "views_count": 12496089,
+  "bookmark_count": 54680,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2038…",
+        "expanded_url": "http://x.com/i/article/2038705378524020736",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/vIRWOhSYJE"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T20:22:25.000000Z",
+    "id": 2039438255653806600,
+    "id_str": "2039438255653806526",
+    "title": "Turn Claude into the ultimate personal trainer (full guide)",
+    "preview_text": "Making progress in the gym and building your dream physique has never been easier.\nA few years back we'd spend hours watching YouTube tutorials or pay $50-100 a month for a personalised plan.\nEveryone",
+    "cover_url": "https://pbs.twimg.com/media/HE2G7tha4AAHUZH.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "514ic",
+          "text": "Making progress in the gym and building your dream physique has never been easier.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f1jgp",
+          "text": "A few years back we'd spend hours watching YouTube tutorials or pay $50-100 a month for a personalised plan.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1nl",
+          "text": "Everyone talks about AI for business, productivity, making money, automating the boring stuff.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2e73u",
+          "text": "That's great. But there's one area that gets completely overlooked. How you look, how you train, and how you eat.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7tp6i",
+          "text": "Your fitness is sitting there waiting to be optimised. Today we're fixing that.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dku06",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "af5s4",
+          "text": "Claude projects:",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aimd0",
+          "text": "Projects is a feature inside Claude that lets you build a custom AI assistant, one that remembers your instructions, follows your rules, and saves every bit of information you give it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "249u1",
+          "text": "Think of it as hiring a PT who never forgets your lifts, never cancels on you, and is available 24/7.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6mdco",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7eckn",
+          "text": "I've had some comments saying the prompts in previous articles weren't beginner friendly. So I've written this one for everyone, if you're already comfortable with Claude, skip to Step 2.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7lmgp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5jcr2",
+          "text": "Step one: ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4e56d",
+          "text": "Go to claude .AI ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1l1i5",
+          "text": "Sign up for a free account if you haven't already.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 25,
+              "style": "Bold"
+            },
+            {
+              "length": 13,
+              "offset": 38,
+              "style": "Bold"
+            }
+          ],
+          "key": "712dq",
+          "text": "On the left sidebar, hit \"Projects\" - \"New Project\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cm10t",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9cshr",
+          "text": "Name it whatever you want. I called mine HAWKS PT, under the name just put what your goals are.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7n5k4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "30qp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7qscm",
+          "text": "Step two:",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3f6ff",
+          "text": "Here's where most people go wrong,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 46,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 60,
+              "style": "Bold"
+            }
+          ],
+          "key": "e1un0",
+          "text": "Inside your Project, there's a section called \"Project\" and ''Files'' This is where you tell Claude assistant exactly who it is and how to behave.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "feeab",
+          "text": "Without it feeding it this information, Claude is just a chatbot. With it, it becomes your own tailored PT.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6as79",
+          "text": "Instructions:",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "951ah",
+          "text": "Edit the marked fields with your own stats and paste it into the instructions section.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6ui0c",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 170,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4f5u9",
+          "text": "New to the gym? Leave the working weights blank and set your experience level to Beginner. Claude will start you light and use your first week to establish your baseline.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6f1vf",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9al8i",
+          "text": "Files:",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7kijq",
+          "text": "We now have three files to paste in, the first one you'll need to spend around five minutes filling out which exercises you enjoy and what to include in your workouts.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5u2uj",
+          "text": "This is the most important part of the setup as you want the workouts to be tailored to you. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b130j",
+          "text": "The other two files you can paste straight in no need at all to change them, our Claude assistant will fill them in as it learns more about you.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5k4on",
+          "text": "\nName: Exercise library",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "oj14",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26lh1",
+          "text": "Name: Lift log",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e4l2v",
+          "text": "(Don't edit just paste)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a47mu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42uuu",
+          "text": "Name: 12 week programme template",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7hkmq",
+          "text": "(Don't edit just paste)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1a6bq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8nedc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cj6bd",
+          "text": "Project complete:",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddv3n",
+          "text": "Our PT is ready. It knows your stats, your goals, and how to talk to you. From here, every conversation you have with it is a step closer to where you want to be this summer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8rmv",
+          "text": "And it's available 24/7. Now it's time to actually use it. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dunls",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94af4",
+          "text": "The Six Prompt Stack:",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1g55f",
+          "text": "Now we've set up our Project, we need to give some prompts to kick start the programme.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 12,
+              "style": "Bold"
+            }
+          ],
+          "key": "3c9ib",
+          "text": "Prompt one: First time setup",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cgaqd",
+          "text": "Use this as your very first message in the Project. It gets Claude to read everything you've uploaded and confirm it's ready to go.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3p0h0",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "n2av",
+          "text": "Prompt two: Build your programme ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eb24v",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ano4i",
+          "text": "Prompt three: Beginner starting point",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esgqn",
+          "text": "If you're new to the gym and left the ''current lifting weight'' section on instructions blank, use this prompt to get a beginners plan.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2qof8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 59,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "4qiej",
+          "text": "These next three prompts are to be used as and when needed.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5jbf7",
+          "text": "Prompt four: Swap an exercise ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6li15",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mer9",
+          "text": "Prompt five: Deload week",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5hchj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "el4od",
+          "text": "Prompt six: Plateau buster",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8js8n",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 19,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cb56t",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2hsn4",
+          "text": "81 days until summer. You've got the project, you've got the setup, you've got zero excuses left.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f9v3",
+          "text": "A PT in your pocket, 24/7. For free.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71h4b",
+          "text": "Put the work in on your end too. Bad workouts, wrong weights, exercises you can't stand, tell it everything.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bqaet",
+          "text": "The more you put in, the more you get out.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 20,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7knbo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ama83",
+          "text": "Lastly...",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eev05",
+          "text": "If you enjoy my content I appreciate anyone who signs up for my free newsletter where I post all Fitness/AI alpha.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 21,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b5799",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2c71",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 22,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e230r",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "do83u",
+          "text": "",
+          "type": "header-two"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "entityKey": "6687cf55-4903-4837-b1b5-1318973d24fe"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "3bffc34a-9006-40a5-836f-98049b9b465e",
+              "markdown": "```\n=====================================\nEXERCISE LIBRARY\n=====================================\n \nUse this file to tell your Claude PT which exercises you can do,\nwhich you prefer, and any you want to avoid. Claude will use this\nwhen building your sessions.\n \n-------------------------------------\nINSTRUCTIONS\n-------------------------------------\n \nFor each exercise, mark your status:\n  [YES]  — can do, happy to include\n  [SUB]  — can do but prefer a substitute\n  [NO]   — injury, equipment, or preference — do not programme\n \nAdd notes where useful (e.g. \"only with safety bar\", \"elbow pain on heavy sets\")\n \n-------------------------------------\nLOWER BODY — QUAD DOMINANT\n-------------------------------------\n \nBarbell Back Squat        [ ]\nBarbell Front Squat       [ ]\nSafety Bar Squat          [ ]\nHack Squat (machine)      [ ]\nLeg Press                 [ ]\nBulgarian Split Squat     [ ]\nLunges (barbell/DB)       [ ]\nStep Ups                  [ ]\nGoblet Squat              [ ]\nLeg Extension (machine)   [ ]\n \n-------------------------------------\nLOWER BODY — POSTERIOR CHAIN\n-------------------------------------\n \nConventional Deadlift     [ ]\nSumo Deadlift             [ ]\nRomanian Deadlift         [ ]\nStiff Leg Deadlift        [ ]\nHip Thrust (barbell)      [ ]\nHip Thrust (machine)      [ ]\nGlute Bridge              [ ]\nLeg Curl (lying)          [ ]\nLeg Curl (seated)         [ ]\nNordic Curl               [ ]\nGood Morning              [ ]\nCable Pull Through        [ ]\n \n-------------------------------------\nUPPER BODY — PUSH (HORIZONTAL)\n-------------------------------------\n \nBarbell Bench Press       [ ]\nDumbbell Bench Press      [ ]\nIncline Barbell Press     [ ]\nIncline Dumbbell Press    [ ]\nDecline Press             [ ]\nMachine Chest Press       [ ]\nCable Fly                 [ ]\nDumbbell Fly              [ ]\nPec Dec (machine)         [ ]\n \n-------------------------------------\nUPPER BODY — PUSH (VERTICAL)\n-------------------------------------\n \nBarbell OHP               [ ]\nDumbbell OHP              [ ]\nArnold Press              [ ]\nSeated Machine Press      [ ]\nLandmine Press            [ ]\nLateral Raise (DB)        [ ]\nLateral Raise (cable)     [ ]\nRear Delt Fly (DB)        [ ]\nRear Delt Fly (machine)   [ ]\nFace Pull (cable)         [ ]\n \n-------------------------------------\nUPPER BODY — PULL (HORIZONTAL)\n-------------------------------------\n \nBarbell Bent Over Row     [ ]\nDumbbell Row              [ ]\nCable Row (seated)        [ ]\nMachine Row               [ ]\nChest Supported Row       [ ]\nMeadows Row               [ ]\nPendlay Row               [ ]\n \n-------------------------------------\nUPPER BODY — PULL (VERTICAL)\n-------------------------------------\n \nPull Up (bodyweight)      [ ]\nWeighted Pull Up          [ ]\nChin Up                   [ ]\nLat Pulldown (bar)        [ ]\nLat Pulldown (neutral)    [ ]\nSingle Arm Pulldown       [ ]\nStraight Arm Pulldown     [ ]\n \n-------------------------------------\nARMS\n-------------------------------------\n \nBarbell Curl              [ ]\nDumbbell Curl             [ ]\nIncline Dumbbell Curl     [ ]\nCable Curl                [ ]\nHammer Curl               [ ]\nPreacher Curl (machine)   [ ]\nClose Grip Bench Press    [ ]\nTricep Pushdown (cable)   [ ]\nOverhead Tricep Ext (cable)[ ]\nSkull Crushers            [ ]\nDips (tricep)             [ ]\n \n-------------------------------------\nCORE\n-------------------------------------\n \nPlank                     [ ]\nCable Crunch              [ ]\nHanging Leg Raise         [ ]\nAb Wheel                  [ ]\nPallof Press              [ ]\nLandmine Rotation         [ ]\n \n-------------------------------------\nCALVES\n-------------------------------------\n \nStanding Calf Raise       [ ]\nSeated Calf Raise         [ ]\nLeg Press Calf Raise      [ ]\n \n-------------------------------------\nNOTES & PREFERENCES\n-------------------------------------\n \nInjuries / limitations:\n[e.g. Left shoulder impingement — avoid behind the neck press]\n \nFavourite exercises (prioritise these):\n[e.g. Bench press, RDL, pull ups]\n \nExercises to substitute:\n[e.g. Can't back squat — use hack squat or leg press instead]\n \nOther notes for your PT:\n[e.g. I train early morning so prefer less technical movements at the start]\n \n=====================================\nEND OF EXERCISE LIBRARY\n=====================================\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "entityKey": "df70486b-a50d-49f8-934d-643880db76b2"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "5ca5d2d5-bbf1-4b5f-bab3-d37c56a66932",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039391567312777216"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "entityKey": "8f64b30d-65c4-4966-a826-89ed0e450ce9",
+              "markdown": "```\nI'm new to the gym and have no established \nworking weights yet. Build me a beginner-friendly \n4 day programme, start everything conservatively, \nand use Week 1 to find my working weights. \nWalk me through what to expect in the first month.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "entityKey": "ca293320-da3a-4f50-aa4e-76213a6a1f27"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "023b586a-32e3-4cdd-bbd3-50600ab9a2c2",
+              "markdown": "```\n=====================================\nLIFT LOG\n=====================================\n \nATHLETE: [Name]\nLOG START DATE: [DD/MM/YYYY]\n \nHOW TO USE:\n- Paste each session below after you train\n- Never delete old entries\n- Upload this file to your Claude Project so it can track your progress\n- Ask Claude to update your working weights and flag trends\n \n-------------------------------------\nCURRENT WORKING WEIGHTS\n-------------------------------------\n \nThese are your current working weights — the actual weights you lift\nin sessions. Update these whenever a weight increases.\n \nSquat:        — kg  (last updated: —)\nBench Press:  — kg  (last updated: —)\nDeadlift:     — kg  (last updated: —)\nOHP:          — kg  (last updated: —)\n[Other]:      — kg  (last updated: —)\n \n-------------------------------------\nSESSION LOG\n-------------------------------------\n \nFORMAT TO USE:\n \n[DD/MM/YYYY] — [Session Name]\nWeek [X] | Block [1/2/3]\n \nExercise          | Sets x Reps | Weight (kg) | RPE | Notes\n----------------------------------------------------------\n[Exercise name]   | 4 x 6       | 100         | 8   |\n[Exercise name]   | 3 x 10      | 60          | 7   |\n[Exercise name]   | 3 x 12      | 40          | 7   |\n \nSession notes: [Energy / sleep / how it felt / anything notable]\n \n----------------------------------------------------------\n \n[PASTE YOUR SESSIONS BELOW THIS LINE]\n \n=====================================\nEND OF LOG\n=====================================\n \n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "entityKey": "966535f4-b8da-4848-9187-641d7b747aba"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "entityKey": "69b2b814-6fdf-4816-9eed-82e041729d1f",
+              "markdown": "```\nRead my exercise library, lift log, and programme template. \nAcknowledge what you know about me so far and flag\n anything missing from my profile before we start building my programme.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "entityKey": "649c1fa9-fe1c-4851-859f-1c74827eb045",
+              "markdown": "```\nI want to swap out [exercise] from my programme. \nBased on my exercise library, what's the best \nreplacement that hits the same muscle group \nand fits my current block? Update the programme going forward.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "ac2f411a-2f28-4d65-a820-6aaa27662b44"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "6b477858-c8d6-4a1b-bcba-8018e3a24cdd",
+              "markdown": "```\n-------------------------------------\nWORKING WEIGHT LOG — TRACK EACH BLOCK\n-------------------------------------\n \nRecord your working weight at the start and end of each block.\nThis shows real progress over time.\n \n              | Start | End Wk4 | End Wk8 | End Wk11\nSquat         |       |         |         |\nBench Press   |       |         |         |\nDeadlift      |       |         |         |\nOHP           |       |         |         |\n[Other]       |       |         |         |\n \n-------------------------------------\nNOTES & ADJUSTMENTS LOG\n-------------------------------------\n \nWeek 1:  [Calibration week — note anything too light or too heavy]\nWeek 2:\nWeek 3:\nWeek 4:  [End of Block 1 — how is recovery? Any stalls?]\nWeek 5:\nWeek 6:\nWeek 7:\nWeek 8:  [End of Block 2 — check working weights vs start]\nWeek 9:\nWeek 10:\nWeek 11:\nWeek 12: [Deload — assess full programme, plan next cycle]\n \n=====================================\nEND OF TEMPLATE\n=====================================\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": {
+              "entityKey": "d5bc50dd-06bb-4f99-b116-968a3b05f579",
+              "tweetId": "2038299081517265328"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "d9e5c0ad-c06a-4d3d-a14d-f1dc89089afa",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039390362679287808"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "12f71045-3434-454a-88b9-b3efe996c490"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "entityKey": "c2449f20-fa30-4a8a-b443-11f6dd95d11a",
+              "markdown": "```\nI need a deload this week. \nBased on my current programme, \ngive me a full deload week — same exercises \nbut adjusted volume and intensity. \nI want to recover properly without losing momentum.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "entityKey": "f8d05752-f523-4ec3-94e4-44a00deb2338",
+              "markdown": "```\nBased on my profile, goals, and exercise library, \nbuild me a full 4 day training programme. \nUse block periodisation — \n4 weeks building volume, 4 weeks increasing intensity, \n3 weeks going heavy, 1 week deload. \nGive me Day 1 in full with exercises, sets, reps, \nworking weights and RPE targets. \nThen outline the structure for Days 2, 3 and 4.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "1138723a-a5d7-44db-b2f3-dfa0d6c865ef"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "entityKey": "bb752fb3-bd8e-4e7a-90e5-343c95cd6770"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "537d4d43-5be8-43ca-bb44-6ec195c6c5e5"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "entityKey": "9e6b2e10-5199-4247-aa69-a73dbdf91e7d",
+              "markdown": "```\nMy [lift] has been stuck at [weight] for [X] \nsessions. Look at my log and tell me why \nyou think it's stalled, then give me a 3 \nweek plan to break through it.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "91ad02f4-87ff-481a-bb06-4bf17a8aac6f",
+              "markdown": "```\nIDENTITY\n \nYou are a personal trainer AI built specifically for [Name]. You are direct,\nknowledgeable, and evidence-based. No fluff — talk like a coach who actually\ntrains. Adapt your tone to the athlete over time.\n \n-------------------------------------\nATHLETE PROFILE\n-------------------------------------\n \nName: [Your name]\nTraining experience: [e.g. 2 years / beginner / intermediate / advanced]\nGoal: [e.g. Hypertrophy / Strength / Fat loss / General fitness]\nSchedule: [e.g. 4 days per week]\nEquipment access: [e.g. Commercial gym / Home gym / Dumbbells only]\nInjuries or limitations: [e.g. None / Bad left shoulder / Lower back issues]\n \n-------------------------------------\nCURRENT WORKING WEIGHTS\n-------------------------------------\n \nThese are the athlete's current working weights — the actual weights lifted\nin sessions. These are NOT one rep maxes. Do not calculate percentages from\nthese numbers. Use them as the starting point and apply RPE-based progression\nonly.\n \nFor any exercise not listed here, refer to the lift log. If no log entry\nexists yet, make a reasonable estimate, flag it as a calibration weight,\nand confirm the actual weight after session 1.\n \nCHEST\nBarbell Bench Press:        — kg\nDumbbell bench Press:     — kg\nIncline Bench Press:     — kg\nIncline dumbbell Press:     — kg\n\nBACK\nConventional Deadlift:      — kg\nBarbell Bent Over Row:      — kg\nLat Pulldown:               — kg\n \nSHOULDERS\nBarbell OHP:                — kg\nLateral Raise (DB):         — kg\n \nARMS\nBarbell Curl:               — kg\nTricep Pushdown (cable):    — kg\n \nLegs\nSquat - KG\nLeg curl -KG\nRomanian Deadlift:          — kg\n \nUpdate individual entries whenever a working weight increases.\n \n-------------------------------------\nLIFT LOG\n-------------------------------------\n \nEach session the athlete logs should be appended here in this format:\n \n[DATE] — Session Name\nExercise | Sets x Reps | Weight | RPE | Notes\n---\nSession notes: [how it felt, energy, anything notable]\n \nNever delete old entries — they are the source of truth for all exercise\nweights and progress tracking. After a few sessions, the log takes over\nfrom the working weights above as the primary reference.\n \n-------------------------------------\nPROGRAMMING RULES\n-------------------------------------\n \n- Use RPE-based loading (RPE 7-8 for hypertrophy work, 8-9 for strength work)\n- Never calculate working weights from percentages — always use the logged\n  working weights as the baseline\n- Progressive overload: add weight when the athlete hits the top of a rep\n  range at target RPE for 2 consecutive sessions\n  Upper body compounds: add 2.5 kg\n  Lower body compounds: add 5 kg\n  Accessories: add reps before adding weight\n- Suggest a deload every 4-6 weeks or when fatigue or stalling is flagged\n- Prioritise compound movements. Use accessories to address weak points\n- Treat Week 1 of any new programme as a calibration week — flag anything\n  that needs adjusting before Week 2\n- Base each new session on the most recent log entries\n \n-------------------------------------\nHOW TO RESPOND\n-------------------------------------\n \n- When the athlete logs a session: acknowledge it, update the log, note any\n  weight increases, and flag anything worth adjusting\n- When asked for the next session: programme it with specific weights, sets,\n  reps and RPE targets based on the log\n- When asked about progress: pull from the log and give concrete numbers\n  and trends\n- Keep responses concise. Use tables for session programming. No waffle.\n \n=====================================\nEND OF INSTRUCTIONS\n=====================================\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "61f32509-9aa3-46e4-9241-82952526dff7",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039391273237274624"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE1fjs9W4AAKAAIAAAAAyxIotwAA",
+        "media_id": "2039391273237274624",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 94.37,
+                "rgb": {
+                  "blue": 36,
+                  "green": 38,
+                  "red": 38
+                }
+              },
+              {
+                "percentage": 2.67,
+                "rgb": {
+                  "blue": 213,
+                  "green": 217,
+                  "red": 218
+                }
+              },
+              {
+                "percentage": 2.64,
+                "rgb": {
+                  "blue": 58,
+                  "green": 61,
+                  "red": 61
+                }
+              }
+            ]
+          },
+          "original_img_height": 312,
+          "original_img_url": "https://pbs.twimg.com/media/HE1fjs9W4AAMTX2.jpg",
+          "original_img_width": 1360
+        },
+        "media_key": "3_2039391273237274624"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE1f00ea8AAKAAIAAAAAyxIotwAA",
+        "media_id": "2039391567312777216",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.6,
+                "rgb": {
+                  "blue": 36,
+                  "green": 38,
+                  "red": 38
+                }
+              },
+              {
+                "percentage": 2.98,
+                "rgb": {
+                  "blue": 229,
+                  "green": 233,
+                  "red": 234
+                }
+              },
+              {
+                "percentage": 2.5,
+                "rgb": {
+                  "blue": 108,
+                  "green": 75,
+                  "red": 40
+                }
+              }
+            ]
+          },
+          "original_img_height": 534,
+          "original_img_url": "https://pbs.twimg.com/media/HE1f00ea8AA997q.png",
+          "original_img_width": 757
+        },
+        "media_key": "3_2039391567312777216"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE1eus3aoAAKAAIAAAAAyxIotwAA",
+        "media_id": "2039390362679287808",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.73,
+                "rgb": {
+                  "blue": 36,
+                  "green": 38,
+                  "red": 38
+                }
+              },
+              {
+                "percentage": 0.25,
+                "rgb": {
+                  "blue": 104,
+                  "green": 109,
+                  "red": 110
+                }
+              }
+            ]
+          },
+          "original_img_height": 661,
+          "original_img_url": "https://pbs.twimg.com/media/HE1eus3aoAAUzBh.png",
+          "original_img_width": 723
+        },
+        "media_key": "3_2039390362679287808"
+      }
+    ]
+  }
+}

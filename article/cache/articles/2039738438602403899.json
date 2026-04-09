@@ -1,0 +1,1427 @@
+{
+  "tweet_created_at": "2026-04-02T16:15:14.000000Z",
+  "id": 2039738438602403800,
+  "id_str": "2039738438602403899",
+  "type": "tweet",
+  "conversation_id_str": "2039738438602403899",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/xDEP4ad1tz",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 256523056,
+    "id_str": "256523056",
+    "name": "DAN KOE",
+    "screen_name": "thedankoe",
+    "location": "the goods:",
+    "url": "https://letters.thedankoe.com",
+    "description": "building @edendotso",
+    "protected": false,
+    "verified": true,
+    "followers_count": 902020,
+    "friends_count": 964,
+    "listed_count": 6939,
+    "favourites_count": 83891,
+    "statuses_count": 30264,
+    "created_at": "2011-02-23T14:25:39.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/256523056/1711767394",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1845856303174037504/Q7ZZqVFa_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/edendotso",
+      "badge_url": "https://pbs.twimg.com/profile_images/2031772410316574720/3c0Rquhz_bigger.jpg",
+      "description": "eden",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 123,
+  "reply_count": 175,
+  "retweet_count": 521,
+  "favorite_count": 4327,
+  "views_count": 575327,
+  "bookmark_count": 5487,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039737992617811968",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/xDEP4ad1tz"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T16:15:14.000000Z",
+    "id": 2039738438602403800,
+    "id_str": "2039738438602403899",
+    "title": "I'm begging you to write more essays",
+    "preview_text": "I’m begging you to write more essays.\nOr to start writing essays if you aren’t already.\nNo, not like the essays you were assigned in school.\nI’m talking about one of the greatest tools to learn",
+    "cover_url": "https://pbs.twimg.com/media/HE6bPOHaUAANdV4.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3l0ue",
+          "text": "I’m begging you to write more essays.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dg8t7",
+          "text": "Or to start writing essays if you aren’t already.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4tb2",
+          "text": "No, not like the essays you were assigned in school.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 127,
+              "style": "Italic"
+            }
+          ],
+          "key": "b3lu0",
+          "text": "I’m talking about one of the greatest tools to learn faster, think deeper, improve the articulation of your ideas and beliefs, and avoid being replaced by AI.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ampb7",
+          "text": "But those are the selfish personal benefits of writing.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "443a6",
+          "text": "There’s something deeper.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6s4vh",
+          "text": "The modern information environment is breaking our ability to think, and most people don’t even notice. Essays might be one of the last forms of content that actually develops your capacity to make sense of reality.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "867qh",
+          "text": "We are living through the largest-scale production of fake thinking in human history.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "colpq",
+          "text": "The consequences are quite high, and only a select few people care.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3u1mj",
+          "text": "In this letter, I want to show you exactly how this fake thinking epidemic (if it goes on as it is) will not only make your own life worse, but potentially lead to the collapse of society.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70fa0",
+          "text": "Then, I want to help you write your first essay so you can fix one of the most precious resources you have - your mind.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8tf0",
+          "text": "(Turning it into a career or side income doesn’t hurt either).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7mq7",
+          "text": "I – The internet isn’t dead, but it’s killing us",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55v4m",
+          "text": "The written word as the primary type of media was probably required for democracy to work, because it required the capacity to pay attention to an idea for long enough to understand it. — Daniel Schmachtenberger",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2hhm4",
+          "text": "Social media and AI are quite literally a threat to civilization.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7c1ll",
+          "text": "I know that sounds insane.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6g7a4",
+          "text": "How could scrolling on Instagram actually lead to the collapse of society? Watching a little TikTok dance can’t hurt, right? Reading someone’s 5 second opinion about Trump on X is just a part of your lunch break, yeah?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2pjfi",
+          "text": "Yes, but only when you are so focused on yourself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9s7ij",
+          "text": "When you zoom out and see what’s really at play, it’s hard to unsee.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9j262",
+          "text": "There are 3 layers to this.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 42,
+              "style": "Italic"
+            }
+          ],
+          "key": "1ft99",
+          "text": "Stick with me here, because this goes deep.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 9,
+              "style": "Italic"
+            }
+          ],
+          "key": "2jb7h",
+          "text": "The first layer is that the epistemic commons is becoming poisoned.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "oatt",
+          "text": "What is the epistemic commons?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 41,
+              "style": "Italic"
+            }
+          ],
+          "key": "9bjvq",
+          "text": "Think of it as our water source, but for information, and that’s extremely important.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8p0au",
+          "text": "Most people watch the news to stay “informed,” or to educate themselves, but if you look closely, they’re just becoming complacent. Their lives aren’t changing for the better. In fact, most people are becoming more jaded, more polarized, and more violent.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cas6s",
+          "text": "Whenever you post on social media, whenever someone creates a TV show or movie, or whenever someone produces music on Spotify, the epistemic commons (or public information environment) grows.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 1,
+              "offset": 27,
+              "style": "Italic"
+            },
+            {
+              "length": 61,
+              "offset": 93,
+              "style": "Italic"
+            },
+            {
+              "length": 108,
+              "offset": 156,
+              "style": "Italic"
+            }
+          ],
+          "key": "7sa8o",
+          "text": "This obviously gets complex and requires a level of systems thinking to fully determine, but if the content you publish in public hurts more than it helps, and it is not counterbalanced by content that does help, our intellectual water source becomes contaminated.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91q1o",
+          "text": "Why is that bad?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 148,
+              "style": "Italic"
+            }
+          ],
+          "key": "9hn0c",
+          "text": "Because the information you or any individual consumes influences their identity. Their identity influences their life trajectory and behavior. The form of content you consume trains your attention span, tolerance for complexity, ability to hold contradictions, and the capacity for nuance.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15hh4",
+          "text": "That’s why you learn, right?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "for59",
+          "text": "To equip yourself with the knowledge and cognitive ability to achieve the life you want?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1d7n9",
+          "text": "But that’s just it...",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 62,
+              "offset": 140,
+              "style": "Italic"
+            }
+          ],
+          "key": "7fjm0",
+          "text": "Before you can solve any problem that is a civilizational threat in climate, governance, AI alignment, public health, or the rest, you need a population capable of understanding the problem coherently. 99% of people don’t even know what these problems entail, because they’re happy drooling over the cat video on their phone.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 92,
+              "offset": 57,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 79,
+              "style": "Italic"
+            }
+          ],
+          "key": "f2nv6",
+          "text": "The takeaway here that we will touch on later is this - Does what you consume or create lead to a beneficial behavior change in yourself and others? Or are you unconsciously soaking in information that silently makes your life worse, and poisoning the information environment by what you contribute to it?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkc97",
+          "text": "That’s layer one.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1k2ak",
+          "text": "Reminder: Build a 2-Hour Content System in 14 Days starts April 7th (a few days from now).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 109,
+              "style": "Italic"
+            }
+          ],
+          "key": "4vut6",
+          "text": "If you are interested in turning thoughtful writing into a modern career, or simply want to realize that you do have ideas worth putting out in public, consider joining before the start date.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 18,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e6sal",
+          "text": "Check it out here.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbsum",
+          "text": "II – The three forces breaking civilization’s ability to think",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bbmd",
+          "text": "As technology is empowering our choices and we are getting something like the power of gods, you have to have something like the love and the wisdom of gods to wield that or you self-destruct.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnoe3",
+          "text": "I want to introduce you to one of the most important thinkers of our time.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "32vs6",
+          "text": "His name is Daniel Schmachtenberger.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1i6bt",
+          "text": "He doesn’t post much, but he occasionally makes an appearance on podcasts. When you listen to them, you can instantly tell that he is a calm, nuanced, and non-polarizing systems thinker.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8uj3",
+          "text": "He has dedicated his life to what he calls the Metacrisis, and while it’s much deeper than what type of content is posted on the internet, that’s what we’re going to focus on.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cblgp",
+          "text": "In a nutshell, Schmachtenberger believes that there are 3 massive threats that can result in 3 outcomes, two of those outcomes being catastrophic.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "39tu0",
+          "text": "The 3 threats (he calls them generator functions) are:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8067d",
+          "text": "Rivalrous dynamics – Win-lose games where one party’s gain requires another’s loss. Think arms races, corporate competition, social media content, and academic publishing (hoarding data to publish first).",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 81,
+              "offset": 272,
+              "style": "Bold"
+            }
+          ],
+          "key": "5n217",
+          "text": "Substrate consumption – “Substrate” is what something needs to exist, like soil for plants, attention for media, trust for markets. When systems consume their foundation faster than they can regenerate, that’s bad. Think depleting top soil that took millennia to form and the attention economy consuming human cognitive capacity faster than it recovers.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 24,
+              "offset": 90,
+              "style": "Italic"
+            }
+          ],
+          "key": "7su2a",
+          "text": "Exponential technology – Tools and systems that improve themselves at accelerating rates, outpacing human wisdom. Think AI doubling in capacity, automated weapons, and social media algorithms evolving faster than we can study their psychological impacts.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3bvn0",
+          "text": "When those 3 things converge, they can result in either civilizational collapse (nuclear war, unaligned AI, ecological destruction, engineered pandemics) or dystopian control (total surveillance, digital authoritarianism, elimination of individual agency).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1ed9",
+          "text": "He calls these “attractors,” or the basins that complex societies tend to fall into.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 30,
+              "style": "Italic"
+            }
+          ],
+          "key": "48ao",
+          "text": "The “third attractor,” or the good outcome here, is a world where sense-making, shared understanding, and aligned incentives exist.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7asml",
+          "text": "When we look at the internet, AI, and social media, it’s pretty easy to see how this is playing out.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 62,
+              "offset": 223,
+              "style": "Italic"
+            }
+          ],
+          "key": "fhe99",
+          "text": "When creators compete for attention, they optimize for engagement rather than transformation (rivalrous dynamics). The algorithm only measures how much you’ve clicked, watched, or liked, so creators are much more likely to abandon truth and impact for whatever will make people react. That’s an obvious problem.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efmra",
+          "text": "When engagement is optimized, the content that individuals consume does not require thinking or understanding, so that muscle atrophies. The “substrate” being consumed is cognitive capacity, which is downstream of attention.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2q0n",
+          "text": "AI accelerates content production, yes, but it also accelerates imitation, and when there’s only destructive content to imitate, you can see where that goes. AI itself isn’t the issue. The issue is that it can mimic what looks like real thinking without requiring any cognitive effort from either the creator or consumer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 188,
+              "offset": 32,
+              "style": "Italic"
+            }
+          ],
+          "key": "aado2",
+          "text": "So, the default outcome here is the epistemic commons (or mental water supply) becomes poisoned incredibly fast because it’s optimized for content that looks like it should shift your thinking but structurally it cannot.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 33,
+              "style": "Italic"
+            }
+          ],
+          "key": "a07tl",
+          "text": "That leads to layer three - what you can do about it, and how you can profit from it in a meaningful way.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8u952",
+          "text": "III – Why essays may be the last bastion of real thinking",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fj3d",
+          "text": "Wisdom is not algorithmic and cannot be made algorithmic.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8b1mg",
+          "text": "For the past few decades, a certain type of content has dominated the internet.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 47,
+              "offset": 27,
+              "style": "Italic"
+            }
+          ],
+          "key": "4eq72",
+          "text": "Specifically, content that delivers conclusions without requiring thought.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3dp5g",
+          "text": "It’s fast food for the mind.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4stke",
+          "text": "So we’re going to call this category of media “fast content” - because social media companies use the same psychological triggers to get you addicted as fast food companies who realized fat, sugar, and salt were a scarce good that are brain’s aren’t wired to have an abundance. Finding those resources spiked dopamine because they aided in survival.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 188,
+              "style": "Italic"
+            }
+          ],
+          "key": "c2698",
+          "text": "On the fast content end of the spectrum, you have BuzzFeed listicles, rage tweets, AI-generated summaries, hot takes, engagement-optimized threads, and TikTok explainers that give you the feeling of understanding in 30 seconds. Makes sense why everyone thinks they’re an expert these days.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2sa9k",
+          "text": "The early adopters of the internet could post “Top 10 habits to get rich by age 30” and be swarmed by hundreds of thousands of readers, but the landscape has changed.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 7,
+              "style": "Italic"
+            },
+            {
+              "length": 23,
+              "offset": 57,
+              "style": "Italic"
+            }
+          ],
+          "key": "6kcg7",
+          "text": "On the slow content end of the spectrum, or content that requires you to think, you have essays, long-form non-optimized conversations, certain books, certain lectures, and even tweets crafted in a way that make you think to receive the insight.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 30,
+              "style": "Italic"
+            }
+          ],
+          "key": "7hqt0",
+          "text": "I personally want to focus on essays.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4lp6b",
+          "text": "Why?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 32,
+              "style": "Italic"
+            }
+          ],
+          "key": "eh1pt",
+          "text": "Because they are something that you can produce, alone, and leverage to take advantage of the meaning economy we are heading into. And, essays are the most scalable and durable form. A meaningful conversation can shift one person, but it lives and dies in the memory of the participants. An essay develops the reader’s and writer’s thinking capacity, and it can do that for thousands of people across decades. More on that in a bit.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4o319",
+          "text": "On top of that, most people walk around with opinions they’ve never thought through. They feel like they believe something, but they’ve never tried to write it down in a way that would survive a smart reader’s scrutiny.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "39uin",
+          "text": "It also doesn’t hurt that some of the world’s most respected minds were forged through the act of writing essays: Paul Graham, Isaac Newton, Peterson in his prime, Nietzsche, Emerson, etc.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 60,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "14upp",
+          "text": "The defining factor of an essay is that AI cannot write one.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9cui",
+          "text": "For understanding, it helps to distinguish an article from an essay:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ciaoq",
+          "text": "Articles are answers, essays are arguments.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "52cbi",
+          "text": "Articles package existing knowledge, essays change the author’s beliefs.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2o71j",
+          "text": "Articles start with the conclusion, essays figure it out.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3j8de",
+          "text": "Articles inform or educate, essays are an act of thinking.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7bpg1",
+          "text": "Articles communicate what’s already there, essays discover what isn’t.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fte4k",
+          "text": "If you think about it, only a human can write an essay, because a robot doesn’t have a situated point of view. It does not have direct experience. It can simulate the perspective you tell it to adopt, but it lacks the beliefs, biases, and emotions that lead you to think and question in a particular direction. And honestly, it would be nearly impossible to pass all of that context off to AI, because every passing moment influences your point of view, and in order to have a meaningful point of view, you can’t be sitting at your desk conversing with Claude 24 hours a day. You have to engage in novel experiences.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 298,
+              "style": "Italic"
+            }
+          ],
+          "key": "4pjaa",
+          "text": "More importantly, AI destroys the magic of surprise and discovery. This is a crucial point. You can tell AI to share something novel, but then you are anticipating it. It is no longer a surprise. You destroyed any chance of stumbling upon a discovery. It may give you good material to write about, but it was not from your own creative ability and thinking.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 194,
+              "style": "Italic"
+            }
+          ],
+          "key": "djvb9",
+          "text": "The more I use AI, the more I find it useful, but on the other edge of the sword, I find it exhaust creativity extremely fast. I can’t help but believe (even as someone who is pro-AI) that most relevant content on the internet will be in essay form. Slow content.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9sjv",
+          "text": "IV – The meaning economy and how to thrive in it",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c53vi",
+          "text": "The meaning economy has been emerging for a few years now.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2c498",
+          "text": "AI has only accelerated this.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c3pib",
+          "text": "Why?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "n27e",
+          "text": "Because meaning is the scarcest commodity in civilization right now.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 117,
+              "style": "Italic"
+            }
+          ],
+          "key": "fh7e6",
+          "text": "Before industrialization, we praised Gods in the sky. During industrialization, we made productivity our God. Today, more is our God. More money, more information, more content. We have more stuff and less purpose than ever.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6gj24",
+          "text": "In my eyes, meaning will be sold at a premium.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31a2p",
+          "text": "People will crave it more than they already do.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4pgv",
+          "text": "And who better to provide meaning than those who shape the epistemic commons? The value creators who fight against the poisoning of the water supply.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6423i",
+          "text": "But how is meaning created and experienced?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 15,
+              "style": "Bold"
+            },
+            {
+              "length": 22,
+              "offset": 29,
+              "style": "Italic"
+            }
+          ],
+          "key": "4sdh7",
+          "text": "Meaning is the experience of ordered consciousness.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cssg",
+          "text": "When attention is fragmented, scattered, and pulled in competing directions, that’s psychic entropy. It feels like anxiety, boredom, and restlessness. Chaos.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dgs5",
+          "text": "When attention is invested in a complex, challenging activity with clear feedback, that’s psychic negentropy. It feels like flow, purpose, and meaning. Order.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1m1nq",
+          "text": "So, meaning isn’t something you find out there in the world, it’s a state of consciousness that emerges when your attention is ordered toward something complex enough to fully engage you. If you are level 10, a level 1 challenge is boring and a level 20 challenge is daunting. But a level 11 challenge is just enough to lock you in.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 11,
+              "style": "Bold"
+            }
+          ],
+          "key": "dv1qt",
+          "text": "Meaning is created through the process of ordering consciousness.*",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0jsn",
+          "text": "The act of ordering consciousness (taking chaos and creating structure, wrestling with complexity until it coheres) results in meaning.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "57b5u",
+          "text": "If you’ve ever been stuck in a rut, wrestled with where your life should go, and eventually received a burst of clarity that launches you into a blur of meaningful living, you’ve directly experienced this.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ptfp",
+          "text": "What does this have to do with content and essays?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3guma",
+          "text": "Fast content (entropic, pre-digested, algorithmic, AI-generated) skips the ordering process and delivers pre-packaged conclusions. The reader’s consciousness stays and becomes more disordered. They received information but didn’t generate meaning. That’s why they feel informed but empty.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 66,
+              "offset": 89,
+              "style": "Italic"
+            }
+          ],
+          "key": "5et5m",
+          "text": "Slow content (essays, genuine thinking in public, insight that requires effort) requires both the writer and the reader to engage in the ordering process. The writer orders their own consciousness through the act of writing. The reader re-orders their thoughts by properly digesting the thinking.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5h9ja",
+          "text": "What’s the opportunity here?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fmmi5",
+          "text": "The world doesn’t need more people competing for the most rage-bait post. It also doesn’t need more people trying to become the most productive person in the world to build the next billion-dollar AI company.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8a3l",
+          "text": "Instead, it needs ordinary people who make sense of their own minds and document them in public.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9iqj0",
+          "text": "Previously, I’ve called these people “value creators” (because it’s distinct from the typical influencer or personal brand).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17ev9",
+          "text": "It’s a person who chooses a positive trajectory for their life, cares deeply about the interests and skills that help move the needle toward that, and passes their journey down from their point of view to others who can relate and benefit from it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e9gmp",
+          "text": "By all measures, I believe this is a future-proof and deeply meaningful way to live. Sure, you aren’t creating a tangible physical product, but you are causing a greater cascade. That is, you are providing the root. The information that influences identity that influences behavior that influences the flourishing or destruction of civilization. Even building rockets doesn’t have that much power.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2sn0b",
+          "text": "V – How to think in public (and why it’s the most valuable skill you can develop)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bugo1",
+          "text": "It’s funny.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "46c4v",
+          "text": "You guys don’t see it, but this letter was incredibly difficult to write.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 138,
+              "style": "Italic"
+            },
+            {
+              "length": 58,
+              "offset": 172,
+              "style": "Italic"
+            }
+          ],
+          "key": "atvsl",
+          "text": "I scrapped three separate drafts about “why you should write an essay” but they all felt off. However, by sticking with the challenge and synthesizing a point of view that led to a deeper understanding of what I was trying to say.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ovat",
+          "text": "And if this letter changes your mind and behavior in a positive way, that brings even more meaning into my life and yours.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cl4is",
+          "text": "I hope that you can experience that same feeling.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ecm9",
+          "text": "So, let’s get practical.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d99ag",
+          "text": "Here’s what I could put together to get you started on the right track, then we’ll talk about where you can public your essay.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bg59n",
+          "text": "Write to discover, not to perform. Most social media engagement comes from packaging anyway, and you can learn about that later. Start with a concept, viewpoint, question, experience, thought, something that bothers you, or topic. An essay begins with uncertainty and an open mind.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 42,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "44l32",
+          "text": "Write about what genuinely interests you. Focus on a single main idea. Use this as a time to research and learn. Go down rabbit holes. Challenge everyone’s point of view. Do not accept one source as law.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 4,
+              "offset": 37,
+              "style": "Italic"
+            },
+            {
+              "length": 5,
+              "offset": 217,
+              "style": "Italic"
+            }
+          ],
+          "key": "7ougd",
+          "text": "Resist the template. You’ll find how you like to structure your writing as you get better at it. It’s a skill, remember that. For now, just write. Have a debate with yourself. Ask questions to keep the writing going. Then worry about structure and ask AI for help if you want. Do the thinking first.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "399gi",
+          "text": "Ask, “Do I actually believe this?” It’s easy to write what you already believe, but the point of this is to change what you believe. This is the most difficult part. Resist the urge to act like you are absolutely right.******",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e86gb",
+          "text": "Read essays, consume centropic content. Your sense-making capacity is shaped by your inputs. You can’t expect the For You page to feed you this content. You must actively search, curate, and nurture your digital feed.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bmf63",
+          "text": "Build a body of work, not a content calendar. People don’t follow creators for one piece of content. They follow for their body of coherent work. Each essay builds on the last. AI can’t replicate a coherent philosophy built through years of genuine thinking.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddicj",
+          "text": "Makes sense, but where do you start?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cenn",
+          "text": "X or Substack.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evd41",
+          "text": "Those are the only two platforms that prioritize long-form writing and thinking.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2rngh",
+          "text": "I’ve written about this quite a few times before, so I’ll leave you at that.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 40,
+              "offset": 103
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9dr3d",
+          "text": "If you want a guided challenge to do this, and to learn the ins and outs of impactful writing, consider joining the challenge before April 7th.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "em0oi",
+          "text": "– Dan",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://stan.store/thedankoe/p/build-a-2hour-content-ecosystem-in-30-days"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://stan.store/thedankoe/p/build-a-2hour-content-ecosystem-in-30-days"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

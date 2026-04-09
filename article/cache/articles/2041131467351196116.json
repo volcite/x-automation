@@ -1,0 +1,727 @@
+{
+  "tweet_created_at": "2026-04-06T12:30:38.000000Z",
+  "id": 2041131467351196200,
+  "id_str": "2041131467351196116",
+  "type": "tweet",
+  "conversation_id_str": "2041131467351196116",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/jpz3Cwl942",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2023761270919622700,
+    "id_str": "2023761270919622656",
+    "name": "이저고",
+    "screen_name": "milo_pawsitive",
+    "location": "블루레이디",
+    "url": null,
+    "description": "이모 저모 고모. 일상계. 멍멍이와 함께 살기위해 열심히 돈을 벌고 투자 공부하는 K직장인 여성. \n재테크, 취준꿀팁, 면접꿀팁 하이라이트참고⭐️\n제가 여혐계정 팔로우 하고있으면 꼭!! 알려주세요🤙",
+    "protected": false,
+    "verified": true,
+    "followers_count": 6173,
+    "friends_count": 1469,
+    "listed_count": 13,
+    "favourites_count": 3946,
+    "statuses_count": 4189,
+    "created_at": "2026-02-17T14:07:56.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023761270919622656/1771337622",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2023762546294153216/KNJQn6sq_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 90,
+  "reply_count": 41,
+  "retweet_count": 678,
+  "favorite_count": 1708,
+  "views_count": 846019,
+  "bookmark_count": 3503,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041125809000484864",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/jpz3Cwl942"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T12:30:38.000000Z",
+    "id": 2041131467351196200,
+    "id_str": "2041131467351196116",
+    "title": "고과 S 받은 사람이 쓰는 회사에서 나의 상사 다루는 법 ",
+    "preview_text": "고과 S 받은 사람이 쓰는 회사에서 나의 상사 다루는 법\n먼저 인증샷\n \n아는 사람은 알겠지만, \n이저고는 대기업에서 약 8년간 근무하며 말 그대로 개 갈려온 역사가 있다.\n갈렸다고 생각했으나, 돌아보니 쌓아온",
+    "cover_url": "https://pbs.twimg.com/media/HFOOIpBakAAZfTC.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "8dmrr",
+          "text": "고과 S 받은 사람이 쓰는 회사에서 나의 상사 다루는 법",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c95vj",
+          "text": "먼저 인증샷",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "691jc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aoq20",
+          "text": "아는 사람은 알겠지만, \n이저고는 대기업에서 약 8년간 근무하며 말 그대로 개 갈려온 역사가 있다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1uv8",
+          "text": "갈렸다고 생각했으나, 돌아보니 쌓아온 시간이었고",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffkq4",
+          "text": "그 안에서 깨달은 성과 잘 받는 법에 대해서 써 볼텐데, \n물론 회사 바이 회사이고 이게 정답은 아니지만, 누군가에겐 도움이 될 글이라고 믿으며..",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1e4o",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aun04",
+          "text": "사실 회사에서 성과 잘 내는 사람들 보면 단순히 일을 잘하는 게 아니다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7rk6q",
+          "text": "공통적으로",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "apt7p",
+          "text": "“내 상사가 상사의 상사에게 잘 보이게 만드는 사람”이자,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "95cgm",
+          "text": "“상사가 편해지는 방식으로 일하는 사람”이다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eujr7",
+          "text": "여기서 말하는 ‘상사를 다룬다’는 건 아부가 아니라 구조적 뒷받침이다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "13s20",
+          "text": "상사의 시간을 줄이고 , 판단을 쉽게 만들고 , 리스크를 미리 제거해주는 것.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "2t0i7",
+          "text": "그리고 하나 더 중요한게 있는데. 이걸 하고 있다면 “반드시 티를 내야 한다.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b70i6",
+          "text": "조용히 잘하는 사람보다 보이게 잘하는 사람이 평가를 가져간다. 이 구조를 이해하는 순간 일은 그대로해도, 내 평가가 달라진다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fpv5p",
+          "text": "1. 상사를 설득하지 말고 번역해라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8nbg7",
+          "text": "상사는 아이디어보다 “이게 결과로 이어지는지”를 본다.\n그래서 모든 보고는 성과, 리스크, 일정으로 번역해야 한다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5o018",
+          "text": "예시를 들어보면,\n“이거 트렌드라서 해야 할 것 같아요”→ 설득 안 됨\n“이 기획 적용하면 매출 상승 기대되고, 리스크는 재고인데 초도 물량으로 컨트롤 가능합니다” → 바로 결정 가능",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8vvjq",
+          "text": "2. 질문하지 말고 선택지를 가져가라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ptm5",
+          "text": "상사는 고민하는 사람이 아니라 결정하는 사람이다.\n “이거 어떻게 할까요?”→ 생각 안 하고 온 사람 같다.\n “A안은 빠른 대신 리스크 있고, B안은 안정적인데 일정이 밀립니다. 저는 B안을 추천드립니다” → 이미 고민해보고, 판단한 사람인 것",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "69sgh",
+          "text": "3. 문제를 던지지 말고 해결 방향을 제시해라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6d4hf",
+          "text": "문제만 말하는 순간 일을 넘기는 사람이 된다.\n“배송 지연 발생했습니다”→ 단순 보고\n“배송 지연 발생했고, CS 확대 예상돼서 공지 먼저 깔고 보상안 준비하려 합니다”\n→ 해결책 제시",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ahvga",
+          "text": "4. 상사가 물어보기 전에 먼저 공유해라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "afh8l",
+          "text": "상사가 먼저 물어봤다면 이미 늦은 거다.\n“왜 이거 늦어졌어요?”→ 신뢰 하락\n “현재 일정 2일 지연 예상돼서 A안으로 당겨보는 중입니다”→ 통제되고 있는 상황",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1pje",
+          "text": "누가 더 믿음직 한가.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ev0ds",
+          "text": "5. 피드백은 속도로 답해라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 18,
+              "style": "Italic"
+            }
+          ],
+          "key": "2tkuo",
+          "text": "설명보다 빠른 반영이 중요하다. “말씀 주신 부분 반영해서 수정본 공유드립니다”\n이 한 줄과 빠른 실행이 상사에게 나에대한 신뢰를 만든다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "erbje",
+          "text": "6. 상사의 일을 미리 없애라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "co3m6",
+          "text": "결론, 추천안, 리스크까지 같이 주면 상사는 생각할 필요가 없다. 상사가 질문할 걸 미리 제거하는 구조를 만들어라. (이렇게 까지 해야하나? 응. 해줘야 고과 잘 받는다.)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f2r05",
+          "text": "7. 말이 아니라 의도를 읽어라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fdv4",
+          "text": "상사의 말은 종종(아니, 매번) 모호하다. 중요한 건 말이 아니라 “왜 저 말을 했는지”다.\n이걸 읽는 순간 업무 난이도가 내려간다. 상사마다 스타일이 달라서 부딪히며 깨달아야한다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4t34h",
+          "text": "8. 상사를 절대 놀라게 하지 마라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tdpn",
+          "text": "상사는 “모르는 상태에서 터지는 일”을 가장 싫어한다. \n작은 이슈라도 먼저 공유하는 사람이 신뢰를 얻는다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2fs4g",
+          "text": "9. 의견이 다를 때는 같은 편처럼 말해라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "43t6s",
+          "text": "틀렸다가 아니라 “더 나은 선택지”로 보이게.\n “그건 아닌 것 같습니다” → 뭐지 이새끼?\n“이 방향도 이해되는데, 목표 기준으로 보면 A안이 더 빠르게 결과 낼 수 있을 것 같습니다”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "22q5l",
+          "text": "10. 잘하고 있다면 반드시 티를 내라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5e54c",
+          "text": "회사는 결과보다 “보이는 결과”로 평가한다.\n숨은 성과는 없는 성과와 같다. 쩌렁쩌렁하게 자랑해라.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "epdbu",
+          "text": "11. 상사가 두려워하는 것을 파악해라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fok97",
+          "text": "상사를 이해하는 가장 빠른 방법은 그 사람이 뭘 두려워하는지 보는 것이다.\n숫자 → 검증 강조\n일정 → 진행률 공유\n리스크 → 대비안 제시\n상사의 불안을 먼저 제거하는 사람이 신뢰를 얻는다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "10c7k",
+          "text": "12. 상사가 좋아하는 것을 파악해라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cluci",
+          "text": "업무만 보지 말고 그 사람 자체를 봐야 한다. 그리고 스몰토크에 계속 써먹어라.\n“자녀 입학 잘 마무리되셨나요?”\n“요즘 바쁘신 것 같아서 이번 건 미리 정리해봤습니다”\n이건 불필요한 배려가 아니라 상사 입장에서 호감 + 업무 효율을 높이는 사람으로 판단된다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7cb0t",
+          "text": "13. 상사의 평가 기준을 파악해라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f227h",
+          "text": "상사마다 일 잘함의 기준이 다르다.\n속도, 완성도, 숫자, 리스크\n이걸 모르고 일하면 열심히 해도 인정 못 받는다. 내 상사가 뭘 우선시하는지 알아둬라.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cjs8n",
+          "text": "14. 상사의 ‘위’를 같이 봐라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "289jp",
+          "text": "상사는 윗선을 보고 움직인다. 그래서 한 단계 더 올라가려면 그 위의 시선까지 같이 봐야 한다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "1dt42",
+          "text": "“임원 보고 때 이 포인트 강조하시면 좋을 것 같습니다”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ch2j",
+          "text": "이런 워딩으로 상사의 마음을 뺏을 수 있다. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5b276",
+          "text": "15. 상사의 언어를 복사해라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35uj9",
+          "text": "상사가 자주 쓰는 단어와 구조를 따라 써라. 심리학적으로 사람은 자기 언어를 쓰는 사람을 편하게 느낀다고한다. 참고해서 따라 써보자.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9lcq9",
+          "text": "16. 상사의 체면을 관리해라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fbac",
+          "text": "맞는 말보다 중요한 건 어떻게 보이느냐다. 특히 공개석상에서는 상사를 이기지 마라. 불만이 있어도 상사 귀에 들어가게 티내지 말라. 내 평가자다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2g31v",
+          "text": "17. 상사가 나를 설명할 수 있게 만들어라",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f60ap",
+          "text": "상사는 결국 윗선에게 나를 설명해야 한다. 그래서 \n내가 뭘 했는지, 어떤 성과를 냈는지\n한 줄로 정리해서 그대로 가져다 쓸 수 있게 만들어줘야 한다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qlm",
+          "text": "꾸준히 기회될 때마다 나를 어필하자.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1pmpv",
+          "text": "\n결론적으로\n회사에서 중요한 건 누가 더 똑똑하냐가 아니다.\n“누가 더 일하기 편한 사람이냐”다.\n고과 S 받는 사람, A받는 사람 모두 일은 잘 한다. 다만 S받는 사람은 일만 잘하는 사람이 아니라 상사가 편해지는 방식으로일의 구조를 바꾸는 사람이다.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8rff4",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "f301bd2b-f01a-4c33-a153-4399b2da9eb3",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041126452603805696"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFOJsb0aYAAKAAIcFdgnT1twAAAA",
+        "media_id": "2041126452603805696",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 100,
+                "rgb": {
+                  "blue": 246,
+                  "green": 246,
+                  "red": 240
+                }
+              }
+            ]
+          },
+          "original_img_height": 129,
+          "original_img_url": "https://pbs.twimg.com/media/HFOJsb0aYAAcaDS.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2041126452603805696"
+      }
+    ]
+  }
+}

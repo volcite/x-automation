@@ -1,0 +1,1122 @@
+{
+  "tweet_created_at": "2026-04-02T10:28:19.000000Z",
+  "id": 2039651133439046100,
+  "id_str": "2039651133439046028",
+  "type": "tweet",
+  "conversation_id_str": "2039651133439046028",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/7S7NaXdddI",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 106905994,
+    "id_str": "106905994",
+    "name": "Dr.もさり｜山本 康博",
+    "screen_name": "drmosari",
+    "location": "日本",
+    "url": "https://note.com/mosarinko",
+    "description": "東大医学部卒｜総合内科・呼吸器専門医｜医学博士｜経営者・富裕層パーソナルドクター｜ Nature姉妹誌筆頭著者｜トレーニング歴17年｜寿命とパフォーマンスを最大化する医学知識を発信｜noteで経営者の健康戦略を公開中",
+    "protected": false,
+    "verified": true,
+    "followers_count": 30092,
+    "friends_count": 411,
+    "listed_count": 89,
+    "favourites_count": 6746,
+    "statuses_count": 2110,
+    "created_at": "2010-01-21T01:34:59.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/106905994/1774326300",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2036298002051244036/-NkTW0C4_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 217,
+  "reply_count": 58,
+  "retweet_count": 1110,
+  "favorite_count": 4294,
+  "views_count": 742136,
+  "bookmark_count": 2548,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2034…",
+        "expanded_url": "http://x.com/i/article/2034879414480379904",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/7S7NaXdddI"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T10:28:19.000000Z",
+    "id": 2039651133439046100,
+    "id_str": "2039651133439046028",
+    "title": "虫垂、扁桃、胸腺。医学が「いらない」と切り捨てた臓器が、全部キーパーツだった ",
+    "preview_text": "虫垂、扁桃、胸腺。\nこの3つ、共通点がある。 全部、医学の世界で長いこと「いらない」扱いされてきた。\n虫垂は「進化の残りカス」。 扁桃腺(扁桃)は「腫れたら取ればいい」。 胸腺は「大人になったら動いてない」。",
+    "cover_url": "https://pbs.twimg.com/media/HE8raOObIAA-j7d.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agmtp",
+          "text": "虫垂、扁桃、胸腺。",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7lhp",
+          "text": "この3つ、共通点がある。 全部、医学の世界で長いこと「いらない」扱いされてきた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b7n8p",
+          "text": "虫垂は「進化の残りカス」。 扁桃腺(扁桃)は「腫れたら取ればいい」。 胸腺は「大人になったら動いてない」。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ftjl",
+          "text": "自分も医学部でそう教わった。 教科書にもそういうニュアンスで書いてあったし、先輩の外科医も「虫垂なんて取って困ったことないよ」と普通に言っていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cdt6",
+          "text": "で、ここ数年。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f0r87",
+          "text": "全部、手のひら返されている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bg10f",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "804qe",
+          "text": "虫垂：腸内細菌の「避難所」かもしれない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qitp",
+          "text": "虫垂はずっと「進化の名残」扱いだった。 虫垂炎になったらサクッと切る。予防的に切ることすらあった時代もある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "fc342",
+          "text": "ところがこの虫垂、腸内の善玉菌にとっての「避難所」として働いている可能性があることがわかってきた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "780vn",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "65bc2",
+          "text": "どういうことか。\n食中毒とか抗菌薬で腸内細菌がいったん全滅しても、虫垂にこっそり残っていた菌が腸に戻ってきて、もう一度腸内環境を立て直す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "iea9",
+          "text": "腸内細菌のバックアップ装置。USBメモリみたいな臓器なのかもしれない。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "75au0",
+          "text": "外来で患者さんにこの話をすると、たいてい「え、そうなんですか？」という顔をされる。自分も研修医のとき知らなかったので偉そうなことは言えない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8bj9t",
+          "text": "で、このバックアップを失うとどうなるか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1eki1",
+          "text": "香港の約13万人を20年追跡した研究で、虫垂を切除した群は大腸がんリスクが73%高かった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80s8m",
+          "text": "ただしこれは単一コホートの結果。欧州の約59万人を対象にしたプール解析ではリスク増加は認められていない。地域差や食習慣の違いが関与している可能性があり、まだ決着はついていない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8oku7",
+          "text": "虫垂を切除した人では腸内細菌の多様性が低く、腸の粘膜を守ったり免疫を調整したりしている菌が少ないことが報告されている（ただし再現されていない研究もある）。こうした菌が作る物質の減少が、長期的なリスクに関わっている可能性がある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbhig",
+          "text": "全部が確定した話ではないし、観察研究なので「虫垂を取ったから病気になった」と因果を断定できる段階でもない。でも少なくとも「切っても何も起きない」は間違いだった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "78mjo",
+          "text": "もちろん、急性虫垂炎は放置すれば穿孔して命に関わる。必要な手術は迷わずやるべき。もし虫垂をすでに切除した人がいたとしても、それは切除すべきなのだったと思う。昔の人々は虫垂炎で亡くなっていた。ここで問題にしているのは「いらない臓器だから気軽に取っていい」という認識のほうである。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6d329",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brs5n",
+          "text": "扁桃腺：摘出後の長期リスクが議論されている",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3tqn0",
+          "text": "扁桃腺(扁桃)も同じ流れ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2mdit",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bmqi2",
+          "text": "「しょっちゅう腫れるなら取っちゃいましょう」が長年の定番で、自分が子どもの頃は周りにも扁桃腺取った子がけっこういた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lh45",
+          "text": "2018年にデンマークの研究がこの常識に疑問を投げかけた。規模がすごくて、約120万人の子どもを最長30年追跡している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bnpii",
+          "text": "9歳までに扁桃腺を取った群は、取らなかった群に比べて上気道の病気になるリスクが約2.7倍。アデノイド（鼻の奥の扁桃）を取った群もCOPDリスク約2倍、上気道疾患リスク約2倍という結果だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qsai",
+          "text": "120万人で30年追跡って、もうほぼ「国ごと調べました」みたいな規模。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8n3fo",
+          "text": "ただし、この研究には批判もある。手術を受けた群はもともと扁桃肥大や反復感染など上気道に問題を抱えていた子どもたちで、健康な子どもと比べている。「手術のせいでリスクが上がった」のか「もともとリスクが高い子が手術を受けた」のか、切り分けられないという指摘である。その後の研究では摘出後も感染頻度は変わらなかったという報告もあり、学会のガイドラインでも、摘出が有意な臨床的免疫障害を起こすとは現時点では言えない、という整理になっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2p9pl",
+          "text": "扁桃腺は喉の入口にある免疫の門番で、ウイルスや細菌が体に入ってくるのを最初に迎え撃つ場所。免疫の抗体を作る細胞が育つ拠点でもある。免疫学的な役割があること自体は確かで、だからこそ「適応のある症例で、利益とリスクを個別に判断する」という考え方が今のエビデンスには合っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpnat",
+          "text": "ここまでは「ふーん、そういう話あるんだ」で済むかもしれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e0h9k",
+          "text": "次の胸腺がちょっとレベルが違う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6ha53",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eo5oa",
+          "text": "胸腺：2026年3月のNature論文がひっくり返した常識",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7h0i4",
+          "text": "胸腺は胸骨の裏にある小さな臓器で、免疫の主力部隊であるT細胞を育てる場所だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "74r5u",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "657jv",
+          "text": "子どもの頃はバリバリ働いているけど、大人になると縮んで脂肪に置き換わっていく。だから「大人の胸腺はもう動いていない」というのがずっと常識だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1f8e5",
+          "text": "心臓手術のとき邪魔なら取る。甲状腺の手術のついでに取る。まあ大丈夫でしょう、と。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6i33t",
+          "text": "自分も呼吸器内科医として胸のCTは毎日のように読んでいるけど、成人の胸腺なんて正直ほとんど気にしていなかった。「うんうん。ここ、昔は胸腺だったところね」くらいの感覚で流していた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8fdbv",
+          "text": "この認識が崩れ始めたのが2023年。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1e6os",
+          "text": "臨床研究で最高峰の雑誌であるNEJMに出た研究で、成人の胸腺切除1,420人と、似たような心臓手術を受けたけど胸腺は残した6,021人を比較した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ejijf",
+          "text": "5年後。 胸腺を取った群の全死亡リスクは2.9倍。がんリスクは2.0倍。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8fkjd",
+          "text": "血液を調べると、胸腺を取った群ではT細胞の新しい供給が落ちていて、体の中の炎症を示す物質が上がっていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1j3hv",
+          "text": "NEJMのエディトリアルに「胸腺は大人にとっても墓場ではなかった」と書かれて、免疫の研究者たちがざわついた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fur5s",
+          "text": "でもこの研究は「胸腺を手術で全摘した人」の話。 それってかなり特殊な状況だから、普通の人にどこまで当てはまるのかはわからなかった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fc69",
+          "text": "そこに来たのが、2026年3月18日のNature論文。1週間前に出た論文だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dpvr3",
+          "text": "今度は「胸腺を取った人」ではなく、「普通の大人27,612人」の胸腺をAIで調べている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "926oi",
+          "text": "胸のCTからAIで胸腺がどれくらい元気に残っているかを「胸腺健康度」として自動スコアリング。それを12年間追跡した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7p6j5",
+          "text": "使ったデータは2つ。肺がんスクリーニング試験（NLST）の25,031人と、フラミンガム心臓研究の2,581人。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2anf",
+          "text": "結果が衝撃的。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8abgq",
+          "text": "胸腺が元気な群は、ダメになっている群と比べて：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 21,
+              "offset": 45,
+              "style": "Bold"
+            }
+          ],
+          "key": "24o8s",
+          "text": "・死亡リスクが約半分 \n・肺がんになる確率が36%低い \n・肺がんで死ぬ確率が約半分 \n・心臓や血管の病気で死ぬ確率が63%以上低い",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddr0e",
+          "text": "年齢、性別、喫煙歴、持病で調整しても変わらない。2つの別々の集団で同じ方向の結果が出ている。もちろんこれも観察研究なので、胸腺が元気だから長生きしたのか、元気な人の胸腺が保たれていたのかは切り分けられない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3rut9",
+          "text": "自分がこの論文読んで一番「おおっ」と思ったのは、胸腺の元気さに個人差がめちゃくちゃあるという点だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "akutc",
+          "text": "同じ65歳でも、胸腺がしっかり残っている人と、ほぼ脂肪に置き換わっている人がいる。その差が生活習慣と結びついていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "frt3u",
+          "text": "タバコを吸う年数と本数が多いほど胸腺はダメになる。太っている人ほどダメになる。運動している人ほど元気。慢性的に体の中で炎症が起きている人ほどダメ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "elev8",
+          "text": "胸腺の中身が脂肪に入れ替わっていくスピードは、日々の生活で変わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bqoh",
+          "text": "「大人になったら用済み」どころか、免疫の老化とあらゆる病気のリスクの真ん中にいた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5dffq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aacu7",
+          "text": "3つ並べると見えてくるもの",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5r8jk",
+          "text": "虫垂は腸内細菌のバックアップ装置。 \n扁桃腺は喉の免疫の門番。 \n胸腺はT細胞を供給し続ける免疫の心臓部。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ci2cu",
+          "text": "全部、免疫に関わっている。 全部、「いらない」と言われていた。 全部、失うと長い時間をかけて何かが崩れる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "22atd",
+          "text": "人間の体に本当に「いらない臓器」なんてなかったんじゃないかと思えてくる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cqn2m",
+          "text": "誤解のないように書いておくと、これは「絶対に取るな」という話ではない。虫垂炎も反復性扁桃炎も胸腺腫も、手術が必要なときは必要。自分も臨床の現場にいる人間として、必要な手術を躊躇させたいわけじゃない。ただ「取っても何も変わらない」という前提のほうが間違いだったという話。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7r2a5",
+          "text": "自分が医学生だった頃、虫垂も扁桃腺も胸腺も「退化した臓器」として軽く流された。でも結局、意味がわかっていなかっただけだった。当時の医学では、それがベストな選択肢だったんだとは思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv61h",
+          "text": "医学って定期的にこういうことをやる。「意味がない」と思っていたものに、あとから意味が見つかる。たぶんこの先も、今「なくてもいい」とされている何かが再評価される。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "90qom",
+          "text": "自分たちの体は、自分たちが思っているよりずっと精密にできている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4h8fg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2u3lv",
+          "text": "じゃあ何をすればいいか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4q5pr",
+          "text": "虫垂と扁桃腺はもう取ってしまった人もいると思う。それは仕方がない。\nただ、腸内環境を意識的にケアすることで虫垂がなくなった分をある程度カバーできる可能性は示されている。食物繊維、発酵食品、十分な睡眠。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42pd4",
+          "text": "胸腺については、今回のNature論文が伝えているのは「生活習慣で胸腺の老化スピードが変わる」ということ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33kro",
+          "text": "やることはシンプルで：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6112m",
+          "text": "・タバコをやめる（1日の本数より「吸ってきた年数」のほうが効いている） ・太りすぎない（体重が増えるほど胸腺は脂肪に置き換わりやすい） \n・運動する（週に何回か体を動かしている人ほど胸腺が元気だった） \n・慢性的な炎症を減らす（加工食品、睡眠不足、内臓脂肪。心当たりがある人は多いはず）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "da4nc",
+          "text": "書き出してみると、これまでずっと言われてきた健康の基本とほぼ同じだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fcpao",
+          "text": "ただ「なぜそれが効くのか」の説明にピースが1つ加わった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "on2a",
+          "text": "禁煙も、体重管理も、運動も、「なんとなく体にいいこと」ではなく「免疫の司令塔である胸腺を守るための戦略」として説明できるようになった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7noop",
+          "text": "動機づけが変わると行動が変わる。 これは地味にデカいと自分は思っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dv569",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2i4h",
+          "text": "ここまで読んでくださってありがとうございました。\nよかったらいいねやリポストをしていただけると嬉しいです。\nフォローで最新のエビデンスが毎日届きます。\n\nnoteもやっています。メンバーシップでより深い記事を配信しています。\n初月無料、退会いつでも可能です。ぜひ気軽にお試しを。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "257e644a-79ba-41e1-b750-c387da250517"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "cd345db0-c12a-4ede-8531-5eb58fd9352b"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "49cc7d1a-ef64-442d-a8d4-bf61a8318478",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2034880080904949760"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "4d114ba7-b5e8-45ce-b848-cbb516fc476e"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "18359dba-d30f-44bf-9f42-598517bf30e0",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2034879961090465793"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "a680c647-0fa0-4be5-b936-5e513928d3b2"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "6b856a47-7620-47d8-96ca-5a3495473640"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "619ca682-9bfb-4feb-bf27-13800292a2d2"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "b07b88b6-73ed-48f1-a0b2-6eefc70cfda6",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2034880021186453508"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHD1YixlboAEKAAIAAAAABl9BigAA",
+        "media_id": "2034879961090465793",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 85.02,
+                "rgb": {
+                  "blue": 33,
+                  "green": 20,
+                  "red": 9
+                }
+              },
+              {
+                "percentage": 8.34,
+                "rgb": {
+                  "blue": 172,
+                  "green": 170,
+                  "red": 152
+                }
+              },
+              {
+                "percentage": 1.41,
+                "rgb": {
+                  "blue": 116,
+                  "green": 110,
+                  "red": 75
+                }
+              },
+              {
+                "percentage": 0.28,
+                "rgb": {
+                  "blue": 123,
+                  "green": 122,
+                  "red": 66
+                }
+              },
+              {
+                "percentage": 0.18,
+                "rgb": {
+                  "blue": 72,
+                  "green": 88,
+                  "red": 92
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HD1YixlboAEaxW-.jpg",
+          "original_img_width": 2752
+        },
+        "media_key": "3_2034879961090465793"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHD1YmRdboAQKAAIAAAAABl9BigAA",
+        "media_id": "2034880021186453508",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 80.34,
+                "rgb": {
+                  "blue": 39,
+                  "green": 27,
+                  "red": 15
+                }
+              },
+              {
+                "percentage": 10.1,
+                "rgb": {
+                  "blue": 131,
+                  "green": 125,
+                  "red": 85
+                }
+              },
+              {
+                "percentage": 7.97,
+                "rgb": {
+                  "blue": 185,
+                  "green": 179,
+                  "red": 146
+                }
+              },
+              {
+                "percentage": 0.68,
+                "rgb": {
+                  "blue": 129,
+                  "green": 126,
+                  "red": 84
+                }
+              },
+              {
+                "percentage": 0.24,
+                "rgb": {
+                  "blue": 55,
+                  "green": 77,
+                  "red": 82
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HD1YmRdboAQCL2A.jpg",
+          "original_img_width": 2752
+        },
+        "media_key": "3_2034880021186453508"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHD1Ypv7bkAAKAAIAAAAABl9BigAA",
+        "media_id": "2034880080904949760",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 82.87,
+                "rgb": {
+                  "blue": 37,
+                  "green": 24,
+                  "red": 9
+                }
+              },
+              {
+                "percentage": 6.92,
+                "rgb": {
+                  "blue": 181,
+                  "green": 186,
+                  "red": 188
+                }
+              },
+              {
+                "percentage": 1.78,
+                "rgb": {
+                  "blue": 114,
+                  "green": 114,
+                  "red": 47
+                }
+              },
+              {
+                "percentage": 1.66,
+                "rgb": {
+                  "blue": 56,
+                  "green": 79,
+                  "red": 92
+                }
+              },
+              {
+                "percentage": 0.39,
+                "rgb": {
+                  "blue": 52,
+                  "green": 32,
+                  "red": 12
+                }
+              }
+            ]
+          },
+          "original_img_height": 1536,
+          "original_img_url": "https://pbs.twimg.com/media/HD1Ypv7bkAArvpu.jpg",
+          "original_img_width": 2752
+        },
+        "media_key": "3_2034880080904949760"
+      }
+    ]
+  }
+}

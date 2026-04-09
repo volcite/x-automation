@@ -1,0 +1,1588 @@
+{
+  "tweet_created_at": "2026-04-03T09:35:27.000000Z",
+  "id": 2040000216456143000,
+  "id_str": "2040000216456143002",
+  "type": "tweet",
+  "conversation_id_str": "2040000216456143002",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/7TIGxBpQt5",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1226636978256564200,
+    "id_str": "1226636978256564226",
+    "name": "darkzodchi",
+    "screen_name": "zodchiii",
+    "location": "",
+    "url": "https://t.me/zodchixquant",
+    "description": "ai & finance entrepreneur • @polymarketeye building • @zscdao • sharing what I learn along the way",
+    "protected": false,
+    "verified": true,
+    "followers_count": 12953,
+    "friends_count": 404,
+    "listed_count": 91,
+    "favourites_count": 4389,
+    "statuses_count": 2222,
+    "created_at": "2020-02-09T22:40:28.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226636978256564226/1767877872",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1999509933302124544/ABxY9N7S_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 34,
+  "reply_count": 47,
+  "retweet_count": 181,
+  "favorite_count": 2739,
+  "views_count": 2059371,
+  "bookmark_count": 13441,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039979730460344320",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/7TIGxBpQt5"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T09:35:27.000000Z",
+    "id": 2040000216456143000,
+    "id_str": "2040000216456143002",
+    "title": "8 Claude Code Hooks That Automate What You Keep Forgetting ",
+    "preview_text": "Have you ever told Claude Code to do something and it just didn't?\nYou said format the code - It didn't. You said don't touch that file - It did. \nYou said run tests before finishing - It forgot.",
+    "cover_url": "https://pbs.twimg.com/media/HE-H4DhXwAAV4XA.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7oqic",
+          "text": "Have you ever told Claude Code to do something and it just didn't?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4a2j3",
+          "text": "You said format the code - It didn't. You said don't touch that file - It did. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1kg3",
+          "text": "You said run tests before finishing - It forgot.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3c33",
+          "text": "That's because CLAUDE.md is a suggestion.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "46o39",
+          "text": " Claude reads it and follows it about 80% of the time. Hooks are different. They're automatic actions that fire every time Claude edits a file, runs a command, or finishes a task.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 110
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5i2l",
+          "text": "Below I will share 8 personal hooks you can copy straight into your settings.json and never think about again 👇",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 83,
+                "text": "https://t.me/zodchixquant",
+                "toIndex": 108
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 108
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 83,
+              "style": "Bold"
+            }
+          ],
+          "key": "6p2t",
+          "text": "Before we dive in, I share daily notes on AI & vibe coding in my Telegram channel: https://t.me/zodchixquant🧠",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d6j5q",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7i1ll",
+          "text": "How hooks work (30-second version)\n\nWhat are hooks?",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bv5vh",
+          "text": "Hooks are automatic actions that run every time Claude Code does something, like editing a file or running a command. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7poom",
+          "text": "You set them up once and they work in the background without you thinking about it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "393m9",
+          "text": "The two you'll use most:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cnf7s",
+          "text": "PreToolUse runs before Claude does something. You can inspect the action and block it by returning exit code 2. Think of it as a bouncer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2sij2",
+          "text": "PostToolUse runs after Claude does something. You can run cleanup, formatting, tests, or logging. Think of it as quality control on the assembly line.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1thaj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "btrpf",
+          "text": "You configure them in .claude/settings.json in your project root. That file gets committed to git, so your whole team gets the same hooks automatically.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 20,
+                "text": "https://code.claude.com/docs/en/hooks",
+                "toIndex": 57
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 37,
+              "offset": 20
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dmm6d",
+          "text": "Full documentation: https://code.claude.com/docs/en/hooks",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bush3",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9q38c",
+          "text": "1. Auto-format every file Claude touches",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "38ep2",
+          "text": "The problem: Claude writes correct code that breaks your formatting rules. You add \"always run Prettier\" to CLAUDE.md and it works most of the time, but not always.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e1elg",
+          "text": "The hook: Prettier runs automatically after every file write or edit.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f208",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 5,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 58,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 76,
+              "style": "Bold"
+            },
+            {
+              "length": 7,
+              "offset": 90,
+              "style": "Bold"
+            }
+          ],
+          "key": "9pt7u",
+          "text": "Swap npx prettier --write for whatever formatter you use: black for Python, gofmt for Go, rustfmt for Rust. The pattern is the same.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7gtbt",
+          "text": "This was the first hook I set up and honestly it should be the default for every project. No more \"Claude forgot to format\" commits.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b7lqi",
+          "text": "2. Block dangerous commands",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bnmho",
+          "text": "The problem: Claude is powerful enough to run rm -rf, git reset --hard, DROP TABLE, or curl to random URLs. It probably won't, but \"probably\" isn't good enough when it's your production database.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "69l9u",
+          "text": "The hook: Block destructive commands before they execute.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar2ag",
+          "text": "Create .claude/hooks/block-dangerous.sh:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6jn82",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ae9s",
+          "text": "Then add to your settings.json:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ekkhj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6c435",
+          "text": "Exit code 2 is the key. It blocks the action and sends your error message back to Claude so it can try a safer approach. Exit code 0 means \"go ahead.\" Anything else logs a warning but doesn't block.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c22qn",
+          "text": "3. Protect sensitive files from edits",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 24,
+              "offset": 77,
+              "style": "Bold"
+            }
+          ],
+          "key": "3e8us",
+          "text": "The problem: Claude can read and edit any file in your project. That includes .env, package-lock.json, config files, and anything else you'd rather it didn't touch.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2ndlt",
+          "text": "The hook: Block edits to files that should be off-limits.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "9k4jl",
+          "text": "Create .claude/hooks/protect-files.sh:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1hntj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c71lg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1260a",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajis3",
+          "text": "4. Run tests after every edit",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cl1l8",
+          "text": "The problem: Claude makes a change, says \"done,\" and you discover the tests are broken 20 minutes later when you try to commit.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1bk02",
+          "text": "The hook: Run your test suite automatically after every code change. If tests fail, Claude sees the failure and can fix it immediately.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e9bs8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "25q9t",
+          "text": "The tail -5 keeps the output short so it doesn't flood Claude's context. You want Claude to see \"3 tests failed\" not the full 200-line test output.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ct0uh",
+          "text": "Boris Cherny, the creator of Claude Code, says giving Claude a feedback loop like this improves output quality by 2-3x. Instead of writing code and hoping it works, Claude writes code, sees the test results, and fixes failures on its own.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "91aih",
+          "text": "5. Require passing tests before creating a PR",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9sijd",
+          "text": "The problem: Claude finishes a feature and immediately creates a PR. Tests are failing. Your reviewer sees red CI and sends it back.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "562em",
+          "text": "The hook: Block PR creation unless all tests pass.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "4d9oi",
+          "text": "Create .claude/hooks/require-tests-for-pr.sh:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bpdic",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ba0kv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d2dmh",
+          "text": "This is a hard gate. No green tests, no PR. Claude will fix the failures first because exit code 2 tells it the action was blocked and why.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3vj6p",
+          "text": "6. Auto-lint and report errors",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cm9hq",
+          "text": "The problem: Claude writes code that works but violates your ESLint rules, style guide, or type checks. You catch it during review and send it back.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "99jpf",
+          "text": "The hook: Lint after every edit. If lint fails, Claude sees the errors and fixes them before you ever look at the code.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f48kf",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cfkek",
+          "text": "You can chain this with the auto-format hook from #1. Prettier runs first, then ESLint. By the time you see the code, it's formatted and lint-clean.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bd418",
+          "text": "7. Log every command Claude runs",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bhpg6",
+          "text": "The problem: Claude runs a lot of shell commands during a session. If something goes wrong, you want to know exactly what it did and when.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1jfqk",
+          "text": "The hook: Append every Bash command to a log file with timestamps.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "cfg1e",
+          "text": "Create .claude/hooks/log-commands.sh:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eg6bp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "69hok",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 72,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 105,
+              "style": "Bold"
+            }
+          ],
+          "key": "978pc",
+          "text": "Now you have a timestamped audit trail of every command Claude ran. Add .claude/command-log.txt to your .gitignore so it doesn't pollute your repo.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5c5ft",
+          "text": "This is especially useful for debugging: if Claude broke something three sessions ago, you can look at the log and find exactly when and what it ran.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bsfrn",
+          "text": "8. Auto-commit after each completed task",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cn207",
+          "text": "The problem: Claude finishes a task and you forget to commit. Then it starts another task and now you have two unrelated changes mixed together in one commit.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dl91",
+          "text": "The hook: Automatically commit all changes when Claude stops working on a task.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 6,
+              "style": "Bold"
+            }
+          ],
+          "key": "s6i1",
+          "text": "Create .claude/hooks/auto-commit.sh:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1j11f",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5f130",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjcim",
+          "text": "Every time Claude finishes a response, changes get committed automatically. Your git history stays clean with atomic commits per task instead of one massive \"Claude changes\" blob at the end of the day.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 18,
+              "style": "Bold"
+            }
+          ],
+          "key": "a786p",
+          "text": "Combine this with claude -w feature-branch (worktrees) and you get isolated, auto-committed feature branches for every task.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ekdb1",
+          "text": "The complete settings.json",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "11m9n",
+          "text": "Here's everything combined into one file you can copy-paste:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2f1b",
+          "text": "Screenshot-friendly:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 19,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "curbd",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 20,
+              "style": "Bold"
+            },
+            {
+              "length": 15,
+              "offset": 70,
+              "style": "Bold"
+            },
+            {
+              "length": 27,
+              "offset": 112,
+              "style": "Bold"
+            }
+          ],
+          "key": "4uqg4",
+          "text": "Copy this file into .claude/settings.json, create the hook scripts in .claude/hooks/, make them executable with chmod +x .claude/hooks/*.sh, and commit everything to git. Your whole team gets the same safety nets automatically.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 20,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "12gil",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7rb8i",
+          "text": "The difference between a good Claude Code setup and a great one isn't the model or the prompts. It's the hooks. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "404sd",
+          "text": "They're the part that runs when you're not paying attention, catching the mistakes you'd otherwise find during code review or worse, in production.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6o1n2",
+          "text": "Set up hook #1 (auto-format) and #2 (block dangerous commands) today. That alone will save you from the most common Claude Code mistakes. Add the rest as you need them.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 76,
+                "text": "https://t.me/zodchixquant",
+                "toIndex": 101
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 76,
+              "style": "Bold"
+            }
+          ],
+          "key": "cs1fv",
+          "text": "I share daily notes on AI, finance, and vibe coding in my Telegram channel: https://t.me/zodchixquant",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 21,
+              "length": 2,
+              "offset": 19
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cv678",
+          "text": "Thanks for reading 🙏🏼",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 22,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9269l",
+          "text": " ",
+          "type": "atomic"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "markdown": "```\n#!/usr/bin/env bash\nset -euo pipefail\n\nif npm run test --silent; then\n  exit 0\nelse\n  echo \"Tests are failing. Fix all test failures before creating a PR.\" >&2\n  exit 2\nfi\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "markdown": "```json\n{\n  \"hooks\": {\n    \"PreToolUse\": [\n      {\n        \"matcher\": \"Bash\",\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \".claude/hooks/block-dangerous.sh\"\n          }\n        ]\n      }\n    ]\n  }\n}\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "entityKey": "ea3a990e-e02e-4a5d-8a29-36d76de1b4bb",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039983268309655552"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://code.claude.com/docs/en/hooks"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "markdown": "```bash\n#!/usr/bin/env bash\nset -euo pipefail\ncmd=$(jq -r '.tool_input.command // \"\"')\nprintf '%s %s\\n' \"$(date -Is)\" \"$cmd\" >> .claude/command-log.txt\nexit 0\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "markdown": "```json\n{\n  \"hooks\": {\n    \"PostToolUse\": [\n      {\n        \"matcher\": \"Write|Edit\",\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \"npm run test --silent 2>&1 | tail -5; exit 0\"\n          }\n        ]\n      }\n    ]\n  }\n}\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "markdown": "```bash\n#!/usr/bin/env bash\nset -euo pipefail\nfile=$(jq -r '.tool_input.file_path // .tool_input.path // \"\"')\n\nprotected=(\n  \".env*\"\n  \".git/*\"\n  \"package-lock.json\"\n  \"yarn.lock\"\n  \"*.pem\"\n  \"*.key\"\n  \"secrets/*\"\n)\n\nfor pattern in \"${protected[@]}\"; do\n  if echo \"$file\" | grep -qiE \"^${pattern//\\*/.*}$\"; then\n    echo \"Blocked: '$file' is protected. Explain why this edit is necessary.\" >&2\n    exit 2\n  fi\ndone\nexit 0\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "entityKey": "cf4a9dc2-7ea2-4499-b032-00614094965a",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039983798868185088"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "markdown": "```json\n{\n  \"hooks\": {\n    \"PreToolUse\": [\n      {\n        \"matcher\": \"mcp__github__create_pull_request\",\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \".claude/hooks/require-tests-for-pr.sh\"\n          }\n        ]\n      }\n    ]\n  }\n}\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "markdown": "```json\n{\n  \"hooks\": {\n    \"PreToolUse\": [\n      {\n        \"matcher\": \"Bash\",\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \".claude/hooks/log-commands.sh\"\n          }\n        ]\n      }\n    ]\n  }\n}\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "7596f7b2-c076-4848-8825-20f9caf755a3",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039986664056188928"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "markdown": "```bash\n{\n  \"hooks\": {\n    \"PreToolUse\": [\n      {\n        \"matcher\": \"Edit|Write\",\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \".claude/hooks/protect-files.sh\"\n          }\n        ]\n      }\n    ]\n  }\n}\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f64f-1f3fc.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "markdown": "```json\n{\n  \"hooks\": {\n    \"PostToolUse\": [\n      {\n        \"matcher\": \"Write|Edit\",\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \"jq -r '.tool_input.file_path' | xargs npx prettier --write 2>/dev/null; exit 0\"\n          }\n        ]\n      }\n    ]\n  }\n}\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f9e0.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "markdown": "```bash\n#!/usr/bin/env bash\nset -euo pipefail\ngit add -A\nif ! git diff --cached --quiet; then\n  git commit -m \"chore(ai): apply Claude edit\"\nfi\nexit 0\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "markdown": "```json\n{\n  \"hooks\": {\n    \"PostToolUse\": [\n      {\n        \"matcher\": \"Write|Edit\",\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \"npx eslint --fix $(jq -r '.tool_input.file_path') 2>&1 | tail -10; exit 0\"\n          }\n        ]\n      }\n    ]\n  }\n}\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f447.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "markdown": "```json\n{\n  \"hooks\": {\n    \"PreToolUse\": [\n      {\n        \"matcher\": \"Bash\",\n        \"hooks\": [\n          { \"type\": \"command\", \"command\": \".claude/hooks/block-dangerous.sh\" },\n          { \"type\": \"command\", \"command\": \".claude/hooks/log-commands.sh\" }\n        ]\n      },\n      {\n        \"matcher\": \"Edit|Write\",\n        \"hooks\": [\n          { \"type\": \"command\", \"command\": \".claude/hooks/protect-files.sh\" }\n        ]\n      },\n      {\n        \"matcher\": \"mcp__github__create_pull_request\",\n        \"hooks\": [\n          { \"type\": \"command\", \"command\": \".claude/hooks/require-tests-for-pr.sh\" }\n        ]\n      }\n    ],\n    \"PostToolUse\": [\n      {\n        \"matcher\": \"Write|Edit\",\n        \"hooks\": [\n          { \"type\": \"command\", \"command\": \"jq -r '.tool_input.file_path' | xargs npx prettier --write 2>/dev/null; exit 0\" },\n          { \"type\": \"command\", \"command\": \"npx eslint --fix $(jq -r '.tool_input.file_path') 2>&1 | tail -10; exit 0\" }\n        ]\n      }\n    ],\n    \"Stop\": [\n      {\n        \"matcher\": \"\",\n        \"hooks\": [\n          { \"type\": \"command\", \"command\": \".claude/hooks/auto-commit.sh\" }\n        ]\n      }\n    ]\n  }\n}\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "28634f1b-fc8b-4298-a470-304fd1bacd86",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039984761519980544"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "markdown": "```json\n{\n  \"hooks\": {\n    \"Stop\": [\n      {\n        \"matcher\": \"\",\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \".claude/hooks/auto-commit.sh\"\n          }\n        ]\n      }\n    ]\n  }\n}\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "markdown": "```bash\nCreate .claude/hooks/block-dangerous.sh:\n#!/usr/bin/env bash\nset -euo pipefail\ncmd=$(jq -r '.tool_input.command // \"\"')\n\ndangerous_patterns=(\n  \"rm -rf\"\n  \"git reset --hard\"\n  \"git push.*--force\"\n  \"DROP TABLE\"\n  \"DROP DATABASE\"\n  \"curl.*|.*sh\"\n  \"wget.*|.*bash\"\n)\n\nfor pattern in \"${dangerous_patterns[@]}\"; do\n  if echo \"$cmd\" | grep -qiE \"$pattern\"; then\n    echo \"Blocked: '$cmd' matches dangerous pattern '$pattern'. Propose a safer alternative.\" >&2\n    exit 2\n  fi\ndone\nexit 0\nThen add to your settings.json:\n{\n  \"hooks\": {\n    \"PreToolUse\": [\n      {\n        \"matcher\": \"Bash\",\n        \"hooks\": [\n          {\n            \"type\": \"command\",\n            \"command\": \".claude/hooks/block-dangerous.sh\"\n          }\n        ]\n      }\n    ]\n  }\n}\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nWhere hooks live:\n\n.claude/settings.json         project-level (shared via git)\n~/.claude/settings.json       user-level (all your projects)\n.claude/settings.local.json   local only (not committed)\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE97VRGbwAAKAAIRBePVLVdQAgAA",
+        "media_id": "2039984761519980544",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 44.87,
+                "rgb": {
+                  "blue": 195,
+                  "green": 213,
+                  "red": 214
+                }
+              },
+              {
+                "percentage": 35.09,
+                "rgb": {
+                  "blue": 3,
+                  "green": 0,
+                  "red": 2
+                }
+              },
+              {
+                "percentage": 5.43,
+                "rgb": {
+                  "blue": 88,
+                  "green": 61,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 4.36,
+                "rgb": {
+                  "blue": 62,
+                  "green": 93,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 0.57,
+                "rgb": {
+                  "blue": 168,
+                  "green": 242,
+                  "red": 238
+                }
+              }
+            ]
+          },
+          "original_img_height": 728,
+          "original_img_url": "https://pbs.twimg.com/media/HE97VRGbwAAxT84.jpg",
+          "original_img_width": 728
+        },
+        "media_key": "3_2039984761519980544"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE99EAmacAAKAAIRBePVLVdQAgAA",
+        "media_id": "2039986664056188928",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.36,
+                "rgb": {
+                  "blue": 30,
+                  "green": 30,
+                  "red": 30
+                }
+              },
+              {
+                "percentage": 0.64,
+                "rgb": {
+                  "blue": 104,
+                  "green": 104,
+                  "red": 104
+                }
+              }
+            ]
+          },
+          "original_img_height": 600,
+          "original_img_url": "https://pbs.twimg.com/media/HE99EAmacAAlKYv.jpg",
+          "original_img_width": 1724
+        },
+        "media_key": "3_2039986664056188928"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE95+WdWYAAKAAIRBePVLVdQAgAA",
+        "media_id": "2039983268309655552",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.77,
+                "rgb": {
+                  "blue": 245,
+                  "green": 249,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 0.11,
+                "rgb": {
+                  "blue": 199,
+                  "green": 210,
+                  "red": 187
+                }
+              }
+            ]
+          },
+          "original_img_height": 948,
+          "original_img_url": "https://pbs.twimg.com/media/HE95-WdWYAAUNRm.jpg",
+          "original_img_width": 1600
+        },
+        "media_key": "3_2039983268309655552"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE96dO8XEAAKAAIRBePVLVdQAgAA",
+        "media_id": "2039983798868185088",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 36.68,
+                "rgb": {
+                  "blue": 219,
+                  "green": 195,
+                  "red": 161
+                }
+              },
+              {
+                "percentage": 19.53,
+                "rgb": {
+                  "blue": 115,
+                  "green": 134,
+                  "red": 130
+                }
+              },
+              {
+                "percentage": 12.55,
+                "rgb": {
+                  "blue": 36,
+                  "green": 33,
+                  "red": 30
+                }
+              },
+              {
+                "percentage": 7.13,
+                "rgb": {
+                  "blue": 98,
+                  "green": 167,
+                  "red": 169
+                }
+              },
+              {
+                "percentage": 5.77,
+                "rgb": {
+                  "blue": 22,
+                  "green": 80,
+                  "red": 51
+                }
+              }
+            ]
+          },
+          "original_img_height": 920,
+          "original_img_url": "https://pbs.twimg.com/media/HE96dO8XEAAYu5M.jpg",
+          "original_img_width": 736
+        },
+        "media_key": "3_2039983798868185088"
+      }
+    ]
+  }
+}

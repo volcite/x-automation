@@ -1,0 +1,504 @@
+{
+  "tweet_created_at": "2026-04-06T08:01:22.000000Z",
+  "id": 2041063700862558500,
+  "id_str": "2041063700862558427",
+  "type": "tweet",
+  "conversation_id_str": "2041063700862558427",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/fiLzSYmXCi",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1310440577922605000,
+    "id_str": "1310440577922605056",
+    "name": "ふるやん",
+    "screen_name": "furuyan_PCpt",
+    "location": "産業PT",
+    "url": null,
+    "description": "日常で心と身体を軽くするネタを提供｜医療従事者10年｜産業での健康サポート｜仕事をする人のメンタル面を少しでも楽に",
+    "protected": false,
+    "verified": true,
+    "followers_count": 18694,
+    "friends_count": 268,
+    "listed_count": 135,
+    "favourites_count": 143578,
+    "statuses_count": 53989,
+    "created_at": "2020-09-28T04:46:05.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310440577922605056/1616584236",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372700067027546112/-kpO1NtE_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 34,
+  "reply_count": 1,
+  "retweet_count": 108,
+  "favorite_count": 1167,
+  "views_count": 3835815,
+  "bookmark_count": 1526,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040850512397185024",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/fiLzSYmXCi"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T08:01:22.000000Z",
+    "id": 2041063700862558500,
+    "id_str": "2041063700862558427",
+    "title": "職場にいる「敵を作らない人」がやっていること",
+    "preview_text": "できどの職場行っても敵を作らない人って一人はいる。\nスキルが高いわけでもない。\n特別愛想がいいわけでもない。\nめちゃくちゃ仕事ができるわけでもない。\nでも、なぜか嫌われなくて誰とも揉めない人っている。",
+    "cover_url": "https://pbs.twimg.com/media/HFKR6zgaEAAIXYa.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72itv",
+          "text": "できどの職場行っても敵を作らない人って一人はいる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bsije",
+          "text": "スキルが高いわけでもない。\n特別愛想がいいわけでもない。\nめちゃくちゃ仕事ができるわけでもない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1naqb",
+          "text": "でも、なぜか嫌われなくて誰とも揉めない人っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5hebf",
+          "text": "そういう人を見ていて気づいたことがある。\nこの人たちは、人に好かれようとしているわけじゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "2ufg9",
+          "text": "ただ、嫌われる行動を避けている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fh70a",
+          "text": "これだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ten9",
+          "text": "敵を作らない人がやっていることは、実はすごくシンプル。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6g58d",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15qva",
+          "text": "① 無駄に否定しない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cpjc5",
+          "text": "すぐ反論しない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8nmc",
+          "text": "「でも」\n「それ違う」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6hc2o",
+          "text": "をあまり言わない。\nまず受け取る。\nそれだけで敵は増えない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cap96",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "akcbg",
+          "text": "② 余計な一言を言わない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7oh2f",
+          "text": "正しいことでも、言わなくていいことは言わない。\n言いたいこともグッと堪える事ができる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "44g5e",
+          "text": "これができる人は強い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7v14r",
+          "text": "人間関係を壊すのは、大きなミスより小さな一言だったりする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7erbq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8u36p",
+          "text": "③ マウントを取らない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a93uq",
+          "text": "知識があっても、経験があっても、ひけらかさない。\n分かっていないフリができる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "v98l",
+          "text": "相手より上に立とうとしない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqg3s",
+          "text": "敵を作らない人は、勝負に興味がない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c4tr8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ahne",
+          "text": "④ 距離感を間違えない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8sgl6",
+          "text": "踏み込みすぎない。\nでも冷たすぎない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6vg4e",
+          "text": "このバランスを整えるのがうまい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4m364",
+          "text": "誰にでも同じ距離じゃなく、相手に合わせている。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5uphh",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hep6",
+          "text": "⑤ 感情で反応しない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g195",
+          "text": "イラッとしても、態度に出さない。\n一度客観的に自分を見る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5480r",
+          "text": "呼吸をして6秒間で感情を飲み込む。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8cf",
+          "text": "これだけで、トラブルはかなり減る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4917g",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vdj6",
+          "text": "結局、敵を作らない人って、\n特別なコミュ力があるわけじゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "9o1mg",
+          "text": "ただ、\n 人が嫌がることを理解している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fcmra",
+          "text": "それだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6h1uh",
+          "text": "人に好かれるのは難しい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1b3ai",
+          "text": "今すぐできることは、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "blcbn",
+          "text": "自分がされて嫌なことはしない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqs4s",
+          "text": "これだけで人間関係は楽になります。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

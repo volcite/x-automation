@@ -1,0 +1,316 @@
+{
+  "tweet_created_at": "2026-04-02T13:00:32.000000Z",
+  "id": 2039689438922522600,
+  "id_str": "2039689438922522728",
+  "type": "tweet",
+  "conversation_id_str": "2039689438922522728",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/mVRe3TMSyr",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 574032254,
+    "id_str": "574032254",
+    "name": "Coinbase 🛡️",
+    "screen_name": "coinbase",
+    "location": "Remote First",
+    "url": "https://coinbase.com",
+    "description": "The future of finance is on Coinbase. For support: @CoinbaseSupport",
+    "protected": false,
+    "verified": true,
+    "followers_count": 6836240,
+    "friends_count": 167,
+    "listed_count": 28355,
+    "favourites_count": 5121,
+    "statuses_count": 9253,
+    "created_at": "2012-05-07T23:06:31.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/574032254/1773334802",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2023421750197772288/IqJX3XB4_normal.png",
+    "can_dm": false,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 305,
+  "reply_count": 226,
+  "retweet_count": 366,
+  "favorite_count": 1525,
+  "views_count": 1466414,
+  "bookmark_count": 473,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039656566530387968",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/mVRe3TMSyr"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T13:00:32.000000Z",
+    "id": 2039689438922522600,
+    "id_str": "2039689438922522728",
+    "title": "Building a More Open Internet: The x402 Foundation",
+    "preview_text": "Happy 4/02 Day\nThe internet was built on open protocols like HTTP for data and SMTP for email. However, the payment part of the web has historically been fragmented and proprietary. Today, we are",
+    "cover_url": "https://pbs.twimg.com/media/HE5s56TWwAA9-Br.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ceu5d",
+          "text": "Happy 4/02 Day",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 225,
+                "text": "linuxfoundation",
+                "toIndex": 241
+              },
+              {
+                "fromIndex": 256,
+                "text": "Coinbase",
+                "toIndex": 265
+              },
+              {
+                "fromIndex": 267,
+                "text": "cloudflare",
+                "toIndex": 278
+              },
+              {
+                "fromIndex": 280,
+                "text": "stripe",
+                "toIndex": 287
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qgcr",
+          "text": "The internet was built on open protocols like HTTP for data and SMTP for email. However, the payment part of the web has historically been fragmented and proprietary. Today, we are proud to join the x402 Foundation under the @linuxfoundation, initiated by @Coinbase, @cloudflare, @stripe and a broad coalition of industry leaders.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ebjqi",
+          "text": "The x402 protocol is a universal standard that embeds payments directly into web interactions. It enables AI agents, APIs, and apps to send and receive value or money as easily as they trade data. By giving the protocol a neutral, community-governed home, we are ensuring that sending value online becomes as simple and interoperable as sending an email.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8no4k",
+          "text": "Why This Matters Now",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9kd31",
+          "text": "As we enter an era where AI agents and automated apps are doing more on our behalf, they need a way to pay for services without a human having to manually authorize or fill out a form every time. The x402 protocol and the x402 Foundation offer:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c1e1c",
+          "text": "Stewardship, Not Ownership: The Linux Foundation offers a neutral, non-profit home for x402. No single company owns the x402 standard.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "572p7",
+          "text": "Global Access: Through an open standard, payments can work across different countries, apps, and platforms without friction.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1trog",
+          "text": "Built for Business: This allows companies, projects or agents of all sizes to accept automated payments without needing to rebuild their entire financial setup.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv6hm",
+          "text": "x402 is a neutral protocol that can support both fiat and crypto payment rails. It works on many blockchains and payment networks, letting anyone build on it without reliance on a singular party.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "agndl",
+          "text": "A Shared Industry Effort",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18vrc",
+          "text": "Coinbase is joining a diverse group of members to support this ecosystem. The foundation is supported by leaders across every part of the web, from tech giants and card networks, to payment platform and digital infrastructure.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 72,
+                "text": "Ampersend.ai",
+                "toIndex": 84
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3o9sm",
+          "text": "Founding members include: Adyen, Amazon Web Services, American Express, Ampersend.ai, Ant International, Base, Circle, Cloudflare, Coinbase, Fiserv Merchant Solutions, Google, KakaoPay, Mastercard, Merit Systems, Microsoft, Polygon Labs, PPRO, Sierra. Shopify, Solana Foundation, Stripe, Thirdweb, and Visa.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "642tg",
+          "text": "Join the Future of Commerce",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2tj1j",
+          "text": "The x402 Foundation is open to everyone— developers, startups, and global enterprises. We are inviting anyone building the next generation of web tools to join the membership body and help shape how the world transacts.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ca1c6",
+          "text": "Membership offers the opportunity to support the community and help advance the open payments standard across platforms and geographies.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 6,
+                "text": "https://www.x402.org/",
+                "toIndex": 27
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 21,
+              "offset": 6
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "81jgm",
+          "text": "Visit https://www.x402.org/ to learn more.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://www.x402.org/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

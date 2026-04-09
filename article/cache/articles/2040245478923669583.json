@@ -1,0 +1,1035 @@
+{
+  "tweet_created_at": "2026-04-04T01:50:02.000000Z",
+  "id": 2040245478923669500,
+  "id_str": "2040245478923669583",
+  "type": "tweet",
+  "conversation_id_str": "2040245478923669583",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/eewYWHp0mG",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1036546087090237400,
+    "id_str": "1036546087090237440",
+    "name": "𝗠𝗿𝗬𝗘𝗘",
+    "screen_name": "HelloMrYEE",
+    "location": "Shanghai",
+    "url": null,
+    "description": "中年/光头/大提琴/古典吉他/长笛/当过老师卖过艺/爱厨房 /谢谢喜欢",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4626,
+    "friends_count": 313,
+    "listed_count": 25,
+    "favourites_count": 2055,
+    "statuses_count": 35972,
+    "created_at": "2018-09-03T09:27:00.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036546087090237440/1665447134",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2028606990977785856/wGdS9vHx_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 5,
+  "reply_count": 24,
+  "retweet_count": 155,
+  "favorite_count": 1184,
+  "views_count": 255578,
+  "bookmark_count": 2374,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040236650412859392",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/eewYWHp0mG"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T01:50:02.000000Z",
+    "id": 2040245478923669500,
+    "id_str": "2040245478923669583",
+    "title": "我这些年科学上网的姿势",
+    "preview_text": "第一阶段：纯机场时代\n刚开始接触科学上网，完全不懂技术，自然是从最省心的机场入手。那个年代机场圈还算繁荣，竞争激烈。\n先后用过这几家：\nrixCloud",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lkrj",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8o5qt",
+          "text": "第一阶段：纯机场时代",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ctv8r",
+          "text": "刚开始接触科学上网，完全不懂技术，自然是从最省心的机场入手。那个年代机场圈还算繁荣，竞争激烈。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jjni",
+          "text": "先后用过这几家：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cscu4",
+          "text": "rixCloud 算是比较早期有品牌意识的机场，界面做得不错，有自己的客户端，当时体验还算可以，算是入门级的\"高端机场\"。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "aj4r0",
+          "text": "Amy（按摩院） 奶昔的分厂，主攻亚太地区。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "jaaf",
+          "text": "奶昔 算是有口碑积累的老牌机场，稳定性在当时口碑不错。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 11,
+              "style": "Bold"
+            }
+          ],
+          "key": "ajsih",
+          "text": "这个阶段最大的问题是：命运不由自己掌控。机场说跑路就跑路，说被墙就被墙，充了年费结果某天打开订阅就404，这种经历不止一次。加上高峰期晚上 8-11 点那个速度，真是一言难尽。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4r9t3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9gmsp",
+          "text": "第二阶段：机场 + 自建（初尝试）",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9aj0p",
+          "text": "慢慢开始觉得纯依赖机场太被动，于是开始折腾自建。但这个阶段属于\"主力还是机场，自建图个安心备用\"的状态。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5mqq4",
+          "text": "先后试过：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eh9vr",
+          "text": "搬瓦工（BandwagonHost） 自建的启蒙选择，几乎是那个年代每个折腾VPS的人必经之路。CN2 GIA 线路在当时算是国内访问质量的天花板，延迟低、丢包少。搭 SSR/V2Ray，跑起来那一刻确实有种掌控感。缺点是贵，而且官网买套餐要抢，补货秒没。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6ngkt",
+          "text": "搬瓦工（BandwagonHost）主要机房和线路",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b11sl",
+          "text": "搬瓦工的核心价值在于线路，机器本身性能一般，选它就是选路由。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bkbk4",
+          "text": "DC6 / DC9 — CN2 GIA洛杉矶机房，电信走 CN2 GIA 回国，是搬瓦工最经典的线路。CN2 GIA 属于电信的精品网，全程 59.43.x.x 段，优先级最高，晚高峰抗拥塞能力强。缺点是联通、移动走的是普通路由，非电信用户体验打折。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5647m",
+          "text": "HKBN — 香港香港节点，回程走 CN2 GIA，延迟极低（广州方向约 10ms），但价格贵，且库存长期紧张，难抢。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "108c",
+          "text": "JPOS — 日本大阪走软银（SoftBank）线路回国，对移动用户非常友好，移动有直连软银的海缆，延迟低且稳。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "feok9",
+          "text": "总结：搬瓦工适合电信用户重点考虑 DC6/DC9，移动用户可看 JPOS，联通用户其实搬瓦工并不算最优解。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "353sv",
+          "text": "DMIT 相比搬瓦工更小众一些，胜在线路选择更灵活，有 CN2 GIA、CMIN2 等多种接入，价格稍亲民，社区口碑一直不错，属于懂行的人才会去关注的服务商。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d8nn7",
+          "text": "DMIT 主要机房和线路",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f90qk",
+          "text": "DMIT 比搬瓦工更灵活，同一个机房经常提供多个线路套餐，按需选择空间更大。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "43ilc",
+          "text": "LAX — 洛杉矶提供三个档次：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "80dko",
+          "text": "Lite：普通线路，去程直连，回程走 AS4837（联通骨干），适合预算有限",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4nm2n",
+          "text": "Standard（原 Pro）：去程 CN2 GIA，回程 CN2 GIA，三网都走精品网，全面均衡",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e5lt9",
+          "text": "Premium（EB）：去程 CN2 GIA + CMIN2，回程针对三网分别优化，移动走 CMIN2，联通走 4837/CN2，电信走 CN2 GIA，是目前 DMIT 洛杉矶最顶配",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7lvut",
+          "text": "HKG — 香港",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bpfod",
+          "text": "Premium：回程走 CN2 GIA，延迟极低，是自建党里香港节点的热门选择",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c4g8q",
+          "text": "Lite：走普通 BGP，便宜但高峰期表现一般",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bn42d",
+          "text": "TYO — 东京",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "elf2q",
+          "text": "提供 Premium 套餐，回程三网优化，移动直连效果尤其好",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7rtg",
+          "text": "第三阶段：广港专线 / IX / 腾讯 BGP + 落地家宽",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 17,
+              "style": "Bold"
+            }
+          ],
+          "key": "2m5m",
+          "text": "这个阶段算是质的飞跃，开始认真研究入口和落地这两个维度，而不只是随便找台 VPS 自建了事。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cc5ia",
+          "text": "广港专线 即广州到香港的专用线路，走的是内地到香港之间的物理专线或优化路由，延迟极低（正常 10ms 以内），稳定性远超公网绕路。对于香港节点来说，这条路是体验天花板。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2b94h",
+          "text": "IX（Internet Exchange，互联网交换节点） 通过 IXP 对等互联接入，绕过运营商的公网拥塞点，直接在交换层面走高质量路由。理解这一层之后，选节点和选服务商的逻辑就完全不一样了，开始会看 BGP 路由、AS 号这些东西。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "80se4",
+          "text": "腾讯 BGP 利用腾讯云等大厂 BGP 网络作为中转入口，依托大厂对三网（电信/联通/移动）的优化能力，解决了国内不同运营商访问质量不一致的问题。大厂 BGP 的 IP 段本身不容易被墙，稳定性也比普通 VPS 强得多。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f3t9g",
+          "text": "落地家宽 这是整个链路里最有意思的一环。海外落地从机房 IP 换成住宅 IP（家宽），适合一些特殊场景使用。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "508js",
+          "text": "这个阶段的核心思路已经从\"找一台能用的服务器\"升级成了：精心设计一条完整的链路——国内优质入口 → 中转层 → 海外优质落地，每一段都要单独优化。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9uj06",
+          "text": "专线的路由逻辑——到底过不过防火墙？",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9psov",
+          "text": "这是很多人容易搞混的地方，理解路由层面的差异，才能真正理解为什么\"专线\"体验不一样。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1dd6",
+          "text": "普通 VPS 自建的路由路径",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7558q",
+          "text": "你的设备 → 国内运营商公网 → GFW 检测 → 海外公网 → 目标服务器",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 90,
+              "style": "Bold"
+            }
+          ],
+          "key": "1rfav",
+          "text": "流量走的是公共互联网，每一个包都要经过 GFW 的检测节点。协议混淆（XTLS、REALITY 等）的作用就是让流量在这一段看起来像正常 HTTPS，降低被识别和干扰的概率。本质上还是在过防火墙，只是尽量\"伪装通过\"。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d3f5j",
+          "text": "2.     IEPL 的路由路径",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 49,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9h86l",
+          "text": "IEPL（International Ethernet Private Line，国际以太网专线） 是运营商之间签订的物理或逻辑专用链路，数据走的是独立于公共互联网的专用通道。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fo7h",
+          "text": "你的设备 → 国内接入点（专线入口） → IEPL 专用通道 → 海外落地点 → 目标服务器",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "6db8l",
+          "text": "关键在于：这条通道不经过 GFW。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qnhe",
+          "text": "GFW 的检测部署在公共互联网出口，而 IEPL 绕过了这些出口节点，走的是运营商间的专用互联链路。所以 IEPL 节点的特点是：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6s5q2",
+          "text": "不需要协议混淆，用最简单的 SS 也能稳定跑",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5dqr",
+          "text": "延迟极低且极稳定，几乎没有晚高峰波动",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "93v59",
+          "text": "被封的风险极低，因为 GFW 根本看不到这条链路",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "9uakk",
+          "text": "代价是成本极高，IEPL 带宽按 Mbps 向运营商租用，价格远高于普通 VPS，所以机场卖 IEPL 节点的套餐普遍偏贵，且往往限速或限流量。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aojfv",
+          "text": "3.     IX 的路由路径——与真实 IEPL 的差异",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b1hkb",
+          "text": "IX（Internet Exchange，互联网交换节点） 在名字和宣传上经常和 IEPL 混用，但路由逻辑有本质区别，需要单独说清楚。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "acl2t",
+          "text": "IX 的路径大致是：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1uqmc",
+          "text": "你的设备 → 国内大厂云网 → IXP 交换节点 → 出口落地",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "255hb",
+          "text": "与 IEPL 的核心差异在于：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f0gtl",
+          "text": "IX 的国内段只能走国内大厂机器作为入口，通过内网到达IX接入点完成交换，再经过专线落地。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7h61",
+          "text": "这意味着：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fuf7e",
+          "text": "国内出境段需要有前置机，前置机与IX入口走云厂内网。",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "t57s",
+          "text": "不过墙，意味着你的落地机可以直接用ss协议",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "74gg9",
+          "text": "你的带宽上限受限于你的前置机",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2dmkh",
+          "text": "你需要单独购买前置机",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9sff7",
+          "text": "几个需要注意的点，你的落地机使用什么协议取决于是否过墙。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69a56",
+          "text": "我目前在使用的",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eog97",
+          "text": "1、机场",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ojl3",
+          "text": "仅存eNet一家，不限时的500G流量，完全做备用。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45mh2",
+          "text": "2、线路机",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbrvb",
+          "text": "DMIT Malibu ，一年$49，三网去回均走电信CN2，每月流量1T(双向)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a92rd",
+          "text": "DMIT Corona，一年$49，三网各自优化，每月流量2T(双向)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ttld",
+          "text": "3、专线机",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "10cff",
+          "text": "po0 腾讯华东入口，年付1180，200m带宽，每月流量500G(单向)。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "637vm",
+          "text": "你可以理解成是包含了前置机的IX，只不过这是满血版的腾讯锐驰套餐的前置机。正常你在腾讯云买的锐驰只是峰值带宽200m，你如果长时间跑，很快就会被限速，而这个不会。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cm3u7",
+          "text": "目前po0为主打方案，入口机直接nftables内核转发到RFC的JPT1和HKT1，相当于同时拥有了沪日专线与沪港专线。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbg5e",
+          "text": "4、落地家宽",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "43kd2",
+          "text": "Boil 家里云，现在基本上没有使用了，注意是港机限制还是有点多，AI不能用。从一个月$9起价，同时还有很多绝版套餐，比如季付297、半年付777等。",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aqu6t",
+          "text": "vircs，AT&T落地，50m带宽，流量不限，$276/年，主要做AI分流、PayPal分流。用DMIT做中转相当丝滑。",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bc1a0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "54n9f",
+          "text": "如何看你的vps路由",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ddi3s",
+          "text": "安装nexttrace",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7p1mu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9cfkg",
+          "text": "下图是DMIT Malibu回程的路由，可以看到直连无绕路，直接从LA走CN2回国。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a70b2",
+          "text": " ",
+          "type": "atomic"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "9dcc47ed-95ad-4f3f-956f-fe436f96729b",
+              "markdown": "```bash\ncurl -sL <https://nxtrace.org/nt> | bash\n\nnexttrace 你的ip\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "DMIT-Malibu回程",
+              "entityKey": "cad2dd66-ba13-4ea9-96b9-0c569e89f106",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040243292101541888"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFBmdukWAAAKAAIOYo0solWwAAAA",
+        "media_id": "2040243292101541888",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 95.15,
+                "rgb": {
+                  "blue": 197,
+                  "green": 240,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 2.21,
+                "rgb": {
+                  "blue": 191,
+                  "green": 210,
+                  "red": 243
+                }
+              },
+              {
+                "percentage": 1.76,
+                "rgb": {
+                  "blue": 124,
+                  "green": 203,
+                  "red": 209
+                }
+              },
+              {
+                "percentage": 0.41,
+                "rgb": {
+                  "blue": 164,
+                  "green": 181,
+                  "red": 145
+                }
+              },
+              {
+                "percentage": 0.16,
+                "rgb": {
+                  "blue": 144,
+                  "green": 192,
+                  "red": 165
+                }
+              }
+            ]
+          },
+          "original_img_height": 998,
+          "original_img_url": "https://pbs.twimg.com/media/HFBmdukWAAAPNr7.jpg",
+          "original_img_width": 1636
+        },
+        "media_key": "3_2040243292101541888"
+      }
+    ]
+  }
+}

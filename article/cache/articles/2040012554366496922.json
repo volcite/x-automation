@@ -1,0 +1,269 @@
+{
+  "tweet_created_at": "2026-04-03T10:24:29.000000Z",
+  "id": 2040012554366497000,
+  "id_str": "2040012554366496922",
+  "type": "tweet",
+  "conversation_id_str": "2040012554366496922",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/8CGuvYDG59",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1870771736284733400,
+    "id_str": "1870771736284733440",
+    "name": "めぐるのめ",
+    "screen_name": "megusuran15",
+    "location": "",
+    "url": "https://lit.link/meguru1919",
+    "description": "ども～✋\nえもえちプロダクション所属\nボーイッシュでロックな💙2.5次元AVtuberの阿久めぐるだよ～👀\nきみはフォローしてくれるよね？\n\nﾌｧﾝﾃｨｱで動画発売中～👇\nhttps://lit.link/meguru1919",
+    "protected": false,
+    "verified": true,
+    "followers_count": 5842,
+    "friends_count": 6,
+    "listed_count": 10,
+    "favourites_count": 30,
+    "statuses_count": 34,
+    "created_at": "2024-12-22T10:02:08.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870771736284733440/1741797976",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1899864524175396864/wu_KQOhe_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 0,
+  "reply_count": 23,
+  "retweet_count": 7,
+  "favorite_count": 1742,
+  "views_count": 2073372,
+  "bookmark_count": 1570,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040012456119185408",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/8CGuvYDG59"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T10:24:29.000000Z",
+    "id": 2040012554366497000,
+    "id_str": "2040012554366496922",
+    "title": "どうやらここタップすると良いらしいよ",
+    "preview_text": "どう？",
+    "cover_url": "https://pbs.twimg.com/media/HE-VXFubQAAWMye.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ck5n0",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "amsqq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ccinr",
+          "text": "どう？",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "54f3439a-bc48-41e7-beb9-b833b653b1a9",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040013589092966400"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "20024423-1466-4762-ac13-0881b1222f1d",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040013629416960000"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+VjQLbIAAKAAIZ9lD7fRegAAAA",
+        "media_id": "2040013589092966400",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 60.16,
+                "rgb": {
+                  "blue": 151,
+                  "green": 151,
+                  "red": 194
+                }
+              },
+              {
+                "percentage": 13.07,
+                "rgb": {
+                  "blue": 203,
+                  "green": 171,
+                  "red": 170
+                }
+              },
+              {
+                "percentage": 10.39,
+                "rgb": {
+                  "blue": 85,
+                  "green": 69,
+                  "red": 76
+                }
+              },
+              {
+                "percentage": 5.4,
+                "rgb": {
+                  "blue": 97,
+                  "green": 91,
+                  "red": 134
+                }
+              },
+              {
+                "percentage": 4.98,
+                "rgb": {
+                  "blue": 223,
+                  "green": 154,
+                  "red": 111
+                }
+              }
+            ]
+          },
+          "original_img_height": 4032,
+          "original_img_url": "https://pbs.twimg.com/media/HE-VjQLbIAA8GMw.jpg",
+          "original_img_width": 3024
+        },
+        "media_key": "3_2040013589092966400"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE+VlmZacAAKAAIZ9lD7fRegAAAA",
+        "media_id": "2040013629416960000",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 78.72,
+                "rgb": {
+                  "blue": 241,
+                  "green": 231,
+                  "red": 230
+                }
+              },
+              {
+                "percentage": 14.6,
+                "rgb": {
+                  "blue": 90,
+                  "green": 76,
+                  "red": 68
+                }
+              },
+              {
+                "percentage": 3.6,
+                "rgb": {
+                  "blue": 159,
+                  "green": 127,
+                  "red": 116
+                }
+              },
+              {
+                "percentage": 0.46,
+                "rgb": {
+                  "blue": 221,
+                  "green": 104,
+                  "red": 84
+                }
+              },
+              {
+                "percentage": 0.39,
+                "rgb": {
+                  "blue": 144,
+                  "green": 101,
+                  "red": 96
+                }
+              }
+            ]
+          },
+          "original_img_height": 4096,
+          "original_img_url": "https://pbs.twimg.com/media/HE-VlmZacAAoCX6.jpg",
+          "original_img_width": 2731
+        },
+        "media_key": "3_2040013629416960000"
+      }
+    ]
+  }
+}

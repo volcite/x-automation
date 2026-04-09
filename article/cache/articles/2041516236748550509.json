@@ -1,0 +1,103 @@
+{
+  "tweet_created_at": "2026-04-07T13:59:35.000000Z",
+  "id": 2041516236748550400,
+  "id_str": "2041516236748550509",
+  "type": "tweet",
+  "conversation_id_str": "2041516236748550509",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/3ztKPI1NzU",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 305771773,
+    "id_str": "305771773",
+    "name": "Romàn🔻",
+    "screen_name": "RomanCues_i0sm",
+    "location": "Salamanca. España",
+    "url": "https://www.diario.red/tags/tirando-del-hilo/",
+    "description": "🔎Desde la España vaciada tratando de deshacer la madeja. Bona diagnosis, bona curatio🧵https://t.co/x8yz78K9gP. Periodista en https://t.co/ThoBaQYyMU",
+    "protected": false,
+    "verified": true,
+    "followers_count": 60764,
+    "friends_count": 6985,
+    "listed_count": 170,
+    "favourites_count": 56966,
+    "statuses_count": 73504,
+    "created_at": "2011-05-26T19:31:56.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/305771773/1708782514",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1968765673418502144/ZPGVSDR__normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 5,
+  "reply_count": 45,
+  "retweet_count": 458,
+  "favorite_count": 1224,
+  "views_count": 33101,
+  "bookmark_count": 15,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041513660149891073",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/3ztKPI1NzU"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T13:59:34.000000Z",
+    "id": 2041516236748550400,
+    "id_str": "2041516236748550509",
+    "title": "Comunicado.",
+    "preview_text": "En los últimos años he investigado junto a otros periodistas y expertos en redes sociales las identidades de personas que se amparaban en el anonimato para lanzar amenazas de muerte y bulos",
+    "cover_url": "https://pbs.twimg.com/media/HFTsBHeXkAApXbO.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 734,
+                "text": "CapitanBitcoin",
+                "toIndex": 749
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "64qae",
+          "text": "En los últimos años he investigado junto a otros periodistas y expertos en redes sociales las identidades de personas que se amparaban en el anonimato para lanzar amenazas de muerte y bulos extraordinariamente graves contra políticos, periodistas, sus parejas y sus hijas. Perfiles anónimos que en no pocos casos tienen decenas o cientos de miles de seguidores. Mi familia y yo estamos entre las víctimas de ese tipo de mensajes, así que algunas de esas investigaciones tenían por objeto emprender acciones judiciales contra sus autores o ayudar a otros afectados a hacerlo. Siempre he usado fuentes abiertas y en ninguna ocasión he publicado datos de familiares a menos que estuviesen metidos en el ajo, como el padre de Álvaro Pau (@CapitanBitcoin) o el de los hermanos Rico de Núcleo Nacional. He recibido amenazas de muerte y un comando patoso llegó a desplazarse cientos de km. para intentar silenciarme sin conseguirlo. El comando estaba instigado, entre otros, por Alberto Gonzalo de Juan, Jesús Santorio Lorenzo o Pedro González Arroyo, el falangista aficionado a escribir relatos donde fantaseaba con violar adolescentes. Estos sujetos, aplicando el principio de transposición, pretenden desde hace tiempo implicarme en una red de acoso de la que nunca he formado parte. Recibo información de múltiples fuentes y siempre procuro confirmar que procede de fuentes abiertas. Han mentido diciendo que alguno de mis colaboradores consultaba fuentes de interior o de la CAM y se han visto o se verán obligados a rectificar y, por supuesto, afrontarán las consecuencias legales de sus difamaciones. En el último asunto en el que quieren implicarme y que hoy publica la basura de medio de Eduardo Inda, ni siquiera estoy citado a declarar. En los próximos días, Diario Red publicará una serie de artículos donde se demuestra que quienes usaban métodos delincuenciales para obtener información de sus víctimas son los mismos que ahora me acusan. Tengo la conciencia muy tranquila, duermo a pierna suelta y, aunque no confío plenamente en la justicia de este país, la carga de pruebas que he ido acumulando me permite estar seguro de lo que afirmo. A esta banda de facinerosos le esperan muchas sorpresas a lo largo del proceso. Salud.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

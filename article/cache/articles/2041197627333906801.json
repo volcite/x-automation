@@ -1,0 +1,1982 @@
+{
+  "tweet_created_at": "2026-04-06T16:53:32.000000Z",
+  "id": 2041197627333906700,
+  "id_str": "2041197627333906801",
+  "type": "tweet",
+  "conversation_id_str": "2041197627333906801",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/UfGbnpuDDJ",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 198708725,
+    "id_str": "198708725",
+    "name": "Kris",
+    "screen_name": "KrisAbdelmessih",
+    "location": "SF Bay Area, CA",
+    "url": "https://notion.moontowermeta.com/about-me",
+    "description": "Join 25k readers https://t.co/ei9fHrTNNZ\n\n  σ  https://t.co/p0ss9OtKEh\n📺https://t.co/ewhbis9UJA\n📸https://t.co/T1HMA9Ee4l",
+    "protected": false,
+    "verified": true,
+    "followers_count": 49058,
+    "friends_count": 3615,
+    "listed_count": 1239,
+    "favourites_count": 62551,
+    "statuses_count": 34632,
+    "created_at": "2010-10-05T01:18:44.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/198708725/1708465841",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149739157012582401/b8IWWpjx_normal.png",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 3,
+  "reply_count": 6,
+  "retweet_count": 110,
+  "favorite_count": 1094,
+  "views_count": 133931,
+  "bookmark_count": 2971,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041191613355958272",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/UfGbnpuDDJ"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T16:53:32.000000Z",
+    "id": 2041197627333906700,
+    "id_str": "2041197627333906801",
+    "title": "Math Shortcuts Traders Know By Heart ",
+    "preview_text": "This guide is a \"living\" document of common mental math shortcuts in the trading world. It will be loosely organized by category, although be aware that overlap is possible.\nI will append the guide as",
+    "cover_url": "https://pbs.twimg.com/media/HFPKZhNbkAA_j0n.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "57okv",
+          "text": "This guide is a \"living\" document of common mental math shortcuts in the trading world. It will be loosely organized by category, although be aware that overlap is possible.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4hong",
+          "text": "I will append the guide as I learn or remember tricks.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ig4d",
+          "text": "You are invited to send me your own!",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bu0d3",
+          "text": "Options",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7nc56",
+          "text": "Annualizing Volatility",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70oge",
+          "text": "Annualizing daily, weekly, monthly standard deviations (ie volatility)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 4,
+              "offset": 29,
+              "style": "Bold"
+            },
+            {
+              "length": 4,
+              "offset": 36,
+              "style": "Bold"
+            }
+          ],
+          "key": "dba46",
+          "text": "Daily to yearly: Multiply by √251 ≈ 15.8",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 30,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 36,
+              "style": "Bold"
+            }
+          ],
+          "key": "8a59c",
+          "text": "Weekly to yearly: Multiply by √52 ≈ 7.2",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 31,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 37,
+              "style": "Bold"
+            }
+          ],
+          "key": "9jrce",
+          "text": "Monthly to yearly: Multiply by √12 ≈ 3.5",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jkcg",
+          "text": "Example:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dhn6m",
+          "text": "Daily stock volatility is 1%",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89v8e",
+          "text": "Annual —> 15.8%",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4iu8p",
+          "text": "💡This rule of thumb is used so often that traders just use 16 instead of 15.8",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4tj61",
+          "text": "Approximation of the at-the-forward straddle",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5p5ue",
+          "text": "Straddle_ATF = .8 S σ √t",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28i67",
+          "text": "where:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c54tv",
+          "text": "S = forward price",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "23btm",
+          "text": "σ = annualized volatility",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c362g",
+          "text": "t = fraction of a year until expiry",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 14,
+                "text": "https://notion.moontowermeta.com/visual-derivation-of-straddle-approximation-",
+                "toIndex": 91
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2cut8",
+          "text": "🔗 Derivation: https://notion.moontowermeta.com/visual-derivation-of-straddle-approximation-",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "avnva",
+          "text": "Example:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 86,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 40,
+              "offset": 94,
+              "style": "Italic"
+            },
+            {
+              "length": 35,
+              "offset": 141,
+              "style": "Italic"
+            },
+            {
+              "length": 35,
+              "offset": 182,
+              "style": "Italic"
+            }
+          ],
+          "key": "3pb8b",
+          "text": "The ATF straddle is 80% of the vol scaled by sqrt time in years. So if vol is 20% the one-year straddle is 16% of the spot price. The 6-month straddle is 70% (sqrt 1/2) of the 1-year straddle or 11% of the spot price.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2kpqv",
+          "text": "Approximating IV from the at-the-forward straddle",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fmcmu",
+          "text": "IV = Straddle (%) × 20 / √DTE",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "fnua3",
+          "text": "where DTE is in business days to expiry",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 14,
+                "text": "https://moontowermeta.com/shortcuts-to-get-implied-vol-from-a-straddle/",
+                "toIndex": 85
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dst20",
+          "text": "🔗 Derivation: https://moontowermeta.com/shortcuts-to-get-implied-vol-from-a-straddle/",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c21q0",
+          "text": "Approximation of the at-the-forward vega",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "556of",
+          "text": "Look at the formula once more.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8up3p",
+          "text": "Straddle_ATF = .8 S σ √t",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 64,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "3epu2",
+          "text": "The definition of vega is the change in option price per 1 point change in implied volatility.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 79,
+              "style": "Bold"
+            }
+          ],
+          "key": "cacmf",
+          "text": "If σ increases by 1, then the ATF straddle increases by .8S√t so by definition that is the vega of the straddle!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cj539",
+          "text": "Vega_ ATF= .8 S √t",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4cop5",
+          "text": "Observations:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fsf26",
+          "text": "ATF vega is insensitive to the level of volatility",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "57jkc",
+          "text": "Holding time constant, vega only depends on the spot price!",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51hib",
+          "text": "If I double the time to expiry the straddle increases by sqrt(2) or by 40%. Since those are the only variables that change the straddle price then the vega must be the same for any name with that expiry and spot price — the vol itself doesn't matter.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 76,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2fggk",
+          "text": "Warning: The vega of non-ATF strikes IS sensitive to the level of volatility",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4nvi",
+          "text": "Converting from Straddle to Volatility (useful for earnings)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "64h8h",
+          "text": "Remember:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "71d41",
+          "text": "Straddle_ATF = .8 S σ √t",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 101,
+              "style": "Bold"
+            }
+          ],
+          "key": "5v9fr",
+          "text": "To go from a straddle price to an implied volatility we invert the straddle approximation and simply divide by .80",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "cr22e",
+          "text": "This is equivalent to multiplying the straddle by 1.25.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fm703",
+          "text": "A straddle represents the mean absolute deviation or MAD. It is a measure of variance which does NOT square returns whereas volatility calculations do, therefore amplifying the contribution of large move to the volatility.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66g67",
+          "text": "Straddles are a better estimate of a typical move.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 64,
+                "text": "https://notion.moontowermeta.com/the-mad-straddle",
+                "toIndex": 113
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b41t",
+          "text": "For a fuller treatment, see: The Difference Between SD and MAD (https://notion.moontowermeta.com/the-mad-straddle)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fv8af",
+          "text": "Example usage of the 1.25 rule",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "891ea",
+          "text": "A stock's earnings straddle is 8%",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4i7qu",
+          "text": "Its implied volatility for that day is therefore 8% * 1.25 = 10%",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "df2im",
+          "text": "Annualized that's 10% * √251 ~ 158% implied volatility",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f40c",
+          "text": "Gamma of the ATF Straddle",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ea3dl",
+          "text": "Γ ≈ .8 / (Sσ√T)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbt3t",
+          "text": "Algebraically, we can notice that the denominator of gamma = straddle/.8",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1irtq",
+          "text": "Substituting:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "mdin",
+          "text": "Γ ≈ .8 /(straddle/.8)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6f09b",
+          "text": "Γ ≈ .64 /straddle",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8trft",
+          "text": "So when you want to do mental math, you take \"2/3 of the inverse of the straddle.\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1r5k2",
+          "text": "This might sound obtuse, but taking the inverse or \"1 over\" some number should be one of the fastest mental math operations anyone dealing with investing does. After all, when you see any ratio like P/E or P/FCF you are immediately flipping that to a yield where it can be compared with things like interest rates or cap rates.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4k952",
+          "text": "If a straddle is $5, the gamma is 2/3 of $.20 or ~.13",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1h3jf",
+          "text": "And we know that doubling the straddle halves the gamma so you can just memorize that a $10 straddle has ~6.6 cents of gamma and linearly estimate gamma for any straddle price relative to that (ie $20 straddle is about 3.3 cents of gamma and $15 straddle is in the middle of 3.3 and 6.6).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eb8dg",
+          "text": "And of course there's time scaling. To find an option that has double the gamma you need to cut the DTE by 1/4.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "27jcb",
+          "text": "Gamma P/L",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9l9iu",
+          "text": "Your approximate option p/l attributable to gamma (it's approximate because in reality your gamma exposure itself is not constant across strikes so as soon as the stock moves, your gamma is changing)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1b27a",
+          "text": "Gamma P/L = ½ Γ (ΔS) × ΔS",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8s6cb",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 24,
+                "text": "https://blog.moontower.ai/moontower-on-gamma/",
+                "toIndex": 69
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6fkou",
+          "text": "via Moontower on Gamma (https://blog.moontower.ai/moontower-on-gamma/)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e6opk",
+          "text": "💡To compute gamma p/l for percent moves in the stock the formula:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c61ft",
+          "text": "Gamma p/l = .5 * gamma * S² * return²",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3ci1o",
+          "text": "✅Example of the computation both ways",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "di2mu",
+          "text": "Stock = $100",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2b7e3",
+          "text": "Gamma = 500",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c335m",
+          "text": "Stock price change = $3",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5dk0v",
+          "text": "Method 1",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7k7bi",
+          "text": "Gamma p/l = .5 * 500 * 3² = $2,250",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8ogcp",
+          "text": "Method 2",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1v73n",
+          "text": "Gamma p/l = .5 * 500 * 100² * .03²= $2,250",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2tnkc",
+          "text": "💡Proper attribution of option p/l",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "113nt",
+          "text": "Theta is the cost of gamma. Gamma p/l is always positive if you are long options while theta is always negative. Summing gamma and theta p/l will give you an approximate \"realized volatility p/l\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "v3vd",
+          "text": "If you add in your vega p/l (change in vol * vega) you arrive at a fairly good estimate of your delta-neutral option p/l!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 56,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e9kci",
+          "text": "Pure option p/l assuming you start the day delta neutral",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2sun",
+          "text": "= Realized vol p/l + Implied Vol P/L",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b917n",
+          "text": "= [gamma p/l + theta p/l] + [vega p/l]",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 38,
+                "text": "https://blog.moontower.ai/a-winner-thats-really-a-loser/",
+                "toIndex": 94
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "52kuo",
+          "text": "🔗 See a winner that's really a loser (https://blog.moontower.ai/a-winner-thats-really-a-loser/)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2gukt",
+          "text": "Implied Correlation",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fantj",
+          "text": "Implied correlation ~ index variance / weighted average stock variance",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5otf",
+          "text": "Using implied vols instead:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bd1ci",
+          "text": "Implied correlation ~ (index volatility / weighted average stock volatility)²",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6rvqn",
+          "text": "Example",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "foe27",
+          "text": "If the SPX is 15% vol and a typical stock in the index is 30% vol, implied correlation is (.15/.30)² = .25",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 44,
+                "text": "https://blog.moontower.ai/dispersion-trading-for-the-uninitiated/",
+                "toIndex": 109
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3jg6",
+          "text": "See Dispersion Trading For The Uninitiated (https://blog.moontower.ai/dispersion-trading-for-the-uninitiated/)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7oo3n",
+          "text": "Time Spreads",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6ahn",
+          "text": "Because option premiums scale with root time means you can estimate straddle spreads easily.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bla0d",
+          "text": "[Again, look at the straddle approximation!]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82g9e",
+          "text": "If a 3-month straddle is $5, then a 1-year straddle of the same vol is $10.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g33d",
+          "text": "[This works because we assume the same vol for both maturities.]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1m8qm",
+          "text": "Why?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cp58k",
+          "text": "There's 4x the time to expiry.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9hd8v",
+          "text": "√4 = 2, so just double the straddle.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "67t2j",
+          "text": "This is one of the most common mental math shortcuts. \"Oh the 2 week straddle is $4, then the 4-week straddle is about 40% more expensive or $5.60 total\". If the time to expiry is doubled, then the scaling is √2 or about 1.40",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2min",
+          "text": "Put-Call Parity",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 60,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bp7ra",
+          "text": "Call price = Intrinsic - Put Price + Cost of Carry on Strike",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2shf9",
+          "text": "Re-arranged for Synthetic Futures (ie \"combo\")",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dmpq8",
+          "text": "Call - Put = Intrinsic + Cost of Carry on Strike",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "hta6",
+          "text": "Example",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5gvp",
+          "text": "Stock Price = $65",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9laj2",
+          "text": "Strike Price = $70",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dn0ic",
+          "text": "Call price is $3",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68utb",
+          "text": "Cost of carry on the 70 strike = $.25",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6nibf",
+          "text": "What's the 70 put worth?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8daha",
+          "text": "Put = Intrinsic + Call - Cost of carry",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8bum",
+          "text": "Put = 5 + 3 - .25",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "emoc",
+          "text": "Put = $7.75",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2bl1b",
+          "text": "Vertical Spreads As Binary Bets",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28h6g",
+          "text": "Vertical spreads allow us to make clean binary bets on where a stock will be at option expiry.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c4elo",
+          "text": "Call Spread",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5806o",
+          "text": "P(Stock > midpoint of vertical spread) = Vertical spread price / Distance between strikes",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bj1c3",
+          "text": "Put Spread",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7g5es",
+          "text": "P(Stock < midpoint of vertical spread) = Vertical spread price / Distance between strikes",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d7f6q",
+          "text": "Example",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dg052",
+          "text": "The 50/60 call spread is trading for $2",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9su9g",
+          "text": "Premium / Distance between strikes =  $2/$10 = 20%",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 55,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ehjgq",
+          "text": "20% implied probability of stock expiring above the $55",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 70,
+                "text": "https://blog.moontower.ai/a-deeper-understanding-of-vertical-spreads/",
+                "toIndex": 139
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "hmem",
+          "text": "For full explanation, see a deeper understanding of vertical spreads (https://blog.moontower.ai/a-deeper-understanding-of-vertical-spreads/)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "87ba9",
+          "text": "Probability of \"touching\" a strike price by expiration",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7unsl",
+          "text": "This rule of thumb: one-touch probability is 2x the delta of the option of the desired strike and expiry",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 16,
+                "text": "https://blog.moontower.ai/one-touch/",
+                "toIndex": 52
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9j65g",
+          "text": "See: one touch (https://blog.moontower.ai/one-touch/) for more explanation",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9hkui",
+          "text": "Option Arbitrage Bounds",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bqu4q",
+          "text": "Maximum Values",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 41,
+              "style": "Bold"
+            }
+          ],
+          "key": "6m6mc",
+          "text": "Calls: Max value of a call option is the stock price",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 37,
+              "style": "Bold"
+            }
+          ],
+          "key": "9tkl4",
+          "text": "Puts: Max value of put option is the strike price",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "2btig",
+          "text": "Vertical spread: Max value is distance between the strikes",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "agpug",
+          "text": "Using intuition",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d9g73",
+          "text": "💡A useful practice when trying to understand how a financial instrument will behave, especially options, is to think of what happens to its value as we move inputs to the extremes of either zero or infinity.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 122,
+                "text": "https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-graphs/x2ec2f6f830c9fb89:poly-end-behavior/v/polynomial-end-behavior",
+                "toIndex": 255
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ev9l",
+          "text": "This recalls something you will have learned back in HS Algebra 2: End Behavior of a Polynomial. (see Khan Academy video: https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-graphs/x2ec2f6f830c9fb89:poly-end-behavior/v/polynomial-end-behavior)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4dfjt",
+          "text": "End behavior of volatility: Maximum value",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2uj04",
+          "text": "Options approach their maximum value as volatility goes to infinity.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "702sk",
+          "text": "Call Options: If volatility goes to infinity, the stock price essentially becomes the payoff for all call options. That means all call spreads (the difference between two strike prices) are worth zero, because the call options converge to the stock price, leaving no spread value.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "890kv",
+          "text": "Put Options: Conversely, the put spreads become maximized. In this extreme volatility scenario, the put options' value becomes the distance between the strikes, as the stock price approaches zero due to extreme \"volatility drag.\" The higher volatility, in effect, is akin to pulling the stock price down towards zero (bankruptcy as an \"absorbing barrier\")",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7oqir",
+          "text": "Infinite Volatility Equals Infinite Time: Infinite volatility mimics the effects of infinite time, where the eventual destination of the stock is zero. \"On a long enough timeline, the survival rate for everyone drops to zero\"",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "lisd",
+          "text": "General Investing",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b18c",
+          "text": "Rule of 72",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86o16",
+          "text": "Compounding math",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2o860",
+          "text": "72 / (CAGR * 100) = # of years for investment to double in value",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3sfiv",
+          "text": "Example",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vaql",
+          "text": "CAGR = 10%",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5utgb",
+          "text": "72/10 = 7.2 years for the money to double",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "duhn3",
+          "text": "The Moontower Rule of 70",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qsh9",
+          "text": "This is related to the Rule of 72 but allows you to solve for the CAGR is you know how much your money has grown in X year.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8mofb",
+          "text": "CAGR = 70% * (doublings/years)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "an1qn",
+          "text": "Example",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "frodv",
+          "text": "Your home is up 8x in 50 years.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5kf4l",
+          "text": "What's the CAGR?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "alelm",
+          "text": "8 is 3 doublings",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "bad29",
+          "text": "70% * (3/50) = 4.2%",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 43,
+                "text": "https://blog.moontower.ai/growth-rate-70-doublings-years/",
+                "toIndex": 100
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bo3df",
+          "text": "See Growth rate = 70% * (doublings/years) (https://blog.moontower.ai/growth-rate-70-doublings-years/)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9s3tt",
+          "text": "Doublings might sound like a complicated measure but you should get up to 2¹⁰ as quickly as you know your multiplication table for 12s.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5n7uv",
+          "text": "If something is up 50x, that's somewhere between 2⁵ and 2⁶ or about 5.5 doublings.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2u82k",
+          "text": "And just like that, you can estimate log base-2 fairly quickly for any number up to 1024!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fu7sp",
+          "text": "Using Bond Duration To Estimate Sensitivity to Interest Rates",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60o4i",
+          "text": "Bond duration estimates the sensitivity of a bond's price to changes in interest rates.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4jdpu",
+          "text": "Duration represents the weighted average time to receive cash flows and can be used to estimate price changes with interest rate movements.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73eb5",
+          "text": "A rough rule of thumb is that for every 1% change in interest rates, a bond's price will move inversely by approximately its duration percentage.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lue4",
+          "text": "For example, if a bond has a duration of 5 years, a 1% rise in rates results in about a 5% price decline, while a 1% decrease would result in a 5% price increase.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4a1.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4a1.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/2705.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4a1.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f517.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4a1.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f517.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f517.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "88f90e3c-6277-41b6-94eb-624d848f355b",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041193687372505088"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFPG2A2boAAKAAIAAAAAC9gN9QAA",
+        "media_id": "2041193687372505088",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.41,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.35,
+                "rgb": {
+                  "blue": 231,
+                  "green": 198,
+                  "red": 178
+                }
+              },
+              {
+                "percentage": 0.23,
+                "rgb": {
+                  "blue": 138,
+                  "green": 143,
+                  "red": 141
+                }
+              }
+            ]
+          },
+          "original_img_height": 497,
+          "original_img_url": "https://pbs.twimg.com/media/HFPG2A2boAAMWy2.jpg",
+          "original_img_width": 561
+        },
+        "media_key": "3_2041193687372505088"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1824 @@
+{
+  "tweet_created_at": "2026-04-07T08:22:03.000000Z",
+  "id": 2041431297441046500,
+  "id_str": "2041431297441046652",
+  "type": "tweet",
+  "conversation_id_str": "2041431297441046652",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/nUQ6SyWIFn",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 161355169,
+    "id_str": "161355169",
+    "name": "MHP",
+    "screen_name": "MHP_Bilgi",
+    "location": "Türkiye",
+    "url": "http://www.mhp.org.tr",
+    "description": "Milliyetçi Hareket Partisi (MHP) Resmî Twitter Hesabıdır.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 2737691,
+    "friends_count": 1,
+    "listed_count": 1338,
+    "favourites_count": 6653,
+    "statuses_count": 41330,
+    "created_at": "2010-06-30T16:52:14.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/161355169/1622364182",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1663517379861544961/GYSnotOl_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 12,
+  "reply_count": 52,
+  "retweet_count": 823,
+  "favorite_count": 1311,
+  "views_count": 23079,
+  "bookmark_count": 11,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041420983320313856",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/nUQ6SyWIFn"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T08:22:03.000000Z",
+    "id": 2041431297441046500,
+    "id_str": "2041431297441046652",
+    "title": "Genel Başkanımız Sayın Devlet BAHÇELİ’nin, TBMM Grup Toplantısında yapmış oldukları konuşma.  ",
+    "preview_text": "Aziz Dava Arkadaşlarım,\nMuhterem Milletvekilleri,\nSaygıdeğer Hanımefendiler, Beyefendiler,\nBasınımızın Kıymetli Temsilcileri,\nYurt içinde ve yurt dışında, gönül ve kültür coğrafyamızın her köşesinde",
+    "cover_url": "https://pbs.twimg.com/media/HFSWIW5aAAA2m0j.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "54lem",
+          "text": "Aziz Dava Arkadaşlarım,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "akj14",
+          "text": "Muhterem Milletvekilleri,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1cro9",
+          "text": "Saygıdeğer Hanımefendiler, Beyefendiler,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2oe9i",
+          "text": "Basınımızın Kıymetli Temsilcileri,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b4mf7",
+          "text": "Yurt içinde ve yurt dışında, gönül ve kültür coğrafyamızın her köşesinde bizleri takip eden aziz vatandaşlarımızı en kalbi duygularımla, sevgiyle, saygıyla ve muhabbetle selamlıyorum.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e72c3",
+          "text": "Türkiye Büyük Millet Meclisi Grup Toplantımız vesilesiyle bir kez daha sizlerle aynı çatı altında bulunmaktan memnuniyet duyuyor, her birinizi hürmetle, vefayla ve kardeşlik duygularımla selamlıyorum.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ehahd",
+          "text": "Değerli Dava Arkadaşlarım,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2i5m",
+          "text": "Türk milletinin müşterek hafızasında silinmez izler bırakan, fikirleriyle çağları aşan, mücadelesiyle Türk milletinin davasını milletimizin ruh köklerine nakşeden merhum Başbuğumuz Alparslan Türkeş Bey’i, ebediyete irtihalinin 29. yıl dönümünde rahmet ve minnetle yâd ediyoruz.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4h531",
+          "text": "Türkeş Bey; Türk milliyetçiliğini teorik bir çerçeveden çıkarıp, sosyolojik bir gerçeklik ve tarihsel bir süreklilik içinde milletin vicdanında kökleştiren; onu bir ahlak nizamı, bir aksiyon disiplini ve bir medeniyet iddiası haline getiren müstesna bir devlet ve dava adamıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jfn",
+          "text": "Merhum Türkeş Bey, hayatının her safhasında milli aklı esas almış; devleti “ebed müddet” şuuruyla kavramış, milleti merkeze yerleştiren bir siyaset anlayışını tavizsiz şekilde temsil etmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7bo43",
+          "text": "O zor zamanların adamıydı.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96ipa",
+          "text": "Fırtınalı dönemlerin sarsılmaz iradesiydi.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ptq8",
+          "text": "Karanlık senaryoların karşısında yakılmış bir meşaleydi.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f26pe",
+          "text": "Ne tehditlere boyun eğmiş, ne de menfaat kapılarında eğilip bükülmüştür",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55uu9",
+          "text": "İnandığı değerleri her şart altında savunmuş; Türk milletinin birliğini, dirliğini ve bekasını her türlü siyasi hesabın üstünde tutmuştur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9smso",
+          "text": "Onun hayalini kurduğu ve bizlere emanet ettiği Türk birliği ve Turan ülküsü, Allah’ın izniyle mutlaka hayat bulacaktır, gerçeğe dönüşecektir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dccfl",
+          "text": "Çünkü büyük Türk milleti, geçmişinden aldığı kudretle geleceğini inşa edecek iradeye sahiptir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9v3rn",
+          "text": "Bu duygu ve düşüncelerle; Merhum Başbuğumuz Alparslan Türkeş Bey’i ebediyete irtihalinin 29’uncu yıl dönümünde bir kez daha saygı ve rahmetle yâd ediyorum.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b8rp6",
+          "text": "Değerli Dava Arkadaşlarım;",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "omnu",
+          "text": "Dünyada değerler sisteminin çöktüğü, büyük anlatıların iflas ettiği, tarihi bir dönemeçte olduğumuz herkesin malumudur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cs4a9",
+          "text": "Eski düzenin kurgulamış ve inşa etmiş olduğu anlam kodları ortadan kalkmış lakin yeni egemenlik formları ise tasavvur şeklinde bulunduğu için yürürlüğe girmemiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "10ce5",
+          "text": "Küresel düzenin derin bir şekilde sarsıldığı ve anlam sisteminin bozulduğu bu dönemde kararlarımızı bu gerçeği göz önünde bulundurarak ortak bir sorumlulukla almak durumundayız.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1hr5g",
+          "text": "Tarihin çeşitli kırılma ve kopuş anlarında en etkili güvenlik, milli birlik ve beraberlik içerisinde ortak iradeye dayanan güvenliktir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ab7c0",
+          "text": "Ve bu durum; hepimizin ortak akli, ahlaki ve vicdani sorumluluğudur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bdpq5",
+          "text": "Bugün tanık olduğumuz küresel ve bölgesel istikrarsızlık, yaşanılan çatışmalar eskinin tam olarak öldüğünün yeninin ise henüz doğmamış olduğunun göstergesidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3dkm8",
+          "text": "Bu da kelimenin tek anlamı ile bir kriz durumudur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "diedl",
+          "text": "Kriz ise, sorunların ne olduğunu bilmemek değil, çözümlerin ne olduğunu bilmemektir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "an5re",
+          "text": "Lakin her kriz dönemi diğer taraftan bir eşiktir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8f87i",
+          "text": "Cumhur İttifakı ile beraber Türkiye Cumhuriyeti Devleti’nin kurmuş olduğu yapıcı ilişkiler, inşallah bu eşiği bölgenin istikrarı için varılacak bir hedefe dönüştürecektir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6pn1d",
+          "text": "Zira dünya düzeni içerisinde 2. Dünya savaşından sonra, kurumsallaştığını düşündüğümüz küresel örgütler işlevselliğini yitirmiş, ortak bir akılla krizlere karşı çözüm üretme kabiliyetlerini de kaybetmişlerdir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9d1ve",
+          "text": "Küresel ölçekte sağlanmış olan hegemonya, ahlaki ve ideolojik referans kalıplarını kaybetmiş, rıza üretme anlayışı ortadan kalkmış, bu durum ise haklının güçlü olduğu değil, güçlünün haklı olduğu anlayışına evrilip, huzursuzluğun ortaya çıkmasına şiddetin normalleşmesine neden olmuştur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bfm1k",
+          "text": "Trump ve Netenyahu, rıza üretmeyi bir kenara bırakarak, zora dayalı hegemonyanın sürdürülemez olduğunu göz ardı etmiş ve tarih dışı bir tutumla telafisi zor bir hata yapmışlardır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ta6i",
+          "text": "İbretlik bir biçimde de bu hatalarına ısrarla devam ettikleri gözlemlenmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b4hlj",
+          "text": "Çünkü onları bir araya getiren değereler manzumesi ve insanlığın ortak düşüncesinin birikimine dayalı söz varlığı tükenmiş, batılı akıl için anlam sistemi açısından yolun sonu görünmüştür.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qod9",
+          "text": "Başta ABD’deki, Trump karşıtı yürüyüşler ve savaş karşıtı yüksek rütbeli askeri hiyerarşideki tartışmalar olmak üzere, Batı kamuoyunun halk ve bürokrasi bazında, vicdanının sesini dinlemeye devam etmesi halinde, Trump yönetimi bu gerçeklikle yüzleşmek zorunda kalacaktır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89cit",
+          "text": "Benzer bir şekilde, geçen hafta da ifade ettiğim gibi sağduyulu dünya Yahudilerinin Netenyahu’nun Siyonist ideolojik zihniyetine karşı, itirazlarını yüksek sesle dile getirmeleri beklenilmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "27sv8",
+          "text": "İşte bu nedenlerden dolayı;",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "99ud9",
+          "text": "Her konuyu derinlemesine incelemek ve gerçeğe en yakın bir şekilde sonuçlar çıkarmak bir mecburiyet, milletimize karşı ilkeli ve tutarlı bir siyasetin gereğidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2e7gk",
+          "text": "Geçen yirmi yıl içinde ayak seslerini duyduğumuz ve birçok konunun içeriğini oluşturan “yeni dünya düzeni” bugün bir “nizam” değil bir “kaos” olarak karşımıza çıkmaktadır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1g2jp",
+          "text": "Bu kaos insanlığı etkilemekte, masum insanlar ölmekte, bir istikrarsızlık dünyayı derinden sarsmaktadır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mt0t",
+          "text": "Modern düşünürlerin ifadesiyle bugünkü dünya durumu deyim yerindeyse bir “fetret dönemini” andırmakta, bir gelecek tasavvurundan ziyade geçmişin acı dolu çatışmacı günlerine götürmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "47ugc",
+          "text": "Nitekim bu tespiti doğrularcasına, küresel ölçekte yaşanan gerilimler ve sıcak çatışmalar her geçen gün daha da derinleşmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3t77o",
+          "text": "Amerika Birleşik Devletleri, İsrail - İran Savaşı otuz dokuzuncu gününde de karşılıklı saldırılarla devam etmekte, meşruiyetten yoksun, insan onur, haysiyet ve şerefini askıya alan bu saldırıların süreceği de maalesef görünmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b2gp",
+          "text": "İran’a karşı yapılan saldırılar her geçen gün hem can kaybını artırmakta hem de alt yapının tahribatını giderek büyütmekte, İran, İsrail ve ABD’nin yıkıcı gücüyle bir çıkmaza sürüklenmek istenmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5gdf",
+          "text": "Tüm bu çok yönlü baskı ve kuşatma girişimlerine rağmen, İran halkının mukavemeti: kararlılığı, dayanıklılığı ve toplumsal refleksiyle dünya kamuoyunun dikkatini üzerine çekmiştir. Bu direniş iradesi, uluslararası çevrelerde şaşkınlıkla karşılanmış, başta Trump olmak üzere birçok siyasi aktörün öngörülerini de boşa çıkarmıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "etklh",
+          "text": "Özellikle Hürmüz Boğazı odaklı çatışma, dünyada da bir taraftan enerji krizini beslemekte, diğer taraftan da tedarik zincirlerini etkilemekte, her geçen gün bu sorunu karanlık ve belirsiz bir geleceğe doğru sürüklemektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g8hp",
+          "text": "Dünyada öngörülemez bir istikrarsızlığı derinleştirecek nitelik arz eden bu savaş uluslararası örgütlerin işlevsizleştiğini ve kalıcı bir barış için arabuluculuk yapmaktan aciz olduklarını göstermektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1iaui",
+          "text": "Sayın Milletvekilleri,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cpiut",
+          "text": "Değerli Dava Arkadaşlarım",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cppj1",
+          "text": "Zaman, mekân ve insandan söz ettiğimiz her durumda aslında insanın tarihsel varlığından söz ediyoruzdur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehgp3",
+          "text": "İnsan tarihsel bir varlıktır. Çünkü atalarımızın aldığı kararlar bugün bizim yaşadıklarımızın genel çerçevesini oluşturmaktadır. Tarihsel hafızaya dayanarak bizim alacağımız kararlar da milletimizin geleceğine istikamet verecektir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7alq",
+          "text": "Bu gerçeğin idrakiyle,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1bul",
+          "text": "Böylesi bir milli şuurla,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mvjv",
+          "text": "Böylesi bir milli duyguyla,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 167,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7nlo5",
+          "text": "Bugünkü dünya durumunun semptomlarını dikkatli bir şekilde çözümlemek ve bunları akıl yoluyla incelemek kuşkusuz siyaset yapıyorum diyen herkesin ortak sorumluluğudur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7g0sm",
+          "text": "İçinden geçtiğimiz zaman diliminde, her zamankinden daha çok, üzerimizde tarihi ve ahlaki bir sorumluluk vardır. Çünkü bugün biz aldığımız kararlarımızla gelecek nesillerimizin hayatını tayin edecek; onlara, ya mutlu ve huzurlu bir geleceği tesis edeceğiz, ya da başa çıkmakta zorlandıkları meşgaleler olarak kötü bir miras bırakacağız.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "n8id",
+          "text": "Tarihin tecrübesi içinden damıtılarak gelen milli kültürümüz, bize şunu tembihlemektedir. Her türlü başarının, her nevi kuvvetin, kudretin, hakiki kaynağı milletin ta kendisidir. İşte bunun içindir ki saatin akrep ve yelkovanı ile birlikte yürüdüğü gibi, devlet ve millet hayatımızı da ahenkle yürütmeliyiz.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ts5b",
+          "text": "20. yüzyılın başında Ortadoğu’nun sınırları yeniden şekillendirilirken kurulan oyunları bozan saf ve duru bir iradeyle Cumhuriyeti inşa eden akıl; bugün emperyalizmin farklı maskelerle yeniden ortaya çıktığı bir dönemde de, Türk ve Türkiye Yüzyılı’nda aynı kararlılık ve bilinçle her türlü oyunu bozacak güçlü bir terkiple daha güçlü bir cumhuriyet iradesi olarak varlığını sürdürmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 47,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 47,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "4o8a3",
+          "text": "Fikir ve Dava Adamı Dündar Taşer’in ifadesiyle:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 199,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 199,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "d6up0",
+          "text": "Çok büyük felaketler geçirmiş, çok feci belalara uğramış, bütün bunlara karşı çok üstün yaşama azmi, direnci göstermiş bir milletiz. Bu yaşama azmi, direnci bizim geleceğe ümitle bakmamızı emreder!..",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3t65r",
+          "text": "Hem dünyada hem bölgede gerçekleşen her türlü hadiseyi düzenli bir şekilde çözümlemek, bunları akıl yolu ile incelemek hepimizin ortak sorumluluğudur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9t8re",
+          "text": "Lakin böylesi bir gerçeklik durumunda bile bugünkü muhalefetin koçbaşını çeken Cumhuriyet Halk Partisi siyaset yerine laf üretmekte, sorunların çözümüne katkı sunmak yerine basit ve çıkarcı bir tutumla hareket etmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "didre",
+          "text": "Millet için en değerlisinin ne olduğunun idrakinden yoksun bulunmakta, çeşitli küresel odaklara sığınmakta, yanlış adreste doğru kişiyi aramaktadırlar.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1np5",
+          "text": "Gerçekle arasına mesafe koymuş olan bu anlayış, köklerle değil yapraklarla uğraşmakta, gerçeğe sırtını dönüp sanala, ömrünü tamamlamış bir söyleme, sosyalist enternasyonale teslim olmaktadır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ir6h",
+          "text": "Düşünceleri aklın mayasıyla yoğurma kabiliyetini kaybeden anlayış, ülke, bölge ve dünya gündemini basit çıkarları doğrultusunda değerlendirmekte, devletten, milletten ve gerçekliklerden kopmuş görüntü vermektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8er1k",
+          "text": "Öte yandan, son günlerde CHP zihniyetini temsil eden bazı belediye başkanlarının, çürümenin hat safhasına ulaşmış olmalarını ve milletin kendilerine emanet ettiği makamları her açıdan istismar ettiklerini görmekten büyük üzüntü duymaktayız.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "en9f8",
+          "text": "Milletimizin içinden geçtiği bu tarihsel dönemeçte yalnızca teşhis koymak kolaycılıktan ibarettir; asıl olan, çare üretmek ve sorumluluk almaktır ki, Milliyetçi Hareket Partisi olarak bizim ortaya koyduğumuz yaklaşım da tam olarak budur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7s8cm",
+          "text": "Nitekim sadece tehditleri sıralamak için politikacı gömleği giymeye dahi gerek yoktur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2quv5",
+          "text": "Sayın Milletvekilleri,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5re9d",
+          "text": "Değerli Dava Arkadaşlarım:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3uvu",
+          "text": "Hepinizin çok iyi bildiği gibi; Milliyetçi Hareket Partisi “Önce Ülkem ve Milletim sonra partim ve ben” derken slogan değil fikir,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7l2h7",
+          "text": "Hamasete dayalı propaganda değil sağduyu ifade eder.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a14pt",
+          "text": "Değerler alanına savaş açmaz, değerlere dayalı politika üretir,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b38qn",
+          "text": "Sorunlardan beslenmez, sorunlara çözüm üretmek için gayret eder.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ndhe",
+          "text": "Ortak kültüre dayanan bir sosyal yapı olarak millet ve bunun dili olarak milliyetçilik, Milliyetçi Hareket Partisi’nin temel felsefi dayanağı ve ilkesel olarak değişmeyecek çizgisidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nl4f",
+          "text": "Bu nedenle açıkça ve kararlılıkla ifade etmek gerekir ki:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 295,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4hb5b",
+          "text": "Bu zorunluluğun yüklediği tarihi misyon sebebiyle Milliyetçi Hareket Partisi, hadiseleri günübirlik gelişmelerin dar kalıpları içinde değerlendiren bir anlayışın çok ötesindedir. Bizim bakışımız; tarih şuuru ile yoğrulmuş, milli hafızayla şekillenmiş ve devletin bekasını esas alan bir bakıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6m2q",
+          "text": "Biz gelişmelere sıradan olaylar zinciri olarak bakmayız.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5515",
+          "text": "Bize göre her hadise, Türk milletinin kader çizgisine temas eden bir mahiyet taşır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "kba8",
+          "text": "Görünenin ötesine bakar, perde arkasındaki niyetleri, hedefleri ve stratejik sonuçları okumaya çalışırız.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cuv1i",
+          "text": "Milliyetçi Hareket Partisi’nin nazarında dünya; güç çekişmesinin sertleştiği, dengelerin hızla değiştiği ve yeni bir küresel yapılanmanın sancılarının yaşandığı bir mücadele alanıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6tokj",
+          "text": "Bu tabloda Türkiye’nin yeri, tesadüflerle değil tarihî sorumlulukla, jeopolitik hakikatlerle ve milli iradeyle tayin edilmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9st1r",
+          "text": "Bizim için esas olan; milletin birliği, devletin bekası ve vatanın bölünmez bütünlüğüdür.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7476q",
+          "text": "Bu üç temel sütunu hedef alan her girişim, hangi kılıfa bürünürse bürünsün, karşısında Milliyetçi Hareket Partisi’ni bulacaktır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 120,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "79ump",
+          "text": "Burada altı özellikle çizilmelidir ki; Milliyetçi Hareket Partisi gelişmeleri yalnızca izleyen bir siyasi yapı değildir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 122,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "61ng7",
+          "text": "Gerektiğinde yön veren, gerektiğinde uyaran, gerektiğinde ise milli duruşu en net şekilde ortaya koyan bir iradenin adıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 132,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fl3m3",
+          "text": "Türkiye Cumhuriyeti’nin varlığı, Türk milletinin birliği ve milli değerlerin muhafazası bizim için tartışmaya kapalı bir hakikattir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 60,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a8b6",
+          "text": "Siyaset bizim nazarımızda geleceği inşa etme sorumluluğudur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6ott7",
+          "text": "Bizim kurduğumuz her cümlenin;",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5lf7n",
+          "text": "Öznesi Türkiye Cumhuriyeti Devletidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "82bqf",
+          "text": "Nesnesi Türk milletidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5jpbb",
+          "text": "Yüklemi devlet ve milletin bekasıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "em5bt",
+          "text": "Kavgamız bunun içindir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "42sbe",
+          "text": "Adanmışlığımız bu nedenledir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7lpom",
+          "text": "Asla tereddüt yaşamaz.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f73n1",
+          "text": "Ölüm kapımızı çalsa da katiyen vazgeçmeyiz.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5lain",
+          "text": "Kıymetli Dava Arkadaşlarım,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bto50",
+          "text": "Küresel rekabetin kızıştığı, jeopolitik fay hatlarının çatırdadığı, milletlerin ve devletlerin geleceklerini yeniden tayin etmek zorunda kaldığı bir dönemde; Türkiye’nin önünü görecek sağlam bir vizyona, milli bir yönelişe, güçlü bir kararlılığa her zamankinden daha fazla ihtiyacımızın olduğunu hiçbir zaman unutmamalıyız.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bistm",
+          "text": "Etrafımızda gelişen çatışmalar ne kadar diri, dinamik, tecrübeye dayalı akılla hareket etmemiz gerektiğini göstermektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "937oa",
+          "text": "Gücünü kaybeden aktörlerle yükselen güçlerin rekabet alanına dönüşen bu coğrafyada Türkiye, sahip olduğu istikrar, güvenlik ve kurumsal kapasitesiyle bölge de ki diğer aktörlerden ayrışan bir konumdadır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "anap6",
+          "text": "Bu durum, ülkemizi yalnızca krizlerden görece uzak tutmakla kalmamakta; aynı zamanda bölgesel aktörler açısından güvenilir bir çekim merkezi haline getirmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eeff3",
+          "text": "Türkiye’nin bu konumu, tarihsel derinliği, insan kaynağı, köklü devlet geleneği ve özellikle son yıllarda önemli bir dönüşüm geçiren caydırıcı askeri ve teknoloji gücü ile de doğrudan ilişkilidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kdbv",
+          "text": "Nitekim sahada güç üreten bir Türkiye’nin, diplomasi masasında da etkili bir aktör olarak öne çıkması kaçınılmaz olmuştur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88kja",
+          "text": "Rusya-Ukrayna savaşında üstlenilen arabuluculuk rolü, bu kapasitenin somut bir göstergesi olmuş; benzer şekilde bölgesel gerilimlerde Türkiye’nin denge kurucu rolü daha görünür hale gelmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8h3em",
+          "text": "Bu çerçevede Türkiye, krizleri yönetebilen ve yönlendirebilen bir aktör olarak konumlanmaktadır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brsob",
+          "text": "Nitekim bölgemizdeki son gelişmelerde de yoğun diplomatik girişimlerle süreci nihai bir sonuca ulaştırma çabasını yine etkin biçimde devreye soktuğu görülmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9h0q1",
+          "text": "Değerli Dava Arkadaşlarım,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6idou",
+          "text": "Öte yandan;",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ifmv",
+          "text": "Hayatın her alanının enerjiyle şekillendiği gerçeği göz ardı edilemez. Enerji; evlerimizi aydınlatan, şehirlerimizi diri, sanayimizi ayakta tutan, teknolojiyi ileriye taşıyan görünmez bir kuvvettir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2om4",
+          "text": "Üretimin sürekliliğini sağlayan, kalkınmanın hızını belirleyen, milli güvenliğin stratejik temelini oluşturan ve toplumsal refahın seviyesini tayin eden başlıca unsurdur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1neaj",
+          "text": "Enerji; tarladaki bereketten fabrikadaki üretime, hastanelerdeki hizmetten savunma sistemlerine kadar hayatın her noktasında varlığını hissettiren, düzeni kuran ve sürdüren asli kaynaktır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2mbk",
+          "text": "Kısacası enerji, hayatın kendisini mümkün kılan ana damar, milletlerin gücünü belirleyen stratejik bir omurgadır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b3mi9",
+          "text": "İşte bu hakikatten hareketle, bugün dünyada yaşanan gelişmeler çok açık bir gerçeği ortaya koymuştur: Küresel enerji sistemi ciddi bir risk altındadır ve bu risk, sınır tanımadan tüm ülkeleri etkileyebilecek bir seviyeye ulaşmıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9tflr",
+          "text": "Artık mesele sadece enerjiye ulaşmak değildir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "59p3m",
+          "text": "Asıl mesele, enerjiyi mümkün kılan yapının bütünüyle tehdit altında olmasıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jdq5",
+          "text": "Hürmüz Boğazı’nda son haftalarda yaşanan gelişmeler, dar bir geçiş hattına özgü sorundan ziyade, küresel enerji düzeninin ne denli hassas hale geldiğini ortaya koymuştur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1015k",
+          "text": "Bugün enerji limanları, petrol rafinerileri, boru hatları ve depolama tesisleri doğrudan risk altındadır. Enerji sisteminin kendisi doğrudan hedef haline gelmekte ve tehdit altına girmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ntov",
+          "text": "Bu nedenle ortaya çıkan tabloyu klasik bir enerji arz güvenliği meselesi olarak değerlendirmek mümkün değildir. Bu, çok daha derin bir kırılmadır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c7s1v",
+          "text": "Bu, doğrudan küresel ölçekte bir enerji güvenliği meselesidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qn5j",
+          "text": "İşte tam da bu yeni dönemde Türkiye’nin rolü yeniden tanımlanmaktadır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4g335",
+          "text": "Karadeniz’deki doğal gaz, Güneydoğu ve Doğu Anadolu’daki petrol keşifleri ve uluslararası alandaki enerji arama faaliyetleriyle birlikte Türkiye, güçlü altyapısının da katkısıyla, artık bir geçiş ülkesi olmaktan çıkmış; bölgede enerji istikrarının, güvenin ve barışın merkezi haline gelmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6mnsb",
+          "text": "Türkiye; farklı kaynakları buluşturan, farklı güzergâhları yöneten, kriz anlarında alternatif üretebilen ve gerektiğinde denge kurabilen bir güç haline gelmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7mskf",
+          "text": "Bu gelişme, ekonomik bir kazanımın ötesinde milli kudretin tahkimi, bağımsızlığın pekişmesi ve devletimizin stratejik kapasitesini güçlendiren önemli bir adımdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "798je",
+          "text": "Çünkü artık enerji, uluslararası sistemde güç dengelerini belirleyen en kritik unsurlardan biridir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8gqdq",
+          "text": "Enerjiye erişim, enerji akışlarını yönetebilme ve bu akışlara yön verebilme kapasitesi, ülkelerin küresel sistemdeki yerini doğrudan belirlemektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dorbr",
+          "text": "Türkiye, bu yeni dönemi doğru okuyan, riskleri doğru analiz eden; enerji alanında oyunu yeniden kuran, dengeyi belirleyen ve geleceği şekillendiren bir iradeyi temsil etmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8h6gt",
+          "text": "Çünkü enerji sadece bir kaynak değildir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dcv1e",
+          "text": "Enerji, güçtür, istikrardır ve en önemlisi barışın anahtarıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e6n4o",
+          "text": "Ve bu anlayışla açıkça ifade etmek gerekir:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8b9hj",
+          "text": "Enerjide bağımsızlık, Türkiye’nin Kızıl Elmasıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fdbcm",
+          "text": "Bu hedef, bir zorunluluktur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9j40q",
+          "text": "Bu hedef, milli bir duruştur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2gvq2",
+          "text": "Türkiye, bu hedef doğrultusunda kararlılıkla yoluna devam etmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ujd2",
+          "text": "Aziz Dava Arkadaşlarım,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d64g",
+          "text": "Tüm bu bahsettiğimiz konulara ilaveten; Türkiye’nin savunma sanayi ve teknoloji alanında son yıllarda kaydettiği ilerlemeyi de görmek ve gururlanmak gerekmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b32f3",
+          "text": "Hiç şüphesiz bu ilerleme; köklü bir stratejik dönüşümün ürünüdür.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fk8k6",
+          "text": "Uzun yıllar boyunca dış tedarike dayalı, yapı-bakım-onarım çalışmaları, modernizasyon ve operasyonel kullanımda çeşitli sınırlılıklar doğurmuş; bu durum yerli üretim ihtiyacını kaçınılmaz hale getirmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "75hqm",
+          "text": "Son yıllarda Türkiye, savunma sanayiinde “tedarik eden” konumdan “geliştiren ve üreten” konuma geçiş sürecini hızlandırmıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15aki",
+          "text": "Bu dönüşüm, kamu politikaları, özel sektör yatırımları ve mühendislik kapasitesinin artışıyla birlikte daha sistematik bir yapıya kavuşmuştur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5a8v",
+          "text": "Özellikle insansız sistemler alanında elde edilen başarılar bu dönüşümün en görünür çıktıları olmuştur.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5iuqe",
+          "text": "Dolayısıyla Türkiye’nin savunma sanayiinde son yıllarda kaydettiği yükseliş; dışa bağımlılığın azaltılması, yerli ve milli üretim kapasitesinin artırılması ve bu yapının sürdürülebilir bir sistem hâline getirilmesi üzerinden şekillenmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ev7j7",
+          "text": "Bu stratejik hamle, Türkiye’ye yalnızca sahada caydırıcılık kazandırmamış; aynı zamanda uluslararası sistemde daha bağımsız, daha dirençli ve daha etkili bir aktör olma kabiliyetini de kazandırmıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1k90e",
+          "text": "Bu tablo; milletin iradesinin devletin idaresine yön verdiği, Cumhurbaşkanlığı Hükümet Sistemi marifetiyle Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan’ın liderliğinde ve Cumhur İttifakı’nın kararlı siyasi iradesiyle vücut bulan tarihi bir dönüşüm sürecinin meyvesidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "kdj7",
+          "text": "Dün çeşitli sebeplerle akamete uğratılan savunma sanayi hamleleri, bugün yeniden ayağa kaldırılmıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cp05p",
+          "text": "Bu vesileyle; bu alana emek veren ve vizyon ortaya koyan öncü isimler de her daim rahmet ve minnetle anılmalıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8s0qe",
+          "text": "Nuri Killigil, Şakir Zümre, Nuri Demirağ, Vecihi Hürkuş bu milletin, üretme iradesini, mühendislik kabiliyetini ve bağımsızlık ülküsünü temsil eden müstesna şahsiyetler olarak tarihimizdeki yerlerini almıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e082l",
+          "text": "Aziz ruhları şad olsun.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70j9u",
+          "text": "Bugün gelinen noktada söz konusu şahsiyetlerin ortaya koyduğu hayaller, Türkiye’nin güçlü devlet iradesi ve millet desteğiyle yeniden hayat bulmuş; yarım kalan her bir vizyon, modern imkânlarla tamamlanarak somut birer stratejik kapasiteye dönüşmüştür.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9tuk",
+          "text": "Bu çerçevede savunma sanayii, Türkiye’nin bağımsızlık iradesinin, milli güvenlik vizyonunun ve geleceğe dönük kararlılığının en güçlü tezahürü hâline gelmiştir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "92c9v",
+          "text": "Kıymetli Dava Arkadaşlarım;",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 178,
+              "offset": 24,
+              "style": "Bold"
+            },
+            {
+              "length": 178,
+              "offset": 24,
+              "style": "Italic"
+            }
+          ],
+          "key": "abc3e",
+          "text": "17 Mayıs 2025 tarihinde “Barış tek kanatlı bir kuş değildir. Bir kanat Öcalan’ın yaptığı çağrı ve gelinen fesih kararıyla kendisini gösterdi. İki, kanadı millet olarak hep birlikte gövdeye getirmeliyiz” demiştim!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4gd2u",
+          "text": "Barış, ancak iki kanadın ahenkle çırpılmasıyla, milletin tamamının aynı istikamete yönelmesiyle yükselebilir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f7bmc",
+          "text": "O gün ifade ettiğimiz gibi, bu kanatlardan biri; terörün gölgesinde şekillenmiş yapıların fesih kararı ve yapılan çağrılarla kendisini göstermişti.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cj44t",
+          "text": "Asıl olan ikinci kanat ise aziz Türk milletinin bizatihi kendisidir gerçeğinden hareketle, milli iradenin merkezi olan TBMM’de yapılan komisyon çalışması büyük bir olgunluk, yüksek bir sorumluluk bilinci ve devlet ciddiyeti içerisinde sonuçlanmıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5q6ji",
+          "text": "Bu tablo, milli iradenin tecelligahı olan Gazi Meclisimizin tarihi sorumluluğunu hakkıyla yerine getirdiğinin de açık bir göstergesidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4eab",
+          "text": "Terörsüz Türkiye sürecinde ortaya konan bu güçlü siyasi irade, milletimizi çok yoran bu sorundan kurtulacağımızın da net göstergesi olmaktadır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1bin",
+          "text": "Zira bu konu günübirlik tartışmaların ötesinde; milletin bekasına, devletin istikbaline ve toplumsal huzurun teminine dair stratejik bir meseledir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 57,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cauv6",
+          "text": "Terörsüz Türkiye; doğru zamanda atılan doğru bir adımdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f4v8n",
+          "text": "Tarihi önemde bir dönüm noktasıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 145,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "967v9",
+          "text": "Akıl, vizyon, emek, sabır ve itinayla; vatan ve millet aşkıyla, devlet – millet dayanışması ile yürütülen hayırlı bir sürecin de ürünü olacaktır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 172,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "efmqu",
+          "text": "“Terörsüz Türkiye” milletimizin özlemle beklediği bir gelişme, daha müreffeh ve huzurlu bir geleceğin müjdesi, kalıcı barışın, umudun, “Lider Ülke Türkiye’nin habercisidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esh8q",
+          "text": "Bugün gelinen noktada, yasal düzenlemelerin Türkiye Büyük Millet Meclisi’ne yasa çalışması olarak taşınacak olgunluğa erişmesi memnuniyet vericidir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ut36",
+          "text": "Dünyanın ve bölgemizin ciddi kırılmalarla, risklerle ve jeopolitik sarsıntılarla karşı karşıya bulunduğu bir dönemde; kendi iç bünyemizin tahkimi, milli birliğimizin güçlendirilmesi ve toplumsal dayanışmanın sağlamlaştırılması, ertelenemez bir zaruret halini almıştır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ak73r",
+          "text": "Türkiye Büyük Millet Meclisi’nin bu süreçte aldığı inisiyatif, millet adına son derece dikkatli, son derece titiz ve sorumluluk bilinci yüksek bir şekilde yürütülmektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ft34v",
+          "text": "Bu tabloyu yakından takip ediyor, yapılan çalışmaları yakından izliyor ve gereken her hassasiyetin gösterilmesini elzem görüyoruz.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6uk6v",
+          "text": "Bu meselede hiçbir boşluk, hiçbir ihmal ve hiçbir zafiyetin kabulü mümkün değildir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "frbk8",
+          "text": "Biz diyoruz ki: Barış; teslimiyet değildir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ek10e",
+          "text": "Barış; taviz değildir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 89,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "co7ou",
+          "text": "Barış; milletin onurunu koruyarak, devletin gücünü muhafaza ederek sağlanan bir dengedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 79,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bjndv",
+          "text": "Barış; adaletin, kardeşliğin ve milli varlığın birlikte yükseldiği bir ülküdür.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1igat",
+          "text": "Türkiye Cumhuriyeti, köklü kardeşliğin, güçlü geleceğin, ortak kaderin ve sarsılmaz birlik ruhunun en sağlam teminatıdır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "da7dk",
+          "text": "Bu teminat, dün olduğu gibi bugün de dimdik ayaktadır; yarın da ilelebet payidar kalacaktır.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 122,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "464hl",
+          "text": "Ve ben bir kez daha söylüyorum: Bu aziz milletin birliğini bozmaya, kardeşliğimizi zedelemeye kimsenin gücü yetmeyecektir!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d90up",
+          "text": "Bu ruh yaşadıkça;",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "187v5",
+          "text": "Ne fitne kazanacak,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cmne2",
+          "text": "Ne ihanet galip gelecektir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9krq9",
+          "text": "Konuşmama son verirken Dünya Kupasında aziz milletimizi temsil edecek A Millî Futbol Takımımızı yürekten tebrik ediyorum. Bu kutlu yürüyüşte sorumluluk üstlenen Türkiye Futbol Federasyonunun muhterem Başkanı İbrahim Hacıosmanoğlu başta olmak üzere yönetimini de samimiyetle kutluyorum.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3spsm",
+          "text": "Millî formayı büyük bir onur ve inançla taşıyan futbolcularımızın sahaya yansıttığı azim, mücadele ruhu ve fedakârlık; teknik heyetimizin kararlı ve disiplinli çalışmalarıyla birleşerek milletimize umut vermektedir.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5kmv",
+          "text": "Hepsinden öte, Dünya Kupası’nda yeniden mücadele etme imkânı bulan bu güzide kadroya inancını esirgemeyen, duaları ve desteğiyle her daim yanında olan büyük Türk milletine şükranlarımı sunuyorum. Temennim odur ki; ay-yıldızlılarımız, tarihine yakışır bir başarıyla milletimizin göğsünü kabartsın, birlik ve beraberliğimizin sahadaki nişanesi olup Türk’ün sesini sahalardan tüm Cihan’a duyursun.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 56,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fsmce",
+          "text": "Sağ olun, var olun, Cenab-ı Allah’a emanet olun diyorum.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,993 @@
+{
+  "tweet_created_at": "2026-04-05T05:43:51.000000Z",
+  "id": 2040666708265046000,
+  "id_str": "2040666708265046056",
+  "type": "tweet",
+  "conversation_id_str": "2040666708265046056",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/amRHfVKP9D",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3146997564,
+    "id_str": "3146997564",
+    "name": "かんそう",
+    "screen_name": "b_kansou",
+    "location": "連絡用 → kansou124@gmail.com",
+    "url": null,
+    "description": "感想ブログ「kansou」→https://t.co/5VRN4RKWZT\nnote「最高エッセイ」→https://t.co/4ivPcbxNDS",
+    "protected": false,
+    "verified": true,
+    "followers_count": 70001,
+    "friends_count": 948,
+    "listed_count": 312,
+    "favourites_count": 11874,
+    "statuses_count": 12124,
+    "created_at": "2015-04-10T04:59:30.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1465256062366646272/LB_BzBNo_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 392,
+  "reply_count": 5,
+  "retweet_count": 1603,
+  "favorite_count": 10765,
+  "views_count": 3618424,
+  "bookmark_count": 2503,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040664731275735040",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/amRHfVKP9D"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T05:43:51.000000Z",
+    "id": 2040666708265046000,
+    "id_str": "2040666708265046056",
+    "title": "野木亜紀子のドラマ映画に出てくる人たち名前カッコよすぎるズルい",
+    "preview_text": "『アンナチュラル』『MIU404』他…野木亜紀子先生が脚本のドラマ映画、なんで面白いのか理由わかりました。\n名前、カッコよすぎる",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fetk",
+          "text": "『アンナチュラル』『MIU404』他…野木亜紀子先生が脚本のドラマ映画、なんで面白いのか理由わかりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8eut4",
+          "text": "名前、カッコよすぎる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lbav",
+          "text": "野木亜紀子作品の面白さの何割かはメイン登場人物の「名前カッケー…」が担っていると言っても過言ではありません。絶妙に言いたくなる、書きたくなる名前…このネーミングセンスやはり野木亜紀子は脚本界のノゴーン・ベキ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ci7ue",
+          "text": "まず、アンナチュラル",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bavir",
+          "text": "主人公。石原さとみ演じる、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6lhdl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6trv6",
+          "text": "三澄 ミコト（みすみ みこと） ",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89ktc",
+          "text": "",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1p0k3",
+          "text": "カッコよすぎる…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "472rl",
+          "text": "まず「澄」という字が圧倒的にカッコいい…澄とは「にごりがない、清らか」などの意味を持つが、謎の全てを明らかにするアンナチュラルというドラマにおいてこれ以上ない大正解の漢字。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtj0l",
+          "text": "そしてそれに付随する漢数字「三」…前世、現世、来世の３つの謎を解き明かす名だとでもいうのか…？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aa9rh",
+          "text": "そんな完璧な名字からの",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "93rmi",
+          "text": "「ミコト」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a1k64",
+          "text": "並の脚本家であれば、「尊」「美琴」など漢字に逃げたくなるところをあえて「カタカナ」にすることで主人公としての奥行きを持たせているだと…名付けの化物ここに爆誕。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cpk79",
+          "text": "やばいのはこれだけではない。ミコトと犬猿の仲で復讐のためだけに生きる男…ARATA改め井浦新演じる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72eru",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1f5pv",
+          "text": "中堂 系（なかどう けい）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bk3on",
+          "text": "",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7p5fe",
+          "text": "ギャァァアアアアアアアアア！！！！！！！！！！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ri67",
+          "text": "生まれたかった…俺が「中堂系」としてこの世に生を授かりたかった。そもそも「堂」がつく名字は確定でカッコいいのに、そこに「中」が合わさることでこんなにも美しい名字になってしまう…目から鱗どころの騒ぎではない尻から龍。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5bp4j",
+          "text": "恐ろしいのは名前よ、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "62m4d",
+          "text": "「系」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94sdo",
+          "text": "この漢字を持ってくる恐るべきセンス…「系」とは「つなぐ、つながり」などの意味を持つ、これもまた命の痕跡を調べ、未来に繋げる解剖医になるために生まれたような漢字…復讐の鬼となっていた中堂にあえてこの名前を授ける覚悟…「名は体を表す」というが、野木亜紀子の作品は「名は物語を表している」のだ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ce7pt",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1nsu1",
+          "text": "さらにドラマ『獣になれない私たち』…ガッキー演じる主人公の名前",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "25s6q",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "23n3u",
+          "text": "深海 晶（しんかい あきら）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3k31",
+          "text": "",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1drh5",
+          "text": "もうやめてくれ。新開でも、新海でもない、ガチ「深海」という名字をつけることで唯一無二の特別感を演出。そこからクールビューティの代名詞「晶」を合わせるだと…？俺は女性が「あきら」という名前の時点でガチ恋確定なのに、それを新垣結衣に名乗らせる…これは、なんらかの「罪」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "74bbr",
+          "text": "そして野木作品の中でも格別にヤバいのはMIU404。一気にいきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ba9nb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4gfgj",
+          "text": "※※※※※※※※※※※※※※※※※※※※※※※鳥肌注意鳥肌注意鳥肌注意鳥肌注意鳥肌注意鳥肌注意鳥肌注意鳥肌注意鳥肌注意※※※※※※※※※※※※※※※※※※",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6nsg7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "145pc",
+          "text": "伊吹 藍（いぶき あい）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "38o28",
+          "text": "志摩 一未（しま かずみ）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5i37i",
+          "text": "九重 世人（ここのえ よひと）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eumsd",
+          "text": "陣馬 耕平（じんば こうへい）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5191o",
+          "text": "桔梗 ゆづる（ききょう ゆづる）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ev4rc",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cp598",
+          "text": "俺はドラマが始まった時、こう思いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bisbn",
+          "text": "「ウソつけ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1iv9c",
+          "text": "と。こんな連中が一つの場所に集まるわけねぇだろ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dr1o7",
+          "text": "なにが「伊吹藍（いぶきあい）」だよ。あい！？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bauo1",
+          "text": "日本でもトップクラスにカッコいい名字「伊吹」だけじゃ飽き足らず、そこに「藍」だと…？人間じゃなくセンスから産まれてるだろ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2761l",
+          "text": "しかもそんな男とコンビを組むのが「志摩」て。「島」「嶋」だろう普通は。しかも「一未」て。「一つ」の「未」と書いて一未…？本当に親、昭和の人間か？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4430i",
+          "text": "九重 世人（ここのえ よひと）に至っては、もう意味がわからん。こんなもんただの「神の子」の名前。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dn5nh",
+          "text": "さらに「耕平」の古さを帳消しどころか魅力を100倍にする最強名字「陣馬」…俺からしたらこんな名字に生まれた時点で勝ち確定。カッコよすぎて小学生が聞いたら確実にオシッコ漏らす。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ku33",
+          "text": "そしてそんなクセ者どもをまとめる麻生久美子演じる「桔梗 ゆづる」…花の中でも最も美しい名を持つ「桔梗」…そして柔らかさを演出する平仮名で「ゆづる」…斬魄刀の名前？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3o1tg",
+          "text": "特別ドラマ『スロウトレイン』。松たか子、多部未華子、松坂桃李が演じる主人公「渋谷三姉弟」の名前が",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89r16",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "39qpq",
+          "text": "渋谷 葉子（しぶや ようこ）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9gsra",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qis",
+          "text": "…これもヤバい。一見シンプルな名前だが「葉子」がヤバい。「陽子」や「洋子」ではない、この絶妙な「ズラし」こそ野木亜紀子の真骨頂",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8cvjn",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kljv",
+          "text": "渋谷 都子（しぶや みやこ）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2kvb",
+          "text": "",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ja6p",
+          "text": "頭がどうかしそうなくらい、かわいすぎる。都子（みやこ）…ちょっとネコっぽいのがとんでもない破壊力を秘めている…俺が彼氏だったら絶対に「みゃーこ」って呼んでる。キモい",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4mt1i",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dp25q",
+          "text": "渋谷 潮（しぶや うしお）",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgmai",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5egqe",
+          "text": "だめ。「潮うしお」はダメ。松坂桃李に「潮」と名乗らせる＝兵器。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dp5b6",
+          "text": "が、そんな3人を消し飛ばすほど、珍妙オブ珍妙な名を授かった男がいた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "631kr",
+          "text": "星野源が演じる人気作家、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c2o24",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2bv23",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cmpdo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f58t7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a99i5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fdjv",
+          "text": "もめき けん",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ghe6",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhk4n",
+          "text": "オ・モ・テ・ナ・シ〜おもてなし（合掌）みたいに言うな。もも百目鬼？なんじゃその珍妙オブ珍妙な名前？完全に物語のラスボス。黒幕。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8s2cv",
+          "text": "カッコ良すぎてこんなもん電話口で名前説明するときとか毎回百目鬼絶頂してるだろ、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "csjlt",
+          "text": "「お名前お教えいただけますか？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4jjmc",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "689oo",
+          "text": "「えー…もめきけん…ですね…………」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fs09a",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "anhdv",
+          "text": "「も…もめき…？さまですか…？漢字をお教えいただけますか…？」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8642h",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "613qf",
+          "text": "「百の目の…鬼が…見る……で………百目鬼見です…………ビクッッ！！ビクビクッッッッッーーーーーー！！！！」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2u38i",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ve61",
+          "text": "いない。俺の知り合いで…こんなカッコいい名前のやつら誰一人いない。なぁ…一人ぐらいいねぇのか…？メインキャストで平凡な名前、いないのか？鈴木 健太（すずき けんた）とか…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3r6jl",
+          "text": "俺の本名「池田（いけだ）」なんですけど、天地がひっくり返ってもUDIラボも4機捜にも入れねぇだろ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ggaq",
+          "text": "なにが「池に田んぼ」だよ、しょうもな。俺だって中堂とか九重とか百目鬼に生まれてきたかったよ。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "5e7fe862-0c2e-491f-a6de-3936cb1a317a",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040666625117220864"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "554680f5-3da0-4452-9420-e6e0c76d4874",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040666058609332224"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "0903eeac-da23-46d8-80f4-ce20d8c79744",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040666095611514881"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "1e513855-c9d9-4daf-b8a9-0b1fc4291a30",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040666136153620480"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFHne88bcAAKAAIAAAAAu5NfPAAA",
+        "media_id": "2040666625117220864",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 73.54,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 23.59,
+                "rgb": {
+                  "blue": 25,
+                  "green": 20,
+                  "red": 16
+                }
+              },
+              {
+                "percentage": 3.36,
+                "rgb": {
+                  "blue": 109,
+                  "green": 105,
+                  "red": 103
+                }
+              }
+            ]
+          },
+          "original_img_height": 1130,
+          "original_img_url": "https://pbs.twimg.com/media/HFHne88bcAAicpS.png",
+          "original_img_width": 1062
+        },
+        "media_key": "3_2040666625117220864"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFHm9+ibEAAKAAIAAAAAu5NfPAAA",
+        "media_id": "2040666058609332224",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 67.07,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 30.23,
+                "rgb": {
+                  "blue": 25,
+                  "green": 20,
+                  "red": 16
+                }
+              },
+              {
+                "percentage": 2.98,
+                "rgb": {
+                  "blue": 125,
+                  "green": 122,
+                  "red": 120
+                }
+              }
+            ]
+          },
+          "original_img_height": 1132,
+          "original_img_url": "https://pbs.twimg.com/media/HFHm9-ibEAAR6k6.png",
+          "original_img_width": 888
+        },
+        "media_key": "3_2040666058609332224"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFHnAIYbkAEKAAIAAAAAu5NfPAAA",
+        "media_id": "2040666095611514881",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 63.99,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 32.9,
+                "rgb": {
+                  "blue": 25,
+                  "green": 20,
+                  "red": 16
+                }
+              },
+              {
+                "percentage": 4.15,
+                "rgb": {
+                  "blue": 116,
+                  "green": 113,
+                  "red": 111
+                }
+              }
+            ]
+          },
+          "original_img_height": 1102,
+          "original_img_url": "https://pbs.twimg.com/media/HFHnAIYbkAE-j_g.png",
+          "original_img_width": 1134
+        },
+        "media_key": "3_2040666095611514881"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFHnCfabAAAKAAIAAAAAu5NfPAAA",
+        "media_id": "2040666136153620480",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 69.8,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 28.21,
+                "rgb": {
+                  "blue": 25,
+                  "green": 20,
+                  "red": 16
+                }
+              }
+            ]
+          },
+          "original_img_height": 1108,
+          "original_img_url": "https://pbs.twimg.com/media/HFHnCfabAAAh2DR.png",
+          "original_img_width": 1120
+        },
+        "media_key": "3_2040666136153620480"
+      }
+    ]
+  }
+}

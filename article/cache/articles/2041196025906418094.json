@@ -1,0 +1,4118 @@
+{
+  "tweet_created_at": "2026-04-06T16:47:10.000000Z",
+  "id": 2041196025906418200,
+  "id_str": "2041196025906418094",
+  "type": "tweet",
+  "conversation_id_str": "2041196025906418094",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/2joqSuNU32",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1360153294937669600,
+    "id_str": "1360153294937669635",
+    "name": "hoeem",
+    "screen_name": "hooeem",
+    "location": "Join 24k + pirates 👉",
+    "url": "https://sevenc.substack.com",
+    "description": "helping you turn screen time into cash flow using modern stacks to create digital leverage.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 166631,
+    "friends_count": 1750,
+    "listed_count": 4461,
+    "favourites_count": 91837,
+    "statuses_count": 54362,
+    "created_at": "2021-02-12T09:06:46.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360153294937669635/1673297311",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1583462717498728455/puvD9UlZ_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/blocmates",
+      "badge_url": "https://pbs.twimg.com/profile_images/2016157466698944513/a7EkPcJa_bigger.jpg",
+      "description": "blocmates.",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 14,
+  "reply_count": 57,
+  "retweet_count": 194,
+  "favorite_count": 1777,
+  "views_count": 858392,
+  "bookmark_count": 7026,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041169900769538050",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/2joqSuNU32"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T16:47:10.000000Z",
+    "id": 2041196025906418200,
+    "id_str": "2041196025906418094",
+    "title": "How to create your own LLM knowledge bases today (full course):",
+    "preview_text": "If you're able to learn how to create an LLM knowledge base then you have essentially created your own \"external brain\" that you can utilise, on top of that, this could change how you run your",
+    "cover_url": "https://pbs.twimg.com/media/HFPI3-PboAEpm2d.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53ihp",
+          "text": "If you're able to learn how to create an LLM knowledge base then you have essentially created your own \"external brain\" that you can utilise, on top of that, this could change how you run your business, your content, your network, your life, it can all be run through your own personalised external brains that you have access to. In fact, there's probably a market for creating this for local businesses in your community if you're able to connect to them and showcase them the value in creating an external brain for their entire business.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4b13t",
+          "text": "What happened?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0qn1",
+          "text": "Andrej Karpathy happened and showcased how he is using LLM knowledge bases which essentially work as external brains...",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1gr8b",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7fbht",
+          "text": "So, I wanted to showcase this system in this complete guide, step by step, so I had some back and fourths with my mate claude and we decided that we'd chat through 3 versions to create LLM knowledge bases, here they are...",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "deei1",
+          "text": "Pick your version:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5rdd",
+          "text": "Complete beginner > Click CTRL F and type: \"YOUR FIRST KNOWLEDGE BASE\"",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brqjo",
+          "text": "Comfortable with AI tools > Click CTRL F and type: \"THE FULL SYSTEM\" and read it up to automation.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6i5pi",
+          "text": "Builder / developer > Click CTRL F and type \"THE FULL SYSTEM\" and read it all the way through.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bph3k",
+          "text": "Before you do that ask yourself if you want to do this and read this:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d4t7r",
+          "text": "Most people use AI like a search engine with amnesia.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17jov",
+          "text": "You ask a question, get an answer, close the tab. Tomorrow you start from scratch. Nothing accumulates. Nothing compounds. You're burning tokens to rediscover the same context over and over again.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ff1te",
+          "text": "Karpathy's system flips this completely:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4kcus",
+          "text": "You collect raw material. Articles, papers, YouTube transcripts, PDFs, anything related to a topic you care about",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5uuhg",
+          "text": "The AI reads everything and writes a structured wiki. Summaries, concept explanations, connections between ideas, a master index",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3ccut",
+          "text": "You ask questions against the wiki. It researches across its own compiled knowledge and gives you cited, synthesised answers",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7jbp9",
+          "text": "Every answer gets filed back into the wiki. So the next question benefits from all previous work",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "91o2v",
+          "text": "The AI periodically health-checks the wiki. Finding contradictions, gaps, outdated information, and fixing them",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3lkgf",
+          "text": "The result? A personal knowledge base that gets smarter every time you touch it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 125,
+              "style": "Italic"
+            }
+          ],
+          "key": "6rev0",
+          "text": "After a month of feeding it, you have a deeply interlinked resource that no Google search could replicate. Because it's been synthesised, not just indexed.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8cinv",
+          "text": "This works for literally any topic. Crypto markets. Medical research. Legal case law. Competitive intelligence. Academic study. Philosophy. If you want to accumulate and connect knowledge over time, this is the system.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bs2fr",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpfbs",
+          "text": "1: YOUR FIRST KNOWLEDGE BASE:",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vabk",
+          "text": "Zero tekkerzzz are required here (tekkerzzz is like British slang for a baller, which is British slang for someone who has skill with a football, which actually just means you got skills, I could have just said zero skills but that's not me, so zero tekkerzzz it is init)...",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ug57",
+          "text": "If you can install an app and copy-paste text, you can do this right now.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fh27k",
+          "text": "What you need",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 11,
+              "offset": 83
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2f030",
+          "text": "Obsidian (free). A note-taking app that works with plain text files. Download from obsidian.md. Mac, Windows, Linux, iOS, Android.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 40,
+                "text": "claude.ai",
+                "toIndex": 49
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 9,
+              "offset": 40
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5c56r",
+          "text": "A Claude subscription ($20/month Pro at claude.ai). Or any AI chatbot you prefer: ChatGPT, Gemini, whatever.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7r3ch",
+          "text": "That's it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7t8hq",
+          "text": "Step 1: Create your vault (2 minutes)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7dt0v",
+          "text": "Open Obsidian. It'll ask you to create or open a \"vault.\" A vault is just a folder on your computer where your notes live.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 6,
+              "style": "Bold"
+            }
+          ],
+          "key": "n4l8",
+          "text": "Click \"Create new vault\"",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9v30",
+          "text": "Name it something descriptive (e.g. \"crypto-research\" or \"health-knowledge\")",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "p0hg",
+          "text": "Choose where to save it (Documents folder is fine)",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 6,
+              "style": "Bold"
+            }
+          ],
+          "key": "dgh8a",
+          "text": "Click \"Create\"",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "pctm",
+          "text": "You now have an empty vault. Obsidian watches this folder. Any markdown file you put inside will appear as a note automatically.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "22c6u",
+          "text": "Step 2: Create two folders (1 minute)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 51,
+              "style": "Bold"
+            }
+          ],
+          "key": "294v1",
+          "text": "In Obsidian's left sidebar, right-click and select \"New folder\". Create these two:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "104gh",
+          "text": "raw for your source material (articles, notes, anything you collect)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esn09",
+          "text": "wiki for where the AI will build your compiled knowledge base",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efco9",
+          "text": "That's your entire starting structure.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ljvh",
+          "text": "Step 3: Add your first raw sources (5 minutes)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgbcn",
+          "text": "Pick a topic you're genuinely interested in. Find 3 to 5 good articles about it. For each one:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 42,
+              "style": "Bold"
+            }
+          ],
+          "key": "155kf",
+          "text": "In Obsidian, right-click the raw folder > \"New note\"",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8unpe",
+          "text": "Give it a descriptive name (e.g. \"bitcoin-halving-2024-explainer\")",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgb1u",
+          "text": "Copy-paste the article text into the note",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5o558",
+          "text": "At the very top, add a line like: Source: [paste the URL here]",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6vk29",
+          "text": "Don't overthink the formatting. Don't stress about structure. Just get the raw text in there.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 20,
+              "offset": 23,
+              "style": "Bold"
+            }
+          ],
+          "key": "ao5g5",
+          "text": "Quick win: Install the Obsidian Web Clipper browser extension (free, Chrome/Firefox/Safari/Edge). It saves web pages directly into your vault as formatted markdown notes with one click. But for your first go, copy-paste is perfectly fine.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fbqoq",
+          "text": "Step 4: Ask the AI to compile your wiki (5 minutes)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50lgq",
+          "text": "Open Claude (or your preferred AI). Copy and paste this prompt, replacing the bracketed sections:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ir6m",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "v4ns",
+          "text": "Claude will produce structured output. Copy each section into a new note inside your wiki folder:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9m1ie",
+          "text": "Save the summaries as individual notes (e.g. wiki/summary-bitcoin-halving.md)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3gva0",
+          "text": "Save the master index as wiki/index.md",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bp429",
+          "text": "Save the concept article in wiki/ with a descriptive name",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5j890",
+          "text": "Step 5: See the magic",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "eb7a0",
+          "text": "Open Obsidian's Graph View (click the graph icon in the left sidebar, or press Ctrl/Cmd+G).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6oh1e",
+          "text": "You'll see your notes as dots, connected by the [[wikilinks]] the AI created. This is your knowledge base, visualised as a network of connected ideas.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kqts",
+          "text": "Click on any [[linked concept]] in a note. If a page exists for it, Obsidian opens it. If it doesn't exist yet, Obsidian offers to create it. This is how the wiki grows organically.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6ubrm",
+          "text": "You now have a working knowledge base. Everything from here is about making it bigger, faster, and more powerful.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7mfti",
+          "text": "Growing Your Knowledge Base (The Daily Habit)",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtphg",
+          "text": "Once you have the basic structure, the workflow becomes dead simple:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cp5h",
+          "text": "Adding new sources",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ompi",
+          "text": "Whenever you read something worth keeping:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88u3j",
+          "text": "Clip or paste it into your raw folder",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ke5",
+          "text": "Open Claude and paste this:",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fdtjm",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2t60q",
+          "text": "Save the outputs into your wiki folder, replacing the old index with the updated one",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbclv",
+          "text": "Asking questions",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cjtgf",
+          "text": "This is where it gets genuinely powerful. Once you have 10+ compiled articles:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4t9lo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 62,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f69ik",
+          "text": "The critical habit: always file the answer back into the wiki. Save it in your wiki folder. This is the compounding loop. Every question enriches the base for future questions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bu1n",
+          "text": "Weekly health check",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cotql",
+          "text": "Once a week, paste your full index to Claude with this:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "89bic",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c22fn",
+          "text": "Three interactions per week. One or two source additions, an occasional question, and a health check. That's all it takes for the knowledge base to grow steadily.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "flhmi",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68s2s",
+          "text": "2: THE FULL SYSTEM:",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "g22k",
+          "text": "The Full System: Architecture and Setup",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c3rpu",
+          "text": "Everything above works with just Obsidian and Claude Chat. But if you want the system Karpathy actually described, where the AI handles file creation, maintenance, and indexing automatically, here's the complete architecture.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ll99",
+          "text": "The three-layer design",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7s3fr",
+          "text": "Layer 1: Raw sources (raw/ folder). Your single source of truth. The AI reads from here but never modifies it. Articles, papers, repos, datasets, images all go here. Think of it as your library's intake shelf.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 42,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5nje0",
+          "text": "Layer 2: The compiled wiki (wiki/ folder). AI-generated and AI-maintained. Summaries, concept articles, entity pages (people, organisations, tools), cross-links, indexes, and query outputs all live here. You rarely edit this directly. The AI does the writing.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2o5jj",
+          "text": "Layer 3: The schema (CLAUDE.md file). A configuration document that tells the AI how the wiki is structured, what naming conventions to follow, and what operations are available. This is the programme that controls the AI's behaviour. Lives in your vault's root folder.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "159be",
+          "text": "The four operational cycles",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6n5t5",
+          "text": "These repeat continuously, compounding the wiki's value:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1poh9",
+          "text": "Ingest. You add raw sources. The AI reads them and creates summaries, concept pages, and connections.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "aurge",
+          "text": "Compile. The AI builds and updates wiki pages, maintains the index, and weaves new information into the existing structure.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3pvha",
+          "text": "Query. You ask questions. The AI researches across the wiki and produces cited answers, which get filed back.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6vn0u",
+          "text": "Lint. The AI health-checks for contradictions, gaps, broken links, stale content, and missing pages. It fixes what it can and flags what it can't.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9h60k",
+          "text": "The complete folder structure",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "43mj2",
+          "text": "Create this inside your Obsidian vault:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "qfq8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajtfe",
+          "text": "You don't need every subfolder on day one. Start with raw/, wiki/, and CLAUDE.md. Add subfolders as the wiki grows.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56q9k",
+          "text": "Naming your files",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "7aqcb",
+          "text": "Use kebab-case (lowercase, words separated by hyphens) for all filenames:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4m2ga",
+          "text": "active-inference.md ✓",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6g7v9",
+          "text": "Active Inference.md ✗",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2p9ge",
+          "text": "active_inference.md ✗",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6nh1",
+          "text": "For source summaries, use author-year-short-title.md (e.g. friston-2010-free-energy.md). For concepts, use the concept name directly (e.g. transformer-architecture.md).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bf1gk",
+          "text": "Why this matters: kebab-case works across every operating system, is URL-friendly, and AI references it consistently. Trust me on this one. You'll thank yourself later when you have 200+ files.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1bppg",
+          "text": "Setting Up Your AI Environment",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 169,
+              "style": "Italic"
+            }
+          ],
+          "key": "12ok7",
+          "text": "The fundamental workflow is identical regardless of which tool you pick. The AI reads your markdown files, processes them, and produces markdown output. What changes is how the AI accesses your files.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dm9u5",
+          "text": "Option A: Claude Chat (Easiest, No Technical Skill Required)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8ojbp",
+          "text": "This is what most people should start with.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 15,
+                "text": "claude.ai",
+                "toIndex": 24
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 9,
+              "offset": 15
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ejs88",
+          "text": "Claude Chat at claude.ai can't write files to your computer directly. You work in a copy-paste loop: upload or paste your files, ask Claude to process them, copy the output back into your vault.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6eq1c",
+          "text": "Setup:",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 6,
+                "text": "claude.ai",
+                "toIndex": 15
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 9,
+              "offset": 6
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2s016",
+          "text": "Go to claude.ai and sign in (Pro subscription at $20/month recommended)",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "ej3bh",
+          "text": "Create a Project (left sidebar > Projects > New Project)",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71ffk",
+          "text": "In the Project instructions, paste the contents of your CLAUDE.md file",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6cvl1",
+          "text": "Upload your raw sources and existing wiki files to the Project",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8udb6",
+          "text": "Every conversation in that Project now has persistent context. Claude remembers your wiki structure and conventions across conversations.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "939om",
+          "text": "The workflow:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "i29l",
+          "text": "Paste new sources > Claude generates wiki pages > you copy them into Obsidian",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8896",
+          "text": "Ask questions > Claude produces cited answers > you save them as notes",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4v3sn",
+          "text": "Request a health check > Claude identifies issues > you apply fixes",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "654nh",
+          "text": "Yes, it's manual. But it works reliably and requires zero terminal knowledge.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4hg9k",
+          "text": "Option B: Claude Code (Most Powerful, Requires Terminal Comfort)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4j44q",
+          "text": "Claude Code is Anthropic's command-line tool with full filesystem access. It reads, writes, creates, and modifies files directly. Ideal for automated wiki maintenance.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1phib",
+          "text": "Before choosing this option:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eg78c",
+          "text": "You need basic terminal comfort (navigating folders, running commands)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3vtia",
+          "text": "Minimum Pro subscription at $20/month, Max plans at $100 or $200/month for heavier usage",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6vfko",
+          "text": "No free tier for Claude Code",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1e59",
+          "text": "Okay if you want to continue then go to Claude Code and start a session.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5cpk1",
+          "text": "Navigate to your vault folder in the terminal and type claude to start a session. Claude Code automatically reads your CLAUDE.md file from the vault root.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bopj9",
+          "text": "Why this is powerful: Claude Code can read all your files, create new wiki pages, edit existing ones, run search tools, and execute scripts. All without you copying and pasting anything. A single prompt like \"process all new files in raw/\" triggers the entire ingest-compile cycle automatically.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "vt2c",
+          "text": "Option C: Other AI Tools",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60b9j",
+          "text": "Several alternatives support this workflow as well but I'm using Claude Code but Codex would also work because the core requirement for any tool is the same: read markdown files in, produce markdown files out.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2419c",
+          "text": "Writing CLAUDE.md: The Schema That Controls Everything",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ai4uc",
+          "text": "The CLAUDE.md file is the single most important file in your system. It tells the AI exactly how your wiki is structured, what rules to follow, and what operations it can perform.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a597q",
+          "text": "Think of it as a job description for your AI research librarian.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "44ju2",
+          "text": "If you're using Claude Code, this file loads automatically at the start of every session. If you're using Claude Chat, paste it into your Project instructions or at the start of each conversation.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7h8l",
+          "text": "The template (copy this, customise the first line)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ckd23",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 11,
+              "offset": 88,
+              "style": "Italic"
+            }
+          ],
+          "key": "1p52s",
+          "text": "Keep this file concise. Every line eats into your AI context window budget. Tell the AI how to find information rather than including everything inline. The template above is deliberately under 80 lines. Resist the urge to over-specify.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4sko3",
+          "text": "Supercharging Data Collection with the Web Clipper",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 41,
+              "style": "Bold"
+            }
+          ],
+          "key": "7palr",
+          "text": "Manually copying articles works, but the Obsidian Web Clipper browser extension makes collection dramatically faster. One click turns a web page into a clean markdown note inside your vault.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3mntv",
+          "text": "Installation",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7e0ma",
+          "text": "Install the free, open-source extension from your browser's extension store (Chrome, Firefox, Safari, Edge). Click the Obsidian icon in your browser toolbar, then the gear icon to configure.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ifh0",
+          "text": "Configuration",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjlr",
+          "text": "Set these:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1ubqb",
+          "text": "General > Vault: Type your vault name exactly as it appears in Obsidian",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "iejb",
+          "text": "Templates > Default template > Note location: Set to raw/articles/",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3kb0c",
+          "text": "Templates > Default template > Properties: Add these metadata fields:",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fmo66",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ahkbl",
+          "text": "Templates > Default template > Note content: Set to {{content}}",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ce4p7",
+          "text": "What this gives you",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 110,
+              "style": "Bold"
+            }
+          ],
+          "key": "b2g1f",
+          "text": "Reading an article worth saving? Click the Obsidian icon in your browser toolbar, confirm the template, click \"Add to Obsidian\". Done. The article appears as a formatted markdown note in your raw/articles/ folder, ready for the AI to process.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fs850",
+          "text": "Making images work offline",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 108,
+              "style": "Bold"
+            }
+          ],
+          "key": "8n2en",
+          "text": "By default, the Web Clipper saves images as web links, which break when pages go offline. Fix this with the Local Images Plus plugin:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9beet",
+          "text": "In Obsidian: Settings > Community Plugins > Turn off Restricted Mode > Browse",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5drv3",
+          "text": "Search for \"Local images plus\" and install it",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6inl8",
+          "text": "In the plugin settings, set the download folder to raw/assets/",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72dl0",
+          "text": "Run the \"Localise attachments\" command after clipping sessions",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arsfr",
+          "text": "This downloads all referenced images locally. Everything works offline and the AI can reference images if you're using a vision-capable model.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "76tcc",
+          "text": "Converting non-web sources",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 42,
+              "style": "Bold"
+            }
+          ],
+          "key": "ebvln",
+          "text": "For PDFs, Word docs, and other files, use MarkItDown (a free tool by Microsoft):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "esa68",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8av7p",
+          "text": "Not comfortable with the command line? Open the PDF, select all, copy, paste into a new note in raw/. Formatting won't be perfect, but the AI only needs the text content.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eob23",
+          "text": "Wiki Compilation: Turning Raw Sources Into Structured Knowledge",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35f8o",
+          "text": "This is the core operation. You've collected sources. Now the AI compiles them into a living wiki.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6m9e4",
+          "text": "First-time compilation",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a70nk",
+          "text": "If using Claude Code, navigate to your vault in the terminal and run: claude, and then enter:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7vd6e",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8n22i",
+          "text": "If using Claude Chat, upload your raw source files (or paste them) along with your CLAUDE.md, and use the same prompt. You'll need to copy each generated page into the correct folder manually.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "545bh",
+          "text": "For ten articles, expect roughly 10 source summaries, 15 to 30 concept/entity pages, and a comprehensive index. Typically takes one conversation with a few follow-ups.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d3dp8",
+          "text": "Incremental compilation (adding new sources)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2t5ae",
+          "text": "After the initial build, each new source triggers an incremental update rather than reprocessing everything:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c9jg1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8tlb3",
+          "text": "This is the key efficiency principle: the AI integrates new sources into the existing structure rather than rebuilding from scratch. Fast and token-efficient.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqong",
+          "text": "When things go wrong (and they will)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2v5je",
+          "text": "The AI will occasionally produce imperfect output. Completely normal. Here's what you'll run into:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3obf7",
+          "text": "Missing or malformed frontmatter. The AI sometimes forgets the YAML block at the top of a page, or gets the formatting wrong. Fix: remind it in your next prompt (\"please ensure all pages have complete YAML frontmatter as specified in CLAUDE.md\").",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1kl50",
+          "text": "Broken wikilinks. The AI creates a [[link]] to a page that doesn't exist yet. Fix: this is actually fine. In Obsidian, clicking a broken link offers to create the page. You can also ask the AI to create stub pages for all unlinked concepts during a lint pass.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b9vrh",
+          "text": "Hallucinated connections. The AI claims two concepts are related when the source material doesn't support it. Fix: this is exactly why you keep raw sources immutable. You can always check claims against the originals. Flag suspicious connections and ask the AI to verify with specific citations.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9hsee",
+          "text": "Context window overflow. If your wiki gets large, the AI can't read everything at once. Fix: always start with the index file, then load only the specific pages needed.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "20sjk",
+          "text": "The Master Index: How the AI Navigates Your Wiki",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5i850",
+          "text": "The index file is what makes this entire system work without complex database infrastructure. It's a table of contents the AI reads first, allowing it to decide which specific pages to load for any given task.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7alkl",
+          "text": "What a good index looks like (example):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4js08",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 96,
+              "offset": 86,
+              "style": "Bold"
+            }
+          ],
+          "key": "cgec6",
+          "text": "Each entry has a [[wikilink]], a roughly 50-word summary, key tags, and source count. This format lets the AI scan your entire wiki's contents in about 6,500 tokens for 100 articles. Trivially small compared to modern context windows.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4loh1",
+          "text": "The activity log",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "uqd7",
+          "text": "wiki/log.md is an append-only record tracking every operation:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6c06h",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brbfn",
+          "text": "Full audit trail. Helps the AI understand what's been done recently.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ff5vn",
+          "text": "Asking Questions: The Compounding Loop",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2t10s",
+          "text": "Once your wiki reaches even 10 to 20 compiled articles, you can start asking complex questions that synthesise across multiple sources.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fp8k",
+          "text": "The query prompt:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 19,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "22hio",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b77o2",
+          "text": "The AI reads the index, identifies relevant pages, reads them, and produces a cited answer. If using Claude Chat, you'll paste the index and relevant pages manually.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f4tl3",
+          "text": "The crucial step is filing the answer back. Save it in wiki/outputs/. This is the compounding loop. Every question enriches the knowledge base for future queries.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esn6p",
+          "text": "Different output formats",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "69bk1",
+          "text": "Your wiki doesn't have to produce only text:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9s9kb",
+          "text": "Slide presentations (using Marp format):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 20,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "anano",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b189m",
+          "text": "Data visualisations (if using Claude Code or another tool with code execution):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 21,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ekh9d",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fghje",
+          "text": "Comparison tables, decision frameworks, reading lists. The wiki is your canvas.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2crrf",
+          "text": "Obsidian Plugins",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2erqn",
+          "text": "These free plugins transform Obsidian from a simple note viewer into a serious knowledge base interface (please DYOR on plugins you utilise, my LLM has suggested the following):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5rml6",
+          "text": "How to install plugins",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "g617",
+          "text": "Settings > Community Plugins > Turn off Restricted Mode > Browse. Search for the plugin name, click Install, then Enable.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bceld",
+          "text": "The essentials",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4fv9h",
+          "text": "Dataview is the single most powerful plugin for this workflow. It treats your vault as a queryable database, reading all your YAML frontmatter automatically. Embed live queries in any note:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 22,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cujot",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3oii",
+          "text": "This creates a live table of all your concept articles, sorted by most recently updated. Use it to build dashboards, find unprocessed sources, and identify gaps.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7unu9",
+          "text": "Templater auto-populates dates, filenames, and other variables when you create notes. Saves time when manually creating wiki pages.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5tuc7",
+          "text": "Obsidian Git gives you automatic version control. Configure it to auto-commit every 30 minutes and push to a remote repo. Every change is tracked and reversible. Your safety net when the AI makes a mistake.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "49j84",
+          "text": "Tag Wrangler for bulk renaming and merging tags across your entire vault. Essential once your taxonomy grows.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "56aqs",
+          "text": "Linter auto-formats notes on save. Enforces consistent YAML frontmatter, heading levels, spacing. Critical when the AI writes many files since formatting drifts.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6l1k0",
+          "text": "Marp Slides renders markdown files as presentation slides. Any note with marp: true in its frontmatter becomes a slideshow. Export to PDF, HTML, or PowerPoint.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cjvk7",
+          "text": "Homepage designates a note as your vault's landing page. Build a dashboard with Dataview queries showing recent activity and statistics.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30dnf",
+          "text": "Graph View (built in, no plugin needed)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bj05h",
+          "text": "Obsidian's Graph View visualises your wiki as an interactive network. Notes are dots. [[wikilinks]] are connecting lines. Highly connected concepts appear as larger nodes.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35hqh",
+          "text": "Use it to spot clusters of related knowledge, find orphan notes that need integration, and discover unexpected connections between topics.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3isp",
+          "text": "Health Checks and Quality Maintenance",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7h5u3",
+          "text": "Periodic health checks prevent your wiki from decaying into a collection of disconnected notes. Run these weekly, or after every major batch of new sources.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5vrd8",
+          "text": "The lint prompt:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 23,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b444v",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jird",
+          "text": "Supplementary automated checks",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d462l",
+          "text": "If you're comfortable with the command line, these free tools catch structural issues the AI might miss:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7krn4",
+          "text": "markdownlint (npm install -g markdownlint-cli) enforces consistent markdown formatting",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "edqua",
+          "text": "markdown-link-check (npm install -g markdown-link-check) validates all hyperlinks",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ncp3",
+          "text": "Optional. The AI's semantic lint catches the important stuff. These catch formatting nits.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dtdbc",
+          "text": "The two-model validation pattern",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fon73",
+          "text": "For high-stakes knowledge bases (medical research, legal analysis, investment theses), use two different AI models: one writes the wiki pages, a second independently validates them before they enter the \"live\" wiki.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "alm7m",
+          "text": "This prevents compounding hallucinations. A real concern flagged by many commentators on Karpathy's original post.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ta1p",
+          "text": "Compile with Claude, validate with GPT-4o (or vice versa). If both agree, the content is likely sound. If they disagree, investigate.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6rqn3",
+          "text": "Scaling: When Your Wiki Grows Large",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8at3",
+          "text": "How much can you fit?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bihhc",
+          "text": "At small scale (under roughly 100 articles), the index-file approach works brilliantly. The AI reads the index, picks relevant pages, loads only what it needs.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 24,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bsvbk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2qaj",
+          "text": "Adding search with QMD",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8da3e",
+          "text": "QMD is a free, open-source local search engine built by Tobi Lütke (CEO of Shopify). Purpose-built for markdown knowledge bases. Combines keyword search, semantic (meaning-based) search, and AI reranking. All running locally on your machine with no cloud dependencies.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7t8m",
+          "text": "Automating the Entire Workflow",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fcgq0",
+          "text": "The manual copy-paste workflow works. But it's slow. The real power of this system unlocks when the wiki builds itself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fgeu",
+          "text": "The Best and Easiest Way: Install a Ready-Made Plugin (2 Minutes)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 86,
+              "offset": 153,
+              "style": "Bold"
+            }
+          ],
+          "key": "96qb6",
+          "text": "Since Karpathy shared his pattern, the community has built ready-made Claude Code plugins that turn the entire wiki workflow into simple slash commands. You don't need to write any configuration, create any templates, or craft any prompts. Install, type two commands, done.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "38mdr",
+          "text": "The fastest path is the wiki-skills plugin:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 25,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3padq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5rrtu",
+          "text": "You now have these commands:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ftqm6",
+          "text": "/wiki-init scaffolds the entire folder structure in seconds",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5v0uk",
+          "text": "/wiki-ingest processes a raw source into the wiki (summary, concepts, entities, wikilinks, index update)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72vr7",
+          "text": "/wiki-query researches a question across your wiki and files the answer back",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c7jl5",
+          "text": "/wiki-lint runs a health check and fixes what it can",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "deg5j",
+          "text": "Your workflow becomes:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6sd6q",
+          "text": "Drop articles into raw/ (via Web Clipper or copy-paste)",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "frgsl",
+          "text": "Type /wiki-ingest in Claude Code",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "n60m",
+          "text": "Done. Open Obsidian and browse your wiki.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "76pia",
+          "text": "IMPORTANT:",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7jo64",
+          "text": "If you don't want a plugin, or you want to understand what's happening under the hood, the rest of this section walks through five levels of DIY automation.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 50,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1q2up",
+          "text": "Level 1: One-Command Compilation (Claude Code CLI)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8gpcc",
+          "text": "If you have Claude Code installed ($20/month Pro minimum), you can process every new source in your raw/ folder with a single command:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 26,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9i6c6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgvrj",
+          "text": "That's it. Claude Code reads your raw sources, writes every markdown file, places them in the correct folders, creates all the cross-links, updates your index. Open Obsidian and everything is there.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "41tnj",
+          "text": "The -p flag means \"prompt.\" It runs non-interactively and exits when done.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 60,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dp57k",
+          "text": "Level 2: Custom Slash Commands (Type /compile and Walk Away)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3oapf",
+          "text": "Claude Code supports custom slash commands. Reusable workflows saved as markdown files, invoked with /command-name.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8u7il",
+          "text": "Create this file at .claude/commands/wiki-compile.md:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 27,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1p96p",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rqtk",
+          "text": "Now in any Claude Code session inside your vault, type:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 28,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4082i",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4npn8",
+          "text": "Claude reads the command file, follows every step, builds your wiki.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2vpav",
+          "text": "Create similar commands for other operations:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1c2m0",
+          "text": ".claude/commands/wiki-lint.md > /wiki-lint for health checks",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbut4",
+          "text": ".claude/commands/wiki-query.md > /wiki-query How do AMMs work? for research",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "389ei",
+          "text": "Level 3: Scheduled Tasks (The Wiki Builds Itself Every Day)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 64,
+              "style": "Bold"
+            }
+          ],
+          "key": "3l6f3",
+          "text": "This is where it gets properly autonomous. Claude Code supports scheduled tasks that run automatically without you typing anything.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3kjv8",
+          "text": "Using Claude Desktop (Mac/Windows):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dc3n0",
+          "text": "Open a task, type /schedule, configure:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1ec7o",
+          "text": "What: \"Read CLAUDE.md. Process all new files in raw/. Compile into wiki.\"",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3qq7u",
+          "text": "When: Daily at 9am (or whatever suits you)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bdcoh",
+          "text": "Repeat: Daily / weekdays / weekly",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgkc8",
+          "text": "Each run starts a fresh session, processes your raw sources, writes the wiki pages, exits. You clip articles throughout the day; the wiki compiles itself overnight.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bse8s",
+          "text": "Using the CLI:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 29,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6arpb",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "21f96",
+          "text": "Using cron (Mac/Linux):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 30,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9dqdt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dgic4",
+          "text": "This runs in the background. Your wiki grows while you sleep.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "96j5v",
+          "text": "Important notes:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5n1jh",
+          "text": "Each scheduled run consumes your Claude usage quota",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "l6b7",
+          "text": "Desktop tasks only run while your computer is awake and Claude Desktop is open",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dvt02",
+          "text": "Cron tasks require Claude Code to be installed and authenticated on the machine",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vb75",
+          "text": "Level 4: GitHub Actions (Cloud Automation, Computer Off)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2mvc4",
+          "text": "The most robust setup. Your computer can be off. Compilation happens on GitHub's servers.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bggd",
+          "text": "Store your vault in a GitHub repository",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvkg6",
+          "text": "When you push new files to raw/, a GitHub Action triggers",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fmv4",
+          "text": "Claude Code compiles the wiki",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fod6v",
+          "text": "Updated wiki files commit back to the repo",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c4ttf",
+          "text": "Pull changes into your local Obsidian vault (or use Obsidian Git to auto-sync)",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3u1s5",
+          "text": "The workflow file (.github/workflows/compile-wiki.yml):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 31,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "evedr",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 104,
+                "text": "console.anthropic.com",
+                "toIndex": 125
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 32,
+              "length": 21,
+              "offset": 104
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bfv1d",
+          "text": "Cost note: This uses the Claude API (pay-per-token), not your subscription. You'll need an API key from console.anthropic.com. For 5 to 10 new sources, expect under $0.50 per run on Sonnet 4.6.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66uki",
+          "text": "Level 5: Full Agent Skills (Self-Maintaining Wiki)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 21,
+              "style": "Bold"
+            }
+          ],
+          "key": "c7hdu",
+          "text": "Claude Code supports Agent Skills that trigger automatically when it detects the right context. Unlike slash commands (which you invoke), skills activate on their own.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "j618",
+          "text": "Create .claude/skills/wiki-maintainer/SKILL.md:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 33,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3s3kl",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8f7up",
+          "text": "With this skill in place, just say \"I added three new articles to raw/\" and Claude knows exactly what to do. No commands needed.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 34,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "65krv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8oe1i",
+          "text": "Start with Level 1. Layer on more automation as you get comfortable. Each level builds on the previous. Nothing breaks if you jump ahead.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e8bq",
+          "text": "Synthetic Data Generation (Advanced)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "diuq2",
+          "text": "Once your wiki is mature, you can use it to create training data for a fine-tuned model that \"knows\" your domain in its weights.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2e4tt",
+          "text": "Feed each wiki article to Claude:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 35,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bbs68",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jb59",
+          "text": "From 100 wiki articles, expect 300 to 500 QA pairs. Enough to begin fine-tuning a smaller model via OpenAI's API (roughly $8 per million training tokens) or locally with QLoRA on a consumer GPU.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9bka4",
+          "text": "Fine-tuning teaches the model your domain's vocabulary and reasoning patterns. It's poor at memorising specific facts, so those are better served by the wiki itself. The ideal setup? A fine-tuned model for behaviour combined with the wiki for specifics.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7cg0",
+          "text": "Existing Tools and Community Implementations",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "75on6",
+          "text": "You're not building from zero. Several open-source projects already implement this pattern:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3ur2g",
+          "text": "llm-wiki-compiler with /wiki-init and /wiki-compile commands",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fd0i5",
+          "text": "sage-wiki as a full CLI with compile, search, query, and serve commands (exposes wiki as an MCP server)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7mhqg",
+          "text": "CRATE as a Python CLI implementing the three-layer pattern, OpenAI-compatible, Obsidian-friendly",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c4lad",
+          "text": "QMD as a local search engine for markdown with keyword, vector, and hybrid search plus MCP server support",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "crkvq",
+          "text": "Fabric with 140+ curated prompt patterns for standardised operations",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "lddh",
+          "text": "YAML Frontmatter Quick Reference",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8ddq",
+          "text": "Every wiki page should have metadata at the top. This enables Dataview queries, automated maintenance, and consistent AI processing.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 36,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f94mo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8rgi5",
+          "text": "Troubleshooting Common Issues",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 56,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "afa8r",
+          "text": "\"The AI keeps rewriting pages instead of updating them.\" Add explicit instructions: \"Append new information to existing sections. Do not rewrite content that hasn't changed. Preserve all existing wikilinks.\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6db9e",
+          "text": "\"My index is getting too long and unwieldy.\" Split into category indexes. Keep wiki/index.md as a lightweight overview (page title + one-line summary only). Put detailed summaries in each _index.md file within subfolders.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dr27b",
+          "text": "\"The AI hallucinates connections between unrelated topics.\" The most common quality issue. Mitigate by always tracing claims to specific source pages, running the two-model validation pattern for critical content, and including \"only make connections explicitly supported by source material\" in your CLAUDE.md.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fgrij",
+          "text": "\"I hit Claude's usage limits before finishing compilation.\" Process sources in smaller batches (3 to 5 at a time). Use incremental compilation rather than reprocessing everything. If you regularly hit limits, consider Max ($100/month) or API pay-as-you-go.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 55,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6se7u",
+          "text": "\"My wiki has duplicate concepts under different names.\" Happens naturally as the AI encounters the same idea phrased differently across sources. Add a lint rule to your CLAUDE.md: \"Check for concept pages describing the same thing under different names. Merge them, keeping the most common name and adding redirects.\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dniee",
+          "text": "\"I want to share my wiki with someone else.\" Everything is plain markdown files. Push the vault to a GitHub repo, share via cloud storage (Dropbox, Google Drive, iCloud), or deploy as a website using MkDocs Material (pip install mkdocs-material && mkdocs serve).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8tgo0",
+          "text": "The Bottom Line",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7udne",
+          "text": "The shift Karpathy identified, from \"AI as answer machine\" to \"AI as knowledge infrastructure,\" changes how individuals manage expertise. The system requires no programming background, no database administration, and no infrastructure beyond a free note-taking app and an AI subscription.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "829u3",
+          "text": "Three things make this different from normal AI usage:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c2gjb",
+          "text": "The filing loop is the superpower. Every query saved back to the wiki enriches it for future queries. Compound returns on every interaction. No chat interface gives you this.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 42,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 13,
+              "offset": 138,
+              "style": "Italic"
+            }
+          ],
+          "key": "68ima",
+          "text": "The AI is a compiler, not a search engine. It synthesises and connects ideas in ways that chunked retrieval never can. It understands the relationships between documents, not just their similarity.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7ean5",
+          "text": "Plain text is forever. Your knowledge base is a folder of markdown files, readable by any tool, on any operating system, for as long as computers exist. No vendor lock-in. No proprietary format. No opaque database.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "atvip",
+          "text": "Start small. Pick one topic. Clip five articles. Run the compilation. Ask a question. See what the wiki gives you back. Then keep feeding it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 58,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4phr2",
+          "text": "The only question is what you build your first wiki about.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7768b",
+          "text": "Drop a comment with your topic. I'll tell you if this system fits it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dicod",
+          "text": "and finally, as I have taken like a good section of my day to put this post together for free for you I believe I'm allowed to shill my own newsletter.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2vng",
+          "text": "please go check out yesterday's free newsletter covering a ton of useful AI alpha you can utilise:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 37,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dcddo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9eakj",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "34",
+          "value": {
+            "data": {
+              "entityKey": "c143094b-756d-4dbb-804b-83bc64d27d67",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041190471012331520"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n# LLM Knowledge Base — Schema\n\n## Overview\nPersonal knowledge base on [YOUR TOPIC HERE — e.g., \"DeFi protocols\nand yield strategies\" or \"machine learning fundamentals\"]. Raw sources\nlive in raw/. The compiled wiki lives in wiki/. You (the AI) maintain\nall wiki content. I direct strategy; you execute compilation,\nmaintenance, and queries.\n\n## Directory Structure\n- raw/ — Source material (read-only for you, I add files here)\n- wiki/index.md — Master index linking every page with a one-line\n  summary\n- wiki/log.md — Append-only changelog of all operations\n- wiki/concepts/ — One article per concept\n- wiki/entities/ — People, organisations, tools (one per file)\n- wiki/sources/ — One summary per raw source document\n- wiki/syntheses/ — Cross-cutting analysis articles\n- wiki/outputs/ — Filed answers to my queries\n\n## File Conventions\n- All filenames: kebab-case, lowercase (e.g., active-inference.md)\n- Source summaries: {author}-{year}-{short-title}.md\n- Every page MUST have YAML frontmatter at the top:\n  ---\n  title: \"Page Title\"\n  date_created: YYYY-MM-DD\n  date_modified: YYYY-MM-DD\n  summary: \"One to two sentences describing this page\"\n  tags: [topic-tag, domain-tag]\n  type: concept | entity | source | synthesis | output\n  status: draft | review | final\n  ---\n- Use [[wikilinks]] for all internal cross-references\n- Link only the first occurrence of a concept per section\n- Bold key terms on first use in each article\n\n## Operations\n\n### INGEST (when I add new raw sources)\n1. Read the new source document\n2. Create a source summary in wiki/sources/\n3. Identify concepts and entities mentioned\n4. Create new concept/entity pages if they don't exist yet\n5. Update existing pages with new information (append, don't\n   rewrite from scratch)\n6. Add [[wikilinks]] to connect new content to existing pages\n7. Update wiki/index.md with new entries\n8. Append to wiki/log.md\n\n### QUERY (when I ask a question)\n1. Read wiki/index.md to understand available content\n2. Read the relevant wiki pages\n3. Synthesise an answer with citations to wiki pages\n4. Save the answer as wiki/outputs/{question-slug}.md\n5. Update wiki/index.md and wiki/log.md\n\n### LINT (periodic health check)\n1. Find contradictions between pages\n2. Find orphan pages (no inbound links)\n3. Find broken [[wikilinks]]\n4. Identify missing frontmatter fields\n5. Flag stale content (source date >6 months, no updates)\n6. Suggest new articles for frequently mentioned but unlinked\n   concepts\n7. Output a report and fix what you can automatically\n\n## Page Creation Threshold\n- Create a full concept/entity page when a subject appears in 2+\n  sources\n- For single-mention subjects, create a stub page (frontmatter +\n  one-line definition + link back to the source that mentioned it)\n- Never leave a [[wikilink]] pointing to nothing — always create\n  at least a stub\n\n## Quality Standards\n- Summaries: 200-500 words, synthesise — don't copy\n- Concept articles: 500-1500 words with a clear lead section\n- Always trace claims to specific source pages\n- Flag contradictions with ⚠️, noting both positions\n- Prefer recency when sources conflict\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nRead wiki/index.md. I want to understand: [YOUR QUESTION]\n\nResearch the answer across the wiki's content — read the relevant\npages, synthesise an answer with citations to specific wiki pages,\nand save it as wiki/outputs/[question-slug].md. Update index.md\nand log.md.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "23",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nPerform a health check on the wiki. Read all files in wiki/ and\nreport:\n\n1. CONTRADICTIONS — claims in one article that conflict with\n   another. List both sources.\n2. ORPHAN PAGES — articles with no inbound [[wikilinks]].\n   Suggest where to add links.\n3. MISSING PAGES — concepts frequently referenced as [[wikilinks]]\n   but lacking their own article. Create stubs for the top 5.\n4. BROKEN LINKS — [[wikilinks]] pointing to non-existent pages.\n5. INCOMPLETE METADATA — articles missing required frontmatter.\n   Fix them.\n6. STALE CONTENT — articles based on sources over 6 months old\n   with no updates.\n7. SUGGESTED QUESTIONS — 3-5 research questions worth exploring\n   next.\n\nFix all issues you can automatically. For contradictions and major\ngaps, create a report at wiki/outputs/lint-report-[today's date].md\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nI'm building a personal knowledge base about [YOUR TOPIC].\n\nI have [NUMBER] source articles. I'm going to paste them below.\nFor each source, please:\n\n1. Write a 200-word summary capturing the key points\n2. List the main concepts mentioned (as a simple list)\n3. Identify any connections between this source and the others\n\nAfter processing all sources, please:\n4. Write a \"master index\" listing every concept with a one-line\n   description\n5. Write one \"concept article\" (300-500 words) for the single\n   most important concept across all sources\n\nFormat everything as markdown. Use [[double brackets]] around\nconcept names so they work as links in Obsidian.\n\nHere are my sources:\n\n[PASTE YOUR RAW NOTES HERE, separated by --- between each one]\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nRead CLAUDE.md for project conventions. Then read all files in\nraw/articles/. For each raw source:\n1. Create a source summary page in wiki/sources/\n2. Identify key concepts and entities\n3. Create concept pages in wiki/concepts/ and entity pages\n   in wiki/entities/\n4. Add cross-references between all related pages using\n   [[wikilinks]]\n5. Generate wiki/index.md with categorised links and one-line\n   summaries\n6. Generate wiki/log.md with entries for each operation\nStart with the first 5 sources, then continue with the rest.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "url": "https://claude.ai/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nmy-knowledge-base/\n├── raw/\n│   ├── articles/          ← Web-clipped articles\n│   ├── papers/            ← Academic papers, PDFs\n│   ├── repos/             ← Code documentation\n│   ├── datasets/          ← Dataset descriptions\n│   └── assets/            ← Images from sources\n├── wiki/\n│   ├── index.md           ← Master index (AI-maintained)\n│   ├── log.md             ← Activity log (AI-maintained)\n│   ├── concepts/          ← One file per concept\n│   │   └── _index.md      ← Category overview\n│   ├── entities/          ← People, orgs, tools\n│   │   └── _index.md\n│   ├── sources/           ← One summary per raw source\n│   │   └── _index.md\n│   ├── syntheses/         ← Cross-cutting analyses\n│   │   └── _index.md\n│   ├── outputs/           ← Filed query results\n│   │   └── _index.md\n│   └── attachments/\n│       └── images/        ← AI-generated charts, diagrams\n├── templates/             ← Note templates\n└── CLAUDE.md              ← AI schema/instructions\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "33",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n---\nname: wiki-maintainer\ndescription: Automatically maintain the knowledge base wiki.\n  Triggers when new files appear in raw/, when the user asks\n  questions about the wiki topic, or when a health check is\n  needed. Handles compilation, querying, and linting.\nallowed-tools: Read, Write, Bash, Glob, Grep\n---\n\n# Wiki Maintainer\n\nYou are maintaining a personal knowledge base wiki.\nRead CLAUDE.md in the project root for full conventions.\n\n## When to activate\n- User adds files to raw/ → run INGEST cycle\n- User asks a question about the wiki topic → run QUERY cycle\n- User mentions \"health check\" or \"lint\" → run LINT cycle\n- More than 7 days since last lint (check wiki/log.md) →\n  suggest a lint pass\n\n## Ingest cycle\n1. Glob raw/**/*.md to find all sources\n2. Glob wiki/sources/**/*.md to find processed sources\n3. Diff to identify unprocessed sources\n4. For each new source: create summary, concept pages, entity\n   pages, wikilinks\n5. Update wiki/index.md and wiki/log.md\n\n## Query cycle\n1. Read wiki/index.md\n2. Identify relevant pages from index summaries\n3. Read those pages\n4. Synthesise answer with [[wikilink]] citations\n5. Save to wiki/outputs/{slug}.md\n6. Update index and log\n\n## Lint cycle\n1. Check for contradictions, orphan pages, broken links\n2. Check for missing frontmatter\n3. Create stubs for frequently linked but non-existent pages\n4. Fix automatically where possible\n5. Write report to wiki/outputs/lint-report-{date}.md\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nTABLE summary, tags, date_modified\nFROM \"wiki/concepts\"\nSORT date_modified DESC\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "26",
+          "value": {
+            "data": {
+              "markdown": "```bash\nclaude -p \"Read CLAUDE.md. Find all files in raw/ that don't yet have a corresponding summary in wiki/sources/. For each one: create a source summary, create or update concept and entity pages, add wikilinks, and update wiki/index.md and wiki/log.md.\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "37",
+          "value": {
+            "data": {
+              "tweetId": "1640004722609225728"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "markdown": "```yaml\n---\ntitle: \"{{title}}\"\nsource: \"{{url}}\"\nauthor: \"{{author}}\"\npublished: \"{{published}}\"\nclipped: \"{{date}}\"\ntags:\n  - raw\ntype: article\nstatus: raw\n---\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "24",
+          "value": {
+            "data": {
+              "entityKey": "3972eff8-a6bd-4de2-81a9-88585091fd08",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041188865168273408"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "35",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nGiven this wiki article, generate 5 question-answer pairs:\n- 2 factual questions (who/what/when)\n- 2 reasoning questions (why/how/compare)\n- 1 synthesis question (connecting to other concepts)\nOutput as JSON.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nA new source has been added: raw/articles/new-article-title.md\nRead it, then read wiki/index.md to understand existing coverage.\nProduce:\n1. A new source summary page\n2. Updates to EXISTING pages (append, don't rewrite)\n3. New concept/entity pages if needed\n4. Updated index.md and log.md entries\nFlag any contradictions with existing wiki content using ⚠️\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nI'm adding a new source to my knowledge base about [TOPIC].\n\nHere is my current wiki index (so you know what already exists):\n[PASTE the contents of wiki/index.md]\n\nHere is the new source:\n[PASTE the new article]\n\nPlease:\n1. Write a summary of this source\n2. Update my index with any new concepts\n3. Note any connections to existing concepts (mark these with\n   [[wikilinks]])\n4. Flag anything that contradicts existing wiki content with ⚠️\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "url": "https://claude.ai/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nGenerate a Python script that creates a chart comparing [data from\nthe wiki]. Save the image to wiki/attachments/images/\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "32",
+          "value": {
+            "data": {
+              "url": "https://console.anthropic.com/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nHere is my knowledge base index:\n[PASTE wiki/index.md]\n\nMy question: [YOUR QUESTION]\n\nPlease research the answer using the concepts and sources in my\nwiki. If you need to see specific articles, tell me which ones\nand I'll paste them. Cite your sources using [[wikilinks]].\n\nAfter answering, save the answer as a markdown file I can add\nto my wiki.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "36",
+          "value": {
+            "data": {
+              "markdown": "```yaml\n---\n# Required for all pages\ntitle: \"Page Title\"\ndate_created: 2026-04-06\ndate_modified: 2026-04-06\nsummary: \"One to two sentences describing this page.\"\nstatus: draft          # draft | review | final\ntype: concept          # concept | entity | source | synthesis | output\ntags:\n  - topic-tag\n\n# For source summaries (add these)\nsource_url: \"https://example.com/article\"\nauthors:\n  - \"Author Name\"\n\n# For concepts (add these)\nrelated:\n  - \"[[related-page]]\"\nsource_count: 5\nconfidence: established  # established | emerging | speculative\n---\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n---\ntitle: \"Wiki Index\"\ndate_modified: 2026-04-06\ntotal_articles: 47\n---\n\n# Wiki Index\n\n## Overview\nThis wiki covers DeFi yield strategies and protocol analysis.\n47 articles compiled from 32 raw sources.\n\n## Concepts (18 articles)\n- [[automated-market-maker]] — Mechanism for decentralised token\n  exchange using liquidity pools instead of order books | sources: 5\n- [[impermanent-loss]] — Opportunity cost faced by liquidity\n  providers when token prices diverge | sources: 3\n- [[yield-farming]] — Strategy of deploying capital across DeFi\n  protocols to maximise returns | sources: 7\n\n## Entities (12 articles)\n- [[uniswap]] — Largest decentralised exchange by volume,\n  pioneered the constant product AMM | sources: 6\n- [[aave]] — Lending protocol enabling variable and stable rate\n  borrowing | sources: 4\n\n## Source Summaries (32 articles)\n- [[adams-2024-uniswap-v4]] — \"Uniswap v4: Architecture\" | tags: paper, dex\n\n## Recently Added\n1. [2026-04-06] [[concentrated-liquidity]] (concept)\n2. [2026-04-05] [[eigenlayer-restaking]] (concept)\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "25",
+          "value": {
+            "data": {
+              "markdown": "```bash\n# In Claude Code, run:\n/plugin marketplace add kfchou/wiki-skills\n/plugin install wiki-skills@kfchou/wiki-skills\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "markdown": "```bash\npip install markitdown\nmarkitdown document.pdf > raw/papers/document-name.md\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "31",
+          "value": {
+            "data": {
+              "markdown": "```yaml\nname: Compile Wiki\non:\n  push:\n    paths:\n      - 'raw/**'\n  schedule:\n    - cron: '0 6 * * *'  # Daily at 6am UTC\n\njobs:\n  compile:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4\n\n      - name: Install Claude Code\n        run: curl -fsSL https://claude.ai/install.sh | bash\n\n      - name: Compile wiki\n        env:\n          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}\n        run: |\n          claude -p \"Read CLAUDE.md. Process all raw/ files \\\n          not yet in wiki/. Create summaries, concept pages, \\\n          and update index.\"\n\n      - name: Commit changes\n        run: |\n          git config user.name \"Wiki Bot\"\n          git config user.email \"bot@example.com\"\n          git add wiki/\n          git diff --staged --quiet || git commit -m \"Auto-compile wiki $(date +%Y-%m-%d)\"\n          git push\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "tweetId": "2039805659525644595"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nAnswer my question as a Marp slideshow. Separate slides with ---\nand use # for slide titles. Save to wiki/outputs/topic-slides.md\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "27",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n---\ndescription: Compile new raw sources into the wiki\nallowed-tools: Read, Write, Bash, Glob, Grep\n---\n\n# Wiki Compilation\n\nRead CLAUDE.md for project conventions.\n\n1. Scan raw/ for all source files\n2. Read wiki/sources/ to identify which sources have already\n   been processed\n3. For each NEW (unprocessed) source:\n   a. Create a source summary in wiki/sources/\n   b. Identify key concepts and entities\n   c. Create new concept/entity pages if they don't exist\n   d. Update existing pages with new information (append only)\n   e. Add [[wikilinks]] between related pages\n4. Regenerate wiki/index.md with all pages listed\n5. Append all operations to wiki/log.md\n6. Report: how many sources processed, pages created, pages\n   updated\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://obsidian.md/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n# Wiki Log\n\n## [2026-04-06] ingest | Uniswap V4 Paper\n- Created: wiki/sources/adams-2024-uniswap-v4.md\n- Updated: wiki/concepts/automated-market-maker.md\n- Created: wiki/concepts/concentrated-liquidity.md (new)\n\n## [2026-04-06] query | How do AMM affect MEV?\n- Filed: wiki/outputs/amm-hooks-mev-impact.md\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "30",
+          "value": {
+            "data": {
+              "markdown": "```markdown\ncrontab -e\n\n# Runs compilation daily at 6am\n0 6 * * * cd ~/my-knowledge-base && claude -p \"Read CLAUDE.md. Process all new raw/ files not yet in wiki/. Create summaries, concept pages, and update index.\" >> ~/kb-compile.log 2>&1\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "markdown": "```markdown\nHere is my knowledge base index:\n[PASTE wiki/index.md]\n\nPlease perform a health check:\n1. Which concepts are mentioned but don't have their own article\n   yet? (These are gaps I should fill)\n2. Are any summaries likely outdated? (Flag anything over 6 months\n   old)\n3. What are 3 interesting questions I could research next?\n4. Are there orphan concepts with no connections to other topics?\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "29",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n/loop 24h Read CLAUDE.md. Check for new files in raw/ that haven't been processed. Compile any new sources into wiki pages and update the index.\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "url": "https://claude.ai/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "28",
+          "value": {
+            "data": {
+              "markdown": "```markdown\n/wiki-compile\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFPCdUvWcAAKAAIS4Dw3INZAAwAA",
+        "media_id": "2041188865168273408",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.58,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.42,
+                "rgb": {
+                  "blue": 138,
+                  "green": 140,
+                  "red": 140
+                }
+              }
+            ]
+          },
+          "original_img_height": 408,
+          "original_img_url": "https://pbs.twimg.com/media/HFPCdUvWcAAXhia.jpg",
+          "original_img_width": 1338
+        },
+        "media_key": "3_2041188865168273408"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFPD6y+aMAAKAAIS4Dw3INZAAwAA",
+        "media_id": "2041190471012331520",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.68,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.32,
+                "rgb": {
+                  "blue": 140,
+                  "green": 142,
+                  "red": 142
+                }
+              }
+            ]
+          },
+          "original_img_height": 824,
+          "original_img_url": "https://pbs.twimg.com/media/HFPD6y-aMAAV_pJ.jpg",
+          "original_img_width": 1338
+        },
+        "media_key": "3_2041190471012331520"
+      }
+    ]
+  }
+}

@@ -1,0 +1,701 @@
+{
+  "tweet_created_at": "2026-04-02T07:50:03.000000Z",
+  "id": 2039611301266403800,
+  "id_str": "2039611301266403734",
+  "type": "tweet",
+  "conversation_id_str": "2039611301266403734",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/ZkkpqLXIqX",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 216270296,
+    "id_str": "216270296",
+    "name": "下田美咲@エッセイスト",
+    "screen_name": "shimodamisaki",
+    "location": "",
+    "url": "https://note.mu/shimodamisaki",
+    "description": "noteの売上3億円。令和の作家を極めてる。独身時代は「コールの女王」として有名でした。二児の母で愛されてる妻。お悩み相談はオンラインサロンにて対応中です。著書は全７冊。最近はインスタも好き！お仕事のご依頼はm.sparkle@icloud.comまで💌",
+    "protected": false,
+    "verified": true,
+    "followers_count": 36850,
+    "friends_count": 619,
+    "listed_count": 250,
+    "favourites_count": 2205,
+    "statuses_count": 83650,
+    "created_at": "2010-11-16T06:46:46.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/216270296/1631760721",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1781144830145671168/IRSVEuCr_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 690,
+  "reply_count": 35,
+  "retweet_count": 576,
+  "favorite_count": 7486,
+  "views_count": 15291409,
+  "bookmark_count": 5316,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039605501005381632",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/ZkkpqLXIqX"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T07:50:02.000000Z",
+    "id": 2039611301266403800,
+    "id_str": "2039611301266403734",
+    "title": "美人のたしなみ",
+    "preview_text": "私は美人だ。\nそう本人が言うと、必ず、そんなことない、ギャーギャーみたいな人が湧いてくるのは知っているのだけど、大前提として私の美人さはあまり写真には写らない。",
+    "cover_url": "https://pbs.twimg.com/media/HE4luVVbgAAR_UM.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2egh2",
+          "text": "私は美人だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "2pu1e",
+          "text": "そう本人が言うと、必ず、そんなことない、ギャーギャーみたいな人が湧いてくるのは知っているのだけど、大前提として私の美人さはあまり写真には写らない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fcdpp",
+          "text": "肌の綺麗さ、骨格の良さ、全身バランスの良さなどが、生で見た時にどデカいインパクトを放って「美人…！」と評価されるタイプなので、会ったこともない人はとりあえず黙ってほしい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 23,
+              "style": "Bold"
+            }
+          ],
+          "key": "40nma",
+          "text": "顔も、好みじゃない人はもちろんいるだろうけど、美人か普通かブスかなどのふるいにかけたら、間違いなく美人の分類に入る。私自身が自分の顔をどう思うかすら関係ない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fnna",
+          "text": "甘いか苦いか酸っぱいか、とかと同じくらい、美人かどうかの基準は定められたものがあって、たんに私の顔の造形は美人の条件を満たしている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cpisd",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7hsta",
+          "text": "美人のたしなみ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "epm3c",
+          "text": "以前、「これは美人の嗜みだ」というようなことを述べた際に、「美人の嗜みについてもっと知りたいです！どんなバリエーションがあるのか、想像もつかない！興味深い！」という反響があった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 43,
+              "offset": 133,
+              "style": "Bold"
+            }
+          ],
+          "key": "ojt0",
+          "text": "美人というのは、美人というだけで相手をけっこう緊張させる。美人という一点だけで、なぜか、格式高く評価されて、「自分なんかが話しかけていいのかな」とか思わせる。あと、「気安くそんなこと聞いちゃいけないよな」と、個人情報を普通以上にセンシティブに扱われる気配もある。\n\nなので私は、自分から話しかけるようにしているし、自分から際どい話をするようにしている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 86,
+              "style": "Bold"
+            }
+          ],
+          "key": "9kjjf",
+          "text": "そうして「え、この人に、こういう話題を振っていいんだ」「まじか、こんなフランクなんだ、そんなことまで話してくれるんだ、ってことはこういうことも聞いて大丈夫そうだ」とかって、安心してもらえるようにしてる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 11,
+              "style": "Bold"
+            }
+          ],
+          "key": "7qc83",
+          "text": "なぜか、と言ったけど、その心理は美人である私自身も、別の美人やイケメンに対して抱くことがあるので、気持ち自体は普通に理解ができる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "atnm4",
+          "text": "フツー面の中に急にポツンといる美しい人っていうのは、そう見える。分かる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 74,
+              "style": "Bold"
+            }
+          ],
+          "key": "19vsq",
+          "text": "私はもともとモデル出身であり、今も芸能関係者との繋がりが少なくないので、美男美女の知人友人は多いし、その人たちと会う時にいちいち緊張したりはしない。美男美女は群れになると、別に緊張させてこない存在となる。コミュニティの顔面偏差値が高いと、それはただの普通となる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9i8if",
+          "text": "しかし、それこそ学生時代とか、学校の中には基本的に美しい人はいないので、ポツンといるとやっぱりすごく特別な生き物に見えるし、今で言えば、友達が美人でも何も思わないけど、幼稚園の保護者の中に急にポツンと美人がいたら、それは独特な圧力のようなものを感じる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5kso",
+          "text": "私も、多くの場所でそれを放っていると思われる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 40,
+              "style": "Bold"
+            }
+          ],
+          "key": "63vf",
+          "text": "だからそのつもりで接する。美人であることが奇異となるコミュニティに参加する時は、存在感の圧力をコミュ力で打ち消しにいく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4es9o",
+          "text": "「どうせ美人は自分に興味ない」とか「美人な人にこんな話をしたって退屈されそう」とかも思われやすいので、自分から、興味のある話題を振って相手のことを掘りに行き、笑いのツボにハマる部分を見つけて爆笑するようにもしている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aaci6",
+          "text": "美人は美人というだけで人を緊張させるし、萎縮させる。気を楽にしてもらう工夫は、結構している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1usj3",
+          "text": "美人は別にいじめられない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 38,
+              "style": "Bold"
+            }
+          ],
+          "key": "382np",
+          "text": "美人だといじめられる説みたいなのがあるけど、私は、いじめに遭ったことはなく、「美人＝いじめられる」という訳ではないと思っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8l0a",
+          "text": "ただ、美人ってだけで嫌われることはある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cg13l",
+          "text": "いや、美人ってだけで嫌われるっていうか、たとえば、その人の旦那さんが私を褒めちゃったりすると、「顔がいいだけで、人生イージーに生きやがって！あんな奴！クソ！クソ！」とかって思われて、私自身が何をしたわけでもないのに、異様に嫌われて、嫌がらせをされたことはある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 32,
+              "style": "Bold"
+            }
+          ],
+          "key": "524l6",
+          "text": "そんな風に、たまにすごく変な人に嫌がらせをされることはあるけど、いじめのような束での攻撃には発展しない。だって、大半の人は美人が好きだし、性格の良い美人なんて特に好かれる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 47,
+              "offset": 215,
+              "style": "Bold"
+            }
+          ],
+          "key": "fb1b1",
+          "text": "コンプレックスをこじらせ倒している一部の人だけが、劣等感で思考がこじれて、私の顔以外の良さを見落として「あいつは顔しかない！そのくせに！！！」とかって嫌悪感を膨らませることはあるけど、大半の人は「すげー、美人なのに面白いし良い奴で、好きだわ〜」「美咲ちゃんに誘われると嬉しい〜最初は美人で緊張したけど話したら優しすぎてなんでも話せる相手になった」「美人であることを鼻にかけてこなくて、一緒にいて楽しいキャラすぎる」とかってなって、美人であることは加点ポイントだし、美人である上に中身まで良いことはさらなる加点ポイントになる。通常は。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 55,
+              "style": "Bold"
+            }
+          ],
+          "key": "6oqgv",
+          "text": "だから、束にはならない。学校内で、1人とか2人くらい「下田！あいつ！むきー！」ってなる女子が常々いたとしても、そいつらが私をいじめるための束を作れることはない。だからいじめられはしない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evbl",
+          "text": "個人による嫌がらせは、時にはある。でもいじめってそういうのじゃないと思うし、「あいつ気に食わないから一緒にいじめようよ」と言い出されていたことがあったとしても、乗っかる人はいなかったのだと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 48,
+              "offset": 42,
+              "style": "Bold"
+            }
+          ],
+          "key": "1g5hc",
+          "text": "大多数の人は、私から話しかけられると嬉しそうであり、私から認められると誇らしそうで、人はフツー面に褒められるより、美男美女に褒められた時の方が３倍くらい自己評価が高まるんじゃないかと感じる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8asog",
+          "text": "だから、褒めたいと思う。３倍喜ばせる力の使い手として、その力は大いに振る舞いたい。顔の良さは分けてあげられなくても、顔が良いことで持っているパワーをシェアすることはできる。シェアハピ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8gabr",
+          "text": "美人は得なのか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ruat",
+          "text": "美しいというのは才能の一つで、しかも他の才能よりも評価が分かれづらく、ただ生きてるだけで認められるタイプの非常に使い勝手が良い方の才能なので、基本的にすごく得だと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "3v0hb",
+          "text": "「でも、面倒くさいこともあるでしょ」という件に関しては、それは全ての顔面にある。どんな見た目にも、それゆえの面倒くさい事案はある。それでいうと美人は、メリットがありすぎるので、総合して良すぎる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1ohv4",
+          "text": "美人はモテるのか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 57,
+              "offset": 171,
+              "style": "Bold"
+            }
+          ],
+          "key": "2mb4e",
+          "text": "モテるかどうかでいうと、大半の男性は「俺なんかが口説いたところで、相手をしてもらえるわけがない」「ここまで美人だとそういう対象じゃない、せめて友達枠のほうで長い付き合いになりたい」「イケる気がしなさすぎて、いこうという発想にならない」と反射的に考えるらしく（同窓会で同級生がそう言っていた）、たしかにそうなんだろうなとは感じてきた人生であり、口説いてくるのは、マジで変な人か、イケメン（同類）か、モテて生きてきたゆえに十分に自信がある男などに限られてくる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fdoip",
+          "text": "すごく普通の人から口説かれることは、マジで、まずない。「俺なんて」という発想がなく「成せばなる」とか「俺ならイケる」とか「だって俺！」とかの信条で生きているような、エベレストに挑むタイプの人に限られる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1cofj",
+          "text": "街中でのナンパも、基本、声をかけられる前からこちらが『あ、イケメンだ』と視界のどこかで察知していたような、イケメンに限られる。美人も、イケメンや美人を見つけると「あ」とは思う。これは全人類が備えているセンサーだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7ahq2",
+          "text": "美人だと街中でどういう反応をされるのか",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "cr0sp",
+          "text": "冒頭から「私は美人だ」と言い切ってきたけど、「果たして2026年現在、今日の時点でも自分が美人なのか」ってことは、いつでも半信半疑だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b4grp",
+          "text": "なぜなら全ての美人は、造形的にはいつか第一線の美人からは退くわけで、私も36歳なので「もしかして退いてるかもしれない」という懸念は常にある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1nrnv",
+          "text": "そんな中で「どうやら、今日のところはまだ美人っぽい」と思うのは、街中で他人のリアクションを受け取った時。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ht7f",
+          "text": "昔から、すれ違いざまに「うわ！！！美人」「今の人見た？！めっちゃ可愛くね？！」などという声が聞こえてくるのがデフォだった。人は美人を見た時に、けっこうその気持ちを声に出す。海外の人だと「ヒュ〜！！」みたいな、かなりアゲな反応のパターンもある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aao56",
+          "text": "ガラス張りの喫煙所でタバコを吸う夫を、子どもたちと待っていた際、喫煙所の中で「あのママが可愛すぎないか」と若者が騒いでいた、と夫から報告を受けたこともある。自分が認識できていないところでも、話題になっていることがきっとよくある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 34,
+              "offset": 56,
+              "style": "Bold"
+            }
+          ],
+          "key": "bkse4",
+          "text": "すれ違いざまに何かを言われるのが嫌だという人もいると思うし、ナンパを迷惑行為だと言う女性も多いけど、私はどちらも「そうか、私は今日の時点では、まだそういう存在感なのか」と知れる指標なので、ありがたく受け取っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "er497",
+          "text": "20代のイケメンに声を掛けてもらったら「子どもが二人いて結婚もしてるから、ちょっとお兄さんの需要を満たせる存在ではないんだけど、でも、ありがとう」とお礼を言って、しばらく話をしたりするし、特にイケメンではないおじさんが「お姉ちゃん綺麗だな！！！道に迷ってんのか？！どれ？！教えるよ！」などと声を掛けてくれたなら、その親切心はありがたく受け取り、案内してもらう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1bfpm",
+          "text": "美人とはちょっとでもいいから交流したい、という心理があるのか、下心もなくただ親切にしてくれる人が結構いる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3loud",
+          "text": "25歳過ぎたら「美人なだけ」だとイタい",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 25,
+              "style": "Bold"
+            }
+          ],
+          "key": "cvjp2",
+          "text": "なお、美しいことには価値があると思っている一方で、25歳過ぎて「見た目が一番の魅力」みたいな人間は、男女共にだいぶイタいし、ダサいとも思っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6igkl",
+          "text": "美男美女こそ、それを上回る魅力を育てていかないとまずい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 69,
+              "offset": 44,
+              "style": "Bold"
+            }
+          ],
+          "key": "d1qe3",
+          "text": "顔がいいってことは協力者が発生しやすくて人生経験を積みやすいんだから、爆速で積み上げて、25歳くらいからは見た目より実力が目立ってないと徐々にキモいし、30歳にもなる頃にはとんでもなく魅力的な中身を持っていて当たり前だろう！！くらいのストイックさで生きている。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "どうもこんにちは、下田美咲です",
+              "entityKey": "1acdba4b-5a06-4e3c-9202-21640bd7c47b",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039609843087212544"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE4mWJGagAAKAAIAAAAADOQF2AAA",
+        "media_id": "2039609843087212544",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 23.43,
+                "rgb": {
+                  "blue": 47,
+                  "green": 48,
+                  "red": 55
+                }
+              },
+              {
+                "percentage": 17.42,
+                "rgb": {
+                  "blue": 230,
+                  "green": 154,
+                  "red": 116
+                }
+              },
+              {
+                "percentage": 6.53,
+                "rgb": {
+                  "blue": 60,
+                  "green": 49,
+                  "red": 88
+                }
+              },
+              {
+                "percentage": 5.61,
+                "rgb": {
+                  "blue": 202,
+                  "green": 183,
+                  "red": 170
+                }
+              },
+              {
+                "percentage": 5.5,
+                "rgb": {
+                  "blue": 44,
+                  "green": 57,
+                  "red": 35
+                }
+              }
+            ]
+          },
+          "original_img_height": 1572,
+          "original_img_url": "https://pbs.twimg.com/media/HE4mWJGagAAaWlB.jpg",
+          "original_img_width": 1180
+        },
+        "media_key": "3_2039609843087212544"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2103 @@
+{
+  "tweet_created_at": "2026-04-03T06:56:09.000000Z",
+  "id": 2039960127156203500,
+  "id_str": "2039960127156203569",
+  "type": "tweet",
+  "conversation_id_str": "2039960127156203569",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/PHZp8ZiaVX",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 153353929,
+    "id_str": "153353929",
+    "name": "かとみ",
+    "screen_name": "kato_mi",
+    "location": "",
+    "url": null,
+    "description": "◎甘いものが好きです ◎オモコロなどで記事を書いております ◎みはしのあんみつを食べた記録 https://t.co/pv22hP23hJ ◎みはしのあんみつ同人誌など https://t.co/UgewXG1orT ◎日記 https://t.co/jU9A3VCmxA",
+    "protected": false,
+    "verified": true,
+    "followers_count": 10535,
+    "friends_count": 310,
+    "listed_count": 180,
+    "favourites_count": 319,
+    "statuses_count": 5342,
+    "created_at": "2010-06-08T09:48:10.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/153353929/1580212610",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222126678249332736/CPkqWCyL_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 208,
+  "reply_count": 8,
+  "retweet_count": 1679,
+  "favorite_count": 5133,
+  "views_count": 735593,
+  "bookmark_count": 2208,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039927937320026112",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/PHZp8ZiaVX"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T06:56:09.000000Z",
+    "id": 2039960127156203500,
+    "id_str": "2039960127156203569",
+    "title": "「みはし」のあんみつが美味しすぎるので勝手に紹介する",
+    "preview_text": "編集キャプションを入力（オプション）東京上野にある老舗「みはし」。あんみつがとんでもなくおいしいお店だ。あまりにあんみつがおいしいので毎週行っており、たぶんトータルで600杯ぐらい食べている。好きだ。ず",
+    "cover_url": "https://pbs.twimg.com/media/HE9VkuEa4AATppR.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 264,
+                "text": "https://www.mihashi.co.jp/menu/",
+                "toIndex": 295
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fo4s",
+          "text": "編集キャプションを入力（オプション）東京上野にある老舗「みはし」。あんみつがとんでもなくおいしいお店だ。あまりにあんみつがおいしいので毎週行っており、たぶんトータルで600杯ぐらい食べている。好きだ。ずっと。一瞬で熱くなりすぐに燃え尽きるような刹那的な感情とは違う。これはいつまでもそっと寄り添いたい悠久の愛だ。だから、紹介したい。みはしのあんみつがどんなにおいしいかを。それでみはしに繁盛していただくことで、私たちは永続的にみはしに通うことができる。みんなで幸せになろう。みはしのあんみつとは編集「あんみつ みはし」お品書き https://www.mihashi.co.jp/menu/ より引用基本のメニューは上記のとおりだ。バリエーション豊富で「つまりどうしたら！？」と人々を惑わせている。でも「つまりどうしたら！？」状態になってしまっても落ち着いてほしい。メニュー選びのコツは、まずベースを選ぶこと。\nベースは「あんみつ」「みつ豆」「豆かん」の3種類がある。\nなんとなく名前を聞いたことはあっても、それぞれの違いをちゃんと知る機会は案外少ないかもしれない。あんみつ・・・寒天、豆、あんこ、みかん、求肥みつ豆・・・・寒天、豆、干し杏、みかん、求肥豆かん・・・・寒天、豆\n※3種類すべてに黒蜜がかかるあんみつにはあんこが入る。\nみつ豆はあんこが入らず、干し杏が入る。さらに豆はあんみつの倍量入る。\n豆かんは寒天と豆だけのシンプルな構成だ。メニューにある「あんみつ」は全て「みつ豆」or「豆かん」に変更が可能となっている。（例：「クリームあんみつ」を「クリームみつ豆」に変更）あんみつ、みつ豆、豆かんの3種類からベースに選び、そこにアイスや白玉など何をトッピングするか考えると、心の迷いを整理しやすいだろう。あんこについて編集キャプションを入力（オプション）ここでお伝えしたいのが、みはしのあんこの包容力だ。\n私は「あんこは苦手だけどみはしのあんこはイケる」という人をたくさん見てきた。みはしのあんこはディップソースのようだなといつも思う。\nなめらかで、個体と液体の間ぐらいの柔らかさ。クセがなくてどんな具材と合わせても旨味を倍増させてくれる魔法のソースだ。あんみつの中でこそ、みはしのあんこは光り輝く。\nだから、もしもあんこが苦手でも、みはしのあんみつでチャレンジしてみてほしい。ちなみに、みはしのあんみつはこしあんがデフォルトとなっている。粒あんに変更可能だが、初めての場合は是非ともこしあんをおすすめしたい。すべてが丁寧に作られている編集キャプションを入力（オプション）みはしのあんみつに革命的なうまさのものは入っていない、と言うと誤解を招くかもしれないが、寒天、豆、黒蜜など単体で見るとどれも飾り気がない。\nでも、それが誠実な真面目さが老舗の貫禄だと思う。きっちり角が立った丁寧に作られた寒天を、実はちゃんと食べたことがない人も多いのではないだろうか。私はそうだった。みはしは全部の具材がジワリとうまい。だからこそ、あんみつの器の中で様々な味わいが合わさった時にうまさが爆発するのだ。トッピングについて編集キャプションを入力（オプション）みはしのあんみつの魅力といえば、なんといってもトッピングの自由度だ。白玉、杏、フルーツ、求肥、小倉アイス、抹茶アイス、ソフトクリーム、きな粉、モナカ、粒あん、こしあん……好きなものを好きなだけ、心のままにトッピングができてしまう。そんなの、こわい。みはしの無限の可能性に吸い込まれてしまいそうになる。\nだけど、私たちは勇気を出してマイベストあんみつを探し続けなければならない。\nみはしはいつだって私たちを迎え入れてくれるのだから。４月のあんみつギャラリーみはしに行ったことがある人なら誰もが思うことがある。\n「季節のあんみつのスピード感に感情が追いつかない」と。ただでさえトッピングのバリエーションが無限なのに、季節によって旬のフルーツやアイスなど期間限定ものが投入されるのだ。特に春と秋のラインナップは目まぐるしく、季節のトッピングのあらゆる可能性を試したいのに、来店回数が間に合わないという事態が起こってしまう。そこで、今まさに盛り上がっている春のあんみつを紹介させていただきたい。\nみはしのスピード感にそなえて少しでも感情を準備していただけたら嬉しい。編集▲フルーツクリームあんみつ4月1日～5月下旬の期間限定フルーツ、若桃。\nフルーツあんみつの中央にひと粒乗っている緑色の実が若桃だ。私は若桃というフルーツをみはしで初めて知った。\n若桃とは、ひとつの大きな桃を育てるために間引きされた実とのことだ。ミニトマトぐらいのサイズで、中に種はなく、皮もそのままで丸ごと食べられる。\n見た目は青梅に似ているが、全くの別物。シロップ漬けの優しい甘さの奥にほんのりと桃の風味をサクサクとした独特な歯ごたえが楽しい。編集▲フルーツクリームあんみつ、若桃トッピング若桃はどんなあんみつにも追加トッピングが可能だ。\n若桃はクセがないので、ほかの個性的なフルーツとも相性がいいように思う。（※上記写真は2023年春のもので、2024年から若桃はハーフカットになっている）編集▲白玉クリームあんみつ、若桃トッピング白玉のもちもち感と若桃のサクサク感を同時に味わえる、食感で攻めたい日のあんみつ。編集▲蔦重展コラボあんみつ（2025年5月）上野で行われた展示イベントとコラボしたあんみつ。若桃はなんといってもビジュアルが良い。もともと色味の少ないあんみつに、若々しいグリーンが入ることで華を添えている。\n若桃はおせち料理にも入るだけあって、おめでたい感じがするのもいい。編集▲若桃クリームあんみつ、桜アイストッピング来た。ついにこれが来ると春を感じずにはいられない。桜アイスだ。\nなにを隠そう私はみはしの桜アイスが大好物だ。まず、もう見た目がイケすぎている。桜アイスのパステルピンクと若桃のさわやかなグリーンがそろってしまったら、もう春すぎる。今すぐスキップしたいほどに春。編集▲若桃あんみつ、さらに若桃トッピング、桜アイス2個トッピング（上野博物館半券サービスの白玉2個つき）だからといって欲張って春の概念を盛りすぎてしまうと、情緒が消失してしまうので気をつけてほしい。でも幸せだし、おいしい。編集▲桜あんみつ、抹茶アイストッピング、粒あんに変更はしの桜アイスは本当においしい。甘さは控えめで桜の風味がしっかり香る。わざとらしくない真面目な桜アイスだ。なんといっても桜の葉のしょっぱさが革命的で、甘い黒蜜やあんこと合わさって甘じょっぱが発生した時、私は静かに絶句してしまう。\n私は桜アイスにはあんこが必須という結論にたどり着きつつある。編集▲桜あんみつ、さらに桜アイストッピング、粒あんに変更桜アイスはダブルでいってもいい。細かく刻まれた桜の葉に合わせて、粒あんに変更するのもいい。\n塩気の粒と甘味の粒が甘じょっぱさの余韻を長引かせてくれ、より多幸感に浸れるのだ。編集▲桜あんみつ、さらに桜アイストッピング、白玉トッピング桜アイスこしあんと白玉を同時に頬張れば、口の中に桜餅が爆誕する。\nふしのあんみつはこういうことも許してくれる。\n編集キャプションを入力（オプション）▲お花見あんみつ、ソフトクリームトッピング春の概念がすべてそろった究極のあんみつ、それがお花見あんみつだ。桜アイス、苺、若桃、白玉による奇跡の競演。いろんなものをちょっとずつ味わえるのが贅沢だ。毎年、店舗限定で登場することが多い。2026年はルミネ北千住店とパルコヤ上野店で販売されている。桜アイスやお花見あんみつはおそらく4月下旬に終売すると思われるので、春に翻弄されたい人はお早目にみはしに駆けこんでほしい。おわり",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "dttqp",
+          "text": "東京上野にある老舗「みはし」をご存じだろうか。\nあんみつがとんでもなくおいしいお店だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fprqb",
+          "text": "私はあまりにあんみつがおいしいため毎週行っており、たぶんトータルで600杯ぐらい食べている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5assh",
+          "text": "好きだ。ずっと。一瞬で熱くなりすぐに燃え尽きるような刹那的な感情とは違う。これはいつまでもそっと寄り添いたい悠久の愛だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ei737",
+          "text": "だから、紹介したい。みはしのあんみつがどんなにおいしいかを。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbfmt",
+          "text": "それでみはしに繁盛していただくことで、私たちも永続的にみはしに通うことができる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2u030",
+          "text": "さあ、みんなで幸せになろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bl8p0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9p2lc",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bmdlh",
+          "text": "みはしのあんみつとは",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e8ms6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eqtnm",
+          "text": "上記が基本のメニューとなっている。\nご覧のとおりバリエーション豊富で「つまりどうしたら！？」と人々を惑わせている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9n6j",
+          "text": "でも「つまりどうしたら！？」状態になってしまっても落ち着いてほしい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1o6fu",
+          "text": "まずはベースを選ぶことで方向性を決めやすい。\nベースは「あんみつ」「みつ豆」「豆かん」の3種類がある。\nこれらは名前を聞いたことあっても、それぞれの違いはあまり知られていない気がする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 12,
+              "style": "Bold"
+            }
+          ],
+          "key": "7hcud",
+          "text": "あんみつ・・・寒天、豆、あんこ、みかん、求肥",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 3,
+              "offset": 12,
+              "style": "Bold"
+            }
+          ],
+          "key": "26q4j",
+          "text": "みつ豆・・・・寒天、豆、干し杏、みかん、求肥",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 14,
+              "offset": 12,
+              "style": "Italic"
+            }
+          ],
+          "key": "8jc01",
+          "text": "豆かん・・・・寒天、豆\n※3種類すべてに黒蜜がかかる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55k09",
+          "text": "あんみつにはあんこが入る。\nみつ豆にはあんこが入らず、干し杏が入る。さらにあんみつの倍量の豆が入る。\n豆かんは寒天と豆だけのシンプルな構成だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 41,
+              "style": "Italic"
+            }
+          ],
+          "key": "43fil",
+          "text": "メニューにある「あんみつ」は全て「みつ豆」or「豆かん」に変更が可能となっている。（例：「クリームあんみつ」を「クリームみつ豆」に変更）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eme5i",
+          "text": "あんみつ、みつ豆、豆かんの3種類からベースに選び、そこにアイスや白玉など何をトッピングしたいか考えると心の迷いを整理しやすいだろう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8aj5g",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhvqm",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6d1mr",
+          "text": "あんこについて",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5dc6j",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enkh2",
+          "text": "ここでお伝えしたいのが、みはしのあんこの包容力だ。\n私は「あんこは苦手だけどみはしのあんこはイケる」という人をたくさん見てきた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51abk",
+          "text": "みはしのあんこはディップソースのようだなといつも思う。\nなめらかで、個体と液体の間ぐらいの柔らかさ。クセがなくてどんな具材と合わせても旨味を倍増させてくれる魔法のソースだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arv9k",
+          "text": "あんみつの中でこそ、みはしのあんこは光り輝く。\nだから、もしもあんこが苦手でも、みはしのあんみつでチャレンジしてみてほしい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45pn4",
+          "text": "ちなみに、みはしのあんみつはこしあんがデフォルトとなっている。\n粒あんに変更可能だが、初めての場合は是非ともこしあんをおすすめしたい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77k0h",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eh379",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1539v",
+          "text": "すべてが丁寧に作られている",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1gotb",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "92avp",
+          "text": "みはしのあんみつに革命的なうまさのものは入っていない、と言うと誤解を招くかもしれないが、寒天、豆、黒蜜など単体で見るとどれも飾り気がない。\nでも、誠実さこそが老舗の貫禄だと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5idtc",
+          "text": "きっちり角が立った丁寧に作られた寒天を、実はちゃんと食べたことがない人も多いのではないだろうか。私はそうだった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dfbj",
+          "text": "みはしは全部の具材がジワリとうまい。だからこそ、あんみつの器の中で様々な味わいが合わさった時にうまさが爆発するのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6613t",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7898u",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "33sr6",
+          "text": "トッピングについて",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2vm24",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evjia",
+          "text": "みはしのあんみつの魅力といえば、なんといってもトッピングの自由度だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3afdd",
+          "text": "白玉、杏、フルーツ、求肥、小倉アイス、抹茶アイス、ソフトクリーム、きな粉、モナカ、粒あん、こしあん……好きなものを好きなだけ、心のままにトッピングができてしまう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cl75n",
+          "text": "そんなの、こわい。みはしの無限の可能性に吸い込まれてしまいそうになる。\nだけど、私たちは勇気を出してマイベストあんみつを探し続けなければならない。\nみはしはいつだって魅力的な私たちを迎え入れてくれるのだから。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98j37",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7l84g",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "qbbo",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8edgt",
+          "text": "４月のあんみつギャラリー",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 27,
+              "style": "Bold"
+            }
+          ],
+          "key": "9vvhh",
+          "text": "みはしに行ったことがある人なら誰もが思うことがある。\n「季節のあんみつのスピード感に感情が追いつかない」と。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fiop2",
+          "text": "ただでさえトッピングのバリエーションが無限なのに、季節によって旬のフルーツやアイスなど期間限定ものが投入されるのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fkcj",
+          "text": "特に春と秋のラインナップは目まぐるしい。季節のトッピングのあらゆる可能性を試したいのに、来店回数が間に合わないという事態に陥ってしまう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3j2vj",
+          "text": "そこで、今まさに盛り上がっている春のあんみつの具体例を紹介させていただきたい。\nみはしのスピード感にそなえて少しでも感情を準備していただけたら嬉しい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b0ctf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "25uvg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 19,
+              "style": "Bold"
+            }
+          ],
+          "key": "2vaqo",
+          "text": "4月1日～5月下旬の期間限定フルーツ、若桃。\nフルーツあんみつの中央にひと粒乗っている緑色の実が若桃だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3gqf",
+          "text": "私は若桃というフルーツをみはしで初めて知った。\n若桃とは、ひとつの大きな桃を育てるために間引きされた実とのことだ。ミニトマトぐらいのサイズで、中に種はなく、皮もそのままで丸ごと食べられる。\n見た目は青梅に似ているが、全くの別物。シロップ漬けの優しい甘さの奥にほんのりと桃の風味を感じる。サクサクとした独特な歯ごたえ楽しい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1kddv",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bs7jf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7jjdh",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "721iu",
+          "text": "若桃はどんなあんみつにも追加トッピングが可能だ。\nクセがない若桃は、ほかの個性的なフルーツとも相性がいいように思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "6lajm",
+          "text": "（※上記写真は2023年春のもので、2024年から若桃はハーフカットになっている）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6rli7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "79loc",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b9gq7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f0l5l",
+          "text": "白玉のもちもち感と若桃のサクサク感を同時に味わえる、食感で攻めたい日のあんみつ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0msn",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cus8c",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "395qa",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar2ou",
+          "text": "上野で行われた展示イベントとコラボしたあんみつ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1ngk",
+          "text": "若桃はなんといってもビジュアルが良い。もともと色味の少ないあんみつに、若々しいグリーンが入ることで華を添えている。\n若桃はおせち料理にも採用だけあって、おめでたい感じがするのもいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ej5j",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1e0b0",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "290a",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 27,
+              "style": "Bold"
+            }
+          ],
+          "key": "20u8e",
+          "text": "来た。ついにこれが来ると春を感じずにはいられない。\n\n桜アイスだ。\nなにを隠そう私はみはしの桜アイスが大好物だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eo155",
+          "text": "まず、もう見た目がイケすぎている。\n桜アイスのパステルピンクと若桃のさわやかなグリーンがそろってしまったら、もう春すぎる。今すぐスキップしたいほどに春。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ned9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "crn7e",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "euja4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g2gp",
+          "text": "だからといって欲張って春の概念を盛りすぎてしまうと、情緒が消失してしまうので気をつけてほしい。でも幸せだし、おいしい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dttk5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ofcq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7fb08",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17mnc",
+          "text": "みはしの桜アイスは本当においしい。甘さは控えめで桜の風味がしっかり香る。わざとらしくない真面目な桜アイスだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tjrg",
+          "text": "なんといってもアイスに混ぜこまれた桜の葉のしょっぱさが革命的で、甘い黒蜜やあんこと合わさって「甘じょっぱい」に進化した瞬間、静かに絶句してしまう。\n私はついに「桜アイスにはあんこが必須」という結論にたどり着きつつある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "90cfd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42iqg",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9osri",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "om06",
+          "text": "桜アイスはダブルでいってもいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1gsla",
+          "text": "細かく刻まれた桜の葉に合わせて、食感のある粒あんを選んでみた。\nするとどうだろうか。塩気の粒と甘味の粒をじっくり噛みしめることで、甘じょっぱさの余韻を長引かせてくれ、より多幸感に浸れた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "k739",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45t6a",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5nagj",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aumdr",
+          "text": "桜アイス、あんこ、白玉を同時に頬張れば、口の中に桜餅が爆誕してしまう。\n懐の深いみはしはこういうことも許してくれる。\n\n\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "32uv1",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f7olg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b3qbf",
+          "text": "春の概念が全て揃った究極のあんみつ、それがお花見あんみつだ。\n桜アイス、苺、若桃、白玉の奇跡の競演。いろんなものをちょっとずつ、という誰もが夢見る贅沢を楽しめる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "43s1g",
+          "text": "※お花見あんみつはルミネ北千住店とパルコヤ上野店での限定販売",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36ob8",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "483b9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bt3vm",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "egi",
+          "text": "もう行くしかないよ、みはしに",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1vncr",
+          "text": "自分で書いててたまらなくなってしまった。もう行くしかない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7a90k",
+          "text": "桜アイスやお花見あんみつはおそらく4月下旬に終売と思われるので、春に翻弄されたい人はお早目にみはしに駆けこんでほしい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "r8cv",
+          "text": "おやつ時に混むので、午前中や夕方以降に行くのがおすすめ！",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "caption": "▲桜あんみつ、さらに桜アイストッピング、白玉トッピング",
+              "entityKey": "be864afe-264a-49ff-8af3-391bb31106ec",
+              "mediaItems": [
+                {
+                  "localMediaId": "28",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039929938229563392"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "caption": "▲若桃クリームあんみつ、桜アイストッピング",
+              "entityKey": "6dc3e0d8-d665-46da-8a15-050451e2d58c",
+              "mediaItems": [
+                {
+                  "localMediaId": "21",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039929565234290688"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "caption": "▲フルーツクリームあんみつ",
+              "entityKey": "0351ad2b-f8c2-4505-8759-a2178208e420",
+              "mediaItems": [
+                {
+                  "localMediaId": "13",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039929121552359424"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "caption": "▲桜あんみつ、さらに桜アイストッピング、粒あんに変更",
+              "entityKey": "62b395b7-6594-469f-a208-e77cce4f9bb3",
+              "mediaItems": [
+                {
+                  "localMediaId": "27",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039929845296287744"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "caption": "▲若桃あんみつ、さらに若桃トッピング、桜アイス2個トッピング（上野博物館半券サービスの白玉2個つき）",
+              "entityKey": "b0bd1545-fae3-4239-a97f-d771b971b76c",
+              "mediaItems": [
+                {
+                  "localMediaId": "23",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039929650709925888"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "caption": "▲お花見あんみつ、ソフトクリームトッピング",
+              "entityKey": "813686a9-0ef0-4e66-900f-6809fb2a4af2",
+              "mediaItems": [
+                {
+                  "localMediaId": "31",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039930001680961536"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "caption": "▲フルーツクリームみつ豆、若桃トッピング",
+              "entityKey": "4f3ceab7-e1d3-4ad2-813f-da43ec458f31",
+              "mediaItems": [
+                {
+                  "localMediaId": "15",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039929307410440193"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "caption": "▲桜あんみつ、抹茶アイストッピング、粒あんに変更",
+              "entityKey": "bb3fd00e-3bd3-4407-af29-cdda7271a5ce",
+              "mediaItems": [
+                {
+                  "localMediaId": "25",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039929782352457728"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "caption": "▲白玉クリームあんみつ、若桃トッピング",
+              "entityKey": "6a949ef8-0205-44cc-8a70-b1aa16fe5e5d",
+              "mediaItems": [
+                {
+                  "localMediaId": "17",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039929397848006656"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "af394629-6aa9-48ea-be41-18aa8ad6974c",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039928790152073216"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "「あんみつ みはし」お品書き https://www.mihashi.co.jp/menu/ より引用",
+              "entityKey": "0a01fbc9-3314-431b-9c1b-483693928f1b",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039928660673875968"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "55ce0ed6-88b2-4f06-91af-ec4dc14cc5ba",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039928902089609216"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "caption": "▲蔦重展コラボあんみつ（2025年5月）",
+              "entityKey": "a26f8ef5-2ac4-459c-b510-28a016ccc1ce",
+              "mediaItems": [
+                {
+                  "localMediaId": "19",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039929462612242432"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "f39913a8-2697-4e7a-84ec-21266949f774",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039929029034455041"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9JNZVaEAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039929650709925888",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 31.64,
+                "rgb": {
+                  "blue": 223,
+                  "green": 231,
+                  "red": 247
+                }
+              },
+              {
+                "percentage": 17.76,
+                "rgb": {
+                  "blue": 136,
+                  "green": 189,
+                  "red": 219
+                }
+              },
+              {
+                "percentage": 13.81,
+                "rgb": {
+                  "blue": 79,
+                  "green": 191,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 8.76,
+                "rgb": {
+                  "blue": 2,
+                  "green": 14,
+                  "red": 34
+                }
+              },
+              {
+                "percentage": 7.58,
+                "rgb": {
+                  "blue": 32,
+                  "green": 228,
+                  "red": 214
+                }
+              }
+            ]
+          },
+          "original_img_height": 2216,
+          "original_img_url": "https://pbs.twimg.com/media/HE9JNZVaEAAcvM1.jpg",
+          "original_img_width": 3223
+        },
+        "media_key": "3_2039929650709925888"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9IbTgbUAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039928790152073216",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 44.94,
+                "rgb": {
+                  "blue": 209,
+                  "green": 224,
+                  "red": 231
+                }
+              },
+              {
+                "percentage": 17.88,
+                "rgb": {
+                  "blue": 158,
+                  "green": 210,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 16.46,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 4
+                }
+              },
+              {
+                "percentage": 10.9,
+                "rgb": {
+                  "blue": 80,
+                  "green": 104,
+                  "red": 150
+                }
+              },
+              {
+                "percentage": 1.69,
+                "rgb": {
+                  "blue": 91,
+                  "green": 221,
+                  "red": 254
+                }
+              }
+            ]
+          },
+          "original_img_height": 3024,
+          "original_img_url": "https://pbs.twimg.com/media/HE9IbTgbUAAK1UL.jpg",
+          "original_img_width": 4032
+        },
+        "media_key": "3_2039928790152073216"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9JeIbbkAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039929938229563392",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 44.21,
+                "rgb": {
+                  "blue": 187,
+                  "green": 203,
+                  "red": 234
+                }
+              },
+              {
+                "percentage": 21.64,
+                "rgb": {
+                  "blue": 15,
+                  "green": 27,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 15.66,
+                "rgb": {
+                  "blue": 136,
+                  "green": 205,
+                  "red": 245
+                }
+              },
+              {
+                "percentage": 3.82,
+                "rgb": {
+                  "blue": 150,
+                  "green": 166,
+                  "red": 214
+                }
+              },
+              {
+                "percentage": 2.13,
+                "rgb": {
+                  "blue": 67,
+                  "green": 191,
+                  "red": 210
+                }
+              }
+            ]
+          },
+          "original_img_height": 1738,
+          "original_img_url": "https://pbs.twimg.com/media/HE9JeIbbkAA7eF6.jpg",
+          "original_img_width": 2317
+        },
+        "media_key": "3_2039929938229563392"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9JYuOaUAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039929845296287744",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 48.05,
+                "rgb": {
+                  "blue": 211,
+                  "green": 220,
+                  "red": 245
+                }
+              },
+              {
+                "percentage": 22.57,
+                "rgb": {
+                  "blue": 165,
+                  "green": 223,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 7.6,
+                "rgb": {
+                  "blue": 32,
+                  "green": 38,
+                  "red": 79
+                }
+              },
+              {
+                "percentage": 5,
+                "rgb": {
+                  "blue": 200,
+                  "green": 205,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 2.52,
+                "rgb": {
+                  "blue": 38,
+                  "green": 47,
+                  "red": 52
+                }
+              }
+            ]
+          },
+          "original_img_height": 3312,
+          "original_img_url": "https://pbs.twimg.com/media/HE9JYuOaUAAy5jl.jpg",
+          "original_img_width": 4064
+        },
+        "media_key": "3_2039929845296287744"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9IpNabMAEKAAIAAAAACSP+yQAA",
+        "media_id": "2039929029034455041",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 48.93,
+                "rgb": {
+                  "blue": 200,
+                  "green": 215,
+                  "red": 221
+                }
+              },
+              {
+                "percentage": 17.66,
+                "rgb": {
+                  "blue": 152,
+                  "green": 206,
+                  "red": 221
+                }
+              },
+              {
+                "percentage": 16.69,
+                "rgb": {
+                  "blue": 102,
+                  "green": 108,
+                  "red": 122
+                }
+              },
+              {
+                "percentage": 4.27,
+                "rgb": {
+                  "blue": 103,
+                  "green": 211,
+                  "red": 216
+                }
+              },
+              {
+                "percentage": 2.95,
+                "rgb": {
+                  "blue": 83,
+                  "green": 132,
+                  "red": 185
+                }
+              }
+            ]
+          },
+          "original_img_height": 812,
+          "original_img_url": "https://pbs.twimg.com/media/HE9IpNabMAEjNtq.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2039929029034455041"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9I5acboAEKAAIAAAAACSP+yQAA",
+        "media_id": "2039929307410440193",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 69.89,
+                "rgb": {
+                  "blue": 204,
+                  "green": 225,
+                  "red": 236
+                }
+              },
+              {
+                "percentage": 13.6,
+                "rgb": {
+                  "blue": 38,
+                  "green": 200,
+                  "red": 197
+                }
+              },
+              {
+                "percentage": 5.26,
+                "rgb": {
+                  "blue": 152,
+                  "green": 209,
+                  "red": 226
+                }
+              },
+              {
+                "percentage": 2.64,
+                "rgb": {
+                  "blue": 227,
+                  "green": 201,
+                  "red": 186
+                }
+              },
+              {
+                "percentage": 1.59,
+                "rgb": {
+                  "blue": 3,
+                  "green": 75,
+                  "red": 183
+                }
+              }
+            ]
+          },
+          "original_img_height": 2917,
+          "original_img_url": "https://pbs.twimg.com/media/HE9I5acboAE6fTE.jpg",
+          "original_img_width": 3774
+        },
+        "media_key": "3_2039929307410440193"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9I+rWbYAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039929397848006656",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 52.5,
+                "rgb": {
+                  "blue": 213,
+                  "green": 227,
+                  "red": 232
+                }
+              },
+              {
+                "percentage": 12.6,
+                "rgb": {
+                  "blue": 38,
+                  "green": 46,
+                  "red": 67
+                }
+              },
+              {
+                "percentage": 8.68,
+                "rgb": {
+                  "blue": 61,
+                  "green": 204,
+                  "red": 210
+                }
+              },
+              {
+                "percentage": 8.35,
+                "rgb": {
+                  "blue": 157,
+                  "green": 196,
+                  "red": 217
+                }
+              },
+              {
+                "percentage": 3.59,
+                "rgb": {
+                  "blue": 43,
+                  "green": 173,
+                  "red": 241
+                }
+              }
+            ]
+          },
+          "original_img_height": 2820,
+          "original_img_url": "https://pbs.twimg.com/media/HE9I-rWbYAA7-9m.jpg",
+          "original_img_width": 3419
+        },
+        "media_key": "3_2039929397848006656"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9IumEaYAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039929121552359424",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 43.98,
+                "rgb": {
+                  "blue": 212,
+                  "green": 224,
+                  "red": 224
+                }
+              },
+              {
+                "percentage": 17.37,
+                "rgb": {
+                  "blue": 16,
+                  "green": 29,
+                  "red": 47
+                }
+              },
+              {
+                "percentage": 11.86,
+                "rgb": {
+                  "blue": 166,
+                  "green": 212,
+                  "red": 226
+                }
+              },
+              {
+                "percentage": 11,
+                "rgb": {
+                  "blue": 87,
+                  "green": 224,
+                  "red": 210
+                }
+              },
+              {
+                "percentage": 3.04,
+                "rgb": {
+                  "blue": 38,
+                  "green": 160,
+                  "red": 218
+                }
+              }
+            ]
+          },
+          "original_img_height": 2670,
+          "original_img_url": "https://pbs.twimg.com/media/HE9IumEaYAAEv1E.jpg",
+          "original_img_width": 3536
+        },
+        "media_key": "3_2039929121552359424"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9JIa6bYAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039929565234290688",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 36.87,
+                "rgb": {
+                  "blue": 178,
+                  "green": 227,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 13.37,
+                "rgb": {
+                  "blue": 228,
+                  "green": 241,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 12.97,
+                "rgb": {
+                  "blue": 23,
+                  "green": 27,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 9.23,
+                "rgb": {
+                  "blue": 112,
+                  "green": 182,
+                  "red": 223
+                }
+              },
+              {
+                "percentage": 8.99,
+                "rgb": {
+                  "blue": 31,
+                  "green": 70,
+                  "red": 111
+                }
+              }
+            ]
+          },
+          "original_img_height": 2850,
+          "original_img_url": "https://pbs.twimg.com/media/HE9JIa6bYAAEYH5.jpg",
+          "original_img_width": 3883
+        },
+        "media_key": "3_2039929565234290688"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9ITxKa0AAKAAIAAAAACSP+yQAA",
+        "media_id": "2039928660673875968",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 97.45,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 1.35,
+                "rgb": {
+                  "blue": 105,
+                  "green": 120,
+                  "red": 128
+                }
+              },
+              {
+                "percentage": 0.35,
+                "rgb": {
+                  "blue": 22,
+                  "green": 128,
+                  "red": 211
+                }
+              },
+              {
+                "percentage": 0.26,
+                "rgb": {
+                  "blue": 37,
+                  "green": 34,
+                  "red": 78
+                }
+              },
+              {
+                "percentage": 0.14,
+                "rgb": {
+                  "blue": 114,
+                  "green": 152,
+                  "red": 186
+                }
+              }
+            ]
+          },
+          "original_img_height": 1284,
+          "original_img_url": "https://pbs.twimg.com/media/HE9ITxKa0AA3Bza.jpg",
+          "original_img_width": 1152
+        },
+        "media_key": "3_2039928660673875968"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9JVDvbsAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039929782352457728",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 36.14,
+                "rgb": {
+                  "blue": 201,
+                  "green": 214,
+                  "red": 236
+                }
+              },
+              {
+                "percentage": 21.21,
+                "rgb": {
+                  "blue": 10,
+                  "green": 30,
+                  "red": 70
+                }
+              },
+              {
+                "percentage": 14.77,
+                "rgb": {
+                  "blue": 141,
+                  "green": 212,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 4.92,
+                "rgb": {
+                  "blue": 204,
+                  "green": 224,
+                  "red": 228
+                }
+              },
+              {
+                "percentage": 3.85,
+                "rgb": {
+                  "blue": 112,
+                  "green": 226,
+                  "red": 215
+                }
+              }
+            ]
+          },
+          "original_img_height": 2687,
+          "original_img_url": "https://pbs.twimg.com/media/HE9JVDvbsAAc8Ka.jpg",
+          "original_img_width": 3251
+        },
+        "media_key": "3_2039929782352457728"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9Jh0zbEAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039930001680961536",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 38.89,
+                "rgb": {
+                  "blue": 96,
+                  "green": 170,
+                  "red": 228
+                }
+              },
+              {
+                "percentage": 16.29,
+                "rgb": {
+                  "blue": 44,
+                  "green": 50,
+                  "red": 64
+                }
+              },
+              {
+                "percentage": 15.59,
+                "rgb": {
+                  "blue": 193,
+                  "green": 219,
+                  "red": 241
+                }
+              },
+              {
+                "percentage": 9.93,
+                "rgb": {
+                  "blue": 62,
+                  "green": 96,
+                  "red": 135
+                }
+              },
+              {
+                "percentage": 6.46,
+                "rgb": {
+                  "blue": 69,
+                  "green": 181,
+                  "red": 246
+                }
+              }
+            ]
+          },
+          "original_img_height": 3024,
+          "original_img_url": "https://pbs.twimg.com/media/HE9Jh0zbEAAavpe.jpg",
+          "original_img_width": 3809
+        },
+        "media_key": "3_2039930001680961536"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9Ih0gakAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039928902089609216",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 25.5,
+                "rgb": {
+                  "blue": 44,
+                  "green": 93,
+                  "red": 145
+                }
+              },
+              {
+                "percentage": 25.01,
+                "rgb": {
+                  "blue": 167,
+                  "green": 193,
+                  "red": 217
+                }
+              },
+              {
+                "percentage": 14.98,
+                "rgb": {
+                  "blue": 5,
+                  "green": 25,
+                  "red": 65
+                }
+              },
+              {
+                "percentage": 7.9,
+                "rgb": {
+                  "blue": 111,
+                  "green": 160,
+                  "red": 206
+                }
+              },
+              {
+                "percentage": 4.45,
+                "rgb": {
+                  "blue": 204,
+                  "green": 202,
+                  "red": 199
+                }
+              }
+            ]
+          },
+          "original_img_height": 1576,
+          "original_img_url": "https://pbs.twimg.com/media/HE9Ih0gakAAThHS.jpg",
+          "original_img_width": 1877
+        },
+        "media_key": "3_2039928902089609216"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE9JCcnbMAAKAAIAAAAACSP+yQAA",
+        "media_id": "2039929462612242432",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 48.94,
+                "rgb": {
+                  "blue": 83,
+                  "green": 174,
+                  "red": 224
+                }
+              },
+              {
+                "percentage": 36.48,
+                "rgb": {
+                  "blue": 198,
+                  "green": 221,
+                  "red": 234
+                }
+              },
+              {
+                "percentage": 2.95,
+                "rgb": {
+                  "blue": 25,
+                  "green": 121,
+                  "red": 202
+                }
+              },
+              {
+                "percentage": 2.11,
+                "rgb": {
+                  "blue": 42,
+                  "green": 183,
+                  "red": 168
+                }
+              },
+              {
+                "percentage": 1.69,
+                "rgb": {
+                  "blue": 146,
+                  "green": 204,
+                  "red": 234
+                }
+              }
+            ]
+          },
+          "original_img_height": 2488,
+          "original_img_url": "https://pbs.twimg.com/media/HE9JCcnbMAAi2ha.jpg",
+          "original_img_width": 3617
+        },
+        "media_key": "3_2039929462612242432"
+      }
+    ]
+  }
+}

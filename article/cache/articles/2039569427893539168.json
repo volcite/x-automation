@@ -1,0 +1,419 @@
+{
+  "tweet_created_at": "2026-04-02T05:03:39.000000Z",
+  "id": 2039569427893539000,
+  "id_str": "2039569427893539168",
+  "type": "tweet",
+  "conversation_id_str": "2039569427893539168",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/P2bQl2ql30",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 210792476,
+    "id_str": "210792476",
+    "name": "Jan Dijkgraaf",
+    "screen_name": "jndkgrf",
+    "location": "Eesterga, Friesland",
+    "url": "https://www.buttkicken.nl/blog",
+    "description": "1 hypocrietenvreter - 2 i know - 3 i don't care - 4 niemandsknecht - 5 bemoei je met je eigen tijd - 6 dommemensenmoe - 7 oké doei - https://t.co/R4cjmNpct9",
+    "protected": false,
+    "verified": true,
+    "followers_count": 125887,
+    "friends_count": 4313,
+    "listed_count": 429,
+    "favourites_count": 97372,
+    "statuses_count": 57473,
+    "created_at": "2010-11-01T12:19:23.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/210792476/1693292284",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1469572271908003844/vQjJc3kn_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 30,
+  "reply_count": 80,
+  "retweet_count": 437,
+  "favorite_count": 1439,
+  "views_count": 37868,
+  "bookmark_count": 11,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039566684365729792",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/P2bQl2ql30"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T05:03:39.000000Z",
+    "id": 2039569427893539000,
+    "id_str": "2039569427893539168",
+    "title": "Briefje van Jan - aan Sjoerd Sjoerdsma",
+    "preview_text": "Beste Sjoerd,\nEen mens is nooit te oud om te leren.\nIk wilde jou schrijven over de luizenstreek die je de Tweede Kamer hebt geleverd door tegen de wil van de volksvertegenwoordiging in toch even die",
+    "cover_url": "https://pbs.twimg.com/media/HE4AfvoWEAAS0Z8.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d7kk1",
+          "text": "Beste Sjoerd,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "23mkb",
+          "text": "Een mens is nooit te oud om te leren.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 53,
+              "offset": 27
+            },
+            {
+              "key": 1,
+              "length": 11,
+              "offset": 176
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 27,
+              "style": "Bold"
+            },
+            {
+              "length": 11,
+              "offset": 176,
+              "style": "Bold"
+            }
+          ],
+          "key": "fj9b8",
+          "text": "Ik wilde jou schrijven over de luizenstreek die je de Tweede Kamer hebt geleverd door tegen de wil van de volksvertegenwoordiging in toch even die 19 miljoen euro voor jouw en Sigrid Kaags Hamas-vrienden bij UNWRA te willen storten.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4s4i2",
+          "text": "Na dat gedoe met die tien nieuwe steden die D66 zou bouwen, maar die achteraf “een metafoor” zouden zijn, dacht ik: dan gebruik ik voor Sjoerd Sjoerdsma ook een metafoor.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1obbs",
+          "text": "‘Rat’.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66cv7",
+          "text": "Heb ik even later jongste zoon Bob aan de lijn, docent Nederlands van beroep, zegt-ie: “Wat een boomer ben je ook, hè! Dat is helemaal geen metafoor. Da’s een dóde metafoor”.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dt49",
+          "text": "Lang verhaal kort: het beeld is zo versleten dat het knaagdier al jaren niet meer zichtbaar is. Niemand die jou een rat noemt, denkt nog aan een grijs beestje dat zich het meest thuis voelt in de riolen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fr9i5",
+          "text": "“Rat is gewoon een scheldwoord geworden, ouwe. Platgelopen. Betekenisloos als stijlfiguur. Waarom gebruik je geen eponiem?”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7qanl",
+          "text": "“Goed idee”, antwoordde ik. “Dankjewel!”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ed5v6",
+          "text": "En ik hing op.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tqu1",
+          "text": "Geen idee namelijk wat een eponiem is, dus voor ik weer iets doms zou zeggen, zocht ik het op.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3d1m9",
+          "text": "“Een eponiem is een eigennaam die soortnaam wordt. Zoals een Judas (voor een verrader), een Quisling (voor iemand die zijn land verkoopt) of een Machiavelli (voor wie macht boven moraal stelt).”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7gvm3",
+          "text": "Dat leek me inderdaad beter dan ‘rat’.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "74c8n",
+          "text": "Een eponiem!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ajra",
+          "text": "Dat ik daar niet eerder aan gedacht had.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bt53a",
+          "text": "Voortaan ga ik bloedhonden, ransapen en addergebroed uit die buitencategorie waarvan D66 er zo veel heeft geleverd geen ‘rat’ meer noemen, maar ‘Sjoerd Sjoerdsma's’.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71nvs",
+          "text": "Of gewoon ‘S.S.’ers’.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 33,
+              "offset": 5
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "22ui5",
+          "text": "Want er zijn er méér met die initialen waarvoor deze boomer uit Eesterga maar al te graag die uitspraak over ‘hun vader’, ‘zijn kwakkie’ en ‘spuiten op de kachel’ uit de mottenballen zou halen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgm6t",
+          "text": "Groet,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgv41",
+          "text": "JanD",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 41,
+              "offset": 15
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "2k36f",
+          "text": "PS. Cadeautje. Ik kon 'm helaas niet in jouw maat vinden.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 23,
+                "text": "https://www.buttkicken.nl/2026/04/02/briefje-van-jan-aan-sjoerd-sjoerdsma-3/",
+                "toIndex": 99
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 77,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "8pk1k",
+          "text": "Delen? Dit is de link: https://www.buttkicken.nl/2026/04/02/briefje-van-jan-aan-sjoerd-sjoerdsma-3/",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 11,
+              "offset": 152
+            },
+            {
+              "key": 5,
+              "length": 11,
+              "offset": 205
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 288,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 12,
+              "offset": 152,
+              "style": "Bold"
+            },
+            {
+              "length": 11,
+              "offset": 205,
+              "style": "Bold"
+            }
+          ],
+          "key": "8i688",
+          "text": "Disclaimer: Als je dit artikel waardeert en je je waardering wilt laten blijken met een kleine bijdrage: dat kan! Je kunt mij met een eenmalige donatie (klik hier) of met een vast bedrag per maand steunen (klik hier). Zo help je onafhankelijke briefschrijverij in stand houden. Dankjewel!",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://bunq.me/mevrouwDijkgraaf"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://chrisklomp.nl/doneer-chris-klomp/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://www.buttkicken.nl/2025/11/24/briefje-van-jan-aan-sigrid-kaag-13/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://www.telegraaf.nl/politiek/oppositie-woest-op-minister-sjoerdsma-vertrouwen-in-kabinet-ter-discussie/144956863.html"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://www.buttkicken.nl/2023/12/26/briefje-van-jan-aan-sander-schimmelpenninck/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "url": "https://tinyurl.com/5he3vkda"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

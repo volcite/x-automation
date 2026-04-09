@@ -1,0 +1,1013 @@
+{
+  "tweet_created_at": "2026-04-06T16:26:13.000000Z",
+  "id": 2041190754177941800,
+  "id_str": "2041190754177941814",
+  "type": "tweet",
+  "conversation_id_str": "2041190754177941814",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/aDy3agA7Bt",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3764301,
+    "id_str": "3764301",
+    "name": "Ryan Holiday",
+    "screen_name": "RyanHoliday",
+    "location": "Austin, TX",
+    "url": "https://dailystoic.com/email",
+    "description": "NYT Bestselling Author Of The Obstacle Is The Way & more @DailyStoic @DailyDadEmail\nSign Up For My Daily Email Here ⬇️",
+    "protected": false,
+    "verified": true,
+    "followers_count": 818785,
+    "friends_count": 798,
+    "listed_count": 7045,
+    "favourites_count": 2495,
+    "statuses_count": 20659,
+    "created_at": "2007-04-08T05:45:46.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3764301/1774292422",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762537744348094464/1v7rnVz1_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 9,
+  "reply_count": 28,
+  "retweet_count": 108,
+  "favorite_count": 1111,
+  "views_count": 140539,
+  "bookmark_count": 1815,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041120442354909184",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/aDy3agA7Bt"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T16:26:13.000000Z",
+    "id": 2041190754177941800,
+    "id_str": "2041190754177941814",
+    "title": "Really Long Books That Are Worth Every Page",
+    "preview_text": "Oh man, there is nothing I love more than a big, long, thick biography. Last month, we talked about short books you could finish on a plane, well I’m talking about the opposite of that now, the ones",
+    "cover_url": "https://pbs.twimg.com/media/HFOEZSeaIAAmJEr.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 39,
+              "offset": 100
+            },
+            {
+              "key": 1,
+              "length": 23,
+              "offset": 834
+            },
+            {
+              "key": 2,
+              "length": 64,
+              "offset": 1359
+            },
+            {
+              "key": 3,
+              "length": 11,
+              "offset": 1520
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 215,
+              "style": "Italic"
+            },
+            {
+              "length": 245,
+              "offset": 1321,
+              "style": "Italic"
+            }
+          ],
+          "key": "2ovvi",
+          "text": "Oh man, there is nothing I love more than a big, long, thick biography. Last month, we talked about short books you could finish on a plane, well I’m talking about the opposite of that now, the ones that might take months to finish, even a year. But when you do, you’ve not only learned about a person but a whole sweeping period of history and all the people they intersected with. My life has been so changed by these books–not just because they made me a better reader for wrestling with them, but because of what I’ve learned from them about life and about writing. The rabbit holes they’ve taken me and my family down too! I was just driving my kids home from a camping trip in Garner State Park and where did we have to stop? Lyndon Johnson’s Ranch of course! If you had told me in 2016 when I started Robert Caro’s 3,500 page, four book series on LBJ that I’d still be fascinated by Johnson a decade later, I wouldn’t have believed you. But that’s what a great writer can do. Despite the length, his books fly by and you learn something about history, human nature, and power on almost every page. His intricate, complicated, sprawling investigation into Lyndon Johnson will change how you see ambition, politics, personality and justice. In any case, that brings me to the rest of the books in this month’s list. Oh, but before I do, I should mention I’m going to be on a Stoicism speaking tour this summer and fall–Portland, SF, Chicago, Minneapolis, Detroit plus a bunch of dates in Australia and New Zealand. Come see me, we can swap book recommendations!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 53,
+              "offset": 1
+            },
+            {
+              "key": 5,
+              "length": 49,
+              "offset": 56
+            },
+            {
+              "key": 6,
+              "length": 51,
+              "offset": 111
+            },
+            {
+              "key": 7,
+              "length": 22,
+              "offset": 532
+            },
+            {
+              "key": 8,
+              "length": 25,
+              "offset": 1197
+            },
+            {
+              "key": 9,
+              "length": 12,
+              "offset": 1298
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 195,
+              "offset": 1,
+              "style": "Bold"
+            },
+            {
+              "length": 106,
+              "offset": 1,
+              "style": "Italic"
+            },
+            {
+              "length": 53,
+              "offset": 110,
+              "style": "Italic"
+            },
+            {
+              "length": 22,
+              "offset": 532,
+              "style": "Italic"
+            },
+            {
+              "length": 12,
+              "offset": 1298,
+              "style": "Italic"
+            }
+          ],
+          "key": "tim2",
+          "text": "​Parting the Waters: America in the King Years 1954-63, Pillar of Fire: America in the King Years 1963-65, and At Canaan’s Edge: America in the King Years 1965-68 by Taylor Branch (2,300+ pages)\n​One of the best things you can do if you want to understand the current moment is to study the past. It’s why I picked up Taylor Branch’s epic three-part biography on Martin Luther King Jr. back in 2020, an experience that was life-changing. I was once again profoundly impacted by this series as I picked it back up to do research for Right Thing, Right Now. This trilogy does a phenomenal job of revealing the ways that an individual person really can have an impact on the collective, like Rev. James Lawson’s leadership at the Nashville sit-ins and Bayard Rustin’s role in the March on Washington. It’s also perfect for someone who is trying to master themselves because the civil rights leaders needed to be cool under pressure, under threat, under fear and had to be willing to act courageously in the pursuit of justice. It’s a masterpiece of a series, made even better by the fact that Branch began the series when his son was born, and finished it with the help of that same son years later (read more about that here). When you finish these, you absolutely have to pick up David Halberstam’s The Children.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 67,
+              "offset": 1
+            },
+            {
+              "key": 11,
+              "length": 26,
+              "offset": 127
+            },
+            {
+              "key": 12,
+              "length": 75,
+              "offset": 767
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 104,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 69,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 75,
+              "offset": 767,
+              "style": "Italic"
+            }
+          ],
+          "key": "ae76b",
+          "text": "​1929: The Inside Story of the Greatest Crash in Wall Street History by Andrew Ross Sorkin (592 pages)\n​My first question when Andrew came on the podcast was how he managed to find the time to write this book between writing and editing for The New York Times and co-anchoring CNBC's Squawk Box. And even more impressively, it’s really good! The characters are great. The story is well-paced. It runs us through the crash in what feels like real-time with the chapters organized chronologically by specific dates. It’s one of those books that’s both timely, considering the crisis in Iran and the AI bubble, and timeless. Or perhaps you could say it is so timely because it is rooted in timeless themes. It reminded me a lot of another book I love about this period, Rising Tide: The Great Mississippi Flood of 1927 and How It Changed America, which also featured Herbert Hoover (but as the hero instead of the villain).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 69,
+              "offset": 1
+            },
+            {
+              "key": 14,
+              "length": 41,
+              "offset": 104
+            },
+            {
+              "key": 15,
+              "length": 5,
+              "offset": 942
+            },
+            {
+              "key": 16,
+              "length": 19,
+              "offset": 1071
+            },
+            {
+              "key": 17,
+              "length": 18,
+              "offset": 1103
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 103,
+              "offset": 1,
+              "style": "Bold"
+            },
+            {
+              "length": 69,
+              "offset": 1,
+              "style": "Italic"
+            },
+            {
+              "length": 5,
+              "offset": 942,
+              "style": "Italic"
+            },
+            {
+              "length": 19,
+              "offset": 1071,
+              "style": "Italic"
+            },
+            {
+              "length": 18,
+              "offset": 1103,
+              "style": "Italic"
+            }
+          ],
+          "key": "9te46",
+          "text": "​The Warmth of Other Suns: The Epic Story of America's Great Migration by Isabel Wilkerson (640 pages)\n​This is one of my absolute favorite books about American history. It reads almost like a giant Russian novel, but it’s about generations of Americans fleeing for a better life–not from overseas, but from the Deep South. This beautiful, painful and eye-opening look at the Great Migration looks at the biographical sketches of individuals who left the Jim Crow South for a chance at a better life in California, in Chicago, in New York City. Our own history–in America or anywhere in the world–is not a list of the things we’re proud of. It is a list of the things that happened. To get better, to improve, to get closer to ‘a more perfect union,’ we have to gather and put up for review an unflinching history. It’s not always fun…but it’s the only way. This book is an epic masterpiece that everyone should read. Wilkerson’s other book, Caste, is another one of my favorite books. And speaking of “caste,” I was blown away by Ramachandra Guha’s biography of Gandhi, Gandhi Before India which, like Parting the Waters, shows how the great man became the great man who changed the world. We tend to think of these activists at their moment of peak influence and forget that they built their movements from nothing…and I was most moved by Gandhi’s evolution, particularly on the issue of caste.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 72,
+              "offset": 1
+            },
+            {
+              "key": 19,
+              "length": 55,
+              "offset": 98
+            },
+            {
+              "key": 20,
+              "length": 15,
+              "offset": 179
+            },
+            {
+              "key": 21,
+              "length": 14,
+              "offset": 1371
+            },
+            {
+              "key": 22,
+              "length": 14,
+              "offset": 1416
+            },
+            {
+              "key": 23,
+              "length": 19,
+              "offset": 1746
+            },
+            {
+              "key": 24,
+              "length": 24,
+              "offset": 1911
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 178,
+              "offset": 1,
+              "style": "Bold"
+            },
+            {
+              "length": 72,
+              "offset": 1,
+              "style": "Italic"
+            },
+            {
+              "length": 56,
+              "offset": 98,
+              "style": "Italic"
+            },
+            {
+              "length": 14,
+              "offset": 1416,
+              "style": "Italic"
+            }
+          ],
+          "key": "bnr3g",
+          "text": "​The Personal Memoirs of Ulysses S. Grant: The Complete Annotated Edition by Ulysses S. Grant and Team of Rivals: The Political Genius of Abraham Lincoln by Doris Kearns Goodwin\n​Grant’s memoirs are one of the most incredible stories in the history of publishing. How does one of America’s greatest generals and Presidents end up losing everything? His money is stolen from a crooked Wall Street operator, he’s dying of cancer, and he’s looking at leaving his family nothing. On the verge of his death, Mark Twain–who hated what publishers had done to Grant–approaches him with a self-publishing deal. Grant rushes to finish these memoirs and dies only a few days after they finish. Now, they’re one of the bestselling memoirs in American history. I would add that it’s one of the best memoirs in American history. It reveals the arc of an incredible American life: he graduates from West Point, goes on to be a hero of the Mexican-American War, only to plunge into alcoholism and ends up selling firewood on the side of the road. Within a few years, he’s not just a general back in the army, but he leads the Union cause to victory in the Civil War. He had a strategic vision, a determination, a perseverance, that made him the right man at the right moment so that he, along with Lincoln, managed to triumph over the Confederacy. It’s incredible. Every American should read this book. And then they should pick up Team of Rivals, which is a riveting 944-page book that captures the paradoxes that Lincoln embodies: He was both a wise man and a savvy politician, a good person and an ambitious one. I could say more, but I think the fact that I could justify lugging this book on a roundtrip of 16,928 miles to Australia a couple years back for the Stoic Life Tour (I’m actually headed back there in the fall for another tour, so if you missed me last I was in Australia or want to see me live on stage again, you can get tickets here), plus all the coffee shops and beaches I carried it to, tucked under my arm, says enough!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 25,
+              "length": 25,
+              "offset": 1
+            },
+            {
+              "key": 26,
+              "length": 9,
+              "offset": 163
+            },
+            {
+              "key": 27,
+              "length": 10,
+              "offset": 744
+            },
+            {
+              "key": 28,
+              "length": 15,
+              "offset": 780
+            },
+            {
+              "key": 29,
+              "length": 25,
+              "offset": 830
+            },
+            {
+              "key": 30,
+              "length": 9,
+              "offset": 958
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 60,
+              "offset": 1,
+              "style": "Bold"
+            },
+            {
+              "length": 26,
+              "offset": 1,
+              "style": "Italic"
+            },
+            {
+              "length": 12,
+              "offset": 744,
+              "style": "Italic"
+            },
+            {
+              "length": 17,
+              "offset": 780,
+              "style": "Italic"
+            },
+            {
+              "length": 25,
+              "offset": 830,
+              "style": "Italic"
+            }
+          ],
+          "key": "6n8t2",
+          "text": "​The Count of Monte Cristo by Alexandre Dumas (1,312 pages)\n​I didn’t want this list to JUST be biographies, although that’s my favorite style. I thought I’d read this book before but clearly it was some sort of children’s version, because this 1,312 page epic has some of the most brilliant, beautiful and complicated storytelling. What a book! I was riveted from cover to cover. I enjoyed all the stuff I missed as a kid: the Count’s struggle with his faith in light of what was done to him, the Hundred Days of Napoleon’s return, his rants against technology, the criticism of newspapers, the influence of ancient philosophy, ultimately, a warning against being consumed by revenge. Which is fitting, because I read it while I wrote my book Conspiracy. And if you haven’t read The Black Count, pick that one up after finishing The Count of Monte Cristo. It’s a biography by Tom Reiss about Alexandre Dumas’ father, who was a Black General under Napoleon. This book tells the incredible story of his life and reveals a side of French history I hadn’t learned otherwise.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 31,
+              "length": 35,
+              "offset": 1
+            },
+            {
+              "key": 32,
+              "length": 80,
+              "offset": 155
+            },
+            {
+              "key": 33,
+              "length": 9,
+              "offset": 304
+            },
+            {
+              "key": 34,
+              "length": 8,
+              "offset": 315
+            },
+            {
+              "key": 35,
+              "length": 17,
+              "offset": 325
+            },
+            {
+              "key": 36,
+              "length": 10,
+              "offset": 344
+            },
+            {
+              "key": 37,
+              "length": 17,
+              "offset": 360
+            },
+            {
+              "key": 38,
+              "length": 9,
+              "offset": 570
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 68,
+              "offset": 1,
+              "style": "Bold"
+            },
+            {
+              "length": 36,
+              "offset": 1,
+              "style": "Italic"
+            }
+          ],
+          "key": "cck9i",
+          "text": "​Benjamin Franklin: An American Life by Walter Isaacson (891 pages)\n​Walter Isaacson, like Robert Caro, is another one of the greatest living biographers (who I was lucky enough to interview on The Daily Stoic Podcast a few months back). I calculated that I have read 4,000 pages of his books, including Elon Musk, Einstein, Leonardo da Vinci, Steve Jobs, and Benjamin Franklin. I recommend all of his biographies, but what struck me about his book on Benjamin Franklin is that you think you know that Benjamin Franklin lived an incredible, crazy life and then you read this book and realize you don’t even know the half of it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 39,
+              "length": 55,
+              "offset": 1
+            },
+            {
+              "key": 40,
+              "length": 16,
+              "offset": 201
+            },
+            {
+              "key": 41,
+              "length": 16,
+              "offset": 326
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 89,
+              "offset": 1,
+              "style": "Bold"
+            },
+            {
+              "length": 56,
+              "offset": 1,
+              "style": "Italic"
+            },
+            {
+              "length": 17,
+              "offset": 201,
+              "style": "Italic"
+            },
+            {
+              "length": 16,
+              "offset": 326,
+              "style": "Italic"
+            }
+          ],
+          "key": "6t0ak",
+          "text": "​The Power Broker: Robert Moses and the Fall of New York by Robert A. Caro (1,344 pages)\n​I started this email talking about Robert Caro, so I’ll end with one more from him that you just have to read. The Power Broker is one of the first massive biographies I ever read, which I loved so much that I finished it in two weeks. The Power Broker tells the story of Robert Moses, who built just about every other major modern construction project in New York City. The public couldn’t stop him, the mayor couldn’t stop him, the governor couldn’t stop him, and only once could the President of the United States stop him. But ultimately, you know where the cliché must take us. Robert Moses was an asshole. He may have had more brain, more drive, more strategy than other men, but he did not have more compassion. There are many forms of power and influence, and not all of them are flashy or even visible, but it always has the same effect over time: it corrupts and changes you. And yet if you don’t study these figures, you are so much more likely to unintentionally fall prey to the same traps…and also be at the mercy of the decisions they made.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 42,
+              "length": 55,
+              "offset": 208
+            },
+            {
+              "key": 43,
+              "length": 38,
+              "offset": 300
+            },
+            {
+              "key": 44,
+              "length": 21,
+              "offset": 430
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 4,
+              "offset": 85,
+              "style": "Italic"
+            }
+          ],
+          "key": "6lc4j",
+          "text": "Kids\n​I sometimes end these emails with kid recommendations. Obviously, there aren’t that many enormous biographies that kids enjoy, but my oldest is obsessed with Hamilton so we listened to the audiobook of Ron Chernow’s 832-page biography on Alexander Hamilton. He loved it so much that when I had Ron Chernow on the Daily Stoic Podcast, he made a cameo in the interview to ask his own questions about the book and the musical (you can see that here). It’s also become his gift of choice for his friends' birthday parties, which is often met with an “uhhh…thanks” from the parents.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "34",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/vqh3hrho07729qhg/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9laW5zdGVpbi1oaXMtbGlmZS1hbmQtdW5pdmVyc2U_X3Bvcz02Jl9zaWQ9ZWU0YTcyMjY2Jl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/p8heh9h4600kwltq/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9yaXNpbmctdGlkZS10aGUtZ3JlYXQtbWlzc2lzc2lwcGktZmxvb2Qtb2YtMTkyNy1hbmQtaG93LWl0LWNoYW5nZWQtYW1lcmljYT9fcG9zPTEmX3NpZD03ZmNkMGYwZDEmX3NzPXI="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/e0hph7h7vgg93pc8/aHR0cHM6Ly9kYWlseWRhZC5jb20vaXRzLWEtZmFtaWx5LWFmZmFpci8="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/qvh8h7hdw55gmnil/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90ZWFtLW9mLXJpdmFscy10aGUtcG9saXRpY2FsLWdlbml1cy1vZi1hYnJhaGFtLWxpbmNvbG4_X3Bvcz0xJl9zaWQ9ZDZkODJkNWExJl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "23",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/g3hnh5hm95578xfr/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1BNi1mazdtV0RlZw=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/vqh3hrho07727qfg/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9wYXJ0aW5nLXRoZS13YXRlcnM_X3Bvcz0xJl9zaWQ9MzdmYTExNGVjJl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "40",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/e0hph7h7vgg98pi8/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtcG93ZXItYnJva2VyP19wb3M9MSZfc2lkPTQ3MjQzNDQ4MSZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/6qheh8hlrggv8pto/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9jYXN0ZS10aGUtb3JpZ2lucy1vZi1vdXItZGlzY29udGVudHM="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/z2hghnhe6vv92rbp/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1seEhiWV85bDlwMA=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/7qh7h8h9l77v26iz/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtY2hpbGRyZW4_X3Bvcz0xJl9zaWQ9ZjAyZTkzNTY1Jl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "44",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/z2hghnhe6vv9qrcp/aHR0cHM6Ly93d3cueW91dHViZS5jb20vc2hvcnRzL2VhNzJTSnhVMVdV"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "33",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/08hwh9h2e55063tl/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9lbG9uLW11c2s_X3Bvcz04Jl9zaWQ9ZWU0YTcyMjY2Jl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/qvh8h7hdw55gmnil/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90ZWFtLW9mLXJpdmFscy10aGUtcG9saXRpY2FsLWdlbml1cy1vZi1hYnJhaGFtLWxpbmNvbG4_X3Bvcz0xJl9zaWQ9ZDZkODJkNWExJl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "26",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/9qhzhnhdwmmkv4t9/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtY291bnQtb2YtbW9udGUtY3Jpc3RvLXBlbmd1aW4tY2xhc3NpY3M_X3Bvcz0xJl9zaWQ9NWNjZTZmYWJmJl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "37",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/dpheh0he6ggzlzum/aHR0cHM6Ly9wcmV2aWV3LmtpdC1tYWlsNi5jb20vY2xpY2svZHBoZWgwaHpobS9hSFIwY0hNNkx5OTNkM2N1ZEdobGNHRnBiblJsWkhCdmNtTm9MbU52YlM5d2NtOWtkV04wY3k5aVpXNXFZVzFwYmkxbWNtRnVhMnhwYmkxaGJpMWhiV1Z5YVdOaGJpMXNhV1psUDE5d2IzTTlOeVpmYzJsa1BUYzFZbUZtTWpBMVlTWmZjM005Y2c9PQ=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/x0hph6he2668v7u5/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtd2FybXRoLW9mLW90aGVyLXN1bnMtdGhlLWVwaWMtc3Rvcnktb2YtYW1lcmljYXMtZ3JlYXQtbWlncmF0aW9uP19wb3M9MSZfc2lkPTI3NmM0OTkyOCZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "24",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/8ghqhohodvvevrik/aHR0cHM6Ly93d3cuZGFpbHlzdG9pY2xpdmUuY29tLw=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "35",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/l2hehmhl2995mpu6/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9iaW9ncmFwaHkxND9fcG9zPTImX3NpZD1lZTRhNzIyNjYmX3NzPXI="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/kkhmh6hnwqqg0lbl/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9nYW5kaGktYmVmb3JlLWluZGlhP19wb3M9MSZfc2lkPTA0MWRjZTdkYyZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/l2hehmhl29959pt6/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9waWxsYXItb2YtZmlyZT9fcG9zPTImX3NpZD0zN2ZhMTE0ZWMmX3NzPXI="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/owhkhqhw9vv3mnfv/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy8xOTI5LXRoZS1pbnNpZGUtc3Rvcnktb2YtdGhlLWdyZWF0ZXN0LWNyYXNoLWluLXdhbGwtc3RyZWV0LWhpc3RvcnktMT9fcG9zPTEmX3NpZD03NGE2YzU0MmYmX3NzPXI="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/25h2hoh39zzrp4u3/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtcGVyc29uYWwtbWVtb2lycy1vZi11bHlzc2VzLXMtZ3JhbnQtdGhlLWNvbXBsZXRlLWFubm90YXRlZC1lZGl0aW9uP19wb3M9MSZfc2lkPTg5MDI2YTQ4NyZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "43",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/owhkhqhw9vv32nhv/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1QdlNnbmcwam9nbw=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "32",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/reh8hohmdrr9llh2/aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vam0vcG9kY2FzdC9zaXQtZG93bi13aXRoLXdhbHRlci1pc2FhY3Nvbi1hbmQtcnlhbi1ob2xpZGF5L2lkMTQzMDMxNTkzMT9pPTEwMDA3NDIxODA5MjI="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/m2h7h5h35ppkprbm/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9hdC1jYW5hYW5zLWVkZ2U_X3Bvcz0zJl9zaWQ9MzdmYTExNGVjJl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "36",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/m2h7h5h35ppk6rcm/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9iaW9ncmFwaHkyMD9fcG9zPTcmX3NpZD1lZTRhNzIyNjYmX3NzPXI="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/08hwh9h2e55053al/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9jb2xsZWN0aW9ucy9yb2JlcnQtYS1jYXJv"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "39",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/e0hph7h7vgg98pi8/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtcG93ZXItYnJva2VyP19wb3M9MSZfc2lkPTQ3MjQzNDQ4MSZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/58hvh7hgx88pdgf6/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9wYXJ0aW5nLXRoZS13YXRlcnM_X3Bvcz0xJl9zaWQ9MWVlMDU0YjhkJl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "25",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/9qhzhnhdwmmkv4t9/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtY291bnQtb2YtbW9udGUtY3Jpc3RvLXBlbmd1aW4tY2xhc3NpY3M_X3Bvcz0xJl9zaWQ9NWNjZTZmYWJmJl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/x0hph6he2668v7u5/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtd2FybXRoLW9mLW90aGVyLXN1bnMtdGhlLWVwaWMtc3Rvcnktb2YtYW1lcmljYXMtZ3JlYXQtbWlncmF0aW9uP19wb3M9MSZfc2lkPTI3NmM0OTkyOCZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "31",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/wnh2hghq7pp92pa7/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9iZW5qYW1pbi1mcmFua2xpbi1hbi1hbWVyaWNhbi1saWZlP19wb3M9NSZfc2lkPTNlOGRiMWQ3NCZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "42",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/7qh7h8h9l77vr6iz/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9hbGV4YW5kZXItaGFtaWx0b24_X3Bvcz0xJl9zaWQ9MjMxY2NiNGFhJl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/wnh2hghq7pp9ppu7/aHR0cHM6Ly9ja2FyY2hpdmUuY29tL2IvMjd1MmhvaDg5MDIyb2Y1N25udzd6dGczOG96cnpiZ2htdzYyOA=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/25h2hoh39zzrp4u3/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtcGVyc29uYWwtbWVtb2lycy1vZi11bHlzc2VzLXMtZ3JhbnQtdGhlLWNvbXBsZXRlLWFubm90YXRlZC1lZGl0aW9uP19wb3M9MSZfc2lkPTg5MDI2YTQ4NyZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "27",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/3ohphkh3mll650cr/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9yeWFuMTA_X3Bvcz0xJl9zaWQ9ZjA1YjI4ZGI4Jl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/8ghqhohodvvevrik/aHR0cHM6Ly93d3cuZGFpbHlzdG9pY2xpdmUuY29tLw=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "38",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/wnh2hghq7pp92pa7/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9iZW5qYW1pbi1mcmFua2xpbi1hbi1hbWVyaWNhbi1saWZlP19wb3M9NSZfc2lkPTNlOGRiMWQ3NCZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/25h2hoh39zzrp4u3/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtcGVyc29uYWwtbWVtb2lycy1vZi11bHlzc2VzLXMtZ3JhbnQtdGhlLWNvbXBsZXRlLWFubm90YXRlZC1lZGl0aW9uP19wb3M9MSZfc2lkPTg5MDI2YTQ4NyZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "30",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/48hvhehmleezd8ax/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9ibGFjay1jb3VudC1nbG9yeS1yZXZvbHV0aW9uLWJldHJheWFsLWFuZC10aGUtcmVhbC1jb3VudC1vZi1tb250ZS1jcmlzdG8tcHVsaXR6ZXItcHJpemUtZm9yLWJpb2dyYXBoeT9fcG9zPTEmX3NpZD1lYjEyNTE0ODQmX3NzPXI="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/dpheh0he6ggz9ztm/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9yaWdodC10aGluZy1yaWdodC1ub3ctcHJlLW9yZGVyLWRhdGVzLWFyZS10YmQ_X3Bvcz0xJl9zaWQ9NDgwYzFjMzYzJl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "29",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/9qhzhnhdwmmkv4t9/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtY291bnQtb2YtbW9udGUtY3Jpc3RvLXBlbmd1aW4tY2xhc3NpY3M_X3Bvcz0xJl9zaWQ9NWNjZTZmYWJmJl9zcz1y"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "41",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/e0hph7h7vgg98pi8/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy90aGUtcG93ZXItYnJva2VyP19wb3M9MSZfc2lkPTQ3MjQzNDQ4MSZfc3M9cg=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/8ghqhohodvvevrik/aHR0cHM6Ly93d3cuZGFpbHlzdG9pY2xpdmUuY29tLw=="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "28",
+          "value": {
+            "data": {
+              "url": "https://bc5923e4.click.convertkit-mail4.com/wvuk023x6laghk64xnwh7hnz4zgoea8hwog52/48hvhehmleezd8ax/aHR0cHM6Ly93d3cudGhlcGFpbnRlZHBvcmNoLmNvbS9wcm9kdWN0cy9ibGFjay1jb3VudC1nbG9yeS1yZXZvbHV0aW9uLWJldHJheWFsLWFuZC10aGUtcmVhbC1jb3VudC1vZi1tb250ZS1jcmlzdG8tcHVsaXR6ZXItcHJpemUtZm9yLWJpb2dyYXBoeT9fcG9zPTEmX3NpZD1lYjEyNTE0ODQmX3NzPXI="
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

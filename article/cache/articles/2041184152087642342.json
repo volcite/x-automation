@@ -1,0 +1,762 @@
+{
+  "tweet_created_at": "2026-04-06T15:59:59.000000Z",
+  "id": 2041184152087642400,
+  "id_str": "2041184152087642342",
+  "type": "tweet",
+  "conversation_id_str": "2041184152087642342",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/r6UuKoenJp",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1244068896157708300,
+    "id_str": "1244068896157708289",
+    "name": "Matt Van Swol",
+    "screen_name": "mattvanswol",
+    "location": "Asheville, NC",
+    "url": "http://realmattvanswol.com",
+    "description": "Former Nuclear Scientist for US Dept of Energy | Ex-Photographer for @apple, @united, and @hyatt",
+    "protected": false,
+    "verified": true,
+    "followers_count": 490316,
+    "friends_count": 7761,
+    "listed_count": 1763,
+    "favourites_count": 355469,
+    "statuses_count": 25241,
+    "created_at": "2020-03-29T01:08:41.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244068896157708289/1665589063",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1580221131985920001/XNlqL_Yx_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 24,
+  "reply_count": 95,
+  "retweet_count": 226,
+  "favorite_count": 1207,
+  "views_count": 33950,
+  "bookmark_count": 237,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041145259036418048",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/r6UuKoenJp"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T15:59:59.000000Z",
+    "id": 2041184152087642400,
+    "id_str": "2041184152087642342",
+    "title": "I Was Wrong About Church.",
+    "preview_text": "Something is wrong and most of us can feel it.\nNot the wrongness of opening X and seeing bad headlines. I mean the wrongness you feel like when everything has gone right.\nYou're not even sure you",
+    "cover_url": "https://pbs.twimg.com/media/HFO-D6FXgAAop_t.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d48ms",
+          "text": "Something is wrong and most of us can feel it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ohrh",
+          "text": "Not the wrongness of opening X and seeing bad headlines. I mean the wrongness you feel like when everything has gone right.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "62dan",
+          "text": "You're not even sure you could explain it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jiq7",
+          "text": "But it's there. It has always been there. And perhaps you, like me, have developed a remarkable set of skills for not looking directly at it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ev48c",
+          "text": "I didn't think church had anything to do with that feeling. I was wrong.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8avab",
+          "text": "A year ago on Easter, my wife and I took our kids to church for the first time and I think we stumbled upon something.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4vh3",
+          "text": "I suspect there are a lot of people carrying a similar understanding for this \"wrongness\" and I think they deserve to hear from someone who was as resistant as they are, and found, on the other side of that resistance, something worth the trouble of being wrong about.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4nrl",
+          "text": "There is almost nowhere else in America where you can get consistent moral instruction.",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5nk3l",
+          "text": "Admit it. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpf3d",
+          "text": "Nobody has challenged you to be a better person in years. Not really... not in any consistent way. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fodm",
+          "text": "If you're anything like me, you've spent more time managing your life than actually examining it... and it's really not your fault. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e4hi3",
+          "text": "Nobody is handing you a framework for how to live anymore. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d7ub1",
+          "text": "No one is teaching you how to forgive someone who doesn't deserve it or the how to be patient when someone is driving you nuts. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e4tu5",
+          "text": " And maybe most importantly... no one, absolutely no one, is talking to you about kind of person you are capable of being and the giant chasm between that person, and who you actually are.  ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arp09",
+          "text": "...but we used to have that. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5auas",
+          "text": "There was a place people went once a week specifically for this.  ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1hnfr",
+          "text": "Church does this every single week. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3debl",
+          "text": "Imperfectly, FOR SURE.   ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cv3cr",
+          "text": "In ways you won't always agree with, FOR SURE.  But it does it, nonetheless. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9nb3f",
+          "text": "After being in church for a year, I can tell you that I had forgotten what it felt like to sit in a room where someone was taking moral questions seriously. Where the whole point of being there was just to reckon with who you are and know who you're trying to become.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kgqo",
+          "text": "I needed it so badly, and so did my wife and my kids.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5qek",
+          "text": "The community is something money cannot buy.",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ptcr",
+          "text": "Oh, and by the way... there's an entire group of people there looking to do the same thing.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4j711",
+          "text": "When we walked back in a year ago, I expected to feel like a stranger. I expected awkward small talk and people who were pretending to have figured it out .",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahk0u",
+          "text": "This is not what I found. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ikl6",
+          "text": "What I found were people who were trying. Parents worried about the EXACT same things I'm worried about. Couples working through the same tensions. Plenty of people carrying quiet struggles they don't talk about here on X, but feel safe enough to acknowledge at church. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fbhv5",
+          "text": "There's a shared honesty in church that I've genuinely never encountered in any other social setting. For parents especially, this is absolutely irreplaceable. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "268n",
+          "text": "My kids are in Sunday School with the same kids every week. They're building roots in reality and grounded in moral clarity with other people who are also trying to do the same. But as I have gone to church, I have also come to realize that we have built a world of perfect mirrors. Every platform, every algorithm, every curated social circle reflects back people who are more or less like us, more or less our age, more or less our politics, more or less at our moment in life. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "atr3s",
+          "text": "Of course, we have called this personalization, but if we're honest, what it actually is, is an echo-chamber. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "97db2",
+          "text": "A life lived only among your peers is a life lived without wisdom. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ep2aa",
+          "text": "Church destroys that silo. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7nc40",
+          "text": "It puts you in a room with people you may never had chosen to spend time with and forces you to share something important with them. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d6t5d",
+          "text": "Slowly, a community forms. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "6vmhm",
+          "text": "That's irreplaceable. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9jl87",
+          "text": "There is nothing that replicates it anywhere, and I can honestly say that we have made more genuine friends this past year than we had made in the five years before it. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eb88m",
+          "text": "That kind of community doesn't just happen organically anymore, you actually have to build it somewhere and if I am being honest, church might be the last place in America that makes it genuinely easy to do.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efp4n",
+          "text": "The last room in America where everyone is actually here.",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5oqvu",
+          "text": "I go to a lot of places where everyone is together but nobody is really there.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5gjor",
+          "text": "You know exactly what I mean.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e6g7a",
+          "text": "A packed restaurant on a Friday night and everyone at the table is staring at their phones. I even went to a kid's birthday party recently where the majority of adults were on their phones, totally disengaged... and this is normal for us now.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "913hr",
+          "text": "We are physically present and mentally somewhere else almost everywhere we go now.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77ke4",
+          "text": "This is EXTREMELY taboo at church, very very few people are on their phones.\n\nI have often wondered why this is.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bsp70",
+          "text": "There was no announcement, no rule, no basket at the door to collect the phones. The room simply has a gravity that makes reaching for your phone feel like the wrong thing to do. Kind of like the way you instinctively lower your voice when you walk into a library or a hospital.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmmpa",
+          "text": "The space itself asks something of you, and it's really not much when you think about it... just to be present.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dvo2l",
+          "text": "I have a son who has never known a world where the adults around him were fully present. Who learned early on that he was always competing with the rectangle in someone's hand. As a father, I often wonder what that does to a person over time. What it quietly teaches them about their own worth.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ugac",
+          "text": "In church, for 1 hour at least, nobody is competing with anything.\n\nThat alone, is extraordinary.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d3umd",
+          "text": "Accountability is a gift that most people spend their lives avoiding.",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7gt3n",
+          "text": "We are living through a golden age of self-presentation.\n\nFor example, you know me, but you don't really know me. You may understand a bit of me just by reading this article, but unless I choose to tell you about something I've done, you may never know about it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7jm7",
+          "text": "The result is that most of us are known everywhere and accountable nowhere.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cgc4a",
+          "text": "This is not good.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c21rm",
+          "text": "Church closes the gap between who you present to the world and who you are in reality.\n\nMy pastors read my posts on X and they see me in real life.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3t4j5",
+          "text": "They know my name. They my wife. They teach my kids on Sunday morning and they remember what I told them three weeks ago and they will absolutely ask me how it went. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbtmt",
+          "text": "They aren't followers, but in a way they are witnesses to my life being lived, everywhere. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ut3f",
+          "text": "That is insanely uncomfortable. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3d525",
+          "text": "It is also, I have come to believe, one of the most important things a person can have.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5icmi",
+          "text": "A small group of people who know the whole picture and show up anyway and refuse to let you disappear into the most flattering version of yourself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1777u",
+          "text": "This forces you to be better.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aomus",
+          "text": "It is genuinely harder to be a hypocrite in front of people who will see you next Sunday. There is no substitute for being known by people who will sit next to you on Sunday and remember everything you said online and whether you returned your shopping cart to the stall on Tuesday on Publix.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dk5ri",
+          "text": "What we all tend to do is say that accountability is bad because it is an invasion of privacy and we don't need it, but what we actually mean is that it is uncomfortable to let people in to know us because then we'd actually have to change to be the person we want to be.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3v1c6",
+          "text": "The gentle, persistent, impossible-to-escape experience of being actually known is the only thing that will force you to be a better human being.\n\nI had no idea how badly I needed it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2h0a6",
+          "text": "Ritual matters more than I thought.",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9s1bl",
+          "text": "This is a hard one to put into words and perhaps the hardest of all to explain.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5osl4",
+          "text": "Let me ask you something and I want you to actually think about it... when was the last time you did something slowly, on purpose, for no real practical reason, at the same time every week, with other people, without looking at your phone?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3vks6",
+          "text": "Take your time.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7i6rd",
+          "text": "That pause you just felt, that slight mental scrambling for an example that probably didn't come super easily, is what I'm talking about.\n\nLet me put it another way...",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0sit",
+          "text": "You eat while working. You drive while listening. You exercise while watching. You fall asleep mid-scroll and wake up and do it again.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cedlg",
+          "text": "There is not a moment that is allowed to be just itself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aeo6v",
+          "text": "We have perfectly eliminated every second of boredom from our lives and filled it with noise.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 60,
+              "style": "Bold"
+            },
+            {
+              "length": 4,
+              "offset": 88,
+              "style": "Bold"
+            },
+            {
+              "length": 4,
+              "offset": 60,
+              "style": "Italic"
+            },
+            {
+              "length": 4,
+              "offset": 88,
+              "style": "Italic"
+            }
+          ],
+          "key": "90i3k",
+          "text": "If are anything like me, there is nowhere in life that says this part matters more than that part.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d3g16",
+          "text": "Church gives the silence back, the ritual of recalibration.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "21a0i",
+          "text": "In an ocean of noise, church swoops in like a helicopter and pulls you out of the rip current to help you remember which direction you are swimming... and if you want to keep going.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3a46d",
+          "text": "There's no magic in it, but an unstructured life tends to devolve into chaos just like anything that is not ritualistically maintained, and church might be the last place that takes ritual with any sort of seriousness at all.\n\nWe are creatures of habit that lost the habits that build the soul of life.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6r2l6",
+          "text": "I Was Wrong.",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eg6kk",
+          "text": "There is a door near you.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4hc4s",
+          "text": "It is probably located a few miles from where you are sitting rand reading this right now.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c4tar",
+          "text": "It opens on Sunday morning, it stays open for about an hour, and then closes again and the people go home to their imperfect lives and come back next week and do it all over again and try to do better this week than last week.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2k4k",
+          "text": "Behind that door are people who do not expect you to have figured it all out. Very few of them are expecting you to arrive with all of your doubts resolved, a faith perfectly completed, and your past cleaned up. In fact, I would bet that most of them are no different from you.\n\nHow do I know?\n\nBecause I'm there, and I'm not that much different from you.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pgll",
+          "text": "You don't have to believe everything to go, actually you don't have to believe anything... not yet anyway.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsc27",
+          "text": "All you have to do is just show up.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7v3m8",
+          "text": "The door has been there the whole time and it will be there next Sunday.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tsjo",
+          "text": "The only question is how many Sundays you have left to spend on the other side of the door.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

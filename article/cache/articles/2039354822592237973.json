@@ -1,0 +1,425 @@
+{
+  "tweet_created_at": "2026-04-01T14:50:53.000000Z",
+  "id": 2039354822592238000,
+  "id_str": "2039354822592237973",
+  "type": "tweet",
+  "conversation_id_str": "2039354822592237973",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/3BLUDy5NHH",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2030370193927557000,
+    "id_str": "2030370193927557120",
+    "name": "Angelaa",
+    "screen_name": "Angelaaaverezz",
+    "location": "",
+    "url": "http://link.me/angelaaaverezz",
+    "description": "i reply here ↓",
+    "protected": false,
+    "verified": true,
+    "followers_count": 9892,
+    "friends_count": 18,
+    "listed_count": 11,
+    "favourites_count": 1,
+    "statuses_count": 34,
+    "created_at": "2026-03-07T19:50:04.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030370193927557120/1772979310",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2030648471984730112/Frp40h4r_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 1,
+  "reply_count": 107,
+  "retweet_count": 7,
+  "favorite_count": 1770,
+  "views_count": 3244756,
+  "bookmark_count": 1661,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039353079045230592",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/3BLUDy5NHH"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T14:50:53.000000Z",
+    "id": 2039354822592238000,
+    "id_str": "2039354822592237973",
+    "title": "dont click lol ",
+    "preview_text": "........",
+    "cover_url": "https://pbs.twimg.com/media/HE087CDXMAIbXzT.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7l2en",
+          "text": "........",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8took",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ikvo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f5mho",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "26ehf",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evvia",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "ede76ae4-a053-4afa-9e91-8006d891355b",
+              "mediaItems": [
+                {
+                  "localMediaId": "15",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039354360212410368"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "4f3a916f-26ba-4592-adf2-61207d363310",
+              "mediaItems": [
+                {
+                  "localMediaId": "17",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039354426482388992"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "60f4f6e2-6de3-47d2-8e75-507818a46579",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039354632632471552"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "9faf0920-0f72-4f8c-a505-4a2413d30c81",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039354699321671680"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE09/FOa0AAKAAIcLVLvG5fQAAAA",
+        "media_id": "2039354360212410368",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.95,
+                "rgb": {
+                  "blue": 112,
+                  "green": 121,
+                  "red": 130
+                }
+              },
+              {
+                "percentage": 4.38,
+                "rgb": {
+                  "blue": 236,
+                  "green": 243,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 2.66,
+                "rgb": {
+                  "blue": 48,
+                  "green": 43,
+                  "red": 42
+                }
+              }
+            ]
+          },
+          "original_img_height": 491,
+          "original_img_url": "https://pbs.twimg.com/media/HE09_FOa0AAg8TM.jpg",
+          "original_img_width": 1293
+        },
+        "media_key": "3_2039354360212410368"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0+C8GacAAKAAIcLVLvG5fQAAAA",
+        "media_id": "2039354426482388992",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 48.82,
+                "rgb": {
+                  "blue": 117,
+                  "green": 129,
+                  "red": 138
+                }
+              },
+              {
+                "percentage": 28.16,
+                "rgb": {
+                  "blue": 37,
+                  "green": 27,
+                  "red": 27
+                }
+              },
+              {
+                "percentage": 11.7,
+                "rgb": {
+                  "blue": 230,
+                  "green": 237,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 5.29,
+                "rgb": {
+                  "blue": 102,
+                  "green": 139,
+                  "red": 206
+                }
+              },
+              {
+                "percentage": 2.33,
+                "rgb": {
+                  "blue": 85,
+                  "green": 199,
+                  "red": 232
+                }
+              }
+            ]
+          },
+          "original_img_height": 491,
+          "original_img_url": "https://pbs.twimg.com/media/HE0-C8GacAAHzTr.jpg",
+          "original_img_width": 1293
+        },
+        "media_key": "3_2039354426482388992"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0+O8EbEAAKAAIcLVLvG5fQAAAA",
+        "media_id": "2039354632632471552",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 39.37,
+                "rgb": {
+                  "blue": 37,
+                  "green": 26,
+                  "red": 26
+                }
+              },
+              {
+                "percentage": 24.92,
+                "rgb": {
+                  "blue": 95,
+                  "green": 106,
+                  "red": 110
+                }
+              },
+              {
+                "percentage": 15.53,
+                "rgb": {
+                  "blue": 65,
+                  "green": 96,
+                  "red": 149
+                }
+              },
+              {
+                "percentage": 14.37,
+                "rgb": {
+                  "blue": 229,
+                  "green": 237,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 1.47,
+                "rgb": {
+                  "blue": 45,
+                  "green": 24,
+                  "red": 20
+                }
+              }
+            ]
+          },
+          "original_img_height": 491,
+          "original_img_url": "https://pbs.twimg.com/media/HE0-O8EbEAAGOpm.jpg",
+          "original_img_width": 1293
+        },
+        "media_key": "3_2039354632632471552"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0+S0gXgAAKAAIcLVLvG5fQAAAA",
+        "media_id": "2039354699321671680",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 38.36,
+                "rgb": {
+                  "blue": 155,
+                  "green": 174,
+                  "red": 182
+                }
+              },
+              {
+                "percentage": 35.3,
+                "rgb": {
+                  "blue": 48,
+                  "green": 27,
+                  "red": 24
+                }
+              },
+              {
+                "percentage": 23.1,
+                "rgb": {
+                  "blue": 72,
+                  "green": 79,
+                  "red": 116
+                }
+              },
+              {
+                "percentage": 2.87,
+                "rgb": {
+                  "blue": 33,
+                  "green": 36,
+                  "red": 34
+                }
+              }
+            ]
+          },
+          "original_img_height": 491,
+          "original_img_url": "https://pbs.twimg.com/media/HE0-S0gXgAAuTZX.jpg",
+          "original_img_width": 1293
+        },
+        "media_key": "3_2039354699321671680"
+      }
+    ]
+  }
+}

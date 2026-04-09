@@ -1,0 +1,978 @@
+{
+  "tweet_created_at": "2026-04-03T15:32:29.000000Z",
+  "id": 2040090067709075700,
+  "id_str": "2040090067709075732",
+  "type": "tweet",
+  "conversation_id_str": "2040090067709075732",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/2CJ04Qlfdx",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1742923424056713200,
+    "id_str": "1742923424056713217",
+    "name": "Google AI Studio",
+    "screen_name": "GoogleAIStudio",
+    "location": "It's time to build",
+    "url": "https://ai.studio/build",
+    "description": "The fastest path from prompt to prototype to production with Gemini",
+    "protected": false,
+    "verified": true,
+    "followers_count": 153671,
+    "friends_count": 2,
+    "listed_count": 1519,
+    "favourites_count": 219,
+    "statuses_count": 114,
+    "created_at": "2024-01-04T14:58:26.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1742923424056713217/1773068211",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1957558782067896323/6jXpPKD4_normal.png",
+    "can_dm": true,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 19,
+  "reply_count": 38,
+  "retweet_count": 169,
+  "favorite_count": 1457,
+  "views_count": 168136,
+  "bookmark_count": 751,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040076694493757440",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/2CJ04Qlfdx"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T15:32:29.000000Z",
+    "id": 2040090067709075700,
+    "id_str": "2040090067709075732",
+    "title": "Getting Started with Gemma 4 in AI Studio",
+    "preview_text": "Google's Gemma 4 family of open models is now available through the Gemini API and Google AI Studio. Built from the same research behind Gemini 3, these models bring advanced reasoning, native",
+    "cover_url": "https://pbs.twimg.com/media/HE_bB3ea0AAEuJO.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cpib6",
+          "text": "Google's Gemma 4 family of open models is now available through the Gemini API and Google AI Studio. Built from the same research behind Gemini 3, these models bring advanced reasoning, native function calling, multimodal understanding, and 256K context windows to an open, Apache 2.0-licensed package you can run anywhere.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "af45d",
+          "text": "Two models are available through the Gemini API today:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dsi28",
+          "text": "gemma-4-26b-a4b-it",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8q237",
+          "text": "gemma-4-31b-it",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e948s",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fe01",
+          "text": "What makes Gemma 4 different",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "19utq",
+          "text": "Gemma 4 models handle function calling, structured JSON output, and system instructions at the model level rather than through prompt engineering. The 31B dense model currently ranks as the #3 open model on the Arena AI text leaderboard, with the 26B MoE model at #6, competing with models 20x their size.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "996aq",
+          "text": "Key capabilities:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8roef",
+          "text": "256K context window on both models",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "804ek",
+          "text": "Native function calling and structured output",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ac06g",
+          "text": "Multimodal text, images, and video",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ec8h",
+          "text": "140+ languages trained natively",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8t09p",
+          "text": "Apache 2.0 license full commercial use, no restrictions",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4u15h",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8l4ut",
+          "text": "Getting started with AI Studio",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 16,
+              "offset": 34
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3uc8s",
+          "text": "The fastest way to try Gemma 4 is Google AI Studio. Select gemma-4-26b-a4b-it or gemma-4-31b-it from the model picker, type a prompt, and start chatting. You can test system instructions, adjust temperature, and experiment with multimodal inputs all through the browser. No API key or code required.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7qs6f",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "ficj3",
+          "text": "Or click Get Code to export Python, JavaScript, or cURL snippets from any conversation.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2sh5o",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "au4qt",
+          "text": "Using Gemma 4 with the Gemini API",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ttph",
+          "text": "Install the Python SDK:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8oria",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 67,
+                "text": "aistudio.google.com/apikey",
+                "toIndex": 93
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 26,
+              "offset": 67
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7714m",
+          "text": "Set your API key as an environment variable. You can create one at aistudio.google.com/apikey.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ee043",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4mq1d",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2b019",
+          "text": "Text generation",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5rnaa",
+          "text": "Generate text with Gemma 4:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2v2ms",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "934im",
+          "text": "Pass a system instruction to set the model's behavior:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fj60a",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "chkf6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1c9q9",
+          "text": "Multi-turn conversations",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fae9",
+          "text": "The SDK provides a chat interface that tracks conversation history automatically:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dt91j",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8vlit",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55bjr",
+          "text": "Image understanding",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66j35",
+          "text": "Pass an image alongside your text prompt:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e159t",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eavbh",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7t6t9",
+          "text": "Function calling",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "kdr4",
+          "text": "Define tools as function declarations. The model decides when to call them:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 16,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bdv9h",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9i23s",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7j834",
+          "text": "Google Search",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c472u",
+          "text": "Ground Gemma 4 responses in real-time web data with Google Search:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "88krv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 19,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5l5ep",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9kgml",
+          "text": "Where to go next",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 20,
+              "length": 16,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9ku38",
+          "text": "Google AI Studio",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 21,
+              "length": 24,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5l96o",
+          "text": "Gemini API documentation",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 22,
+              "length": 19,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "f78o1",
+          "text": "Gemma Documentation",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 23,
+              "length": 15,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6b519",
+          "text": "Gemma Cookbooks",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68qtk",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3743a",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dks6s",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "markdown": "```python\nfrom google import genai\n\nclient = genai.Client()\nchat = client.chats.create(model=\"gemma-4-26b-a4b-it\")\n\nresponse = chat.send_message(\"What are the three most famous castles in Japan?\")\nprint(response.text)\n\nresponse = chat.send_message(\"Which one should I visit in spring for cherry blossoms?\")\nprint(response.text)\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "23",
+          "value": {
+            "data": {
+              "url": "https://github.com/google-gemma/cookbook"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "markdown": "```python\nfrom google import genai\n\nclient = genai.Client()\n\nresponse = client.models.generate_content(\n    model=\"gemma-4-26b-a4b-it\",\n    contents=\"Compare ramen and udon in 3 bullet points: broth, noodle texture, and best season to eat.\"\n)\nprint(response.text)\n\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "22",
+          "value": {
+            "data": {
+              "url": "https://ai.google.dev/gemma/docs"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "markdown": "```python\nfrom google import genai\nfrom google.genai import types\n\n# Define the function declaration\nget_weather = {\n    \"name\": \"get_weather\",\n    \"description\": \"Get current weather for a given location.\",\n    \"parameters\": {\n        \"type\": \"object\",\n        \"properties\": {\n            \"location\": {\n                \"type\": \"string\",\n                \"description\": \"City and state, e.g. 'San Francisco, CA'\",\n            },\n        },\n        \"required\": [\"location\"],\n    },\n}\n\nclient = genai.Client()\ntools = types.Tool(function_declarations=[get_weather])\nconfig = types.GenerateContentConfig(tools=[tools])\n\nresponse = client.models.generate_content(\n    model=\"gemma-4-26b-a4b-it\",\n    contents=\"Should I bring an umbrella to Kyoto today?\",\n    config=config,\n)\n\n# The model returns a function call instead of text\nif response.function_calls:\n    for fc in response.function_calls:\n        print(f\"Function to call: {fc.name}\")\n        print(f\"ID: {fc.id}\")\n        print(f\"Arguments: {fc.args}\")\n        #  In a real app, you would call your function here:\n        #  result = get_weather(**function_call.args)\nelse:\n    print(\"No function call found in the response.\")\n    print(response.text)\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "markdown": "```shell\npip install google-genai\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "markdown": "```python\nfrom google import genai\nfrom google.genai import types\n\nclient = genai.Client()\n\nresponse = client.models.generate_content(\n    model=\"gemma-4-31b-it\",\n    config=types.GenerateContentConfig(\n        system_instruction=\"You are a wise Kyoto tea master. Speak calmly and poetically, using nature metaphors. Keep answers under 3 sentences.\"\n    ),\n    contents=\"What is the purpose of the tea ceremony?\"\n)\nprint(response.text)\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "21",
+          "value": {
+            "data": {
+              "url": "https://ai.google.dev/gemini-api/docs"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "url": "https://aistudio.google.com/apikey"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "markdown": "```python\nfrom google import genai\nfrom google.genai import types\n\nclient = genai.Client()\n\nwith open(\"path/to/image.png\", \"rb\") as f:\n    image_bytes = f.read()\n\nresponse = client.models.generate_content(\n    model=\"gemma-4-26b-a4b-it\",\n    contents=[\n        types.Part.from_bytes(data=image_bytes, mime_type=\"image/png\"),\n        \"Describe this image in 2-3 sentences as if writing a caption for a Japanese travel magazine.\"\n    ]\n)\nprint(response.text)\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "20",
+          "value": {
+            "data": {
+              "url": "https://aistudio.google.com/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://aistudio.google.com/prompts/new_chat?model=gemma-4-31b-it"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "markdown": "```python\nfrom google import genai\nfrom google.genai import types\n\nclient = genai.Client()\n\nresponse = client.models.generate_content(\n    model=\"gemma-4-26b-a4b-it\",\n    contents=\"What are the dates for cherry blossom season in Tokyo this year?\",\n    config=types.GenerateContentConfig(\n        tools=[{\"google_search\":{}}]\n    ),\n)\n\nprint(response.text)\n\n# Access grounding metadata for citations\nfor chunk in response.candidates[0].grounding_metadata.grounding_chunks:\n    print(f\"Source: {chunk.web.title} — {chunk.web.uri}\")\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "markdown": "```shell\nexport GEMINI_API_KEY=\"your-api-key\"\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "f9e3c5a2-0fca-4367-a024-f38ad21ecefa",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040077077203038208"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE/PSv0asAAKAAIYMBueqZugAQAA",
+        "media_id": "2040077077203038208",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 74.42,
+                "rgb": {
+                  "blue": 28,
+                  "green": 28,
+                  "red": 28
+                }
+              },
+              {
+                "percentage": 22.32,
+                "rgb": {
+                  "blue": 252,
+                  "green": 242,
+                  "red": 231
+                }
+              },
+              {
+                "percentage": 1.12,
+                "rgb": {
+                  "blue": 250,
+                  "green": 202,
+                  "red": 150
+                }
+              },
+              {
+                "percentage": 0.22,
+                "rgb": {
+                  "blue": 116,
+                  "green": 104,
+                  "red": 101
+                }
+              }
+            ]
+          },
+          "original_img_height": 1708,
+          "original_img_url": "https://pbs.twimg.com/media/HE_PSv0asAA4y9H.jpg",
+          "original_img_width": 1924
+        },
+        "media_key": "3_2040077077203038208"
+      }
+    ]
+  }
+}

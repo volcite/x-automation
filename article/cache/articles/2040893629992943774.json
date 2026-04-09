@@ -1,0 +1,1151 @@
+{
+  "tweet_created_at": "2026-04-05T20:45:34.000000Z",
+  "id": 2040893629992943900,
+  "id_str": "2040893629992943774",
+  "type": "tweet",
+  "conversation_id_str": "2040893629992943774",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/nN3E2sHtXL",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1958178133284212700,
+    "id_str": "1958178133284212737",
+    "name": "теория относительности эпштейна",
+    "screen_name": "Bearnotbeer5",
+    "location": "",
+    "url": null,
+    "description": "Мы ненадолго здесь. У нас всего одно мгновение. Но может быть когда-нибудь мы ещё встретимся.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 1150,
+    "friends_count": 673,
+    "listed_count": 3,
+    "favourites_count": 26594,
+    "statuses_count": 9812,
+    "created_at": "2025-08-20T14:44:22.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958178133284212737/1755701798",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1959886998992293889/ZZ6e9gLU_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 10,
+  "reply_count": 59,
+  "retweet_count": 153,
+  "favorite_count": 1496,
+  "views_count": 101915,
+  "bookmark_count": 3298,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040877886945509376",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/nN3E2sHtXL"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T20:45:33.000000Z",
+    "id": 2040893629992943900,
+    "id_str": "2040893629992943774",
+    "title": "Настройка раздельной маршрутизации в приложениях-клиентах на iOS ",
+    "preview_text": "В данной статье хочу поделиться вариантом настройки популярного VPN-клиента Happ (Happ Plus) для iOS таким образом, чтобы при включенном VPN обращение к российским сайтам и приложениям шло напрямую,",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 465
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 76,
+              "style": "Bold"
+            },
+            {
+              "length": 10,
+              "offset": 82,
+              "style": "Bold"
+            }
+          ],
+          "key": "dklec",
+          "text": "В данной статье хочу поделиться вариантом настройки популярного VPN-клиента Happ (Happ Plus) для iOS таким образом, чтобы при включенном VPN обращение к российским сайтам и приложениям шло напрямую, минуя VPN-подключение. Именно про это приложение было больше всего вопросов сегодня в комментариях. Статья, разумеется, рассчитана на обычных пользователей — коллеги-айтишники и мамкины хакеры, просьба не душнить в реплаях, но писать замечания по делу, если имеются 😄",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 473
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 473,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "7r4si",
+          "text": "Важно! Happ — это просто приложение-клиент, оно не продает вам VPN-доступ, а работает с тем, что вы в него загрузите, и тема выбора VPN-провайдера, очевидно, остается за рамками данной статьи. Очень часто люди оставляют негативные отзывы об этом и подобных приложениях-клиентах, хотя в проблемах (медленно грузит, обрывы связи и т.п.) зачастую виноват VPN-провайдер. Это как купить телевизор и оставить на него негативный отзыв просто потому, что вы посмотрели плохое кино 🙂",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 256
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9v57d",
+          "text": "Итак у вас уже есть на айфоне или айпаде установленный Happ, внутри него добавлен рабочий профиль VPN-сервера, а вы — законопослушный гражданин и желаете посещать исключительно вражеские сайты, злостно блокирующие доступ пользователям из России, так ведь? 😇Тогда погнали.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bc0qu",
+          "text": "Открываем Happ и заходим в меню настроек, тапнув на изображение шестеренки в левом верхнем углу:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d790l",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 31,
+              "style": "Bold"
+            }
+          ],
+          "key": "909q3",
+          "text": "В появившемся меню ищем пункт \"Маршрутизация\" и переходим внутрь него, как показано на скрине ниже:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2isth",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "c40s",
+          "text": "Так будет выглядеть раздел \"Маршрутизация\" при отсутствии настроек:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9tvve",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 25,
+              "style": "Bold"
+            },
+            {
+              "length": 14,
+              "offset": 253,
+              "style": "Bold"
+            }
+          ],
+          "key": "7alcd",
+          "text": "Пытаться включить опцию \"Использовать роутинг\" пока бессмысленно, ведь у нас нет соответствующих настроек. Для создания нового профиля с настройками маршрутизации нажимаем кнопку с тремя точками в правом верхнем углу и в выпадающем меню выбираем пункт \"Новый Профиль\":",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5h345",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 98,
+              "style": "Italic"
+            },
+            {
+              "length": 7,
+              "offset": 122,
+              "style": "Bold"
+            }
+          ],
+          "key": "5dpaj",
+          "text": "После этого приложение запросит у вас название для нового профиля, можно указать любое, например, ru-direct, и нажать на \"Создать\":",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ffmfn",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 15,
+              "style": "Bold"
+            },
+            {
+              "length": 20,
+              "offset": 45,
+              "style": "Bold"
+            }
+          ],
+          "key": "bgeff",
+          "text": "Теперь в окне \"Маршрутизация\" переключатель \"Использовать роутинг\" автоматически был переведен в активное положение, а в списке ниже появился пустой профиль с заданным вами названием. Теперь наша задача — настроить данный профиль. Для этого переходим внутрь профиля, как показано на скрине ниже:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2o1lq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60m84",
+          "text": " Меню настроек профиля не помещается на один экран, но мы в любом случае работаем только с верхней его частью, которая показана на скрине:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "34l4h",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 25,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 35,
+              "style": "Bold"
+            },
+            {
+              "length": 20,
+              "offset": 51,
+              "style": "Bold"
+            }
+          ],
+          "key": "3hlcd",
+          "text": "Важно проверить, чтобы у geosite и geoip в графах \"Последнее обновление\" были актуальные дата/время. Если у вас не так, то нажмите последовательно кнопки с круговыми стрелками напротив каждого пункта и дождитесь окончания загрузки.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 31,
+              "style": "Bold"
+            }
+          ],
+          "key": "cupo4",
+          "text": "Также следует выключить опцию \"Урезать геофайлы\", иначе могут возникнуть ошибки на этапе запуска подключения с новым профилем, и маршрутизация фактически не заработает.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 102,
+              "style": "Bold"
+            }
+          ],
+          "key": "dsgl4",
+          "text": "Теперь приступаем непосредственно к редактированию правил и переходим внутрь соответствующего пункта \"Редактировать правила\" (стрелка обведена на скрине выше).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 69,
+              "style": "Bold"
+            },
+            {
+              "length": 8,
+              "offset": 191,
+              "style": "Bold"
+            }
+          ],
+          "key": "b1hu2",
+          "text": "В меню редактирования правил в первую очередь убеждаемся, что опция \"Глобальный прокси-сервер\" включена и затем открываем настройки правил для передачи интернет-трафика напрямую (пункт меню \"Напрямую\"):",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7cdpv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5msou",
+          "text": "В списке для трафика напрямую вы увидите несколько предзаполненных строк — это группы локальных IP-адресов для того, чтоб не сломать вашу домашнюю сеть. Перемещаемся в новую строку и добавляем туда следующее:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ijn2",
+          "text": "geoip:ru",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26od",
+          "text": "geosite:category-ru",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 71,
+              "style": "Bold"
+            }
+          ],
+          "key": "2m9ic",
+          "text": "Скрин ниже показывает, как в итоге должен выглядеть ваш список правил \"Напрямую\":",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "860bo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 41
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 118,
+              "style": "Bold"
+            }
+          ],
+          "key": "911vr",
+          "text": "Теперь аккуратно, ничего не задев по пути🙃, возвращаемся в самое главное окно программы, нажимая кнопку со стрелкой (\"Назад\") в верхнем левом углу экрана.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9q4tg",
+          "text": "Выключаем VPN большой круглой копкой (если был включён во время описанных выше манипуляций) и включаем обратно.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "13cgt",
+          "text": "На этапе включения не должно быть никаких ошибок! Если они есть, сверьтесь еще раз внимательно со статьей и каждым скрином: ничего ли не забыли/не перепутали.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 51,
+              "offset": 136,
+              "style": "Bold"
+            }
+          ],
+          "key": "cstib",
+          "text": "Если всё сделано правильно, то теперь Happ весь зарубежный трафик гонит в VPN-туннель, а российский отправляет в ваш интернет напрямую. VPN можно оставить включенным на постоянной основе.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 211,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "6mc5k",
+          "text": "Некоторые российские приложения (банки, Авито, Яндекс и т.п.) всё равно будут при запуске уведомлять вас о том, что включен VPN, но фактически будут работать напрямую, а значит вопросов и проблем быть не должно.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f643.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "d4c4ec12-3849-4768-a260-5a4d520329b2",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040882455549198337"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "caption": "Happ, меню настроек",
+              "entityKey": "2a5f7650-22b9-4ec6-9d29-9f276d02e844",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040879948873846784"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "entityKey": "e35f1a3c-bf03-4bd8-9ae1-ea8fa45db472",
+              "mediaItems": [
+                {
+                  "localMediaId": "21",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040887605399818240"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "d97abee7-be1a-43d9-b644-f07e7ace3cb4",
+              "mediaItems": [
+                {
+                  "localMediaId": "15",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040885280031281153"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "caption": "Happ, маршрутизация",
+              "entityKey": "acbbe3bf-dbaa-4c7b-a081-b6c7c39ee36c",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040880681375375360"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "c7c06297-8860-4ad6-96d5-7c0dbf3104f8",
+              "mediaItems": [
+                {
+                  "localMediaId": "19",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040886449965498368"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "e52f38fa-bc1f-4c7b-8780-a6995d0853c6",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040881442214027264"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f642.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f604.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f607.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "fef3fe1f-1bce-4012-8f0d-e66c25c12dfd",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040881838755893249"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "caption": "Happ, главный экран приложения",
+              "entityKey": "31326d4f-e356-45d3-a2b9-b29c03b75525",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040879230691471360"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFKq28/aoAAKAAIbLNijKVfQAQAA",
+        "media_id": "2040881442214027264",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.86,
+                "rgb": {
+                  "blue": 246,
+                  "green": 241,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 1.08,
+                "rgb": {
+                  "blue": 138,
+                  "green": 137,
+                  "red": 137
+                }
+              }
+            ]
+          },
+          "original_img_height": 596,
+          "original_img_url": "https://pbs.twimg.com/media/HFKq28_aoAAnvBW.jpg",
+          "original_img_width": 998
+        },
+        "media_key": "3_2040881442214027264"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFKvacUaAAAKAAIbLNijKVfQAQAA",
+        "media_id": "2040886449965498368",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 97.25,
+                "rgb": {
+                  "blue": 247,
+                  "green": 241,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 0.62,
+                "rgb": {
+                  "blue": 77,
+                  "green": 103,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 0.49,
+                "rgb": {
+                  "blue": 241,
+                  "green": 201,
+                  "red": 204
+                }
+              },
+              {
+                "percentage": 0.43,
+                "rgb": {
+                  "blue": 161,
+                  "green": 175,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 0.24,
+                "rgb": {
+                  "blue": 237,
+                  "green": 106,
+                  "red": 116
+                }
+              }
+            ]
+          },
+          "original_img_height": 1513,
+          "original_img_url": "https://pbs.twimg.com/media/HFKvacUaAAAjFUN.jpg",
+          "original_img_width": 1167
+        },
+        "media_key": "3_2040886449965498368"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFKqKqpWIAAKAAIbLNijKVfQAQAA",
+        "media_id": "2040880681375375360",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.31,
+                "rgb": {
+                  "blue": 247,
+                  "green": 241,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 0.67,
+                "rgb": {
+                  "blue": 132,
+                  "green": 130,
+                  "red": 130
+                }
+              }
+            ]
+          },
+          "original_img_height": 1019,
+          "original_img_url": "https://pbs.twimg.com/media/HFKqKqpWIAA5rUN.jpg",
+          "original_img_width": 1167
+        },
+        "media_key": "3_2040880681375375360"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFKrOCOXUAEKAAIbLNijKVfQAQAA",
+        "media_id": "2040881838755893249",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 96.2,
+                "rgb": {
+                  "blue": 174,
+                  "green": 168,
+                  "red": 169
+                }
+              },
+              {
+                "percentage": 3.06,
+                "rgb": {
+                  "blue": 145,
+                  "green": 140,
+                  "red": 141
+                }
+              },
+              {
+                "percentage": 0.48,
+                "rgb": {
+                  "blue": 183,
+                  "green": 186,
+                  "red": 236
+                }
+              }
+            ]
+          },
+          "original_img_height": 636,
+          "original_img_url": "https://pbs.twimg.com/media/HFKrOCOXUAE5o73.png",
+          "original_img_width": 894
+        },
+        "media_key": "3_2040881838755893249"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFKpgB3X0AAKAAIbLNijKVfQAQAA",
+        "media_id": "2040879948873846784",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.38,
+                "rgb": {
+                  "blue": 252,
+                  "green": 251,
+                  "red": 251
+                }
+              },
+              {
+                "percentage": 0.81,
+                "rgb": {
+                  "blue": 141,
+                  "green": 139,
+                  "red": 139
+                }
+              },
+              {
+                "percentage": 0.19,
+                "rgb": {
+                  "blue": 238,
+                  "green": 107,
+                  "red": 117
+                }
+              },
+              {
+                "percentage": 0.18,
+                "rgb": {
+                  "blue": 214,
+                  "green": 220,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 0.15,
+                "rgb": {
+                  "blue": 89,
+                  "green": 114,
+                  "red": 254
+                }
+              }
+            ]
+          },
+          "original_img_height": 2045,
+          "original_img_url": "https://pbs.twimg.com/media/HFKpgB3X0AAP4uE.jpg",
+          "original_img_width": 1174
+        },
+        "media_key": "3_2040879948873846784"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFKuWV+WkAEKAAIbLNijKVfQAQAA",
+        "media_id": "2040885280031281153",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.05,
+                "rgb": {
+                  "blue": 247,
+                  "green": 241,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 0.6,
+                "rgb": {
+                  "blue": 180,
+                  "green": 191,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.57,
+                "rgb": {
+                  "blue": 87,
+                  "green": 112,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.49,
+                "rgb": {
+                  "blue": 140,
+                  "green": 140,
+                  "red": 140
+                }
+              },
+              {
+                "percentage": 0.23,
+                "rgb": {
+                  "blue": 240,
+                  "green": 196,
+                  "red": 201
+                }
+              }
+            ]
+          },
+          "original_img_height": 1721,
+          "original_img_url": "https://pbs.twimg.com/media/HFKuWV-WkAEoPJA.jpg",
+          "original_img_width": 1173
+        },
+        "media_key": "3_2040885280031281153"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFKo2ObWcAAKAAIbLNijKVfQAQAA",
+        "media_id": "2040879230691471360",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.36,
+                "rgb": {
+                  "blue": 235,
+                  "green": 235,
+                  "red": 235
+                }
+              },
+              {
+                "percentage": 0.31,
+                "rgb": {
+                  "blue": 81,
+                  "green": 106,
+                  "red": 249
+                }
+              },
+              {
+                "percentage": 0.13,
+                "rgb": {
+                  "blue": 139,
+                  "green": 155,
+                  "red": 245
+                }
+              }
+            ]
+          },
+          "original_img_height": 1616,
+          "original_img_url": "https://pbs.twimg.com/media/HFKo2ObWcAAyTQO.jpg",
+          "original_img_width": 1165
+        },
+        "media_key": "3_2040879230691471360"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFKwdspakAAKAAIbLNijKVfQAQAA",
+        "media_id": "2040887605399818240",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.7,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.74,
+                "rgb": {
+                  "blue": 71,
+                  "green": 98,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.4,
+                "rgb": {
+                  "blue": 141,
+                  "green": 139,
+                  "red": 139
+                }
+              },
+              {
+                "percentage": 0.15,
+                "rgb": {
+                  "blue": 243,
+                  "green": 208,
+                  "red": 211
+                }
+              }
+            ]
+          },
+          "original_img_height": 1552,
+          "original_img_url": "https://pbs.twimg.com/media/HFKwdspakAAC5Qq.jpg",
+          "original_img_width": 1172
+        },
+        "media_key": "3_2040887605399818240"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFKrx79WQAEKAAIbLNijKVfQAQAA",
+        "media_id": "2040882455549198337",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 96.98,
+                "rgb": {
+                  "blue": 247,
+                  "green": 241,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 0.66,
+                "rgb": {
+                  "blue": 239,
+                  "green": 194,
+                  "red": 198
+                }
+              },
+              {
+                "percentage": 0.57,
+                "rgb": {
+                  "blue": 50,
+                  "green": 81,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.49,
+                "rgb": {
+                  "blue": 161,
+                  "green": 175,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.4,
+                "rgb": {
+                  "blue": 97,
+                  "green": 119,
+                  "red": 251
+                }
+              }
+            ]
+          },
+          "original_img_height": 1243,
+          "original_img_url": "https://pbs.twimg.com/media/HFKrx79WQAEDsmi.jpg",
+          "original_img_width": 1167
+        },
+        "media_key": "3_2040882455549198337"
+      }
+    ]
+  }
+}

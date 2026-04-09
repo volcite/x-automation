@@ -1,0 +1,332 @@
+{
+  "tweet_created_at": "2026-04-06T05:45:21.000000Z",
+  "id": 2041029474121113900,
+  "id_str": "2041029474121113941",
+  "type": "tweet",
+  "conversation_id_str": "2041029474121113941",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/iZZ5UROCmS",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 210792476,
+    "id_str": "210792476",
+    "name": "Jan Dijkgraaf",
+    "screen_name": "jndkgrf",
+    "location": "Eesterga, Friesland",
+    "url": "https://www.buttkicken.nl/blog",
+    "description": "1 hypocrietenvreter - 2 i know - 3 i don't care - 4 niemandsknecht - 5 bemoei je met je eigen tijd - 6 dommemensenmoe - 7 oké doei - https://t.co/R4cjmNpct9",
+    "protected": false,
+    "verified": true,
+    "followers_count": 125889,
+    "friends_count": 4313,
+    "listed_count": 429,
+    "favourites_count": 97372,
+    "statuses_count": 57473,
+    "created_at": "2010-11-01T12:19:23.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/210792476/1693292284",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1469572271908003844/vQjJc3kn_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 35,
+  "reply_count": 113,
+  "retweet_count": 634,
+  "favorite_count": 2053,
+  "views_count": 107133,
+  "bookmark_count": 36,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041029150295691264",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/iZZ5UROCmS"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T05:45:21.000000Z",
+    "id": 2041029474121113900,
+    "id_str": "2041029474121113941",
+    "title": "Briefje van Jan - aan Carola Schouten",
+    "preview_text": "Mevrouw Schouten,\nGezellig antisemitisch feestje gehad gisteren in Rotterdam, burgemeester?\nEen lekker potje zitten wegkijken en de-escaleren toen de Joden weer dood moesten, de vrouwen op de openbare",
+    "cover_url": "https://pbs.twimg.com/media/HFMxe1Qb0AAMG_I.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5q9rc",
+          "text": "Mevrouw Schouten,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjssj",
+          "text": "Gezellig antisemitisch feestje gehad gisteren in Rotterdam, burgemeester?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 176,
+              "offset": 50
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 176,
+              "offset": 50,
+              "style": "Bold"
+            }
+          ],
+          "key": "a2q6p",
+          "text": "Een lekker potje zitten wegkijken en de-escaleren toen de Joden weer dood moesten, de vrouwen op de openbare weg gescheiden moesten blijven van de mannen en het barbaarse Iraanse regime werd gevierd door islamitische ophitsers?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70gkk",
+          "text": "Of dacht u aan Jezus’ andere wang?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1efu",
+          "text": "Het verhaal komt uit de Bergrede (Matteüs 5:38-39) en de Leerrede op de vlakte (Lucas 6:29), waarin Jezus de oude wet ‘oog om oog, tand om tand’ uit de Thora omkeerde.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ace7",
+          "text": "Hij zou hebben gezegd: \"Maar ik zeg u: bied de boze geen weerstand. Als iemand u op de rechterwang slaat, keer hem dan ook de andere toe.\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7hs46",
+          "text": "Normale mensen lezen daarin: bied geen verzet en laat (in dit geval) de soldaten van de islamitische veroveringsreligie winnen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgv8v",
+          "text": "Maar te veel christenen springen liever op de bagagedrager bij de Amerikaanse theoloog Walter Wink, die dat verhaal over die andere wang heel anders uitlegt.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9jmee",
+          "text": "Volgens Wink gold het aanbieden van de andere wang juist als een daad van verzet.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3og1n",
+          "text": "In die tijd zou een klap op de rechterwang geen gewone klap zijn geweest, maar een belediging van meerdere naar mindere. Door de andere wang aan te bieden, dwong de ‘mindere’ de ‘meerdere’ hem als gelijke te behandelen. De ‘mindere’ ontnam de ‘meerdere’ zijn macht over hem.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f1ud",
+          "text": "Als je een aanhanger bent van de theorie van Walter Wink, dat je niet constant buigt voor de islamisten, maar juist verzet pleegt als je ze maar lekker door laat beuken, dan zie je wat mij betreft één ding over het hoofd.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "audhc",
+          "text": "Een detail.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3bb8n",
+          "text": "Dat is het feit dat die moslimbroeders nog nooit van Walter Wink hebben gehoord.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "14s3b",
+          "text": "Dus die denken alleen maar: als het veroveren zo makkelijk gaat, dan gaan we er lekker mee door.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8m5eg",
+          "text": "“Allahu Akbar!”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "em5tl",
+          "text": "Groet,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qn1v",
+          "text": "JanD",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 25,
+              "offset": 15
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "7pe5m",
+          "text": "PS. Cadeautje. Dan kunt u alvast oefenen.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 30,
+                "text": "https://tinyurl.com/buigenvoordevlasbaarden",
+                "toIndex": 73
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evajl",
+          "text": "Delen? Dat kan met deze link: https://tinyurl.com/buigenvoordevlasbaarden",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 13,
+              "offset": 111
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 110,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 56,
+              "offset": 111,
+              "style": "Italic"
+            },
+            {
+              "length": 13,
+              "offset": 111,
+              "style": "Bold"
+            }
+          ],
+          "key": "1m1ev",
+          "text": "Het ‘Briefje van Jan’ verschijnt iedere dag en is gratis te lezen. Wil je een kleine donatie doen, dan kan dat via deze link. Veel dank, mede namens mevrouw Dijkgraaf!",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://www.geenstijl.nl/5189274/videos-gescheiden-bidden-iraanse-vlaggen-en-abou-eenarm-bij-pro-pallie-demo-010"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://tinyurl.com/muek3rdf"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://bunq.me/mevrouwDijkgraaf"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

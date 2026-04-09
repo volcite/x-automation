@@ -1,0 +1,337 @@
+{
+  "tweet_created_at": "2026-04-06T12:06:35.000000Z",
+  "id": 2041125412063814000,
+  "id_str": "2041125412063813842",
+  "type": "tweet",
+  "conversation_id_str": "2041125412063813842",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/vGVOx9oLxg",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1409817145,
+    "id_str": "1409817145",
+    "name": "Val",
+    "screen_name": "yuteoflondon",
+    "location": "London, England",
+    "url": "http://patmostravelservices.com",
+    "description": "i do things.  study abroad? - @patmostravels, podcast? on YT. | AI. Tech. Finance. https://t.co/pExHwvNb9w",
+    "protected": false,
+    "verified": true,
+    "followers_count": 29365,
+    "friends_count": 12214,
+    "listed_count": 29,
+    "favourites_count": 7245,
+    "statuses_count": 120049,
+    "created_at": "2013-05-07T09:24:44.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1409817145/1728148275",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1985489977149358080/d2eEwmtJ_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 24,
+  "reply_count": 33,
+  "retweet_count": 185,
+  "favorite_count": 1529,
+  "views_count": 1505320,
+  "bookmark_count": 7014,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041116732148834304",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/vGVOx9oLxg"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T12:06:35.000000Z",
+    "id": 2041125412063814000,
+    "id_str": "2041125412063813842",
+    "title": "10 ways to build wealth tax-free in the UK. ",
+    "preview_text": "Most people in the UK have no idea how the wealth-building system in this country actually works. They earn, they spend, they save a little in a current account, and they wonder why nothing ever",
+    "cover_url": "https://pbs.twimg.com/media/HFOIWOHawAAOm_4.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5cha0",
+          "text": "Most people in the UK have no idea how the wealth-building system in this country actually works. They earn, they spend, they save a little in a current account, and they wonder why nothing ever compounds. Meanwhile the system has legal vehicles sitting right there, available to anyone with a National Insurance number, that let you grow money tax-free, get free government top-ups, and build wealth faster than any savings account ever will. The people who use them get quietly rich over time. The people who don’t keep wondering what they’re doing wrong.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1inro",
+          "text": "If you weren’t born here, it’s worse. Nobody sits you down when you arrive and explains how ISAs, SIPPs, and pensions work. You’re too busy figuring out council tax and GP registration to think about tax-free investment wrappers but even if you grew up here, the odds are nobody taught you this either. Financial literacy isn’t part of the curriculum. It’s passed down through families that already have wealth, and that’s exactly how the gap widens.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "484cu",
+          "text": "Here’s everything you need to know.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 2,
+              "style": "Bold"
+            },
+            {
+              "length": 9,
+              "offset": 251,
+              "style": "Bold"
+            },
+            {
+              "length": 8,
+              "offset": 277,
+              "style": "Bold"
+            }
+          ],
+          "key": "87p4j",
+          "text": "A Stocks and Shares ISA is the single most powerful wealth-building tool available to ordinary people in this country. You can put up to £20,000 into one every tax year and every penny of growth, dividends, and profit you make inside it is completely tax-free not reduced tax. Zero tax. You buy index funds, ETFs, or individual shares inside your ISA and whatever they grow to is yours. No capital gains tax. No dividend tax. No income tax when you withdraw. Compare that to a regular investment account where you’d pay capital gains tax on anything above £3,000 in profit. Most people only know about the cash ISA their bank offers, which pays next to nothing and barely keeps up with inflation. A Stocks and Shares ISA is a completely different vehicle. You’re investing in the market. Over the long term, global index funds have historically returned around 8 to 12% per year. That’s your money compounding tax-free, year after year. Every year you don’t open one is a year of tax-free growth you never get back. The allowance resets each April and you can’t carry it forward. Use it or lose it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 61,
+              "style": "Bold"
+            }
+          ],
+          "key": "cl463",
+          "text": "If you’re between 18 and 39 and you’ve never owned a home, a Lifetime ISA should be the next account you open. You can save up to £4,000 a year and the government adds 25% on top. That’s up to £1,000 in free money every single year just for saving. You can use it to buy your first home in the UK up to a value of £450,000, or leave it untouched until age 60 and use it for retirement. The government has confirmed the LISA is being replaced by a new product from April 2028, but existing accounts will stay open under the same rules. That means opening one now, even with just £1, locks you into the current system before it disappears. If you’re a first-time buyer and you haven’t opened a LISA, you are literally turning down free money from the government. There is no other way to describe it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 2,
+              "style": "Bold"
+            },
+            {
+              "length": 31,
+              "offset": 59,
+              "style": "Bold"
+            },
+            {
+              "length": 53,
+              "offset": 527,
+              "style": "Italic"
+            }
+          ],
+          "key": "2bhrl",
+          "text": "A SIPP is where the government hands you money for saving. Self-Invested Personal Pension. For every £80 you put in, the government adds £20 in tax relief, bringing your total contribution to £100. If you’re a higher-rate taxpayer at 40%, you can claim back another £20 through your tax return, meaning £100 in your pension only cost you £60 out of pocket. The annual allowance is £60,000 or 100% of your earnings, whichever is lower. You choose what to invest in. Index funds, ETFs, individual shares, bonds. The catch is you can’t access it until age 55, rising to 57 from 2028 but that’s not a catch. That’s forced discipline that your future self will thank you for. When you do access it, 25% comes out completely tax-free and the rest is taxed as income. For anyone thinking long-term, the SIPP is the fastest legal way to build a retirement pot because the government is subsidising your contributions. If you have unused allowance from the previous three tax years, you can carry it forward and make a larger contribution this year. Most people don’t know that either.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 5,
+              "style": "Bold"
+            }
+          ],
+          "key": "810mi",
+          "text": "Your workplace pension is money you’re already entitled to that you might be ignoring. If you’re employed in the UK, your employer is legally required to enrol you and contribute a minimum of 3% of your qualifying earnings. You contribute 5%. That’s 8% of your salary going into a pension every month, partly funded by someone else. A lot of people see this as a deduction on their payslip and resent it. That’s the wrong way to think about it. Your employer’s 3% is free money. It was never going to appear in your salary. It only exists because of the pension and your 5% gets tax relief on top. Here’s the part that matters. Some employers offer to match higher contributions. If your employer will match up to 6% and you’re only contributing 5%, you’re leaving guaranteed returns on the table every single month. There is no investment on earth that gives you an instant 100% return. Your employer match does. Log into your pension portal, check the matching policy, and meet it. Do that before you do anything else on this list.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 87,
+              "offset": 497,
+              "style": "Italic"
+            }
+          ],
+          "key": "8gmmp",
+          "text": "Salary sacrifice is the optimisation most people never hear about. If your employer offers it, you can redirect part of your pre-tax salary straight into your pension. This means you don’t pay income tax or National Insurance on that amount. Your employer saves their NI contribution too, and many will pass some of that saving back into your pension as a bonus. A higher-rate taxpayer sacrificing £1,000 saves over £400 in combined tax and NI. The money lands in their pension untouched by HMRC. It’s not a loophole. It’s a feature of the system designed to encourage pension saving. Most people don’t ask for it because they don’t know it exists. Ask your HR team this week whether salary sacrifice is available. One conversation could be worth thousands over your career.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 830,
+                "text": "GOV.UK",
+                "toIndex": 836
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 5,
+              "style": "Bold"
+            },
+            {
+              "length": 76,
+              "offset": 824,
+              "style": "Italic"
+            }
+          ],
+          "key": "cgfpl",
+          "text": "Your state pension is probably the most underrated asset in the country. The full new state pension is worth over £230 a week. That’s over £12,000 a year, guaranteed by the government, index-linked, for the rest of your life. You need 35 qualifying years of National Insurance contributions for the full amount and a minimum of 10 years for anything at all. If you have gaps in your record, whether from time abroad, career breaks, self-employment, or periods of low earnings, you can buy missing years through voluntary NI contributions. Each missing year costs roughly £900 and can boost your annual pension by over £300. You’d recoup that in about three years of retirement. Over a 20-year retirement, a single year’s top-up could return over £6,000. That is one of the best risk-adjusted investments available anywhere. Go to GOV.UK, check your National Insurance record, and see where you stand. If you’ve moved to the UK from another country, this is especially critical. Many people leave after seven or eight years of work, never check whether buying two or three extra years would push them over the 10-year minimum, and walk away from a lifetime of pension income worth potentially hundreds of thousands of pounds. Don’t be that person.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 532,
+                "text": "GOV.UK",
+                "toIndex": 538
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9m4d2",
+          "text": "Marriage Allowance is money most eligible couples never claim. If one partner earns under the personal allowance of £12,570 and the other is a basic-rate taxpayer, you can transfer £1,260 of unused allowance between you. That’s up to £252 a year in tax savings. You can backdate it up to four years, which means a first-time claim could be worth over £1,000 in one go. This is incredibly common in households where one partner works and the other is studying, between jobs, or caring for children. It takes ten minutes to set up on GOV.UK. Most people don’t because they’ve never heard of it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eujsg",
+          "text": "Child Benefit is not just about the monthly payment. It’s about National Insurance credits. Even if your household income is above the threshold and you’d have to repay some or all of the benefit through the High Income Child Benefit Charge, you should still register. The person claiming receives National Insurance credits for every year the child is under 12. Those credits count toward your state pension qualifying years. Many parents, especially those who take time out of work to raise children, miss years of NI credits because nobody told them to register for Child Benefit regardless of whether they keep the cash. The pension value of those credits over a lifetime dwarfs the benefit itself.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 89,
+              "style": "Bold"
+            }
+          ],
+          "key": "59eqd",
+          "text": "And while you’re building your own wealth, you can start building your children’s too. A Junior ISA lets you invest up to £9,000 a year per child into a tax-free wrapper. The money grows completely free of capital gains and dividend tax and unlocks when the child turns 18. They can’t touch it before then, and neither can you, which is the whole point. It forces long-term thinking. If you invested £150 a month from birth into a global index fund averaging 8% annual returns, your child would have roughly £65,000 by their 18th birthday. That’s a university fund, a house deposit head start, or the beginning of their own investment journey. Most people don’t think about building wealth for their children until it’s too late to benefit from compounding. Starting at birth gives you 18 years of tax-free growth. Starting at 10 gives you eight. The maths doesn’t care about your intentions. It only cares about time. Grandparents, aunts, uncles, anyone can contribute to a child’s Junior ISA up to the annual limit. For families where multiple generations are invested in a child’s future, this is one of the most powerful tools available. Instead of cash gifts that get spent, a JISA contribution is a gift that grows.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 41,
+              "style": "Bold"
+            }
+          ],
+          "key": "86bf3",
+          "text": "All of these vehicles work best when you use them together. Your workplace pension is the foundation. Set it up, maximise the employer match, enable salary sacrifice if available, and let it run. Your SIPP is the accelerator for anyone who wants to go beyond their workplace pension with full tax relief. Your Lifetime ISA is the property deposit builder with a guaranteed 25% return from the government. Your Stocks and Shares ISA is the flexibility layer for money you might need before retirement, fully tax-free on the way in and the way out. Your Junior ISA is generational wealth in a box. Your NI record is the long game that secures guaranteed income for life. Marriage Allowance and Child Benefit credits are the marginal gains that most people never collect. Individually, each one is useful. Together, they’re a system.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7qfri",
+          "text": "A practical example. Someone earning £35,000. Their workplace pension takes 5% and their employer adds 3%. That’s £2,800 a year without lifting a finger beyond their own contribution. They put £200 a month into a SIPP, which costs £160 after basic-rate tax relief. Another £200 a month into a Stocks and Shares ISA. Another £250 a month into a Lifetime ISA, and the government adds roughly £63 on top each month. They put £100 a month into a Junior ISA for their child. They’ve claimed Marriage Allowance because their partner is studying, saving £252 a year. They’ve registered for Child Benefit to protect their NI credits. After 20 years at average market returns of around 8%, their combined pots could be approaching £450,000. Their child has a five-figure sum waiting at 18. Their state pension is on track for the full amount. They didn’t start rich. They didn’t earn a massive salary. They didn’t need to understand derivatives or read the Financial Times. They just needed to know these accounts existed and to feed them consistently.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ur64",
+          "text": "If you’re an immigrant in the UK, everything above applies to you the moment you have a National Insurance number and the right to work. There is no residency requirement beyond being a UK tax resident for the tax year. You don’t need to be a citizen. You don’t need to have been here for a certain number of years. If you’re working and paying tax, you are entitled to every single one of these benefits. And if you leave the UK one day, your ISA stays invested, your pension stays in the UK and continues to grow, and your state pension can be claimed from almost anywhere in the world provided you have enough qualifying years. The money doesn’t follow you out the door, but it doesn’t disappear either. It waits.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5gvru",
+          "text": "The people who build real wealth in this country are not always the ones earning the most. They’re the ones who understood how the system works early enough to let time do the heavy lifting. Every year you delay is a year of compounding you don’t get back. Every employer match you ignore is free money you refused. Every NI gap you don’t check is a lifetime of pension income you might lose. Every Junior ISA you don’t open is 18 years of tax-free growth your child will never see.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86o1h",
+          "text": "The system is there. It’s legal. It’s generous. And it’s available to anyone who knows where to look.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "911g",
+          "text": "Now you know where to look.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

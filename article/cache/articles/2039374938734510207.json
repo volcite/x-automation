@@ -1,0 +1,1243 @@
+{
+  "tweet_created_at": "2026-04-01T16:10:49.000000Z",
+  "id": 2039374938734510000,
+  "id_str": "2039374938734510207",
+  "type": "tweet",
+  "conversation_id_str": "2039374938734510207",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/aXYgGcSbGZ",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14613723,
+    "id_str": "14613723",
+    "name": "Niall Harbison",
+    "screen_name": "NiallHarbison",
+    "location": "Asia ",
+    "url": "https://www.happydoggo.com/donate?utm_source=X&utm_medium=Organic&utm_campaign=niall_social",
+    "description": "On a mission to save street dogs around the world. You can support here...",
+    "protected": false,
+    "verified": true,
+    "followers_count": 572371,
+    "friends_count": 1057,
+    "listed_count": 1173,
+    "favourites_count": 14014,
+    "statuses_count": 14218,
+    "created_at": "2008-05-01T12:57:02.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14613723/1655693616",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2011439946373136384/i7EgUqQy_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 43,
+  "reply_count": 159,
+  "retweet_count": 1034,
+  "favorite_count": 7029,
+  "views_count": 81041,
+  "bookmark_count": 161,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039373824534478848",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/aXYgGcSbGZ"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T16:10:49.000000Z",
+    "id": 2039374938734510000,
+    "id_str": "2039374938734510207",
+    "title": "The Most Exciting Day Of My Life...",
+    "preview_text": "Achieving meaningful things in life is really not easy. A couple of years ago I set out to build a veterinary hospital in Tina’s honor. It has nearly broken me at times and I’ve often thought about",
+    "cover_url": "https://pbs.twimg.com/media/HE1P1FpaIAALANJ.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 6,
+              "offset": 122
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "161u6",
+          "text": "Achieving meaningful things in life is really not easy. A couple of years ago I set out to build a veterinary hospital in Tina’s honor. It has nearly broken me at times and I’ve often thought about throwing in the towel.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 142,
+              "style": "Italic"
+            }
+          ],
+          "key": "elnvt",
+          "text": "\"If you can’t fly then run, if you can’t run then walk, if you can’t walk then crawl, but whatever you do you have to keep moving forward.\" — Martin Luther King Jr.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9cm9n",
+          "text": "Here We GO! Tina’s Hospital For Dogs Who Aren’t Doing So Good",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 22,
+              "offset": 40
+            },
+            {
+              "key": 2,
+              "length": 41,
+              "offset": 133
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "92kmb",
+          "text": "It’s been over 2 years in planning with world class architects and teams on the ground but today the build started on what will be a hospital for street dogs here in Thailand.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "405td",
+          "text": "I guess it is pretty obvious in hindsight and I was completely naive but building a hospital in the middle of the Thai jungle was never going to be easy. We now have the land, utilities, permits, licenses, contractors, floor plans, MEP, equipment lists, a project manager and everything else we need.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eqh8o",
+          "text": "I tossed and turned all night last night eventually getting up at 4am because sleep was beyond me as I wanted to see the start of what I had promised to the best girl there ever was. I had to pinch myself multiple times throughout the day…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ab4gu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8a6pb",
+          "text": "Breaking Ground",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bsokt",
+          "text": "With contracts signed and workers descending on the site today it was time for a ceremonial Thai blessing. The local monks, some special dogs, our team and a handful of friends celebrated.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2nfi6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 4,
+              "offset": 210
+            },
+            {
+              "key": 6,
+              "length": 32,
+              "offset": 298
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "62p9l",
+          "text": "It was a wonderfully fitting day and we all added tennis balls to the foundations and Teddy (a golden we rescued and who lives with my friends) even helped us dig. Suddenly this little patch of the jungle that Tina used to call home was ready and the bulldozers and workers starting rolling in. We shared the big day here on video.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "74ph",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5obg",
+          "text": "The Field Hospital Is Running At Full Steam",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8u60g",
+          "text": "I’ve stated before how far behind schedule this all is. I had no idea just how much regulation and red tape there would be. We also had to scale down the building as the costs were just too high for us to justify. While we have been delayed I was super focused on getting the field hospital running. Amazing things are happening there…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5tat",
+          "text": "In March we did over 110 operations",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9qlt",
+          "text": "Even today with the ground breaking ceremony we did 12 operations",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 7,
+              "offset": 12
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "egef9",
+          "text": "Lives (like Stormzy below) are saved here on a daily basis",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5mq38",
+          "text": "The service is 100% free for the local community",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2o3v3",
+          "text": "We have an X-ray machine, blood testing and other new equipment",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esgq9",
+          "text": "Our medical team are superb but they are doing this all from 3 converted shipping containers with one acting as a full time ICU unit. They are pulling off miracles every single day but they deserve a proper hospital. As do the dogs!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ck1fi",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjhnn",
+          "text": "Build Time And Costs",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b94tu",
+          "text": "The 2 questions I get asked on a daily basis! My plan with the costs is to share them exactly like we do with all major projects (like the Marathon fundraiser etc) in an open spreadsheet so everybody can see. At a super top level this is what we are looking at…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "690rb",
+          "text": "11-12 month build, starting today.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6u2in",
+          "text": "Total raised to date: $437,780.29",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 4,
+              "offset": 84
+            },
+            {
+              "key": 11,
+              "length": 4,
+              "offset": 93
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "acj78",
+          "text": "This includes over $200,000 as I donated every penny I earned from my book sales of Hope and Tina.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 12,
+              "offset": 5
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3kej2",
+          "text": "Some major donors helped us already to get that number",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e6tbj",
+          "text": "We still have well over $1 million to raise during the build process.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jflm",
+          "text": "It is quite frankly utterly terrifying in terms of scale for me to process. The amount of money left to raise also seems daunting but my plan is something big later in the summer. Getting it started was the priority and it puts the pressure on me to do the rest.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 21,
+              "offset": 119
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5q49q",
+          "text": "The best way to help Happy Doggo in general especially now as we have so many projects is a monthly recurring donation which you can do here. It really helps us plan as a charity.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "43r72",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jv6t",
+          "text": "A Promise Made Is A Promise Kept",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dd8o4",
+          "text": "I don’t mind admitting 2 very key facts…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9noj",
+          "text": "I would not have been able to get us this far were it not for Tina’s memory. I would have given up. I’ve no problem sharing that. The reason we are all here today is because of her.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vo09",
+          "text": "I’ll do anything to keep her memory alive. I’m a 46 year old man but I still wear the faded t-shirt someone gave me, have her little bandana on my pillow at home and wear friendship bracelets with her name on it that kids gave me.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 15,
+              "length": 10,
+              "offset": 9
+            },
+            {
+              "key": 16,
+              "length": 28,
+              "offset": 200
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8vpl7",
+          "text": "Building a hospital is impossibly hard. Doing it in Thailand with a different language and culture only compounds the difficulty. Trying to rescue 100s of dogs, provide food for 1300 a day, build out a huge sterilizing operation and raise all the money only adds to it all. Keeping my own mental health on an even keel and making sure I stay sober are more added worries.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abi7i",
+          "text": "But all of those things pale in comparison compared to the promises I made to Tina when she was dying in my arms. I told her I would change the world for street dogs in her memory. I would find ways to look after the forgotten mums like her. I told her less street dogs would suffer and it would all be in her name.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d9j50",
+          "text": "As myself, Hank and Chance drove down to the opening today in a side cart loaded with tennis balls I felt moisture in my eyes. It used to be a dirt track myself and Tina walked but now we’ve built a road into what will be her very own hospital.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 17,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c7kn5",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c7nqk",
+          "text": "Tina is buried near the field hospital and although she wasn’t there physically today she was still very much present. As the ceremony unfolded I could feel her in the sun beating down on us, she was the vivid blue jungle bird that swopped across the site and the cicadas making their unique noise. As I closed my eyes and listened to the monks chanting I could see her fussing over the puppies as we did our rounds checking sick dogs. I think she was watching us all today.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fontf",
+          "text": "I used to sit with Tina on her drip for 5 hours at a time in my little house wishing she would live forever. I didn’t quite have the fully formed idea for the hospital back then but I do remember thinking “Wouldn’t it be lovely to have world class treatment for you Tina instead of me winging it with a drip hung on the door”. The seed was planted.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 18,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7j5s",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40fof",
+          "text": "I talked to her a lot in those final weeks. She has been gone for over 2 years now but every fibre of my being tries to be more like Tina was and also create a legacy for her to offset the years she missed living on a chain.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1scb8",
+          "text": "In practical terms all we actually did today was dig a small hole and throw some tennis balls in it and eat some cake. I’m acutely aware that the real challenges are probably only starting.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 233,
+              "style": "Strikethrough"
+            }
+          ],
+          "key": "e8epd",
+          "text": "But I’ll finish late tonight and I already know I’ll grab Tina’s little bandana and close my eyes thinking of her. I’ve been a little emotional this evening. I’ll smile and nod off to sleep telling her about the most exciting day of my our lives.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgocp",
+          "text": "Thank you for all your support in getting us this far. I won’t let you down until this is fully done.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3hui1",
+          "text": "Big Love",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9jh7d",
+          "text": "Niall",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 19,
+              "length": 4,
+              "offset": 89
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fni3f",
+          "text": "P.S You can support the mission by just subscribing here on X or donating to Happy Doggo here.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "url": "https://www.happydoggo.com/tinas-hospital"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "url": "https://www.instagram.com/reels/DTFprvZEtk1/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "19",
+          "value": {
+            "data": {
+              "url": "https://www.happydoggo.com/donate?utm_source=Substack&utm_medium=Social&utm_campaign=niall_social"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "10b5b838-3276-44e1-a755-3d57c44014e5",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039374333349617666"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "15",
+          "value": {
+            "data": {
+              "url": "https://www.happydoggo.com/tinas-hospital"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "url": "https://www.amazon.com/Tina-inspiring-world-changing-friendship-between/dp/0008725713"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "84600d26-8a5f-4488-9688-47d141f91a32",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039374574337617920"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "url": "https://www.happydoggo.com/donate?utm_source=Substack&utm_medium=Social&utm_campaign=niall_social"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "16",
+          "value": {
+            "data": {
+              "url": "https://www.happydoggo.com/our-work"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://www.youtube.com/watch?v=p48koCFw7q0"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "url": "https://www.amazon.com/Hope-Meaning-Featuring-McMuffin-Whacker/dp/0008627207"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "url": "https://www.youtube.com/watch?v=7S8Jt0qa4kU"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://www.dannyforster.com/architecture"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "17",
+          "value": {
+            "data": {
+              "entityKey": "b463f50f-bd1a-4a4f-9535-dd6db0a07708",
+              "mediaItems": [
+                {
+                  "localMediaId": "14",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039374748090843136"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "entityKey": "9c2aa947-43d8-467f-b392-29ab1f1e08a1",
+              "mediaItems": [
+                {
+                  "localMediaId": "12",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039374660807376896"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://www.instagram.com/reels/DJZsst_oyZp/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://www.happydoggo.com/tinas-hospital"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "18",
+          "value": {
+            "data": {
+              "entityKey": "7c26f77a-a876-4662-bb2b-48e289cae32c",
+              "mediaItems": [
+                {
+                  "localMediaId": "16",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039374804315414528"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "759a8555-707e-4e40-af19-89123e147e8c",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039374483786715136"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "d18c428c-0e53-4528-8dee-4721ac1f324c",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039374211769397248"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE1QlFcaIAAKAAIAAAAAAN782wAA",
+        "media_id": "2039374804315414528",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 46.91,
+                "rgb": {
+                  "blue": 158,
+                  "green": 180,
+                  "red": 192
+                }
+              },
+              {
+                "percentage": 17.11,
+                "rgb": {
+                  "blue": 57,
+                  "green": 68,
+                  "red": 120
+                }
+              },
+              {
+                "percentage": 10.65,
+                "rgb": {
+                  "blue": 74,
+                  "green": 61,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 8.94,
+                "rgb": {
+                  "blue": 128,
+                  "green": 63,
+                  "red": 35
+                }
+              },
+              {
+                "percentage": 7.45,
+                "rgb": {
+                  "blue": 93,
+                  "green": 108,
+                  "red": 117
+                }
+              }
+            ]
+          },
+          "original_img_height": 1020,
+          "original_img_url": "https://pbs.twimg.com/media/HE1QlFcaIAAsgQG.jpg",
+          "original_img_width": 1008
+        },
+        "media_key": "3_2039374804315414528"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE1QJq9aYAIKAAIAAAAAAN782wAA",
+        "media_id": "2039374333349617666",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 39.91,
+                "rgb": {
+                  "blue": 61,
+                  "green": 60,
+                  "red": 50
+                }
+              },
+              {
+                "percentage": 10.52,
+                "rgb": {
+                  "blue": 120,
+                  "green": 165,
+                  "red": 194
+                }
+              },
+              {
+                "percentage": 9.91,
+                "rgb": {
+                  "blue": 37,
+                  "green": 7,
+                  "red": 168
+                }
+              },
+              {
+                "percentage": 9.48,
+                "rgb": {
+                  "blue": 192,
+                  "green": 201,
+                  "red": 199
+                }
+              },
+              {
+                "percentage": 8.88,
+                "rgb": {
+                  "blue": 60,
+                  "green": 86,
+                  "red": 86
+                }
+              }
+            ]
+          },
+          "original_img_height": 793,
+          "original_img_url": "https://pbs.twimg.com/media/HE1QJq9aYAIYz88.jpg",
+          "original_img_width": 1456
+        },
+        "media_key": "3_2039374333349617666"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE1Qhz/bQAAKAAIAAAAAAN782wAA",
+        "media_id": "2039374748090843136",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 23.2,
+                "rgb": {
+                  "blue": 190,
+                  "green": 201,
+                  "red": 202
+                }
+              },
+              {
+                "percentage": 19.05,
+                "rgb": {
+                  "blue": 95,
+                  "green": 112,
+                  "red": 114
+                }
+              },
+              {
+                "percentage": 17.35,
+                "rgb": {
+                  "blue": 47,
+                  "green": 44,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 7.35,
+                "rgb": {
+                  "blue": 229,
+                  "green": 203,
+                  "red": 171
+                }
+              },
+              {
+                "percentage": 4.55,
+                "rgb": {
+                  "blue": 135,
+                  "green": 180,
+                  "red": 208
+                }
+              }
+            ]
+          },
+          "original_img_height": 820,
+          "original_img_url": "https://pbs.twimg.com/media/HE1Qhz_bQAAFPmO.jpg",
+          "original_img_width": 1248
+        },
+        "media_key": "3_2039374748090843136"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE1QXstbcAAKAAIAAAAAAN782wAA",
+        "media_id": "2039374574337617920",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 36.58,
+                "rgb": {
+                  "blue": 112,
+                  "green": 119,
+                  "red": 122
+                }
+              },
+              {
+                "percentage": 20.68,
+                "rgb": {
+                  "blue": 44,
+                  "green": 49,
+                  "red": 57
+                }
+              },
+              {
+                "percentage": 15.88,
+                "rgb": {
+                  "blue": 37,
+                  "green": 23,
+                  "red": 94
+                }
+              },
+              {
+                "percentage": 6.48,
+                "rgb": {
+                  "blue": 99,
+                  "green": 139,
+                  "red": 206
+                }
+              },
+              {
+                "percentage": 4.85,
+                "rgb": {
+                  "blue": 198,
+                  "green": 202,
+                  "red": 207
+                }
+              }
+            ]
+          },
+          "original_img_height": 818,
+          "original_img_url": "https://pbs.twimg.com/media/HE1QXstbcAArasy.jpg",
+          "original_img_width": 1240
+        },
+        "media_key": "3_2039374574337617920"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE1QCmCbcAAKAAIAAAAAAN782wAA",
+        "media_id": "2039374211769397248",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 33.9,
+                "rgb": {
+                  "blue": 210,
+                  "green": 200,
+                  "red": 175
+                }
+              },
+              {
+                "percentage": 32.21,
+                "rgb": {
+                  "blue": 28,
+                  "green": 44,
+                  "red": 35
+                }
+              },
+              {
+                "percentage": 9.78,
+                "rgb": {
+                  "blue": 58,
+                  "green": 99,
+                  "red": 91
+                }
+              },
+              {
+                "percentage": 8.91,
+                "rgb": {
+                  "blue": 95,
+                  "green": 82,
+                  "red": 64
+                }
+              },
+              {
+                "percentage": 2.24,
+                "rgb": {
+                  "blue": 118,
+                  "green": 156,
+                  "red": 157
+                }
+              }
+            ]
+          },
+          "original_img_height": 1024,
+          "original_img_url": "https://pbs.twimg.com/media/HE1QCmCbcAAreuF.jpg",
+          "original_img_width": 1456
+        },
+        "media_key": "3_2039374211769397248"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE1Qcu1bQAAKAAIAAAAAAN782wAA",
+        "media_id": "2039374660807376896",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 41.6,
+                "rgb": {
+                  "blue": 26,
+                  "green": 55,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 24.68,
+                "rgb": {
+                  "blue": 147,
+                  "green": 148,
+                  "red": 149
+                }
+              },
+              {
+                "percentage": 15.95,
+                "rgb": {
+                  "blue": 40,
+                  "green": 93,
+                  "red": 78
+                }
+              },
+              {
+                "percentage": 4.71,
+                "rgb": {
+                  "blue": 69,
+                  "green": 63,
+                  "red": 56
+                }
+              },
+              {
+                "percentage": 4.25,
+                "rgb": {
+                  "blue": 66,
+                  "green": 103,
+                  "red": 94
+                }
+              }
+            ]
+          },
+          "original_img_height": 1031,
+          "original_img_url": "https://pbs.twimg.com/media/HE1Qcu1bQAAcZZ2.jpg",
+          "original_img_width": 1456
+        },
+        "media_key": "3_2039374660807376896"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE1QSbYaUAAKAAIAAAAAAN782wAA",
+        "media_id": "2039374483786715136",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 30.42,
+                "rgb": {
+                  "blue": 225,
+                  "green": 180,
+                  "red": 147
+                }
+              },
+              {
+                "percentage": 22.81,
+                "rgb": {
+                  "blue": 45,
+                  "green": 53,
+                  "red": 56
+                }
+              },
+              {
+                "percentage": 18.68,
+                "rgb": {
+                  "blue": 79,
+                  "green": 106,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 7.46,
+                "rgb": {
+                  "blue": 185,
+                  "green": 184,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 3.62,
+                "rgb": {
+                  "blue": 37,
+                  "green": 33,
+                  "red": 86
+                }
+              }
+            ]
+          },
+          "original_img_height": 857,
+          "original_img_url": "https://pbs.twimg.com/media/HE1QSbYaUAAl5QX.jpg",
+          "original_img_width": 1456
+        },
+        "media_key": "3_2039374483786715136"
+      }
+    ]
+  }
+}

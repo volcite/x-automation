@@ -1,0 +1,205 @@
+{
+  "tweet_created_at": "2026-04-07T07:15:30.000000Z",
+  "id": 2041414549417644500,
+  "id_str": "2041414549417644541",
+  "type": "tweet",
+  "conversation_id_str": "2041414549417644541",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/WhgNYTcTo7",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 24611873,
+    "id_str": "24611873",
+    "name": "池田信夫",
+    "screen_name": "ikedanob",
+    "location": "世田谷区奥沢",
+    "url": "https://note.com/ikedanob",
+    "description": "株式会社アゴラ研究所 代表取締役所長（学術博士）。取材・講演などの依頼はDMで。認証ずみアカウントのみ受信します。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 303275,
+    "friends_count": 90,
+    "listed_count": 10407,
+    "favourites_count": 544,
+    "statuses_count": 205242,
+    "created_at": "2009-03-15T23:56:42.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/24611873/1746246490",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1906599952165601280/iop6RCbj_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 17,
+  "reply_count": 16,
+  "retweet_count": 362,
+  "favorite_count": 2013,
+  "views_count": 416976,
+  "bookmark_count": 167,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041409783094456321",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/WhgNYTcTo7"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T07:15:30.000000Z",
+    "id": 2041414549417644500,
+    "id_str": "2041414549417644541",
+    "title": "アイヌは「先住民族」ではない",
+    "preview_text": "2019年にアイヌ施策推進法で、アイヌを「北海道の先住民族」と規定したことは、歴史的には誤りである。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "933pa",
+          "text": "2019年にアイヌ施策推進法で、アイヌを「北海道の先住民族」と規定したことは、歴史的には誤りである。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4lac",
+          "text": "アイヌが近代国家より前に日本に住んでいたことは明らかだが、アムネスティなどが問題にしている先住民族(indigenous peoples)は「近代国家に征服された原住民」という政治的な概念である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 26,
+              "style": "Bold"
+            }
+          ],
+          "key": "1f7hk",
+          "text": "しかしアイヌは日本人と戦って征服されたわけではない。蝦夷を征伐する征夷大将軍は律令国家の重要なポストだったが、中世には意味がなくなった。蝦夷は戦争に弱く、ほとんど抗戦しなかったからだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 5,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dtfih",
+          "text": "瀬川拓郎氏によれば、3000年ぐらい前に弥生人が大陸から日本列島に入って農耕を開始したが、縄文人の一部はそれを拒否して北海道で狩猟・漁撈・採集で生活し、独自の文化を形成した。それがアイヌである。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 8,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 41,
+              "style": "Bold"
+            }
+          ],
+          "key": "dfqg9",
+          "text": "北海道教育委員会の作成した年表でも「アイヌ文化期」は13世紀以降であり、それ以前に縄文人が北海道に住んでいた。縄文時代の気温は今より3℃ぐらい高かったので、北海道は生活に適していたのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 8,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c57v4",
+          "text": "最近のDNA解析でも明らかになったように、4万年前から日本列島に住んでいたのは縄文人であり、これは遺伝的には琉球人と近い。そこに北方系が混じったのがアイヌである。多くの縄文人は弥生人とまじわって今の日本人になったが、縄文人の一部が北上あるいは南下し、アイヌや琉球人になった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jlvc",
+          "text": "したがって遺伝的にも歴史的にも、アイヌを「被征服民」として先住民族と呼ぶことは誤りである。それを「ヘイトスピーチ」と呼んでキャンセルカルチャーに悪用する活動家に惑わされてはいけない。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://ikedanobuo.livedoor.biz/archives/52064897.html"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://www.dokyoi.pref.hokkaido.lg.jp/fs/2/5/5/2/6/7/7/_/nenpyou.pdf"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://www.u-tokyo.ac.jp/focus/ja/press/p01_241101.html"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  },
+  "conversation_policy": "Verified"
+}

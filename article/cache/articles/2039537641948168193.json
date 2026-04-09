@@ -1,0 +1,444 @@
+{
+  "tweet_created_at": "2026-04-02T02:57:21.000000Z",
+  "id": 2039537641948168200,
+  "id_str": "2039537641948168193",
+  "type": "tweet",
+  "conversation_id_str": "2039537641948168193",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/mKMhwk8hCy",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 606233074,
+    "id_str": "606233074",
+    "name": "週刊文春",
+    "screen_name": "shukan_bunshun",
+    "location": "",
+    "url": "https://bunshun.jp/denshiban/",
+    "description": "昭和34年（1959年）創刊の総合週刊誌「週刊文春」の公式アカウントです。独自のスクープを先行公開している「週刊文春 電子版」の記事を中心に注目コンテンツを24時間配信中。記事は会員向けを含みます。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 504784,
+    "friends_count": 65,
+    "listed_count": 3610,
+    "favourites_count": 594,
+    "statuses_count": 61568,
+    "created_at": "2012-06-12T11:07:47.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/606233074/1758786508",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1963098428948549632/bRwmoSSP_normal.png",
+    "can_dm": false,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 62,
+  "reply_count": 59,
+  "retweet_count": 2615,
+  "favorite_count": 6757,
+  "views_count": 154535,
+  "bookmark_count": 225,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039535152175702016",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/mKMhwk8hCy"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T02:57:21.000000Z",
+    "id": 2039537641948168200,
+    "id_str": "2039537641948168193",
+    "title": "「高市事務所にはすべてお伝えしていた」サナエトークン責任者が「週刊文春」に独占告白",
+    "preview_text": "高市早苗首相の名前を冠した暗号資産（仮想通貨）「SANAE",
+    "cover_url": "https://pbs.twimg.com/media/HE3ixwFaYAAn1pZ.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 173,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bc4vb",
+          "text": "高市早苗首相の名前を冠した暗号資産（仮想通貨）「SANAE TOKEN（サナエトークン）」を巡る問題。高市首相自身が「私は全く存じ上げませんし、私の事務所側も、（略）知らされておりません」とXに投稿したことを機に価格が暴落した。国会でも疑惑が追及され、発行元の会社「NoBorder DAO」（東京都港区）は釈明に追われて発行中止を宣言している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 4,
+              "offset": 53
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 27,
+              "offset": 57,
+              "style": "Bold"
+            }
+          ],
+          "key": "61ujc",
+          "text": "今回、発行元の責任者だった松井健氏（「NoBorder DAO」代表社員である「株式会社neu」代表）が「週刊文春」の取材に実名顔出しで応じ、経緯について独占告白した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ioji",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fqula",
+          "text": "「高市事務所の秘書さんにはすべてお伝えしていたのです」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0ljl",
+          "text": "松井氏はこう述べる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ngk7",
+          "text": "「『サナエトークン』は、確かに私のチームで発案、設計し、実装したものです。高市首相が関与を否定し、騒ぎになった当初から、本当は自分の言葉で説明したかった。ですが、私が詳しく事情を明かすと、高市さんのマイナスになってしまうのではと……。心苦しく、悩みながらも口を噤んできました」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2njbv",
+          "text": "サナエトークンは一体何を目指し、その計画は誰に、どのように共有されていたのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2bdfi",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29fg4",
+          "text": "「事実は事実、そうでないことは違うと、お話ししたいと思います。前提として、私たちは高市事務所の秘書さんには、サナエトークンが暗号資産であることを、すべてお伝えしていたのです」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jpqt",
+          "text": "証拠となる音声に残っていたのは、奈良県の高市早苗事務所所長で、高市首相を20年以上にわたって支える、公設第一秘書の木下剛志氏の肉声だった――。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 8,
+              "offset": 28
+            },
+            {
+              "key": 4,
+              "length": 10,
+              "offset": 123
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 87,
+              "offset": 36,
+              "style": "Bold"
+            },
+            {
+              "length": 7,
+              "offset": 133,
+              "style": "Bold"
+            }
+          ],
+          "key": "540ik",
+          "text": "松井氏による実名告白記事は、4月1日（水）12時配信の「週刊文春 電子版」および2日（木）発売の「週刊文春」に掲載されている。サナエトークンの開発経緯、そして総裁選から続く高市氏の公設秘書との密接な関係を赤裸々に語っている。また、証拠となる音声も「週刊文春 電子版」で公開している",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 19,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a1ure",
+          "text": "【「週刊文春 電子版」ご購読はこちら】",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://bunshun.jp/denshiban/articles/b13713"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://bunshun.jp/denshiban/info/subscribe"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "暗号資産「サナエトークン」発行元の責任者だった松井健氏",
+              "entityKey": "a4b6e7c5-c995-4ca4-8cfa-ba2e71e55a5c",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039537041952935936"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://bunshun.jp/denshiban/articles/b13711?ref=innerLink"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "暗号資産「サナエトークン」のHPより",
+              "entityKey": "8b5cb9cf-486d-4a57-9dd4-065c7e5c7462",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039537226900721664"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "url": "https://bunshun.jp/denshiban/articles/b13711?ref=innerLink"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE3kIjvbEAAKAAIAAAAAJCJh8gAA",
+        "media_id": "2039537041952935936",
+        "media_info": {
+          "__typename": "ApiImage",
+          "alt_text": "暗号資産「サナエトークン」発行元の責任者だった松井健氏",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 61.54,
+                "rgb": {
+                  "blue": 37,
+                  "green": 36,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 17.95,
+                "rgb": {
+                  "blue": 104,
+                  "green": 128,
+                  "red": 165
+                }
+              },
+              {
+                "percentage": 9.91,
+                "rgb": {
+                  "blue": 30,
+                  "green": 22,
+                  "red": 62
+                }
+              },
+              {
+                "percentage": 4.38,
+                "rgb": {
+                  "blue": 33,
+                  "green": 17,
+                  "red": 28
+                }
+              },
+              {
+                "percentage": 1.06,
+                "rgb": {
+                  "blue": 66,
+                  "green": 91,
+                  "red": 131
+                }
+              }
+            ]
+          },
+          "original_img_height": 951,
+          "original_img_url": "https://pbs.twimg.com/media/HE3kIjvbEAAfF8r.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2039537041952935936"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE3kTUuaUAAKAAIAAAAAJCJh8gAA",
+        "media_id": "2039537226900721664",
+        "media_info": {
+          "__typename": "ApiImage",
+          "alt_text": "暗号資産「サナエトークン」のHPより",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 63.72,
+                "rgb": {
+                  "blue": 224,
+                  "green": 218,
+                  "red": 213
+                }
+              },
+              {
+                "percentage": 8.79,
+                "rgb": {
+                  "blue": 27,
+                  "green": 23,
+                  "red": 28
+                }
+              },
+              {
+                "percentage": 6.69,
+                "rgb": {
+                  "blue": 110,
+                  "green": 57,
+                  "red": 40
+                }
+              },
+              {
+                "percentage": 5.25,
+                "rgb": {
+                  "blue": 113,
+                  "green": 141,
+                  "red": 182
+                }
+              },
+              {
+                "percentage": 4.66,
+                "rgb": {
+                  "blue": 46,
+                  "green": 81,
+                  "red": 208
+                }
+              }
+            ]
+          },
+          "original_img_height": 561,
+          "original_img_url": "https://pbs.twimg.com/media/HE3kTUuaUAAWXft.jpg",
+          "original_img_width": 1199
+        },
+        "media_key": "3_2039537226900721664"
+      }
+    ]
+  }
+}

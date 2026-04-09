@@ -1,0 +1,895 @@
+{
+  "tweet_created_at": "2026-04-07T03:30:43.000000Z",
+  "id": 2041357978541142500,
+  "id_str": "2041357978541142524",
+  "type": "tweet",
+  "conversation_id_str": "2041357978541142524",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/swxuEihRz6",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 44866344,
+    "id_str": "44866344",
+    "name": "精神科医・樺沢紫苑",
+    "screen_name": "kabasawa",
+    "location": "東京",
+    "url": "https://canyon-ex.jp/fx2334/z6j0NW",
+    "description": "情報発信でメンタル疾患を予防する！　睡眠・運動・朝散歩しよう！著書55冊。累計270万部。YouTube 69万人など、SNS累計110万人フォロワーに精神医学、心理学をわかりやすく解説。『アウトプット大全』（シリーズ累計100万部）。Ｘフォローで、精神医学、心理学、脳科学を、どこよりもわかりやすく理解できます！",
+    "protected": false,
+    "verified": true,
+    "followers_count": 271147,
+    "friends_count": 113184,
+    "listed_count": 4139,
+    "favourites_count": 31025,
+    "statuses_count": 47975,
+    "created_at": "2009-06-05T10:44:07.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/44866344/1768960229",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1177743747087360002/O-3-A4sB_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 42,
+  "reply_count": 2,
+  "retweet_count": 188,
+  "favorite_count": 1911,
+  "views_count": 1145187,
+  "bookmark_count": 1771,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041356827036905472",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/swxuEihRz6"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T03:30:43.000000Z",
+    "id": 2041357978541142500,
+    "id_str": "2041357978541142524",
+    "title": "仕事がつらいのは当たり前。その理由と抜け出し方",
+    "preview_text": "仕事がつらい。\nやりたくない。\n行きたくない。\nそう感じている人は、とても多いと思います。\n特に社会人になったばかりの時期は、\n仕事に対してマイナスのイメージを持ちやすい。",
+    "cover_url": "https://pbs.twimg.com/media/HFRcLa0bIAAY2ic.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "314lj",
+          "text": "仕事がつらい。\nやりたくない。\n行きたくない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7f7b4",
+          "text": "そう感じている人は、とても多いと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 40,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "56nv1",
+          "text": "特に社会人になったばかりの時期は、\n仕事に対してマイナスのイメージを持ちやすい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8t5f6",
+          "text": "そして、その状態のまま働いていると、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dntb5",
+          "text": "「このままでいいのか」\n「本当にこの仕事で幸せになれるのか」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2nst",
+          "text": "そんな不安も出てきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6f5p1",
+          "text": "では、なぜ仕事はつらく感じるのか。\nそして、どうすればその状態から抜け出せるのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rg7i",
+          "text": "今日は、そのポイントを2つお話しします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17pdm",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9a273",
+          "text": "① 仕事がつらいのは「守のステージ」だから",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "78lbf",
+          "text": "仕事を楽しそうにやっている人もいれば、\nつらそうに働いている人もいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbk6c",
+          "text": "この違いは何か。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "7tn7s",
+          "text": "それは、「守破離」という成長のステージの違いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d50rv",
+          "text": "守破離とは、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f7ehp",
+          "text": "守：基本を徹底的に学ぶ段階\n破：基本を応用し始める段階\n離：自分なりのスタイルを確立する段階",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fl5dm",
+          "text": "という、昔からある学びの法則です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4hq8p",
+          "text": "例えば、バスケットボールで考えてみましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "92q1o",
+          "text": "1年生は、試合には出られません。\nひたすらダッシュ、ドリブル、パスの練習。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7hu3h",
+          "text": "正直、楽しくない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6fnic",
+          "text": "2年生になると、少し試合形式に参加できる。\n3年生になると、試合に出て、自分のプレーができる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mc1d",
+          "text": "ここではじめて、楽しくなってくる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "g0fi",
+          "text": "つまり、基本を覚える「守のステージ」は、つらいのが普通なのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58cdr",
+          "text": "これは仕事もまったく同じです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evlf9",
+          "text": "入社して数年は、まさに守のステージ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3r7pp",
+          "text": "社会人としての基本\n会社のルール\n仕事のやり方",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "15hf7",
+          "text": "これを覚えるだけで精一杯です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1186m",
+          "text": "だから、楽しいはずがない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tjnp",
+          "text": "むしろ、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3cssj",
+          "text": "つらい\nしんどい\n面白くない",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aia1k",
+          "text": "それが普通です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "993g6",
+          "text": "私自身も、医者になって最初の数年間は、\nほぼ地獄のような忙しさでした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "295l6",
+          "text": "もちろん成長はありますが、\n基本的にはつらい時期です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5bb8n",
+          "text": "しかし、このステージを超えると変わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "211hn",
+          "text": "仕事を任される\n自分で判断できる\n後輩を指導できる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dd2i9",
+          "text": "そうなると、一気に面白くなる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18elt",
+          "text": "ここでよくある間違いが、「仕事がつまらないから辞める」という判断です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6adv1",
+          "text": "しかし、それは単に「守のステージ」だからつまらないだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9s022",
+          "text": "転職しても、またゼロから基本を学ぶことになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28ddf",
+          "text": "つまり、また同じつらさを繰り返す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "140uj",
+          "text": "だから大事なのは、まずは守を抜けること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "en2rr",
+          "text": "最低限、仕事が一人で回せるレベルまでいく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dh1gs",
+          "text": "そこから転職するなら、意味があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2aio",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4k7tn",
+          "text": "② 仕事は最初「ライスワーク」から始まる",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 10,
+              "style": "Bold"
+            }
+          ],
+          "key": "52t5",
+          "text": "もう1つ重要なのが、「ライスワーク」と「ライフワーク」の違いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "83lna",
+          "text": "ライスワークは、生活のための仕事。\nお金を稼ぐための仕事。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dgip1",
+          "text": "ライフワークは、自分のやりたいこと。\n自己実現の仕事です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "47jrb",
+          "text": "多くの人は、最初からライフワークに出会えるわけではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3o2l9",
+          "text": "20代でいきなり、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c1l4e",
+          "text": "「この仕事が天職だ」\n「これが自分の人生だ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7nocc",
+          "text": "と思える人は、ほとんどいない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evgjp",
+          "text": "むしろ、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a5pqb",
+          "text": "ライスワークをやりながら、\n自分の方向性を探していくのが普通です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "41pa4",
+          "text": "例えば、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73jtl",
+          "text": "・仕事をしてみて違和感を感じる\n・別の部署に興味を持つ\n・スキルを身につける\n・資格を取る",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ea39k",
+          "text": "こうした経験の積み重ねの中で、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56iun",
+          "text": "自分は何をやりたいのか\n何が向いているのか",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "46cc4",
+          "text": "が見えてきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "eat9i",
+          "text": "そして、その先にライフワークがあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ea7ce",
+          "text": "私自身も、今は情報発信というライフワークをしています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8p97",
+          "text": "心理学を伝えることで、\nメンタル疾患や病気を予防する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ridh",
+          "text": "これは、ものすごく楽しい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "diat2",
+          "text": "仕事と遊びの区別がないくらい、楽しいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ep9b7",
+          "text": "しかし、そこにたどり着いたのは40代後半です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4cnvl",
+          "text": "つまり、ライフワークはすぐには見つからない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "appmp",
+          "text": "だから、今の仕事が楽しくないことに悩みすぎる必要はありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ctfaq",
+          "text": "",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50q60",
+          "text": "まとめ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a3pke",
+          "text": "仕事がつらいのは、異常ではなく、むしろ正常です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "81u8c",
+          "text": "「守」のステージは、つらくて当たり前。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c65sc",
+          "text": "そこを乗り越えることで、\n仕事は面白くなっていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dce2",
+          "text": "そして、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b8npn",
+          "text": "最初はライスワークでいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1i5sf",
+          "text": "その中で、自分の方向性を探していけばいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2itl",
+          "text": "いきなり完璧な仕事や、天職を求める必要はありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brg29",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55fq8",
+          "text": "今つらい人は、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eaeoi",
+          "text": "自分はまだ「守のステージ」にいるだけ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "607sj",
+          "text": "そう理解してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8oie9",
+          "text": "そこを少し乗り越えるだけで、\n見える景色は大きく変わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a8atq",
+          "text": "焦らなくていい。\n比べなくていい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a259u",
+          "text": "まずは、今できることを、少しずつ積み上げていきましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8o9dt",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgl98",
+          "text": "追伸",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ali3p",
+          "text": "最後までお読みいただきありがとうございます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cqa8m",
+          "text": "樺沢のビジョン「情報発信で、メンタル疾患・自殺を予防する」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cdijl",
+          "text": "この想いで、毎日、XやYouTubeを更新し、本を書き続けています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tcl2",
+          "text": "新生活。新社会人でつらいと思っている人たちへ届きますように。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7lgrq",
+          "text": "「この記事が役に立った」という方は、ブックマーク＆フォローをお願いします。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

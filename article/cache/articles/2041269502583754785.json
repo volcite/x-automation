@@ -1,0 +1,283 @@
+{
+  "tweet_created_at": "2026-04-06T21:39:09.000000Z",
+  "id": 2041269502583754800,
+  "id_str": "2041269502583754785",
+  "type": "tweet",
+  "conversation_id_str": "2041269502583754785",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/G9eVEY1tgG",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 66369181,
+    "id_str": "66369181",
+    "name": "Department of War 🇺🇸",
+    "screen_name": "DeptofWar",
+    "location": "The Pentagon, Washington, D.C.",
+    "url": "http://War.gov",
+    "description": "Official U.S. Department of War X account.",
+    "protected": false,
+    "verified": true,
+    "followers_count": 7080549,
+    "friends_count": 676,
+    "listed_count": 17793,
+    "favourites_count": 5073,
+    "statuses_count": 43509,
+    "created_at": "2009-08-17T14:43:00.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/66369181/1757107269",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1965912244262170624/7NoruMt1_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Government"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 13,
+  "reply_count": 99,
+  "retweet_count": 273,
+  "favorite_count": 1134,
+  "views_count": 74485,
+  "bookmark_count": 57,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041269082377379841",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/G9eVEY1tgG"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T21:39:08.000000Z",
+    "id": 2041269502583754800,
+    "id_str": "2041269502583754785",
+    "title": "POTUS, SECWAR, CJCS Laud Successful Rescue of Downed Airmen in Iran",
+    "preview_text": "During a White House press conference today, President Donald J. Trump, Secretary of War Pete Hegseth and Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, lauded the military's success",
+    "cover_url": "https://pbs.twimg.com/media/HFQLeFybkAA6nkN.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8ftc",
+          "text": "During a White House press conference today, President Donald J. Trump, Secretary of War Pete Hegseth and Air Force Gen. Dan Caine, chairman of the Joint Chiefs of Staff, lauded the military's success in a harrowing Easter weekend rescue of two airmen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8fcr",
+          "text": "The two service members' F-15E Strike Eagle fighter jet was downed by enemy forces in Iran, April 3, while flying in support of Operation Epic Fury.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29p06",
+          "text": "\"This has been one of our better Easters, I think, in a lot of different ways [and] I can say, militarily, it's been one of the best,\" the president said at the outset of his remarks.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbaa",
+          "text": "Both service members were successfully recovered in just under 48 hours from when the mission to save them began.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "blujg",
+          "text": "Trump described his decision to launch the operation as \"risky\" because it could have put the lives of a significant number of U.S. personnel at risk while trying to rescue the two individuals.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jc74",
+          "text": "\"It's a hard decision to make, but in the U.S. military, we leave no American behind; we don't do it,\" Trump said.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "185ai",
+          "text": "\"Over this Easter weekend, the United States military has once again proved why we possess the greatest fighting force the world has ever known. In two extraordinary combat search and rescue operations deep inside enemy territory — in Iran — our warriors executed missions of breathtaking skill, courage and precision,\" Hegseth told the media.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmg83",
+          "text": "\"When our warriors are unleashed — as this president has allowed them to be — they are unstoppable,\" he continued.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ritq",
+          "text": "Caine explained that shortly after the F-15's downing in the early morning, April 3, the joint personnel recovery center operating in U.S. Central Command's area of responsibility declared an isolated personnel event after both the pilot and the weapons system officer had successfully ejected from the aircraft behind enemy lines.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ds8e9",
+          "text": "Shortly thereafter, a rescue force composed of 21 aircraft, including A-10 Thunderbolt attack planes, KC-130 search and rescue aircraft, HH-60W Jolly Green IIs and a package of Air Force special warfare combat rescue officers and pararescue operators, went into enemy territory to locate and recover the downed airmen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar5ub",
+          "text": "\"Over the next hours, the search and rescue task force crossed the beach, entered into Iranian airspace — protected by a fighter strike package — and moved into the objective area, all under [enemy] fire,\" Caine explained.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnme3",
+          "text": "Trump said the first wave of search and rescue forces was able to locate and extract the pilot in an HH-60W while taking on heavy fire, but without casualties.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ethbp",
+          "text": "\"It's amazing that, when you look at the [damage to the] machinery … that nobody was even injured,\" Trump said.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c38ko",
+          "text": "Meanwhile, Trump said, the second crew member had landed at a significant distance from the F-15's pilot.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "efs6p",
+          "text": "He found himself badly injured and, in an area teeming with members of the enemy Islamic Revolutionary Guard Corps, besieged by Iranian military militia and Iranian citizens who were incentivized by the regime to try to locate the downed airman.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4n04o",
+          "text": "Still, the airman managed to evade capture by scaling treacherous mountain terrain, ascending in altitude and scaling cliffs until he was in an adequate spot to contact rescue forces and transmit his location, Trump said.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "du65i",
+          "text": "The president added that the second rescue mission involved 155 aircraft, many of which were involved in subterfuge to trick regime forces into thinking the rescue personnel were looking for the downed airman at various decoy sites.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dhtcn",
+          "text": "\"We wanted to have them think he was in a different location, because [the regime] had a vast military force out there; thousands of people were looking,\" Trump said.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g4b7",
+          "text": "The president also noted that the downed F-15 was the U.S. military's only manned aircraft to be downed by enemy fire since Epic Fury began Feb. 28.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "691pg",
+          "text": "\"It was a lucky hit; [Iran] got lucky,\" Trump said.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ffn8u",
+          "text": "\"But we got lucky, too, because we got both [of the airmen] back,\" he added.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 12,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fpbqk",
+          "text": "Matthew Olay, Pentagon News",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://www.war.gov/News/Author/140905/matthew-olay/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

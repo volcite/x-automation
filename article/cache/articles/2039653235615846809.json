@@ -1,0 +1,372 @@
+{
+  "tweet_created_at": "2026-04-02T10:36:40.000000Z",
+  "id": 2039653235615847000,
+  "id_str": "2039653235615846809",
+  "type": "tweet",
+  "conversation_id_str": "2039653235615846809",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/o5sKkei2fi",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1717627012817592300,
+    "id_str": "1717627012817592322",
+    "name": "ししゅうちゃん",
+    "screen_name": "shisyuchan",
+    "location": "",
+    "url": "https://pont.co/u/shisyuuu",
+    "description": "たまに踊ります｜ふぁんず｜コスプレ｜",
+    "protected": false,
+    "verified": true,
+    "followers_count": 84402,
+    "friends_count": 0,
+    "listed_count": 289,
+    "favourites_count": 774,
+    "statuses_count": 496,
+    "created_at": "2023-10-26T19:39:37.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1717627012817592322/1702180643",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1733696568338137088/49Rc_Ap7_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 7,
+  "reply_count": 48,
+  "retweet_count": 146,
+  "favorite_count": 6079,
+  "views_count": 2286060,
+  "bookmark_count": 4153,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039649163437363200",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/o5sKkei2fi"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T10:36:40.000000Z",
+    "id": 2039653235615847000,
+    "id_str": "2039653235615846809",
+    "title": "星街すいせいコスプレ写真集↓↓↓",
+    "preview_text": "制服すいちゃんもかわいい！\n \nストッキングすいちゃん",
+    "cover_url": "https://pbs.twimg.com/media/HE5KLarbsAAiIQi.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "877n6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "796gh",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "vm2p",
+          "text": "制服すいちゃんもかわいい！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4dhnt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dori0",
+          "text": "ストッキングすいちゃん",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cve9q",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "caption": "おためしですいちゃんコスの写真集投稿してみます☄️うまくできてるかな〜⁉️",
+              "entityKey": "40e89e73-1bc7-4fba-b532-4bd0c3fb7499",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039651135775268864"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "cc84c868-8775-4778-849c-4346a3525331",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039651247943520256"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "ad4c1a87-da45-4eb9-978f-9bf2cee3e21b",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039651949994508288"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5L5sWbYAAKAAIX1jyq85ugAgAA",
+        "media_id": "2039651135775268864",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 30.44,
+                "rgb": {
+                  "blue": 70,
+                  "green": 67,
+                  "red": 62
+                }
+              },
+              {
+                "percentage": 25.55,
+                "rgb": {
+                  "blue": 203,
+                  "green": 198,
+                  "red": 192
+                }
+              },
+              {
+                "percentage": 20.08,
+                "rgb": {
+                  "blue": 128,
+                  "green": 127,
+                  "red": 120
+                }
+              },
+              {
+                "percentage": 1.3,
+                "rgb": {
+                  "blue": 91,
+                  "green": 42,
+                  "red": 25
+                }
+              },
+              {
+                "percentage": 0.85,
+                "rgb": {
+                  "blue": 175,
+                  "green": 130,
+                  "red": 94
+                }
+              }
+            ]
+          },
+          "original_img_height": 2448,
+          "original_img_url": "https://pbs.twimg.com/media/HE5L5sWbYAAvih_.jpg",
+          "original_img_width": 1836
+        },
+        "media_key": "3_2039651135775268864"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5MAONbEAAKAAIX1jyq85ugAgAA",
+        "media_id": "2039651247943520256",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 53.26,
+                "rgb": {
+                  "blue": 123,
+                  "green": 123,
+                  "red": 122
+                }
+              },
+              {
+                "percentage": 24.21,
+                "rgb": {
+                  "blue": 195,
+                  "green": 191,
+                  "red": 186
+                }
+              },
+              {
+                "percentage": 22.84,
+                "rgb": {
+                  "blue": 43,
+                  "green": 39,
+                  "red": 37
+                }
+              },
+              {
+                "percentage": 1.31,
+                "rgb": {
+                  "blue": 78,
+                  "green": 99,
+                  "red": 76
+                }
+              },
+              {
+                "percentage": 0.35,
+                "rgb": {
+                  "blue": 35,
+                  "green": 43,
+                  "red": 52
+                }
+              }
+            ]
+          },
+          "original_img_height": 1540,
+          "original_img_url": "https://pbs.twimg.com/media/HE5MAONbEAA6R-d.jpg",
+          "original_img_width": 1155
+        },
+        "media_key": "3_2039651247943520256"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE5MpFjbAAAKAAIX1jyq85ugAgAA",
+        "media_id": "2039651949994508288",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 48.29,
+                "rgb": {
+                  "blue": 188,
+                  "green": 182,
+                  "red": 178
+                }
+              },
+              {
+                "percentage": 25.04,
+                "rgb": {
+                  "blue": 51,
+                  "green": 46,
+                  "red": 44
+                }
+              },
+              {
+                "percentage": 0.77,
+                "rgb": {
+                  "blue": 195,
+                  "green": 147,
+                  "red": 108
+                }
+              },
+              {
+                "percentage": 0.42,
+                "rgb": {
+                  "blue": 90,
+                  "green": 43,
+                  "red": 32
+                }
+              },
+              {
+                "percentage": 0.15,
+                "rgb": {
+                  "blue": 153,
+                  "green": 73,
+                  "red": 35
+                }
+              }
+            ]
+          },
+          "original_img_height": 2491,
+          "original_img_url": "https://pbs.twimg.com/media/HE5MpFjbAAATRIu.jpg",
+          "original_img_width": 1868
+        },
+        "media_key": "3_2039651949994508288"
+      }
+    ]
+  }
+}

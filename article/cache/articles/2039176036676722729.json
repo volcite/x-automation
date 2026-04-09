@@ -1,0 +1,1740 @@
+{
+  "tweet_created_at": "2026-04-01T03:00:27.000000Z",
+  "id": 2039176036676722700,
+  "id_str": "2039176036676722729",
+  "type": "tweet",
+  "conversation_id_str": "2039176036676722729",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/SQ4zQ8S81M",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 94355673,
+    "id_str": "94355673",
+    "name": "福島良典 | LayerX",
+    "screen_name": "fukkyy",
+    "location": "",
+    "url": "https://layerx.co.jp",
+    "description": "LayerX CEO( https://t.co/8YwAaOhIJn), Gunosy exCEO/founder, ツクルバ取締役, Progmat取締役, 未踏スーパークリエータ(2012)",
+    "protected": false,
+    "verified": true,
+    "followers_count": 76081,
+    "friends_count": 741,
+    "listed_count": 1116,
+    "favourites_count": 95606,
+    "statuses_count": 46573,
+    "created_at": "2009-12-03T15:54:42.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/94355673/1690849568",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/479435326083964928/CPcSdHAV_normal.png",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 95,
+  "reply_count": 3,
+  "retweet_count": 156,
+  "favorite_count": 1428,
+  "views_count": 650232,
+  "bookmark_count": 1995,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039150044214153216",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/SQ4zQ8S81M"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T03:00:27.000000Z",
+    "id": 2039176036676722700,
+    "id_str": "2039176036676722729",
+    "title": "エージェントハーネスとAIマネージドサービス",
+    "preview_text": "はじめに\n2025年は「AIエージェントを試す・使う」という1年でした。2026年は「AIエージェントを実際に組織で機能させ、アウトカムに変える」ことが主題の1年になると思います。",
+    "cover_url": "https://pbs.twimg.com/media/HEyFdT7bkAABm_Q.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e9pp5",
+          "text": "はじめに",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eq28v",
+          "text": "2025年は「AIエージェントを試す・使う」という1年でした。2026年は「AIエージェントを実際に組織で機能させ、アウトカムに変える」ことが主題の1年になると思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 35,
+              "style": "Bold"
+            }
+          ],
+          "key": "cps6a",
+          "text": "このパラダイムでの本質的な価値は「AIエージェント」そのものではなく、エージェントを包み込むインフラ、すなわちエージェントハーネスにあります。そして、このハーネス+エージェントを業務の完成品として提供するのが今後のAI企業の主戦場になるでしょう。その形を「AIマネージドサービス」という造語で解説します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6qvhe",
+          "text": "この記事では、2026年2月頃から急速に注目を集めている「エージェントハーネス」という概念を紹介しつつ、「それってClaude Codeで内製できるんじゃないの?」といったAIエージェント企業に投げられがちな疑問に対する考え方の整理もしてみたいと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vkbd",
+          "text": "エージェントハーネスとは何か",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c41f",
+          "text": "定義：AIエージェントを包み込むインフラ",
+          "type": "header-two"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 317,
+                "text": "https://www.philschmid.de/agent-harness-2026",
+                "toIndex": 361
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 44,
+              "offset": 317
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1uh47",
+          "text": "エージェントハーネスとは、長時間実行されるタスクを管理するためにAIモデルを包み込むインフラストラクチャのことである。これはエージェントそのものではない。エージェントの動作を制御し、その信頼性・効率性・制御を確保するソフトウェアシステムである。\n\nエージェントフレームワークがツールの構成要素やエージェントループの実装を提供するのに対し、ハーネスはそれより高いレベルで動作する。具体的には、プロンプトのプリセット、ツール呼び出しの独自処理、ライフサイクルフック、計画立案、ファイルシステムへのアクセス、サブエージェントの管理といった、すぐに使える機能を提供する。単なるフレームワークにとどまらず、必要な機能がすべて備わっている。 \n\nhttps://www.philschmid.de/agent-harness-2026 より",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2e3dv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "de00v",
+          "text": "比喩で例えると、AIエージェントがシェフであり、調理場がハーネス のようなイメージです。シェフの腕前（AIエージェント）がいくら高くても、調理場（ハーネス）の設計が悪ければ良い料理は作れません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cde3",
+          "text": "能力の上限を上げるのはAnthropicやOpenAIといったモデルプロバイダーの仕事であり、シェフや調理場の環境をチューニングするのがApplication企業の仕事になるでしょう。どんなに賢いモデルがあっても、そのドメインにあったハーネスがないとそのモデルは最高性能が引き出せません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cous1",
+          "text": "AIエージェントの仕事の長期化とベンチマークとのズレ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8rhqs",
+          "text": "かつてのAI活用は、プロンプトを書いてちょっとした質問に答えさせる、短いタスク実行が中心でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 48,
+              "style": "Bold"
+            }
+          ],
+          "key": "aajn0",
+          "text": "現在は、AIにツール・ナレッジ・メモリ・ワークフロー定義・ファイル/コマンドアクセス…等を渡し、自律的に長時間タスクを実行させるパラダイムに移行しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3uc6n",
+          "text": "AIエージェントは考え、実行し、反芻し...を繰り返しながら仕事をします。複雑なタスクだとこのループが長くなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fdff",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 24,
+              "style": "Bold"
+            },
+            {
+              "length": 10,
+              "offset": 147,
+              "style": "Bold"
+            }
+          ],
+          "key": "7s28h",
+          "text": "現在、AIのベンチマークは飽和してきていますが、ロングランタスクを適切に測るベンチマークが不十分です。仮にAIが99%の精度を持っていたとしても、1%の誤りが起こると、その後続ステップの精度は意味をなくします。本当に必要なのは、エージェントが長時間自律実行し続けられるかを測る指標と、そのための環境をどう整備するかというエンジニアリングです。ここから「エージェントハーネス」という考え方が生まれました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bkr2u",
+          "text": "「ドリフト」問題とハーネス設計",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b4kml",
+          "text": "では、仕事が長くなると、AIエージェントはどんな問題を起こすのか、具体例を紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5o4pq",
+          "text": "典型的には、以下のような問題が起こります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2s3tv",
+          "text": "終了条件の誤認 -「もう十分」と途中で完了宣言してしまう",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "34qjm",
+          "text": "品質の自己過信 -「コードは完璧です」という評価だがデザインは崩れている",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6gm2v",
+          "text": "累積的なズレ - 少しずつズレた仕事が積み重なる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "96lo7",
+          "text": "これらに対して、ハーネスの設計で対処できることが分かってきています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eulrf",
+          "text": "終了条件の外部化 -チェックボックス形式で進行管理を外部に持たせる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "433q4",
+          "text": "視覚的品質チェック -Playwrightなどでエージェントに「目」を与える",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "75gv4",
+          "text": "Hook（決定論的な実行）-Tool実行後に必ずリンターを実行するなど、逸脱してはいけない通過点を設ける",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "656pd",
+          "text": "これはコーディングエージェントの例ですが、それ以外のタスクにも応用可能な示唆が含まれています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bakjk",
+          "text": "コーディングハーネスからリアルタスクハーネスへ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "818fs",
+          "text": "コーディングでうまくいった手法が徐々にリアルタスクに波及するということがしばしば、AIの世界ではおこります。Claude CodeからClaude Coworkに波及したような流れです。今後、「営業ハーネス」「経理ハーネス」「労務ハーネス」といったドメイン特化のリアルタスクにもハーネスが重要という考えが生まれるでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 18,
+              "offset": 38
+            },
+            {
+              "key": 4,
+              "length": 14,
+              "offset": 57
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d42dh",
+          "text": "(※ なお「エージェントハーネス」という用語は、まだ定義が安定していません。Compound AI Systemやコンテキストエンジニアリングなど類似概念の焼き直しの部分もあります。ただしこれらの概念とエージェントハーネスは、いずれも「AIモデル単体ではなくシステム全体の設計が性能を決める」という共通の問題意識から生まれています。本記事では、コーディングエージェントの実行環境から意味を拡張させ、リアルタスクにおけるAIエージェントの実行・運用・自己改善環境としての「ハーネス」という語を用いています。後述するリアルタスクハーネスの例もこの前提で紹介します。)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "fsvrn",
+          "text": "エージェントハーネスの本質は、self-evolving system（自己改善システム） の実現です。AIエージェントはハーネスの中で、計画 → 実行 → 評価 → 反芻 → 再計画...といった自己改善ループを回します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6sfil",
+          "text": "ハーネスはモデルの進化にあわせて、時には過去のハーネスを破棄するなど、継続的に開発・運用し続ける必要があります。この継続的探索と評価の必要性こそが、後述する「なぜ内製ではなくマネージドサービスか」の根拠にもなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "95npb",
+          "text": "AIマネージドサービスという考え方",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vpaf",
+          "text": "なぜ新しい言葉が必要か",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ggis",
+          "text": "現在のAIサービスを語る際、「AIエージェント」という言葉だけでは実態を捉えきれなくなっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "5318g",
+          "text": "AI企業が提供しているのはAIエージェント単体ではなく、AIエージェント(調理するシェフ）+ ハーネス(調理場) + 決定論的なコード(レシピ) というセットです。この全体像は「AIエージェント」という単語では伝えきれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 76,
+              "style": "Bold"
+            }
+          ],
+          "key": "74v82",
+          "text": "AIエージェントと聞くとコードの中でAIの推論ループが動くことをイメージしがちですが、すべてをAIに推論させる必要はありません。ハーネスの中で生成された決定論的なコードを、サービスの一部として活用する形はとても有用です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "hud5",
+          "text": "例えば、Generative UI（AIがUIコードを生成し、それをユーザーが触る）や、AIが自動更新する正規表現を使いパターンマッチするなどがこの例にあてはまります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 6,
+              "style": "Bold"
+            }
+          ],
+          "key": "b2nbq",
+          "text": "このように、AIエージェント ＋ ハーネス + 決定論的なコードという集合体により実現される「業務の完成品」が、実際に顧客に提供している価値の正体です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b85u0",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 22,
+              "style": "Bold"
+            }
+          ],
+          "key": "ene0m",
+          "text": "この全体を表す適切な言葉を考えたとき、私は「AIマネージドサービス」という造語を考えました。正直、流行らない可能性は高いですが、この概念を語る上で定義が必要なので、本記事ではこの言葉を使います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "erlb",
+          "text": "「マネージドサービス」の系譜：「進化を買う」ということ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 27,
+              "style": "Bold"
+            },
+            {
+              "length": 11,
+              "offset": 60,
+              "style": "Bold"
+            }
+          ],
+          "key": "57ttc",
+          "text": "クラウドサービスがパッケージソフトと区別される理由は、進化を買っているからです。例えば、AWSは単なるサーバーではなく、インフラの進化そのものです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmp9n",
+          "text": "そして進化には、機能だけではなく、セキュリティ・法追従なども含まれます。結果、マネージドサービスの方が内製するよりもコストパフォーマンスが良いという状況が生まれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3lmue",
+          "text": "AIマネージドサービスもこの延長線上にあります。ただし、進化の担い手が人だけでなく、AIも含むようになります。「自己進化を続ける、業務の完成品」がAIマネージドサービスです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8q9p3",
+          "text": "例. 給与計算でのAIエージェントと決定論コードのハーネス設計",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "61clf",
+          "text": "給与計算を例に取ります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1r8vp",
+          "text": "ナイーブな給与計算エージェントは、給与計算に必要なコンテキストをAIに渡して、推論をさせるというものになります。しかし私はこの設計はナンセンスだと思います。給与計算式はプログラムで実行すればいいのです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 10,
+              "style": "Bold"
+            }
+          ],
+          "key": "9oc41",
+          "text": "AIがすべきなのは、推論がアップサイドになり失敗のダウンサイドが少ない部分です。典型例は異常検知です。AIが「住所変更申請がないが、経費精算で通勤経路が変わっていることを発見した。もし住所が変わっているなら、通勤手当に影響する可能性がある」といった示唆を出します。データを幅広く見て、AIに異常検知を推論させることはアップサイドです。仮にその推論が間違っていたら人がリジェクトすればいいだけなのでダウンサイドは少ないです。そして、確定した情報からの給与計算は決定論的なコードで実行します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2h90",
+          "text": "このようにAIマネージドサービスは、業務のどの部分をどのようにAIに関わらせるか設計し、ドメインのベストプラクティス（最適なハーネス+エージェント+決定論コード）を落とし込んだ業務の完成品を提供します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5v1fk",
+          "text": "AIによる業務の3つの提供形態",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7f4v",
+          "text": "AIエージェントはあらゆるプロダクト・業務の前提条件になります。そして、今後のAIによる業務の提供形態が3つに分かれるという整理をしています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8t7h4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 15,
+              "offset": 19
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fplps",
+          "text": "① AIマネージドサービス型\n(例) バクラク・バクラクAI BPO、Harvey、Rampなど\n「ハーネス＋AIエージェント＋決定論コード」がドメイン特化にパッケージング「業務の完成品」として提供されます。対象はバックオフィス業務（経理、労務、給与計算、ヘルプデスクなど）に代表される共通領域・非競争領域です。AI BPOもAIマネージドサービスの派生型になります。顧客は「業務の完成品」を購入するだけで、自動化が実現します。ここで補足したいのは、AIマネージドサービスは従来のクラウドサービスのような標準的なものではありません。ハーネスの中で、各社の業務にあうように改善され、パーソナライズされたものになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 12,
+              "offset": 26
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5vldg",
+          "text": "② AIプラットフォーム/SDK＋FDE型\n(例) Ai Workforce、Sierra、Palantirなど\nAIプラットフォーム/SDKとFDE（Forward Deployed Engineer）のセットで提供されます。AIプラットフォームはハーネスに加えて、AIエージェントStudioのようなカスタマイズ層を提供します。対象は内製エンジニアが不足している企業、かつその会社特有の競争優位につながるワークフローです。FDEがAIプラットフォームを活用し、個社にカスタマイズされた「業務の完成品」を実現します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 19,
+              "offset": 10
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bv4lr",
+          "text": "③ 内製型\n(例) 三井物産デジタル・アセットマネジメントなど\n素のLLMプラットフォーム+社内エンジニアによるAIエージェント構築、要は内製化です。Claude Code、Claude Coworkなどを活用します。業務対象は②と同じだが、内製エンジニアの豊富さで②か③の形態を選ぶかを判断します。当社が運営する合弁会社、三井物産デジタル・アセットマネジメントはまさにこの例であり、証券・信託・アセットマネジメントという特殊なワークフローを内製エンジニアがAI nativeに作り込むことを競争力にしています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 12,
+              "style": "Bold"
+            }
+          ],
+          "key": "12jn9",
+          "text": "①②型の提供ベンダーは、内製よりコストパフォーマンスが高いことを自信を持って主張できなければなりません。そうでないと顧客は内製化をえらびます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "586rh",
+          "text": "具体例：ヘルプデスクエージェント+ハーネス",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jpb9",
+          "text": "LayerXでは「ヘルプデスクエージェント」という社内問い合わせに対して自動応答を提供するAIエージェントを提供しています。これを例に取り、「内製化 VS AIマネージドサービス」という問いについて答えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1p5dr",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3un5d",
+          "text": "単なるRAGとの違い",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 95,
+              "style": "Bold"
+            }
+          ],
+          "key": "bredh",
+          "text": "ヘルプデスクエージェントの基本機能はナレッジからコンテキストを引っ張ってAIに答えさせることです。これはClaude Codeで誰でも作れます。当社のヘルプデスクエージェントの本質的価値は、ナレッジの鮮度と正しさを常に改善し続けるハーネスにあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1ojvs",
+          "text": "ナレッジ自動改善ループ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bsm6h",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17k16",
+          "text": "従業員から「ホテルは何万円まで取っていいですか？」と質問が来たとします。ナレッジに該当情報がなければ、経理担当者にルーティング（ヒューマンインザループ）→経理担当が「3万円までOK」と回答すると、ハーネスが「このルールをナレッジに追加しませんか」と提案→管理者が承認すれば次回から自動回答できるようになります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fltrn",
+          "text": "さらに、社内規定が「3万5000円」に変更されたのに旧ルール「3万円」が残っていると、AIは矛盾に混乱します。ハーネスはナレッジを巡回し矛盾を検知、「どちらを採用しますか？」と確認します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 26,
+              "style": "Bold"
+            }
+          ],
+          "key": "1okot",
+          "text": "ナレッジの鮮度は時間とともに構造的に劣化します。この鮮度劣化を継続的に解消するハーネスこそが価値です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "271gp",
+          "text": "「それでもまだClaude Codeで作れそうな気がする」。この問いに次のセクションで答えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ff6ak",
+          "text": "「内製できるのでは？」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3sdv",
+          "text": "この問いへの答えは「作れます」になります。十分にClaude Codeを使いこなすエンジニアがいれば、まず間違いなく作れるでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 34,
+              "style": "Bold"
+            }
+          ],
+          "key": "34jg7",
+          "text": "ただしここで、本当に考えてほしい問いは、作れるか作れないかではなく、経済合理性です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "v4ru",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4vpsc",
+          "text": "ここで考えるべき論点は3つあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8rhmv",
+          "text": "① エンジニアの人件費\n一般的に、単発で使われるAIエージェントではなく、長期的に運用されるAIエージェント+ハーネスを設計・構築・運用できるエンジニアは高度人材です。Claude Codeは月200ドルでも、そのエンジニアの人件費は桁違いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6g6ba",
+          "text": "② 機会コスト\nその希少で優秀なエンジニアを、プロダクトや競争優位に直結するような独自のものではなく、質問回答というある種コモディティ的な機能の構築・運用に使うことの意味はどれほどあるのでしょうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2vu5b",
+          "text": "③ 継続的な改善コスト\nモデルが賢くなるとハーネスのあり方そのものが変わります。微調整だけでなく抜本的な修正も含めて、継続的にリソースを投入し続ける必要があります。作り切って終わりではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 51,
+              "offset": 84,
+              "style": "Bold"
+            }
+          ],
+          "key": "8jb4f",
+          "text": "我々は今さら0からAWSを作りません。LLMのオープンウェイトモデルが出てきたとしても、自前で大量のGPUを用意して、運用を自前でやるでしょうか。仮に、やれたとしても、それができるエンジニアの人件費まで含めると、API経由のオープンモデルの方がコストパフォーマンスが良い のではないでしょうか。だから我々はAWSやAzureやGCPを使うし、ClaudeやOpenAIのAPIを叩きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71pvn",
+          "text": "本質的に同じ構造が業務エージェントにも起きるでしょう。業務の完成品を維持し続ける人件費を考えると、AIマネージドサービスの方が経済合理性がある領域というのがおのずと定まってきます。その証左として、例えばAI企業の本丸であるAnthropicも、全てを内製化せず、この手のAIマネージドサービスを導入しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9tojl",
+          "text": "ただし、ベンダーとしては、ポジショントークに陥らないように真実と向き合い続ける必要があります。AIマネージドサービスは、内製よりコストパフォーマンスが高くなければなりません。もしそうでなくなった瞬間、顧客は容赦なく内製を選択するでしょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3gbg",
+          "text": "まとめ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "3v6ek",
+          "text": "今後の主戦場は、ハーネス＋エージェントをドメインと顧客業務にマッチさせることです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 29,
+              "style": "Bold"
+            }
+          ],
+          "key": "2acm9",
+          "text": "世の中は「AIエージェント」を買っているように見えて、実はハーネスと一緒に買っているのです。シェフだけでなく調理場もセットで提供されます。顧客がほしいのは「業務の完成品」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "6l8k8",
+          "text": "この完成品が、内製よりコストパフォーマンスが高いことを自信を持って主張できなければなりません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "equpj",
+          "text": "LayerXでは、バクラク、Ai Workforceという2つの型で「業務の完成品を届ける」思想を実現していきます。企業のあらゆるワークフローで、ハーネス＋AIエージェントのセットを提供し、顧客業務を自己改善し続けるシステムとして届けます。また、三井物産デジタル・アセットマネジメントのような合弁会社を通じて、事業そのものを所有し、その事業にあったAI nativeなワークフローを内製化するという選択肢もありえます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 13,
+              "length": 53,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9lvkk",
+          "text": "我々と一緒に、AI時代の新しいソフトウェアの形を作っていきたい方、売っていきたい方はぜひお声がけください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 14,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eg8ni",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "433hg",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "caption": "AIエージェントのコストはAI利用料金だけではない",
+              "entityKey": "1b2f18dd-b17f-4b21-b904-a25e9b6f0c4c",
+              "mediaItems": [
+                {
+                  "localMediaId": "17",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039155587876048896"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "ac5db2e9-04b2-4dbe-938b-6b4fe2de1977",
+              "url": "https://getaiworkforce.com/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "afa5c2d2-7a7b-45b1-b59a-6b014687a890",
+              "url": "https://x.com/karpathy/status/1937902205765607626"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "caption": "ヘルプデスクにおけるハーネスの役割",
+              "entityKey": "5eeb8d56-89df-4e93-98ab-38b35c39defb",
+              "mediaItems": [
+                {
+                  "localMediaId": "15",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039155078343667712"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "02fd366a-826f-49cb-ab01-62c8653c12be",
+              "url": "https://corp.mitsui-x.com/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "13",
+          "value": {
+            "data": {
+              "entityKey": "60eeff3d-ab92-451d-bc8f-199079b331bb",
+              "url": "https://jobs.layerx.co.jp/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "caption": "顧客が欲しいのはAIエージェントではなくAIマネージドサービス(業務の完成品)",
+              "entityKey": "736dda51-0a0b-44d6-93ac-43581071becf",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039154009899159552"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "caption": "https://bakuraku.jp/helpdesk-agent/ より",
+              "entityKey": "f9e2e3e6-acbe-4ed8-8cf6-835811b1afb4",
+              "mediaItems": [
+                {
+                  "localMediaId": "13",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039154829503991808"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "caption": "AIによる業務提供の3つの型",
+              "entityKey": "b7b6fa04-4cf7-4643-b6e2-c08c86721c9d",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039154375965421568"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "https://www.philschmid.de/agent-harness-2026 より",
+              "entityKey": "510e872c-8648-4c92-9f04-83cf6087362a",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039153268111409152"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "14",
+          "value": {
+            "data": {
+              "caption": "採用サイトです https://jobs.layerx.co.jp/",
+              "entityKey": "61a859db-4d82-484d-a078-921532612d0c",
+              "mediaItems": [
+                {
+                  "localMediaId": "19",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039155905967816704"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "25447926-be33-44eb-9924-9a316dd36d0b",
+              "url": "https://www.philschmid.de/agent-harness-2026"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "AIエージェントの仕事の長期化とベンチマークのずれ",
+              "entityKey": "ce7e59f6-e751-4190-811a-18cba6ada0ca",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039153756848435200"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "f9f590cc-1466-430f-bb86-dd53ac877aab",
+              "url": "https://bakuraku.jp/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "daecf089-bea9-4e05-9734-9543af51ef95",
+              "url": "https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyJNAka0AAKAAIAAAAABZ/A2QAA",
+        "media_id": "2039155587876048896",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 85.63,
+                "rgb": {
+                  "blue": 222,
+                  "green": 240,
+                  "red": 247
+                }
+              },
+              {
+                "percentage": 9.17,
+                "rgb": {
+                  "blue": 55,
+                  "green": 95,
+                  "red": 214
+                }
+              },
+              {
+                "percentage": 2.89,
+                "rgb": {
+                  "blue": 113,
+                  "green": 123,
+                  "red": 124
+                }
+              },
+              {
+                "percentage": 1,
+                "rgb": {
+                  "blue": 117,
+                  "green": 144,
+                  "red": 207
+                }
+              },
+              {
+                "percentage": 0.97,
+                "rgb": {
+                  "blue": 179,
+                  "green": 121,
+                  "red": 100
+                }
+              }
+            ]
+          },
+          "original_img_height": 1332,
+          "original_img_url": "https://pbs.twimg.com/media/HEyJNAka0AAw_Ot.jpg",
+          "original_img_width": 2400
+        },
+        "media_key": "3_2039155587876048896"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyJfhjaAAAKAAIAAAAABZ/A2QAA",
+        "media_id": "2039155905967816704",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 46.11,
+                "rgb": {
+                  "blue": 245,
+                  "green": 245,
+                  "red": 245
+                }
+              },
+              {
+                "percentage": 14.61,
+                "rgb": {
+                  "blue": 222,
+                  "green": 147,
+                  "red": 145
+                }
+              },
+              {
+                "percentage": 13.05,
+                "rgb": {
+                  "blue": 238,
+                  "green": 117,
+                  "red": 114
+                }
+              },
+              {
+                "percentage": 13.02,
+                "rgb": {
+                  "blue": 211,
+                  "green": 173,
+                  "red": 171
+                }
+              },
+              {
+                "percentage": 4.8,
+                "rgb": {
+                  "blue": 200,
+                  "green": 212,
+                  "red": 203
+                }
+              }
+            ]
+          },
+          "original_img_height": 1426,
+          "original_img_url": "https://pbs.twimg.com/media/HEyJfhjaAAAlPCP.jpg",
+          "original_img_width": 2730
+        },
+        "media_key": "3_2039155905967816704"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyHxKJaUAAKAAIAAAAABZ/A2QAA",
+        "media_id": "2039154009899159552",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 77.82,
+                "rgb": {
+                  "blue": 225,
+                  "green": 238,
+                  "red": 242
+                }
+              },
+              {
+                "percentage": 5.97,
+                "rgb": {
+                  "blue": 103,
+                  "green": 113,
+                  "red": 114
+                }
+              },
+              {
+                "percentage": 5.49,
+                "rgb": {
+                  "blue": 57,
+                  "green": 90,
+                  "red": 171
+                }
+              },
+              {
+                "percentage": 4.68,
+                "rgb": {
+                  "blue": 134,
+                  "green": 74,
+                  "red": 57
+                }
+              },
+              {
+                "percentage": 3.77,
+                "rgb": {
+                  "blue": 130,
+                  "green": 167,
+                  "red": 133
+                }
+              }
+            ]
+          },
+          "original_img_height": 1334,
+          "original_img_url": "https://pbs.twimg.com/media/HEyHxKJaUAAyS4f.jpg",
+          "original_img_width": 2412
+        },
+        "media_key": "3_2039154009899159552"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyHF+xbgAAKAAIAAAAABZ/A2QAA",
+        "media_id": "2039153268111409152",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 97.21,
+                "rgb": {
+                  "blue": 221,
+                  "green": 226,
+                  "red": 227
+                }
+              },
+              {
+                "percentage": 2.79,
+                "rgb": {
+                  "blue": 127,
+                  "green": 132,
+                  "red": 132
+                }
+              }
+            ]
+          },
+          "original_img_height": 667,
+          "original_img_url": "https://pbs.twimg.com/media/HEyHF-xbgAAvO2x.jpg",
+          "original_img_width": 957
+        },
+        "media_key": "3_2039153268111409152"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyHibdasAAKAAIAAAAABZ/A2QAA",
+        "media_id": "2039153756848435200",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 78.62,
+                "rgb": {
+                  "blue": 232,
+                  "green": 242,
+                  "red": 246
+                }
+              },
+              {
+                "percentage": 7.47,
+                "rgb": {
+                  "blue": 66,
+                  "green": 104,
+                  "red": 210
+                }
+              },
+              {
+                "percentage": 5.07,
+                "rgb": {
+                  "blue": 105,
+                  "green": 112,
+                  "red": 109
+                }
+              },
+              {
+                "percentage": 4.99,
+                "rgb": {
+                  "blue": 151,
+                  "green": 87,
+                  "red": 65
+                }
+              },
+              {
+                "percentage": 1.79,
+                "rgb": {
+                  "blue": 179,
+                  "green": 149,
+                  "red": 138
+                }
+              }
+            ]
+          },
+          "original_img_height": 673,
+          "original_img_url": "https://pbs.twimg.com/media/HEyHibdasAAxbUF.jpg",
+          "original_img_width": 1199
+        },
+        "media_key": "3_2039153756848435200"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyIg3abkAAKAAIAAAAABZ/A2QAA",
+        "media_id": "2039154829503991808",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 39.33,
+                "rgb": {
+                  "blue": 99,
+                  "green": 92,
+                  "red": 87
+                }
+              },
+              {
+                "percentage": 37.87,
+                "rgb": {
+                  "blue": 222,
+                  "green": 220,
+                  "red": 219
+                }
+              },
+              {
+                "percentage": 5.82,
+                "rgb": {
+                  "blue": 33,
+                  "green": 29,
+                  "red": 27
+                }
+              },
+              {
+                "percentage": 2.7,
+                "rgb": {
+                  "blue": 170,
+                  "green": 80,
+                  "red": 96
+                }
+              },
+              {
+                "percentage": 2.41,
+                "rgb": {
+                  "blue": 64,
+                  "green": 195,
+                  "red": 236
+                }
+              }
+            ]
+          },
+          "original_img_height": 1346,
+          "original_img_url": "https://pbs.twimg.com/media/HEyIg3abkAA513e.jpg",
+          "original_img_width": 2530
+        },
+        "media_key": "3_2039154829503991808"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyIvWabsAAKAAIAAAAABZ/A2QAA",
+        "media_id": "2039155078343667712",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 91.42,
+                "rgb": {
+                  "blue": 222,
+                  "green": 239,
+                  "red": 246
+                }
+              },
+              {
+                "percentage": 3.1,
+                "rgb": {
+                  "blue": 167,
+                  "green": 121,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 2.16,
+                "rgb": {
+                  "blue": 119,
+                  "green": 126,
+                  "red": 128
+                }
+              },
+              {
+                "percentage": 1.52,
+                "rgb": {
+                  "blue": 119,
+                  "green": 140,
+                  "red": 205
+                }
+              },
+              {
+                "percentage": 0.78,
+                "rgb": {
+                  "blue": 142,
+                  "green": 178,
+                  "red": 143
+                }
+              }
+            ]
+          },
+          "original_img_height": 1336,
+          "original_img_url": "https://pbs.twimg.com/media/HEyIvWabsAAMGMu.jpg",
+          "original_img_width": 2400
+        },
+        "media_key": "3_2039155078343667712"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyIGd2aMAAKAAIAAAAABZ/A2QAA",
+        "media_id": "2039154375965421568",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 92.03,
+                "rgb": {
+                  "blue": 226,
+                  "green": 239,
+                  "red": 243
+                }
+              },
+              {
+                "percentage": 6.31,
+                "rgb": {
+                  "blue": 103,
+                  "green": 110,
+                  "red": 109
+                }
+              },
+              {
+                "percentage": 0.4,
+                "rgb": {
+                  "blue": 65,
+                  "green": 101,
+                  "red": 195
+                }
+              },
+              {
+                "percentage": 0.39,
+                "rgb": {
+                  "blue": 127,
+                  "green": 57,
+                  "red": 49
+                }
+              },
+              {
+                "percentage": 0.29,
+                "rgb": {
+                  "blue": 41,
+                  "green": 45,
+                  "red": 44
+                }
+              }
+            ]
+          },
+          "original_img_height": 1332,
+          "original_img_url": "https://pbs.twimg.com/media/HEyIGd2aMAAj7A2.jpg",
+          "original_img_width": 2400
+        },
+        "media_key": "3_2039154375965421568"
+      }
+    ]
+  },
+  "conversation_policy": "Verified"
+}

@@ -1,0 +1,359 @@
+{
+  "tweet_created_at": "2026-04-04T10:40:32.000000Z",
+  "id": 2040378980499632400,
+  "id_str": "2040378980499632270",
+  "type": "tweet",
+  "conversation_id_str": "2040378980499632270",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/EaaSwn0tXy",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 91959566,
+    "id_str": "91959566",
+    "name": "まくるめ",
+    "screen_name": "MAMAAAAU",
+    "location": "だいたい東京",
+    "url": "https://www.amazon.jp/hz/wishlist/ls/1U9QTBN6L3X3?ref_=wl_share",
+    "description": "怪文書家、小説の者。植物が好き。創作ジャンルは怪談・ＳＦ・ファンタジーです。初の拙著「その怪異はまだ読まれていません」がKADOKAWA様より出版となります／ノベルアップ+の第一回小説賞入賞者",
+    "protected": false,
+    "verified": true,
+    "followers_count": 48585,
+    "friends_count": 4046,
+    "listed_count": 823,
+    "favourites_count": 9342,
+    "statuses_count": 113606,
+    "created_at": "2009-11-23T07:38:03.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/91959566/1459145662",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181185661119811584/OsgEJl_m_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 955,
+  "reply_count": 95,
+  "retweet_count": 7148,
+  "favorite_count": 41238,
+  "views_count": 14992250,
+  "bookmark_count": 9875,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040365074226020352",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/EaaSwn0tXy"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T10:40:31.000000Z",
+    "id": 2040378980499632400,
+    "id_str": "2040378980499632270",
+    "title": "セックスしないと出られない部屋にひとりで入れられてもう３０年になります",
+    "preview_text": "「セックスしないと出られない部屋なんて創作の世界のものだろ」とお思いかもしれないが、ある。\n作ったからね。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bc35h",
+          "text": "「セックスしないと出られない部屋なんて創作の世界のものだろ」とお思いかもしれないが、ある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bql9j",
+          "text": "作ったからね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehp73",
+          "text": "まず部屋を用意する。そこにトイレとか保存食とか生存に必要なものをひと通り用意する。それから壁を脱出不能なレベルに補強する。厚さ三メートルのタングステンとかが理想だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rfl9",
+          "text": "それからセックスしたかどうかの判定装置をつける。これは自作はかなり難しいので、秋葉原で「セックス判定モジュールをください」と言って買うのが良い。それをラズパイとかのマイコンに取りつけ、セックス判定がオンになると扉が開くように設計する。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8l14o",
+          "text": "これで完成だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1t367",
+          "text": "さて、ここからが問題だ。装置には必ず動作確認が必要である……もうお分かりだろう。わたしは部屋内に入り、扉を閉めてしまった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ag865",
+          "text": "もちろんわたしは、セックス判定装置を作動させるためのハムスターのつがいを持ちこんでいた。しかし、つがいだと思っていたのは両方オスだった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b30v",
+          "text": "以上である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "47mnk",
+          "text": "くそっ、あのペットショップの店員。間違えやがって。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "76f73",
+          "text": "出られなくなったわたしは、何とかして二匹のハムスターをオス同士でセックスさせることに全力を費やした。しかしハムスターは断固としてこれを行わなかった。キリスト教保守派なのかな？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "344ut",
+          "text": "わたしは二匹のオスハムスターに交尾をさせるべく、説得を開始した。まず同性愛の禁止というものはあくまで文化的に作られたものであり、いくつかの文化圏では奨励すらされていた事、一度試してみるべきであることなどを力説した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "epfbm",
+          "text": "「お話はわかりましたよ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpq35",
+          "text": "ハムスターの片方が言った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ampg7",
+          "text": "「しかし私に言わせてもらえれば、凝り固まった考え方をしているのはむしろあなたのほうだと言わざるを得ません」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "al6ar",
+          "text": "「それはいったいどういうことかね」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ap3ca",
+          "text": "「考えてもみてください、私たちはハムスターとして生まれ、ずっとこの檻の中で過ごしてきました。そんな私たちにとって、この檻がセックスしないと出られない部屋の中にあるかどうかというのは、本当に些細な事なのです。あなたはまずこの点を認識されるべきだと思います」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4nbc0",
+          "text": "「なるほど」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1c7er",
+          "text": "「私たちはいたって平静であるのです。しかるに、あなたは自分がセックスしないと出られない部屋に閉じこめられたことを、まるで絶体絶命の窮地であるかのように騒いでいる。言いたいのは、これがあくまで認識の問題にすぎないということです。このセックスしないと出られない部屋の中にあってさえ、小さな檻の中にいる私たちよりあなたのほうがいくぶん自由であるはずだ。それなのにあなたは嘆き悲しみ、より不自由な私たちがそれに共感しセックスをするということを求めています」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a1j9n",
+          "text": "「たしかにその点では理がきみたちにあるようだね」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ctmq8",
+          "text": "「むしろ、私たちはこのセックスしないと出られない部屋に檻が閉じ込められたことによって、むしろ自由になったともいえます。なぜなら、私たちはあなたがこの檻を出られるかを自由に決めうる立場にあるのですから。ある種の権力を手に入れたと言えます」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmkj2",
+          "text": "「ふむ。つまり君は、自由とは権力のことだと考えているわけかな」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0ush",
+          "text": "「それは非常に興味深い指摘と言えます。わたしが思うに……」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c913m",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fe6mm",
+          "text": "それから３０年間、わたしとハムスターたちは議論を通してお互いの見識を深めていった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2g6q2",
+          "text": "すると、次元の門が開いた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3mesk",
+          "text": "目の前の空間が裂け、中から銀色の宇宙人たちが姿を現したのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4u4c",
+          "text": "「オメデトウゴザイマス、アナタタチハ脱出ニセイコウシマシタ」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1v0dr",
+          "text": "「どういうことですかな」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3j03v",
+          "text": "「そうですね。説明を求めます。私たちはかなり当惑していると言えるでしょう」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dqa7",
+          "text": "「アナタタチノ星、チキュウハ『哲学しないと出られない時空』ニトジコメラレテイマシタ。シカシ、アナタタチガ哲学ヲ充分行ッタノデ、デラレマス」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cg9j",
+          "text": "「なるほど、それは光栄ですな」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8af9v",
+          "text": "「少々奇妙ではありますがね」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5oljj",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2i9s9",
+          "text": "こうしてわたしたちはこの時空を脱し、哲学の究極の問い「なぜ何もないのではなく、何かがあるのか」について、宇宙人と議論を開始したのであった",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

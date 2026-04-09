@@ -1,0 +1,351 @@
+{
+  "tweet_created_at": "2026-04-07T14:00:47.000000Z",
+  "id": 2041516538751234300,
+  "id_str": "2041516538751234335",
+  "type": "tweet",
+  "conversation_id_str": "2041516538751234335",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/ayAGI3VerQ",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1861856458473873400,
+    "id_str": "1861856458473873408",
+    "name": "Marathon Development Team",
+    "screen_name": "MarathonDevTeam",
+    "location": "Tau Ceti IV",
+    "url": "https://discord.com/invite/marathonthegame",
+    "description": "News, updates, and insights from the developers of \n@MarathonTheGame 🐛",
+    "protected": false,
+    "verified": true,
+    "followers_count": 40968,
+    "friends_count": 5,
+    "listed_count": 58,
+    "favourites_count": 40,
+    "statuses_count": 138,
+    "created_at": "2024-11-27T19:36:00.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861856458473873408/1744155799",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2000639798340644864/4oOR0U2G_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/Bungie",
+      "badge_url": "https://pbs.twimg.com/profile_images/1661489750606491648/BW5plrkw_bigger.jpg",
+      "description": "Bungie",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    },
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 112,
+  "reply_count": 243,
+  "retweet_count": 136,
+  "favorite_count": 2581,
+  "views_count": 482555,
+  "bookmark_count": 166,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041268474778140672",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/ayAGI3VerQ"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-07T14:00:46.000000Z",
+    "id": 2041516538751234300,
+    "id_str": "2041516538751234335",
+    "title": "Marathon Update 1.0.5.3",
+    "preview_text": "UI\nVault and Armory\nFixed an issue causing the Vault and Armory to sometimes appear to be empty.\nFixed an issue causing the Armory item refreshes and free daily items to not appear consistently.",
+    "cover_url": "https://pbs.twimg.com/media/HFQOaQYaIAAolxJ.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajamr",
+          "text": "UI",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agt1u",
+          "text": "Vault and Armory",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgcho",
+          "text": "Fixed an issue causing the Vault and Armory to sometimes appear to be empty.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9hjr9",
+          "text": "Fixed an issue causing the Armory item refreshes and free daily items to not appear consistently.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6k11v",
+          "text": "Combat",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b7269",
+          "text": "Weapons & Equipment",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cut1p",
+          "text": "Knife",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bffrt",
+          "text": "Reduced the maximum lunge distance by ~10% and trimmed down the targeting angle by ~20%.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3onem",
+          "text": "Bubble Shield ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7p9fu",
+          "text": "Increased rarity from Deluxe (blue) to Superior (purple)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4a0u1",
+          "text": "Reduced bubble HP by 33%",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4n1d",
+          "text": "Removed vulnerability to Volt Weapon damage",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26pfg",
+          "text": "Increased resistance to UESC damage by 17%",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e3kkv",
+          "text": "Runners",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fkl10",
+          "text": "Stats",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1fu6",
+          "text": "Melee Damage",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 2,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7d1bc",
+          "text": "➡️ Reduced bonus damage provided by the Melee Damage stat from a maximum of 100% to a maximum of 50% against enemy Runners. Damage against non-Runner targets is unchanged.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3q4kh",
+          "text": "Developer Note: Melee in Marathon is intended to be a high-risk but potent method to contest close-quarters weapons like shotguns and submachine guns. However, the breakpoints for quick melee kills show up too early in the Melee Damage stat progression, which means that players don't require additional investment into a build to get maximum effective output. We don't want to compromise on having melee feel powerful, but believe that getting to that maximum output should be the result of meaningful buildcrafting and upgrade progression. Our goal for this change and the knife lunge changes above are that the knife remains a powerful backup tool, but requires more thoughtful play - both in and out of run - to be most effective.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9v0ml",
+          "text": "Thief",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30a2d",
+          "text": "Fixed additional Grapple-related slide cancel movement exploits.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "tfg7",
+          "text": "Contracts",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a0p0a",
+          "text": "Traxus",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dag5g",
+          "text": "Removed “in a single run” condition from Traxus Return On Investment 4/5.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5urdv",
+          "text": "Zones",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "45fcg",
+          "text": "Cryo Archive",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a5d6n",
+          "text": "Fixed an issue that would cause an exfil countdown to reset if the 1st crew member to enter left the circle, even if the other crew members were in the circle.",
+          "type": "unordered-list-item"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/27a1.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

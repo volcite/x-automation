@@ -1,0 +1,283 @@
+{
+  "tweet_created_at": "2026-04-03T11:39:11.000000Z",
+  "id": 2040031353391972400,
+  "id_str": "2040031353391972447",
+  "type": "tweet",
+  "conversation_id_str": "2040031353391972447",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/09PnghRm9k",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1691187427,
+    "id_str": "1691187427",
+    "name": "Pecs",
+    "screen_name": "peculiarerhis",
+    "location": "Sweden",
+    "url": "https://www.linkedin.com/in/peculiar-erhisohwode/",
+    "description": "Software Engineer | Queen | Big dreamer",
+    "protected": false,
+    "verified": true,
+    "followers_count": 2673,
+    "friends_count": 642,
+    "listed_count": 2,
+    "favourites_count": 381043,
+    "statuses_count": 723,
+    "created_at": "2013-08-22T14:05:18.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1981604703222849536/FXpZEXjt_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 46,
+  "reply_count": 80,
+  "retweet_count": 428,
+  "favorite_count": 2293,
+  "views_count": 458753,
+  "bookmark_count": 1288,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040012393212674048",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/09PnghRm9k"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T11:39:11.000000Z",
+    "id": 2040031353391972400,
+    "id_str": "2040031353391972447",
+    "title": "How I Became a Founding Engineer at Chowdeck",
+    "preview_text": "The Call\nThe year is 2023. It’s the first week in January, and I’m brimming with excitement for the new year. I get a call from a friend. He’s working as a backend engineer for this new food-delivery",
+    "cover_url": "https://pbs.twimg.com/media/HE-hgaHXEAAk2P6.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7g3ei",
+          "text": "The Call",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qap3",
+          "text": "The year is 2023. It’s the first week in January, and I’m brimming with excitement for the new year. I get a call from a friend. He’s working as a backend engineer for this new food-delivery startup, and they need a second backend engineer. He wants to know if I’m interested, as he really wants to recommend me for the role. My imposter syndrome kicks in, and my first instinct is to say, \"I dunno if I’m good enough,\" followed by \"I’m not so familiar with the database system you guys use.\" But I don’t. Instead, I say, \"Sure, I’m interested\" with a confidence I’m far from feeling.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ju7s",
+          "text": "The Interview",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ellhu",
+          "text": "I send in my CV and get slated for a virtual interview. I jump into the meeting room, and the interviewers introduce themselves; it’s the CTO and the CEO. Suddenly, my heart feels like it’s going to gallop right out of my chest. “I only have roughly 2 years of experience. I’m so going to mess this up,” are the only thoughts running through my brain like a nasty refrain.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 448
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e2vl",
+          "text": "3 years later, and I can scarcely recollect the exact questions I was asked, but I vividly remember the yawning pit in my stomach whenever I didn’t immediately know the answer to a question or whenever I felt like I had given a nonsensical response. Few minutes into the interview, and I already felt like a complete failure. I couldn’t wait for it to be over so I could go cry in a corner. (Looking back, I realize I was being very hard on myself 😅)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eb11k",
+          "text": "I get asked a system design question, and at that point, fed up with myself and just downright anxious, I reply with something along the lines of “I dunno, I’m not sure.” I expect the interview to end there and then, but they tell me to take my time and think through it, no pressure. I take a deep breath, calm my jumpy nerves, and think about the problem. But I'm thinking internally. Muttering quietly to myself and writing my thoughts and ideas in a notepad beside me. The CEO says, \"Think out loud, walk us through your process. Share your screen.\" And that, my friends, was the game-changer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4imr8",
+          "text": "The Turning Point",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3gc2",
+          "text": "Instead of writing in a book that only I could see, I share my screen, open the Notes app on my system, and start writing and sharing my thoughts out loud. I speak about how I'm thinking of the problem, ask them a couple of clarifying questions, showing how I would build the system and handle possible edge cases. And then I notice everyone's nodding their heads in agreement. The dark clouds of disappointment fogging my mind immediately vanish, and life looks rosy again. The interview becomes easier after that, and by the time it ends, we are all laughing on the call and discussing non-work-related matters.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 8,
+              "offset": 91
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cnmvm",
+          "text": "A week or so later, I get the offer letter. And in February that year, I officially become Chowdeck's first female software engineer, its second backend engineer, and one of its founding engineers. I would go on to build really amazing features that are used by millions of people every day.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4n6sm",
+          "text": "Prior to this, I was building small to medium-sized projects, but working at Chowdeck, building and owning large-scale production-grade systems, helped me grow faster and drove me to a level of expertise I could never have imagined on that auspicious January morning. Having to upgrade systems that previously catered to just a couple of thousand users to start handling hundreds of thousands of users every day taught me how to architect and build systems that scale while minimizing costs.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "hashtags": [
+              {
+                "fromIndex": 99,
+                "text": "BuildingChowdeck",
+                "toIndex": 116
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 99,
+              "style": "Bold"
+            }
+          ],
+          "key": "3m48c",
+          "text": "In the coming weeks, I’m going to talk about my Chowdeck experience (spanning nearly 3 years) in a #BuildingChowdeck series, how I built the delivery infrastructure and backend systems that power the app to this day, how it shaped my software engineering path, the knowledge gained (both technical and otherwise), the challenges faced, and the lessons learned.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2t31o",
+          "text": "The Lessons",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "av3ht",
+          "text": "There's a reason I shared this story. 3 reasons actually:",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 222,
+                "text": "_addempsea",
+                "toIndex": 233
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53lk5",
+          "text": "Being skilled is sometimes not enough. Having people who know your capabilities and are willing to vouch for you/recommend you is equally important. So while you build your tech skills, do not forget the human factor. So, @_addempsea, thank you for being that friend who thought, “Peculiar can do this job. She's that good.” Thank you for not only believing in what I could do but also putting my name in rooms that matter.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 297,
+                "text": "LordBinary_",
+                "toIndex": 309
+              },
+              {
+                "fromIndex": 314,
+                "text": "LohdLippi",
+                "toIndex": 324
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ccb5c",
+          "text": "In interviews, explaining your thought process sometimes is way more important than getting the right answer. Interviewers want to see if you can think critically. A lot of them might demand expertise, but a huge chunk are also testing to see if you have that potential for growth. So, thank you, @LordBinary_ and @LohdLippi for seeing the potential in me during that interview and consistently pushing me to be the very best engineer I can be.",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qfrj",
+          "text": "When I rang in the new year, I hoped the year would be great (as we usually do), but I never once dreamed I’d end up building core systems that would power one of the biggest apps in Africa. Awesome things are waiting for us at every corner. We just have to believe we’re good enough and grab them with open arms when they come around. This is not to say I didn’t struggle with the feeling of not being good enough or experienced enough, even after getting the job. But every day, I woke up and put in the work, and sometimes, that’s all you need to do.",
+          "type": "ordered-list-item"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f605.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://www.linkedin.com/company/chowdeck/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,2004 @@
+{
+  "tweet_created_at": "2026-04-03T04:08:33.000000Z",
+  "id": 2039917950296363500,
+  "id_str": "2039917950296363450",
+  "type": "tweet",
+  "conversation_id_str": "2039917950296363450",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/WX8nk6H1IC",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 767752746,
+    "id_str": "767752746",
+    "name": "ほしの｜𝔸𝕀× 𝐗",
+    "screen_name": "Hoshino_AISales",
+    "location": "",
+    "url": "https://line.me/ti/g2/LmLu1N1cE6UBkoURbaYf_bV8l66cCyotSJU2og?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+    "description": "営業が得意な𝔸𝕀屋｜即効性のある時短術を発信中｜𝔸𝕀と𝐗に人生を捧げる30代｜ 起きて3秒で𝐗｜元光系ベンチャー企業の営業担当役員｜𝐅𝐏1級｜𝔸𝕀 × 𝐗のサロン運営｜𝐗運用代行｜お仕事のご依頼はDMまでお願いいたします",
+    "protected": false,
+    "verified": true,
+    "followers_count": 12534,
+    "friends_count": 159,
+    "listed_count": 86,
+    "favourites_count": 15538,
+    "statuses_count": 7164,
+    "created_at": "2012-08-19T15:34:10.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/767752746/1770177354",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2034682008258113536/gUC3ReAq_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 89,
+  "reply_count": 2,
+  "retweet_count": 218,
+  "favorite_count": 2013,
+  "views_count": 1839184,
+  "bookmark_count": 5294,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039909757793013760",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/WX8nk6H1IC"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T04:08:33.000000Z",
+    "id": 2039917950296363500,
+    "id_str": "2039917950296363450",
+    "title": "大尊敬するDeNA南場会長のAI活用術ヤバい",
+    "preview_text": "DeNA南場智子会長は、日本で一番AIを使いこなしている経営者かもしれません。",
+    "cover_url": "https://pbs.twimg.com/media/HE8-iZEbQAAG4HL.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3t9",
+          "text": "DeNA南場智子会長は、日本で一番AIを使いこなしている経営者かもしれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "10mtr",
+          "text": "約3,000名の従業員を抱える上場企業のトップが、自らPerplexityで相手企業をリサーチし、NotebookLMに情報を突っ込んで、タクシーの中でAIに質問している。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dikte",
+          "text": "この事実を知ったとき、僕は衝撃を受けました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8rgq",
+          "text": "この記事では、南場会長が実践しているAI活用術の全貌と、Perplexity×NotebookLMの具体的な使い方を徹底解説します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ascuo",
+          "text": "AIをまだうまく使いこなせていないビジネスパーソン、経営者の方は、ぜひ最後まで読んでみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "p3p6",
+          "text": "第1章：約3,000人の企業トップが、タクシーの中でAIと会話している",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7i84t",
+          "text": "南場智子さんは、DeNAの代表取締役会長です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ftks",
+          "text": "DeNAは『ポケポケ（Pokémon Trading Card Game Pocket）』や、ライブ配信の『Pococha』、タクシーアプリ『GO』を生み出した会社です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "49jrc",
+          "text": "この南場さんが、日本のトップ経営者の中でもずば抜けてAIを使いこなしています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ff8un",
+          "text": "2025年2月、南場さんは「DeNAはAIにオールインする」と宣言しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3cat6",
+          "text": "約3,000名いる現業部門をAIで効率化し、半分の人員で現業を維持・発展させる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ralc",
+          "text": "そして捻出された人員を新規事業に充てるという、かなり大胆な戦略です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fns1a",
+          "text": "そこから1年。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9baru",
+          "text": "2026年3月6日に開催された「DeNA AI Day 2026」で、南場さんは進捗を報告しました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ec48i",
+          "text": "結果はこうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dqgd5",
+          "text": "開発プロジェクトの一部では、95%の作業をAIが担い、人間は5%だけという状態になったそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "33okn",
+          "text": "これは生産性20倍に相当します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4qk0s",
+          "text": "法務のリーガルチェックでは90%の効率化。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3us5k",
+          "text": "QA（品質管理）は工数が半分に。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "52ldj",
+          "text": "ライブ配信サービス『Pococha』の配信審査コストは60%削減。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dp662",
+          "text": "数字がえげつないです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dabc8",
+          "text": "さらに、DeNAでは「AI活用百本ノック」という取り組みを行っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "468n2",
+          "text": "現場の社員が「AIをこう使って効率化した」という事例を次々と共有する仕組みです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3hbnj",
+          "text": "社内から200件以上の事例が集まり、それを毎日X（旧Twitter）でも公開していたそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 24,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dhsr4",
+          "text": "でも一番ヤバいのは、南場さん自身のAI活用です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vpu4",
+          "text": "南場さんは2026年に入ってから、DeNAのIT部門が社員として登録・トレーニングしたAIエージェント「レモン君」とSlackでやり取りしながら、毎日仕事をしています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eeilo",
+          "text": "レモン君はToDoリストの管理やリマインド、情報収集を自律的にやってくれるそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6dqf7",
+          "text": "Slackのグループチャットに参加させておくと、会話の流れを読んで「それは私が担当できます！」と手を挙げてくれることもあるとのこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7fu4",
+          "text": "南場さんは講演でこう言っていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aj64",
+          "text": "「毎朝のように喧嘩に近いやり取りをすることもある」と。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5o1eb",
+          "text": "AIエージェントと毎朝ケンカできるレベルで実務に向き合っている経営者が、日本にどれだけいるでしょうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8o788",
+          "text": "正直、この話を聞いて思いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 43,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bkcb6",
+          "text": "「経営者自身がAIに本気で向き合っていない会社にいることは、キャリアリスクになる」と。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8eiha",
+          "text": "これは僕の個人的な感想ではなく、実際にそういう論調がSNSでも広がっています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ebau2",
+          "text": "では、南場さんは具体的にどんなAIツールを使っているのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "jt7h",
+          "text": "次の章で全部公開します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dt5v",
+          "text": "第2章：南場会長のAI活用ツール7選。全部公開します",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "145pk",
+          "text": "南場さんは経営者という立場上、「現場で何か作り上げるというより、ミーティングがやたら多く、毎週毎週初めての方に会う」そうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7pv1t",
+          "text": "だからこそ、情報収集と準備の効率化にAIを徹底活用しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fho2",
+          "text": "南場さんが使っているツールを整理します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eln2m",
+          "text": "Perplexity AI → 初めて会う相手の情報をリサーチするために使っています。 Web記事、動画、SNSの発信まで網羅的に検索できるAI検索エンジンです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ihha",
+          "text": "NotebookLM → Perplexityで集めた記事や動画のURLをアップロードして、要約・質問に使っています。 Googleが提供するAIメモ・リサーチツールです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ce10p",
+          "text": "Circleback → AI議事録ツールです。 Web会議の内容を自動で記録・整理し、会議後すぐにToDoリストを出力させて「使い倒している」そうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35s30",
+          "text": "Deep Research → GoogleのAIリサーチサービスです。 投資の判断で下調べをしてから、ミーティングに臨むために使っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8pp52",
+          "text": "ChatGPT → 社内対応や文章構成、アイデア出しに活用。 メール文案の下書きからインタビュー案の仮構成まで、幅広く使っているそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1qom",
+          "text": "Create XYZ → AIでWebサイトを簡単に構築できるツールです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhu6e",
+          "text": "Cursor / Devin → AIエージェントによる開発ツールです。 南場さん自身は「コードを書くわけではないが、ちょっと勉強したら自分でシステムを作れるかもしれない」と関心を示しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjkvm",
+          "text": "ここで注目してほしいのは、南場さんが1つのAIに依存していないということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68sp9",
+          "text": "用途ごとにツールを使い分けている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5q7h",
+          "text": "情報収集はPerplexity。 情報整理はNotebookLM。 会議の記録はCircleback。 深い調査はDeep Research。 文章やアイデア出しはChatGPT。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7c3kf",
+          "text": "この「使い分け」の発想が、AI活用の質を決定的に高めています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "55d5v",
+          "text": "僕自身もChatGPT・Gemini・Claudeの3つに課金して使い分けていますが、南場さんの使い分けはさらに洗練されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qi92",
+          "text": "では次の章から、南場さんの活用術の中でも特にインパクトが大きい「Perplexity × NotebookLM」の連携を深掘りしていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7qnqr",
+          "text": "第3章：Perplexityとは？Google検索が時代遅れに感じる「AI検索エンジン」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c88l1",
+          "text": "Perplexityは、AI搭載の検索エンジンです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "11orp",
+          "text": "Google出身のAIエンジニアたちが創業した会社が開発しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsqfq",
+          "text": "何が従来のGoogle検索と違うのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1rq7a",
+          "text": "Google検索は「キーワードを入れると、関連するWebページのリンクが並ぶ」仕組みです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "64sdo",
+          "text": "そこから自分でページを開いて、読んで、情報を取捨選択する必要があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qvjq",
+          "text": "Perplexityは違います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fofn",
+          "text": "質問を入れると、Web上の複数の情報源を横断的に調べて、回答を文章でまとめてくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3pumv",
+          "text": "しかも、回答の根拠となったソース（出典元のURL）が明示されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "46rpm",
+          "text": "「この情報はどこから来たの？」がすぐわかる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "71tc3",
+          "text": "だから、嘘かどうかを自分で確認できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "488ha",
+          "text": "僕はAIを使う上で、ハルシネーションの排除を一番重視しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ee1kb",
+          "text": "その点、Perplexityは出典付きで回答してくれるので、ファクトチェックが圧倒的に楽です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bvcho",
+          "text": "南場さんは、初めて会う人の情報をPerplexityで検索しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "didgc",
+          "text": "相手の名前を入れると、その人に関するWeb記事、講演動画、SNSの発信がまとめて出てきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1s23",
+          "text": "具体的なプロンプト例の紹介です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9i2ra",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4j3ft",
+          "text": "このプロンプトのポイントは「出典URLも付けてください」と明記していることです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6d956",
+          "text": "Perplexityはデフォルトでも出典を表示しますが、明示的に指示することで、より丁寧にソースを提示してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ao9pv",
+          "text": "Perplexityは無料で使えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5o6gr",
+          "text": "アカウント登録なしでも基本的な検索は可能です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "74jsj",
+          "text": "まずは試しに、明日会う予定の人の名前を入れてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evus2",
+          "text": "Google検索では30分かかっていた情報収集が、5分で終わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1q52",
+          "text": "第4章：NotebookLMとは？「嘘をつかないAI」がビジネスを変える理由",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "86oca",
+          "text": "NotebookLMは、Googleが提供するAIツールです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jo5g",
+          "text": "ChatGPTやGeminiとは、根本的に違うツールです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ul0g",
+          "text": "何が違うか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94o1g",
+          "text": "ChatGPTやGeminiは、「何でも答えようとするAI」です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhc1f",
+          "text": "学習データの中から、もっともらしい回答を生成します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eo2vr",
+          "text": "だから、たまに嘘をつきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "999gu",
+          "text": "ハルシネーションが起きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "agge9",
+          "text": "NotebookLMは、「ソースグラウンデッド」という設計思想で作られています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fmu31",
+          "text": "これは「ユーザーがアップロードした資料の中だけから回答を生成する」という意味です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vm6u",
+          "text": "自分が入れた資料以外のことは、基本的に推論しません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5bj0i",
+          "text": "しかも、すべての回答に引用元のリンクが付きます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5j0f1",
+          "text": "「Source 3の第2段落によると…」という形で、どこの情報を根拠にしているかが明示されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2242n",
+          "text": "つまり、ファクトチェックが一瞬で終わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7j9sk",
+          "text": "僕が過去に書いたGeminiの記事でもNotebookLMを紹介しましたが、改めて強調します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 54,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "819mn",
+          "text": "NotebookLMは、2026年時点でGoogleのAIエコシステムの中で一番過小評価されているツールです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8krg8",
+          "text": "では、何をアップロードできるのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6cldv",
+          "text": "対応しているファイル形式はこれだけあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5dj67",
+          "text": "PDF、Googleドキュメント、Googleスライド、Googleスプレッドシート、テキストファイル、Word文書（.docx）、WebサイトのURL、YouTube動画のURL、音声ファイル、EPUBファイル（電子書籍）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3lh1p",
+          "text": "ほぼ何でも入れられます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rkup",
+          "text": "2026年3月時点のNotebookLMは、3パネル構成に刷新されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a35ov",
+          "text": "ソースを追加→ ここに資料をアップロードします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dj0dk",
+          "text": "チャットパネル欄→ ここでソースに対して質問します。要約、比較、分析、何でも聞けます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ghg6",
+          "text": "音声解説 → ここがすごいです。ボタン1つで以下を自動生成してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ro8k",
+          "text": "動画解説→ 資料の内容を、ナレーション付きの映像コンテンツとして自動生成します。 2026年3月には、映像のクオリティがさらに上がったCinematic Video Overviewも追加されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96kth",
+          "text": "インフォグラフィック → 資料の内容をビジュアルに要約してくれます。 Googleの画像生成モデルNano Banana Proが搭載されていて、日本語テキストも正確に表現できます。 10種類のプリセットスタイルが用意されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c4bn9",
+          "text": "スライド資料 → プレゼン用のスライドを自動で作ってくれます。 PPTXエクスポートにも対応しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9cgps",
+          "text": "フラッシュカードとクイズ → 資料の内容を自動でフラッシュカードに変換します。 4択クイズも自動生成されます。 進捗の保存、正解/不正解の記録、シャッフル機能もあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2mh5r",
+          "text": "マインドマップ → 概念の関係性を可視化してくれます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4njpm",
+          "text": "これ全部、資料をアップロードしてボタンを押すだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56p4v",
+          "text": "無料で使えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7bfd8",
+          "text": "Googleアカウントがあれば、今すぐ始められます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5kgr4",
+          "text": "では次の章で、南場さんが実践している「Perplexity → NotebookLM」の連携ワークフローを具体的に解説します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7gngu",
+          "text": "ここが記事の核心です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8slsf",
+          "text": "第5章：南場流「Perplexity × NotebookLM」連携術。商談準備を10分で終わらせる方法",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a2ejo",
+          "text": "南場さんのワークフローを、僕なりに再現可能な形にまとめました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vp6g",
+          "text": "南場さんは経営者として毎週毎週、初めての方に会うそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8usd2",
+          "text": "そのとき、相手の情報を事前にインプットしておくことで、会話の質が圧倒的に上がります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ft3gj",
+          "text": "南場さんの方法はこうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1h16u",
+          "text": "ステップ1 → Perplexityで、相手の名前や会社名を検索します。 相手に関するWeb記事、動画、SNSの発信がリストアップされます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aa9ec",
+          "text": "ステップ2 → Perplexityが見つけてきた記事や動画のURLをコピーします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a9sh4",
+          "text": "ステップ3 → NotebookLMで新しいノートブックを作成し、コピーしたURLをソースとしてアップロードします。 NotebookLMはWebサイトのURLもYouTube動画のURLも直接読み込めます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hn2",
+          "text": "ステップ4 → NotebookLMのチャットパネルで、相手について質問します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "640a4",
+          "text": "南場さんはこう語っています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ursk",
+          "text": "「行きのタクシーの中、チャットで『この方はトランプ政権についてどう考えているか』『スタートアップエコシステムについてどう考えているか』などに答えてもらえる」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dvo0g",
+          "text": "つまり、移動時間中にAIと対話しながら、相手の考え方や関心事を高速でインプットしているわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9f1ah",
+          "text": "このワークフローを、自分の仕事に当てはめてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b9e1",
+          "text": "営業マンの場合。 → 商談前にクライアントの最新ニュース、決算情報、SNSでの発信をPerplexityで収集。 NotebookLMに入れて「この会社の直近の課題は何か？」と質問。 商談の提案内容を、相手の課題にぴったり合わせられます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "784s6",
+          "text": "採用担当者の場合。 → 面接前に候補者のLinkedIn、過去の記事、登壇動画をPerplexityで検索。 NotebookLMに入れて「この方の専門領域と関心テーマは？」と質問。 面接の質が劇的に上がります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f10qu",
+          "text": "フリーランスの場合。 → 新規クライアントとの初回ミーティング前に、相手の事業内容と最近の動きをPerplexityで調査。 NotebookLMで整理して「この企業の強みと、現在の市場ポジションは？」と質問。 提案書の精度が上がります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3lvsk",
+          "text": "NotebookLM用のプロンプト例の紹介です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ep2u1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ct10",
+          "text": "何十個に及ぶ資料を読む必要はないです。そんな読む時間はないですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d608n",
+          "text": "でもNotebookLMに入れてこのプロンプトを打てば、3分で全体像を把握できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31dqb",
+          "text": "さらに深掘りしたいところがあれば、追加で質問すればいいだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6q8qh",
+          "text": "音声解説を使えば、通勤電車の中でイヤホンで聴くこともできます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fsa5q",
+          "text": "ここまでの内容で、Perplexity × NotebookLMの連携がどれだけ強力かが伝わったと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmdl9",
+          "text": "では次の章で、それぞれの料金を整理します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fioag",
+          "text": "結論から言うと、どちらも無料で始められます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9euj4",
+          "text": "第6章：NotebookLMの料金と始め方。無料でここまでできます",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "es8lm",
+          "text": "NotebookLMの料金を整理します。 2026年4月時点の情報です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3tbud",
+          "text": "無料版 → Googleアカウントがあれば誰でも使えます。 ノートブックは100個まで作成できます。 1つのノートブックにつき、ソース（資料）は50個まで指定できます。 AIへの質問は1日50回まで。 音声要約の生成は1日3回まで。 個人の学習やライトな情報整理なら、無料版で十分です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5etr5",
+          "text": "Pro版（Google One AI Premiumプラン経由） → 月額約2,900円です。 NotebookLM単体のサブスクリプションではなく、Google One AI Premiumというプランに含まれる形で提供されています。 ソースが300個/ノートブックに増えます。 チャットは1日500回以上。 音声生成は1日20回以上。 業務で大量の資料を扱う人には、Pro版がおすすめです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c35u1",
+          "text": "Enterprise版 → 企業向けのプランです。 1ユーザーあたり月額約9ドル（年払いの場合は割引あり、最低15ライセンスからの契約が一般的）。 入力データがAIの学習に利用されない鉄壁のセキュリティが特徴です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8m059",
+          "text": "始め方は簡単です。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "notebooklm.google",
+                "toIndex": 17
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fatar",
+          "text": "notebooklm.google にアクセスします",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jgna",
+          "text": "Googleアカウントでログインします",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c382a",
+          "text": "「ノートブックを新規作成」をクリックします",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "164je",
+          "text": "要約したい資料やURLをアップロードします",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8kojp",
+          "text": "チャットパネルで質問を入力します",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2c5ke",
+          "text": "5分で始められます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88go3",
+          "text": "まずは無料版で、手元にあるPDF1つを読み込ませてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6pa8a",
+          "text": "「自分の資料とAIが会話できる」という体験に驚くはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmmo3",
+          "text": "第7章：Perplexityの料金と始め方。無料版と有料版の違い",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9tdne",
+          "text": "Perplexityの料金も整理します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3dss4",
+          "text": "無料版 → アカウント登録なしでも使えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3j1o",
+          "text": "基本的な検索は無制限です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "clpf6",
+          "text": "Pro Search（より深い調査をしてくれる高精度検索）は、1日数回まで利用できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5onk5",
+          "text": "日常的な情報収集なら、無料版で十分使えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4nbl1",
+          "text": "Pro版 → 月額20ドル（約3,000円）です。 年払いだと200ドル（月あたり約16.7ドル）になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eurao",
+          "text": "Pro Searchが1日300回以上に拡張されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fumiq",
+          "text": "ファイルアップロード（PDF等）が無制限になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eehk7",
+          "text": "AI画像生成も使えます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "an3v5",
+          "text": "Max版 → 月額200ドルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cb1d6",
+          "text": "最新のAIモデルへの無制限アクセス、新機能への先行アクセス、優先サポートが提供されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3pb35",
+          "text": "毎日リサーチ業務をするプロフェッショナル向けです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5011v",
+          "text": "Enterprise Pro版 → 1ユーザーごとに月額40ドルです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f0t8d",
+          "text": "セキュリティ強化と、検索クエリが7日後に自動削除される機能が実装されています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3q6fg",
+          "text": "始め方はもっと簡単です。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 0,
+                "text": "perplexity.ai",
+                "toIndex": 13
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "38ov1",
+          "text": "perplexity.ai にアクセスします",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1sl2v",
+          "text": "検索窓に質問を入力します",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7rat",
+          "text": "これだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evbuh",
+          "text": "アカウント登録すら不要で、すぐに使い始められます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4p93n",
+          "text": "まずは「自分の名前」で検索してみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bf9t9",
+          "text": "Web上にある自分に関する情報が、どれだけ整理されて出てくるかを体感できます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9oq6s",
+          "text": "第8章：「LLMは無慈悲」。南場会長が語るAI時代の生存戦略",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "736q6",
+          "text": "2026年3月のDeNA AI Day 2026で、南場さんはかなり踏み込んだ発言をしています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2kkkt",
+          "text": "ここでは、AIを使いこなしたいビジネスパーソンにとって重要なメッセージをいくつか紹介します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b6d0h",
+          "text": "「中途半端な専門性では一撃で淘汰される」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b0f46",
+          "text": "これは、AIの基盤モデル（OpenAIやGoogle、Anthropicなど）を作っている企業の競争について語った言葉です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "87e2k",
+          "text": "彼らは数十兆円規模の資金を投じて、獲得できる領域はすべて取りに行くスタンスだと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 63,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9m330",
+          "text": "だから「ちょっとAIに詳しい」「ちょっとプログラミングができる」程度の中途半端な専門性は、一瞬で意味がなくなるということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bli1t",
+          "text": "「プロンプトエンジニアリングの時代は終わった」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4r6mc",
+          "text": "南場さんはAI活用技術の変遷をこう整理しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "104dt",
+          "text": "まず「プロンプトエンジニアリング」の時代がありました。 AIへの指示の書き方が重要だった時代です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c1ie",
+          "text": "次に「コンテキストエンジニアリング」の時代。 RAG（検索拡張生成）などを使って、いかに背景情報をAIに教え込むかが重要でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9kabk",
+          "text": "そして今は「エンバイロメント（環境）エンジニアリング」の時代だと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7enqg",
+          "text": "AIエージェントが自ら情報を取りに行く時代になったので、「AIがどこまで見ていいか」「どんな行動を許可するか」というガードレールの設計が重要になっているということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8c8sq",
+          "text": "「スピード感のないプロダクトに、参戦資格はない」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "s7am",
+          "text": "AIによって開発スピードが劇的に向上した結果、今の瞬間のUI/UXが優れているだけでは意味がなくなったと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1nlv",
+          "text": "競合との差異に気づいた瞬間に修正する。 顧客のニーズとのズレが生じれば、その場で直す。 新しいAIツールが出たら、即座に使い倒す。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1s0v6",
+          "text": "このサイクルを高速で回し続けられるかどうかが、勝敗を分ける。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cqqrr",
+          "text": "南場さんはこれを「ベロシティ（速度）」という言葉で表現していました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmm0v",
+          "text": "これらの発言から僕が感じるのは、「AIを使わない理由」がもう存在しないということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9o0jo",
+          "text": "AIの進化は待ってくれません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bflkc",
+          "text": "でも、だからこそ逆にチャンスでもあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7rhek",
+          "text": "南場さんが使っているPerplexityもNotebookLMも、無料で始められます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jof9",
+          "text": "今日、この記事を読んだ今がスタートラインです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "41koh",
+          "text": "第9章：まとめ。今日からできるAI活用3ステップ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ehs8u",
+          "text": "ここまで読んでいただいた方は、南場会長のAI活用術の全体像が頭に入っているはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ef0ip",
+          "text": "改めて、今日からできることを3つのステップにまとめます。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 22,
+                "text": "perplexity.ai",
+                "toIndex": 35
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "21mtn",
+          "text": "ステップ1 → Perplexity AI（perplexity.ai）にアクセスして、明日会う予定の人の名前を検索してください。 出典付きで情報がまとまって出てきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 19,
+                "text": "notebooklm.google",
+                "toIndex": 36
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "394nr",
+          "text": "ステップ2 → NotebookLM（notebooklm.google）にアクセスして、Perplexityで見つけた記事のURLをアップロードしてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6l2s4",
+          "text": "ステップ3 → NotebookLMのチャットで「この方の最近の関心テーマと、ミーティングで触れると良い話題を教えてください」と質問してください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1q5or",
+          "text": "この3ステップで、商談や会議の準備が劇的に変わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9grit",
+          "text": "南場さんのように「タクシーの中でAIと会話しながら準備する」という働き方は、もう特別なことではありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4215d",
+          "text": "誰でも、今日から、無料で始められます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ugab",
+          "text": "僕はベンチャー企業で15年間働いていた時代、毎日何件もの商談や会議を回していました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ds30",
+          "text": "あの頃にこの方法を知っていたら、間違いなく使い倒していたと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cq7mp",
+          "text": "「まず触ること」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4v11p",
+          "text": "触らないと何も始まりません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ojil",
+          "text": "今日、Perplexityに1回質問を投げてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cquqc",
+          "text": "NotebookLMにPDFを1つ読み込ませてみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "erv0p",
+          "text": "5分後には「もっと早く知りたかった」と思っているはずです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "es40l",
+          "text": "最後までお読みいただき読んでいただきありがとうございました！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "esf0t",
+          "text": "僕は、こういった「AIを使って、仕事を爆速で終わらせるノウハウ」を毎日発信しています！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "epqmc",
+          "text": "AIを本気で使いこなしたい方は、ぜひフォローをお願いします！",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 0,
+                "text": "Hoshino_AISales",
+                "toIndex": 16
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6lkg4",
+          "text": "@Hoshino_AISales",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c7on5",
+          "text": "またオープンチャットを始めました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5m6m",
+          "text": "オープンチャットではXでは語らない『AI×X』でマネタイズするための方法を配信していきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6un75",
+          "text": "XではAIのノウハウの発信はしているがAIを使った具体的なマネタイズ方法を発信してる人は少ないです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fdhec",
+          "text": "こちらでは僕が『AI×X』でどのようにマネタイズしてるのか詳細を解説していきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7md0",
+          "text": "フォロワー数が増えてもマネタイズできないと意味がありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 24,
+                "text": "https://line.me/ti/g2/LmLu1N1cE6UBkoURbaYf_bV8l66cCyotSJU2og?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+                "toIndex": 148
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 124,
+              "offset": 24
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bp9f2",
+          "text": "オープンチャット「AI×Xマネタイズ徹底攻略」 https://line.me/ti/g2/LmLu1N1cE6UBkoURbaYf_bV8l66cCyotSJU2og?utm_source=invitation&utm_medium=link_copy&utm_campaign=default",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "markdown": "```\n[相手の名前] [会社名] について、以下の情報を教えてください。\n\n1. 最新のメディア記事やインタビュー（直近1年以内）\n2. 講演やイベントでの発言内容\n3. SNS（X、LinkedIn等）での発信テーマ\n4. 現在注力している事業やプロジェクト\n5. 業界内での評判やポジション\n\nそれぞれ、出典URLも付けてください。\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "markdown": "```\nアップロードした資料の要点を、以下の形式で要約してください。\n\n・全体の概要（3行以内）\n・重要ポイント（箇条書きで5つ）\n・次に取るべきアクション（3つ）\n```"
+            },
+            "mutability": "Mutable",
+            "type": "MARKDOWN"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://line.me/ti/g2/LmLu1N1cE6UBkoURbaYf_bV8l66cCyotSJU2og?utm_source=invitation&utm_medium=link_copy&utm_campaign=default"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

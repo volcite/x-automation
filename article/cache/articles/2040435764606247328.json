@@ -1,0 +1,383 @@
+{
+  "tweet_created_at": "2026-04-04T14:26:10.000000Z",
+  "id": 2040435764606247400,
+  "id_str": "2040435764606247328",
+  "type": "tweet",
+  "conversation_id_str": "2040435764606247328",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/PEQbEeoS2O",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1639262813246857200,
+    "id_str": "1639262813246857217",
+    "name": "宴",
+    "screen_name": "utage_utauta",
+    "location": "",
+    "url": "https://lit.link/utagedesu",
+    "description": "思考を整理するアカウントISTJ-A/6w5/△612/Ti-LSI(N)/so/sp/RCOEN 日常ｱｶ@syoen_utauta\nPola診断:https://t.co/vos24vbm3J",
+    "protected": false,
+    "verified": true,
+    "followers_count": 13231,
+    "friends_count": 308,
+    "listed_count": 78,
+    "favourites_count": 2029,
+    "statuses_count": 9199,
+    "created_at": "2023-03-24T13:48:14.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639262813246857217/1727072192",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1887897086131359744/IBY0eTUy_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 49,
+  "reply_count": 4,
+  "retweet_count": 191,
+  "favorite_count": 3113,
+  "views_count": 278897,
+  "bookmark_count": 1945,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040433377678123008",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/PEQbEeoS2O"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T14:26:10.000000Z",
+    "id": 2040435764606247400,
+    "id_str": "2040435764606247328",
+    "title": "NF型を褒める「対人関係の強み編」",
+    "preview_text": "4月なのでヘッダーを春バージョンにしてみました。桜の舞うNF型たち。映えますね。いかがお過ごしでしょうか。まだ冷える日もあるので温かい飲み物でも飲んで、体に優しく過ごしてまいりましょう。",
+    "cover_url": "https://pbs.twimg.com/media/HFETpPca0AAQnGp.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5qqu9",
+          "text": "4月なのでヘッダーを春バージョンにしてみました。桜の舞うNF型たち。映えますね。いかがお過ごしでしょうか。まだ冷える日もあるので温かい飲み物でも飲んで、体に優しく過ごしてまいりましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7djm7",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4f2je",
+          "text": "今回も前回に引き続き、NF型を褒めていきます。今回は「対人関係の強さ」というテーマにフォーカスして執筆しました。褒めであり分析であり、考察であり、私が関わってきたNF型を観察した感想です。では、今回もよろしくお願いします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6idva",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dunpk",
+          "text": "ENFP",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8d8bq",
+          "text": "「初対面の突破力」が強い",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "db55d",
+          "text": "ENFPは明るいとか、人懐っこいとか言われる。それは正しいんだけど、表面の話で終わってしまっているように感じる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "88sie",
+          "text": "自分が思うENFPの本当の強みは、初対面の壁を壊す速度と、その後に残る印象の質が両立していること。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "evccf",
+          "text": "明るいだけなら他にもいる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nqli",
+          "text": "でもENFPは初対面で「この人、自分のことを面白いと思ってくれてる」という感覚を相手に与えるのが上手い。実際に思っているから嘘くさくない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "n7ch",
+          "text": "Neが相手の話の中に可能性を見つけて、それに本気で反応する。その反応が本物だから、相手の自己開示が早まる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "38l9l",
+          "text": "結果として、短時間で深い関係に見える状態が作られる。営業でも交渉でも、最初の印象で決まる場面でENFPは構造的に有利だ。愛嬌で勝っているんじゃなくて、相手の可能性を引き出す設計になっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e1169",
+          "text": "INFP",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "26u5a",
+          "text": "「否定しない」が、相手の自己開示を最大化する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6p7h",
+          "text": "INFPと話すと、気づいたら普段言わないことを話している、という経験をした人は多いと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8pe7f",
+          "text": "あれはINFPが聞き上手だからというより、心理機能の話のように感じる。Fiが強いということは、自分の内側に確固たる価値観の軸がある。その軸があるから、相手の価値観がどれだけ違っても、否定する必要がない。「あなたはそう感じるんだ」をそのまま受け取れる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1vri9",
+          "text": "評価されない安心感、というのが一番近い。話した内容を採点されている感じがしないから、相手の自己開示のブレーキが外れていく。INFPに話すと楽になる、と言われるのはそのためで、特別な技術を使っているわけじゃない。存在の構造がそうなっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpm8g",
+          "text": "対人関係において「相手が本音を話せる場所」になれる人間は少ない。気を遣われているのか、本当に受け入れられているのかは、話している側には伝わる。INFPの場合は後者だから、信頼の深さが違う。時間をかけずに核心まで到達できる、という意味で対人の強さがある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5tfsr",
+          "text": "ENFJ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "aqf40",
+          "text": "「相手が気づいていない欲求」を先に動いて満たす",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2lca4",
+          "text": "ENFJの対人関係における強みは、先読みの精度の高さだと思っている。これは反応速度の速さという話ではない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "59hf8",
+          "text": "相手が「これが欲しい」と言語化する前に動いている場面を、ENFJと関わっているとよく見る。会議で発言できていない人に話を振るのも、落ち込んでいる人に連絡を入れるのも、タイミングがいつも少し早い。求められてから動くんじゃなくて、求められる前に動いている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bghnm",
+          "text": "FeとNiの組み合わせがそれを可能にしているような。相手の感情状態をリアルタイムで処理しながら、その人がこの先どういう状態になるかを直感で掴んでいる。だから介入のタイミングが早い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8j7rc",
+          "text": "対人関係において「求められる前に動ける」人間は、信頼の蓄積速度が違う。助けてもらった側は「なんでわかったんだろう」という感覚を持つ。その積み重ねが、ENFJへの信頼の深さになっていく。意図してやっているわけじゃないのに、関係の密度が自然と上がっていく。これがENFJの構造的な強さだと思っている。​​​​​​​​​​​​​​​​",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3r7tq",
+          "text": "INFJ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7venu",
+          "text": "「言葉にならない不安」を拾える",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53imm",
+          "text": "対人関係においてINFJが持っている強みで、あまり語られないのがこれだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kvh4",
+          "text": "相手が「なんか最近しんどくて」と言ったとき、たいていの人はその言葉に反応する。でもINFJは言葉より先に、その人の状態を受け取っている。しんどい、という言葉が出てくる前から、何かが変わったことに気づいている。だから返しが早いし、的外れにならない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "83gm7",
+          "text": "Niが表面じゃなくて構造を掴もうとしているから、言語化されていない部分にアクセスできる。Feがそれを感情軸で処理するから、出てくる言葉が「分析」じゃなくて「寄り添い」になる。この組み合わせが、対人関係において唯一無二の動き方を生んでいる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2a0am",
+          "text": "相手が言葉にできていない不安や迷いを、先に言語化してあげられる人間は少ない。普通は相手が話してくれるのを待つか、的外れな励ましをするかのどちらかになる。INFJはその手前で動ける。「なんでわかったの」と言われる場面が多いのは、そのためだ。信頼はそういう積み重ねで作られていく。​​​​​​​​​​​​​​​​",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dot1l",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

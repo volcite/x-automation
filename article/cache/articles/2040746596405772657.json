@@ -1,0 +1,1593 @@
+{
+  "tweet_created_at": "2026-04-05T11:01:18.000000Z",
+  "id": 2040746596405772500,
+  "id_str": "2040746596405772657",
+  "type": "tweet",
+  "conversation_id_str": "2040746596405772657",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/OlI7FJZGwc",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1972063112477266000,
+    "id_str": "1972063112477265922",
+    "name": "ゆるんぼ",
+    "screen_name": "yurunbo",
+    "location": "",
+    "url": null,
+    "description": "偏差値30の中卒がAI半自動化で\nフォロワー200人でも 500万売りました。\n沼らせテクでフォロワー1600人で累計6000万超え。SNSマーケが趣味のガチ勢⇒ポロリ専用アカ(@yurunbosab)",
+    "protected": false,
+    "verified": true,
+    "followers_count": 1240,
+    "friends_count": 430,
+    "listed_count": 13,
+    "favourites_count": 6484,
+    "statuses_count": 4648,
+    "created_at": "2025-09-27T22:17:48.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972063112477265922/1773224616",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1983835086081683456/zV6KXEcN_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 190,
+  "reply_count": 60,
+  "retweet_count": 177,
+  "favorite_count": 1412,
+  "views_count": 529277,
+  "bookmark_count": 2742,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040706835179569152",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/OlI7FJZGwc"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T11:01:18.000000Z",
+    "id": 2040746596405772500,
+    "id_str": "2040746596405772657",
+    "title": "【保存版】2日間でXのアルゴリズムが激変。データで解析した「今バズる投稿」の正体",
+    "preview_text": "【この記事の結論を先に言います】\n\n・「いいね」や「リプ」だけ集めても、伸びません。\n↑これ、全部データに基づいてます。\nブクマ推奨。あとで絶対見返したくなります。\nこの記事１日で４４万バズでたので",
+    "cover_url": "https://pbs.twimg.com/media/HFIagI4bgAAxDP2.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8teo1",
+          "text": "【この記事の結論を先に言います】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8jcq5",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2id2",
+          "text": "・「いいね」や「リプ」だけ集めても、伸びません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8eqg6",
+          "text": "↑これ、全部データに基づいてます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6mul",
+          "text": "ブクマ推奨。あとで絶対見返したくなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmvtf",
+          "text": "この記事１日で４４万バズでたので",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eddkq",
+          "text": "続編書いてます！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8gedg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "20l6f",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12apl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4lena",
+          "text": "ここ2日で𝕏の「しくみ」、絶対変わりましたよね？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eqm47",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5i6fr",
+          "text": "ゆるんぼアカは今日で運用26日目、フォロワー970人。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1c24k",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ts6e",
+          "text": "1ヶ月以内にフォロワー1000人を目指してて、ずっと2日で100人ペースで増えてたのに、ここ2日、増えては減っての繰り返しで マジで増えない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kqde",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "87ikk",
+          "text": "この日から悲劇が始まった。。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3mf8h",
+          "text": "",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1j3tf",
+          "text": "",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "79lrg",
+          "text": "数字で見ると一目瞭然です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2mtde",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3veu6",
+          "text": "【いつも（〜4月2日頃まで）】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9519v",
+          "text": "・リプ 20〜30",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12di",
+          "text": "・いいね 40〜50",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3u0kg",
+          "text": "・インプ 2,000〜6,000",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9bc2s",
+          "text": "・通知ONしてくれてる方が多いから、だいたい最初の30分で10件前後はリプがくる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70ktr",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b85f",
+          "text": "【ここ2日（4月3日〜）】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fi88",
+          "text": "・リプ・いいね・最初の反応はほぼ変わらない",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "arbj",
+          "text": "・インプだけ 1,000〜2,000で止まる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29su1",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fmjo",
+          "text": "自分の投稿の質は変わってないのに、インプだけ落ちてる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f42k",
+          "text": "これってXのルール側が変わったんだと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73fdj",
+          "text": "同じ１行ポストでも、たった1週間でここまで差が出る。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2m6c",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "42tbk",
+          "text": "4/4 いいね70、リプ25、インプ1050でカス過ぎる。（笑）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ff0s6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "17rp1",
+          "text": "3/28 いいね57、リプ12、インプ1.9万",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cv270",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7hl3k",
+          "text": "10行以内の似た内容の短文ポストでも、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "3skd2",
+          "text": "4/4 いいね93、リプ23、インプ2375",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2ph49",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 16,
+              "style": "Bold"
+            }
+          ],
+          "key": "980n9",
+          "text": "3/30 いいね90、リプ30、インプ1.5万",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d73fk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 7,
+              "offset": 17,
+              "style": "Bold"
+            }
+          ],
+          "key": "42r77",
+          "text": "3/28 いいね131、リプ31、インプ2.4万",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1cgd7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9pged",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fco2c",
+          "text": "てこと調べてみた！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c68h5",
+          "text": "氷祭りでフォロワーさんが減ったのもありますが、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cbucb",
+          "text": "通知ONですぐ反応してくれる方も多く、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flfv5",
+          "text": "いいねやリプをいつもくれるメンバーはまり変わりません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8nl5a",
+          "text": "「万越えの投稿は少し前の投稿だからじゃない？」って声も聞こえてきそうですが初速のインプの伸びが明らかに違いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "98lkq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fkkg",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8s2ba",
+          "text": "ここからが本題。Xのアルゴリズム、何が変わったのか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kadn",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6g5sn",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9to34",
+          "text": "まず「アルゴリズム」って何？って人へ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9eija",
+          "text": "簡単に言うと「どの投稿を誰に見せるか決めるXのルール」のこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nv3d",
+          "text": "このルールが変わると、同じ投稿をしても見てもらえる人数がガラッと変わります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bm497",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50ice",
+          "text": "「インプ（インプレッション）」というのは「何人に投稿が表示されたか」の数のこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24j57",
+          "text": "𝕏は2026年1月に、「Grok（グロック）」というAIを使った新しいしくみに切り替わってます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ajpl",
+          "text": "GrokというのはXが作ったAIのこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dufuu",
+          "text": "このAIが全部の投稿を自動でチェックして、「この人に見せる価値がある投稿かどうか」を判断してます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9n32h",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4n2rl",
+          "text": "そのしくみの中に「Phoenix（フェニックス）」という部品があって、自分がフォローしていない人の投稿をあなたのおすすめに表示するかどうかを決める役割を担ってます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6oe5t",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "92s5e",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3a2g3",
+          "text": "【重要】各アクションの「影響力」はこれだけ違う",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48t9p",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "armkm",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjnc2",
+          "text": "これまでは「いいね数」が一番重要だったけど、今はこう変わったみたいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9umug",
+          "text": "【アクションの「重さ」のちがい（目安）】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "10glt",
+          "text": "・RT（リポスト）→ いいねの約20倍の影響力",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "52oe",
+          "text": "・リプライ → いいねの約10〜12倍の影響力",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f8q63",
+          "text": "・ブックマーク →いいねの約13〜27倍の影響力",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bgngm",
+          "text": "・いいね → 1倍（基準）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b448i",
+          "text": "※この数字は複数の解説サイトで紹介されている目安です。Xの公式コードには具体的な数値の記載はなく、ソースによって多少ちがいます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a662c",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8eib8",
+          "text": "ただ「いいね＜リプ＜RT＜ブクマ」の順で影響が大きいという方向性は、ほぼ共通しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2bfp1",
+          "text": "つまり「いいね」だけもらってもインプを伸ばす力はほとんどないということ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "umkd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6gj63",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "39a63",
+          "text": "Grok翻訳の導入で、日本語投稿の競争環境が激変",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "691jv",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "frjnq",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "daqcl",
+          "text": "さらに3月29日にイーロン・マスクが発表して、3月30日から日本ユーザーにもGrokのAI自動翻訳が本格スタートしました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fs3o2",
+          "text": "これって何かというと、日本語の投稿が自動で英語などに翻訳されて、海外ユーザーのおすすめにも流れるようになったってこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7fnh9",
+          "text": "逆に海外の投稿も日本語に翻訳されて自分のタイムラインに流れてくるようになりました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3irgp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cuf3g",
+          "text": "これで世界中の投稿がまざるようになったから、日本人どうしの投稿がおすすめに出にくくなった可能性があります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a174g",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cnlq",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cd2no",
+          "text": "「セッション深度」という新しい評価基準",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2kn49",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eq95s",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ep60",
+          "text": "今のXは「セッション深度」っていうのを大事にしてます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ep20u",
+          "text": "むずかしい言葉ですが、簡単に言うと",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a1q2s",
+          "text": "「その投稿を見たあと、どれくらい長くXにいたか」のこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pbsn",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f5lfc",
+          "text": "・投稿を見てすぐ飽きてアプリを閉じた→低評価",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e8as3",
+          "text": "・投稿をきっかけにいろんな会話をしたり長文をじっくり読んだ→高評価",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9g0eo",
+          "text": "という感じでXに判断されます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7a746",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ho69",
+          "text": "だから短文ポストで「いいね」だけもらって そこで終わる投稿は、Xのしくみ的には「価値が低い」と判断される可能性が高い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2lkdr",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5lhll",
+          "text": "【結論】Xに「価値がある」と思ってもらいやすい投稿",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dumc",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enofi",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ftcv",
+          "text": "・リプが何往復もする投稿（会話が続く）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ah6bf",
+          "text": "・ブックマークされる投稿（あとで見返したくなる）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2vatj",
+          "text": "・X記事のような読み応えのある長文",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g34n",
+          "text": "・投稿してから最初の30分以内に会話が生まれている",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26iko",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2fgse",
+          "text": "ゆるんぼはブクマ狙いの投稿をしてなくて、ずっと短文ポストだったから、今のしくみとはあまり相性が良くなかったかも。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c5c45",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4bhc0",
+          "text": "「記事や長文が伸びるようになった」という声もTLで増えてきてるし、複数の調査・解説でもX記事（長文）が有利になってると言われてます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "952n9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1thhp",
+          "text": "（以前「公式コードにも書いてある」と書いてたんですが、正確には公式に数値の記載はなく、「長く読まれると高評価になる」という形で間接的に裏付けられてる感じです）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35ivl",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 19
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6pr1c",
+          "text": "だから今こうやって長文を書いてみました🤣",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "kp79",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f7gke",
+          "text": "あと気になってるのが、フォロワーからのリプとフォロワー以外からのリプでインプへの影響がちがうんじゃないか？ということ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ck17f",
+          "text": "これはまだ仮説の段階なのでこれから実験して確かめていきます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bd307",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1d5tq",
+          "text": "【注意】初期アカがやってはいけないこと",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "214fv",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "emg28",
+          "text": "かといって運用初期アカは、長文書いても興味を持たれないし、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ikjs",
+          "text": "初期アカにNGな〇〇感もでるから、ここの対策も試行錯誤してみます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eurq6",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dhff",
+          "text": "Xから収益化を目指したい人は記事書いてバズらせればいいですが、初期アカで記事でバズってフォロワー1000～1万人いても、他の投稿インプが100とかよく見ます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e10ib",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fpvp1",
+          "text": "私のフォロワーさんは自社コンテンツやアフィで収益化したいフォロワー1000人未満の人が多いですが、AIやバズりやすい記事でフォロワーを伸ばしても、ファン化ができる投稿づくりでないと、いくらばずらせても売れないです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7al4a",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "au2lt",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nsog",
+          "text": "じゃどうしたらいいのか？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9e9j3",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2a6eb",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e3685",
+          "text": "とりあえずこの記事を引用し長文で感想を書いてみて、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2mm85",
+          "text": "インプを確認してみてください。ｗ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8eau3",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6eqrr",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2i54q",
+          "text": "【今日からゆるんぼが実験する5つのアクション】",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1cfe1",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ehug",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3quou",
+          "text": "①長文ポストの反応を見る（この投稿が実験1本目！）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ao58j",
+          "text": "②X記事を使ってみる",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fto5",
+          "text": "③ブクマされやすい構成を意識する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "daume",
+          "text": "④投稿後30分以内のリプ対応を徹底する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "at376",
+          "text": "⑤「いいね」より「会話が生まれる投稿」を意識する",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24h3e",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1f69u",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1r306",
+          "text": "この投稿のインプがどうなるか、明日報告します。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "555q4",
+          "text": "気になる方はフォローと通知ONがおすすめです☆",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ths1",
+          "text": "運用1ヶ月以内にフォロワー1000人いきますように（笑）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 20
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "flpsi",
+          "text": "一緒にXを伸ばして爆稼ぎしちゃいましょ～😍",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "234vs",
+          "text": "━━━━━━━━━━━━━━",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d58rf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7ulrf",
+          "text": "この記事が役に立ったと思ったら、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85s9d",
+          "text": "「ブックマーク」と「引用RT」で応援してください！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 29
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4b593",
+          "text": "あなたの1アクションが、この記事をもっと多くの人に届きます🥹",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f979.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "9da5263f-87a6-44d9-85f5-b5461aab9a3a",
+              "tweetId": "2038483486022205894"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "4224cd2a-7ef2-43de-8ed8-a9f9e7c76e78",
+              "tweetId": "2037847836658905552"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f923.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "9bde9588-773f-452c-938a-4beaefdb8f5c",
+              "tweetId": "2040453428279980489"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "tweetId": "2041119347247313097"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "b570337f-a0b7-4111-8896-40ceabd0b28b",
+              "tweetId": "2037786892683636831"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f60d.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "15da228e-5ff9-41fd-a959-47142dbc7621",
+              "tweetId": "2040205454727631201"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

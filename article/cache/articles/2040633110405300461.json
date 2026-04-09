@@ -1,0 +1,215 @@
+{
+  "tweet_created_at": "2026-04-05T03:30:21.000000Z",
+  "id": 2040633110405300500,
+  "id_str": "2040633110405300461",
+  "type": "tweet",
+  "conversation_id_str": "2040633110405300461",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/v3nQMulxzI",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1266560205854175200,
+    "id_str": "1266560205854175232",
+    "name": "ヘルスの高木",
+    "screen_name": "grandherusu",
+    "location": "",
+    "url": null,
+    "description": "新しい世界に飛び込む勇気",
+    "protected": false,
+    "verified": true,
+    "followers_count": 14801,
+    "friends_count": 619,
+    "listed_count": 115,
+    "favourites_count": 234216,
+    "statuses_count": 53884,
+    "created_at": "2020-05-30T02:41:17.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1791065559574142977/l_da1eGw_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 311,
+  "reply_count": 25,
+  "retweet_count": 427,
+  "favorite_count": 2082,
+  "views_count": 5106043,
+  "bookmark_count": 973,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040609395860819968",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/v3nQMulxzI"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T03:30:21.000000Z",
+    "id": 2040633110405300500,
+    "id_str": "2040633110405300461",
+    "title": "40代独身が「狂う」という話",
+    "preview_text": "Xで「独身男女は40代になると狂う」が熱く議論されているので、私見を述べたくなり記事を書くことにした。\nこのヘルスの高木、まさにその40代独身の当事者であるのだが、確かに狂ってきている実感がある。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "16h9u",
+          "text": "Xで「独身男女は40代になると狂う」が熱く議論されているので、私見を述べたくなり記事を書くことにした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "64ena",
+          "text": "このヘルスの高木、まさにその40代独身の当事者であるのだが、確かに狂ってきている実感がある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2lcro",
+          "text": "ただ、ここでの「狂う」は迷惑行為や犯罪行為に走るという意味ではない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fcj7m",
+          "text": "生き方が狂い始めてくるのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5enc4",
+          "text": "40代独身が急に海外旅行に行くようになったり、歴史を学ぶようになったり、習い事を始めたり、金遣いが荒くなったりするという話はよく聞く話である。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2bekd",
+          "text": "人生の折り返し地点に到達した40代は、余生を意識するようになる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abkop",
+          "text": "余生を意識すると、今までの人生でやり残した事はないかと考える。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8fi20",
+          "text": "肉体的な衰えを感じるようになり、危機感が生まれる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6fijd",
+          "text": "そして「行動するのは今しかない」と、これまでの人生で経験してこなかったことに突然手を出し始める。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "830mt",
+          "text": "周りからは「あの人いきなりどうしちゃったの？」と見られるようになる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f801m",
+          "text": "40代独身の人生はこうして狂い始める。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "drdug",
+          "text": "このヘルスの高木も、ついぞ足を踏み入れたことがない都道府県に突然行きたくなることがあったりして、間違いなく心境の変化が起きている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "edk7a",
+          "text": "では40代既婚者はどうなのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58cek",
+          "text": "配偶者や子供がいて独身者よりも余生を意識する機会が少ないのかもしれないが、残された時間は独身者も既婚者も変わらない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "394rh",
+          "text": "独身者だけではない。余生を意識した時点で人生は変わるのだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kqv3",
+          "text": "40代。とにかく後悔しないように前を向いて生きるしかない。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

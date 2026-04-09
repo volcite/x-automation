@@ -1,0 +1,191 @@
+{
+  "tweet_created_at": "2026-04-01T12:58:48.000000Z",
+  "id": 2039326613565846000,
+  "id_str": "2039326613565845939",
+  "type": "tweet",
+  "conversation_id_str": "2039326613565845939",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/dl2Vni1yac",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 950759459688796200,
+    "id_str": "950759459688796160",
+    "name": "رغد الحربي",
+    "screen_name": "es__022",
+    "location": "",
+    "url": null,
+    "description": "كاتبه محتوي ومؤلفه انشر لكم الثريدات المتنوعه والقصص المفيدة",
+    "protected": false,
+    "verified": true,
+    "followers_count": 535266,
+    "friends_count": 10,
+    "listed_count": 186,
+    "favourites_count": 827,
+    "statuses_count": 3762,
+    "created_at": "2018-01-09T16:01:34.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/950759459688796160/1734677971",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1870000993607278592/HUeIcE0h_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 1,
+  "reply_count": 191,
+  "retweet_count": 58,
+  "favorite_count": 1820,
+  "views_count": 13657315,
+  "bookmark_count": 1161,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039325851393675264",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/dl2Vni1yac"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T12:58:48.000000Z",
+    "id": 2039326613565846000,
+    "id_str": "2039326613565845939",
+    "title": "One day ❣️❣️❣️",
+    "preview_text": "....",
+    "cover_url": "https://pbs.twimg.com/media/HE0kHbUaIAMmy3u.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8b9ai",
+          "text": ".... ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7s1kt",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dovg4",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "33f37168-f9b7-4530-9c4e-72fa9ca435cf",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039326007555956736"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0kMvWWoAAKAAINMcaw9ZfQAAAA",
+        "media_id": "2039326007555956736",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 43.91,
+                "rgb": {
+                  "blue": 174,
+                  "green": 180,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 33.75,
+                "rgb": {
+                  "blue": 41,
+                  "green": 50,
+                  "red": 59
+                }
+              },
+              {
+                "percentage": 6.06,
+                "rgb": {
+                  "blue": 203,
+                  "green": 126,
+                  "red": 91
+                }
+              },
+              {
+                "percentage": 3.44,
+                "rgb": {
+                  "blue": 183,
+                  "green": 183,
+                  "red": 182
+                }
+              },
+              {
+                "percentage": 3.4,
+                "rgb": {
+                  "blue": 72,
+                  "green": 105,
+                  "red": 127
+                }
+              }
+            ]
+          },
+          "original_img_height": 1298,
+          "original_img_url": "https://pbs.twimg.com/media/HE0kMvWWoAAdAGs.jpg",
+          "original_img_width": 980
+        },
+        "media_key": "3_2039326007555956736"
+      }
+    ]
+  }
+}

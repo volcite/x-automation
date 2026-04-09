@@ -1,0 +1,277 @@
+{
+  "tweet_created_at": "2026-04-05T10:44:52.000000Z",
+  "id": 2040742459421115000,
+  "id_str": "2040742459421114852",
+  "type": "tweet",
+  "conversation_id_str": "2040742459421114852",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/UriIa5GsYT",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1986258310237200400,
+    "id_str": "1986258310237200384",
+    "name": "アリシア・ノルン💙",
+    "screen_name": "arishia_norun",
+    "location": "",
+    "url": "http://lit.link/arishianorun1",
+    "description": "叡智なin乱女神アリシア・ノルン\n\nファンマーク💙/ #アリシア様 ←エゴサーチ用💙\nhttps://t.co/h9ffgMgO71\n←質問はこちら💙",
+    "protected": false,
+    "verified": true,
+    "followers_count": 787,
+    "friends_count": 1,
+    "listed_count": 1,
+    "favourites_count": 16,
+    "statuses_count": 28,
+    "created_at": "2025-11-06T02:24:25.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986258310237200384/1772163707",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2027227633378082816/UJloSVFw_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 0,
+  "reply_count": 8,
+  "retweet_count": 29,
+  "favorite_count": 1270,
+  "views_count": 215675,
+  "bookmark_count": 912,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040742411824189440",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/UriIa5GsYT"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T10:44:52.000000Z",
+    "id": 2040742459421115000,
+    "id_str": "2040742459421114852",
+    "title": "タップで見えるらしい",
+    "preview_text": "アルベド・ノルン",
+    "cover_url": "https://pbs.twimg.com/media/HFIsoqPaEAAg5Z8.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4esn4",
+          "text": "アルベド・ノルン",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d33u1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aq5cv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d49np",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "96c2e446-2293-4f75-bca9-6484609f0b14",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040742712945831936"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "9aa48be6-6766-4298-8b3a-221f80abc3d4",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040742750002589696"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIsr2MacAAKAAIbkJto1dsgAAAA",
+        "media_id": "2040742712945831936",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 36.81,
+                "rgb": {
+                  "blue": 26,
+                  "green": 24,
+                  "red": 29
+                }
+              },
+              {
+                "percentage": 36.74,
+                "rgb": {
+                  "blue": 171,
+                  "green": 184,
+                  "red": 190
+                }
+              },
+              {
+                "percentage": 18.27,
+                "rgb": {
+                  "blue": 98,
+                  "green": 123,
+                  "red": 149
+                }
+              },
+              {
+                "percentage": 1.6,
+                "rgb": {
+                  "blue": 153,
+                  "green": 189,
+                  "red": 226
+                }
+              },
+              {
+                "percentage": 0.6,
+                "rgb": {
+                  "blue": 40,
+                  "green": 27,
+                  "red": 39
+                }
+              }
+            ]
+          },
+          "original_img_height": 3088,
+          "original_img_url": "https://pbs.twimg.com/media/HFIsr2MacAAbLAb.jpg",
+          "original_img_width": 2320
+        },
+        "media_key": "3_2040742712945831936"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFIsuAPbsAAKAAIbkJto1dsgAAAA",
+        "media_id": "2040742750002589696",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 40.41,
+                "rgb": {
+                  "blue": 43,
+                  "green": 43,
+                  "red": 44
+                }
+              },
+              {
+                "percentage": 37.82,
+                "rgb": {
+                  "blue": 174,
+                  "green": 186,
+                  "red": 195
+                }
+              },
+              {
+                "percentage": 6.1,
+                "rgb": {
+                  "blue": 79,
+                  "green": 98,
+                  "red": 117
+                }
+              },
+              {
+                "percentage": 3.23,
+                "rgb": {
+                  "blue": 115,
+                  "green": 123,
+                  "red": 122
+                }
+              },
+              {
+                "percentage": 0.74,
+                "rgb": {
+                  "blue": 123,
+                  "green": 154,
+                  "red": 179
+                }
+              }
+            ]
+          },
+          "original_img_height": 3088,
+          "original_img_url": "https://pbs.twimg.com/media/HFIsuAPbsAArNpy.jpg",
+          "original_img_width": 2320
+        },
+        "media_key": "3_2040742750002589696"
+      }
+    ]
+  }
+}

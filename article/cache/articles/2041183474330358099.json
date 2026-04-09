@@ -1,0 +1,335 @@
+{
+  "tweet_created_at": "2026-04-06T15:57:18.000000Z",
+  "id": 2041183474330358000,
+  "id_str": "2041183474330358099",
+  "type": "tweet",
+  "conversation_id_str": "2041183474330358099",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/n6Q7aDJT8f",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1318054933841670100,
+    "id_str": "1318054933841670144",
+    "name": "コスプレ店長🐯銀星・銀星NEO",
+    "screen_name": "Slot_ginsei",
+    "location": "長野県長野市北石堂町1375",
+    "url": "https://www.p-world.co.jp/sp/hall.cgi?i=59ff39f3f46b",
+    "description": "長野県で1番小さな駅前のパチンコ店を地域No.1にすることが夢。パチンコ・スロットが死ぬほど好き。よくイカれてるって言われます🤣でもワクワクしなきゃ人生もパチ屋もおもろくないっしょ。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 3906,
+    "friends_count": 2896,
+    "listed_count": 6,
+    "favourites_count": 14591,
+    "statuses_count": 5270,
+    "created_at": "2020-10-19T05:02:53.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1318054933841670144/1751780844",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1685148748459249664/LVGHAZMm_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 109,
+  "reply_count": 62,
+  "retweet_count": 167,
+  "favorite_count": 1404,
+  "views_count": 3137651,
+  "bookmark_count": 189,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041180590519820288",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/n6Q7aDJT8f"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T15:57:18.000000Z",
+    "id": 2041183474330358000,
+    "id_str": "2041183474330358099",
+    "title": "【大切なお客様へ】",
+    "preview_text": "パチンコ専門店「銀星NEO」を2026年5月6日に閉店します。\n少し語らせてください。\n＊タッチすると読めます\n\n銀星グループは1968年に創業し、もうすぐ58年になります。\nその長い歴史の中で",
+    "cover_url": "https://pbs.twimg.com/media/HFO7IX1bAAAXbNR.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5jsr",
+          "text": "パチンコ専門店「銀星NEO」を2026年5月6日に閉店します。",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fa1fb",
+          "text": "少し語らせてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3nedm",
+          "text": "＊タッチすると読めます",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "705q9",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4f8v3",
+          "text": "銀星グループは1968年に創業し、もうすぐ58年になります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31ka5",
+          "text": "その長い歴史の中で",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6kjfp",
+          "text": "■1968年6月に「銀星」＊現在はスロ専",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "13omc",
+          "text": "■1976年9月に「ニュー銀星」＊PS併設店",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eeabb",
+          "text": "■2002年3月に「銀星NEO」＊パチンコ専門店",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "81th9",
+          "text": "と長野駅前を中心に3店舗を経営してきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "h1a",
+          "text": "その他には飲食事業や通信事業、漫画喫茶に駅前ビジョンと様々な業態に挑戦をしてきました。また、小麦や砂糖の卸売や金龍飯店、映画館と現在でもホールディングスとして3つの会社を経営しています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4d0pp",
+          "text": "我々は常に挑戦し生まれ変わってきました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5iaek",
+          "text": "今回の決断もその中の1つとなります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b8f8",
+          "text": "24年間続けてきたパチンコ専門店「銀星NEO」の閉店にはいくつか理由がありますが大きくは3つです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ekftu",
+          "text": "1つ目が",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6et6i",
+          "text": "⚫︎地代家賃の交渉に失敗した為",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pk6t",
+          "text": "地代家賃は330万円/月。220台のお店ですので1台あたり15,000円と長野県ではトップクラスに高い水準となっていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fat57",
+          "text": "銀星NEOは24年前にもともと「英喜」というパチンコ店をM&Aして出来たお店でテナントになります。毎月330万円という家賃が経営を圧迫していました。これに関してはコロナ禍を通して家賃の値下げ交渉を顧問弁護士と共に行なってきましたが結果として現在までうまくいきませんでした。また、地権者が7名いることでそれぞれと交渉することになり、時間もお金もかかった経緯があります。台あたり15,000円という固定費は負担となっていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bop6s",
+          "text": "2つ目が",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aolv9",
+          "text": "⚫︎賃貸契約の更新をしない為。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cmkl9",
+          "text": "10年毎の契約更新の今年が10年目。値下げ交渉に失敗した経緯から更新をしない決断をしました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6h0mk",
+          "text": "3つ目が",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f3b2p",
+          "text": "⚫︎人材不足を解消する為。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ueon",
+          "text": "NEOで働いているほとんどのスタッフに残りの2店舗や他の事業部に異動してもらい、全体の人手不足の解消を狙います。昨今の人手不足は深刻です。求人を出してもなかなか応募は来ません。特に時給が売りだったパチンコ店の時給はもはや他の産業と同等もしくは低く、差別化できる要因になっていません。またお客様の利便性と働くスタッフの働きやすさの観点から、実は銀星NEOが長野県で1番早く各台計数機を導入しました。そのような先取りした挑戦により人材確保が出来ていた時もありますが当時と違い、セルフカウンターの導入やその他の設備投資を行うのは中小にとって今はリスクが高過ぎます。大手パチンコ企業が成功してるモデルケースが出てきた為、今後は我々も挑戦していきたいと考えています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7opa",
+          "text": "以上の3つが大きな理由となります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "anhjs",
+          "text": "長野駅前からパチンコが無くなってしまうことでお客様の毎日の楽しみを奪ってしまうかもしれない、と思うと非常に悔しくて仕方ありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dv1an",
+          "text": "スロットが苦手なお客様。たまにはパチンコってお客様。年配のお客様で1円パチンコが日課になっていたお客様。NEOに来て顔見知りになり気づいたら毎日一緒に来ていたお客様。交通手段がバスしかなくて駅前に遊びに来てくれていたお客様。近くに住んでて車もないからと遊びに来てくれていたお客様。仕事帰りにちょっと遊ぶのにいいんだよねと言っていたお客様。学生で初めて挑戦したいからと1円で遊んでいくお客様。長野に観光でくるインバウンドのお客様。様々な事情を抱えたたくさんのお客様が長野駅前の銀星NEOで遊んでくれています。常連の皆さんを始め、皆さんほんとにあたたかくて。そんなお店が無くなってしまうのは残念で仕方ありません。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ekhgq",
+          "text": "24年間の歴史に幕を下ろしますが、今まで応援してくださったお客様や今後も来店していただくお客様には最後まで楽しんでいただけるよう、スタッフ一同で取り組んでまいります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33qps",
+          "text": "また、スロ専の銀星、PS併設店のニュー銀星の2店舗を今まで以上に盛り上げて、更に良いお店となるよう飛躍する年にしたいと思います。特に銀星は日本一の二連覇がかかっていますし、ニュー銀星は今年大幅リニューアルも計画しています。NEOは無くなってしまいますが2店舗でガンガンやっていきます。応援よろしくお願いいたします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhml4",
+          "text": "最後に",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d1vsb",
+          "text": "『銀星NEOを今まで愛していただき、本当にありがとうございました』",
+          "type": "header-two"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

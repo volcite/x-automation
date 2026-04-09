@@ -1,0 +1,309 @@
+{
+  "tweet_created_at": "2026-04-06T09:52:42.000000Z",
+  "id": 2041091719869935600,
+  "id_str": "2041091719869935732",
+  "type": "tweet",
+  "conversation_id_str": "2041091719869935732",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/XqXaaHFOI9",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1639262813246857200,
+    "id_str": "1639262813246857217",
+    "name": "宴",
+    "screen_name": "utage_utauta",
+    "location": "",
+    "url": "https://lit.link/utagedesu",
+    "description": "思考を整理するアカウントISTJ-A/6w5/△612/Ti-LSI(N)/so/sp/RCOEN 日常ｱｶ@syoen_utauta\nPola診断:https://t.co/vos24vbm3J",
+    "protected": false,
+    "verified": true,
+    "followers_count": 13231,
+    "friends_count": 308,
+    "listed_count": 78,
+    "favourites_count": 2029,
+    "statuses_count": 9199,
+    "created_at": "2023-03-24T13:48:14.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1639262813246857217/1727072192",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1887897086131359744/IBY0eTUy_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 179,
+  "reply_count": 3,
+  "retweet_count": 353,
+  "favorite_count": 4041,
+  "views_count": 596180,
+  "bookmark_count": 2972,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041088919752921088",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/XqXaaHFOI9"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T09:52:42.000000Z",
+    "id": 2041091719869935600,
+    "id_str": "2041091719869935732",
+    "title": "私が見てきたINFJ",
+    "preview_text": "「見える」人\nINFJは、人の内側を見ている。",
+    "cover_url": "https://pbs.twimg.com/media/HFNqETHagAA7aUB.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3u2cq",
+          "text": "",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6sv4l",
+          "text": "「見える」人",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "foca",
+          "text": "INFJは、人の内側を見ている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e58ai",
+          "text": "表情でもなく、言葉でもなく、もっと手前の何か。場の温度みたいなもの、相手の呼吸のリズムみたいなもの。それをなんとなくキャッチして、なんとなく対応している。本人に聞くと「なんとなくそう感じた」としか言わない。でもその「なんとなく」の精度が、異様に高い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b12s6",
+          "text": "相談したとき、的外れなことを言われた記憶がほとんどない。それどころか、こちらが気づいていなかった部分まで返ってくることがある。「なんでわかったの」じゃなくて、「なんで気づいてたの」という感覚。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enrrs",
+          "text": "そしてINFJは「この人は今後こうなるだろう」という予測をわりと持っている。本人はそれを予測とも思っていないことが多い。見えているものを言っているだけ、という感覚らしい。でもその精度が高いことを、周りの方が先に知っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "da8h8",
+          "text": "抱えすぎる、という癖",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bovjg",
+          "text": "見えるということは、見たくないものも見えるということだ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e1bru",
+          "text": "相手の本音、場の歪み、関係性の綻び。普通の人なら素通りできるものが、INFJには引っかかる。感じることが多すぎる。考えることも多すぎる。一つの出来事に対して、何層にもわたって思考が走る。それがINFJという人間の、どうしようもない癖だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fgq6",
+          "text": "「考えすぎ」と言われた経験、あると思う。でもあれは考えたくて考えていたわけじゃない。見えてしまうから、処理せざるを得なかった。言葉にしたくても、全部出すと「めんどくさい人」と思われる気がして、黙ってきた場面も多かったんじゃないかと思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5j67p",
+          "text": "そしてINFJは、人を頼るのが苦手だ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ctudt",
+          "text": "INFJは、自分が誰かの悩みを受け取ることは自然にできる。でも「自分が誰かに受け取ってもらう」という場面に、妙に抵抗があったり、緊張するように見える。迷惑をかけたくない、というより、自分の内側をうまく言語化できないし、言語化できたとしてもそれを理解してもらえる気がしない。だから結局、抱えたまま一人で処理する。そういうINFJを何度か見てきた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1fh0d",
+          "text": "消耗するのは、感じる量が多いからだけじゃない。それを吐き出す場所がないからだ。誰かのことは考えられるのに、自分のことは後回しになる。気づいたら自分をかなりないがしろにしていた、という経験、あると思う。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ch2qu",
+          "text": "かかりやすい誤解について",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9k6m5",
+          "text": "INFJは、誤解を受けやすいと思ってる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2nion",
+          "text": "よくあるのが「ただ優しい人」という見られ方だ。確かに穏やかで、人の話をよく聞く。でも優しさでやっているわけじゃない。見えているから、動いている。相手が言葉にする前に気づいているから、そのタイミングで動いている。「優しい人」という言葉に収まらない何かが、INFJにはある。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ggkk",
+          "text": "もう一つ。「スピリチュアルな人」と思われることがある。直感の話をすると、なんとなくそういう文脈に回収されがちだ。でもINFJの直感は、霊感とか第六感とかじゃなくて、情報処理の速度と精度の話だと思っている。膨大なインプットを無意識のうちに統合して、答えが先に来る。それが「なんとなくわかる」という感覚になっている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ckm2",
+          "text": "あと、「人を見下してそう」という誤解も少なくない。これはINFJにとって心外だと思う。INFJが静かなのは、冷たいからじゃない。その時はきっと処理しているから。感じていることが多すぎて、全部は出せない。言葉を選びすぎて、何も言えなくなることがある。その沈黙が、誤解を生む。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9s7ro",
+          "text": "見えていないところで気にかけている。言葉にしないまま、ずっと心配している。「冷たい人だと思っていたのに、あとからあの人がいちばん気にかけてくれていたとわかった」という話を、INFJの周りでよく聞く。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bd4s",
+          "text": "個人的に、好きなところ",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "er5v4",
+          "text": "INFJと関わっていて、一番好きだと思うのは、言葉の重さ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8l0g0",
+          "text": "たくさんしゃべるわけじゃない。でも自然に放った一言が、ずっと残る。「あのときあの人が言ってたのは、こういうことだったんだ」と、時間が経ってから気づく言葉を持っている。本人はさらっと言っているだけなのに、受け取った側の中で育っていく。そういう言葉を持っている人間は、思っているより少ない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "en4ud",
+          "text": "静かに正しい、というのが一番近い表現だと思っている。主張が強いわけじゃない。でも結果的に、あの人が言っていた通りだった、という場面が来る。予言していたつもりはなく、見えていたものを言っていただけ。その積み重ねが、INFJへの信頼になっていく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1qgkm",
+          "text": "それから、INFJに「心配していた」と言われたとき、それが本当だとわかる。役に立とうとして言っているわけじゃない。打算がない。ただ、気になっていたから、言っている。そういう本物の感情が伝わってくる人間は、実際のところそんなに多くない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abaua",
+          "text": "現実離れしているとか、不思議な人だとか言われることがあるのは知っている。でもINFJほど、人間のことを真剣に考えているタイプはいないと思っている。ただその深さが、普通の会話のスピードに乗らないことがあるだけで。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "46rk2",
+          "text": "INFJは希少だとよく言われるが人口比の話だけじゃなくて、この感覚を持った人間自体が少ない、ということだと思っている。いなくなった環境は、何かが静かに欠ける。深さが失われる感じがする。それがINFJという人間の、代えの効かなさだと思っている。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "am0nq",
+          "text": "「いなくなってから気づく」ではダメ。些細な主張や表現をキャッチし、身の回りのお世話になっているINFJに感謝を忘れないようにしたいと思う。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

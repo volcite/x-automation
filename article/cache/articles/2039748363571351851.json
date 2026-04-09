@@ -1,0 +1,325 @@
+{
+  "tweet_created_at": "2026-04-02T16:54:41.000000Z",
+  "id": 2039748363571351800,
+  "id_str": "2039748363571351851",
+  "type": "tweet",
+  "conversation_id_str": "2039748363571351851",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/8GL0O6KC3s",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 125606038,
+    "id_str": "125606038",
+    "name": "Ryoichi Hasegawa",
+    "screen_name": "rio_hasegawa",
+    "location": "Tokyo",
+    "url": "http://www.facebook.com/people/Ryoichi-Hasegawa/100000541015497",
+    "description": "33rd year in game industry, localized 100+ games ゲーム業界33年目 ローカライズ100本超 お酒と車とゲームと自転車と宝塚好き Ingress ENL A16(R1) / PGo INS TL70 / DQW R142 お土産自力全国制覇 / Pikmin Lv103",
+    "protected": false,
+    "verified": true,
+    "followers_count": 1833,
+    "friends_count": 1094,
+    "listed_count": 55,
+    "favourites_count": 52715,
+    "statuses_count": 7451,
+    "created_at": "2010-03-23T09:21:37.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/125606038/1707972367",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/805756637/duran-duran-rio_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 104,
+  "reply_count": 16,
+  "retweet_count": 1115,
+  "favorite_count": 3039,
+  "views_count": 2671236,
+  "bookmark_count": 1148,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039745826663346176",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/8GL0O6KC3s"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T16:54:41.000000Z",
+    "id": 2039748363571351800,
+    "id_str": "2039748363571351851",
+    "title": "ローカライズで33年飯を食っている人間が「あれ、意外とやばいかも」と思い始めた話。",
+    "preview_text": "先週末から始まったXでの自動翻訳機能のおかげで日本語圏と英語圏の人が直接やり取りできるようになって、最初のうちは肉とか車とか銃の話で能天気に盛り上がっていたのが、だんだん第二次世界大戦とか政治の話に深",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5hkls",
+          "text": "先週末から始まったXでの自動翻訳機能のおかげで日本語圏と英語圏の人が直接やり取りできるようになって、最初のうちは肉とか車とか銃の話で能天気に盛り上がっていたのが、だんだん第二次世界大戦とか政治の話に深化してきているのは大変に興味深いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eldu6",
+          "text": "結構ヘビーな話でも議論が活性化している大きな理由は翻訳の品質で、仕事柄そういう盛り上がっているスレッドの Grok 翻訳の before/after を確認するのですが、正直思った以上に精度が高いです。流行りのスラングとかネットミームだけでなく、感情の乗った文章なども、記号や絵文字も使ってかなり上手く訳してます。添付画像(ctto)の赤で囲ったところとか正直唸りますね…",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "32c0b",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3n40d",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bb84q",
+          "text": "これまでローカライズというのは縁の下の力持ち的な立ち位置というか、良い場合に褒められる事は少なくて（悪いとボロカスに言われますが（笑））、何なら「（ローカライズが自然すぎて）このゲーム、日本の会社が作ったのかと思った」というのが最大級の賛辞だった時代もありました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "24ol",
+          "text": "最近になってやっと「〇〇のローカライズは素晴らしい」とか「翻訳担当が xxxx さんなら安心」みたいな「定性的な評価」が出てくるようになって、ローカライズ自体の品質が可視化されるので大変有難かったわけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vert",
+          "text": "ところがここに来て「バズってる + いいねが多い + 会話がポジティブ = 良い翻訳」「バズっててもいいねが少ない or ネガティブな言葉が多い = トピック自体が悪い or 翻訳が良くない」のような、これまで難しかった翻訳の「定量的な評価」が可能になりつつあります（「翻訳を評価する」ボタンもありますが、ここを能動的に押す人はまだ少なそう）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b780r",
+          "text": "Grok がこの評価を基準にこっそり A/B テストをやってるかもしれないし、何ならポスト主の過去の傾向を見て「この人はこれ系の話題が多いから訳はこう味付けしよう」みたいな調整もできそうです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9o3il",
+          "text": "そうやって何十万、何百万インプレッションのフィードバックで鍛え上げられた筋肉モリモリ、マッチョマンの Grok さんが X/Twitter を飛び出して自分のライバルになるわけで、下手すりゃ一年もしないうちにオマンマの食い上げになるかと思うと正直不安を感じ始めています（笑）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1n7h7",
+          "text": "（ローカライズを生業にしている他の皆さんはどう思っているのかしら）",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "926cb5fd-57db-4030-9709-f22602e6ce85",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039747740708790273"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "f4035f93-aec9-4ba1-96fa-a24a2a423966",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039747602854604800"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE6jw1xaYAEKAAIAAAAAB3yYlgAA",
+        "media_id": "2039747740708790273",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 86.6,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 6.06,
+                "rgb": {
+                  "blue": 109,
+                  "green": 109,
+                  "red": 109
+                }
+              },
+              {
+                "percentage": 3.49,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 2.45,
+                "rgb": {
+                  "blue": 13,
+                  "green": 10,
+                  "red": 89
+                }
+              },
+              {
+                "percentage": 1.43,
+                "rgb": {
+                  "blue": 23,
+                  "green": 17,
+                  "red": 148
+                }
+              }
+            ]
+          },
+          "original_img_height": 1019,
+          "original_img_url": "https://pbs.twimg.com/media/HE6jw1xaYAELwq_.jpg",
+          "original_img_width": 791
+        },
+        "media_key": "3_2039747740708790273"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE6jo0OacAAKAAIAAAAAB3yYlgAA",
+        "media_id": "2039747602854604800",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 82.6,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 14.07,
+                "rgb": {
+                  "blue": 94,
+                  "green": 108,
+                  "red": 110
+                }
+              },
+              {
+                "percentage": 1.55,
+                "rgb": {
+                  "blue": 128,
+                  "green": 123,
+                  "red": 244
+                }
+              },
+              {
+                "percentage": 1.41,
+                "rgb": {
+                  "blue": 195,
+                  "green": 193,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 0.22,
+                "rgb": {
+                  "blue": 250,
+                  "green": 223,
+                  "red": 186
+                }
+              }
+            ]
+          },
+          "original_img_height": 603,
+          "original_img_url": "https://pbs.twimg.com/media/HE6jo0OacAA_E2Q.jpg",
+          "original_img_width": 881
+        },
+        "media_key": "3_2039747602854604800"
+      }
+    ]
+  }
+}

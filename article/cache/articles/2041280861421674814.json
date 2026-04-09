@@ -1,0 +1,212 @@
+{
+  "tweet_created_at": "2026-04-06T22:24:17.000000Z",
+  "id": 2041280861421674800,
+  "id_str": "2041280861421674814",
+  "type": "tweet",
+  "conversation_id_str": "2041280861421674814",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/vXf6KBPMBy",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1721680919927668700,
+    "id_str": "1721680919927668736",
+    "name": "awnuh♡",
+    "screen_name": "awnuhaha",
+    "location": "Free →",
+    "url": "https://link.me/awnuhaha",
+    "description": "",
+    "protected": false,
+    "verified": true,
+    "followers_count": 6371,
+    "friends_count": 376,
+    "listed_count": 9,
+    "favourites_count": 6599,
+    "statuses_count": 1473,
+    "created_at": "2023-11-07T00:08:21.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721680919927668736/1732287180",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1997677973881622528/ASftOWHV_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 0,
+  "reply_count": 24,
+  "retweet_count": 6,
+  "favorite_count": 1103,
+  "views_count": 1485549,
+  "bookmark_count": 1428,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040130358025375744",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/vXf6KBPMBy"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T22:24:17.000000Z",
+    "id": 2041280861421674800,
+    "id_str": "2041280861421674814",
+    "title": "Click 🍒",
+    "preview_text": "▶︎ 0:04..",
+    "cover_url": "https://pbs.twimg.com/media/HFQVXjoWEAAjol7.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bmmgq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28flk",
+          "text": "▶︎ 0:04..",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "84e519b8-b7b3-4141-8911-a3be391a0eee",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2041280322470305792"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHFQVo1vWYAAKAAIAAAAAAAAAAAAA",
+        "media_id": "2041280322470305792",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 16,
+            "numerator": 9
+          },
+          "duration_millis": 4533,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 58.52,
+                  "rgb": {
+                    "blue": 97,
+                    "green": 123,
+                    "red": 159
+                  }
+                },
+                {
+                  "percentage": 29.07,
+                  "rgb": {
+                    "blue": 19,
+                    "green": 30,
+                    "red": 38
+                  }
+                },
+                {
+                  "percentage": 4.22,
+                  "rgb": {
+                    "blue": 35,
+                    "green": 63,
+                    "red": 102
+                  }
+                },
+                {
+                  "percentage": 2.32,
+                  "rgb": {
+                    "blue": 107,
+                    "green": 123,
+                    "red": 203
+                  }
+                },
+                {
+                  "percentage": 1.36,
+                  "rgb": {
+                    "blue": 40,
+                    "green": 113,
+                    "red": 208
+                  }
+                }
+              ]
+            },
+            "original_img_height": 1280,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2041280322470305792/img/oLXjwdn7mLF8bpnG.jpg",
+            "original_img_width": 720
+          },
+          "variants": [
+            {
+              "bit_rate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041280322470305792/vid/avc1/320x568/xV4Wlua2rSY0uba0.mp4?tag=21"
+            },
+            {
+              "bit_rate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041280322470305792/vid/avc1/480x852/T5p9Jj1O14QqEsU7.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2041280322470305792/vid/avc1/720x1280/zYrSE4B1sWExb1P_.mp4?tag=21"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2041280322470305792/pl/YVN0Wsiy-H0cDByw.m3u8?tag=21"
+            }
+          ]
+        },
+        "media_key": "13_2041280322470305792"
+      }
+    ]
+  },
+  "conversation_policy": "Verified"
+}

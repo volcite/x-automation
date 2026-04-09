@@ -1,0 +1,351 @@
+{
+  "tweet_created_at": "2026-04-01T00:12:47.000000Z",
+  "id": 2039133840233701600,
+  "id_str": "2039133840233701577",
+  "type": "tweet",
+  "conversation_id_str": "2039133840233701577",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/QadZSpnwnP",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1925022878929715200,
+    "id_str": "1925022878929715200",
+    "name": "ニカゲーム",
+    "screen_name": "nika_game_EX",
+    "location": "ちょっと不気味な教育番組",
+    "url": "https://tver.jp/series/srkdvb9xtyj",
+    "description": "毎週(水)25:55〜放送🦦テレビ朝日系『#ニカゲーム』公式 Kis-My-Ft2 #二階堂高嗣 令和ロマン #松井ケムリ oyashiraz #猪俣周杜 が挑む教育デスゲーム",
+    "protected": false,
+    "verified": true,
+    "followers_count": 37926,
+    "friends_count": 8,
+    "listed_count": 58,
+    "favourites_count": 22,
+    "statuses_count": 629,
+    "created_at": "2025-05-21T02:57:37.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1925022878929715200/1767435426",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2003979171304034307/zHky3-ZQ_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 155,
+  "reply_count": 171,
+  "retweet_count": 1308,
+  "favorite_count": 5193,
+  "views_count": 504277,
+  "bookmark_count": 183,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039124091425423360",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/QadZSpnwnP"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T00:12:47.000000Z",
+    "id": 2039133840233701600,
+    "id_str": "2039133840233701577",
+    "title": "ニカゲーム 番組化１周年",
+    "preview_text": "最新回「ニカイノ検定」TVer配信は本日まで！\n \nおかげ様でニカゲームが本日で１周年を迎えました。\n１年前の今日まさかこんなことになるとはスリーマンセルもスタッフも完全に予想外でした。",
+    "cover_url": "https://pbs.twimg.com/media/HEx0MHZaMAAKKfN.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 23,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bfdl7",
+          "text": "最新回「ニカイノ検定」TVer配信は本日まで！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cuul1",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7282h",
+          "text": "おかげ様でニカゲームが本日で１周年を迎えました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "438hn",
+          "text": "１年前の今日まさかこんなことになるとはスリーマンセルもスタッフも完全に予想外でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "k4ep",
+          "text": "１周年を迎えた３人の今の心境などは、明日発売されるバラエティ初の表紙を飾っているTVガイドPLUSに掲載！チェックしてみてね",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "5q31",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fjofb",
+          "text": "そしてニカゲームの４月以降は",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2mrnp",
+          "text": "１週間連続TVerランクイン",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e7cjm",
+          "text": "23時台昇格",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "49lps",
+          "text": "ゴールデン帯にもいつか挑戦",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dggj0",
+          "text": "番組外でも楽しんでもらえるようなコンテンツに",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b997l",
+          "text": "を目標に！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3qhj",
+          "text": "より多くの方に見てもらえるよう１周年を迎えたスリーマンセルは変わらずにデスゲームに挑み続けます。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31ek",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17dqj",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "32be8a1d-67c9-45d0-9b7b-39f91bc9e667",
+              "url": "https://tver.jp/episodes/epdgh3ekp8?p=491"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "caption": "レギュラー初の１週間連続ランクインを達成",
+              "entityKey": "55267971-ea5c-403e-a6be-66d69af8513b",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039128645772640256"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "tweetId": "2037428196875075775"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHExwsxaaAAAKAAIatw4b8xsAAAAA",
+        "media_id": "2039128645772640256",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 29.52,
+                "rgb": {
+                  "blue": 34,
+                  "green": 34,
+                  "red": 41
+                }
+              },
+              {
+                "percentage": 16.79,
+                "rgb": {
+                  "blue": 200,
+                  "green": 209,
+                  "red": 237
+                }
+              },
+              {
+                "percentage": 9.18,
+                "rgb": {
+                  "blue": 34,
+                  "green": 48,
+                  "red": 228
+                }
+              },
+              {
+                "percentage": 6.68,
+                "rgb": {
+                  "blue": 97,
+                  "green": 60,
+                  "red": 8
+                }
+              },
+              {
+                "percentage": 4.31,
+                "rgb": {
+                  "blue": 33,
+                  "green": 38,
+                  "red": 149
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HExwsxaaAAAFLz9.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2039128645772640256"
+      }
+    ]
+  }
+}

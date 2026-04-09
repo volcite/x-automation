@@ -163,10 +163,10 @@
         "価値提案",
         "常識の破壊"
       ],
-      "usage_count": 1,
+      "usage_count": 5,
       "max_usage": 5,
-      "last_used_at": "2026-04-08",
-      "status": "active",
+      "last_used_at": "2026-04-09",
+      "status": "retired",
       "slot_affinity": "morning"
     },
     {
@@ -187,9 +187,9 @@
         "価値提案",
         "常識の破壊"
       ],
-      "usage_count": 1,
+      "usage_count": 3,
       "max_usage": 5,
-      "last_used_at": "2026-04-07",
+      "last_used_at": "2026-04-09",
       "status": "active",
       "slot_affinity": "morning"
     },
@@ -211,7 +211,7 @@
         "価値提案",
         "常識の破壊"
       ],
-      "usage_count": 2,
+      "usage_count": 4,
       "max_usage": 5,
       "last_used_at": "2026-04-08",
       "status": "active",

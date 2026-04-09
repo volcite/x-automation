@@ -1,0 +1,1694 @@
+{
+  "tweet_created_at": "2026-04-04T13:15:44.000000Z",
+  "id": 2040418039989236000,
+  "id_str": "2040418039989236008",
+  "type": "tweet",
+  "conversation_id_str": "2040418039989236008",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/rlX5VxcphT",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1813247020397924400,
+    "id_str": "1813247020397924352",
+    "name": "OptimAI Network",
+    "screen_name": "OptimaiNetwork",
+    "location": "Singapore",
+    "url": "https://optimai.network/links",
+    "description": "L2 Reinforcement Data Network enables Agentic AI Ecosystem that Acts Like You. Incubated by @EASYResidency Backed by @yzilabs and @Coinmarketcap (CMC Labs)",
+    "protected": false,
+    "verified": true,
+    "followers_count": 99255,
+    "friends_count": 24,
+    "listed_count": 51,
+    "favourites_count": 735,
+    "statuses_count": 669,
+    "created_at": "2024-07-16T16:20:40.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813247020397924352/1759898784",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2006789544851709952/px-aHwyt_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null,
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 11,
+  "reply_count": 43,
+  "retweet_count": 198,
+  "favorite_count": 905,
+  "views_count": 11640,
+  "bookmark_count": 20,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040413005104717824",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/rlX5VxcphT"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T13:15:44.000000Z",
+    "id": 2040418039989236000,
+    "id_str": "2040418039989236008",
+    "title": "OptimAI Claw: Launching Your First Native AI Agent in Seconds",
+    "preview_text": "OptimAI Claw introduces a new paradigm in personal AI: native agents that live directly inside your node environment.\nNo external setup. No fragmented tooling. Just a persistent agent that can",
+    "cover_url": "https://pbs.twimg.com/media/HFED7U6bgAAiYHG.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 61,
+              "offset": 55,
+              "style": "Bold"
+            },
+            {
+              "length": 43,
+              "offset": 193,
+              "style": "Bold"
+            }
+          ],
+          "key": "d8ise",
+          "text": "OptimAI Claw introduces a new paradigm in personal AI: native agents that live directly inside your node environment.\nNo external setup. No fragmented tooling. Just a persistent agent that can research, execute, and learn on your behalf.",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fgald",
+          "text": "This guide walks through how to get started with OptimAI Claw inside your Core Node and begin running real workflows in seconds.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 46,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cu568",
+          "text": "Step 0: Install or Update OptimAI Core Node v2",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 58,
+              "style": "Bold"
+            },
+            {
+              "length": 17,
+              "offset": 102,
+              "style": "Bold"
+            }
+          ],
+          "key": "78rb1",
+          "text": "Before getting started, ensure you are running the latest OptimAI Core Node v2, now available on both Windows and macOS:",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 2,
+                "text": "https://optimai.network/optimai-nodes#nodes",
+                "toIndex": 45
+              }
+            ]
+          },
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            },
+            {
+              "key": 1,
+              "length": 43,
+              "offset": 2
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b3cn7",
+          "text": "👉 https://optimai.network/optimai-nodes#nodes",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 84,
+              "style": "Bold"
+            }
+          ],
+          "key": "kcok",
+          "text": "If you already have OptimAI Nodes installed, no action is required -\nyour node will automatically update to the latest version.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 24,
+              "style": "Bold"
+            }
+          ],
+          "key": "91qkd",
+          "text": "This version introduces OptimAI Claw, enabling native personal agents directly inside your node environment.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 41,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "6m1j5",
+          "text": "(then your existing steps continue as-is)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 26,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "2f9qj",
+          "text": "Step 1: Open OptimAI Nodes",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "du17j",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cffap",
+          "text": "Start by launching your OptimAI Core Node on your device (Windows or macOS).\nEnsure your node is running normally.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 28,
+              "style": "Bold"
+            }
+          ],
+          "key": "detni",
+          "text": "From the left sidebar, open OptimAI Claw.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5h659",
+          "text": "On first launch, the system may take a few moments to initialize your workspace. This is expected — the agent runtime is being prepared locally on your device.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "f7tm4",
+          "text": "Step 2: Set Up Your Browser Profile",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3u0ob",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 31,
+              "style": "Bold"
+            }
+          ],
+          "key": "2oapv",
+          "text": "OptimAI Claw operates within a browser-native execution environment, allowing it to interact with real websites and workflows.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "61jh2",
+          "text": "You’ll be prompted to either:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eo584",
+          "text": "Import an existing browser profile (recommended for continuity), or",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ji4t",
+          "text": "Start with a fresh profile (clean, isolated environment)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "54jqk",
+          "text": "Importing a profile enables Claw to operate with your familiar setup, including sessions and preferences.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7hfmf",
+          "text": "Step 3: Understand the Interface",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dvd98",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 34,
+              "style": "Bold"
+            }
+          ],
+          "key": "bgnlp",
+          "text": "OptimAI Claw is designed around a dual-panel system:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4uqjk",
+          "text": "Chat Panel (left):\nWhere you define tasks, give instructions, and guide the agent.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "33e0g",
+          "text": "Browser Panel (right):\nA live execution environment where you can observe Claw browsing, clicking, extracting data, and completing tasks in real time.",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 26,
+              "style": "Bold"
+            }
+          ],
+          "key": "ajjeb",
+          "text": "This architecture ensures full transparency and control over agent actions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7jhks",
+          "text": "Step 4: Start With a Clear Prompt",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "as676",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 24,
+              "style": "Bold"
+            }
+          ],
+          "key": "f1n0f",
+          "text": "Claw operates best with clear, outcome-oriented instructions.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bhm5l",
+          "text": "Instead of vague prompts, define:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "180jk",
+          "text": "The objective",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68sev",
+          "text": "The context",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6i1q5",
+          "text": "The expected output",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6jjo",
+          "text": "Examples:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5b8h",
+          "text": "“Find trending AI projects on X and summarize key insights”",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "es071",
+          "text": "“Compare top GPU cloud providers and recommend the best option”",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f40vj",
+          "text": "“Research recent developments in DePIN and create a short summary”",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "do417",
+          "text": "The clearer the intent, the more efficiently Claw executes.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "37ckm",
+          "text": "Step 5: Let Claw Browse and Execute",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9hs76",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3c37f",
+          "text": "Once prompted, Claw begins operating autonomously:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0839",
+          "text": "Opening relevant websites",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qbib",
+          "text": "Navigating across sources",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "abjcg",
+          "text": "Extracting and structuring information",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c772v",
+          "text": "Executing multi-step workflows",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar3eu",
+          "text": "You can monitor all actions live in the browser panel.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 57,
+              "style": "Bold"
+            }
+          ],
+          "key": "dnljj",
+          "text": "This is where OptimAI Claw moves beyond static AI — into real execution in live environments.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3vm6o",
+          "text": "Step 6: Use Interact Mode When Needed",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c24op",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3aicv",
+          "text": "In case you start with a fresh browser profile, some tasks require human input, such as:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "clk1",
+          "text": "Logging into accounts",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "qge6",
+          "text": "Completing CAPTCHA",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "acmlq",
+          "text": "Confirming transactions",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 26,
+              "style": "Bold"
+            }
+          ],
+          "key": "68ovd",
+          "text": "In these cases, switch to Interact Mode:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40gr8",
+          "text": "Take control temporarily",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ee63",
+          "text": "Complete the required step",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flmm8",
+          "text": "Then return control to Claw",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 30,
+              "offset": 24,
+              "style": "Bold"
+            }
+          ],
+          "key": "b6221",
+          "text": "This creates a seamless human–agent collaboration loop.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 35,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5jd07",
+          "text": "Step 7: Manage Sessions Efficiently",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1akbl",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hden",
+          "text": "When switching tasks, it’s recommended to:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 8,
+              "style": "Bold"
+            }
+          ],
+          "key": "886nf",
+          "text": "Start a New Chat for a new objective",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 4,
+              "style": "Bold"
+            }
+          ],
+          "key": "e602i",
+          "text": "Use Stop to interrupt ongoing tasks",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4cegq",
+          "text": "This keeps execution clean and prevents context overlap between workflows.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 45,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fohkl",
+          "text": "Step 8: Extend Capabilities with Agent Skills",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4nqio",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 30,
+              "style": "Bold"
+            }
+          ],
+          "key": "3vgfd",
+          "text": "OptimAI Claw supports modular Agent Skills, enabling expanded functionality.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jhvq",
+          "text": "Within Claw Settings, you can:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "37c3c",
+          "text": "Browse available skills",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4povh",
+          "text": "Install new capabilities",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8bp08",
+          "text": "Customize how your agent operates",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jl5m",
+          "text": "Examples include:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "api92",
+          "text": "Structured memory systems",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brkp0",
+          "text": "Self-improving agents",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "er6er",
+          "text": "Proactive task execution",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eam3k",
+          "text": "Domain-specific utilities",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 48,
+              "style": "Bold"
+            }
+          ],
+          "key": "2t38p",
+          "text": "This transforms Claw from a single agent into a programmable execution layer.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3b9oc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c9k0e",
+          "text": "What This Enables",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djcn",
+          "text": "With OptimAI Claw, your node is no longer just infrastructure.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f1qq2",
+          "text": "It becomes:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "lgv9",
+          "text": "A persistent personal agent runtime",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 25,
+              "offset": 20,
+              "style": "Bold"
+            }
+          ],
+          "key": "239f6",
+          "text": "A system capable of real-world task execution",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 19,
+              "style": "Bold"
+            }
+          ],
+          "key": "efbqp",
+          "text": "A participant in a network of continuously learning agents",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 26,
+              "style": "Bold"
+            }
+          ],
+          "key": "cuhf1",
+          "text": "This is the foundation of agent-native computing, where intelligence doesn’t just respond -- it operates.\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dnsf",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "k57k",
+          "text": "OptimAI Claw represents a shift from:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 27,
+              "style": "Bold"
+            }
+          ],
+          "key": "98dsi",
+          "text": "Prompt-based interaction → autonomous execution",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 17,
+              "style": "Bold"
+            }
+          ],
+          "key": "bqpoe",
+          "text": "Isolated tools → integrated agent environments",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 12,
+              "style": "Bold"
+            }
+          ],
+          "key": "aqdgk",
+          "text": "Static AI → continuously learning systems",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eumbq",
+          "text": "And it all starts directly from your node.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "entityKey": "c2c9cdd0-4376-4fcf-82b6-7149269c88e7",
+              "mediaItems": [
+                {
+                  "localMediaId": "16",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040417446843363328"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "e715a94d-2a1d-44c1-86ba-d0dcd4d0347b",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040416919103426560"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": {
+              "entityKey": "6c7cec3f-9729-4cd2-850f-d86d6ecadad2"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "entityKey": "abd59a27-b6e3-4c85-a181-23972be11b9c",
+              "mediaItems": [
+                {
+                  "localMediaId": "18",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040417626690887680"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "da582a13-c4d0-4de2-8e89-b724cb1c711d",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040417014980947968"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": {
+              "entityKey": "88ec1df3-0561-4a6b-9ecb-98a1103572e4"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "e1123b73-b1dd-45bc-af51-439c3df56ca5",
+              "mediaItems": [
+                {
+                  "localMediaId": "12",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040417129003200513"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "97b02983-e8dd-4b6a-a90f-8d6436778a25",
+              "url": "https://optimai.network/optimai-nodes#nodes"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f449.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "2beb9473-34ac-4e3b-9ef2-fba94c14982b",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040416536612188160"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "entityKey": "762b04f9-3ab9-46d7-bfc1-30d3ff19d4ea",
+              "mediaItems": [
+                {
+                  "localMediaId": "14",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040417236935147520"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "a27d78b3-3288-48f9-98c7-5513f3e45eee",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040416640308039680"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFEEH69bUAAKAAIZKfKO3NqQAAAA",
+        "media_id": "2040416640308039680",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 95.76,
+                "rgb": {
+                  "blue": 10,
+                  "green": 11,
+                  "red": 10
+                }
+              },
+              {
+                "percentage": 2.59,
+                "rgb": {
+                  "blue": 136,
+                  "green": 140,
+                  "red": 139
+                }
+              },
+              {
+                "percentage": 0.93,
+                "rgb": {
+                  "blue": 29,
+                  "green": 66,
+                  "red": 58
+                }
+              },
+              {
+                "percentage": 0.22,
+                "rgb": {
+                  "blue": 125,
+                  "green": 139,
+                  "red": 9
+                }
+              }
+            ]
+          },
+          "original_img_height": 1308,
+          "original_img_url": "https://pbs.twimg.com/media/HFEEH69bUAA4bD2.jpg",
+          "original_img_width": 2500
+        },
+        "media_key": "3_2040416640308039680"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFEEkXfbsAEKAAIZKfKO3NqQAAAA",
+        "media_id": "2040417129003200513",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 89.51,
+                "rgb": {
+                  "blue": 10,
+                  "green": 10,
+                  "red": 10
+                }
+              },
+              {
+                "percentage": 9.12,
+                "rgb": {
+                  "blue": 133,
+                  "green": 133,
+                  "red": 133
+                }
+              },
+              {
+                "percentage": 0.69,
+                "rgb": {
+                  "blue": 29,
+                  "green": 66,
+                  "red": 58
+                }
+              },
+              {
+                "percentage": 0.61,
+                "rgb": {
+                  "blue": 216,
+                  "green": 216,
+                  "red": 215
+                }
+              }
+            ]
+          },
+          "original_img_height": 1308,
+          "original_img_url": "https://pbs.twimg.com/media/HFEEkXfbsAE0SGW.jpg",
+          "original_img_width": 2500
+        },
+        "media_key": "3_2040417129003200513"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFEFBVhbIAAKAAIZKfKO3NqQAAAA",
+        "media_id": "2040417626690887680",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 95.78,
+                "rgb": {
+                  "blue": 12,
+                  "green": 15,
+                  "red": 13
+                }
+              },
+              {
+                "percentage": 2.79,
+                "rgb": {
+                  "blue": 113,
+                  "green": 114,
+                  "red": 112
+                }
+              },
+              {
+                "percentage": 0.97,
+                "rgb": {
+                  "blue": 31,
+                  "green": 73,
+                  "red": 62
+                }
+              },
+              {
+                "percentage": 0.21,
+                "rgb": {
+                  "blue": 111,
+                  "green": 202,
+                  "red": 149
+                }
+              }
+            ]
+          },
+          "original_img_height": 1308,
+          "original_img_url": "https://pbs.twimg.com/media/HFEFBVhbIAAhaQn.jpg",
+          "original_img_width": 2500
+        },
+        "media_key": "3_2040417626690887680"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFEE23ibsAAKAAIZKfKO3NqQAAAA",
+        "media_id": "2040417446843363328",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 95.86,
+                "rgb": {
+                  "blue": 16,
+                  "green": 23,
+                  "red": 18
+                }
+              },
+              {
+                "percentage": 3.23,
+                "rgb": {
+                  "blue": 121,
+                  "green": 121,
+                  "red": 121
+                }
+              },
+              {
+                "percentage": 0.69,
+                "rgb": {
+                  "blue": 29,
+                  "green": 66,
+                  "red": 58
+                }
+              },
+              {
+                "percentage": 0.2,
+                "rgb": {
+                  "blue": 190,
+                  "green": 190,
+                  "red": 190
+                }
+              }
+            ]
+          },
+          "original_img_height": 1308,
+          "original_img_url": "https://pbs.twimg.com/media/HFEE23ibsAA9AyR.jpg",
+          "original_img_width": 2500
+        },
+        "media_key": "3_2040417446843363328"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFEEYJjbUAAKAAIZKfKO3NqQAAAA",
+        "media_id": "2040416919103426560",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 93.46,
+                "rgb": {
+                  "blue": 14,
+                  "green": 20,
+                  "red": 15
+                }
+              },
+              {
+                "percentage": 2.85,
+                "rgb": {
+                  "blue": 123,
+                  "green": 123,
+                  "red": 123
+                }
+              },
+              {
+                "percentage": 2.55,
+                "rgb": {
+                  "blue": 31,
+                  "green": 49,
+                  "red": 35
+                }
+              },
+              {
+                "percentage": 0.8,
+                "rgb": {
+                  "blue": 21,
+                  "green": 42,
+                  "red": 37
+                }
+              },
+              {
+                "percentage": 0.14,
+                "rgb": {
+                  "blue": 35,
+                  "green": 84,
+                  "red": 76
+                }
+              }
+            ]
+          },
+          "original_img_height": 1308,
+          "original_img_url": "https://pbs.twimg.com/media/HFEEYJjbUAA4MPr.jpg",
+          "original_img_width": 2500
+        },
+        "media_key": "3_2040416919103426560"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFEEB4qaMAAKAAIZKfKO3NqQAAAA",
+        "media_id": "2040416536612188160",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 95.25,
+                "rgb": {
+                  "blue": 10,
+                  "green": 11,
+                  "red": 10
+                }
+              },
+              {
+                "percentage": 1.97,
+                "rgb": {
+                  "blue": 159,
+                  "green": 159,
+                  "red": 159
+                }
+              },
+              {
+                "percentage": 0.71,
+                "rgb": {
+                  "blue": 29,
+                  "green": 66,
+                  "red": 58
+                }
+              },
+              {
+                "percentage": 0.15,
+                "rgb": {
+                  "blue": 63,
+                  "green": 63,
+                  "red": 83
+                }
+              }
+            ]
+          },
+          "original_img_height": 1308,
+          "original_img_url": "https://pbs.twimg.com/media/HFEEB4qaMAAMOfp.jpg",
+          "original_img_width": 2500
+        },
+        "media_key": "3_2040416536612188160"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFEEqpkagAAKAAIZKfKO3NqQAAAA",
+        "media_id": "2040417236935147520",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 70.43,
+                "rgb": {
+                  "blue": 10,
+                  "green": 11,
+                  "red": 11
+                }
+              },
+              {
+                "percentage": 11.1,
+                "rgb": {
+                  "blue": 245,
+                  "green": 245,
+                  "red": 246
+                }
+              },
+              {
+                "percentage": 10.38,
+                "rgb": {
+                  "blue": 61,
+                  "green": 33,
+                  "red": 6
+                }
+              },
+              {
+                "percentage": 1.4,
+                "rgb": {
+                  "blue": 145,
+                  "green": 206,
+                  "red": 238
+                }
+              },
+              {
+                "percentage": 0.75,
+                "rgb": {
+                  "blue": 29,
+                  "green": 66,
+                  "red": 58
+                }
+              }
+            ]
+          },
+          "original_img_height": 1308,
+          "original_img_url": "https://pbs.twimg.com/media/HFEEqpkagAAQC6C.jpg",
+          "original_img_width": 2500
+        },
+        "media_key": "3_2040417236935147520"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFEEduuaMAAKAAIZKfKO3NqQAAAA",
+        "media_id": "2040417014980947968",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 96.21,
+                "rgb": {
+                  "blue": 10,
+                  "green": 10,
+                  "red": 10
+                }
+              },
+              {
+                "percentage": 2.83,
+                "rgb": {
+                  "blue": 123,
+                  "green": 123,
+                  "red": 123
+                }
+              },
+              {
+                "percentage": 0.69,
+                "rgb": {
+                  "blue": 29,
+                  "green": 66,
+                  "red": 58
+                }
+              },
+              {
+                "percentage": 0.13,
+                "rgb": {
+                  "blue": 194,
+                  "green": 194,
+                  "red": 194
+                }
+              }
+            ]
+          },
+          "original_img_height": 1308,
+          "original_img_url": "https://pbs.twimg.com/media/HFEEduuaMAArhfp.jpg",
+          "original_img_width": 2500
+        },
+        "media_key": "3_2040417014980947968"
+      }
+    ]
+  }
+}

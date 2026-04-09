@@ -1,0 +1,1106 @@
+{
+  "tweet_created_at": "2026-04-01T14:47:20.000000Z",
+  "id": 2039353929562231300,
+  "id_str": "2039353929562231194",
+  "type": "tweet",
+  "conversation_id_str": "2039353929562231194",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/lvDHxBGmhs",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1726330654718054400,
+    "id_str": "1726330654718054400",
+    "name": "Subah Wadhwani",
+    "screen_name": "subahwadhwani",
+    "location": "San Francisco, CA",
+    "url": "https://subah.co",
+    "description": "Building future tech media; launch videos virality, podcasting, clipping at https://t.co/f1CZFHJgLi",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4349,
+    "friends_count": 373,
+    "listed_count": 21,
+    "favourites_count": 486,
+    "statuses_count": 268,
+    "created_at": "2023-11-19T20:04:49.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726330654718054400/1767110511",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2032413545158307840/63jiwUPh_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/atomikgrowth",
+      "badge_url": "https://pbs.twimg.com/profile_images/1945277036647337984/YLAxog0K_bigger.jpg",
+      "description": "Atomik Growth",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 56,
+  "reply_count": 69,
+  "retweet_count": 255,
+  "favorite_count": 1350,
+  "views_count": 1073108,
+  "bookmark_count": 3891,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039348530171764736",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/lvDHxBGmhs"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T14:47:20.000000Z",
+    "id": 2039353929562231300,
+    "id_str": "2039353929562231194",
+    "title": "I Launched 3 Startups in 7 Days. Here's how to Go Viral on X.",
+    "preview_text": "We launched 3 startups on X in 1 week. 5.2M+ views. Hundreds of US sales/demos.\nGarry Tan and Gokul Rajaram & more in the replies.\nHere's what we shipped this week at @atomikgrowth \n#1 MaveHealth",
+    "cover_url": "https://pbs.twimg.com/media/HE1F54daoAEIybc.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "31k3h",
+          "text": "We launched 3 startups on X in 1 week. 5.2M+ views. Hundreds of US sales/demos.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aq9i4",
+          "text": "Garry Tan and Gokul Rajaram & more in the replies.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 36,
+                "text": "atomikgrowth",
+                "toIndex": 49
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4fajg",
+          "text": "Here's what we shipped this week at @atomikgrowth ",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 15,
+                "text": "thatssodhawal",
+                "toIndex": 29
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 40,
+              "offset": 29,
+              "style": "Bold"
+            }
+          ],
+          "key": "4sec7",
+          "text": "#1 MaveHealth (@thatssodhawal)[Consumer Health Tech/$2.1M Seed Round]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "685jo",
+          "text": "MaveHealth makes a wearable headset for focus, mood, and sleep, but it wasn’t getting the traction it deserved.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9utll",
+          "text": "The goal was to put MaveHealth on the radar of biohackers, productivity nerds, and investors on X.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ahan",
+          "text": "Drive awareness and sales for a consumer hardware product that most of the internet had never heard of.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "anjan",
+          "text": "Impression target: 1M.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "87q5r",
+          "text": "Where Atomik came in: X amplification and relevant distribution with sales.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6lg0e",
+          "text": "We reverse-engineered who the productivity nerds and biohacker bros actually trust on X, then collaborated with them on launch amplification.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 12,
+              "style": "Bold"
+            }
+          ],
+          "key": "alvd6",
+          "text": "Output:  \n1. 2.5M+ impressions (outperformed target) \n2. Increased awareness + traction (2.5M views)\n3. Limited batches sold out in 36 hours \n4. US sales in the hundreds",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a0otu",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 16,
+                "text": "pritopian",
+                "toIndex": 26
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 59,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fognm",
+          "text": "Launch 2: Lica (@pritopian) [Foundational Model for Design]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a3ek7",
+          "text": "Lica is a foundational image-gen model that lets you edit generations without regenerating everything.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2h6jq",
+          "text": "They wanted to launch on X and put it in front of builders, designers, and the startup crowd.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4idqv",
+          "text": "We handled the launch video and influencer amplification.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2hvh",
+          "text": "Our AI studio built the launch video ft. Bernie Sanders.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7e2qj",
+          "text": "He was already trending on X that week off his Claude post, so we hijacked the meme as the hook.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c6mmf",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2jrgf",
+          "text": "Results:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c16q1",
+          "text": "1.4M+ views (outperformed target)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vn43",
+          "text": "Engagement from the AI builder community",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "78lpo",
+          "text": "Post drove signups directly from X",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3207t",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 20,
+                "text": "KaranVaidya6",
+                "toIndex": 33
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 76,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1u3l2",
+          "text": "Launch 3: Composio (@KaranVaidya6) [AI Agent Infrastructure / $29M Series A]",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1t8fb",
+          "text": "Composio builds the infrastructure that connects AI agents to 1,000+ apps and they needed to launch their Universal CLI right into the middle of the MCP vs CLI debate happening on dev X.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c31ie",
+          "text": "The MCP vs CLI debate was already a holy war on X.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f9fa2",
+          "text": "Most companies would post a product announcement and hope to catch the wave. We made the wave.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 0,
+                "text": "itsaqd",
+                "toIndex": 7
+              },
+              {
+                "fromIndex": 10,
+                "text": "juliafedorin",
+                "toIndex": 23
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "36uqm",
+          "text": "@itsaqd & @juliafedorin grabbed a camera crew. Hit the streets of SF.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4mvj4",
+          "text": "One question to strangers: MCP or CLI?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e7mji",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 65,
+                "text": "garrytan",
+                "toIndex": 74
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "924ot",
+          "text": "You know the buzz hit right, when SF's unofficial mayor co-signs @garrytan ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2vp74",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": {
+            "mentions": [
+              {
+                "fromIndex": 0,
+                "text": "gokulr",
+                "toIndex": 7
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "412l1",
+          "text": "@gokulr also jumped in.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d4tk7",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "37uum",
+          "text": "Results:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "euvct",
+          "text": "1.9M+ views (outperformed target)",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fdfl1",
+          "text": "Garry Tan and Gokul Rajaram both engaging organically",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "e6hpl",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 60,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dif5j",
+          "text": "What we've learned shipping launches back-to-back in 1 week:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f2ujn",
+          "text": "- The story is the strategy. Great story/content beats hype every time!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "48pbt",
+          "text": "- Don't play it safe, bring personality, bring honesty, show a little more of yourself than feels comfortable. More debatable topic = More engagement",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8pl4a",
+          "text": "- Amplification means mapping exactly whose feed you need to be in, writing a custom copy for each layer, and timing it so the algorithm sees density, not noise. There's nothing passive about it.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2e7o",
+          "text": "- Speed forces clarity. Three launches in one week mean zero room for overthinking. Bias towards action.",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "18976560-8487-4a17-b51e-fa6dfdf267ea",
+              "mediaItems": [
+                {
+                  "localMediaId": "8",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039349482933084160"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "54c069f8-5d42-4387-abae-b48da192ac91",
+              "mediaItems": [
+                {
+                  "localMediaId": "6",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039349270617403392"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": {
+              "entityKey": "ce1c7750-f405-4d17-a95c-42981811f63b",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039349340205195264"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "673264ad-369a-4b4b-a574-71e47d5435b1",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039348904974848000"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "7dac166e-d6ed-4976-9d26-dbe5e7f68250",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039348802424053760"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "3c81faf9-f2b3-410a-9fc7-79eebeaa1813",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039349008116924417"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "08507475-ccf8-4510-855f-19d34061702c",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039349166233821184"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE05jL8aYAAKAAIX9SiVf1ZQAAAA",
+        "media_id": "2039349482933084160",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 55.96,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 24.91,
+                "rgb": {
+                  "blue": 211,
+                  "green": 206,
+                  "red": 206
+                }
+              },
+              {
+                "percentage": 9.84,
+                "rgb": {
+                  "blue": 112,
+                  "green": 122,
+                  "red": 129
+                }
+              },
+              {
+                "percentage": 0.51,
+                "rgb": {
+                  "blue": 150,
+                  "green": 134,
+                  "red": 122
+                }
+              },
+              {
+                "percentage": 0.28,
+                "rgb": {
+                  "blue": 127,
+                  "green": 164,
+                  "red": 164
+                }
+              }
+            ]
+          },
+          "original_img_height": 1136,
+          "original_img_url": "https://pbs.twimg.com/media/HE05jL8aYAAgSiC.jpg",
+          "original_img_width": 1216
+        },
+        "media_key": "3_2039349482933084160"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE047k2aoAAKAAIX9SiVf1ZQAAAA",
+        "media_id": "2039348802424053760",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 54.3,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 29.69,
+                "rgb": {
+                  "blue": 128,
+                  "green": 140,
+                  "red": 149
+                }
+              },
+              {
+                "percentage": 4.53,
+                "rgb": {
+                  "blue": 242,
+                  "green": 245,
+                  "red": 247
+                }
+              },
+              {
+                "percentage": 1.95,
+                "rgb": {
+                  "blue": 79,
+                  "green": 52,
+                  "red": 25
+                }
+              },
+              {
+                "percentage": 1.04,
+                "rgb": {
+                  "blue": 49,
+                  "green": 146,
+                  "red": 194
+                }
+              }
+            ]
+          },
+          "original_img_height": 888,
+          "original_img_url": "https://pbs.twimg.com/media/HE047k2aoAA89ZC.png",
+          "original_img_width": 808
+        },
+        "media_key": "3_2039348802424053760"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE05a4PboAAKAAIX9SiVf1ZQAAAA",
+        "media_id": "2039349340205195264",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 55.35,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 36.5,
+                "rgb": {
+                  "blue": 253,
+                  "green": 253,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 1.21,
+                "rgb": {
+                  "blue": 107,
+                  "green": 188,
+                  "red": 171
+                }
+              },
+              {
+                "percentage": 0.73,
+                "rgb": {
+                  "blue": 84,
+                  "green": 55,
+                  "red": 27
+                }
+              },
+              {
+                "percentage": 0.3,
+                "rgb": {
+                  "blue": 208,
+                  "green": 188,
+                  "red": 156
+                }
+              }
+            ]
+          },
+          "original_img_height": 1018,
+          "original_img_url": "https://pbs.twimg.com/media/HE05a4PboAAAfyZ.jpg",
+          "original_img_width": 1034
+        },
+        "media_key": "3_2039349340205195264"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE05QwJbIAAKAAIX9SiVf1ZQAAAA",
+        "media_id": "2039349166233821184",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 56.66,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 18.06,
+                "rgb": {
+                  "blue": 218,
+                  "green": 227,
+                  "red": 222
+                }
+              },
+              {
+                "percentage": 14.21,
+                "rgb": {
+                  "blue": 69,
+                  "green": 151,
+                  "red": 129
+                }
+              },
+              {
+                "percentage": 1.02,
+                "rgb": {
+                  "blue": 210,
+                  "green": 202,
+                  "red": 132
+                }
+              },
+              {
+                "percentage": 0.83,
+                "rgb": {
+                  "blue": 77,
+                  "green": 52,
+                  "red": 26
+                }
+              }
+            ]
+          },
+          "original_img_height": 870,
+          "original_img_url": "https://pbs.twimg.com/media/HE05QwJbIAAFQ9X.jpg",
+          "original_img_width": 918
+        },
+        "media_key": "3_2039349166233821184"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE05Bi4bkAAKAAIX9SiVf1ZQAAAA",
+        "media_id": "2039348904974848000",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 41.86,
+                "rgb": {
+                  "blue": 130,
+                  "green": 128,
+                  "red": 178
+                }
+              },
+              {
+                "percentage": 36.8,
+                "rgb": {
+                  "blue": 54,
+                  "green": 59,
+                  "red": 87
+                }
+              },
+              {
+                "percentage": 12,
+                "rgb": {
+                  "blue": 204,
+                  "green": 211,
+                  "red": 220
+                }
+              },
+              {
+                "percentage": 3.57,
+                "rgb": {
+                  "blue": 68,
+                  "green": 87,
+                  "red": 130
+                }
+              },
+              {
+                "percentage": 1.07,
+                "rgb": {
+                  "blue": 19,
+                  "green": 12,
+                  "red": 22
+                }
+              }
+            ]
+          },
+          "original_img_height": 658,
+          "original_img_url": "https://pbs.twimg.com/media/HE05Bi4bkAA1du2.jpg",
+          "original_img_width": 1126
+        },
+        "media_key": "3_2039348904974848000"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE05W1AaMAAKAAIX9SiVf1ZQAAAA",
+        "media_id": "2039349270617403392",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 65.65,
+                "rgb": {
+                  "blue": 9,
+                  "green": 9,
+                  "red": 9
+                }
+              },
+              {
+                "percentage": 17.81,
+                "rgb": {
+                  "blue": 219,
+                  "green": 209,
+                  "red": 203
+                }
+              },
+              {
+                "percentage": 9.58,
+                "rgb": {
+                  "blue": 66,
+                  "green": 128,
+                  "red": 110
+                }
+              },
+              {
+                "percentage": 0.98,
+                "rgb": {
+                  "blue": 141,
+                  "green": 153,
+                  "red": 189
+                }
+              },
+              {
+                "percentage": 0.53,
+                "rgb": {
+                  "blue": 88,
+                  "green": 59,
+                  "red": 31
+                }
+              }
+            ]
+          },
+          "original_img_height": 966,
+          "original_img_url": "https://pbs.twimg.com/media/HE05W1AaMAAlUHM.jpg",
+          "original_img_width": 906
+        },
+        "media_key": "3_2039349270617403392"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE05HjHawAEKAAIX9SiVf1ZQAAAA",
+        "media_id": "2039349008116924417",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 64.95,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 22.29,
+                "rgb": {
+                  "blue": 108,
+                  "green": 130,
+                  "red": 148
+                }
+              },
+              {
+                "percentage": 3.94,
+                "rgb": {
+                  "blue": 63,
+                  "green": 103,
+                  "red": 139
+                }
+              },
+              {
+                "percentage": 3.25,
+                "rgb": {
+                  "blue": 222,
+                  "green": 233,
+                  "red": 240
+                }
+              },
+              {
+                "percentage": 2.18,
+                "rgb": {
+                  "blue": 107,
+                  "green": 107,
+                  "red": 106
+                }
+              }
+            ]
+          },
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HE05HjHawAEtPEC.png",
+          "original_img_width": 808
+        },
+        "media_key": "3_2039349008116924417"
+      }
+    ]
+  }
+}

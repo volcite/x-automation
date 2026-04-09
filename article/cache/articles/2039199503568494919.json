@@ -1,0 +1,781 @@
+{
+  "tweet_created_at": "2026-04-01T04:33:42.000000Z",
+  "id": 2039199503568494800,
+  "id_str": "2039199503568494919",
+  "type": "tweet",
+  "conversation_id_str": "2039199503568494919",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/S8YUqMkzgC",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1961334283173597200,
+    "id_str": "1961334283173597184",
+    "name": "映画『君が最後に遺した歌』公式",
+    "screen_name": "kimiutamovie",
+    "location": "",
+    "url": "https://kimiutamovie.toho.co.jp/",
+    "description": "映画『#君が最後に遺した歌』大ヒット上映中🎬#道枝駿佑×#生見愛瑠 初共演。監督：#三木孝浩 音楽：#亀田誠治 原作：#一条岬 二人でつくる歌が奏でる感涙の“10年愛”―",
+    "protected": false,
+    "verified": true,
+    "followers_count": 34062,
+    "friends_count": 10,
+    "listed_count": 37,
+    "favourites_count": 3,
+    "statuses_count": 522,
+    "created_at": "2025-08-29T07:45:16.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961334283173597184/1774086341",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1991235146729811968/d6wy3joM_normal.png",
+    "can_dm": false,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/toho_official",
+      "badge_url": "https://pbs.twimg.com/profile_images/1656954423363665920/rvLR3ZD__bigger.jpg",
+      "description": "東宝【公式】",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    },
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 8,
+  "reply_count": 1,
+  "retweet_count": 309,
+  "favorite_count": 2030,
+  "views_count": 44928,
+  "bookmark_count": 147,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2037…",
+        "expanded_url": "http://x.com/i/article/2037178734982074368",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/S8YUqMkzgC"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T04:33:42.000000Z",
+    "id": 2039199503568494800,
+    "id_str": "2039199503568494919",
+    "title": "感情の揺らぎを愛おしむー三木孝浩監督が\"君歌\"を語る公式X限定インタビュー",
+    "preview_text": "映画『君が最後に遺した歌』を手掛けた三木孝浩監督が、キャストについて、音楽について、そして物語について語る公式X限定インタビューをお届けします。",
+    "cover_url": "https://pbs.twimg.com/media/HEyMsZWacAE8ioo.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f66qp",
+          "text": "映画『君が最後に遺した歌』を手掛けた三木孝浩監督が、キャストについて、音楽について、そして物語について語る公式X限定インタビューをお届けします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2gsof",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 32,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "62pfn",
+          "text": "☆主演：道枝駿佑さん、ヒロイン：生見愛瑠さん、2人はどんな役者？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "51ojv",
+          "text": "―水嶋春人役：道枝駿佑",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fh8n0",
+          "text": "「今夜、世界からこの恋が消えても」（セカコイ）の時も、思春期特有の瑞々しさや、純朴な優しさの部分が本当に素敵でした。でも今回は特に、ポジティブではなくネガティブな部分を持つキャラクターの切なさ、もどかしさ、才能を持たざる者のモヤモヤ感や嫉妬心と、それでも彼女が好きだから応援したいという複雑な感情がない交ぜになっている役を、道枝くんにチャレンジしてもらって。それをセリフではなくて表情で表現しているところが、彼の素晴らしいところだと思います。目が雄弁に語っているんですよね。目を見ていれば春人の感情が喋っていなくても読み取れる。とにかく、揺らいでる時の彼の目の動き、目で感情表現している所を撮り逃さないようにとずっと思っていました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1mb6j",
+          "text": "―遠坂綾音役：生見愛瑠",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djq59",
+          "text": "生見さんは、春人と出会ってどんどん自分の才能や魅力が開花していくキャラクターなのですが、スイッチが入った瞬間の表現力、それを歌に乗せるということが本当に素晴らしかったです。初めてのギター、初めての歌で、あれだけ堂々と演技で表現できるというのが凄いと思いました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsaed",
+          "text": "―現場でのふたり",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8k1s6",
+          "text": "二人がとにかく人見知りで、打ち解けるまでに時間がかかったのが印象的でした。でも、最初のシーンの春人と綾音はそういう二人だったので、そのぎこちなさがリアルで良かったと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1eg88",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "au41t",
+          "text": "☆『君が最後に遺した歌』の音楽について",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "filv",
+          "text": "―音楽プロデュース・亀田誠治さんが手掛けた”君歌”の楽曲",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5uri5",
+          "text": "最初にどのような歌にするかを亀田さんと一緒に打ち合わせして、「生見さんの歌が活きるのってこういう高さだよね」とか、「こういう歌い方の部分がいいよね」など意見交換をさせてもらいました。そして上がってきた音源を聞くと、もうまさに生見さんが歌う事でより魅力が出るような歌になっていて。もう本当に亀田さんの、音楽プロデュースとしての手腕、作詞作曲家としての力を存分に発揮していただいたなという感じがします。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4q4su",
+          "text": "―音でこだわった事",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5hnbb",
+          "text": "今回特に春人が感じる音、綾音の歌ももちろんそうですが、例えば雨音など身の回りにある音から彼は何か言葉を紡いでいるんだろうなという事を意識しました。祖父母と生活している時の生活音だったり、家で一人になった時の静けさだったり。春人の感情と、環境音はどこか少しリンクしている部分もあるので、そこは注目して聞いていただきたいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dh1eo",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9c58v",
+          "text": "☆春人と綾音を支える人々について",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "21a3f",
+          "text": "藤田友一（藤モン）役の竹原ピストルさんや、プロデューサー役の岡田浩暉さん、ケンさん役の新羅慎二さんなど、ミュージシャンであり歌い手であり、言葉に想いをのせるのが本当にお上手で。やはり言葉を大切にされている方が多いので、セリフに対しての一言一言の重みみたいなものが、アーティスト特有の深さがあり、とても素敵でした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eag95",
+          "text": "綾音の叔父・マサ役の萩原聖人さんは「セカコイ」の時に、道枝くんと親子役だったのですが、今回はメンターとして二人を見守っていく。直接口出したりはしないけれど、ちゃんとそこにマサ兄がいることで、二人が会うことができ、綾音が音楽の才能を発揮していったというのは二人を支えるキャラクターとしてもなくてはならない存在だったと思います。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "75srr",
+          "text": "☆春人と綾音の子ども・春歌",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7k5fl",
+          "text": "『ほどなく、お別れです』の時の英茉ちゃんが本当に素晴らしくて。その経緯もあり（6歳の）春歌役に決まったのですが、最後の重要なシーンでも、本当に生きているキャラクターとしての空気感をちゃんと持っていて。あの年でこんなにムードを持ってお芝居できる子がいるんだと思ってびっくりしました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6gtpb",
+          "text": "3歳の春歌役の里中ききちゃんは、あの年齢らしさそのままで自由に動き回る。何かお題を与えると、自由にやってくれる感じが、それもまた本当に生きているキャラクターになったので、あのききちゃんの自由度はすごくありがたかったです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eu814",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4urnh",
+          "text": "☆二人が結ばれ―その先の物語",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "64jnp",
+          "text": "今回僕の中でもチャレンジでした。今まで自分が作ってきたラブストーリーは、すれ違っている二人がその距離を縮めていって最後結ばれるところで終わる作品がほとんどで、想いの矢印がちゃんと向き合ってからその先は、実はあまり描いていなかったなと。物語のその先を描くというのが自分の中で大きなチャレンジにもなって、終わりじゃない、物語は続く、その先を皆さんにも感じていただけるように作りたいなと思ってました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "3vr62",
+          "text": "☆最後にメッセージ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bcgkp",
+          "text": "高校時代のすれ違いと、好きなのにちゃんと伝えられない、素直になれない、そのもどかしさが、大人になった方も、今まさにその年代にいる方たちも「こういう気持ちになるよな」とか「こういう気持ちあったよな」と思ってもらえる作品になったと思います。その感情の揺らぎの愛おしさが存分に詰まった”君歌”を楽しんでいただきたいです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9lsjf",
+          "text": "☆☆☆",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 3,
+              "offset": 20
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cjld3",
+          "text": "映画『君が最後に遺した歌』上映劇場一覧はこちら",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "ffumq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4rf0g",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "entityKey": "4d79dbc5-b729-47b5-863a-0141c3243c22",
+              "url": "https://eigakan.org/theaterpage/schedule.php?t=kimiutamovie"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "entityKey": "90084d90-8228-425f-9a39-396601e54896",
+              "mediaItems": [
+                {
+                  "localMediaId": "11",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039173416151109632"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "1f03d8cf-52c1-4723-821e-ba0bc1e92f9f",
+              "mediaItems": [
+                {
+                  "localMediaId": "5",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039161427232243712"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "1612cb75-156b-4dcc-b60c-14d0bc10e897",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039160480368099330"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "e423ef8e-73d1-4fab-ab40-47f8b272719f",
+              "mediaItems": [
+                {
+                  "localMediaId": "7",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039171785166667776"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "2c1d8817-34af-442e-a709-ba35029f6747",
+              "mediaItems": [
+                {
+                  "localMediaId": "9",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039172891183648768"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyOg53bQAAKAAIbOA8jkluQAAAA",
+        "media_id": "2039161427232243712",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 43.92,
+                "rgb": {
+                  "blue": 45,
+                  "green": 62,
+                  "red": 64
+                }
+              },
+              {
+                "percentage": 38.21,
+                "rgb": {
+                  "blue": 244,
+                  "green": 246,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 8.97,
+                "rgb": {
+                  "blue": 68,
+                  "green": 90,
+                  "red": 129
+                }
+              },
+              {
+                "percentage": 1.97,
+                "rgb": {
+                  "blue": 29,
+                  "green": 82,
+                  "red": 148
+                }
+              },
+              {
+                "percentage": 1.17,
+                "rgb": {
+                  "blue": 122,
+                  "green": 157,
+                  "red": 207
+                }
+              }
+            ]
+          },
+          "original_img_height": 2731,
+          "original_img_url": "https://pbs.twimg.com/media/HEyOg53bQAA5-Wo.jpg",
+          "original_img_width": 4096
+        },
+        "media_key": "3_2039161427232243712"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyZawEbUAAKAAIbOA8jkluQAAAA",
+        "media_id": "2039173416151109632",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 93.63,
+                "rgb": {
+                  "blue": 57,
+                  "green": 63,
+                  "red": 51
+                }
+              },
+              {
+                "percentage": 5.73,
+                "rgb": {
+                  "blue": 109,
+                  "green": 115,
+                  "red": 104
+                }
+              },
+              {
+                "percentage": 0.32,
+                "rgb": {
+                  "blue": 83,
+                  "green": 84,
+                  "red": 115
+                }
+              },
+              {
+                "percentage": 0.32,
+                "rgb": {
+                  "blue": 75,
+                  "green": 125,
+                  "red": 119
+                }
+              }
+            ]
+          },
+          "original_img_height": 2731,
+          "original_img_url": "https://pbs.twimg.com/media/HEyZawEbUAAYFiW.jpg",
+          "original_img_width": 4096
+        },
+        "media_key": "3_2039173416151109632"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyX70LbwAAKAAIbOA8jkluQAAAA",
+        "media_id": "2039171785166667776",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 66.29,
+                "rgb": {
+                  "blue": 41,
+                  "green": 99,
+                  "red": 155
+                }
+              },
+              {
+                "percentage": 14.4,
+                "rgb": {
+                  "blue": 121,
+                  "green": 181,
+                  "red": 212
+                }
+              },
+              {
+                "percentage": 13.36,
+                "rgb": {
+                  "blue": 226,
+                  "green": 240,
+                  "red": 236
+                }
+              },
+              {
+                "percentage": 3.82,
+                "rgb": {
+                  "blue": 22,
+                  "green": 62,
+                  "red": 82
+                }
+              },
+              {
+                "percentage": 0.6,
+                "rgb": {
+                  "blue": 41,
+                  "green": 124,
+                  "red": 182
+                }
+              }
+            ]
+          },
+          "original_img_height": 2731,
+          "original_img_url": "https://pbs.twimg.com/media/HEyX70LbwAA3kRP.jpg",
+          "original_img_width": 4096
+        },
+        "media_key": "3_2039171785166667776"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyY8MabkAAKAAIbOA8jkluQAAAA",
+        "media_id": "2039172891183648768",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 64.39,
+                "rgb": {
+                  "blue": 125,
+                  "green": 143,
+                  "red": 120
+                }
+              },
+              {
+                "percentage": 24.43,
+                "rgb": {
+                  "blue": 59,
+                  "green": 112,
+                  "red": 134
+                }
+              },
+              {
+                "percentage": 5.37,
+                "rgb": {
+                  "blue": 147,
+                  "green": 154,
+                  "red": 125
+                }
+              },
+              {
+                "percentage": 4.99,
+                "rgb": {
+                  "blue": 57,
+                  "green": 71,
+                  "red": 57
+                }
+              },
+              {
+                "percentage": 0.32,
+                "rgb": {
+                  "blue": 177,
+                  "green": 192,
+                  "red": 178
+                }
+              }
+            ]
+          },
+          "original_img_height": 2731,
+          "original_img_url": "https://pbs.twimg.com/media/HEyY8MabkAAZf9Z.jpg",
+          "original_img_width": 4096
+        },
+        "media_key": "3_2039172891183648768"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEyNpyhbAAIKAAIbOA8jkluQAAAA",
+        "media_id": "2039160480368099330",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 45.35,
+                "rgb": {
+                  "blue": 51,
+                  "green": 29,
+                  "red": 21
+                }
+              },
+              {
+                "percentage": 19.47,
+                "rgb": {
+                  "blue": 222,
+                  "green": 203,
+                  "red": 171
+                }
+              },
+              {
+                "percentage": 14.31,
+                "rgb": {
+                  "blue": 136,
+                  "green": 104,
+                  "red": 99
+                }
+              },
+              {
+                "percentage": 5.78,
+                "rgb": {
+                  "blue": 186,
+                  "green": 212,
+                  "red": 228
+                }
+              },
+              {
+                "percentage": 3.11,
+                "rgb": {
+                  "blue": 102,
+                  "green": 137,
+                  "red": 221
+                }
+              }
+            ]
+          },
+          "original_img_height": 3072,
+          "original_img_url": "https://pbs.twimg.com/media/HEyNpyhbAAIwS6j.jpg",
+          "original_img_width": 4096
+        },
+        "media_key": "3_2039160480368099330"
+      }
+    ]
+  }
+}

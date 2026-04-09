@@ -1,0 +1,481 @@
+{
+  "tweet_created_at": "2026-04-01T10:12:29.000000Z",
+  "id": 2039284760703594800,
+  "id_str": "2039284760703594866",
+  "type": "tweet",
+  "conversation_id_str": "2039284760703594866",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/5NwPE9qWtr",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1572820048385015800,
+    "id_str": "1572820048385015809",
+    "name": "ちゅちゅ🍓🐁chuchu🧀なごみ亭ちゅちゅ🐁",
+    "screen_name": "nagomitei_chu3",
+    "location": "🚫Fantia、myfans、0n Iyfαns🚫→",
+    "url": "https://linktr.ee/chuchu_n",
+    "description": "なごみ亭ちゅちゅです💗\n動画は秘密㊙️垢から🤫➡️@nagomitei_chu2🐀\n月に5種類以上のキャラコス動画を更新しているよ🧀🐁\n原神とポケカが大好き🌟",
+    "protected": false,
+    "verified": true,
+    "followers_count": 286920,
+    "friends_count": 433,
+    "listed_count": 814,
+    "favourites_count": 2808,
+    "statuses_count": 11660,
+    "created_at": "2022-09-22T05:28:31.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1572820048385015809/1741010698",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2035179337432145920/u4Xe39Ft_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 1,
+  "reply_count": 20,
+  "retweet_count": 64,
+  "favorite_count": 3590,
+  "views_count": 728618,
+  "bookmark_count": 1359,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039283635103387648",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/5NwPE9qWtr"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T10:12:29.000000Z",
+    "id": 2039284760703594800,
+    "id_str": "2039284760703594866",
+    "title": "噂のネックレス......",
+    "preview_text": "、\n、\n、\n、\n、\n見てくれてあんがと！",
+    "cover_url": "https://pbs.twimg.com/media/HEz9tIuawAA2l2f.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "eo43u",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c2o6t",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "aclcg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "1ucb8",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6j7o6",
+          "text": "、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cu7cb",
+          "text": "、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9kole",
+          "text": "、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cffvr",
+          "text": "、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6501b",
+          "text": "、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ebp0c",
+          "text": "見てくれてあんがと！",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "dea2edeb-9d6f-4db9-b66f-6906dc7bb369",
+              "mediaItems": [
+                {
+                  "localMediaId": "10",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039284483225161728"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "d6a9fc84-8542-4a55-9ee0-86522bb88cbe",
+              "mediaItems": [
+                {
+                  "localMediaId": "12",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039284529379282944"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "fb0a6fc6-8da9-4dd8-8fb6-e941bc721762",
+              "mediaItems": [
+                {
+                  "localMediaId": "14",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039284575986417664"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "91bd7bea-dc40-4038-9f54-54ad9eb2f684",
+              "mediaItems": [
+                {
+                  "localMediaId": "16",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039284614246879232"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEz+btKaEAAKAAIV08eAN5oAAQAA",
+        "media_id": "2039284483225161728",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 38.95,
+                "rgb": {
+                  "blue": 160,
+                  "green": 175,
+                  "red": 205
+                }
+              },
+              {
+                "percentage": 33.69,
+                "rgb": {
+                  "blue": 46,
+                  "green": 48,
+                  "red": 67
+                }
+              },
+              {
+                "percentage": 12.51,
+                "rgb": {
+                  "blue": 59,
+                  "green": 46,
+                  "red": 49
+                }
+              },
+              {
+                "percentage": 4.15,
+                "rgb": {
+                  "blue": 79,
+                  "green": 98,
+                  "red": 164
+                }
+              },
+              {
+                "percentage": 1.41,
+                "rgb": {
+                  "blue": 179,
+                  "green": 171,
+                  "red": 210
+                }
+              }
+            ]
+          },
+          "original_img_height": 1008,
+          "original_img_url": "https://pbs.twimg.com/media/HEz-btKaEAAW8hb.jpg",
+          "original_img_width": 2272
+        },
+        "media_key": "3_2039284483225161728"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEz+eZGaEAAKAAIV08eAN5oAAQAA",
+        "media_id": "2039284529379282944",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 47.9,
+                "rgb": {
+                  "blue": 175,
+                  "green": 186,
+                  "red": 218
+                }
+              },
+              {
+                "percentage": 28.36,
+                "rgb": {
+                  "blue": 50,
+                  "green": 51,
+                  "red": 69
+                }
+              },
+              {
+                "percentage": 10.27,
+                "rgb": {
+                  "blue": 112,
+                  "green": 123,
+                  "red": 192
+                }
+              },
+              {
+                "percentage": 2.4,
+                "rgb": {
+                  "blue": 188,
+                  "green": 171,
+                  "red": 234
+                }
+              },
+              {
+                "percentage": 1.88,
+                "rgb": {
+                  "blue": 130,
+                  "green": 153,
+                  "red": 203
+                }
+              }
+            ]
+          },
+          "original_img_height": 1008,
+          "original_img_url": "https://pbs.twimg.com/media/HEz-eZGaEAAFzxn.jpg",
+          "original_img_width": 2272
+        },
+        "media_key": "3_2039284529379282944"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEz+hGuagAAKAAIV08eAN5oAAQAA",
+        "media_id": "2039284575986417664",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 37.9,
+                "rgb": {
+                  "blue": 192,
+                  "green": 193,
+                  "red": 220
+                }
+              },
+              {
+                "percentage": 34.65,
+                "rgb": {
+                  "blue": 75,
+                  "green": 65,
+                  "red": 77
+                }
+              },
+              {
+                "percentage": 5.78,
+                "rgb": {
+                  "blue": 138,
+                  "green": 121,
+                  "red": 134
+                }
+              },
+              {
+                "percentage": 3.36,
+                "rgb": {
+                  "blue": 100,
+                  "green": 110,
+                  "red": 177
+                }
+              },
+              {
+                "percentage": 0.38,
+                "rgb": {
+                  "blue": 39,
+                  "green": 38,
+                  "red": 85
+                }
+              }
+            ]
+          },
+          "original_img_height": 1008,
+          "original_img_url": "https://pbs.twimg.com/media/HEz-hGuagAAXyQw.jpg",
+          "original_img_width": 2272
+        },
+        "media_key": "3_2039284575986417664"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHEz+jVQa0AAKAAIV08eAN5oAAQAA",
+        "media_id": "2039284614246879232",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 54.87,
+                "rgb": {
+                  "blue": 169,
+                  "green": 167,
+                  "red": 204
+                }
+              },
+              {
+                "percentage": 30.32,
+                "rgb": {
+                  "blue": 81,
+                  "green": 81,
+                  "red": 115
+                }
+              },
+              {
+                "percentage": 5.96,
+                "rgb": {
+                  "blue": 163,
+                  "green": 141,
+                  "red": 164
+                }
+              },
+              {
+                "percentage": 2.15,
+                "rgb": {
+                  "blue": 77,
+                  "green": 64,
+                  "red": 68
+                }
+              },
+              {
+                "percentage": 1.95,
+                "rgb": {
+                  "blue": 148,
+                  "green": 178,
+                  "red": 220
+                }
+              }
+            ]
+          },
+          "original_img_height": 1008,
+          "original_img_url": "https://pbs.twimg.com/media/HEz-jVQa0AAHNRQ.jpg",
+          "original_img_width": 2272
+        },
+        "media_key": "3_2039284614246879232"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1188 @@
+{
+  "tweet_created_at": "2026-04-06T09:58:51.000000Z",
+  "id": 2041093269510349000,
+  "id_str": "2041093269510349107",
+  "type": "tweet",
+  "conversation_id_str": "2041093269510349107",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/GksbZ1ht4R",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1504732363179593700,
+    "id_str": "1504732363179593728",
+    "name": "이음",
+    "screen_name": "_PALEBLUEEARTH",
+    "location": "",
+    "url": "https://m.blog.naver.com/abouttime_u",
+    "description": "우리는 어디를 향해 가고 있는 걸까?",
+    "protected": false,
+    "verified": true,
+    "followers_count": 3675,
+    "friends_count": 383,
+    "listed_count": 6,
+    "favourites_count": 3905,
+    "statuses_count": 6460,
+    "created_at": "2022-03-18T08:12:17.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504732363179593728/1678503506",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2019783223778426880/diZUQKwZ_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 405,
+  "reply_count": 46,
+  "retweet_count": 2757,
+  "favorite_count": 7460,
+  "views_count": 3956933,
+  "bookmark_count": 15003,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040293280651390976",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/GksbZ1ht4R"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-06T09:58:51.000000Z",
+    "id": 2041093269510349000,
+    "id_str": "2041093269510349107",
+    "title": "끌어당김의 법칙으로 인생을 바꾸는 방법",
+    "preview_text": "⚠️ 주의 : 글을 시작하기에 앞서, '끌어당김의 법칙은 사이비다, 말이 안 된다'라고 생각하는 분들은 그냥 이 아티클을 읽지 않아 주셨으면 함. 그렇게 생각하는 분들이 이 글을 읽는 건 시간 낭비일거임.",
+    "cover_url": "https://pbs.twimg.com/media/HFNobqNaYAAoNub.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b11cf",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 2,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "ncrd",
+          "text": "⚠️ 주의 : 글을 시작하기에 앞서, '끌어당김의 법칙은 사이비다, 말이 안 된다'라고 생각하는 분들은 그냥 이 아티클을 읽지 않아 주셨으면 함. 그렇게 생각하는 분들이 이 글을 읽는 건 시간 낭비일거임. 끌어당김이 사이비라고 굳게 믿는다면, 당신 말이 맞음. 그러니 그냥 조용히 뒤로 가기를 눌러 주시길. ",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8147f",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5n347",
+          "text": "솔직히 말하면 이 아티클을 쓰기까지 용기를 좀 많이 내야 했음.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2ablp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dbde",
+          "text": "이전에 끌어당김 관련해서 쓴 게시글 하나가 240만이 넘게 알티를 탔었는데, 인용으로 계속 '사이비네 뭐네' 조롱하는 사람들이 많았어서 기분이 썩 좋지는 않더라고. 또 욕먹기 싫어서 아티클은 쓰지 말아야겠다 다짐했는데, 생각보다 너무 많은 분들이 기다려 주셔서 다시 한번 용기를 내봄.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c3jna",
+          "text": "현생에서도 이 주제를 꺼내면 다들 안 믿거나 나를 '이상한 거 맹신하는 사람' 취급하는 경우가 많았음. 그래서 오랫동안 혼자만 파고들며 실천했고, 그 누구에게도 공유하지 않았었음. 트위터에서 끌당 관련 글이 바이럴 되는 걸 보면서, 이 주제에 이렇게까지 목말라하는 사람이 많다는 사실에 꽤 놀랐음.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7lj4c",
+          "text": "어쨌든 이 주제에 진심인 사람들을 만나 반갑기도 하고, 끌어당김의 법칙이 뭔지 궁금해하는 티친들이 꼭 알았으면 하는 내용들이 있어서 아티클을 낋여봤음.. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e12ta",
+          "text": "(이 아티클 구성하고 쓰는 것만 일주일 넘게 걸린 건 안비밀임...ㅎㅎ)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "8kle4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 2,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 12,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "1l06h",
+          "text": "1. 이론에 잡아먹히지 말자",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9g6u4",
+          "text": "요즘 보면 끌어당김의 법칙을 너무 현학적이고 어렵게 설명하는 곳이 많음.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2frci",
+          "text": "나 역시 5년 전 처음 이 법칙을 접했을 때 너무 흥미로워서, 국내외 책과 유튜브를 가리지 않고 엄청나게 파고들었음. 근데 숱한 시행착오 끝에 깨달은 진짜 진리는 이거임. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "196tg",
+          "text": "'이론만 파다 보면 오히려 실천이 불가능해진다'는 것.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f1712",
+          "text": "그래서 이 아티클에는 양자역학이니 뭐니 하는 복잡하고 머리 아픈 이론은 단 하나도 쓰지 않을 거임.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dmmnr",
+          "text": "난 지난 5년간 온갖 삽질을 다 겪었고, 지금은 '내려놓기'와 '끌어당김'이 몸에 완전히 내재화되어서 더 이상 이 법칙에 집착조차 하지 않는 상태가 되었음. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7npks",
+          "text": "여러분은 내 5년 치의 엑기스를 단 5분 만에 훔쳐 가는 거임.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6sjgo",
+          "text": "그러니 지금부터 딱 5분만 집중해 보시길. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a32l7",
+          "text": "이 5분이 당신의 인생을 바꿀 거임. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a3p8u",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fo788",
+          "text": "2. 우주에 비는 게 아니라 '뇌'를 해킹하는 거다",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1peic",
+          "text": "끌어당김의 법칙의 가장 기본 원리부터 잡고 가겠음. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djclv",
+          "text": "끌어당김의 법칙은 내가 이루고 싶은 소원을 밤하늘의 별을 보며 간절하게 달라고 비는 게 아니라 '이미 내가 그걸 이룬 사람'이라고 내 뇌를 속이는 작업임.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cubm3",
+          "text": "우리는 이걸 '잠재의식 세팅'이라고 부름. 우리 뇌(무의식)는 눈앞에 펼쳐진 '진짜 현실'과 내가 생생하게 '상상한 현실'을 구분하지 못함.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "i7ar",
+          "text": "인지심리학적으로 접근해 볼까? ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3i2fk",
+          "text": "우리 뇌에는 '망상활성계'라는 아주 똑똑한 정보 필터가 있음. 인간은 하루에 1,100만 비트의 정보를 마주하지만, 뇌는 과부하를 막기 위해 딱 50비트만 인식함. 즉, 내가 \"나는 이미 대기업 합격자야\"라고 뇌에 세팅해 두면, 뇌는 수많은 일상 속에서 그 현실에 필요한 기회, 정보, 단서들만 기가 막히게 스펀지처럼 흡수해서 내 눈앞에 가져옴. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1msbe",
+          "text": "즉 끌어당김의 법칙은 우주가 마법을 부리는 게 아니라, 내 뇌의 안테나 주파수를 목표에 꽂아버리는 아주 과학적인 과정임.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b5k01",
+          "text": "근데 초보자들이 가장 턱 막히는 구간이 여기임. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 58,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "c4rf7",
+          "text": "\"아니, 내 통장 잔고가 바닥이고 다 떨어졌는데, 어떻게 이미 이룬 사람이라고 생각하냐? 망상 아니냐?\" ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "43msl",
+          "text": "다들 여기서 포기함.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6973l",
+          "text": "그럼 도대체 어떻게 '이미 이룬 상태'로 뇌를 세팅할 수 있을까? ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "qqm4",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 31,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ebh7s",
+          "text": "2. 끌당에 입문하기 가장 쉬운 방법 - '사다리 실험'",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9qh6o",
+          "text": "끌어당김의 법칙에서 가장 유명한 테스트 중 하나가 바로 '사다리 실험'임. 이 실험은 끌어당김의 거장으로 불리는 네빌 고다드가 고안한 아주 유명한 실험임. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7dmet",
+          "text": "꼭 사다리가 아니어도 되고, 특정 사람이어도 되고 특정 물체여도 됨. 눈에 보이는 그 어떤 것도 가능하니 꼭 사다리로만 상상하지 않아도 된다는 점 참고해줬으면 좋겠음. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bdfki",
+          "text": "우선 지금 당장 눈을 감고 머릿속으로 사다리를 타는 상상을 해보셈. 그냥 이미지만 떠올리는 게 아니라, 손에 닿는 차가운 쇳덩이의 느낌, 발을 디딜 때 느껴지는 체중의 실림, 한 발 한 발 올라가는 그 '감각'을 아주 생생하게.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6145p",
+          "text": "그렇게 상상을 끝내고 눈을 딱 뜨셈. 놀랍게도, 얼마 안 가 현실에서 진짜로 사다리를 만나게 되거나 사다리를 타야만 하는 상황이 생길 거임. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2mt06",
+          "text": "자, 여기서 다들 이렇게 반응함. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "ahtti",
+          "text": "\"엥, 이거 진짜 사이비 종교 아님?\" ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b3513",
+          "text": "나도 똑같이 생각했음. 그렇게 의심하는 거 너무 이해함. 나도 이 실험을 처음 해봤을 때, 전혀 믿지 못했고 말이 안된다고 생각했음. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1s29",
+          "text": "나도 반신반의하면서 해봤고, 며칠 뒤 우연히 사다리를 마주쳤을 때 뒤통수를 한 대 맞은 것처럼 끌어당김의 실체를 온몸으로 체감하게 됐음.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fd3gu",
+          "text": "이건 정말 해본 사람만 느끼고 알 수 있는 거임. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a71vk",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "62nol",
+          "text": "3. 사다리는 되는데, 내 진짜 꿈은 왜 안 될까?",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9vg7c",
+          "text": "여기서 결정적인 의문이 생김. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 54,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "b25rt",
+          "text": "\"사다리 같은 쪼잔한 건 되는데, 왜 내가 진짜 간절히 원하는 취업이나 돈은 안 끌려오는 건데?\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ia4u",
+          "text": "답은 아주 간단함. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 38,
+              "offset": 11,
+              "style": "Italic"
+            }
+          ],
+          "key": "67m77",
+          "text": "사다리를 상상할 때 \"오 제발 우주님! 오늘 제발 사다리를 만나게 해주세요, 제발요!!\" 이러면서 덜덜 떨며 상상했음? ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "940v4",
+          "text": "아닐 거임. 사다리를 만나든 말든 내 인생에 타격이 없으니, 그냥 무심하게 툭 상상해놓고 잊어버렸을 거임.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6jk39",
+          "text": "근데 우리는 내가 진짜 이루고 싶은 목표 앞에서는 태도가 180도 돌변함. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 56,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "b2gv6",
+          "text": "\"하... 제발요. 이것만 합격하게 해주시면 하라는 거 다 할게요. 이거 안 되면 저 진짜 죽어요.\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jmo8",
+          "text": "이게 바로 <리얼리티 트랜서핑>의 작가인 러시아의 양자물리학자 바딤 젤란드가 말하는 '결핍의 상태(잉여 포텐셜)'임. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9i8ub",
+          "text": "제발 이뤄달라고 매달리는 행위 자체가, 내 무의식에 '나는 지금 그게 없어!!'라는 강력한 결핍과 불안을 레이저처럼 쏘아 보내는 거임. 우주는 과도한 중요성이 부여된 에너지를 밀어내는 성질이 있음. 그러니 튕겨 나가는 거임.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8gksk",
+          "text": "그래서 내가 이전 트윗에서 얘기했던 '내려놓기'가 필수인 거임. 사다리를 대하는 것처럼, 이뤄져도 그만 안 이뤄져도 그만인 '가벼운 상태'로 내 꿈의 무게를 덜어내야 함.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "enfsc",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "brrlp",
+          "text": "4. 진짜 '심상화'의 비밀",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ce4ga",
+          "text": "내려놓기를 잘하려면, 아까 말했듯 내가 '이미 이룬 사람'이라는 든든한 백그라운드가 내면에 깔려 있어야 함. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2476f",
+          "text": "여기서 끌어당김의 법칙에서 가장 중요한 개념인 '심상화'가 등장함.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cd273",
+          "text": "근데 심상화 하라고 하면 다들 쓸데없이 길고 거창한 시나리오를 머리로만 쥐어짜면서, 상상이 잘 안된다고 함. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "an3bs",
+          "text": "예를 들어, 내가 대기업에 합격하고 싶다고 쳐보자. 다들 사원증 매고 멋지게 출근해서 결재 서류에 사인하는 걸 상상함. 상상력이 뛰어나면 그렇게 해도 됨.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7h4cd",
+          "text": "근데 나는 그게 안 되더라고. 애초에 취준생이 한 번도 겪어보지 못한 대기업 라이프를 어떻게 실감 나게 상상함? 상상이 아니라 그냥 현실 도피성 망상 같았음.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ph7v",
+          "text": "다양한 시행착오 끝에 깨달은 가장 중요한 팁이 있음. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "30flp",
+          "text": "심상화를 할 때에는 내용은 짧고, 감정은 미치도록 생생하게 상상한다",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fda3v",
+          "text": "내가 사원증 매고 다니는 걸 상상하는 대신, 내 가장 친한 친구가 나한테 전화해서 이렇게 소리치는 걸 상상해 보셈. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 33,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d81nk",
+          "text": "\"야 미친!!! 너 OOO 합격했다며!! 진짜 축하해!!!\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9ko7",
+          "text": "어떰? 아까보다 몇 배는 더 현실감 있지 않음? 여기서 절대 멈추면 안 됨. 그 말을 듣는 순간 내 안에서 확 퍼지는 '안도감, 짜릿함, 후련함'을 느끼셈. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "963ai",
+          "text": "끌당 전문가들이 입을 모아 말하는 \"Feeling is the secret(느낌이 비밀이다)\"이 바로 이거임. 우주를 움직이는 진짜 자석은 머릿속  고화질의 이미지가 아니라, 가슴으로 느끼는 '감정'임.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "81gjs",
+          "text": "💡 언제 상상하는 게 가장 좋을까 - 잠에 빠져들기 직전의 몽롱한 상태를 심리학에서는 'SATS'라고 부르는데 이때 뇌파가 세타파로 떨어지면서, 의심 많고 논리적인 이성의 문이 닫히고 무의식의 문이 활짝 열림. 이때 이 짧고 강렬한 시나리오를  상상하는거임. 그래서 나도 주로 자기 직전에 상상을 많이 했었음",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "6g8vv",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "bnvg1",
+          "text": "5. 심상화에 중독되면 오히려 독이 된다?",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qo9i",
+          "text": "유튜브나 책을 보면 \"심상화를 너무 자주 하면 집착이니까 적당히 해라\"라는 말이 많음.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5g3r",
+          "text": "근데 내 데이터상으론 아님. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "acjp1",
+          "text": "본인이 하고 싶으면 하루에 100번을 해도 상관없음. 중요한 건 횟수가 아님.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6d7nc",
+          "text": "지겹도록 상상을 반복하다 보면, 어느 순간 이런 타이밍이 옴. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 37,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "eprm8",
+          "text": "\"아, 오늘 밤엔 상상하기 진짜 귀찮다... 굳이 꼭 해야 되나?\"",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 6,
+              "style": "Bold"
+            }
+          ],
+          "key": "7ec6n",
+          "text": "이게 바로 집착이 떨어져 나간 완벽한 순간임! ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "80som",
+          "text": "농부가 땅에 씨앗을 심어놓고, 잘 자라고 있나 궁금해서 매일 흙을 파헤쳐 보지 않잖음? ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "r1vu",
+          "text": "내 무의식에 '나는 합격했다'는 데이터가 완벽하게 복사-붙여넣기 되었기 때문에, 더 이상 애타게 확인받으려 안달 내지 않는 거임.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aavv3",
+          "text": "그렇게 어느 날은 내 꿈에 대해 단 한 번도 생각조차 하지 않는, 완벽한 '내려놓기'의 날이 오게 됨.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "agofq",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 28,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "58lc4",
+          "text": "6. 끌어당김의 완성: 안 이뤄지는 게 이상한 상태",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "anigg",
+          "text": "그렇게 꿈을 까맣게 잊고 현실을 살던 어느 날, 진짜로 그 꿈이 턱 하고 눈앞에 떨어지는 순간이 옴.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 53,
+              "style": "Bold"
+            }
+          ],
+          "key": "e4ka0",
+          "text": "다들 막상 이뤄지면 세상을 다 가진 듯 뛸 듯이 기뻐서 오열할 것 같지? 현실은 생각보다 엄청 덤덤함. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 29,
+              "offset": 18,
+              "style": "Bold"
+            }
+          ],
+          "key": "86mtg",
+          "text": "오히려 속으로 이런 생각이 듦. \"당연하지. 안 이뤄지는 게 더 이상한 거 아니야?\" 이미 내 무의식 세계에서는 몇 달 전부터 그 목표가 이뤄진 너무 당연한 기정사실로 살고 있었으니까.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "d1r3p",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9r5vc",
+          "text": "이게 내가 5년간 몸으로 부딪히며 깨달은 끌어당김의 전부임. 나는 이 끌어당김의 법칙을 사용해서, 이직이든 취업이든 내가 원하는 목표를 다 이루는 삶을 살았고 지금도 그렇게 살고 있음. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ffn8",
+          "text": "근데 다시 한 번 말하지만, 이론만 아는 것만으로는 인생을 바꿀 수 없음. 작은 것부터 시작해서, 끌어당김의 법칙이 무엇인지 몸으로 체감하는 시간이 필요함. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dudp3",
+          "text": "그렇게 작은 것부터 시작하다 보면, 내가 정말 원하는 목표도 이루게 되고 그러면서 점점 끌어당김의 법칙이 단순 이론이 아니라 본능적으로 목표를 이루기 위해 사용하는 방법이 될 거임. ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "en03d",
+          "text": "나는 우리 티친들이 꼭 이 끌어당김의 법칙을 몸에 익혀서, 원하는 꿈과 목표를 모두 이뤘으면 좋겠음,, ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "chcm2",
+          "text": "분명 또 난 이 아티클로 욕먹을 거 같긴 하지만, 한 사람에게라도 이 아티클이 닿아서 인생에 도움이 됐으면 난 그걸로 되었음! ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "763r1",
+          "text": "혹시 더 궁금한거나 질문이 있다면 댓글로 많이 알려주시고,, 끌어당김의 법칙을 직접 해본 후기 등등도 많이 남겨주시면 감사하겠습니다.....",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6jsr",
+          "text": "(저 이 아티클 티친들 보여줄라고 일주일 동안 구상하고 썼어요.............)",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "editm",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "8",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f4a1.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "36f3bb30-ae38-415b-916d-bbb65ad0d890"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "caption": "이게 그 알티탄 게시글임...",
+              "entityKey": "0f650991-2c00-4971-aac1-1dea1b306991",
+              "mediaItems": [
+                {
+                  "localMediaId": "3",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2041092712922025984"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "21fba2d3-9f5a-4f70-91e5-7d3320ce98c5"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFNrAhtbEAAKAAIU4eIcpVqQAAAA",
+        "media_id": "2041092712922025984",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 96.01,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 3.49,
+                "rgb": {
+                  "blue": 100,
+                  "green": 100,
+                  "red": 100
+                }
+              },
+              {
+                "percentage": 0.45,
+                "rgb": {
+                  "blue": 195,
+                  "green": 200,
+                  "red": 203
+                }
+              }
+            ]
+          },
+          "original_img_height": 1652,
+          "original_img_url": "https://pbs.twimg.com/media/HFNrAhtbEAAzKn5.jpg",
+          "original_img_width": 1179
+        },
+        "media_key": "3_2041092712922025984"
+      }
+    ]
+  }
+}

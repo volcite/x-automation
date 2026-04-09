@@ -1,0 +1,365 @@
+{
+  "tweet_created_at": "2026-04-05T04:55:01.000000Z",
+  "id": 2040654416525902300,
+  "id_str": "2040654416525902320",
+  "type": "tweet",
+  "conversation_id_str": "2040654416525902320",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/ghaBkHdPE5",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1082927252113748000,
+    "id_str": "1082927252113747968",
+    "name": "もとやま",
+    "screen_name": "ysk_motoyama",
+    "location": "自由気ままな働き方note「シゴデキ部屋」はこちら👇",
+    "url": "https://note.com/yusuke_motoyama/membership",
+    "description": "1人社長兼会社員の「自由気ままな働き方」を発信｜著書『投資としての読書』『仕事ができる人のキリの悪い時間の使い方』｜生成AIとかコンテンツマーケとかDXが得意｜株式会社Shikumu代表｜グロービス講師｜元PwCコンサルタント｜Globis MBA←慶應商｜福岡住み｜お問い合わせはDMまで",
+    "protected": false,
+    "verified": true,
+    "followers_count": 78405,
+    "friends_count": 126,
+    "listed_count": 453,
+    "favourites_count": 8145,
+    "statuses_count": 11862,
+    "created_at": "2019-01-09T09:09:11.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082927252113747968/1770467005",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490283922475057152/3AtJmWNQ_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 43,
+  "reply_count": 4,
+  "retweet_count": 177,
+  "favorite_count": 1877,
+  "views_count": 546059,
+  "bookmark_count": 2910,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040652659167010816",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/ghaBkHdPE5"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T04:55:01.000000Z",
+    "id": 2040654416525902300,
+    "id_str": "2040654416525902320",
+    "title": "【備忘録】マルチタスクを涼しい顔で捌く方法",
+    "preview_text": "コンサル時代、常人の5倍のタスク量をこなす上司がいた。残業もほぼしない\n観察してわかったのは、その人は「マルチタスク」なんてやっていなかったということ",
+    "cover_url": "https://pbs.twimg.com/media/HFHcJ1oaAAENZvC.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72k4h",
+          "text": "コンサル時代、常人の5倍のタスク量をこなす上司がいた。残業もほぼしない",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fbvr",
+          "text": "観察してわかったのは、その人は「マルチタスク」なんてやっていなかったということ",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cm9j",
+          "text": "やっていたのは2つ：①マルチタスクをシングルタスク化する技術、②シングルタスクのまま集中し切る力",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ep18n",
+          "text": "人間の脳はマルチタスクが苦手",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fuoge",
+          "text": "脳は複数の作業を同時処理しているように見えて、実際は高速で注意を切り替えているだけ",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2kou",
+          "text": "切り替えるたびに「再立ち上げコスト」が発生し、全体の作業効率が落ちる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ivrt",
+          "text": "会議中の内職がわかりやすい例。内職中は会議を聞けず、会議に戻ると内職の続きを思い出せない",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "kfrl",
+          "text": "スタンフォード大学の2009年の研究でも、普段からながら作業をしている人ほど、注意力の制御が下手で、作業の切り替え効率も悪いことが実証されている",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnpq0",
+          "text": "技術①：優先順位をミスらないようルール化しとく",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53nie",
+          "text": "タスクを同時に進めるのではなく、1つずつ順番に処理する。そのために優先順位を明確につける",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2drm",
+          "text": "「優先順位1番」は1つだけ。「あれもこれも1番」はナシ",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "cq1fj",
+          "text": "優先順位のつけ方：",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 16,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4k31t",
+          "text": "1番：誰かに依頼が必要なタスク\n自分がボールを持っている間、相手の進捗が完全に止まるから",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 18,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fhkf2",
+          "text": "2番：10分以内に決着がつくタスク\n未処理タスクが溜まると脳内シェアを奪われて集中力が下がる。さっさと片づけて頭を軽くする",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fid2",
+          "text": "3番：3営業日以上かかるタスクの分解\n難易度が高いタスクは、3営業日以内の粒度に分解する。3営業日は、1週間の締め切り内でギリギリ挽回できる単位。分解した時点で「厳しそう」と気づけば、早めにアラートを出せる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "749ch",
+          "text": "残り：締め切りが近い順に処理",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "efgjd",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "al6qt",
+          "text": "技術②：他のタスクは完全無視する",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "97gpd",
+          "text": "1つのタスクに着手したら、他は一切見ない",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9dq87",
+          "text": "2017年の「Brain Drain」研究によると、スマホがサイレントモードでも、机の上にあるだけで認知能力が低下する。別の部屋に置いたグループが最もパフォーマンスが高かった",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dabjt",
+          "text": "ってことで実践していること：①チャットやメールの通知オフに、②スマホは視界から外す、③机の上にはPC類以外は何も置かないようにし、気が散る要因を排除する",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kkhg",
+          "text": "この手順を機械的になぞるだけでも、仕事の生産性がかなり変わるかなと。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "bde55404-49d5-49b1-9406-fa371687878e",
+              "mediaItems": [
+                {
+                  "localMediaId": "1",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040653861971714048"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFHb4ChaYAAKAAIPB1SZI9RwAAAA",
+        "media_id": "2040653861971714048",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 98.38,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 1.1,
+                "rgb": {
+                  "blue": 135,
+                  "green": 135,
+                  "red": 135
+                }
+              },
+              {
+                "percentage": 0.4,
+                "rgb": {
+                  "blue": 189,
+                  "green": 183,
+                  "red": 235
+                }
+              },
+              {
+                "percentage": 0.11,
+                "rgb": {
+                  "blue": 230,
+                  "green": 200,
+                  "red": 159
+                }
+              }
+            ]
+          },
+          "original_img_height": 640,
+          "original_img_url": "https://pbs.twimg.com/media/HFHb4ChaYAAySRY.jpg",
+          "original_img_width": 1200
+        },
+        "media_key": "3_2040653861971714048"
+      }
+    ]
+  }
+}

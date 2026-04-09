@@ -1,0 +1,639 @@
+{
+  "tweet_created_at": "2026-04-04T03:22:46.000000Z",
+  "id": 2040268812919124000,
+  "id_str": "2040268812919124008",
+  "type": "tweet",
+  "conversation_id_str": "2040268812919124008",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/TxRi4my3cA",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1823656556606709800,
+    "id_str": "1823656556606709762",
+    "name": "れい姉",
+    "screen_name": "rei0723_X",
+    "location": "",
+    "url": null,
+    "description": "ほんとうの沼テクを教えます",
+    "protected": false,
+    "verified": true,
+    "followers_count": 9052,
+    "friends_count": 220,
+    "listed_count": 29,
+    "favourites_count": 27002,
+    "statuses_count": 3149,
+    "created_at": "2024-08-14T09:43:15.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823656556606709762/1766660474",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1875460713344593924/fNxYQwdN_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 221,
+  "reply_count": 34,
+  "retweet_count": 194,
+  "favorite_count": 2932,
+  "views_count": 10599902,
+  "bookmark_count": 3434,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040268412333809664",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/TxRi4my3cA"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-04T03:22:45.000000Z",
+    "id": 2040268812919124000,
+    "id_str": "2040268812919124008",
+    "title": "女が見抜く「童貞っぽさ」の正体",
+    "preview_text": "恋愛がうまくいかない男性って、自分では「出会いがない」「いい人がいない」「タイミングが悪い」と思ってることが多いです。\nでも女性側から見ると、そこじゃないんですよね。",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "flvtv",
+          "text": "恋愛がうまくいかない男性って、自分では「出会いがない」「いい人がいない」「タイミングが悪い」と思ってることが多いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b2041",
+          "text": "でも女性側から見ると、そこじゃないんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aougm",
+          "text": "会った瞬間、数分話しただけで「この人たぶん恋愛慣れしてないな」「女性にほとんど相手にされてこなかったんだろうな」って伝わる男っているんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ur4u",
+          "text": "しかもそれは、童貞かどうかそのものを見抜いているわけじゃない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "sdii",
+          "text": "女が見てるのはもっと手前です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56jot",
+          "text": "清潔感、会話、余裕、距離感、女性への理解。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b99m",
+          "text": "そういうものが全部まとまって、“恋愛対象に入りにくい雰囲気”として出てる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ckp6d",
+          "text": "だから厳しいことを言うと、問題は経験の有無よりも、その人から滲み出る非モテ感なんですよね。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "asiln",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b016h",
+          "text": "女が無理だと感じるのは、経験の少なさではなく雰囲気",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "65e5l",
+          "text": "たとえば、こういう男性です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fa8q",
+          "text": "口がクサイ",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsqpq",
+          "text": "目が合わない",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "afeea",
+          "text": "清潔感のない短髪",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ekgqv",
+          "text": "近づくと酸っぱいニオイがする",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ahl0",
+          "text": "現実の女に幻想を抱きすぎてる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "53inj",
+          "text": "会話が一方通行で広がらない",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eerm4",
+          "text": "少し優しくされるとすぐ好きになる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dphci",
+          "text": "女性と話すと挙動不審になる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6c1to",
+          "text": "元カノ人数を「2〜3人くらい」と雑に盛る",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fnfsq",
+          "text": "こういうのって、ひとつひとつは小さいように見えるかもしれない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bbl76",
+          "text": "でも女は、項目ごとに採点してるわけじゃないんです。全部をまとめて“この人、恋愛経験も対人経験も足りてないんだろうな”って空気で受け取ってる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "augse",
+          "text": "別に悪い人じゃない。真面目な人も多いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "61sch",
+          "text": "でも恋愛って、真面目だから選ばれるわけじゃないんですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6al51",
+          "text": "清潔感がない、会話が不自然、距離感が変、余裕がない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5h9jc",
+          "text": "このどれかがあるだけで、「男として見れない」に一気に傾く。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7o5jd",
+          "text": "優しさがあっても、その前に恋愛対象から外れるんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2ramd",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6478i",
+          "text": "30代以降の男性ほど、誤魔化しが効かない",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ds6o9",
+          "text": "これが20代前半なら、若さでなんとなく許されることもあります。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aqk96",
+          "text": "でも30代以降の恋愛初心者男性は、そうはいかない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4hd1s",
+          "text": "年齢を重ねた男に女性が求めるのって、顔の良さだけじゃないんですよね。最低限の清潔感、落ち着き、会話の安定感、女性に慣れてる感じ、変にガツガツしてない余裕。そういう“人として整ってる感じ”を見てる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4q7cu",
+          "text": "なのに、見た目も振る舞いも会話も20代のまま止まってる男性って意外と多いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9naqq",
+          "text": "真面目だけど余裕がない。優しいけど男として見れない。誘いたいのに受け身。傷つきたくないから様子見ばかり。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2555v",
+          "text": "それって結局、スペックも経験値も足りてない状態なんですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "14q3n",
+          "text": "ここで怒る男性もいると思います。でも現実そうなんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "44n4s",
+          "text": "モテるようになりたいなら、",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "89ps5",
+          "text": "スペックを上げる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6llg1",
+          "text": "経験値を積む",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "df5k1",
+          "text": "この2つしかないです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4qcg",
+          "text": "見た目、収入、コミュ力、余裕。どれも女性に選ばれる要素である以上、上げて損することなんてない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6d9m9",
+          "text": "なのに何も変えず、「俺にはいい出会いがない」と言ってる男性が本当に多い。出会いがないんじゃなくて、出会っても選ばれてないだけです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8tt21",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3fl9p",
+          "text": "女が見てるのは、スペックそのものより“整ってる感じ”",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e8q1f",
+          "text": "ここで勘違いしてほしくないのは、ハイスペ男になれって話ではないということです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9lia2",
+          "text": "年収が何千万も必要なわけじゃないし、顔面偏差値が高くないと無理って話でもない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hond",
+          "text": "でも最低限は必要です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "430vv",
+          "text": "髪型が変じゃない。\n服が清潔。\n口臭体臭のケアができてる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7of34",
+          "text": "会話が一方通行じゃない。相手の反応を見ながら話せる。変な幻想を持たず、女性をひとりの人として見れてる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8bpb",
+          "text": "この“最低限の整い”がない男性は、恋愛市場だと本当に弱いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4bekl",
+          "text": "逆に言えば、ここを整えるだけでもかなり変わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cme1l",
+          "text": "女性が恋愛対象として見るのは、完璧な男じゃないんですよね。少なくとも一緒にいて不快じゃない、会話が成立する、変な圧がない、でも頼りなさすぎない。そういう男性です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2lpi0",
+          "text": "つまり必要なのは、特別な魅力より先に、マイナスを消すことなんです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a1lkv",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fbjug",
+          "text": "改善したいなら、まず“自分の非モテ感”に気づくこと",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5v5n2",
+          "text": "最大の問題は、自分の童貞っぽさに気づいてないことです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4dj26",
+          "text": "気づいてないから直せない。直せないまま年齢だけ重なる。すると女性との距離はどんどん開いていく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d0l4c",
+          "text": "恋愛が苦手な男性ほど、「自分は中身で勝負したい」と言うけど、その中身に辿り着く前に落とされてることが多いです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72m5n",
+          "text": "だから最初にやるべきは自己改善です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2q5hm",
+          "text": "見た目を整える。\nニオイを消す。\n女性と普通に話す回数を増やす。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ap2fc",
+          "text": "小さく誘う経験を積む。\n断られても死なないと知る。\n女性を理想化しすぎない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dbu2p",
+          "text": "結局、恋愛って頑張った人だけが見れる景色があるんですよ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3calh",
+          "text": "理想の相手と出会いたいなら、まずはその人に出会うチャンスが来たとき、ちゃんと選ばれる自分にならないといけない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kven",
+          "text": "一見めんどいです。\nでもそれがいちばん早い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "41fgm",
+          "text": "恋愛がうまくいかない男性は、運が悪いんじゃない。\n才能がないわけでもない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4oni6",
+          "text": "ただ、選ばれる準備が足りてないだけ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7pfb3",
+          "text": "女はそこをかなり冷静に見ています。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3db5u",
+          "text": "だから本気で変わりたいなら、まずは「なぜ自分は恋愛対象に入れていないのか」を、耳が痛くても直視することです。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "58udt",
+          "text": "そこからしか、恋愛は始まりません。",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

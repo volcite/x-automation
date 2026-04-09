@@ -1,0 +1,1007 @@
+{
+  "tweet_created_at": "2026-04-05T12:07:40.000000Z",
+  "id": 2040763297155473400,
+  "id_str": "2040763297155473527",
+  "type": "tweet",
+  "conversation_id_str": "2040763297155473527",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/6ZbRtCqBTb",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1905602671731753000,
+    "id_str": "1905602671731752960",
+    "name": "うちた",
+    "screen_name": "uchita_success",
+    "location": "JPN 🇯🇵",
+    "url": null,
+    "description": "一番バズるのはポケモン発信だけど、大企業100社開拓してきたIT営業マンでもある｜社内ではAI推進リーダー｜ドラクエ・FFも好き｜1,360人のXコミュニティ創設者だったりもする｜フォロー喜びます",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4786,
+    "friends_count": 2628,
+    "listed_count": 20,
+    "favourites_count": 42724,
+    "statuses_count": 27281,
+    "created_at": "2025-03-28T12:47:53.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905602671731752960/1745120392",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1942186032251711488/UyX8S4DG_normal.jpg",
+    "can_dm": false,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 111,
+  "reply_count": 15,
+  "retweet_count": 631,
+  "favorite_count": 5576,
+  "views_count": 1863813,
+  "bookmark_count": 2075,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040751298350645248",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/6ZbRtCqBTb"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T12:07:40.000000Z",
+    "id": 2040763297155473400,
+    "id_str": "2040763297155473527",
+    "title": "レベル上げしなかった。それだけで、ポケモンが別ゲーになった話。",
+    "preview_text": "レベル上げが面倒でサボってたら、Lv30台のまま四天王に突っ込むことになった。\nこれが、めちゃくちゃ面白かった。",
+    "cover_url": "https://pbs.twimg.com/media/HFI0h9VaEAAZd7c.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "j9v",
+          "text": "レベル上げが面倒でサボってたら、Lv30台のまま四天王に突っ込むことになった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8hnvk",
+          "text": "これが、めちゃくちゃ面白かった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5mb2",
+          "text": "子どものころは「レベルを上げて殴る」ゲームだった。でもレベルを上げなかったら、全く別のゲームが始まった。1ターンの判断が命取りになる、ギリギリの頭脳戦。タイプ相性、交代のタイミング、どこでバフを積むか。全部考えないと勝てない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9d622",
+          "text": "30年ぶりにポケモン（FRLG）だったけど、全く違うゲーム体験ができた話。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "c8qak",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5c4dn",
+          "text": "Lv30台の仲間たち",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f4hi7",
+          "text": "まず、この無謀な旅を共にした4匹＋補欠2匹を紹介する。誰もLv40に届いていない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9nfte",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1u8a2",
+          "text": "ライチュウ（Lv38）\n最序盤からの相棒。これまでもエースアタッカーとして活躍してきてくれていた。ただ、このレベルだと10まんボルトでも一撃は無理。今回の四天王、こいつの本当の仕事は搦め手。でんじはで麻痺させて先手を取り、かげぶんしんで回避を積み、その間にスペシャルアップでとくこうを上げる。準備が整ったら10まんボルトで一掃。四天王ではカンナ戦に期待。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 11,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "8t2hr",
+          "text": "ナッシー（Lv34）\nサイコキネシスとギガドレインの二刀流。格闘にはエスパー、岩/地面にはくさ技。そして何より、耐久がある。ユンゲラーでは耐えられない一撃を、ナッシーなら受けられる。この「火力＋耐久」のバランスが、低レベルでは全てだった。さらにやどりきのたねが超有能。こちらが交代しても効果が残るから、ナッシーを引っ込めても相手のHPがじわじわ削れていく。今回は大活躍！？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "11pt8",
+          "text": "シャワーズ（Lv38）\n本当はサンダース派。でもライチュウと被るから今回はシャワーズ。なみのりの安定火力に加え、オーロラビームでドラゴンに刺さる。そしてすなかけが地味に強い。命中率を下げて相手の攻撃をかわす。大人になると、安定感の大事さがわかる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 22,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "89avs",
+          "text": "カビゴン（Lv37）　※ドードリオから交代\nわざマシンを使ってなかったから、有用な技がのしかかりしかない。不器用すぎる。でも、この圧倒的な耐久力。低レベルだと「倒されない」ことが何より大事で、カビゴンはその体現者。殴られても殴られても倒れない壁として、何度もパーティを救った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "6d661",
+          "text": "＜補欠＞\nユンゲラー（Lv36）とリザード（Lv34）。火力はあるけど耐久が紙。低レベルだと一発もらったら終わるから、出番は限られた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "85p6c",
+          "text": "全員Lv30台。四天王はLv50超え。普通に考えたら勝てるわけがない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66jd4",
+          "text": "でも、「勝てるわけがない」から面白くなる。それが低レベルポケモンの本質だった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4tokl",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ddk3",
+          "text": "vs. カンナ　相性がハマると、レベル差は消える",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33l5m",
+          "text": "四天王の1人目、氷タイプ使いのカンナ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "25s13",
+          "text": "ライチュウの独壇場だった。カンナのポケモンは水複合が多い。つまり電気がぶっ刺さる。ただ、Lv38の10まんボルトでは一撃は無理。だから最初にでんじはで麻痺させ、かげぶんしんで回避を積み、スペシャルアップでとくこうを上げる。（特に最初のジュゴンは神秘の守りやあられ等をしてくるので時間が稼げた）準備が整ってから10まんボルトで一掃。ライチュウ1匹で全抜き。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5lqtf",
+          "text": "ここで気づいた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ashle",
+          "text": "レベルが低くても、準備をすれば勝てる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f0a4p",
+          "text": "子どものころは「とにかくレベルを上げろ」だったけど、そうじゃなかった。タイプ相性＋搦め手＋バフ。この3つが揃えば、Lv38でもLv50超えの相手を倒せる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "40sl6",
+          "text": "ポケモンの戦闘システムって、こういうゲームだったのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a5n5g",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "a2a18",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eljjk",
+          "text": "vs. シバ　ナッシーLv34、5人抜き",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4460f",
+          "text": "格闘タイプ使いのシバ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 9,
+              "offset": 34,
+              "style": "Bold"
+            }
+          ],
+          "key": "2pskc",
+          "text": "ここでナッシーが覚醒した。Lv34のナッシーが、シバのポケモン5匹を1匹で全員倒した。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 110,
+              "style": "Bold"
+            }
+          ],
+          "key": "2voum",
+          "text": "イワークにはギガドレイン。格闘タイプにはサイコキネシス。とくこうバフをかけた状態で、ほぼワンパン。「ユンゲラーでもよくない？」と思うかもしれない。でも低レベルだと、ユンゲラーは一発もらったら終わる。ナッシーは耐えられる。「倒せるか」じゃなくて「耐えて倒せるか」。この違いが、低レベルでは勝敗を分ける。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "480i8",
+          "text": "レベルを上げてたら、こんなこと考えなかった。Lv60のフーディンで何も考えずサイコキネシス連打してた。でも低レベルだと「誰を出すか」が全部変わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4988f",
+          "text": "ナッシー、5連勝。ここから伝説が始まった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "77ek",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 6,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "cmqp",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4pcto",
+          "text": "vs. キクコ　ナッシー、まさかの10人抜き",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e7j4d",
+          "text": "ゴーストタイプ使いのキクコ。ゲンガーの素早さ、催眠術、あやしいひかり。正直ここは厳しいと思っていた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar19n",
+          "text": "でも、ナッシーは止まらなかった。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "brjuj",
+          "text": "1匹目のゲンガーはかげぶんしんで回避率を上げてくる。でもそこがチャンス。その間にバフを積む。ディフェンダーで防御を固め、スペシャルアップでとくこうを上げる。クリティカルや素早さ上げも忘れずに。準備が整ったら2匹目以降は先制ワンパン。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 20,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "38f1r",
+          "text": "結果、ナッシーLv35がキクコも5人全員撃破。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 9,
+              "style": "Bold"
+            }
+          ],
+          "key": "1agbs",
+          "text": "シバ戦と合わせて、ナッシー10人抜き。 文句なしの今回のMVP。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2i20i",
+          "text": "これも「レベルが低いからこそ」生まれた戦い方だった。レベルが高ければバフなんて積まない。低レベルだから、1匹目の間に準備して、2匹目以降を確実に仕留める戦略が必要になる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3umkl",
+          "text": "レベルを上げなかっただけで、ポケモンバトルに「準備」と「戦略」という概念が生まれた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 7,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "fl24j",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 8,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9lvvg",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18p7h",
+          "text": "vs. ワタル　バフが切れた先にあった「本当の戦い」",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fbtsi",
+          "text": "ドラゴンタイプ使いのワタル。ポケモンリーグ最大の壁。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3un3i",
+          "text": "問題は、シバ・キクコ戦でバフアイテムをほとんど使い切っていたこと。ディフェンダーもスペシャルアップも、もう残っていない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dapll",
+          "text": "Lv30台のポケモンが、ワタルに挑む。冷静に考えて無謀すぎる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7of22",
+          "text": "ここからは総力戦。ナッシーの単騎無双はもう通用しない。ライチュウ、シャワーズ、カビゴン。全員の力を合わせて1匹ずつ削っていくしかない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "mt29",
+          "text": "ギャラドスにはライチュウの10まんボルト。4倍弱点だからバフなしでもなんとか通る。プテラにはシャワーズのオーロラビーム。でもカイリューが出てきたとき、思わず手が止まった。レベル差がありすぎる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7irc5",
+          "text": "正直、一度は「詰んだかも」と思った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "81iu3",
+          "text": "しかし、ここで輝いたのがまたしてもこの人。ナッシーだ。やどりきのたねを撒いてから引っ込めれば、裏のポケモンで戦いながらも相手のHPがじわじわ削れていく。ライチュウのでんじはで足を止め、シャワーズのすなかけで目を眩ませ、カビゴンで受ける。回復のタイミング、技の選択、交代の判断。全部が噛み合わないと勝てない。全員の力でカイリューを倒しに行く。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c3ooe",
+          "text": "これが、たぶんポケモンバトルの「本当の姿」だと思った。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ccn7v",
+          "text": "子どものころはレベルでゴリ押してたから、デバフやバフ、交代なんてそんなにしなかった。技の相性も深く考えなかった。でも低レベルだと、全部が意味を持つ。ポケモンの戦闘システムって、こんなに奥が深かったのか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "env92",
+          "text": "30年越しに、このゲームの本気を見た気がした。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 9,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "b0aqs",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 10,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "9ag6c",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f7rd4",
+          "text": "もし「やってみたい」と思ったら",
+          "type": "header-two"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "afnu6",
+          "text": "最後に、低レベル攻略で学んだことを書いておく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b8sqn",
+          "text": "ナッシーは低レベル攻略の神\nエスパー＋くさの二刀流、そこそこの耐久、ギガドレインで回復。やどりきのたねはこちらが交代しても効果が残るから、ナッシーを下げた後も相手のHPを削り続けられる。迷ったらナッシー。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 17,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "14bsm",
+          "text": "でんじは・すなかけは最強の搦め手\n低レベルでは「相手の行動を制限する」のが超重要。ライチュウのでんじはで麻痺させ、シャワーズのすなかけで命中を下げる。相手が動けないターンが生まれれば、そこにバフを積むチャンスが生まれる。それだけで勝率が全然変わる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1pdu2",
+          "text": "バフアイテムは計画的に\nスペシャルアップ、ディフェンダー、クリティカッター、今まであまり使ってこなかったんだけど超強力。しっかり買い込んでいこう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "di96b",
+          "text": "「等倍で殴る」は通用しない\n Lv30台では常に「ばつぐん」が必要だった。タイプ相性がレベル差をひっくり返す唯一の武器。あとは急所に当てること。クリティカッターで勝負をかける。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "c0cfa",
+          "text": "リザードは四天王に刺さらない\n悲しいけど事実。まったく刺さらなかった。相性が悪すぎて、補欠のまま終わった。（もちろんレベルが高ければ通用する）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 19,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "b7fi8",
+          "text": "そして何より、「楽しむ」のが一番大事\n最初はめんどくさがりでレベル上げをサボっただけ。でも途中から「この縛り、面白くない？」に変わった。楽しいから工夫する、工夫するから勝てる、勝てるからもっと楽しい。結果的に今まで味わったことのないポケモンをプレイできた。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 11,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "2v9ni",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "broik",
+          "text": "遊び方を少し変えるだけで全く違う楽しみや感動があった。レベルを上げて普通に進むのもいい。でもたまにはこうやって別ゲーにしてみるのもアリだなと思った。スラムダンクでいうと山王戦のような熱い戦い。いつかは一度やってみて。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1th1d",
+          "text": "お読みいただきありがとうございました！",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4q5ue",
+          "text": "↓ 前回バズった記事もぜひ",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 12,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "3tqms",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bupn6",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "12",
+          "value": {
+            "data": {
+              "tweetId": "2038147565342871903"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "8",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "4",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "11",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "9",
+          "value": {
+            "data": {
+              "tweetId": "2037831288217043186"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "tweetId": "2036579407494783171"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "10",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "6",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "32536aee-6055-44d6-bdff-75f50ec2e87d",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2040762760527843328"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": [],
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "7",
+          "value": {
+            "data": {
+              "tweetId": "2037130884604977614"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "tweetId": "2036219149572325487"
+            },
+            "mutability": "Immutable",
+            "type": "TWEET"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHFI+6xQbkAAKAAIacg+Im5tAAAAA",
+        "media_id": "2040762760527843328",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 37.49,
+                "rgb": {
+                  "blue": 147,
+                  "green": 145,
+                  "red": 90
+                }
+              },
+              {
+                "percentage": 28.4,
+                "rgb": {
+                  "blue": 220,
+                  "green": 212,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 15.75,
+                "rgb": {
+                  "blue": 209,
+                  "green": 146,
+                  "red": 89
+                }
+              },
+              {
+                "percentage": 4.34,
+                "rgb": {
+                  "blue": 177,
+                  "green": 182,
+                  "red": 181
+                }
+              },
+              {
+                "percentage": 2.07,
+                "rgb": {
+                  "blue": 194,
+                  "green": 241,
+                  "red": 176
+                }
+              }
+            ]
+          },
+          "original_img_height": 647,
+          "original_img_url": "https://pbs.twimg.com/media/HFI-6xQbkAAmQd1.jpg",
+          "original_img_width": 1007
+        },
+        "media_key": "3_2040762760527843328"
+      }
+    ]
+  }
+}

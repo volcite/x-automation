@@ -1,0 +1,2069 @@
+{
+  "tweet_created_at": "2026-04-01T06:40:33.000000Z",
+  "id": 2039231425728418300,
+  "id_str": "2039231425728418224",
+  "type": "tweet",
+  "conversation_id_str": "2039231425728418224",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/Jm7OLbXADc",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2028016848110002200,
+    "id_str": "2028016848110002176",
+    "name": "周小鸟开窍",
+    "screen_name": "xiaoniaoziming",
+    "location": "",
+    "url": null,
+    "description": "想要和得到，你只差开窍\n全网：周小鸟开窍\n经验：一些商业，自媒体，Ai（还在学习）的个人经验。大量0-1/1-10经验\n\n爱好：摇滚乐，旅行,商业项目0-1测试。\n个人备忘录，手搓内容爱好者\n我的内容支持转载二创，但是直接复制标原创不行，因为我也要直接复制发到其他平台。",
+    "protected": false,
+    "verified": true,
+    "followers_count": 3333,
+    "friends_count": 158,
+    "listed_count": 11,
+    "favourites_count": 6,
+    "statuses_count": 474,
+    "created_at": "2026-03-01T07:58:07.000000Z",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2028183658495143936/1X-uONfl_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 50,
+  "reply_count": 53,
+  "retweet_count": 514,
+  "favorite_count": 2726,
+  "views_count": 745947,
+  "bookmark_count": 5623,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2038…",
+        "expanded_url": "http://x.com/i/article/2038231445328850944",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/Jm7OLbXADc"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T06:40:33.000000Z",
+    "id": 2039231425728418300,
+    "id_str": "2039231425728418224",
+    "title": "小红书变现，千万级实操内容，一篇干翻市面上95%注水内容。看完没收获直接喷我。",
+    "preview_text": "内容价值目前已变现千万级，不讲概念，一切基于实操。\n一：小红书的核心底层逻辑。\n小红书是女性友好平台。\n小红书是种草平台（注：种草是指分享某一类好物）\n小红书是美好XX分享平台。\n二：小红书的流量来源",
+    "cover_url": null,
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cc06l",
+          "text": "内容价值目前已变现千万级，不讲概念，一切基于实操。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72m4h",
+          "text": "一：小红书的核心底层逻辑。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5qrik",
+          "text": "小红书是女性友好平台。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7f4ch",
+          "text": "小红书是种草平台（注：种草是指分享某一类好物）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d4ksj",
+          "text": "小红书是美好XX分享平台。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1skm1",
+          "text": "二：小红书的流量来源",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "73bga",
+          "text": "小红书是搜索来源，搜索即推荐。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tm40",
+          "text": "小红书有四个流量口。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "btr01",
+          "text": "关注-发现-本地-搜索",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ant1v",
+          "text": "一般来说，只有发现-搜索这两个流量口是最主要的。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7bo4h",
+          "text": "1：发现页算法逻辑",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rg1f",
+          "text": "一般来说正常人刷小红书，看的都是发现页，只要你的笔记数据过得去，它就会被不断会推送到下一级流量池。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7abgb",
+          "text": "（注：流量池，新媒体平台一个称呼，不同平台池级不同，级别越高，效果越好，小红书来说简概六个级别（五百，五千，一万，五万，十万，以及十万加，可以叫一级到六级）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f97a4",
+          "text": "那如何让自己的笔记被不断推送呢？（笔记：指你在小红书发布的内容）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2o3tl",
+          "text": "笔记发布之后，两条路径。A，违规，B，收录(内容正常显示，可被搜索）。违规没必要讲。说收录",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7i343",
+          "text": "当你的笔记被收录之后。会出现如下数据，点赞/收藏/评论/转发/关注。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3irtg",
+          "text": "按照重要排名，首先是关注最重要，其次是评论和转发，点赞和收藏最次。（统称互动）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5rsm0",
+          "text": "口诀：一关二评三点赞。一个关注等于一个评论和一个转发，一个评论或者一个转发又等于一个点赞和一个收藏。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7eims",
+          "text": "一篇笔记只要有人保持互动，那么它会被平台持续推流，甚至几个月，一年以上还有推荐。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "713le",
+          "text": "所以还有一句口号叫：做爆一篇，吃上一年",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsf0d",
+          "text": "2：搜索页算法逻辑",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e4l1e",
+          "text": "搜索很好理解，我想找某个东西，我直接点击搜索。小红书基于底层逻辑，它的搜索比例占比也十分重要。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3i69c",
+          "text": "小红书是根据你的排序来分布流量，你的文章越靠前，看得人越多。但是这个位置不固定，也是根据平台算法调整实时变动的。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 2,
+              "style": "Bold"
+            }
+          ],
+          "key": "f9qde",
+          "text": "所以“关键词”“关键词”“关键词”是尤其重要",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ae1nk",
+          "text": "官方有说：好标题更多赞。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "22jes",
+          "text": "所以标题非常重要，标题非常重要，标题非常重要。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qspo",
+          "text": "我们要学会，用好搜索关键词，热词推荐（热搜词缀）等，来想办法找到我们的笔记核心词，来让系统识别并且推荐对应用户。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e3gdn",
+          "text": "关键词怎么来",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dt5j6",
+          "text": "1：系统默认",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3m6ak",
+          "text": "比如你打开搜索框，系统直接弹出一堆词条，这属于平台根据你的标签默认推荐",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9fs2f",
+          "text": "2：搜索热门",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fnt6e",
+          "text": "比如你打开搜索框，系统直接给你推荐了一堆最近被热搜的词条，一般属于火热话题，大家短期都在搜索这个词条，所以这个词条被推上去了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cqg2n",
+          "text": "3：联想关键词",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "andjj",
+          "text": "比如你打开搜索框，属于XXX，出来一堆XXX---XXX---XXX---XXX。用户输入一些内容，系统自动补齐匹配关键词。增加用户选择，比如我搜：学习小红书，可能会出现三十天学习小红书，从零到一学习小红书之类的词条。是根据综合排序而来",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ancjq",
+          "text": "注：热度分析",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3gh4f",
+          "text": "1：搜的越多，推荐的越多，越热",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "22sm7",
+          "text": "2：算法匹配，范围越大越推。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "diegk",
+          "text": "3：帮用户做选择",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bpb7a",
+          "text": "关键词选择",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ee2g",
+          "text": "1：热搜是短期流量，关键词是长期流量，是基于小红书真实用户的数据分析得出。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6v19l",
+          "text": "2：选择竞争小流量大，跟自身匹配度高的关键词。不要用泛词。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5jv3j",
+          "text": "3：思考怎么反推关键词，如果你是用户，你希望用什么关键词能搜到自己的类目。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ataa8",
+          "text": "4：合理布局关键词。别硬堆关键词，不然会容易判定为广告，垃圾内容，长期降权废号。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3hp10",
+          "text": "已经了解了，小红书的底层逻辑，搜索逻辑，和推荐逻辑，接下来就是讲怎么做账号。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cclt4",
+          "text": "二：那么让我们开始从0-1做一个账号",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7t1ud",
+          "text": "1：养号。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "erfun",
+          "text": "什么是养号，养号就是让平台知道你是一个真人真实活跃用户。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dpv7h",
+          "text": "打开小红书，注册好账号之后，第一天不用着急修改你的头像签名姓名。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3sgju",
+          "text": "点击搜索栏，搜索你的行业关键词，正常搜索，观看，点赞，评论，收藏，按照自己的习惯来。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "n0o3",
+          "text": "没有强制要求，但是一次起码半个小时以上，可以不固定时间。每天起码保证三十分钟以上。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a8o5f",
+          "text": "按照三十分钟以上一篇笔记，自己可以想想今天要发几篇笔记，得出活跃时间。可以多篇笔记可以多时间段累计刷取。比如我今天要发三篇，那我可以早上刷三十分钟发一篇，中午刷三十分钟发一篇，晚上又刷三十分钟发一篇",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2qnlp",
+          "text": "2：人设定位",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "orol",
+          "text": "人设是基于在平台内容展示的虚拟形象，是用户信任的关键。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "96opk",
+          "text": "商业账号一定要足够垂直（垂直就是直接），明确告诉用户你的行业体现你的专业性。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3d5km",
+          "text": "新号在选择身份的时候可以选择客户身份，一开始系统就会给你推荐你客户常看的综合内容。这个时候你可以看看你的客户平常都会刷到什么东西。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cf3c2",
+          "text": "然后你要给自己做一个身份，比如说宝妈，博士，失业人员，或者转行，创业，等等。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f75el",
+          "text": "昵称别乱想，因为七天一改，简单直接真实就好，你的用户层级会看什么昵称，你就用什么昵称，不要对你的目标用户造成阅读搜索障碍。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aqdgd",
+          "text": "注意事项：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnqif",
+          "text": "1：不要在你账号的个签，评论区，或者什么其他公开可见区域留下你的联系方式，包括但不限于什么电话，邮箱，微信，QQ，等。平台发现会马上把你的资料洗掉。导流的方式千千万，后续会讲。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cegn",
+          "text": "2：头像建议真人或者专属头像",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ed33",
+          "text": "3：性别，年龄，基于你的目前用户群体。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8srsl",
+          "text": "4：不要一上来就发营销笔记之类的，前期没人看，发了也白发，也会被平台判定为营销号，很容易账号违规。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "auqaf",
+          "text": "建议一开始先发行业的干货（有价值的内容），先拉账号权重，后期发内容一条流量等于之前十条。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9iok6",
+          "text": "七天养号（一机一卡一号，禁频繁切换，频繁切换账号会导致系统判定刷子用户）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cl8th",
+          "text": "第一天：不需要改任何资料，不需要发任何内容，搜索行业关键词，认真刷小红书。刷30*3，真人账号活跃关注点赞评论",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6l9v4",
+          "text": "第二天：刷30*3，搜索行业关键词。认真刷小红书，真人账号活跃关注点赞评论。请不要发内容。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fe1f",
+          "text": "第三天：刷账号30*2。不要用搜索，看发现页能不能给你自动推荐你的行业相关内容。一般来说一个手机屏幕一页有四到五篇笔记，正常两页十篇笔记里面有三篇及以上，说明账号活跃完成，代表账号垂直行业，然后修改自己的头像，简介，资料。并且开始发布第一篇干货。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66pq4",
+          "text": "这里注意：干货笔记是经验分享，不是营销分享，是美好分享，不是痛苦分享，是真人分享，不是AI分享。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnkd5",
+          "text": "第四条到第七天：这四天请你保持每天三篇左右的干货分享。也就是说你七天要保证十篇干货内容。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "78pj0",
+          "text": "关于小红书恭喜你XXX。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4kk5o",
+          "text": "一般来说正常养号，基本上第一篇就能出恭喜，养号3-7天，基本上都能出恭喜（恭喜你达到XXX），而且能正常加热投流（付费推广）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ctbut",
+          "text": "正常养号后，你的账号哪怕轻度违规，也不会出现限流，算是平台观察期了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bv6d",
+          "text": "如果你的账号长期内容异常，违禁词需要反复修改，或者其他异常，那就是需要养号",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4q0jh",
+          "text": "长期异常没流量是小事，可能直接导致封号。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ao6p5",
+          "text": "如何判定起号成功：账号正常。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7cidc",
+          "text": "正常第一篇笔记就会出恭喜（第一天。）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fh9ub",
+          "text": "发布作品后，十分钟点击薯条推广，判定是否能加热，能加热就属于正常。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4qkju",
+          "text": "如果出恭喜，账号权重就有了保证，那么后续正常更新活跃，权重推流会越来越高。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ftgr0",
+          "text": "营销内容起码是七天之后的事情，第一篇笔记千万不能一上来就违规。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ijs2",
+          "text": "最好的建议是前七天笔记抄同行+手写。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fo39v",
+          "text": "同行怎么写，你就用自己的话讲出来。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "70i58",
+          "text": "三：快速拿到结果。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vue4",
+          "text": "账号如何快速定位吸粉。（假定减肥）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6umol",
+          "text": "现在小红书用户已经被马鞭抽怕了。已经是见号色变，所以专家号已经基本没有转化率了，除了个别账号以外。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d5sdq",
+          "text": "目前转化率最高适合普通人入手的两类账号",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d68lp",
+          "text": "1：同类，同类就是跟你的用户有一样的困扰和问题的人，比如我想减肥，这里也有个正常减肥的姐妹，是不是可以一起相互交流下。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "br2q9",
+          "text": "2：先行者，先行者是已经做过这件事的人，比如我想减肥，我是不是可以咨询一下减肥成功的人，她是怎么减的？她本身就是非营销账号，你会不会觉得她跟你很像，跟具有代表性，可复制性，以及成功经验和专业度，想了解一下。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9tbbr",
+          "text": "所以我们可以根据这个思路，去做钩子（钩子就是吊客户）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c9445",
+          "text": "1：我是素人A，我只是展示我的生活",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1143v",
+          "text": "2：我是素人A，我推荐XXB",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "90ugi",
+          "text": "3：我是素人A，我发布内容，B提问，C回答。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6hbtt",
+          "text": "但是其实ABC都是你的账号。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ppl4",
+          "text": "正常人都不喜欢看广告，但是基于真实的分享，种草，信任度大大提升。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ck6ee",
+          "text": "注：一定要基于真实分享，假设你是用户，你信任什么样的账号，你就要做成什么样的账号，真实的人设会大大提高你的转化率。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aeciv",
+          "text": "人设模版",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30de7",
+          "text": "健身养身意见领袖，这类账号在专业和普通人之间，又有专业性，又有普适性，在基于有技术积累的情况下是最好的选择",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2hb49",
+          "text": "二：普通人记录生活：普通人是最容易拉进用户的方式，信任度，转化，和持续性都非常高。非常适合多账号运行。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "edbon",
+          "text": "3：品牌创始人分享，假如你自有品牌，这种方式推广也比较适合，小红书非常支持商家入驻，同时配合A种B收的方式，专业背书会大大增强你的信任度和转化率",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30ail",
+          "text": "除了人设以外，内容也同样重要。内容模版可以分成",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cnphr",
+          "text": "1：干货分享，小红书搜索流量是非常大的，直接讲干货。能多图就不要单图，能多内容就不要单一内容",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2vi5c",
+          "text": "2：对比图，前后对比落差是一种非常直观的吸引眼球的方式，这类题材也很容易火",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ekg6g",
+          "text": "3：红黑榜（Y/N）能做什么，不能做什么，很容易激起人的好奇心，所以看的人也多",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7flfn",
+          "text": "3：季节时效性，季节时效性让人会不由自主的计算时间",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ufda",
+          "text": "4：挑战打卡，挑战打卡的内容会让跟读性和互动性大大提高。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fmr9",
+          "text": "5：泛赛道切入，假设你这个赛道已经很挤了，付费玩家非常多，那么可以试着剑走偏锋。比如，我的基本盘+某个新东西，是不是可以组成一个新类别，但是这里一定要想清楚，用户画像是否是一类人。买低脂调料的跟想减肥的是不是一类人？买跳绳的是不是想减肥的？用用户思维想清楚。你的用户想干嘛，展开联想性。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5848i",
+          "text": "图片有了。再来想想怎么做内容",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5pvo2",
+          "text": "1：新账号不要一上来就纯抄，前十篇内容一定要优质，垃圾内容是没有什么作用的，前期七天不要考虑引流，转化，营销等。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9g6b3",
+          "text": "2：不要原封不动的偷图，百分百识别，如何改图我后续会讲，不要偷懒，正常改图五分钟，同时，文案不要照抄，照抄是傻逼，自媒体接受良币，接受劣币，不接受傻逼。专业内容可以用AI转化（AI工具后续会讲），其他首尾内容，顺序，请按照个人习惯，口语化手动改写，保持原意。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3rigt",
+          "text": "3：图片里面的文字也要用点心，动点脑，虽然小红书视频不太精准，但是图文是它们的基础盘，所以图文算法是非常牛逼的。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3jd4a",
+          "text": "4：标题要简单直接，别自己想，直接看同行标题，先抄后做再想。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1itk5",
+          "text": "5：如何快速火，就一个字，抄。不要自己思考内容，不要自己思考内容，不要自己思考内容。你的同行已经给出了经过验证的答案，你想的功夫已经做了五个内容了，效率第一。当你抄到十篇，二十篇，三十篇，这个时候已经有一个基本判断了，再来考虑是否优化。在自己完全不懂不了解的情况下，请千万不要自己动脑思考。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8kaf8",
+          "text": "6：逆向思维同样重要，比如说你想讲瑜伽馆创业，不要谈瑜伽馆创业，谈开瑜伽馆后悔了。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f72ih",
+          "text": "7：只要笔记能进推广，就说明内容正常，如果不爆，就是封面+标题有问题，后面就着重优化标题+封面。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eiivr",
+          "text": "8：笔记能爆就看四个因素：账号+标题+封面+内容。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2goqd",
+          "text": "小红书怎么给曝光",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1eo8h",
+          "text": "话题＞内容（封面+标题60%，内容40%）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9csf5",
+          "text": "小红书说是标题党一点也不为过，你的标题决定了笔记生死，第一眼看过去，标题，封面就能判定是否能爆笔记。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5utmv",
+          "text": "标题只要能引起共鸣/讨论，并且涵盖大部分群体，就是好标题",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "csk2l",
+          "text": "标题等于武器，内容等于使用者，用户先看到武器，再看到使用者，小孩子拿AK照样有冲击力和杀伤性。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1npd9",
+          "text": "怎么找标题：搜，蹭，学，抄",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a7sv0",
+          "text": "搜：我自己是用户，我想做某件事，我全网平台：比如百度等你认为的搜索平台，它会自动弹出大家搜的后缀，比如说我搜：自媒体，会弹出自媒体",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3e66k",
+          "text": "之类词条就是用户关心的问题，你的搜索越进准，你的话题就越容易圈人群。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4mv12",
+          "text": "蹭：蹭热点，现在随便打开平台，每天都有最新的实时热点，随便找一个跟你行业有接近的热点，热点+自己的行业=爆，这里有个点就是要快，一般来说最起码是当天，半天内。别两天你再发，那就没意义。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a18tg",
+          "text": "学：直接利用软件，拉取你同行的爆文，一提关键字二提同类词，直接照抄。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a240a",
+          "text": "比如说我同行的关键词是自媒体，同类词是新手如何做自媒体，做自媒体一个月赚多少钱。直接抄",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5c9c8",
+          "text": "抄：同行写什么，你就写什么，把他的图片，标题，内容，按照自己的习惯，想法，一比一复制发布。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bcpc",
+          "text": "标题：标题逻辑：话题+情绪",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ecbm1",
+          "text": "标题20个字左右，要包含主题关键词。你的标题要跟封面，内容，选题，标题，四项有关联。别无关。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9r7k3",
+          "text": "标题举例",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2cfse",
+          "text": "数字",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5g2pt",
+          "text": "百分之九十的人都不知道自媒体这么简单",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e36sh",
+          "text": "三招教你做自媒体",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "coihj",
+          "text": "十个做自媒体的网站",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dlqh1",
+          "text": "话题：话题+提问",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "13tds",
+          "text": "自媒体如何赚到一百万？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cvti9",
+          "text": "新手如何做自媒体？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7vgv4",
+          "text": "一部手机能做自媒体吗？",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8c8fe",
+          "text": "矛盾：话题+提问",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "vmjn",
+          "text": "自媒体月入十万，但我辞职了",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b08co",
+          "text": "中专毕业凭什么自媒体能月入十万",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6h5cp",
+          "text": "两千块的小米如何剪出高级大片。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ekroi",
+          "text": "反向法：逆向思维",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3np3d",
+          "text": "天天吃肉也能减肥",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fuas5",
+          "text": "不运动也能减肥",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8lluq",
+          "text": "提问：提出问题+解决方案",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "k615",
+          "text": "自媒体如何上手，一部手机就够了",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "rukb",
+          "text": "不会自媒体怎么办，一篇内容给你答案",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8qr17",
+          "text": "两千块手机怎么选，这三台性价比之王。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "416qa",
+          "text": "猎奇心理：博眼球的",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b1da8",
+          "text": "从年入百万到外卖骑手",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7t20s",
+          "text": "一支可以当传家宝的手表",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "258j3",
+          "text": "封面设定",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1j22d",
+          "text": "1：封面呈现。统一3：4",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ei3oq",
+          "text": "2：封面内容",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3l3os",
+          "text": "封面要跟标题对得上，别标题说早安，配个夜晚的图片。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3fjc3",
+          "text": "封面可以加文字，把笔记的内核放到封面。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fpv22",
+          "text": "单篇笔记起码三图以上。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ejda9",
+          "text": "封面内容要好看，要简洁，要有高级感。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6fark",
+          "text": "没思路直接抄同行。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17je0",
+          "text": "笔记发布次数。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjucb",
+          "text": "前三天可以一篇。七天内补足到十篇，正式营销的时候你大概得有十五篇到二十一篇笔记左右，不要用户一点进来空荡荡的。养号七天之后，后续可以一天一更即可。不要同一时间猛发。每篇起码间隔四个小时以上。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9bpum",
+          "text": "发布后看看是否能投流，前期不要关注浏览量，不要关注浏览量，不要关注浏览量。很容易心态失衡。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cua5j",
+          "text": "前期评论正常回复，每条都回复，除了不怀好意的评论。无法回答的评论可以搪塞过去。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "18har",
+          "text": "如何提高转化率",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dnvhn",
+          "text": "降低用户的决策成本+内容垂直统一+有价值的内容=有效涨粉。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "66acc",
+          "text": "打开小红书，搜索问题，一般是需要解决方案，而且是相对专业的解决方案，如果你的笔记能让别人看，还能让她快速看懂，那么她大概率会关注你。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4mp32",
+          "text": "内容要说人话。不要讲别人听不懂的话，同行专业，用户不专业。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ckopk",
+          "text": "排名权重规则",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "17t0l",
+          "text": "1：首页推荐+用户搜索，越推越搜，越搜越推。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3ll6f",
+          "text": "2：权重可以理解为你的信誉分，但是不公开，每个账号都有",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2552",
+          "text": "3：权重分成账号权重和笔记权重",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "belcv",
+          "text": "账号权重算法",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4o2r2",
+          "text": "原创。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cs83m",
+          "text": "小红书是内容平台，原创才是内容，不管你会写不会写，原创是关键",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5cvdl",
+          "text": "如何提高原创",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "97m2m",
+          "text": "1：图片是真拍（本平台没有的一律叫真拍）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5ordr",
+          "text": "2：内容600字以上（个人建议八百左右）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "gail",
+          "text": "垂直",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "68ds1",
+          "text": "专注某一行，做某一行的解决专家，不要今天美食，明天旅游，后天穿搭，平台都不知道你要干嘛。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "def9k",
+          "text": "也不知道怎么给你推。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bq3pc",
+          "text": "内容质量",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "eddfq",
+          "text": "有人看，有人评，有点赞，有人收藏，有人转发，有人关注。互动性越强内容越好。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fhjmc",
+          "text": "账号活跃",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a6b58",
+          "text": "真人活跃，你每天起码看三十分钟以上，你使用平台，平台才给你推流，不使用薅羊毛，平台不是傻瓜",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "risa",
+          "text": "账号等级",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f5g27",
+          "text": "这个没什么好讲的。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1jsf5",
+          "text": "签约博主",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6avfr",
+          "text": "官方认证，会给扶持。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "elqjt",
+          "text": "笔记内容权重如何计算",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8vckd",
+          "text": "笔记比账号权重要大，假如说A普通账号，B高权重账号，是否A就没机会了，不是，内容足够优秀，A也能爆。只不过对于B来说，几率更小。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4suog",
+          "text": "1：推送",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fdgge",
+          "text": "任何一篇笔记发布之后，平台会提取内容关键词，然后进行推送，先小范围，互动率高，再大范围，一层一层，互动率不够，就停止推送。互动率越高，推送越大。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9rpfq",
+          "text": "2：内容长度",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fcmlc",
+          "text": "600字以上加分，800字最合适。600以下不得分",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "35nht",
+          "text": "3：关键词",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6a64",
+          "text": "关键词要相互有关联，别乱标，也别随便打，宁愿不打少打，不要乱打多打。推不准也会少推。更不要打跟内容无关的，不然会系统也不会推。有个词叫恶意曝光，完全马鞭流量，系统不给退，还会限流，封号等。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4m03p",
+          "text": "4：标签",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "hashtags": [
+              {
+                "fromIndex": 10,
+                "text": "可以理解为这个东西",
+                "toIndex": 20
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "atnqa",
+          "text": "加标签可以帮助推流，#可以理解为这个东西，要精准。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "13oh",
+          "text": "5：话题",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cu7e",
+          "text": "话题和标签同理，要有关联性，要有爆点。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "29vlj",
+          "text": "6：违禁词",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8dpi8",
+          "text": "平台有限制，很多东西都不能明讲，不光笔记内容不能出现，评论区也不能有，不然笔记会被炸，出现你觉得不合适的评论你可以删掉。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9uqiv",
+          "text": "关于违规",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "939a6",
+          "text": "账号违规",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bjcng",
+          "text": "一个手机多账号登录，频繁切换都属于",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "32a3g",
+          "text": "昵称广告违规",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c8fou",
+          "text": "头像违规",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "911l6",
+          "text": "个签违规",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1ps7d",
+          "text": "旧号新刷",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fe1u",
+          "text": "笔记违规",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ect5a",
+          "text": "单产品笔记，刷量笔记，恶意贬低其他产品笔记",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "33oaj",
+          "text": "不合规的留联系方式（合规办法很多）",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e6mil",
+          "text": "非原创内容：简单区分，平台有的内容就是抄袭，没有就是原创",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4cjoc",
+          "text": "刷数据：粉丝，评论等",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6r3m9",
+          "text": "不友善行为：骂人，造谣，歧视等包括但不限于",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cuoub",
+          "text": "钓鱼分享",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1621m",
+          "text": "侵权，盗版，虚假，无价值内容。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e6kqs",
+          "text": "ZF，色情，暴力，赌博，恐怖等",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3g5ng",
+          "text": "这是新手会遇到的违规问题，具体情况再具体分析。平台会触及的违规很多，堪比清朝文字狱。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ej713",
+          "text": "最后是再来着重讲一遍流量（除了双十一等大促期间）。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9u1l8",
+          "text": "小红书的实际流量层级是",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3uhvc",
+          "text": "一级0-200",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8njp8",
+          "text": "只要没违规，不管什么内容就是两百内。多篇要看下站内信，是不是有违规。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "etbim",
+          "text": "二级200-500",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7msi5",
+          "text": "正常流量，大部分账号发发都是这个浏览量，如果长期这样，要想想自己是不是活跃度，垂直，原创，内容质量。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e5psm",
+          "text": "三级500-2000",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "i4ig",
+          "text": "账号正常，内容也还行，但是互动率太低了。提高内容，互动",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2jcvl",
+          "text": "注：实际上，一篇笔记如果2000以下，基本上就是AI机器人内容。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7oa1d",
+          "text": "四级2000-两万",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a4k6n",
+          "text": "账号正常，内容可以，但是要保持更新。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ar7b7",
+          "text": "这也是新手比较容易达到的标准。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "42ita",
+          "text": "五级两万-十万",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a297t",
+          "text": "这是自然流的最后一关，过了这边就是人工审核了。这个级别的内容属于较优质内容。新手一定要找到这个节奏感。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1tnjd",
+          "text": "六级十万-一百万。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "82jaq",
+          "text": "很多账号笔记到了十万就不推流了，因为如果系统这个时候判定你的账号，内容都不属于正常内容，营销号内容，或者是标题党/图片党等就不推了，十万是一个门槛，做到十万，就说明成功了一半。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "77j53",
+          "text": "七级一百万到五百万",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "apj5g",
+          "text": "人工干预，不管看内容，还看核心价值观，舆论风险等综合考量。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "28ka1",
+          "text": "八级五百万以上",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "74jd9",
+          "text": "新手不用考虑，一般来说我们做到常态五级够得着六级，就稳稳够吃了",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4avk9",
+          "text": "推荐周期和推荐机制",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cch9t",
+          "text": "1：一周左右一次推荐。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "26ft",
+          "text": "2：小眼睛不是越多越好，具体看是否垂直，在账号足够垂直的情况下，正常账号三级层级也能出效果",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4bk1p",
+          "text": "3：一条笔记短时间互动越高，曝光越高。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "atr70",
+          "text": "手工制作。实践总结。感谢大家转发，点赞，关注。有问题可以随时帖子下面留言提问，看到就解答。 另外如果阅读过十万，马上更新抖音一部手机四个月涨粉60万变现百万的流程，算法，技巧。\n",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4vsmp",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1reja",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": []
+    },
+    "media_entities": []
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "tweet_created_at": "2026-04-02T21:30:54.000000Z",
+  "id": 2039817878308786700,
+  "id_str": "2039817878308786675",
+  "type": "tweet",
+  "conversation_id_str": "2039817878308786675",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/8QB55PjS7D",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1181729392755708000,
+    "id_str": "1181729392755707904",
+    "name": "Fortnite Status",
+    "screen_name": "FortniteStatus",
+    "location": "",
+    "url": "https://www.epicgames.com/site/customer-service",
+    "description": "Service updates for #Fortnite. Follow @Fortnite for daily news, @FNCompetitive for all things competitive, and @FNCreate for everything UEFN and Creative!",
+    "protected": false,
+    "verified": true,
+    "followers_count": 4181415,
+    "friends_count": 8,
+    "listed_count": 5041,
+    "favourites_count": 55,
+    "statuses_count": 90884,
+    "created_at": "2019-10-09T00:33:58.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1181729392755707904/1701593109",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182784466240135170/tTYzHFoe_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": {
+      "label_url": "https://twitter.com/Fortnite",
+      "badge_url": "https://pbs.twimg.com/profile_images/2039321650676600832/EwmA4uPx_bigger.jpg",
+      "description": "Fortnite",
+      "label_type": "BusinessLabel",
+      "display_type": "Badge"
+    },
+    "verification_info": {
+      "type": "Business"
+    }
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 51,
+  "reply_count": 328,
+  "retweet_count": 244,
+  "favorite_count": 2542,
+  "views_count": 570200,
+  "bookmark_count": 179,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039808043274362880",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/8QB55PjS7D"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-02T21:30:54.000000Z",
+    "id": 2039817878308786700,
+    "id_str": "2039817878308786675",
+    "title": "Bug Fixes for OG Season 8 ",
+    "preview_text": "Hey OGs! We’ve been keeping a close eye on reports of bugs or inconsistencies surfaced by the community and wanted to share an update on what’s been fixed or what’s coming soon. Take a look at what",
+    "cover_url": "https://pbs.twimg.com/media/HE7fOfVa0AA0y5h.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "djnec",
+          "text": "Hey OGs! We’ve been keeping a close eye on reports of bugs or inconsistencies surfaced by the community and wanted to share an update on what’s been fixed or what’s coming soon. Take a look at what we’re tracking below:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "bjt55",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 27,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "7lp7n",
+          "text": "✅ Already Fixed or Adjusted",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bmerr",
+          "text": "The OG Lobby background now shows up correctly",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "60oh4",
+          "text": "Enabled the Common and Uncommon Heavy Assault Rifle rarities",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 53,
+              "offset": 81,
+              "style": "Italic"
+            }
+          ],
+          "key": "5oobu",
+          "text": "Muted hitmarker sounds that were incorrectly playing for everyone in the match - a full fix for this is coming in the next game update",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6bcut",
+          "text": "Boom Bow’s draw time and spread has been improved",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e4hjr",
+          "text": "Scoped Assault Rifle’s recoil has been improved",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7jclv",
+          "text": "Infantry Rifle’s ADS spread and accuracy at lower rarities have been improved",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9gpre",
+          "text": "Both Compact and Suppressed SMGs’ structure damage fall-off have been improved",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dblrm",
+          "text": "Hand Cannon's damage has been improved at medium-range distances",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fg42h",
+          "text": "Suppressed Pistols are now more accurate",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "aq6um",
+          "text": "Rocket Launchers are now more accurate",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "am6a1",
+          "text": "Assault Rifle’s recoil and recovery speed has been improved",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bs9tv",
+          "text": "Reduced Reboot Van use time from 15 to intended 10 seconds",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5nvoe",
+          "text": "Material caps have been lowered to 500 per material type",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3qpon",
+          "text": "Later this week, being rebooted will no longer block you from shooting, crouching, building and other actions",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 6,
+              "offset": 0,
+              "style": "Bold"
+            },
+            {
+              "length": 1,
+              "offset": 32,
+              "style": "Bold"
+            }
+          ],
+          "key": "elj81",
+          "text": "Note: You’ll again be respawning in the air due to this change. We’re working on a full fix to restore spawning on top of the Reboot Van",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5fo94",
+          "text": "Later this week, your character’s animations will no longer glitch if you’re launched upward by the Volcano updraft or a geyser while on a Vehicle",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 2,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 44,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ddua8",
+          "text": "⏭️ Fixed in a Future Game Update This Season",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7t5hi",
+          "text": "The ammo cap will be brought closer to Chapter 1 values",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8g8om",
+          "text": "Flint-Knock Pistol’s knockback will be toned down for both the wielder and the opponent",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cfqck",
+          "text": "Sniper scopes will be reverted to the Chapter 1 version for improved visibility",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2f4mc",
+          "text": "The Rocket Launcher will use the correct firing audio",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "12p9f",
+          "text": "Item icons featured on Vending Machines will no longer appear stretched",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2svgr",
+          "text": "Removing the Vending Machine incorrectly placed at Dusty Divot",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "30sdo",
+          "text": "Fixing Driftboard spawn locations at Retail Row",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ahpt",
+          "text": "Entering deep water around Loot Lake and Lazy Lagoon will have the intended slowdown effect that prevents sprinting or sliding",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ce0pu",
+          "text": "The currently-missing Reboot Van will return to Paradise Palms",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4obul",
+          "text": "Reducing the number of tiles, buildings and trees incorrectly covered with snow",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2534f",
+          "text": "Fixing terrain clipping in the hidden Tomato Tunnel room",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2kj0r",
+          "text": "Some sidewalk tiles will no longer have colors incorrectly based on their biome",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8b092",
+          "text": "Grass will no longer clip through sidewalks and roads at Paradise Palms",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "enqbi",
+          "text": "Cars in the Tomato Tunnel lava will display charred effects",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 8,
+              "offset": 4,
+              "style": "Italic"
+            }
+          ],
+          "key": "dp20m",
+          "text": "The Boneyard sign will be back at Junk Junction",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6ktui",
+          "text": "Fixing texture mismatch around the shack east of Loot Lake",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 14,
+              "offset": 17,
+              "style": "Italic"
+            }
+          ],
+          "key": "1s53v",
+          "text": "Removing the old Grand Opening decorations at Dusty Diner",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 21,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9inaf",
+          "text": "🔎 Still Investigating",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "euie",
+          "text": "Chest opening times mismatch with Chapter 1 timing",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8ceqn",
+          "text": "The Flint-Knock Pistol is currently using projectile firing mode instead of hitscan",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3fd78",
+          "text": "The Northern Lights are currently less visible at night than intended",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "adhsh",
+          "text": "Paradise Palms grass color mismatch",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d77go",
+          "text": "Buried Treasure can sometimes spawn under terrain and may not be dug up easily",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "56i79",
+          "text": "A small mound is missing from Loot Lake… Where did it go?",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6b059",
+          "text": "",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a61ot",
+          "text": "Thanks for your reports from the OG Dev Team!",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "b79aa1f7-1e04-4007-9cc9-2d5b19556da9",
+              "mediaItems": [
+                {
+                  "localMediaId": "4",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039813185994366976"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/2705.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/23ed.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "url": "https://abs-0.twimg.com/emoji/v2/svg/1f50e.svg"
+            },
+            "mutability": "Immutable",
+            "type": "TWEMOJI"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE7fSQdaIAAKAAIQZlifI9eQAAAA",
+        "media_id": "2039813185994366976",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 21.07,
+                "rgb": {
+                  "blue": 69,
+                  "green": 66,
+                  "red": 54
+                }
+              },
+              {
+                "percentage": 18.09,
+                "rgb": {
+                  "blue": 220,
+                  "green": 173,
+                  "red": 96
+                }
+              },
+              {
+                "percentage": 13.67,
+                "rgb": {
+                  "blue": 113,
+                  "green": 112,
+                  "red": 86
+                }
+              },
+              {
+                "percentage": 9.02,
+                "rgb": {
+                  "blue": 23,
+                  "green": 53,
+                  "red": 55
+                }
+              },
+              {
+                "percentage": 6.88,
+                "rgb": {
+                  "blue": 90,
+                  "green": 133,
+                  "red": 174
+                }
+              }
+            ]
+          },
+          "original_img_height": 1080,
+          "original_img_url": "https://pbs.twimg.com/media/HE7fSQdaIAAdH4o.jpg",
+          "original_img_width": 1920
+        },
+        "media_key": "3_2039813185994366976"
+      }
+    ]
+  }
+}

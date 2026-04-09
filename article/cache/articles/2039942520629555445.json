@@ -1,0 +1,573 @@
+{
+  "tweet_created_at": "2026-04-03T05:46:11.000000Z",
+  "id": 2039942520629555500,
+  "id_str": "2039942520629555445",
+  "type": "tweet",
+  "conversation_id_str": "2039942520629555445",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/qU9LFEhbJ6",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 210792476,
+    "id_str": "210792476",
+    "name": "Jan Dijkgraaf",
+    "screen_name": "jndkgrf",
+    "location": "Eesterga, Friesland",
+    "url": "https://www.buttkicken.nl/blog",
+    "description": "1 hypocrietenvreter - 2 i know - 3 i don't care - 4 niemandsknecht - 5 bemoei je met je eigen tijd - 6 dommemensenmoe - 7 oké doei - https://t.co/R4cjmNpct9",
+    "protected": false,
+    "verified": true,
+    "followers_count": 125889,
+    "friends_count": 4313,
+    "listed_count": 429,
+    "favourites_count": 97372,
+    "statuses_count": 57473,
+    "created_at": "2010-11-01T12:19:23.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/210792476/1693292284",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1469572271908003844/vQjJc3kn_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 23,
+  "reply_count": 92,
+  "retweet_count": 368,
+  "favorite_count": 1017,
+  "views_count": 34723,
+  "bookmark_count": 21,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039941220294676480",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/qU9LFEhbJ6"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-03T05:46:11.000000Z",
+    "id": 2039942520629555500,
+    "id_str": "2039942520629555445",
+    "title": "Briefje van Jan - aan de Nederlandse Joden",
+    "preview_text": "Beste Joden,\nDe Referendumcommissie van de gemeente Amsterdam adviseert negatief over het houden van een referendum waarin een aantal Amsterdamse organisaties tien eisen stelt.\nDit zijn de eisen:",
+    "cover_url": "https://pbs.twimg.com/media/HE9T6SsWcAAdbRL.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6c5q",
+          "text": "Beste Joden,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 99,
+              "offset": 3
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 99,
+              "offset": 3,
+              "style": "Bold"
+            }
+          ],
+          "key": "agoju",
+          "text": "De Referendumcommissie van de gemeente Amsterdam adviseert negatief over het houden van een referendum waarin een aantal Amsterdamse organisaties tien eisen stelt.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "387fm",
+          "text": "Dit zijn de eisen:",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 89,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "a92ng",
+          "text": "“Erken officieel dat Israël misdaden tegen de menselijkheid pleegt jegens de Palestijnen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 175,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "afsvo",
+          "text": "Verschaf volledige transparantie over gemeentelijke banden met Israël, inclusief bedrijven en organisaties die medeplichtig zijn aan schendingen van mensenrechten door Israël.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 160,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "dk2dt",
+          "text": "Maak een einde aan alle inkopen of aanbestedingen met Israëlische en andere instituten en bedrijven die gekoppeld zijn aan mensenrechtenschendingen door Israël.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 93,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "5mu6",
+          "text": "Beëindig alle banden met Israëlische instellingen en andere medeplichtige (lobby-)instituten.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 61,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "tgv4",
+          "text": "Stel als gemeente een culturele & sportboycot voor Israël in.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 152,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "6f8dl",
+          "text": "Roep de privé-sector op om samenwerking en de handel met Israël te beëindigen en stimuleer deze sector door materiële steun en procedures aan te bieden.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 189,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "2tg2m",
+          "text": "Bemoedig en informeer burgers in Amsterdam door een ​​bewustwordingscampagne te lanceren over Boycot, Desinvesteren en Sancties (BDS) en hoe zij ethisch verantwoorde producten kunnen kopen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 148,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "e3voc",
+          "text": "Roep de Rijksoverheid en de Provincie Noord-Holland op om het internationaal recht en mensenrechten te respecteren en om de BDS-beweging te steunen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 109,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "8k48b",
+          "text": "Roep onderwijsinstellingen in Amsterdam op om alle banden met Israëlische onderwijsinstellingen te verbreken.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 169,
+              "offset": 0,
+              "style": "Italic"
+            }
+          ],
+          "key": "1u4hc",
+          "text": "Roep andere steden en landen op om het voorbeeld van de BDS-beweging te volgen en, indien relevant, een wapenembargo en economische sancties in te stellen tegen Israël.”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3b7hr",
+          "text": "In no time haalden de zich antizionisten noemende Jodenhaters de benodigde 1000 handtekeningen op.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ak6m",
+          "text": "In een volgende fase moeten dat er 10.000 zijn.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 68,
+              "offset": 120
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 68,
+              "offset": 120,
+              "style": "Bold"
+            }
+          ],
+          "key": "8qc1h",
+          "text": "In een stad die vol zit met Jodenhaters (denk aan de pogrom rond de voetbalwedstrijd tussen Ajax en Maccabi Tel Aviv en de weerzinwekkende toestanden bij de opening van het Holocaustmuseum), zal dat vast en zeker ook binnen 24 uur lukken.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4ikqp",
+          "text": "Dan moet de gemeenteraad van Amsterdam er over beslissen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "444kg",
+          "text": "De gemeentelijke Referendumcommissie adviseert de gemeenteraad om niet in te stemmen met een referendum om de doodeenvoudige reden dat een gemeente niet gaat over het buitenlands beleid.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "683fb",
+          "text": "Maar leer ons de Amsterdamse gemeenteraad kennen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 23,
+              "offset": 68
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 23,
+              "offset": 68,
+              "style": "Bold"
+            },
+            {
+              "length": 5,
+              "offset": 296,
+              "style": "Italic"
+            }
+          ],
+          "key": "euicq",
+          "text": "Die laat de eigen gemeente al jaren verslonzen tot een (letterlijk) stinkend rattenparadijs met miljardenschulden én afglijden naar een stad waar Joden en lhbtq’ers alleen met gevaar voor eigen leven hun huis kunnen verlaten, maar is er oprecht van overtuigd gekozen te zijn om de hele wereld te rulen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 39,
+              "offset": 140
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 39,
+              "offset": 140,
+              "style": "Bold"
+            }
+          ],
+          "key": "2asn2",
+          "text": "Met volledige instemming, zo bleek ruim twee weken geleden bij de gemeenteraadsverkiezingen, van de overgrote meerderheid van de bevolking (en zonder dat het kabinet zal ingrijpen).",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f1vm8",
+          "text": "Dus als die gemeenteraad de kans krijgt om de Jodenhaat te faciliteren en om jullie met een officiële referendumuitslag nog even te laten voelen dat jullie niet veilig zijn in de hoofdstad van Nederland, dan laat de raad die kans niet lopen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1be5h",
+          "text": "Niet die lui van Progressief Nederland, niet die lui van D66 en zéker niet die lui van de nog linksere splinters.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "94kac",
+          "text": "We horen burgemeester Femke Halsema, met die valse snik in haar stem, de uitslag op de avond van het referendum al voorlezen.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7fg",
+          "text": "“…tegen de Joden heeft gestemd: 78 procent van de Amstejjjrdammejjjrs…”",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9tol9",
+          "text": "Weten jullie wat de pest is als je dit referendum vergelijkt met dat Oekaïne-referendum in 2016?",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4tug",
+          "text": "Bij dit referendum zoekt de baas van de stad niet naar een geitenpaadje en komt er geen inlegvelletje.",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6eig9",
+          "text": "Sterkte!",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "72jh2",
+          "text": "Groet,",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "27tme",
+          "text": "JanD",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 4,
+              "length": 37,
+              "offset": 15
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 37,
+              "offset": 15,
+              "style": "Bold"
+            }
+          ],
+          "key": "ev5p7",
+          "text": "PS. Cadeautje. Zie het maar als een geheugensteuntje.",
+          "type": "unstyled"
+        },
+        {
+          "data": {
+            "urls": [
+              {
+                "fromIndex": 24,
+                "text": "https://tinyurl.com/pasopvoordetrein",
+                "toIndex": 60
+              }
+            ]
+          },
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 24,
+              "style": "Bold"
+            }
+          ],
+          "key": "fm54e",
+          "text": "Delen? Hier is de link: https://tinyurl.com/pasopvoordetrein",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 5,
+              "length": 13,
+              "offset": 119
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 118,
+              "offset": 0,
+              "style": "Italic"
+            },
+            {
+              "length": 56,
+              "offset": 119,
+              "style": "Italic"
+            },
+            {
+              "length": 13,
+              "offset": 119,
+              "style": "Bold"
+            }
+          ],
+          "key": "a12tb",
+          "text": "Disclaimer: ‘Briefje van Jan’ verschijnt iedere dag en is gratis te lezen. Wil je een kleine donatie doen, dan kan dat via deze link. Veel dank, mede namens mevrouw Dijkgraaf!",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "4",
+          "value": {
+            "data": {
+              "url": "https://tinyurl.com/mvxf73zs"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "5",
+          "value": {
+            "data": {
+              "url": "https://bunq.me/mevrouwDijkgraaf"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "url": "https://www.buttkicken.nl/2024/03/11/briefje-van-jan-aan-femke-halsema-3/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "url": "https://www.at5.nl/artikelen/237615/referendum-over-amsterdamse-boycot-israel-niet-mogelijk-oordeelt-commissie"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "url": "https://youtu.be/uD0mEUXxNZI"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "url": "https://www.buttkicken.nl/2026/03/17/briefje-van-jan-aan-de-nederlandse-joden/"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        }
+      ]
+    },
+    "media_entities": []
+  }
+}

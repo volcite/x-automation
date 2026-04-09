@@ -1,0 +1,221 @@
+{
+  "tweet_created_at": "2026-04-05T23:13:04.000000Z",
+  "id": 2040930749646258700,
+  "id_str": "2040930749646258671",
+  "type": "tweet",
+  "conversation_id_str": "2040930749646258671",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/Th3qY31nsY",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1542096156,
+    "id_str": "1542096156",
+    "name": "🖤",
+    "screen_name": "MelPrzz",
+    "location": "Buenos Aires, Argentina",
+    "url": "http://hoo.be/melprzz",
+    "description": "Streamer ??? | https://t.co/2VdVKxbLA8 | 2nd @meelpriv | NO tengo OF",
+    "protected": false,
+    "verified": true,
+    "followers_count": 309209,
+    "friends_count": 351,
+    "listed_count": 226,
+    "favourites_count": 22990,
+    "statuses_count": 43417,
+    "created_at": "2013-06-24T00:08:47.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542096156/1771422304",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1923721053618020352/-yh_g-Ru_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 2,
+  "reply_count": 55,
+  "retweet_count": 23,
+  "favorite_count": 2643,
+  "views_count": 1650287,
+  "bookmark_count": 1767,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040912532550885376",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/Th3qY31nsY"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-05T23:13:03.000000Z",
+    "id": 2040930749646258700,
+    "id_str": "2040930749646258671",
+    "title": "Click",
+    "preview_text": ".",
+    "cover_url": "https://pbs.twimg.com/media/HFLHWuFW0AAXeDu.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "13kj6",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "50uq6",
+          "text": ".",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "71352c54-3dbd-47ea-9ee4-e16c793d8767",
+              "mediaItems": [
+                {
+                  "localMediaId": "14",
+                  "mediaCategory": "AmplifyVideo",
+                  "mediaId": "2040912584908435456"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAECgABHFLHLskXcAAKAAIAAAAAAAAAAAAA",
+        "media_id": "2040912584908435456",
+        "media_info": {
+          "__typename": "ApiVideo",
+          "aspect_ratio": {
+            "denominator": 1771,
+            "numerator": 996
+          },
+          "duration_millis": 5633,
+          "preview_image": {
+            "color_info": {
+              "palette": [
+                {
+                  "percentage": 53.88,
+                  "rgb": {
+                    "blue": 99,
+                    "green": 113,
+                    "red": 109
+                  }
+                },
+                {
+                  "percentage": 29.34,
+                  "rgb": {
+                    "blue": 60,
+                    "green": 64,
+                    "red": 79
+                  }
+                },
+                {
+                  "percentage": 6.91,
+                  "rgb": {
+                    "blue": 55,
+                    "green": 68,
+                    "red": 116
+                  }
+                },
+                {
+                  "percentage": 6.41,
+                  "rgb": {
+                    "blue": 114,
+                    "green": 112,
+                    "red": 111
+                  }
+                },
+                {
+                  "percentage": 1.27,
+                  "rgb": {
+                    "blue": 24,
+                    "green": 63,
+                    "red": 67
+                  }
+                }
+              ]
+            },
+            "original_img_height": 3542,
+            "original_img_url": "https://pbs.twimg.com/amplify_video_thumb/2040912584908435456/img/9Kdw09HudAA4ChIa.jpg",
+            "original_img_width": 1992
+          },
+          "variants": [
+            {
+              "bit_rate": 25128000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040912584908435456/vid/avc1/1992x3542/vRf38whDGG2jWda1.mp4?tag=21"
+            },
+            {
+              "bit_rate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040912584908435456/vid/avc1/320x568/gCG85LQZz7nkp0vm.mp4?tag=21"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2040912584908435456/pl/S9WxDuOR2RS5ewcN.m3u8?tag=21"
+            },
+            {
+              "bit_rate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040912584908435456/vid/avc1/480x852/oU0Nkth4HG23EjU2.mp4?tag=21"
+            },
+            {
+              "bit_rate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040912584908435456/vid/avc1/1080x1920/AHJFkU3Xopp7S3fr.mp4?tag=21"
+            },
+            {
+              "bit_rate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2040912584908435456/vid/avc1/720x1280/MLnopbq-Iloi9cU5.mp4?tag=21"
+            }
+          ]
+        },
+        "media_key": "13_2040912584908435456"
+      }
+    ]
+  }
+}

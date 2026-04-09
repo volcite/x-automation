@@ -1,0 +1,910 @@
+{
+  "tweet_created_at": "2026-04-01T22:17:16.000000Z",
+  "id": 2039467158938493200,
+  "id_str": "2039467158938493193",
+  "type": "tweet",
+  "conversation_id_str": "2039467158938493193",
+  "community_id_str": null,
+  "community_name": null,
+  "text": null,
+  "full_text": "https://t.co/15CX8eTumb",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1082927252113748000,
+    "id_str": "1082927252113747968",
+    "name": "もとやま",
+    "screen_name": "ysk_motoyama",
+    "location": "自由気ままな働き方note「シゴデキ部屋」はこちら👇",
+    "url": "https://note.com/yusuke_motoyama/membership",
+    "description": "1人社長兼会社員の「自由気ままな働き方」を発信｜著書『投資としての読書』『仕事ができる人のキリの悪い時間の使い方』｜生成AIとかコンテンツマーケとかDXが得意｜株式会社Shikumu代表｜グロービス講師｜元PwCコンサルタント｜Globis MBA←慶應商｜福岡住み｜お問い合わせはDMまで",
+    "protected": false,
+    "verified": true,
+    "followers_count": 78404,
+    "friends_count": 126,
+    "listed_count": 453,
+    "favourites_count": 8145,
+    "statuses_count": 11862,
+    "created_at": "2019-01-09T09:09:11.000000Z",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082927252113747968/1770467005",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1490283922475057152/3AtJmWNQ_normal.jpg",
+    "can_dm": true,
+    "affiliation_label": null
+  },
+  "quoted_status_id": null,
+  "quoted_status_id_str": null,
+  "is_quote_status": false,
+  "quoted_status": null,
+  "retweeted_status": null,
+  "quote_count": 46,
+  "reply_count": 5,
+  "retweet_count": 207,
+  "favorite_count": 2902,
+  "views_count": 1999494,
+  "bookmark_count": 5975,
+  "lang": "zxx",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [],
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2039…",
+        "expanded_url": "http://x.com/i/article/2039321177882324992",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/15CX8eTumb"
+      }
+    ],
+    "user_mentions": [],
+    "display_text_range": [
+      0,
+      23
+    ]
+  },
+  "is_pinned": false,
+  "article": {
+    "published_at": "2026-04-01T22:17:16.000000Z",
+    "id": 2039467158938493200,
+    "id_str": "2039467158938493193",
+    "title": "たたき台のチェックリスト",
+    "preview_text": "「たたき台つくっておいて」\n上司やリーダーからこの一言を受けて、「了解です！」と返したものの、何をどこまで書けば「たたき台」なのか、実はよくわかっていない。",
+    "cover_url": "https://pbs.twimg.com/media/HE0f4x5aEAI6mqi.jpg",
+    "content_state": {
+      "blocks": [
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6af1a",
+          "text": "「たたき台つくっておいて」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ejojq",
+          "text": "上司やリーダーからこの一言を受けて、「了解です！」と返したものの、何をどこまで書けば「たたき台」なのか、実はよくわかっていない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3clvh",
+          "text": "調べたことを箇条書きにして「どう思いますか？」で締める。一生懸命つくったのに「で、結局どうしたいの？」と返される。あるいは、完璧にしようとして提出が遅れ、「もっと早く出してくれれば…」と言われる。全部かつての自分です。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "c2u54",
+          "text": "で、叩かれて凹んだ回と、叩かれたけど心地よい会議後感を味わえた回の違いを紐解く中で、「良いたたき台の要件」を言語化できたので、チェックリストとしてまとめておく。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d12cg",
+          "text": "たたき台の定義",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 55,
+              "offset": 7,
+              "style": "Bold"
+            }
+          ],
+          "key": "9sqhe",
+          "text": "たたき台とは、問い（＝決めたいこと）に対して、暫定の結論と、その根拠を最小限そろえ、議論で直すべき点が見える状態にした初期案のこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9mt02",
+          "text": "チェックすべきは5つ。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "8fsvc",
+          "text": "解きたい問いが明確か？",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4c1cr",
+          "text": "主張がスタンスを取っているか？",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5972a",
+          "text": "根拠が最低限そろっているか？",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6u334",
+          "text": "データに解釈を乗っけているか？",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "e2hla",
+          "text": "スピードと割り切りが適切か？",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 0,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "dgsa",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "au8mj",
+          "text": "①解きたい問いが明確か？",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b6gpq",
+          "text": "「この資料は、何に白黒つけるための資料なのか？」が1文で言えるかどうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "a9am2",
+          "text": "NG： 読んでも「何を決めたい資料なのか」がよくわからない",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "fm13q",
+          "text": "OK： 「経費精算ツールをAからBに切り替えるべきか、を今週決めたい」",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1v8k3",
+          "text": "ここがぼやけていると、読み手は「で、これ何の話？」からスタートすることになる。議論の前に目的のすり合わせが必要になるので、時間がもったいない。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "epref",
+          "text": "②主張がスタンスを取っているか？",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "97ib",
+          "text": "「自分はこう思う」が書いてあるかどうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "5igim",
+          "text": "NG： 「どう思いますか？」で締めくくる。これだと判断を丸投げしている",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1gk5d",
+          "text": "OK： 「経費精算ツールをAからBへ切り替えるべきである」と言い切る",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1f5nr",
+          "text": "よくある誤解が「まだ確信がないのにスタンスを取っていいのか」という不安。結論から言うと、取っていいし、取るべき。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3kvoh",
+          "text": "たたき台の目的は、正解を出すことではなく、議論の起点をつくること。\n仮でもスタンスがあると、周囲は「ここは同意、ここは違う」と反応できる。スタンスがないと全員が白紙から考えることになり、たたき台の意味がなくなる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "f6sg2",
+          "text": "炎上上等。スタンス、取っちゃいましょう。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cj71o",
+          "text": "③根拠が最低限そろっているか？",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "ek7v1",
+          "text": "その主張を支えるのに必要な観点が、最低3つくらい押さえてあるかどうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "50nbg",
+          "text": "NG： 明らかに必要な観点が抜けていて、「議論以前にまず調べ直して」になる",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "4nprt",
+          "text": "OK： コスト、効果、リスクの3点を整理してある",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "a96ku",
+          "text": "「3つ」は目安。テーマによって「顧客への影響・実行難易度・導入スピード」でもいいし、「使いやすさ・コスト・サポートの手厚さ」でもいい。大事なのは「この3点を押さえていれば判断の土台として議論が回せる」というセットを自分で選ぶこと。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5u899",
+          "text": "④データに解釈を乗っけているか？",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "1h9if",
+          "text": "集めたデータに対して「その事実から、要するに何が言えるのか」をちゃんと書いてあるかどうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "e3i3j",
+          "text": "NG： 料金表と機能比較表を貼っただけ。解釈ゼロ",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "12eps",
+          "text": "OK： 「月あたり83時間の削減余地がある。人件費換算でBの追加コストを上回る見込み」と意思決定に役立つ解釈を乗せている",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4c91t",
+          "text": "データを集めること自体はがんばっているのに、「で、それって結局どういうこと？」が書いていない。せっかくのたたき台が「ただの情報の貼り付け集」で終わっている人がけっこう多い。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 36,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "d5flu",
+          "text": "1行でいいので「だからこう言える」を書くだけで、資料の価値が跳ね上がる。 まずは1行でいい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cegn3",
+          "text": "⑤スピードと割り切りが適切か？",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "b8mm7",
+          "text": "短時間で「議論をスタートするに足る形」をつくれているかどうか。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "45i8s",
+          "text": "NG： 100点を目指して遅い。あるいは逆に雑すぎて議論が始まらない",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 3,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ea5t",
+          "text": "OK： 足りないデータは「未取得」と明示して、分かっている範囲で出す",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "4nav8",
+          "text": "たたき台において「分からないこと」は恥ではない。むしろ「何が分かっていて、何がまだ分かっていないか」をはっきり示すこと自体が価値。不足を隠して完成したふりをするほうが、よほどまずい。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5tf0p",
+          "text": "具体例：ダメなたたき台vs良いたたき台",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 5,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1f0ak",
+          "text": "ダメな例：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3lp5",
+          "text": "■経費精算ツール検討メモ\n・いま使っているツールAと、ツールBという候補がある\n・ツールBは最近よく聞く\n・他社事例：X社が導入、Y社が導入\n・料金：A＝月額20万、B＝月額35万\n・機能：Bのほうが色々できそう どう思いますか？",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "6eb47",
+          "text": "5つのチェックリストに照らすと全滅。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "7s92q",
+          "text": "問いが不明確（切替の判断なのか、比較なのか、候補出しなのかわからない）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "dsgri",
+          "text": "スタンスなし（「どう思いますか？」と丸投げ）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5k9a3",
+          "text": "根拠が足りない（効果、移行コスト、運用負担、リスクなど突っ込まれる観点が抜けている）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2614h",
+          "text": "データに解釈がない（料金差15万円が判断にどう効くかの説明がない）",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "cqvbd",
+          "text": "割り切りすぎて議論がスタートできない",
+          "type": "unordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 4,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "au7pd",
+          "text": "良い例：",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "fuc2",
+          "text": "■経費精算ツール切替の叩き台\n【問い】\n経費精算ツールをA→Bへ切り替えるべきか？（今週中に方針を決めたい）\n【暫定の結論】\nBへ切り替える（ただし以下の移行条件を満たす場合） \n【根拠】\n①業務時間の削減：月83時間の削減余地\n②内部統制の強化：差戻し削減で経理の再処理工数が減る\n③コスト増だが工数削減が上回る見込み（時間単価は未確定）\n【議論したい論点】\n時間単価の置き方、移行リスクの許容範囲、Bで満たせない要件の有無\n【不足データ】\n時間単価、移行費用、セキュリティ審査結果\n【次アクション】\n経理→差戻し工数算出、IT→セキュリティ判定、自分→トライアル提案",
+          "type": "blockquote"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "d3u9l",
+          "text": "5つのチェックリストをすべて満たしている。これなら上司もチームも「ここは同意」「ここは違う」「この論点をまず潰そう」とすぐに議論を始められる。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "3enss",
+          "text": "まとめ",
+          "type": "header-one"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "2blpa",
+          "text": "たたき台を会議に持っていく前に、この5つをチェックする。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 12,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "djtlj",
+          "text": "解きたい問いが明確か？\n「何に白黒つける資料か」が1文で言える",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "1kkeq",
+          "text": "スタンスを取っているか？\n確信がなくても仮の結論を言い切る。議論の起点になる",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "9stv9",
+          "text": "根拠が最低限そろっているか？\n判断の土台になる観点を最低3つ押さえる",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 15,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "22gmb",
+          "text": "データに解釈を乗せているか？\n「だからこう言える」を1行でいいから書く",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [
+            {
+              "length": 10,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "ae8i6",
+          "text": "割り切りが適切か？\n足りないデータは「未取得」と明示して、わかる範囲で出す",
+          "type": "ordered-list-item"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "9ror9",
+          "text": "割とシンプルですけど、配ってみると、それなりに効き目のあるチェックリストだったので、備忘録がてら綴ってみました。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 1,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "7kb37",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "5k2ul",
+          "text": "ちなみに、こういった現場知をまとめたnoteが230記事以上、月額500円で読み放題のメンバーシップをやっています。 ワンコインで 「仕事がデキて、サクッと定時に帰れるようになる」 「副業なり転職なり、自由にキャリアを選択できるようになる」 「生成AIを実務でちゃんと使う方法がわかる」 そんな内容にこだわってこだわって書いています。 よろしければ、試しに覗いていってみてください。",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 2,
+              "length": 13,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [
+            {
+              "length": 13,
+              "offset": 0,
+              "style": "Bold"
+            }
+          ],
+          "key": "dbdu6",
+          "text": "もとやまの「シゴデキ部屋」",
+          "type": "unstyled"
+        },
+        {
+          "data": [],
+          "entityRanges": [
+            {
+              "key": 3,
+              "length": 1,
+              "offset": 0
+            }
+          ],
+          "inlineStyleRanges": [],
+          "key": "4puij",
+          "text": " ",
+          "type": "atomic"
+        },
+        {
+          "data": [],
+          "entityRanges": [],
+          "inlineStyleRanges": [],
+          "key": "bo9l7",
+          "text": "",
+          "type": "unstyled"
+        }
+      ],
+      "entityMap": [
+        {
+          "key": "0",
+          "value": {
+            "data": {
+              "entityKey": "59c2392f-c7ef-4aa1-a761-89cbead3df52",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039322658106679296"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        },
+        {
+          "key": "1",
+          "value": {
+            "data": {
+              "entityKey": "dfbc7474-277d-44c1-a8e5-aed5d0e91281"
+            },
+            "mutability": "Immutable",
+            "type": "DIVIDER"
+          }
+        },
+        {
+          "key": "2",
+          "value": {
+            "data": {
+              "entityKey": "105790bf-4697-4821-8bfc-1ebc73dd4b23",
+              "url": "https://note.com/yusuke_motoyama/membership"
+            },
+            "mutability": "Mutable",
+            "type": "LINK"
+          }
+        },
+        {
+          "key": "3",
+          "value": {
+            "data": {
+              "entityKey": "5424dd59-cb70-4979-9e3f-29e1d996a8db",
+              "mediaItems": [
+                {
+                  "localMediaId": "2",
+                  "mediaCategory": "DraftTweetImage",
+                  "mediaId": "2039501766010843136"
+                }
+              ]
+            },
+            "mutability": "Immutable",
+            "type": "MEDIA"
+          }
+        }
+      ]
+    },
+    "media_entities": [
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE0hJxraoAAKAAIPB1SZI9RwAAAA",
+        "media_id": "2039322658106679296",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 99.32,
+                "rgb": {
+                  "blue": 255,
+                  "green": 255,
+                  "red": 255
+                }
+              },
+              {
+                "percentage": 0.55,
+                "rgb": {
+                  "blue": 204,
+                  "green": 163,
+                  "red": 89
+                }
+              },
+              {
+                "percentage": 0.13,
+                "rgb": {
+                  "blue": 142,
+                  "green": 142,
+                  "red": 142
+                }
+              }
+            ]
+          },
+          "original_img_height": 557,
+          "original_img_url": "https://pbs.twimg.com/media/HE0hJxraoAA05xw.jpg",
+          "original_img_width": 1055
+        },
+        "media_key": "3_2039322658106679296"
+      },
+      {
+        "id": "QXBpTWVkaWE6DAAFCgABHE3EDOnbsAAKAAIPB1SZI9RwAAAA",
+        "media_id": "2039501766010843136",
+        "media_info": {
+          "__typename": "ApiImage",
+          "color_info": {
+            "palette": [
+              {
+                "percentage": 42.56,
+                "rgb": {
+                  "blue": 114,
+                  "green": 73,
+                  "red": 48
+                }
+              },
+              {
+                "percentage": 21.91,
+                "rgb": {
+                  "blue": 206,
+                  "green": 200,
+                  "red": 197
+                }
+              },
+              {
+                "percentage": 7.09,
+                "rgb": {
+                  "blue": 9,
+                  "green": 181,
+                  "red": 237
+                }
+              },
+              {
+                "percentage": 5.35,
+                "rgb": {
+                  "blue": 42,
+                  "green": 43,
+                  "red": 43
+                }
+              },
+              {
+                "percentage": 3.37,
+                "rgb": {
+                  "blue": 107,
+                  "green": 166,
+                  "red": 173
+                }
+              }
+            ]
+          },
+          "original_img_height": 356,
+          "original_img_url": "https://pbs.twimg.com/media/HE3EDOnbsAAdrj2.png",
+          "original_img_width": 680
+        },
+        "media_key": "3_2039501766010843136"
+      }
+    ]
+  }
+}
