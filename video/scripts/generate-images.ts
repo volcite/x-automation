@@ -25,9 +25,6 @@ async function generateImage(
       contents: [{ parts: [{ text: fullPrompt }] }],
       generationConfig: {
         responseModalities: ["IMAGE", "TEXT"],
-        imageGenerationConfig: {
-          aspectRatio: "16:9",
-        },
       },
     }),
   });
