@@ -47,7 +47,7 @@ fi
 
 # 作業ディレクトリを x-automation 直下に移動
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-PROJECT_DIR="$(dirname "$(dirname "$SCRIPT_DIR")")"
+PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 cd "$PROJECT_DIR"
 
 LOG_DIR="$PROJECT_DIR/logs"
@@ -163,10 +163,10 @@ else:
 fi
 
 # .envファイルからWEBHOOK_URLを読み込む
-if [ -f ".env" ]; then
-  export $(grep -v '^#' .env | xargs)
+if [ -f "$PROJECT_DIR/.env" ]; then
+  export $(grep -v '^#' "$PROJECT_DIR/.env" | xargs)
 else
-  log "警告: .envファイルが見つかりません"
+  log "警告: .envファイルが見つかりません ($PROJECT_DIR/.env)"
 fi
 
 if [ -z "$WEBHOOK_URL" ]; then
