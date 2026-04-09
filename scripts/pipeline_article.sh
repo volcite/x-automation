@@ -1,15 +1,16 @@
 #!/bin/bash
 # ========================================
 # X記事（Note記事）制作パイプライン（週次実行）
-# 1週間ごとにバズ記事を調査・分析し、記事を作成してWebhookで送信する
+# 1週間ごとにバズ記事を調査・分析し、20テーマ候補から5本を選定・執筆してWebhookで送信する
 #
 # フロー:
-#   1. 先週バズったX記事をリサーチ
+#   1. 先週バズったX記事をリサーチ（7日以内の既存データがあれば再利用）
 #   2. リサーチデータを分析
 #   3. 分析履歴を蓄積（過去1ヶ月分保持）
-#   4. 記事テーマを立案（article_planner）
-#   5. 記事を執筆（article_writer）
-#   6. Webhookでn8nに送信
+#   4. 20テーマ候補を洗い出し、上位5本を選定（article_planner）
+#   5. 選定した5本を順番に執筆（article_writer × 5）
+#   6. 5本すべてをWebhookでn8nに送信
+#   7. ナレッジストック使用カウント更新
 #
 # 使い方:
 #   bash scripts/pipeline_article.sh
@@ -124,8 +125,56 @@ log "========== X記事制作パイプライン開始 =========="
 
 # ========================================
 # STEP 1: バズ記事リサーチ（先週分）
+# 7日以内の既存リサーチがあれば再実行をスキップしてAPIコストを節約
 # ========================================
-if [ "$SKIP_RESEARCH" = false ]; then
+
+# 既存の report-*.json / analysis-*.md が7日以内にあるかチェック
+FRESH_REPORT=""
+FRESH_ANALYSIS=""
+FRESH_AGE_DAYS=""
+if [ -d "$ARTICLE_DIR/output" ]; then
+  FRESH_CHECK=$(node -e "
+const fs = require('fs');
+const dir = '$ARTICLE_DIR/output';
+try {
+  const files = fs.readdirSync(dir);
+  const reports = files.filter(f => /^report-\d{4}-\d{2}-\d{2}T\d{2}-\d{2}-\d{2}\.json$/.test(f));
+  const analyses = files.filter(f => /^analysis-\d{4}-\d{2}-\d{2}T\d{2}-\d{2}-\d{2}\.md$/.test(f));
+  if (reports.length === 0) { console.log(''); process.exit(0); }
+  reports.sort((a, b) => b.localeCompare(a));
+  const latestReport = reports[0];
+  // 'report-YYYY-MM-DDTHH-MM-SS.json' から日付部分を抽出
+  const dateStr = latestReport.slice(7, 17); // YYYY-MM-DD
+  const reportDate = new Date(dateStr + 'T00:00:00Z');
+  const now = new Date();
+  const diffDays = (now.getTime() - reportDate.getTime()) / (1000 * 60 * 60 * 24);
+  if (diffDays > 7) { console.log(''); process.exit(0); }
+  // analysis は report と同一タイムスタンプを優先、なければ最新を使用
+  const reportStem = latestReport.replace(/^report-/, '').replace(/\.json$/, '');
+  const matchingAnalysis = analyses.find(a => a === 'analysis-' + reportStem + '.md');
+  analyses.sort((a, b) => b.localeCompare(a));
+  const latestAnalysis = matchingAnalysis || analyses[0] || '';
+  if (!latestAnalysis) { console.log(''); process.exit(0); }
+  console.log(latestReport + '|' + latestAnalysis + '|' + diffDays.toFixed(1));
+} catch (e) {
+  console.log('');
+}
+" 2>/dev/null)
+
+  if [ -n "$FRESH_CHECK" ]; then
+    FRESH_REPORT=$(echo "$FRESH_CHECK" | cut -d'|' -f1)
+    FRESH_ANALYSIS=$(echo "$FRESH_CHECK" | cut -d'|' -f2)
+    FRESH_AGE_DAYS=$(echo "$FRESH_CHECK" | cut -d'|' -f3)
+  fi
+fi
+
+if [ "$SKIP_RESEARCH" = true ]; then
+  log "[STEP 1] リサーチをスキップ（--skip-research）"
+elif [ -n "$FRESH_REPORT" ]; then
+  log "[STEP 1] 7日以内の既存リサーチを発見 ✅ リサーチをスキップ（API節約）"
+  log "  既存レポート: ${FRESH_REPORT} (${FRESH_AGE_DAYS}日前)"
+  log "  既存分析: ${FRESH_ANALYSIS}"
+else
   log "[STEP 1] バズ記事リサーチ開始..."
 
   # 先週の日付範囲を算出
@@ -147,8 +196,6 @@ if [ "$SKIP_RESEARCH" = false ]; then
   else
     log "[STEP 1] リサーチ失敗 ❌ 既存データで続行します"
   fi
-else
-  log "[STEP 1] リサーチをスキップ（--skip-research）"
 fi
 
 # ========================================
@@ -211,53 +258,105 @@ else
 fi
 
 # ========================================
-# STEP 3: 記事テーマ立案（article_planner）
+# STEP 3: 20テーマ候補立案＆上位5本選定（article_planner）
 # ========================================
-log "[STEP 3] 記事テーマ立案開始..."
+log "[STEP 3] 20テーマ候補立案＆上位5本選定開始..."
+
+# 古い candidates を念のためバックアップ
+if [ -f "data/article_theme_candidates.json" ]; then
+  cp "data/article_theme_candidates.json" "data/article_theme_candidates.json.bak" 2>/dev/null || true
+fi
 
 if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/article_planner.md)" >> "$LOG_FILE" 2>&1; then
-  if [ -f "data/article_plan.json" ]; then
-    ARTICLE_THEME=$(jq -r '.theme' data/article_plan.json)
-    log "[STEP 3] 記事テーマ立案完了 ✅ テーマ: ${ARTICLE_THEME}"
+  if [ -f "data/article_theme_candidates.json" ]; then
+    CANDIDATE_COUNT=$(jq -r '.candidates | length' data/article_theme_candidates.json)
+    SELECTED_COUNT=$(jq -r '.selected | length' data/article_theme_candidates.json)
+    log "[STEP 3] テーマ立案完了 ✅ 候補: ${CANDIDATE_COUNT}件 / 選定: ${SELECTED_COUNT}件"
+
+    if [ "$SELECTED_COUNT" -lt 1 ]; then
+      log "[STEP 3] selected 配列が空です ❌"
+      exit 1
+    fi
   else
-    log "[STEP 3] article_plan.json が生成されませんでした ❌"
+    log "[STEP 3] article_theme_candidates.json が生成されませんでした ❌"
     exit 1
   fi
 else
-  log "[STEP 3] 記事テーマ立案失敗 ❌"
+  log "[STEP 3] テーマ立案失敗 ❌"
   exit 1
 fi
 
 # ========================================
-# STEP 4: 記事執筆（article_writer）
+# STEP 4 & 5: 選定した5本を順番に執筆＆Webhook送信
 # ========================================
-log "[STEP 4] 記事執筆開始..."
+log "[STEP 4-5] 5本の記事執筆＆送信を開始..."
 
-if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/article_writer.md)" >> "$LOG_FILE" 2>&1; then
-  if [ -f "data/article_draft.json" ]; then
-    CHAR_COUNT=$(jq -r '.char_count' data/article_draft.json)
-    ARTICLE_TITLE=$(jq -r '.title' data/article_draft.json)
-    log "[STEP 4] 記事執筆完了 ✅ タイトル: ${ARTICLE_TITLE} (${CHAR_COUNT}文字)"
-  else
-    log "[STEP 4] article_draft.json が生成されませんでした ❌"
-    exit 1
+# ドラフト保存先ディレクトリ
+DRAFTS_DIR="data/article_drafts"
+mkdir -p "$DRAFTS_DIR"
+
+SUCCESS_COUNT=0
+FAIL_COUNT=0
+TOTAL_SELECTED=$(jq -r '.selected | length' data/article_theme_candidates.json)
+
+for ((i=0; i<TOTAL_SELECTED; i++)); do
+  RANK=$((i+1))
+  log "----- 記事 ${RANK}/${TOTAL_SELECTED} -----"
+
+  # selected[i] を data/article_plan.json に展開（writer が読み込む単一プラン）
+  node -e "
+const fs = require('fs');
+const candidates = JSON.parse(fs.readFileSync('data/article_theme_candidates.json', 'utf-8'));
+const plan = candidates.selected[${i}];
+if (!plan) {
+  console.error('selected[${i}] が存在しません');
+  process.exit(1);
+}
+// date フィールドを付与
+plan.date = candidates.date || new Date().toISOString().slice(0, 10);
+fs.writeFileSync('data/article_plan.json', JSON.stringify(plan, null, 2));
+console.log('article_plan.json 更新: rank=' + (plan.rank || ${RANK}) + ' theme=' + (plan.theme || ''));
+" >> "$LOG_FILE" 2>&1
+
+  if [ ! -f "data/article_plan.json" ]; then
+    log "  [STEP 4] article_plan.json 生成失敗 ❌ スキップ"
+    FAIL_COUNT=$((FAIL_COUNT+1))
+    continue
   fi
-else
-  log "[STEP 4] 記事執筆失敗 ❌"
-  exit 1
-fi
 
-# ========================================
-# STEP 5: Webhookでn8nに送信
-# ========================================
-log "[STEP 5] Webhook送信..."
+  PLAN_THEME=$(jq -r '.theme // "不明"' data/article_plan.json)
+  log "  [STEP 4] 執筆開始: ${PLAN_THEME}"
 
-if [ -z "$ARTICLE_WEBHOOK_URL" ]; then
-  log "[STEP 5] ARTICLE_WEBHOOK_URL が設定されていません ⚠️ 送信をスキップ"
-  log "  記事は data/article_draft.json に保存されています"
-else
-  # title と content（article_content）を分離したペイロードを生成
-  WEBHOOK_PAYLOAD=$(node -e "
+  # 古い draft を削除（writer が新規作成するのを保証）
+  rm -f data/article_draft.json
+
+  if "$CLAUDE_CMD" -p "$(awk '/^---$/{n++; next} n>=2' .claude/agents/article_writer.md)" >> "$LOG_FILE" 2>&1; then
+    if [ -f "data/article_draft.json" ]; then
+      CHAR_COUNT=$(jq -r '.char_count // 0' data/article_draft.json)
+      ARTICLE_TITLE=$(jq -r '.title // "無題"' data/article_draft.json)
+      log "  [STEP 4] 執筆完了 ✅ ${ARTICLE_TITLE} (${CHAR_COUNT}文字)"
+
+      # ランク別ドラフトとして保存
+      DRAFT_FILE="${DRAFTS_DIR}/article_draft_${RANK}.json"
+      cp "data/article_draft.json" "$DRAFT_FILE"
+      log "  [STEP 4] 保存: ${DRAFT_FILE}"
+    else
+      log "  [STEP 4] article_draft.json が生成されませんでした ❌ スキップ"
+      FAIL_COUNT=$((FAIL_COUNT+1))
+      continue
+    fi
+  else
+    log "  [STEP 4] 執筆失敗 ❌ スキップ"
+    FAIL_COUNT=$((FAIL_COUNT+1))
+    continue
+  fi
+
+  # Webhook送信
+  if [ -z "$ARTICLE_WEBHOOK_URL" ]; then
+    log "  [STEP 5] ARTICLE_WEBHOOK_URL 未設定 ⚠️ 送信スキップ"
+    SUCCESS_COUNT=$((SUCCESS_COUNT+1))
+  else
+    WEBHOOK_PAYLOAD=$(node -e "
 const fs = require('fs');
 const draft = JSON.parse(fs.readFileSync('data/article_draft.json', 'utf-8'));
 const payload = {
@@ -266,30 +365,35 @@ const payload = {
   subtitle: draft.subtitle || '',
   meta_description: draft.meta_description || '',
   char_count: draft.char_count || 0,
-  date: draft.date || ''
+  date: draft.date || '',
+  rank: ${RANK},
+  total: ${TOTAL_SELECTED}
 };
 process.stdout.write(JSON.stringify(payload));
 ")
 
-  HTTP_CODE=$(echo "$WEBHOOK_PAYLOAD" | curl -s -o /dev/null -w "%{http_code}" \
-    -X POST "$ARTICLE_WEBHOOK_URL" \
-    -H "Content-Type: application/json; charset=utf-8" \
-    --data-binary @-)
+    HTTP_CODE=$(echo "$WEBHOOK_PAYLOAD" | curl -s -o /dev/null -w "%{http_code}" \
+      -X POST "$ARTICLE_WEBHOOK_URL" \
+      -H "Content-Type: application/json; charset=utf-8" \
+      --data-binary @-)
 
-  if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
-    log "[STEP 5] Webhook送信完了 ✅ (HTTP $HTTP_CODE)"
-    log "  送信フィールド: title, content, subtitle, meta_description, char_count, date"
-  else
-    log "[STEP 5] Webhook送信失敗 ❌ (HTTP $HTTP_CODE)"
-    log "  記事は data/article_draft.json に保存されています"
+    if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
+      log "  [STEP 5] Webhook送信完了 ✅ (HTTP $HTTP_CODE)"
+      SUCCESS_COUNT=$((SUCCESS_COUNT+1))
+    else
+      log "  [STEP 5] Webhook送信失敗 ❌ (HTTP $HTTP_CODE) ドラフトは ${DRAFT_FILE} に保存済み"
+      FAIL_COUNT=$((FAIL_COUNT+1))
+    fi
   fi
-fi
+done
+
+log "[STEP 4-5] 全記事処理完了: 成功 ${SUCCESS_COUNT}件 / 失敗 ${FAIL_COUNT}件"
 
 # ========================================
-# STEP 6: ナレッジストック使用カウント更新
+# STEP 6: ナレッジストック使用カウント更新（選定5本分すべて）
 # ========================================
-if [ -f "data/article_plan.json" ] && [ -f "data/knowledge_stock.json" ]; then
-  KNOWLEDGE_IDS=$(jq -r '.knowledge_used[]?.id // empty' data/article_plan.json 2>/dev/null || echo "")
+if [ -f "data/article_theme_candidates.json" ] && [ -f "data/knowledge_stock.json" ]; then
+  KNOWLEDGE_IDS=$(jq -r '.selected[].knowledge_used[]?.id // empty' data/article_theme_candidates.json 2>/dev/null | sort -u || echo "")
 
   if [ -n "$KNOWLEDGE_IDS" ]; then
     log "[STEP 6] ナレッジストック使用カウント更新..."
@@ -321,8 +425,9 @@ fi
 # 完了
 # ========================================
 log "========== X記事制作パイプライン完了 =========="
-log "  テーマ: ${ARTICLE_THEME:-不明}"
-log "  タイトル: ${ARTICLE_TITLE:-不明}"
-log "  文字数: ${CHAR_COUNT:-不明}"
-log "  記事ファイル: data/article_draft.json"
+log "  候補テーマ数: ${CANDIDATE_COUNT:-不明}"
+log "  選定テーマ数: ${TOTAL_SELECTED:-不明}"
+log "  送信成功: ${SUCCESS_COUNT}件 / 失敗: ${FAIL_COUNT}件"
+log "  候補ファイル: data/article_theme_candidates.json"
+log "  ドラフト保存先: ${DRAFTS_DIR}/article_draft_{1..${TOTAL_SELECTED}}.json"
 log "  ログ: $LOG_FILE"

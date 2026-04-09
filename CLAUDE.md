@@ -40,23 +40,26 @@ n8n: リプライ取得 → pipeline_reply.sh → Webhook → n8nがランダム
 pipeline_article.sh
   ↓
 STEP 1: バズ記事リサーチ（先週分、SocialData API）
+  ※ article/output/ に7日以内の report-*.json と analysis-*.md があれば
+    リサーチをスキップして既存データを再利用（API節約）
   → article/output/report-{日時}.json
   → article/output/analysis-{日時}.md
   ↓
 STEP 2: 分析履歴の蓄積（過去1ヶ月分保持）
   → data/article_analysis_history.json
   ↓
-STEP 3: article_planner（テーマ立案）
+STEP 3: article_planner（20テーマ候補立案＆上位5本選定）
   読込: 分析結果 + 分析履歴 + trends.json + knowledge_stock + persona
-  → data/article_plan.json
+  → data/article_theme_candidates.json（candidates: 20件, selected: 5件）
   ↓
-STEP 4: article_writer（記事執筆）
-  読込: article_plan + style_guide + persona + X投稿文体サンプル + トレンド + ナレッジ
-  → data/article_draft.json（3000文字以上）
+STEP 4-5: 選定5本をループで執筆＆Webhook送信
+  for rank in 1..5:
+    selected[rank-1] → data/article_plan.json
+    article_writer → data/article_draft.json（3000文字以上）
+                   → data/article_drafts/article_draft_{rank}.json に複製
+    Webhook → n8n → Note記事公開（rank/total 付き）
   ↓
-STEP 5: Webhook → n8n → Note記事公開
-  ↓
-STEP 6: ナレッジストック使用カウント更新
+STEP 6: ナレッジストック使用カウント更新（選定5本分まとめて）
 ```
 
 ## 手動実行コマンド
@@ -113,8 +116,10 @@ STEP 6: ナレッジストック使用カウント更新
 | `post/data/reply_counter.json` | 日次返信カウンター（上限150件/日, 15件/回） | pipeline_reply.sh |
 | `post/data/injected_topic.json` | 差し込みテーマ（n8nから特定テーマを2-3日間投稿に反映） | pipeline_inject.sh / n8n連携 |
 | `data/article_analysis_history.json` | バズ記事分析の蓄積（過去1ヶ月分保持） | pipeline_article.sh |
-| `data/article_plan.json` | 記事テーマ・構成企画 | article_planner |
-| `data/article_draft.json` | 記事下書き（3000文字以上） | article_writer |
+| `data/article_theme_candidates.json` | 20テーマ候補＋選定5本の企画（週次） | article_planner |
+| `data/article_plan.json` | 現在執筆中の単一プラン（selected[N]を展開したもの） | pipeline_article.sh |
+| `data/article_draft.json` | 現在執筆中の記事下書き（3000文字以上） | article_writer |
+| `data/article_drafts/article_draft_{1..5}.json` | 週次5本のランク別ドラフト保存先 | pipeline_article.sh |
 | `article/output/report-{日時}.md` | X記事リサーチレポート（サマリー+TOP20+全文） | x-article-researcher.js |
 | `article/output/report-{日時}.json` | X記事リサーチJSONデータ | x-article-researcher.js |
 | `article/output/analysis-{日時}.md` | X記事分析レポート（パターン分析・統計） | x-article-analyzer.js |
