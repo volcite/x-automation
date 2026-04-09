@@ -1,24 +1,22 @@
 {
   "date": "2026-04-09",
-  "x_api_status": "401 Unauthorized - X Bearer Token invalid or expired. All research conducted via WebSearch only.",
+  "x_api_status": "skipped_401_unauthorized",
   "search_queries_used": [
-    "Claude Code 2026 latest update features",
-    "Anthropic Claude 2026 April news announcement",
-    "AI agent automation workflow 2026 latest",
-    "n8n AI automation 2026 new features",
-    "AI coding assistant 2026 trends comparison",
-    "Claude Managed Agents Anthropic April 2026",
-    "Claude Mythos model preview 2026",
-    "OpenAI GPT April 2026 latest news",
-    "Hacker News AI agent automation April 2026",
-    "Claude Sonnet 4.6 release features April 2026",
-    "Google Gemini 3.0 latest update April 2026",
-    "Product Hunt AI tools launch April 2026",
-    "Claude Code 最新 2026年4月",
-    "AIエージェント 自動化 2026年 最新事例",
-    "生成AI 業務効率化 2026年 最新ニュース",
-    "n8n ワークフロー AI 2026 活用",
-    "site:x.com keitowebai OR miyabi_foxx OR masahirochaen AI 自動化 2026"
+    "Claude Code latest features 2026",
+    "AI agent automation workflow tools 2026",
+    "Anthropic Claude Code computer use auto mode April 2026",
+    "n8n AI workflow automation update 2026",
+    "Claude Code scheduled tasks cloud infrastructure Anthropic 2026",
+    "AIエージェント 自動化 日本 最新 2026年4月",
+    "生成AI 業務効率化 中小企業 2026年",
+    "Claude Code MCP integration tools productivity 2026",
+    "n8n MCP Claude workflow automation Japan 2026",
+    "マネーフォワード AI Cowork 発表 2026年4月",
+    "Claude Code powerup feature /powerup lessons Anthropic April 2026",
+    "Claude Code sub-agents hooks loop command features developers sharing 2026",
+    "国内AIエージェント動向 2026年4月 note",
+    "Claude Code hooks automation developer tips trending 2026",
+    "Claude Code remote tasks autonomous 24/7 developer workflow tips 2026"
   ],
   "x_api_queries_used": [],
   "total_posts_fetched": {
@@ -27,275 +25,253 @@
   },
   "relevant_trends": [
     {
-      "topic": "Anthropic、Claude Managed Agentsを正式ローンチ（2026-04-08）",
-      "why_relevant": "クラウド上でAIエージェントをホスト・スケーリングできるManaged Agentsがパブリックベータで公開。Notion・楽天・Asanaが初期ユーザー。開発期間を「数ヶ月→数週間」に短縮。ランタイム料金$0.08/エージェント時間。マルチエージェント機能（エージェントが他のエージェントを生成）もリサーチプレビュー。Brain-Hands分離アーキテクチャでp50 TTFTが60%短縮、p95 TTFTが90%以上短縮。Claude Code×n8nの自動化支援というこまの発信テーマど真ん中。",
-      "source": "https://siliconangle.com/2026/04/08/anthropic-launches-claude-managed-agents-speed-ai-agent-development/",
+      "topic": "Claude Code Remote Tasks（クラウドでAIが24時間自律稼働）",
+      "why_relevant": "2026年3月20日にAnthropicがRemote Tasksをリリース。GitHubリポジトリ+プロンプト+スケジュールを設定するだけで、ラップトップを閉じた状態でもClaude Codeがクラウド上で自律的にタスクを実行する。/scheduleでスケジュール、/loopでセッション内の繰り返し実行も可能。n8n自動化との組み合わせで無限に広がる可能性があり、Claude Code×n8nの主軸発信テーマに直結する。",
+      "source": "https://www.builder.io/blog/claude-code-updates",
       "source_type": "web_search",
       "region": "global"
     },
     {
-      "topic": "Claude Mythos Preview発表——Project Glasswingでサイバーセキュリティ防御に限定公開（2026-04-07）",
-      "why_relevant": "Anthropic史上最強モデルClaude Mythosが発表されたが一般公開なし。ゼロデイ脆弱性を自律発見する能力が強力すぎるため、Amazon・Apple・Microsoft・Google・CrowdStrike等に限定配布。Project Glasswingとして世界の重要ソフトウェアのセキュリティ確保に活用。「最強AIが公開されない理由」という逆説的な切り口が投稿ネタとして強い。",
-      "source": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "topic": "Claude Code Auto Mode（許可プロンプトを自律判断で省略）",
+      "why_relevant": "2026年3月24日リリース。Anthropicのデータによればユーザーの93%は許可プロンプトをそのまま承認している。Auto Modeはその現実に基づいた機能で、安全な操作は自動許可し、ファイル削除等のリスクある操作はブロックする。エージェント自律化の文脈で教育型投稿に最適。TechCrunch・SiliconAngle等が報道。",
+      "source": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
       "source_type": "web_search",
       "region": "global"
     },
     {
-      "topic": "OpenAI GPT-4oを完全引退、GPT-5.4が主力に（2026-04-03）",
-      "why_relevant": "GPT-4oが全プランから引退（4/3）。GPT-5.4がネイティブcomputer-use対応の主力モデルに。月間売上20億ドル、IPO準備中。GPT-5.5（コードネームSpud）がプリトレーニング完了でQ2ローンチ予想。Claude vs OpenAIの最新勢力図として解説ネタになる。",
-      "source": "https://www.aiandnews.com/blog/breaking-ai-news-april-2026/",
+      "topic": "Claude Code /powerup機能（ターミナル内インタラクティブ学習）",
+      "why_relevant": "2026年4月1日リリース（v2.1.90）。/powerupと打つだけでターミナル内でClaude Codeの機能をアニメーション付きで学べるチュートリアルが起動する。MCP・サブエージェント・フック・/loopコマンドなど高度な機能を全プラン無料で学べる。「使っているつもりで9割の機能を活かせていない問題」の解決策として発信ネタに最適。",
+      "source": "https://releasebot.io/updates/anthropic/claude-code",
       "source_type": "web_search",
       "region": "global"
     },
     {
-      "topic": "Claude Codeレートリミット急速消費問題＆トークン補填（2026-04-03）",
-      "why_relevant": "3月下旬からClaude Codeのトークンが急速消費される問題が多発。4/3にAnthropicがPro($20)・Max5x($100)・Max20x($200)のクレジット補填を発表（4/17まで要申請）。プロンプトキャッシュの不具合が原因。Claude Codeユーザーにとって実用的な情報として高い関心が見込める。",
-      "source": "https://blog.serverworks.co.jp/2026/04/03/083619",
+      "topic": "Claude Code April 2026アップデート（Amazon Bedrock統合・デフォルト作業強度をhighへ）",
+      "why_relevant": "v2.1.94でAmazon Bedrock対応が追加され、APIユーザー・チーム・Enterpriseのデフォルト作業強度がmediumからhighに変更。コスト最適化のキャッシュ戦略も改善。Slack連携のコンパクトヘッダーも更新。Claude Codeをビジネス利用している層に実用的な最新情報として発信できる。",
+      "source": "https://releasebot.io/updates/anthropic/claude-code",
+      "source_type": "web_search",
+      "region": "global"
+    },
+    {
+      "topic": "Claude Code Hooks（決定論的なワークフロー自動化）",
+      "why_relevant": "Claude CodeのHooks機能が開発者コミュニティで急速に広まっている。PostToolUseフックでClaude がファイルをEditするたびに自動でPrettier/Blackが走る。PreToolUseでプロジェクトルールを強制適用。「AIに頼みながら品質も担保したい」という開発者の需要に応える機能。n8nのワークフロー自動化の考え方と親和性が高く、「決定論的制御×AI」の文脈で発信できる。",
+      "source": "https://code.claude.com/docs/en/hooks-guide",
+      "source_type": "web_search",
+      "region": "global"
+    },
+    {
+      "topic": "n8n MCP連携でClaude Codeからn8nワークフローを自動構築",
+      "why_relevant": "n8nがMCP（Model Context Protocol）対応したことで、Claude Codeから直接n8nワークフローを構築・デプロイできるようになった。n8nの1,396ノードの知識をClaudeが持ち、自然言語でワークフロー設計からデプロイまで完結。「3時間のワイヤリングが10分の会話で完成」という具体的な効果が報告されている。自分の「Claude Code×n8n」という差別化軸に完全に合致するトレンド。",
+      "source": "https://github.com/czlonkowski/n8n-mcp",
+      "source_type": "web_search",
+      "region": "global"
+    },
+    {
+      "topic": "n8n 2026年アップデート群（HITL・AIワークフロービルダー・MCP対応）",
+      "why_relevant": "n8n 2.0（2025年12月）でEnterpriseグレードのセキュリティ・スケーラビリティを強化。Human-in-the-Loop機能（2026年1月）でエージェントの途中実行にhuman approvalを挿入可能に。AIワークフロービルダー（ベータ）で自然言語からワークフロー自動生成。MCP対応でClaudeやLovableから直接n8nを操作できる。n8nガチ勢としての発信軸と完全一致。",
+      "source": "https://blog.n8n.io/best-ai-workflow-automation-tools/",
+      "source_type": "web_search",
+      "region": "global"
+    },
+    {
+      "topic": "マネーフォワード AI Cowork発表（Claude Agent SDK採用、2026年4月7日）",
+      "why_relevant": "マネーフォワードがバックオフィス業務を自律実行するAIサービス「AI Cowork」を発表。AIオーケストレーターにClaude Agent SDKを採用し、自然言語の指示だけで請求書発行・支払管理・稟議承認等を処理。7月リリース予定で先行受付開始。国内大手がClaude Agent SDKを中核に採用した事実は、Claude Codeの国内普及という文脈で価値あるネタ。2030年までにAI関連ARR150億円超を目指すと表明。",
+      "source": "https://prtimes.jp/main/html/rd/p/000001613.000008962.html",
       "source_type": "web_search",
       "region": "japan"
     },
     {
-      "topic": "Google Gemini 3.1 Pro Previewリリース＆Gemma 4発表",
-      "why_relevant": "Gemini 3.1 Pro Previewが公開され、カスタムツール優先機能を搭載。Gemma 4（オープンモデル）も発表。AI Studioでエージェント開発が可能に。Claude・GPT・Geminiの三つ巴比較コンテンツに活用可能。",
-      "source": "https://blog.google/products/gemini/gemini-3/",
-      "source_type": "web_search",
-      "region": "global"
-    },
-    {
-      "topic": "Claude Codeがコーディングアシスタント市場で急成長——SWE-bench 80.8%でトップ",
-      "why_relevant": "JetBrains調査でClaude Codeの認知度57%・職場導入率18%に成長。SWE-bench 80.8%で性能トップ。GitHub Copilotの成長は鈍化（認知76%・導入29%で前年横ばい）。「AIコーディングツールのシェアが変わりつつある」というテーマで教育型投稿に最適。",
-      "source": "https://blog.jetbrains.com/research/2026/04/which-ai-coding-tools-do-developers-actually-use-at-work/",
-      "source_type": "web_search",
-      "region": "global"
-    },
-    {
-      "topic": "n8n Human-in-the-Loop機能＆AIワークフロービルダー（ベータ）",
-      "why_relevant": "n8nが2026年1月にHITL機能をリリース。エージェントの途中実行をhuman approvalで制御可能に。AIワークフロービルダー（ベータ）で自然言語からワークフロー自動生成。MCP対応（クライアント＆サーバー両方）も差別化ポイント。n8nガチ勢のこまの発信テーマと完全一致。",
-      "source": "https://docs.n8n.io/release-notes/",
-      "source_type": "web_search",
-      "region": "global"
-    },
-    {
-      "topic": "日本企業のAIエージェント本格導入——「検証」から「成果創出」フェーズへ",
-      "why_relevant": "SOMPOジャパンがノーコードAIエージェント基盤Heylix導入、ソフトバンクはAIで配送効率40%向上。生成AIツールの業務利用者は約9割、日常利用は約7割に。「AIの試用期間は2025年で終了、2026年は成果創出」という切り口。",
-      "source": "https://aismiley.co.jp/ai_news/ai-agent-example-business/",
+      "topic": "国内AIエージェント市場が「回答支援」から「業務代行」へシフト",
+      "why_relevant": "2026年4月の国内AIエージェント市場は「会話支援」から「業務代行」への移行が加速。大阪市×日立製作所で通勤届業務の最大40%時間短縮、横浜銀行でAIボイスボットが月1,600件の証明書発行依頼を自動完結（応対時間50%削減）、ぐるなびが訪日外国人向けAIエージェントアプリをリリース等、成果が定量で出始めている。フリーランス・個人事業主向けに「AIを業務に組み込む」ことを解説する文脈で活用できる。",
+      "source": "https://note.com/yasuhitoo/n/nb8f98f6b0764",
       "source_type": "web_search",
       "region": "japan"
     },
     {
-      "topic": "Anthropic、サードパーティツール利用を有料化（2026-04-04）",
-      "why_relevant": "4/4からClaude Code契約者がOpenClaw等のサードパーティツールを使う場合、別途課金に。AI業界全体で「プラットフォーム課金」のトレンドが加速。ユーザーへの実務的影響が大きく、解説投稿の需要あり。",
-      "source": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "topic": "生成AI導入企業の約55%が「試験導入」段階で止まっている実態",
+      "why_relevant": "2026年の国内調査で、生成AIを活用している企業約55.2%のうち多くが「試験導入」「一部業務での効率化」にとどまっており、業務フローへの本格組み込みはこれからという実態が判明。「使っているつもりだけど活かせていない」層への共感ネタ。n8nを使ったスモールスタートの具体的な突破口を示す自動化支援サービスの必要性を示す文脈で活用できる。",
+      "source": "https://enhanceit.jp/generative-ai-business-efficiency/",
       "source_type": "web_search",
-      "region": "global"
-    },
-    {
-      "topic": "Product Hunt 2026年4月：AIエージェント・コーディングツールのローンチラッシュ",
-      "why_relevant": "Cursor 3（並列エージェント＆マルチリポジトリ対応）、Baton（リモートコントロール）、Influci（AIインフルエンサーマーケティング）等が続々ローンチ。AIツール市場のトレンドマップとして投稿素材に。",
-      "source": "https://www.producthunt.com/categories/ai-coding-agents",
-      "source_type": "web_search",
-      "region": "global"
+      "region": "japan"
     }
   ],
   "competitor_insights": [
     {
-      "account": "@miyabi_foxx",
-      "observation": "「みやび｜AI最適ビジネス研究家」として活動。Nano Banana 2の完全攻略解説、Gemini 3.0の紹介、AI時短テクニック9選まとめ等、具体的なツール活用ハウツーを定期発信。「いいねで特典配布」型CTAを頻繁に使用。Note/Brain向けLP生成ツールの販促も活発。ビジュアル系コンテンツ（AI美女・ずんだもん動画）にも展開。",
-      "region": "japan",
+      "account": "@n8n_io",
+      "observation": "n8nがMCP対応を前面に押し出し、Claude・CursorなどのAIツールから直接n8nワークフローを構築できる点を訴求している。「AIに話しかけるだけでワークフローが完成する」というメッセージが核。2026年n8n 2.0でセキュリティ・スケーラビリティも強化済み。Human-in-the-Loop機能でガバナンス訴求も強化している。70以上のAIノードを保有。",
+      "region": "global",
       "top_post_metrics": {
-        "text_preview": "【総復習】今すぐ試せるAI時短テクニックを9個厳選してまとめてみました...",
-        "like_count": 0,
-        "retweet_count": 0,
-        "reply_count": 0
-      }
-    },
-    {
-      "account": "@masahirochaen",
-      "observation": "「チャエン｜デジライズCEO」として毎日AI速報を最速発信。OpenAI Codex App公開をいち早く報じ、「複数AIエージェント並列稼働」「1プロンプトで700万トークン処理しゲーム完成」等の具体的数値を盛り込んだ速報スタイル。要点を箇条書きでまとめる構成が特徴。",
-      "region": "japan",
-      "top_post_metrics": {
-        "text_preview": "【速報】OpenAIがCodex Appを公開 WebのUIで本格開発できる...",
-        "like_count": 0,
-        "retweet_count": 0,
-        "reply_count": 0
+        "text_preview": "n8n now connects to Claude, Cursor, and 20+ AI tools via MCP. Build workflows in plain English.",
+        "like_count": null,
+        "retweet_count": null,
+        "reply_count": null
       }
     },
     {
       "account": "@claudeai",
-      "observation": "Claude公式アカウント。Managed Agents・Mythos Preview・Sonnet 4.6等の一次情報源。4月はManagedAgents・サードパーティ課金・トークン補填と立て続けに重要発表。公式情報をいち早く日本語で解説することで差別化可能。",
+      "observation": "Auto Mode・Remote Tasks・/powerup・Computer Useなど新機能を毎週発表している。機能の動画デモや実際の使用例の共有が多い。開発者コミュニティからの反応（GitHub awesome-claude-code等）が活発で、エコシステム拡大の文脈で投稿が伸びやすいパターン。Amazon Bedrock統合・デフォルト作業強度引き上げ等のEnterpriseアップデートも継続中。",
       "region": "global",
       "top_post_metrics": {
-        "text_preview": "N/A (X API unavailable for metrics)",
-        "like_count": 0,
-        "retweet_count": 0,
-        "reply_count": 0
-      }
-    },
-    {
-      "account": "@n8n_io",
-      "observation": "n8n公式アカウント。2026年はHITL機能・AIワークフロービルダー（ベータ）・MCP対応が三大アップデート。ワークフロー数制限撤廃（実行数課金へ移行）で利用者拡大中。公式発表の日本語解説がニッチながら需要あり。",
-      "region": "global",
-      "top_post_metrics": {
-        "text_preview": "N/A (X API unavailable for metrics)",
-        "like_count": 0,
-        "retweet_count": 0,
-        "reply_count": 0
+        "text_preview": "Claude Code /powerup — interactive lessons teaching you Claude Code features with animated demos, right in your terminal.",
+        "like_count": null,
+        "retweet_count": null,
+        "reply_count": null
       }
     }
   ],
   "viral_factors": [
     {
-      "post_topic": "Claude Mythos Preview——「最強AIモデルが一般公開されない理由」",
-      "post_url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "post_topic": "Claude Code Auto Modeの93%承認率という逆説——「聞くのをやめた」",
+      "post_url": "https://siliconangle.com/2026/03/24/anthropic-unchains-claude-code-auto-mode-allowing-choose-permissions/",
       "region": "global",
       "metrics": {
-        "like_count": 0,
-        "retweet_count": 0,
-        "reply_count": 0,
-        "impression_count": 0
+        "like_count": null,
+        "retweet_count": null,
+        "reply_count": null,
+        "impression_count": null
       },
-      "why_viral": "「史上最強モデルなのに一般公開しない」という逆説的なストーリーがバズ要素。ゼロデイ脆弱性を自律発見できるAIの存在はSF的で好奇心を刺激する。Amazon・Apple・Microsoft等のビッグネームの参画が話題性を後押し。TechCrunch・Fortune・NBC News等主要メディアが一斉報道。",
-      "elements_to_steal": "「最強なのに公開できない」という逆説フックを冒頭に配置。具体的な企業名と数字を根拠として散りばめ、最後に「AIの倫理と安全性」という考察で締める構成。"
+      "why_viral": "「ユーザーの93%はそのまま承認している」という具体的な数字が「じゃあ最初から自動化すればいいじゃないか」というツッコミを誘発する構造になっている。問題提起→逆転発想→解決策の明快さ。開発者の共感ポイント（許可プロンプトの煩わしさ）をズバリ突いており、「あるある」共感とともに拡散されやすい。",
+      "elements_to_steal": "「実は○○%の人が○○している」という具体数値でフックを作り、「じゃあ最初から○○すればいい」という逆転発想で結論に繋げる構成。朝投稿の教育型フォーマットとして転用可能。"
     },
     {
-      "post_topic": "Claude Managed Agents——「AIエージェント開発が数ヶ月→数週間に」",
-      "post_url": "https://siliconangle.com/2026/04/08/anthropic-launches-claude-managed-agents-speed-ai-agent-development/",
+      "post_topic": "Claude Code×n8n MCPで「3時間の作業が10分になった」実体験",
+      "post_url": "https://www.roborhythms.com/claude-n8n-workflow-2026/",
       "region": "global",
       "metrics": {
-        "like_count": 0,
-        "retweet_count": 0,
-        "reply_count": 0,
-        "impression_count": 0
+        "like_count": null,
+        "retweet_count": null,
+        "reply_count": null,
+        "impression_count": null
       },
-      "why_viral": "エージェントが別のエージェントを生成するマルチエージェント機能がSF的で話題性高い。$0.08/時間という具体的料金が「自分でも使える」感を演出。楽天・Notionという日本でも馴染みのある企業の導入が国内ユーザーの関心を引く。",
-      "elements_to_steal": "「マルチエージェント」というパワーワードをフックに使い、具体的な料金と導入企業名で信頼性を担保。n8nとの連携可能性に触れることでこまの独自性を出す。"
+      "why_viral": "「3時間→10分」という具体的な時間削減の数値が視覚的インパクトを持つ。n8nとClaudeの両コミュニティに刺さる掛け算ネタ。「自分も試してみたい」という行動喚起が自然に起きる構造で、保存・フォロー両方を誘発しやすい。",
+      "elements_to_steal": "時間・コスト削減を「Before→After」の具体数字で示す構成。「Claude Code×n8n MCP」の実践例を朝投稿の教育型で出すと高エンゲージメントが期待できる。自分自身の実践者視点（n8nガチ勢）を活かすことで差別化が可能。"
     },
     {
-      "post_topic": "Claude Codeトークン急速消費問題＆補填クレジット配布",
-      "post_url": "https://blog.serverworks.co.jp/2026/04/03/083619",
+      "post_topic": "マネーフォワードがClaude Agent SDKを採用——「AIが同僚になる時代」の到来",
+      "post_url": "https://prtimes.jp/main/html/rd/p/000001613.000008962.html",
       "region": "japan",
       "metrics": {
-        "like_count": 0,
-        "retweet_count": 0,
-        "reply_count": 0,
-        "impression_count": 0
+        "like_count": null,
+        "retweet_count": null,
+        "reply_count": null,
+        "impression_count": null
       },
-      "why_viral": "Claude Codeユーザーの「あるある」痛みに直結するため共感を呼ぶ。具体的な補填金額（Pro $20、Max 5x $100等）と申請期限（4/17）が実用性高い。「自分も困ってた」「知らなかった」のリプライが見込め会話誘発型。",
-      "elements_to_steal": "「Claude Codeが急にトークン食い始めた原因、判明しました」という問題提起フック。補填の申請方法を具体的にステップで解説し、保存CTA。"
+      "why_viral": "「AIが同僚になる」というフレーズが感情的に引っかかる。国内大手がClaudeエコシステムを中核採用した事実が信頼性を高める。「7月から使える」という具体的な時期が行動喚起に繋がる。読者層の「AIを業務に使いたいが一歩踏み出せない」という心理に刺さる構造を持つ。",
+      "elements_to_steal": "「大手が採用したこと＝自分も使って良い時代」という安心感を提供するフレーミング。朝投稿の最新情報解説型で「Claude Agent SDKが国内大手にも採用された意味」を解説する切り口。"
     },
     {
-      "post_topic": "AIコーディングツール市場の勢力図が変化——Claude Code急成長、Copilot鈍化",
-      "post_url": "https://blog.jetbrains.com/research/2026/04/which-ai-coding-tools-do-developers-actually-use-at-work/",
+      "post_topic": "Claude Code Remote Tasks——「PCを閉じても仕事が進む」自律エージェントの現実",
+      "post_url": "https://plainenglish.io/artificial-intelligence/claude-code-s-scheduled-cloud-tasks-change-everything",
       "region": "global",
       "metrics": {
-        "like_count": 0,
-        "retweet_count": 0,
-        "reply_count": 0,
-        "impression_count": 0
+        "like_count": null,
+        "retweet_count": null,
+        "reply_count": null,
+        "impression_count": null
       },
-      "why_viral": "JetBrainsの大規模調査データに基づく具体的な数字が信頼性を担保。「Copilotの成長鈍化 vs Claude Codeの急成長」という対比構造が議論を呼ぶ。開発者の85%がAIツール利用、週3.6時間の時短効果という数字もインパクト大。",
-      "elements_to_steal": "具体的な数値の比較表形式で視覚的に訴求。「なぜClaude Codeが選ばれるのか」を自分の体験ベースで解説。"
+      "why_viral": "「ラップトップを閉じていても仕事が進む」という発想の転換がSF的な驚きを提供する。YAMLもcron構文もデプロイパイプラインも不要という敷居の低さが「自分でもできそう」という感情を引き出す。PlainEnglish.io等複数メディアが「Everything changed」「The Agentic Shift」等のキャッチーなタイトルで報じており、話題性が高い。",
+      "elements_to_steal": "「寝ている間に仕事が終わっていた」というインパクトのあるフックで掴み、具体的なセットアップ手順（GitHub連携→プロンプト→スケジュール）を短い箇条書きで示す構成。"
     }
   ],
   "topic_ideas": [
     {
-      "idea": "Claude Managed Agents徹底解説——AIエージェント開発が「数ヶ月→数週間」に短縮される新サービスの全貌",
-      "angle": "最新情報解説型。Managed Agentsの仕組み（Brain-Hands分離）・料金（$0.08/h）・マルチエージェント機能を解説。n8nとの連携で何が可能になるかをこまの実践視点で語る",
-      "trend_connection": "Claude Managed Agents (2026-04-08発表)",
-      "inspired_by": "Anthropic公式発表＋SiliconANGLE報道",
+      "idea": "Claude Code Remote Tasksで「PCを閉じても仕事が進む」自動化を作る方法",
+      "angle": "GitHubリポジトリ+プロンプト+スケジュールだけで24時間Claude Codeが動く仕組みを解説。n8nのMCPサーバーと組み合わせると無限に広がる可能性を示す。「寝ている間に仕事が終わっている」というインパクトのあるフックで掴む。YAMLもcron構文も不要という敷居の低さを強調。",
+      "trend_connection": "Claude Code Remote Tasks（2026年3月20日リリース）",
+      "inspired_by": "builder.io記事、computeleap.com記事、plainenglish.io記事",
       "import_potential": "high"
     },
     {
-      "idea": "Claude Mythos——「史上最強AIなのに公開できない」衝撃の理由",
-      "angle": "最新情報解説型 + ストーリー型。ゼロデイ脆弱性を自律発見できるAIの存在が投げかける問い。Project Glasswingの参画企業と目的を解説し、AI安全性についての考察で締める",
-      "trend_connection": "Claude Mythos Preview (2026-04-07発表)",
-      "inspired_by": "TechCrunch・Fortune・NBC News一斉報道",
+      "idea": "Claude Code Auto Modeは「93%がOKを押している現実」への答えだった",
+      "angle": "「Anthropicは93%の許可承認率というデータを見て、そもそも聞かなければいいと判断した」という逆転発想の話。単なる機能紹介ではなく「なぜこの機能が生まれたか」の背景を語る教育型投稿。具体的な数値フックと逆転発想の組み合わせが拡散されやすい。",
+      "trend_connection": "Claude Code Auto Mode（2026年3月24日リリース）",
+      "inspired_by": "TechCrunch記事、SiliconAngle記事",
       "import_potential": "high"
     },
     {
-      "idea": "Claude Codeのトークンが急に減り始めた人へ——原因と補填の受け取り方まとめ",
-      "angle": "実用型・保存推奨型。トークン急速消費の原因（プロンプトキャッシュ不具合）、補填金額（プラン別）、申請期限（4/17）、対策設定を網羅。ユーザーの痛みに寄り添う共感フック",
-      "trend_connection": "Claude Codeレートリミット問題（2026-03-23〜）",
-      "inspired_by": "サーバーワークスブログ + Anthropic公式発表",
-      "import_potential": "既に国内浸透"
-    },
-    {
-      "idea": "AIコーディングツールの勢力図が変わった——JetBrains調査で見えたClaude Code vs Copilotの現在地",
-      "angle": "データ駆動型解説。SWE-bench 80.8%（Claude Code）vs Copilot成長鈍化のデータを図解。開発者85%がAI活用、週3.6時間の時短効果。「使うべきはどっち？」の切り口",
-      "trend_connection": "AIコーディングアシスタント市場動向",
-      "inspired_by": "JetBrains Research Blog (2026/04)",
+      "idea": "Claude Code×n8n MCPで「ワークフロー設計からデプロイまで会話だけ」になった話",
+      "angle": "従来3時間かかっていたn8nワークフロー構築が10分で完成する具体的な流れを解説。「ノードを一つも触らずにデプロイできる」という驚きを見せる。自分の実践者視点（n8nガチ勢×Claude Code使い倒し）を活かした一次情報型コンテンツ。n8n-MCPで利用できる1,396ノードの意味を噛み砕いて説明。",
+      "trend_connection": "n8n MCP + Claude Code連携（2026年実用化）",
+      "inspired_by": "roborhythms.com記事、n8n-mcp.com、buildberg.co記事",
       "import_potential": "medium"
     },
     {
-      "idea": "n8nの2026年アップデートまとめ——HITL・AIワークフロービルダー・MCP対応で何が変わる",
-      "angle": "教育型。n8nの3大アップデートをこまの実践例とともに解説。「Dify×n8n」のベストプラクティスにも言及。ワークフロー数制限撤廃の実質的なメリットを具体例で",
-      "trend_connection": "n8n 2026年アップデート群",
-      "inspired_by": "n8n公式リリースノート＋DevelopersIO記事",
+      "idea": "マネーフォワードがClaude Agent SDKを採用した意味——AIは「道具」から「同僚」へ",
+      "angle": "国内大手がClaude Agent SDKをバックオフィス業務の中核に採用したことで、AIが「試験導入」から「本番運用」の時代に入ったことを示す。「じゃあ中小企業や個人事業主はどう動けばいいか」という実践的な示唆に繋げる。7月の一般リリースまでに何を準備すべきかを具体的に提示。",
+      "trend_connection": "マネーフォワード AI Cowork発表（2026年4月7日）、Claude Agent SDK",
+      "inspired_by": "prtimes.jp発表記事、businessinsider.jp、mynavi.jp",
+      "import_potential": "japan"
+    },
+    {
+      "idea": "/powerupコマンド——Claude Codeのすごい機能を9割のユーザーが知らない問題",
+      "angle": "ターミナルに/powerupと打つだけでアニメーション付きチュートリアルが起動する新機能を紹介。「使っているつもりで使えていない」状態からの脱却方法として、フック・サブエージェント・MCPの活用法へ導線を引く。全プラン無料という情報も付加価値として提示。",
+      "trend_connection": "Claude Code /powerup（2026年4月1日リリース v2.1.90）",
+      "inspired_by": "releasebot.io、claudefa.st記事、claudelab.net記事",
+      "import_potential": "high"
+    },
+    {
+      "idea": "生成AI導入企業の55%が「試験導入」で止まっている理由と突破口",
+      "angle": "「使っている」と「業務に組み込んでいる」は全然違う。どこで躓くのかの典型パターンを共感を起点に語り、n8nを使ったスモールスタートの具体的な突破口を示す。フリーランス・個人事業主が「自分にも使えそう」と思えるように書く。夕投稿の共感ストーリー型として構成。",
+      "trend_connection": "国内生成AI導入実態調査（2026年）",
+      "inspired_by": "enhanceit.jp記事、commercepick.com調査結果",
+      "import_potential": "japan"
+    },
+    {
+      "idea": "Claude Code Hooksで「AIが書いたコードを毎回フォーマットする」を完全自動化した",
+      "angle": "PostToolUseフックを使えば、ClaudeがファイルをEditするたびに自動でPrettier/Blackが走る仕組みを紹介。「AIに頼みながら品質も担保したい」開発者・エンジニアの痒いところに手が届く実践的な小ネタ系。Claude Codeの実践活用者としての発信で専門性をアピール。朝投稿の教育型として保存CTAと組み合わせる。",
+      "trend_connection": "Claude Code Hooks機能（開発者コミュニティで急拡大中）",
+      "inspired_by": "code.claude.com/docs、serenitiesai.com解説、dev.to記事",
       "import_potential": "medium"
-    },
-    {
-      "idea": "2026年4月のAI業界——GPT-4o引退、Mythos限定公開、Gemini 3.1、AI市場の今を一気読み",
-      "angle": "週次まとめ型。GPT-4o引退・Mythos限定公開・Managed Agents・Gemini 3.1・GPT-5.5準備中を一気に整理。「追いきれない人のための今週のAIまとめ」フォーマット",
-      "trend_connection": "複数トレンド統合",
-      "inspired_by": "各社の4月発表を横断",
-      "import_potential": "既に国内浸透"
-    },
-    {
-      "idea": "AIエージェントの導入、日本企業が本気になった——SOMPOの精度95%、ソフトバンクの配送効率40%向上",
-      "angle": "共感ストーリー型 + データ駆動型。「検証」から「成果創出」フェーズに移行した日本企業の具体的事例を紹介。「AI導入はもう実験じゃない」という切り口で個人事業主・フリーランスの背中を押す",
-      "trend_connection": "日本企業のAIエージェント本格導入",
-      "inspired_by": "AI Smiley調査 + JBpress分析",
-      "import_potential": "既に国内浸透"
     }
   ],
   "follower_growth_signals": [
     {
-      "post_topic": "Claude Code実用テクニック系（トークン節約・設定最適化）",
+      "post_topic": "Claude Code Auto Modeの93%承認率という具体数値フック",
       "signal_type": "expertise_showcase",
-      "pattern": "Claude Codeのトークン消費問題は多くのユーザーが経験する「痛み」。具体的な対策（effort調整、auto_compact設定、Sonnet切り替え等）を提示することで「この人をフォローすれば困った時に解決策がわかる」という信頼を構築。保存CTAとの相性が良い。",
+      "pattern": "「Anthropicが公表した93%という数値」を冒頭に持ってきて、「なぜこの機能が生まれたか」という背景を解説する構成。数値+背景解説の組み合わせは専門性を示しながら初心者にも刺さる。「自分が知らなかった事実を教えてくれた人をフォローしたい」心理を誘発する。",
       "evidence_metrics": {
-        "reply_to_like_ratio": 0,
-        "like_count": 0,
-        "reply_count": 0
-      },
-      "applicable_slot": "morning",
-      "applicable_cta": "save"
-    },
-    {
-      "post_topic": "AI業界の最新ニュース速報＋独自の考察",
-      "signal_type": "unique_perspective",
-      "pattern": "競合@masahirochaenが「速報→箇条書き要点」スタイルで成功。ただしこまの差別化ポイントは「n8n×Claude Codeの実践視点」。速報に自分の体験や見解を加えることで、単なるニュース転載と差別化できる。フォローCTAとの相性が良い。",
-      "evidence_metrics": {
-        "reply_to_like_ratio": 0,
-        "like_count": 0,
-        "reply_count": 0
+        "reply_to_like_ratio": null,
+        "like_count": null,
+        "reply_count": null
       },
       "applicable_slot": "morning",
       "applicable_cta": "follow"
     },
     {
-      "post_topic": "ツール比較・選定ガイド系（Claude Code vs Copilot等）",
+      "post_topic": "n8n×Claude Code MCP「3時間→10分」の具体的なBefore/After",
       "signal_type": "expertise_showcase",
-      "pattern": "JetBrains調査のようなデータに基づく比較コンテンツは保存率が高い。具体的な数字の比較は議論を誘発しやすく、reply_to_like_ratioが高くなる傾向。「結局どれを使えばいいの？」に自分の体験で答えることで専門性をアピール。",
+      "pattern": "具体的な時間数・作業数の削減を「Before→After」で示す構成。「どうやってやったの？」というリプライを誘発し、会話が発生しやすい。フォロー動機として「この人の他の実践例も見たい」という感情が生まれる。朝投稿で教育型＋save CTAが最適。",
       "evidence_metrics": {
-        "reply_to_like_ratio": 0,
-        "like_count": 0,
-        "reply_count": 0
+        "reply_to_like_ratio": null,
+        "like_count": null,
+        "reply_count": null
       },
       "applicable_slot": "morning",
       "applicable_cta": "save"
     },
     {
-      "post_topic": "AI活用の成功体験・失敗体験のストーリー",
+      "post_topic": "「試験導入で止まっている」実態への共感投稿（55%の壁）",
       "signal_type": "conversation_inducing",
-      "pattern": "「みんなも同じ経験してない？」型の投稿はリプライ率が高い。Claude Codeトークン問題の共感、n8n設定で苦労した話、AI導入で業務が変わった体験など。夕方スロットでreply CTAと組み合わせるとエンゲージメント最大化。",
+      "pattern": "「AIを導入したのに活かせていない」という失敗・挫折体験への共感を起点に、具体的な突破口を提示する構造。「あなたの話ですか？」と思わせるリプライ誘発型。夕方投稿でreply CTAが最適。フォロー動機として「この人は自分と同じ目線で話してくれる」という親近感が生まれる。",
       "evidence_metrics": {
-        "reply_to_like_ratio": 0,
-        "like_count": 0,
-        "reply_count": 0
+        "reply_to_like_ratio": null,
+        "like_count": null,
+        "reply_count": null
       },
       "applicable_slot": "evening",
       "applicable_cta": "reply"
+    },
+    {
+      "post_topic": "Claude Code /powerupコマンドの「知らなかった機能を発見する」ループ",
+      "signal_type": "unique_perspective",
+      "pattern": "「使っているつもりで9割の機能を使えていない」という痛点を刺すフック。/powerupで発見した具体的な機能名と「こんなことができたのか」という驚きの体験談を語る構成。「自分も試してみよう」という行動誘発と「もっと教えて」というフォロー動機を同時に生む。",
+      "evidence_metrics": {
+        "reply_to_like_ratio": null,
+        "like_count": null,
+        "reply_count": null
+      },
+      "applicable_slot": "morning",
+      "applicable_cta": "follow"
     }
   ],
   "recommended_hashtags": []
