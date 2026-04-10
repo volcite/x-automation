@@ -387,9 +387,9 @@ run_slot() {
     # post/history/ にスロット付きでアーカイブ
     cp post/data/approved_post.json "post/history/$(date +%Y-%m-%d)_${SLOT}.json"
 
-    # 朝スロットの場合: 解説動画を生成してGCSにアップロード
+    # 朝スロットの場合: GCS_BUCKET_NAME が設定されていれば解説動画を生成してGCSにアップロード
     local VIDEO_URL=""
-    if [ "$SLOT" = "morning" ]; then
+    if [ "$SLOT" = "morning" ] && [ -n "${GCS_BUCKET_NAME:-}" ]; then
       log "[${SLOT}] 解説動画の生成を開始します..."
       if bash scripts/pipeline_video.sh >> "$LOG_FILE" 2>&1; then
         VIDEO_URL=$(jq -r '.video_url // ""' data/video_result.json 2>/dev/null || echo "")
@@ -398,6 +398,8 @@ run_slot() {
         log "[${SLOT}] 解説動画生成失敗 ⚠️ 投稿は動画なしで送信します"
         VIDEO_URL=""
       fi
+    elif [ "$SLOT" = "morning" ]; then
+      log "[${SLOT}] GCS_BUCKET_NAME 未設定のため動画生成をスキップします"
     fi
 
     # Webhook送信
